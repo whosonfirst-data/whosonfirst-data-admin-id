@@ -1,0 +1,89 @@
+{
+  "id": 102019271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000029,
+    "geom:area_square_m":355681.904288,
+    "geom:bbox":"124.860256772,1.23037417743,124.869460476,1.24072052541",
+    "geom:latitude":1.234706,
+    "geom:longitude":124.865449,
+    "iso:country":"ID",
+    "lbl:latitude":1.232329,
+    "lbl:longitude":124.866612,
+    "mps:latitude":1.232329,
+    "mps:longitude":124.866612,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ind_x_preferred":[
+        "Remboken"
+    ],
+    "qs:a0":"Indonesia",
+    "qs:a1":"*Sulawesi Utara",
+    "qs:a1r":"*",
+    "qs:a2":"Minahasa",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Remboken",
+    "qs:loc_alt":"Remboken",
+    "qs:loc_lc":"1629741",
+    "qs:pop":0,
+    "qs:source":"Nquattroshapes",
+    "qs:type":"Town",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        0,
+        85632203,
+        85672081,
+        102073159,
+        102073387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1629741,
+        "gp:id":1042077,
+        "qs:id":1269051,
+        "qs_pg:id":1269051
+    },
+    "wof:country":"ID",
+    "wof:geomhash":"aa491d6a30189b19f895c5a890fffd6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":0,
+            "country_id":85632203,
+            "county_id":102073159,
+            "locality_id":102019271,
+            "region_id":85672081
+        },
+        {
+            "continent_id":0,
+            "country_id":85632203,
+            "county_id":102073387,
+            "locality_id":102019271,
+            "region_id":85672081
+        }
+    ],
+    "wof:id":102019271,
+    "wof:lastmodified":1497296755,
+    "wof:name":"Remboken",
+    "wof:parent_id":102073387,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.86025677181392,
+    1.23037417742995,
+    124.8694604756591,
+    1.2407205254125
+],
+  "geometry": {"coordinates":[[[[124.86511230500001,1.23586606933004],[124.86648559600003,1.23586606933004],[124.86785888699997,1.23586606933004],[124.86785888699997,1.23449309742001],[124.86785888700008,1.23312012479998],[124.868545372762,1.23312012479998],[124.8694604756591,1.23037417742995],[124.86511230500001,1.23037417742995],[124.86511230500001,1.23312012479998],[124.86511230500001,1.23449309742001],[124.86511230500001,1.23586606933004]]],[[[124.86511230500001,1.23586606933004],[124.86305284497492,1.23586606932996],[124.86025677181392,1.24052726880488],[124.86026748530462,1.2407094419754],[124.86045585958659,1.2407205254125],[124.86511230500001,1.23792600528226],[124.86511230500001,1.23586606933004]]]],"type":"MultiPolygon"}
+}

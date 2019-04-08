@@ -1,0 +1,80 @@
+{
+  "id": 1125313215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.896,-8.2206,124.896,-8.2206",
+    "geom:latitude":-8.2206,
+    "geom:longitude":124.896,
+    "gn:gn_country":"ID",
+    "gn:gn_fcode":"ADM4",
+    "gn:gn_pop":0,
+    "iso:country":"ID",
+    "lbl:latitude":-8.2206,
+    "lbl:longitude":124.896,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ind_x_preferred":[
+        "Desa Padang Panjang"
+    ],
+    "name:unk_x_variant":[
+        "Padang Panjang"
+    ],
+    "qs_pg:aaroncc":"ID",
+    "qs_pg:gn_country":"ID",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":8420595,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Desa Padang Panjang",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1246281,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        85672037,
+        102072777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8420595,
+        "qs_pg:id":1246281
+    },
+    "wof:country":"ID",
+    "wof:created":1497044128,
+    "wof:geomhash":"354340c3eb4a9e48e376397eaf29ade7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102072777,
+            "localadmin_id":1125313215,
+            "region_id":85672037
+        }
+    ],
+    "wof:id":1125313215,
+    "wof:lastmodified":1509387936,
+    "wof:name":"Desa Padang Panjang",
+    "wof:parent_id":102072777,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.896,
+    -8.2206,
+    124.896,
+    -8.2206
+],
+  "geometry": {"coordinates":[124.896,-8.2206],"type":"Point"}
+}

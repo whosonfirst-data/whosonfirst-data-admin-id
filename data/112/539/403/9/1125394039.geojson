@@ -1,0 +1,80 @@
+{
+  "id": 1125394039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.7653,-5.34,105.7653,-5.34",
+    "geom:latitude":-5.34,
+    "geom:longitude":105.7653,
+    "gn:gn_country":"ID",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":0,
+    "iso:country":"ID",
+    "lbl:latitude":-5.34,
+    "lbl:longitude":105.7653,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ind_x_preferred":[
+        "Kecamatan Labuhan Maringgai"
+    ],
+    "name:unk_x_variant":[
+        "Kecamatan Labuhan Meringgai"
+    ],
+    "qs_pg:aaroncc":"ID",
+    "qs_pg:gn_country":"ID",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7664975,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Kecamatan Labuhan Maringgai",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1041815,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        85672009,
+        102072615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7664975,
+        "qs_pg:id":1041815
+    },
+    "wof:country":"ID",
+    "wof:created":1497048893,
+    "wof:geomhash":"1a7e342ba7f1a1141f596f23d97f433f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102072615,
+            "localadmin_id":1125394039,
+            "region_id":85672009
+        }
+    ],
+    "wof:id":1125394039,
+    "wof:lastmodified":1509389890,
+    "wof:name":"Kecamatan Labuhan Maringgai",
+    "wof:parent_id":102072615,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.7653,
+    -5.34,
+    105.7653,
+    -5.34
+],
+  "geometry": {"coordinates":[105.7653,-5.34],"type":"Point"}
+}

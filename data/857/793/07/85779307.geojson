@@ -1,0 +1,111 @@
+{
+  "id": 85779307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000046,
+    "geom:area_square_m":563741.603019,
+    "geom:bbox":"106.810804532,-6.14141309638,106.8180045,-6.13236224714",
+    "geom:latitude":-6.136787,
+    "geom:longitude":106.814806,
+    "gn:latitude":-6.1353,
+    "gn:longitude":106.8168,
+    "iso:country":"ID",
+    "lbl:latitude":-6.135703,
+    "lbl:longitude":106.813422,
+    "mps:latitude":-6.137076,
+    "mps:longitude":106.815098,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":4,
+    "name:eng_x_preferred":[
+        "Pinangsia"
+    ],
+    "name:ind_x_preferred":[
+        "Pinangsia"
+    ],
+    "name:unk_x_variant":[
+        "Pinangsia"
+    ],
+    "qs:gn_adm0_cc":"ID",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":1642911,
+    "qs:gn_nam_loc":"Jakarta, Jakarta Raya, ID",
+    "qs:gn_namadm1":"04",
+    "qs:gn_name":"Pinangsia",
+    "qs:local_max":20589,
+    "qs:local_sum":67909,
+    "qs:localhoods":139,
+    "qs:name":"Pinangsia",
+    "qs:name_adm0":"Indonesia",
+    "qs:name_adm1":"Jakarta Raya",
+    "qs:name_local":"Jakarta",
+    "qs:photo_max":265,
+    "qs:photo_sum":2041,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":34,
+    "qs:woe_adm0":23424846,
+    "qs:woe_adm1":2345713,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":1047378,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85672001,
+        102191569,
+        85632203,
+        102021905,
+        102073177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1993537,
+        "gp:id":28327226,
+        "qs:id":1285251,
+        "qs_pg:id":1285251
+    },
+    "wof:country":"ID",
+    "wof:geomhash":"d9a065193e12df1764f2e223554eda6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102073177,
+            "locality_id":102021905,
+            "neighbourhood_id":85779307,
+            "region_id":85672001
+        }
+    ],
+    "wof:id":85779307,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1497311647,
+    "wof:name":"Pinangsia",
+    "wof:parent_id":102021905,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.8108045321564,
+    -6.14141309637584,
+    106.81800450025611,
+    -6.1323622471382
+],
+  "geometry": {"coordinates":[[[106.81732177700013,-6.1323622471382],[106.81732177700013,-6.13440644895989],[106.81800450025611,-6.13509310403234],[106.81755196653796,-6.13645853063478],[106.81800449851687,-6.13782394848984],[106.81732177700013,-6.13851060709182],[106.81732177700013,-6.14055478244995],[106.81732177700013,-6.14100727634893],[106.81611130521253,-6.14141309637584],[106.81525791477696,-6.14055478244995],[106.81457519500009,-6.14055478244995],[106.8118286130001,-6.14055478244995],[106.8118286130001,-6.13986812383767],[106.8118286130001,-6.13885393634715],[106.8108045321564,-6.13782394994823],[106.81121180860151,-6.1371412419699],[106.81134756895887,-6.13645853129239],[106.8118286130001,-6.13645853137287],[106.81251525884392,-6.13645853137393],[106.81251525883346,-6.13577581981322],[106.81251525885432,-6.13526477150289],[106.81234457791356,-6.13509310731247],[106.81245771171376,-6.134751750935],[106.81234457780511,-6.13441039400986],[106.81251525885432,-6.13423873004034],[106.81251525885176,-6.13372768005001],[106.81251525875012,-6.13361455073378],[106.81320190407826,-6.13338435124977],[106.81320190400004,-6.13236224859384],[106.81457519500009,-6.13236224798588],[106.81525792198676,-6.13236224798749],[106.81732177700013,-6.1323622471382]]],"type":"Polygon"}
+}

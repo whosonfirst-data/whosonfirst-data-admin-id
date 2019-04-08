@@ -1,0 +1,122 @@
+{
+  "id": 85768451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000292,
+    "geom:area_square_m":3589487.408066,
+    "geom:bbox":"106.83380127,-6.26069730159,106.854032451,-6.23339463922",
+    "geom:latitude":-6.247929,
+    "geom:longitude":106.841964,
+    "gn:latitude":-6.2489,
+    "gn:longitude":106.8382,
+    "iso:country":"ID",
+    "lbl:latitude":-6.243178,
+    "lbl:longitude":106.839402,
+    "mps:latitude":-6.250127,
+    "mps:longitude":106.842657,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":4,
+    "name:eng_x_preferred":[
+        "Pancoran"
+    ],
+    "name:eng_x_variant":[
+        "Pancoran Satu",
+        "Pantjoran"
+    ],
+    "name:ind_x_preferred":[
+        "Pancoran"
+    ],
+    "name:unk_x_variant":[
+        "Pantjoran",
+        "Pancoran"
+    ],
+    "qs:gn_adm0_cc":"ID",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":1642911,
+    "qs:gn_nam_loc":"Jakarta, Jakarta Raya, ID",
+    "qs:gn_namadm1":"04",
+    "qs:gn_name":"Pancoran",
+    "qs:local_max":20589,
+    "qs:local_sum":67909,
+    "qs:localhoods":139,
+    "qs:name":"Pancoran",
+    "qs:name_adm0":"Indonesia",
+    "qs:name_adm1":"Jakarta Raya",
+    "qs:name_local":"Jakarta",
+    "qs:photo_max":79,
+    "qs:photo_sum":228,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":16,
+    "qs:woe_adm0":23424846,
+    "qs:woe_adm1":2345713,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":1047378,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85672001,
+        102191569,
+        85632203,
+        102019579,
+        102072667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1632870,
+        "gp:id":1040029,
+        "qs:id":237123,
+        "qs_pg:id":237123
+    },
+    "wof:concordances_alt":{
+        "gp:id":56004797,
+        "qs:id":777043
+    },
+    "wof:country":"ID",
+    "wof:geomhash":"4ccdd4a4c3117a72ceaab4fb76828b6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102072667,
+            "locality_id":102019579,
+            "neighbourhood_id":85768451,
+            "region_id":85672001
+        }
+    ],
+    "wof:id":85768451,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1534379337,
+    "wof:name":"Pancoran",
+    "wof:parent_id":102019579,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        890499637
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.83380126975027,
+    -6.26069730158723,
+    106.8540324511589,
+    -6.23339463921612
+],
+  "geometry": {"coordinates":[[[106.83661320743482,-6.26069730158723],[106.83654785175014,-6.26069730158723],[106.83654785185007,-6.25523694160991],[106.83654785183347,-6.2497764461049],[106.83654785192198,-6.24568921619358],[106.83380126975027,-6.24476822214011],[106.8338012698502,-6.24431590784991],[106.83380126983349,-6.24158561143811],[106.83380126986685,-6.23885530500624],[106.83380126975027,-6.23840296274703],[106.83654785192198,-6.23748198309387],[106.83654785183336,-6.23476795463243],[106.83654785200008,-6.23339464631994],[106.83791304390803,-6.23339463968969],[106.84204101600011,-6.23339463921612],[106.84204101600011,-6.23748198321945],[106.84478759799998,-6.23840296266319],[106.8447875980001,-6.23885530553994],[106.84478759799998,-6.24158561143811],[106.8447875980001,-6.24431590562645],[106.84753418000014,-6.24431590577477],[106.84855805241881,-6.24534588745267],[106.84799465381468,-6.2470461840998],[106.84889934173606,-6.24977645322996],[106.84958192353514,-6.2518364254822],[106.8540324511589,-6.25631356174242],[106.85402639332528,-6.25633353174354],[106.85315321753512,-6.25796712874742],[106.84204101600011,-6.25796712874742],[106.83661320743482,-6.26069730158723]]],"type":"Polygon"}
+}

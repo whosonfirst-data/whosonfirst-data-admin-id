@@ -1,0 +1,82 @@
+{
+  "id": 102020659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000032,
+    "geom:area_square_m":391474.05417,
+    "geom:bbox":"106.899719238,-6.3344075884,106.907074366,-6.32826546853",
+    "geom:latitude":-6.331523,
+    "geom:longitude":106.903152,
+    "gn:latitude":-6.3431,
+    "gn:longitude":106.9065,
+    "iso:country":"ID",
+    "lbl:latitude":-6.331336,
+    "lbl:longitude":106.903152,
+    "mps:latitude":-6.331336,
+    "mps:longitude":106.903152,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ind_x_preferred":[
+        "Cilangkap"
+    ],
+    "name:unk_x_variant":[
+        "Tjilangkap"
+    ],
+    "qs:a0":"Indonesia",
+    "qs:a1":"*Jakarta Raya",
+    "qs:a1r":"*",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Cilangkap",
+    "qs:loc_alt":"Cilangkap",
+    "qs:loc_lc":"1646533",
+    "qs:pop":0,
+    "qs:source":"Nquattroshapes",
+    "qs:type":"Suburb",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        85672001,
+        102073493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1646533,
+        "gp:id":1031829,
+        "qs:id":388373
+    },
+    "wof:country":"ID",
+    "wof:geomhash":"290aa35debd65bba765ae664bddc7b1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102073493,
+            "locality_id":102020659,
+            "region_id":85672001
+        }
+    ],
+    "wof:id":102020659,
+    "wof:lastmodified":1501221291,
+    "wof:name":"Cilangkap",
+    "wof:parent_id":102073493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.89971923800003,
+    -6.33440758839998,
+    106.90707436610997,
+    -6.32826546853002
+],
+  "geometry": {"coordinates":[[[106.90316080836622,-6.32826546853002],[106.90383911125006,-6.32894793144997],[106.90521240200006,-6.32894793116292],[106.90707436610997,-6.32894792964751],[106.90688056615532,-6.33031285053502],[106.9069269279761,-6.33063937370299],[106.90589486947344,-6.33167776737004],[106.90521240200006,-6.33167776736995],[106.90521240200006,-6.33440758839998],[106.90246581999999,-6.33440758839998],[106.89971923800003,-6.33440758839998],[106.89971923800003,-6.33167776736995],[106.90109252900005,-6.33167776736995],[106.90109252925008,-6.33031285098745],[106.90040588400019,-6.32962199271651],[106.90040588400019,-6.32895212702276],[106.90041839267305,-6.32894793190002],[106.90109252900005,-6.32894793190002],[106.90246581999999,-6.32894793190002],[106.90246582050004,-6.32826546853002],[106.90316080836622,-6.32826546853002]]],"type":"Polygon"}
+}

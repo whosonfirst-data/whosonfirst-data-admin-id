@@ -1,0 +1,80 @@
+{
+  "id": 1125329533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.17611,-6.37861,108.17611,-6.37861",
+    "geom:latitude":-6.37861,
+    "geom:longitude":108.17611,
+    "gn:gn_country":"ID",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":0,
+    "iso:country":"ID",
+    "lbl:latitude":-6.37861,
+    "lbl:longitude":108.17611,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ind_x_preferred":[
+        "Kecamatan Losarang"
+    ],
+    "name:unk_x_variant":[
+        "Losarang"
+    ],
+    "qs_pg:aaroncc":"ID",
+    "qs_pg:gn_country":"ID",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6402358,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Kecamatan Losarang",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1037220,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        85671983,
+        102073193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6402358,
+        "qs_pg:id":1037220
+    },
+    "wof:country":"ID",
+    "wof:created":1497045049,
+    "wof:geomhash":"9609c5c3a687b17b3fa73a5453555f5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102073193,
+            "localadmin_id":1125329533,
+            "region_id":85671983
+        }
+    ],
+    "wof:id":1125329533,
+    "wof:lastmodified":1509388335,
+    "wof:name":"Kecamatan Losarang",
+    "wof:parent_id":102073193,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.17611,
+    -6.37861,
+    108.17611,
+    -6.37861
+],
+  "geometry": {"coordinates":[108.17610999999999,-6.37861],"type":"Point"}
+}

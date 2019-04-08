@@ -1,0 +1,80 @@
+{
+  "id": 1125410019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.3506,-1.4167,101.3506,-1.4167",
+    "geom:latitude":-1.4167,
+    "geom:longitude":101.3506,
+    "gn:gn_country":"ID",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":0,
+    "iso:country":"ID",
+    "lbl:latitude":-1.4167,
+    "lbl:longitude":101.3506,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ind_x_preferred":[
+        "Kecamatan Sangir"
+    ],
+    "name:unk_x_variant":[
+        "Sangir"
+    ],
+    "qs_pg:aaroncc":"ID",
+    "qs_pg:gn_country":"ID",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8458202,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Kecamatan Sangir",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1155807,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        85672087,
+        1108796965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8458202,
+        "qs_pg:id":1155807
+    },
+    "wof:country":"ID",
+    "wof:created":1497049935,
+    "wof:geomhash":"5b4b58f4febdebfe71287655446c9c7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":1108796965,
+            "localadmin_id":1125410019,
+            "region_id":85672087
+        }
+    ],
+    "wof:id":1125410019,
+    "wof:lastmodified":1509390236,
+    "wof:name":"Kecamatan Sangir",
+    "wof:parent_id":1108796965,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.3506,
+    -1.4167,
+    101.3506,
+    -1.4167
+],
+  "geometry": {"coordinates":[101.3506,-1.4167],"type":"Point"}
+}

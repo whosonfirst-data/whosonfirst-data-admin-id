@@ -1,0 +1,84 @@
+{
+  "id": 1125774991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.1387,-5.60075,105.1387,-5.60075",
+    "geom:latitude":-5.60075,
+    "geom:longitude":105.1387,
+    "gn:gn_country":"ID",
+    "gn:gn_fcode":"PPLA3",
+    "gn:gn_pop":0,
+    "iso:country":"ID",
+    "lbl:latitude":-5.60075,
+    "lbl:longitude":105.1387,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ind_x_preferred":[
+        "Padangcermin"
+    ],
+    "name:unk_x_variant":[
+        "Padangtjermin"
+    ],
+    "qs_pg:aaroncc":"ID",
+    "qs_pg:gn_country":"ID",
+    "qs_pg:gn_fcode":"PPLA3",
+    "qs_pg:gn_id":1633390,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Padangcermin",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1026975,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        85672009,
+        1108796809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1633390,
+        "qs_pg:id":1026975
+    },
+    "wof:country":"ID",
+    "wof:created":1497290220,
+    "wof:geomhash":"341c8dc94718f0ea90cfa7ceb60d1be1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":1108796809,
+            "locality_id":1125774991,
+            "region_id":85672009
+        }
+    ],
+    "wof:id":1125774991,
+    "wof:lastmodified":1534379339,
+    "wof:name":"Padangcermin",
+    "wof:parent_id":1108796809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[
+        102019631
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.1387,
+    -5.60075,
+    105.1387,
+    -5.60075
+],
+  "geometry": {"coordinates":[105.1387,-5.60075],"type":"Point"}
+}

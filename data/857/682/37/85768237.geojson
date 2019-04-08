@@ -1,0 +1,110 @@
+{
+  "id": 85768237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.00023,
+    "geom:area_square_m":2826590.243358,
+    "geom:bbox":"106.853027344,-6.18015824311,106.869506836,-6.1589835208",
+    "geom:latitude":-6.170122,
+    "geom:longitude":106.861182,
+    "iso:country":"ID",
+    "lbl:latitude":-6.168909,
+    "lbl:longitude":106.861352,
+    "mps:latitude":-6.170112,
+    "mps:longitude":106.861182,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":4,
+    "name:eng_x_preferred":[
+        "Cempakaputih"
+    ],
+    "name:eng_x_variant":[
+        "Cempakaputih Dua",
+        "Tjempakapoetih 1",
+        "Tjempakaputih"
+    ],
+    "name:unk_x_variant":[
+        "Cempakaputih"
+    ],
+    "qs:gn_adm0_cc":"ID",
+    "qs:gn_id":0,
+    "qs:gn_local":1642911,
+    "qs:gn_nam_loc":"Jakarta, Jakarta Raya, ID",
+    "qs:gn_namadm1":"04",
+    "qs:id":0,
+    "qs:local_max":20589,
+    "qs:local_sum":67909,
+    "qs:localhoods":139,
+    "qs:name":"Cempakaputih",
+    "qs:name_adm0":"Indonesia",
+    "qs:name_adm1":"Jakarta Raya",
+    "qs:name_local":"Jakarta",
+    "qs:photo_max":89,
+    "qs:photo_sum":171,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":10,
+    "qs:woe_adm0":23424846,
+    "qs:woe_adm1":2345713,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":1047378,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85672001,
+        102191569,
+        85632203,
+        102021905,
+        102073177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1031242
+    },
+    "wof:country":"ID",
+    "wof:geomhash":"b62900093f035c59a6fc20a787a014ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102073177,
+            "locality_id":102021905,
+            "neighbourhood_id":85768237,
+            "region_id":85672001
+        }
+    ],
+    "wof:id":85768237,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1534985951,
+    "wof:name":"Cempakaputih",
+    "wof:parent_id":102021905,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[
+        1175612763
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.85302734400017,
+    -6.18015824310903,
+    106.86950683600014,
+    -6.1589835208021
+],
+  "geometry": {"coordinates":[[[106.86382716998202,-6.1625566499328],[106.86809393730476,-6.16513159059988],[106.86950683600014,-6.16513159059988],[106.86950683600014,-6.16786231589999],[106.86950683600014,-6.17195033277612],[106.86950683600014,-6.17332365401995],[106.8667602540001,-6.17332365401995],[106.8667602540001,-6.17605429976156],[106.86401367200023,-6.17605429976156],[106.86401367200028,-6.17878493582994],[106.86401367200028,-6.18015824310903],[106.86126709000024,-6.17923736393026],[106.85852050800008,-6.18015824310903],[106.85715518192904,-6.17878493582994],[106.85444041410341,-6.17605429844244],[106.85302734400017,-6.1752015028387],[106.85302734400017,-6.17198223529878],[106.85440855843746,-6.17059297440481],[106.85518424136603,-6.16513162222721],[106.85509123581875,-6.16447679453567],[106.85715511897587,-6.16240092152991],[106.85852050800008,-6.16102760046371],[106.86055278144528,-6.1589835208021],[106.8618028208997,-6.15916313449428],[106.86382716998202,-6.1625566499328]]],"type":"Polygon"}
+}

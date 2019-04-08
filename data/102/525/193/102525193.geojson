@@ -1,0 +1,96 @@
+{
+  "id": 102525193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.258003,3.34812,106.258003,3.34812",
+    "geom:latitude":3.34812,
+    "geom:longitude":106.258003,
+    "iso:country":"ID",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Matak Airport"
+    ],
+    "name:eng_x_variant":[
+        "MWK",
+        "WIOM"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Matak"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan terbang Matak"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0645\u0627\u062a\u0627\u06a9"
+    ],
+    "name:swe_x_preferred":[
+        "Tarempa Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043c\u043e\u0442\u043e\u043a"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay Matak"
+    ],
+    "oa:elevation_ft":"10",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12589459,
+        "planet_id":1,
+        "state_id":2347592
+    },
+    "wof:belongsto":[
+        85672049,
+        102191569,
+        85632203,
+        102019817,
+        1108796803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12521050,
+        "iata:code":"MWK",
+        "icao:code":"WIOM",
+        "oa:id":"26845",
+        "wd:id":"Q651354"
+    },
+    "wof:country":"ID",
+    "wof:geomhash":"014ad422cfea5cc811a69ee47b6a2aca",
+    "wof:hierarchy":[
+        {
+            "campus_id":102525193,
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":1108796803,
+            "locality_id":102019817,
+            "region_id":85672049
+        }
+    ],
+    "wof:id":102525193,
+    "wof:lastmodified":1514449673,
+    "wof:name":"Mt Airy-Surry County Airport",
+    "wof:parent_id":102019817,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    106.258003,
+    3.34812,
+    106.258003,
+    3.34812
+],
+  "geometry": {"coordinates":[106.258003,3.34812],"type":"Point"}
+}

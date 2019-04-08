@@ -1,0 +1,80 @@
+{
+  "id": 1125379987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.9352,-1.1628,101.9352,-1.1628",
+    "geom:latitude":-1.1628,
+    "geom:longitude":101.9352,
+    "gn:gn_country":"ID",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":0,
+    "iso:country":"ID",
+    "lbl:latitude":-1.1628,
+    "lbl:longitude":101.9352,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ind_x_preferred":[
+        "Kecamatan Tebo Ulu"
+    ],
+    "name:unk_x_variant":[
+        "Tebo Ulu"
+    ],
+    "qs_pg:aaroncc":"ID",
+    "qs_pg:gn_country":"ID",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8458185,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Kecamatan Tebo Ulu",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1063934,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        85672059,
+        102072821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8458185,
+        "qs_pg:id":1063934
+    },
+    "wof:country":"ID",
+    "wof:created":1497047987,
+    "wof:geomhash":"65fd0de45dc90bb2a7a35a182d3035c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102072821,
+            "localadmin_id":1125379987,
+            "region_id":85672059
+        }
+    ],
+    "wof:id":1125379987,
+    "wof:lastmodified":1509389552,
+    "wof:name":"Kecamatan Tebo Ulu",
+    "wof:parent_id":102072821,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.9352,
+    -1.1628,
+    101.9352,
+    -1.1628
+],
+  "geometry": {"coordinates":[101.93519999999999,-1.1628],"type":"Point"}
+}

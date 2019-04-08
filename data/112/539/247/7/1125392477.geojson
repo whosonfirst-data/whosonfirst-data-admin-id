@@ -1,0 +1,80 @@
+{
+  "id": 1125392477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.5725,-7.0542,109.5725,-7.0542",
+    "geom:latitude":-7.0542,
+    "geom:longitude":109.5725,
+    "gn:gn_country":"ID",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":0,
+    "iso:country":"ID",
+    "lbl:latitude":-7.0542,
+    "lbl:longitude":109.5725,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ind_x_preferred":[
+        "Kecamatan Kajen"
+    ],
+    "name:unk_x_variant":[
+        "Kajen"
+    ],
+    "qs_pg:aaroncc":"ID",
+    "qs_pg:gn_country":"ID",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6792060,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Kecamatan Kajen",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1039043,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        85671987,
+        102072647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6792060,
+        "qs_pg:id":1039043
+    },
+    "wof:country":"ID",
+    "wof:created":1497048789,
+    "wof:geomhash":"4ae471e3b22e911386561b538fb76935",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102072647,
+            "localadmin_id":1125392477,
+            "region_id":85671987
+        }
+    ],
+    "wof:id":1125392477,
+    "wof:lastmodified":1509389854,
+    "wof:name":"Kecamatan Kajen",
+    "wof:parent_id":102072647,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.5725,
+    -7.0542,
+    109.5725,
+    -7.0542
+],
+  "geometry": {"coordinates":[109.57250000000001,-7.0542],"type":"Point"}
+}

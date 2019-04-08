@@ -1,0 +1,86 @@
+{
+  "id": 102021279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000116,
+    "geom:area_square_m":1419171.256281,
+    "geom:bbox":"112.560261249,-7.90691161647,112.571411133,-7.89602959327",
+    "geom:latitude":-7.901338,
+    "geom:longitude":112.56576,
+    "gn:latitude":-7.9088,
+    "gn:longitude":112.5541,
+    "iso:country":"ID",
+    "lbl:latitude":-7.901248,
+    "lbl:longitude":112.565686,
+    "mps:latitude":-7.901248,
+    "mps:longitude":112.565686,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ind_x_preferred":[
+        "Junrejo"
+    ],
+    "name:unk_x_variant":[
+        "Djunredjo"
+    ],
+    "qs:a0":"Indonesia",
+    "qs:a1":"*Jawa Timur",
+    "qs:a1r":"*",
+    "qs:a2":"Batu",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Junrejo",
+    "qs:loc_alt":"Junrejo",
+    "qs:loc_lc":"1972124",
+    "qs:pop":0,
+    "qs:source":"Nquattroshapes",
+    "qs:type":"Town",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        85672027,
+        102073201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1972124,
+        "gp:id":56011618,
+        "qs:id":1187525,
+        "qs_pg:id":1187525
+    },
+    "wof:country":"ID",
+    "wof:geomhash":"2041e99e18be86e2061386622ca66f10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102073201,
+            "locality_id":102021279,
+            "region_id":85672027
+        }
+    ],
+    "wof:id":102021279,
+    "wof:lastmodified":1497295594,
+    "wof:name":"Junrejo",
+    "wof:parent_id":102073201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    112.56026124887076,
+    -7.90691161647001,
+    112.57141113299998,
+    -7.89602959326996
+],
+  "geometry": {"coordinates":[[[112.56317138699997,-7.90691161647001],[112.56042480500001,-7.90691161647001],[112.56042480500001,-7.90419113756005],[112.56042480500001,-7.90147064073001],[112.56042480500001,-7.89941061335368],[112.56026124887076,-7.89891524421633],[112.5604248050001,-7.89875012372003],[112.56042480500001,-7.89602959326996],[112.56317138699997,-7.89602959326996],[112.56591796900004,-7.89602959326996],[112.57141113299998,-7.89602959326996],[112.57141113299998,-7.90147064073001],[112.57141113299998,-7.90419113756005],[112.57003784200005,-7.90419113756005],[112.57003784200005,-7.90555137926003],[112.57003784200005,-7.90691161647001],[112.568664551,-7.90691161647001],[112.56729126000006,-7.90691161647001],[112.56591796900004,-7.90691161647001],[112.56317138699997,-7.90691161647001]]],"type":"Polygon"}
+}

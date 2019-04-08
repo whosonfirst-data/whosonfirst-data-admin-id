@@ -1,0 +1,76 @@
+{
+  "id": 1343313741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.29169,0.5373,103.29169,0.5373",
+    "geom:latitude":0.5373,
+    "geom:longitude":103.29169,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Bandung",
+    "gn:country_code":"ID",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1650358,
+    "gn:latitude":0.5373,
+    "gn:longitude":103.29169,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Bandung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jakarta",
+    "iso:country":"ID",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043d\u0434\u0443\u043d\u0433"
+    ],
+    "name:und_x_variant":[
+        "Blandong",
+        "Bandong",
+        "Bandoeng",
+        "Bandung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        85672077,
+        1108796921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1650358
+    },
+    "wof:country":"ID",
+    "wof:geomhash":"3fd302bc434b3ccaf93f21f016b2f9b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":1108796921,
+            "locality_id":1343313741,
+            "region_id":85672077
+        }
+    ],
+    "wof:id":1343313741,
+    "wof:lastmodified":1537627346,
+    "wof:name":"Bandung",
+    "wof:parent_id":1108796921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.29169,
+    0.5373,
+    103.29169,
+    0.5373
+],
+  "geometry": {"coordinates":[103.29169,0.5373],"type":"Point"}
+}

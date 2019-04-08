@@ -1,0 +1,80 @@
+{
+  "id": 1125398009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.8391,-8.4211,114.8391,-8.4211",
+    "geom:latitude":-8.4211,
+    "geom:longitude":114.8391,
+    "gn:gn_country":"ID",
+    "gn:gn_fcode":"ADM4",
+    "gn:gn_pop":0,
+    "iso:country":"ID",
+    "lbl:latitude":-8.4211,
+    "lbl:longitude":114.8391,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ind_x_preferred":[
+        "Desa Pekutatan"
+    ],
+    "name:unk_x_variant":[
+        "Pekutatan"
+    ],
+    "qs_pg:aaroncc":"ID",
+    "qs_pg:gn_country":"ID",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":7553258,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Desa Pekutatan",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1041779,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        85672023,
+        102073261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7553258,
+        "qs_pg:id":1041779
+    },
+    "wof:country":"ID",
+    "wof:created":1497049136,
+    "wof:geomhash":"d51ed4ac51e4a8c91a2e2e3542871738",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102073261,
+            "localadmin_id":1125398009,
+            "region_id":85672023
+        }
+    ],
+    "wof:id":1125398009,
+    "wof:lastmodified":1509389991,
+    "wof:name":"Desa Pekutatan",
+    "wof:parent_id":102073261,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.8391,
+    -8.4211,
+    114.8391,
+    -8.4211
+],
+  "geometry": {"coordinates":[114.8391,-8.4211],"type":"Point"}
+}

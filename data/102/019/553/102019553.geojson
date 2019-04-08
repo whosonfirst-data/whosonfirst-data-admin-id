@@ -1,0 +1,109 @@
+{
+  "id": 102019553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000253,
+    "geom:area_square_m":3129645.309104,
+    "geom:bbox":"101.971616225,0.183225389458,101.989565342,0.201295371429",
+    "geom:latitude":0.19226,
+    "geom:longitude":101.980591,
+    "iso:country":"ID",
+    "lbl:latitude":0.19226,
+    "lbl:longitude":101.980591,
+    "mps:latitude":0.19226,
+    "mps:longitude":101.980591,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ace_x_preferred":[
+        "Pangkalan Bunut"
+    ],
+    "name:dut_x_preferred":[
+        "Pangkalan Bunut"
+    ],
+    "name:eng_x_preferred":[
+        "Pangkalan Bunut"
+    ],
+    "name:fre_x_preferred":[
+        "Pangkalan Bunut"
+    ],
+    "name:ger_x_preferred":[
+        "Pangkalan Bunut"
+    ],
+    "name:ind_x_preferred":[
+        "Pangkalan Bunut"
+    ],
+    "name:may_x_preferred":[
+        "Pangkalan Bunut"
+    ],
+    "name:min_x_preferred":[
+        "Pangkalan Bunut"
+    ],
+    "name:por_x_preferred":[
+        "Pangkalan Bunut"
+    ],
+    "name:spa_x_preferred":[
+        "Pangkalan Bunut"
+    ],
+    "name:unk_x_variant":[
+        "Boenoet"
+    ],
+    "qs:a0":"Indonesia",
+    "qs:a1":"*Riau",
+    "qs:a1r":"*",
+    "qs:a2":"Pelalawan",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Pangkalanbunut",
+    "qs:loc_alt":"Pangkalanbunut",
+    "qs:loc_lc":"1632695",
+    "qs:pop":0,
+    "qs:source":"Nquattroshapes",
+    "qs:type":"Town",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        85672077,
+        1108796921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1632695,
+        "gp:id":1040148,
+        "qs:id":133686,
+        "wd:id":"Q13544956"
+    },
+    "wof:country":"ID",
+    "wof:geomhash":"b4587c8ab750789d4a162aa579ac8dc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":1108796921,
+            "locality_id":102019553,
+            "region_id":85672077
+        }
+    ],
+    "wof:id":102019553,
+    "wof:lastmodified":1514449843,
+    "wof:name":"Pangkalanbunut",
+    "wof:parent_id":1108796921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.9716162245637,
+    0.1832253894579,
+    101.98956534154372,
+    0.20129537142908
+],
+  "geometry": {"coordinates":[[[101.98234016465405,0.18339870041621],[101.98058928869598,0.1832253894579],[101.97883846738752,0.18339928796843],[101.97715498403291,0.18391371474969],[101.97560353477967,0.1847489020634],[101.97424374225524,0.18587275508258],[101.97312786410525,0.18724208513335],[101.97229878452062,0.18880426935658],[101.97178836597702,0.19049927301685],[101.9716162245637,0.19226195673592],[101.97178897599856,0.19402457996622],[101.97229998132549,0.19571940446457],[101.97312960207974,0.19728129768068],[101.97424595510459,0.19865023597698],[101.97560613800069,0.19977361144848],[101.97715787808006,0.20060825367244],[101.97884154142265,0.20112208868396],[101.98059242479046,0.20129537142908],[101.98234324228982,0.20112144435315],[101.98402671119665,0.20060699300309],[101.98557813756322,0.19977178885752],[101.98693790224594,0.19864792930605],[101.98805375183814,0.19727860401689],[101.98888280649639,0.19571643512424],[101.98939320754006,0.19402145502974],[101.98956534154372,0.19225879952383],[101.989392593918,0.19049620485886],[101.98888160303854,0.18880140492939],[101.98805200517124,0.18723952854508],[101.98693567998801,0.18587059678113],[101.98557552564979,0.18474721654812],[101.98402381049662,0.18391255899348],[101.98234016465405,0.18339870041621]]],"type":"Polygon"}
+}

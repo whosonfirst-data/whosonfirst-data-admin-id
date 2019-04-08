@@ -1,0 +1,80 @@
+{
+  "id": 1126015507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.36276,-3.35337,128.36276,-3.35337",
+    "geom:latitude":-3.35337,
+    "geom:longitude":128.36276,
+    "gn:gn_country":"ID",
+    "gn:gn_fcode":"PPLA3",
+    "gn:gn_pop":0,
+    "iso:country":"ID",
+    "lbl:latitude":-3.35337,
+    "lbl:longitude":128.36276,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ind_x_preferred":[
+        "Kairatu"
+    ],
+    "name:unk_x_variant":[
+        "Kairatoe"
+    ],
+    "qs_pg:aaroncc":"ID",
+    "qs_pg:gn_country":"ID",
+    "qs_pg:gn_fcode":"PPLA3",
+    "qs_pg:gn_id":1642125,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Kairatu",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":247603,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        85672097,
+        1108796839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1642125,
+        "qs_pg:id":247603
+    },
+    "wof:country":"ID",
+    "wof:created":1497300523,
+    "wof:geomhash":"b9ce8e75ea2ec8ba720c5108d10a4f90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":1108796839,
+            "locality_id":1126015507,
+            "region_id":85672097
+        }
+    ],
+    "wof:id":1126015507,
+    "wof:lastmodified":1509406897,
+    "wof:name":"Kairatu",
+    "wof:parent_id":1108796839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.36276,
+    -3.35337,
+    128.36276,
+    -3.35337
+],
+  "geometry": {"coordinates":[128.36276000000001,-3.35337],"type":"Point"}
+}

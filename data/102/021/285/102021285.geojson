@@ -1,0 +1,89 @@
+{
+  "id": 102021285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000136,
+    "geom:area_square_m":1664088.96592,
+    "geom:bbox":"110.508741658,-7.39904770501,110.526320828,-7.3815339747",
+    "geom:latitude":-7.390055,
+    "geom:longitude":110.517317,
+    "gn:country":"ID",
+    "gn:fcode":"PPL",
+    "gn:latitude":-7.41861,
+    "gn:longitude":110.52889,
+    "gn:pop":0,
+    "gp:adm0":23424846,
+    "iso:country":"ID",
+    "lbl:latitude":-7.389705,
+    "lbl:longitude":110.516968,
+    "mps:latitude":-7.389705,
+    "mps:longitude":110.516968,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Tengaren"
+    ],
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Tengaran",
+    "qs:loc_lc":"1973163",
+    "qs:name":"Tengaran",
+    "qs:name_adm0":"Indonesia",
+    "qs:name_adm1":"Provinsi Jawa Tengah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop":0,
+    "qs:pop_sr":"0",
+    "qs:source":"Nquattroshapes",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        85671987,
+        102072709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1624117,
+        "gp:id":1045455,
+        "qs:id":1158024
+    },
+    "wof:country":"ID",
+    "wof:geomhash":"7aa150c221dc90534eac492e22f71d94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102072709,
+            "locality_id":102021285,
+            "region_id":85671987
+        }
+    ],
+    "wof:id":102021285,
+    "wof:lastmodified":1505338972,
+    "wof:name":"Tengaran",
+    "wof:parent_id":102072709,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.5087416576393,
+    -7.39904770501475,
+    110.52632082780569,
+    -7.38153397469507
+],
+  "geometry": {"coordinates":[[[[110.52246093700005,-7.39515290713996],[110.52518480733254,-7.39515290714006],[110.52632082780569,-7.39858949120627],[110.52631518656302,-7.39858893052197],[110.52611480597331,-7.39883213915822],[110.52587483277402,-7.39902830717969],[110.52587672574852,-7.39904770501475],[110.52246093700005,-7.39789955147052],[110.52246093700005,-7.39515290713996]]],[[[110.52246093700005,-7.39515290713996],[110.51696777300002,-7.39515290713996],[110.51147460900008,-7.39515290713996],[110.51147460900008,-7.38970540130998],[110.51147460900008,-7.38425782831],[110.51696777300002,-7.38425782831],[110.52246093700005,-7.38425782831],[110.52246093700005,-7.38970540130998],[110.52246093700005,-7.39515290713996]]],[[[110.51147460900008,-7.38425782831],[110.50875075011088,-7.38425782831],[110.50874165763931,-7.38423032227007],[110.50961333465601,-7.38247238885283],[110.51147460900008,-7.38153397469507],[110.51147460900008,-7.38425782831]]]],"type":"MultiPolygon"}
+}

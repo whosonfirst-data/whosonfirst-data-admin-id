@@ -1,0 +1,108 @@
+{
+  "id": 85779291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000244,
+    "geom:area_square_m":3002629.662638,
+    "geom:bbox":"106.792602539,-6.21428189175,106.814575195,-6.19309236912",
+    "geom:latitude":-6.203207,
+    "geom:longitude":106.804362,
+    "gn:latitude":-6.20139,
+    "gn:longitude":106.80167,
+    "iso:country":"ID",
+    "lbl:latitude":-6.204895,
+    "lbl:longitude":106.804605,
+    "mps:latitude":-6.201362,
+    "mps:longitude":106.803614,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":4,
+    "name:eng_x_preferred":[
+        "Pejompongan"
+    ],
+    "name:unk_x_variant":[
+        "Pejompongan"
+    ],
+    "qs:gn_adm0_cc":"ID",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":1642911,
+    "qs:gn_nam_loc":"Jakarta, Jakarta Raya, ID",
+    "qs:gn_namadm1":"04",
+    "qs:gn_name":"Pejompongan",
+    "qs:local_max":20589,
+    "qs:local_sum":67909,
+    "qs:localhoods":139,
+    "qs:name":"Pejompongan",
+    "qs:name_adm0":"Indonesia",
+    "qs:name_adm1":"Jakarta Raya",
+    "qs:name_local":"Jakarta",
+    "qs:photo_max":50,
+    "qs:photo_sum":270,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":16,
+    "qs:woe_adm0":23424846,
+    "qs:woe_adm1":2345713,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":1047378,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85672001,
+        0,
+        85632203,
+        102021905,
+        102073177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1958986,
+        "gp:id":28326623,
+        "qs:id":488381,
+        "qs_pg:id":488381
+    },
+    "wof:country":"ID",
+    "wof:geomhash":"cac6f88aba78601ccc58771644917c49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102073177,
+            "locality_id":102021905,
+            "neighbourhood_id":85779291,
+            "region_id":85672001
+        }
+    ],
+    "wof:id":85779291,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1497317492,
+    "wof:name":"Pejompongan",
+    "wof:parent_id":102021905,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.79260253899997,
+    -6.21428189175001,
+    106.81457519500009,
+    -6.19309236911685
+],
+  "geometry": {"coordinates":[[[106.81457519500009,-6.20062949620775],[106.81457519500009,-6.20609049856998],[106.81320992069487,-6.20609049635904],[106.81320190400021,-6.20609855984954],[106.81320190400021,-6.20743957979174],[106.81182861211573,-6.2088209762407],[106.81047139231413,-6.2101862022398],[106.81043925168609,-6.2101862022398],[106.80908203100023,-6.21155143945339],[106.80908203100023,-6.21359523256271],[106.80908203100012,-6.21428189175001],[106.80633544883824,-6.21428189158915],[106.80633544900007,-6.21155144152],[106.80358886700003,-6.21155144152],[106.80358886700003,-6.21086478235216],[106.80358886700009,-6.20882097490887],[106.80084228500004,-6.20882097490887],[106.80084228500004,-6.20609049635894],[106.79809570300017,-6.20609049650638],[106.79260253899997,-6.20609049856998],[106.7926025390002,-6.20471717679519],[106.79260253900014,-6.20062949274553],[106.79673042746481,-6.20062949266827],[106.79809570300017,-6.19925617734201],[106.79809570300017,-6.19654175044276],[106.798095703,-6.19516844292998],[106.79946098697309,-6.19516844292998],[106.80152493133897,-6.19309236911685],[106.80358886700009,-6.19516843539662],[106.80908203100012,-6.19516843586746],[106.80908203100012,-6.20062949078159],[106.81320991679002,-6.20062949358372],[106.81457519500009,-6.20062949620775]]],"type":"Polygon"}
+}

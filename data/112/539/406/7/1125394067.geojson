@@ -1,0 +1,80 @@
+{
+  "id": 1125394067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.7872,2.7253,98.7872,2.7253",
+    "geom:latitude":2.7253,
+    "geom:longitude":98.7872,
+    "gn:gn_country":"ID",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":0,
+    "iso:country":"ID",
+    "lbl:latitude":2.7253,
+    "lbl:longitude":98.7872,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ind_x_preferred":[
+        "Kecamatan Simanindo"
+    ],
+    "name:unk_x_variant":[
+        "Simanindo"
+    ],
+    "qs_pg:aaroncc":"ID",
+    "qs_pg:gn_country":"ID",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7742894,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Kecamatan Simanindo",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1041858,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        85672073,
+        102072711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7742894,
+        "qs_pg:id":1041858
+    },
+    "wof:country":"ID",
+    "wof:created":1497048894,
+    "wof:geomhash":"1bc268e2d46e75c239176d923c0d1a67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102072711,
+            "localadmin_id":1125394067,
+            "region_id":85672073
+        }
+    ],
+    "wof:id":1125394067,
+    "wof:lastmodified":1509389891,
+    "wof:name":"Kecamatan Simanindo",
+    "wof:parent_id":102072711,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.7872,
+    2.7253,
+    98.7872,
+    2.7253
+],
+  "geometry": {"coordinates":[98.7872,2.7253],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1125329577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"112.1565,-7.0769,112.1565,-7.0769",
+    "geom:latitude":-7.0769,
+    "geom:longitude":112.1565,
+    "gn:gn_country":"ID",
+    "gn:gn_fcode":"ADM4",
+    "gn:gn_pop":0,
+    "iso:country":"ID",
+    "lbl:latitude":-7.0769,
+    "lbl:longitude":112.1565,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ind_x_preferred":[
+        "Desa Bunut"
+    ],
+    "name:unk_x_variant":[
+        "Bunut"
+    ],
+    "qs_pg:aaroncc":"ID",
+    "qs_pg:gn_country":"ID",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":6821087,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Desa Bunut",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1039079,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        85672027,
+        102073325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6821087,
+        "qs_pg:id":1039079
+    },
+    "wof:country":"ID",
+    "wof:created":1497045052,
+    "wof:geomhash":"370713a04b8193c3b2747c052889ff2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102073325,
+            "localadmin_id":1125329577,
+            "region_id":85672027
+        }
+    ],
+    "wof:id":1125329577,
+    "wof:lastmodified":1509388336,
+    "wof:name":"Desa Bunut",
+    "wof:parent_id":102073325,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    112.1565,
+    -7.0769,
+    112.1565,
+    -7.0769
+],
+  "geometry": {"coordinates":[112.15649999999999,-7.0769],"type":"Point"}
+}

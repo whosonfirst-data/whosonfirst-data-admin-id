@@ -1,0 +1,81 @@
+{
+  "id": 102022277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000009,
+    "geom:area_square_m":113824.478729,
+    "geom:bbox":"106.809082031,-6.74371379582,106.814229506,-6.7409862084",
+    "geom:latitude":-6.742662,
+    "geom:longitude":106.811482,
+    "gn:latitude":-8.6294,
+    "gn:longitude":118.7341,
+    "iso:country":"ID",
+    "lbl:latitude":-6.742644,
+    "lbl:longitude":106.811482,
+    "mps:latitude":-6.742644,
+    "mps:longitude":106.811482,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ind_x_preferred":[
+        "Lido"
+    ],
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Lido",
+    "qs:loc_lc":"7456688",
+    "qs:pop":0,
+    "qs:source":"Nquattroshapes",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":189,
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        85671983,
+        102073217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7456688,
+        "gp:id":56009742,
+        "qs:id":1063737,
+        "qs_pg:id":1063737,
+        "wd:id":"Q1757063"
+    },
+    "wof:country":"ID",
+    "wof:geomhash":"40273ac7c4ac99453c1a6becc4857eee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102073217,
+            "locality_id":102022277,
+            "region_id":85671983
+        }
+    ],
+    "wof:id":102022277,
+    "wof:lastmodified":1527636677,
+    "wof:name":"Lido",
+    "wof:parent_id":102073217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.80908203100002,
+    -6.74371379581999,
+    106.81422950639687,
+    -6.74098620839661
+],
+  "geometry": {"coordinates":[[[106.81045532200004,-6.74371379581999],[106.80908203100002,-6.74371379581999],[106.80908203100002,-6.74235000420995],[106.81045532200004,-6.74235000420995],[106.81045532200004,-6.74098620875995],[106.81182861336599,-6.74098620839661],[106.81318298094844,-6.74235000324504],[106.81320190450013,-6.74235953089934],[106.81422950639687,-6.74339428757169],[106.81419425154938,-6.74371379485498],[106.81182861300006,-6.74371379533744],[106.81045532200004,-6.74371379581999]]],"type":"Polygon"}
+}

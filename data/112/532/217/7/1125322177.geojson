@@ -1,0 +1,80 @@
+{
+  "id": 1125322177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.0263,1.616,125.0263,1.616",
+    "geom:latitude":1.616,
+    "geom:longitude":125.0263,
+    "gn:gn_country":"ID",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":0,
+    "iso:country":"ID",
+    "lbl:latitude":1.616,
+    "lbl:longitude":125.0263,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ind_x_preferred":[
+        "Kecamatan Likupang"
+    ],
+    "name:unk_x_variant":[
+        "Likupang"
+    ],
+    "qs_pg:aaroncc":"ID",
+    "qs_pg:gn_country":"ID",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6740946,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Kecamatan Likupang",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":904042,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        85672081,
+        102073343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6740946,
+        "qs_pg:id":904042
+    },
+    "wof:country":"ID",
+    "wof:created":1497044594,
+    "wof:geomhash":"934d3d2dcf15e858b566858dbf755da1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102073343,
+            "localadmin_id":1125322177,
+            "region_id":85672081
+        }
+    ],
+    "wof:id":1125322177,
+    "wof:lastmodified":1509388142,
+    "wof:name":"Kecamatan Likupang",
+    "wof:parent_id":102073343,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.0263,
+    1.616,
+    125.0263,
+    1.616
+],
+  "geometry": {"coordinates":[125.02630000000001,1.616],"type":"Point"}
+}

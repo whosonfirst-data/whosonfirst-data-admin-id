@@ -1,0 +1,111 @@
+{
+  "id": 85779295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00017,
+    "geom:area_square_m":2084502.090791,
+    "geom:bbox":"106.820068359,-6.29107531999,106.833110519,-6.26888787717",
+    "geom:latitude":-6.278631,
+    "geom:longitude":106.826774,
+    "gn:latitude":-6.2799,
+    "gn:longitude":106.8238,
+    "iso:country":"ID",
+    "lbl:latitude":-6.277301,
+    "lbl:longitude":106.82695,
+    "mps:latitude":-6.277172,
+    "mps:longitude":106.825684,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":4,
+    "name:eng_x_preferred":[
+        "Pekayon"
+    ],
+    "name:ind_x_preferred":[
+        "Pekayon"
+    ],
+    "name:unk_x_variant":[
+        "Pekayon"
+    ],
+    "qs:gn_adm0_cc":"ID",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":1642911,
+    "qs:gn_nam_loc":"Jakarta, Jakarta Raya, ID",
+    "qs:gn_namadm1":"04",
+    "qs:gn_name":"Pekayon",
+    "qs:local_max":20589,
+    "qs:local_sum":67909,
+    "qs:localhoods":139,
+    "qs:name":"Pekayon",
+    "qs:name_adm0":"Indonesia",
+    "qs:name_adm1":"Jakarta Raya",
+    "qs:name_local":"Jakarta",
+    "qs:photo_max":27,
+    "qs:photo_sum":93,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":7,
+    "qs:woe_adm0":23424846,
+    "qs:woe_adm1":2345713,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":1047378,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85672001,
+        102191569,
+        85632203,
+        102019479,
+        102072667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1988016,
+        "gp:id":28326630,
+        "qs:id":1164088,
+        "qs_pg:id":1164088
+    },
+    "wof:country":"ID",
+    "wof:geomhash":"c0d5def720a1b84ddf107aa1e25ee8ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102072667,
+            "locality_id":102019479,
+            "neighbourhood_id":85779295,
+            "region_id":85672001
+        }
+    ],
+    "wof:id":85779295,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1497308595,
+    "wof:name":"Pekayon",
+    "wof:parent_id":102019479,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.820068359,
+    -6.29107531998561,
+    106.83311051874756,
+    -6.26888787717478
+],
+  "geometry": {"coordinates":[[[106.83151518947915,-6.27980842916246],[106.83241976374848,-6.28253852692996],[106.83311051874756,-6.28462329624615],[106.8309727605984,-6.29107531998561],[106.83094340401448,-6.29105122765979],[106.8309287228135,-6.29106911675488],[106.82830810500008,-6.2866750195884],[106.82556152300009,-6.28391183570341],[106.82419645875802,-6.28253852024605],[106.82143342269984,-6.28253852122776],[106.820068359,-6.28253852692996],[106.820068359,-6.27707832423997],[106.820068359,-6.27434819934439],[106.820068359,-6.27161806430999],[106.82143345246709,-6.27161806151808],[106.82556152300003,-6.27161805668587],[106.82827535630565,-6.26888787717478],[106.82834085419154,-6.26888787717478],[106.83105468716678,-6.2716180583536],[106.83105468714598,-6.27570500119393],[106.83241976611913,-6.27707830992991],[106.83151518947915,-6.27980842916246]]],"type":"Polygon"}
+}

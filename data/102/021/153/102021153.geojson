@@ -1,0 +1,75 @@
+{
+  "id": 102021153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000021,
+    "geom:area_square_m":264099.174015,
+    "geom:bbox":"106.931269668,-6.41868582427,106.936798096,-6.41030877052",
+    "geom:latitude":-6.414815,
+    "geom:longitude":106.933833,
+    "gn:latitude":-6.60611,
+    "gn:longitude":106.86778,
+    "iso:country":"ID",
+    "lbl:latitude":-6.414587,
+    "lbl:longitude":106.934063,
+    "mps:latitude":-6.414587,
+    "mps:longitude":106.934063,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ind_x_preferred":[
+        "Cikeas"
+    ],
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Cikeas",
+    "qs:loc_lc":"1951983",
+    "qs:pop":0,
+    "qs:source":"Nquattroshapes",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        85671983,
+        102073217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1951983,
+        "gp:id":28336740
+    },
+    "wof:country":"ID",
+    "wof:geomhash":"68a6715e7fcb747149ca3dd7aad9611f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102073217,
+            "locality_id":102021153,
+            "region_id":85671983
+        }
+    ],
+    "wof:id":102021153,
+    "wof:lastmodified":1501223581,
+    "wof:name":"Cikeas",
+    "wof:parent_id":102073217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.93126966825018,
+    -6.41868582427026,
+    106.936798096,
+    -6.41030877052472
+],
+  "geometry": {"coordinates":[[[106.9354248045001,-6.41287943180812],[106.93542480500007,-6.41356609299],[106.936798096,-6.41356609299],[106.936798096,-6.41493078743997],[106.93542480499998,-6.41493078743997],[106.93542480475004,-6.41629547777254],[106.93406866550221,-6.41766016444997],[106.93405151350017,-6.41766879451961],[106.93304085558664,-6.41868582427026],[106.93126966825018,-6.41848778419222],[106.93199586259742,-6.41629547823004],[106.932678223,-6.41629547823004],[106.932678223,-6.41493078743997],[106.932678223,-6.41423550243316],[106.93284881312532,-6.41372050840947],[106.93217073864396,-6.41030877052472],[106.93339484443793,-6.41083668948998],[106.9354248045001,-6.41287943180812]]],"type":"Polygon"}
+}

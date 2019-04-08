@@ -1,0 +1,80 @@
+{
+  "id": 1125379657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.98094,2.97046,98.98094,2.97046",
+    "geom:latitude":2.97046,
+    "geom:longitude":98.98094,
+    "gn:gn_country":"ID",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":0,
+    "iso:country":"ID",
+    "lbl:latitude":2.97046,
+    "lbl:longitude":98.98094,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ind_x_preferred":[
+        "Kecamatan Siantar"
+    ],
+    "name:unk_x_variant":[
+        "Siantar"
+    ],
+    "qs_pg:aaroncc":"ID",
+    "qs_pg:gn_country":"ID",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7743601,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Kecamatan Siantar",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1041876,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        85672073,
+        102073085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7743601,
+        "qs_pg:id":1041876
+    },
+    "wof:country":"ID",
+    "wof:created":1497047966,
+    "wof:geomhash":"06e17f7b4826585974b26431d03070ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102073085,
+            "localadmin_id":1125379657,
+            "region_id":85672073
+        }
+    ],
+    "wof:id":1125379657,
+    "wof:lastmodified":1509389544,
+    "wof:name":"Kecamatan Siantar",
+    "wof:parent_id":102073085,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.98094,
+    2.97046,
+    98.98094,
+    2.97046
+],
+  "geometry": {"coordinates":[98.98094,2.97046],"type":"Point"}
+}

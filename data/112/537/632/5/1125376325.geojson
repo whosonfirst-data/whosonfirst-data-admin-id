@@ -1,0 +1,77 @@
+{
+  "id": 1125376325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.25,-5.33333,105.25,-5.33333",
+    "geom:latitude":-5.33333,
+    "geom:longitude":105.25,
+    "gn:gn_country":"ID",
+    "gn:gn_fcode":"ADMD",
+    "gn:gn_pop":0,
+    "iso:country":"ID",
+    "lbl:latitude":-5.33333,
+    "lbl:longitude":105.25,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Daerah Tingkat II Lampung Selatan"
+    ],
+    "qs_pg:aaroncc":"ID",
+    "qs_pg:gn_country":"ID",
+    "qs_pg:gn_fcode":"ADMD",
+    "qs_pg:gn_id":1638533,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Kabupaten Lampung Selatan",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":371108,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        85672009,
+        102072869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1638533,
+        "qs_pg:id":371108
+    },
+    "wof:country":"ID",
+    "wof:created":1497047768,
+    "wof:geomhash":"b4ea73060fbb14da2eba6bb8a5fada67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102072869,
+            "localadmin_id":1125376325,
+            "region_id":85672009
+        }
+    ],
+    "wof:id":1125376325,
+    "wof:lastmodified":1509389467,
+    "wof:name":"Kabupaten Lampung Selatan",
+    "wof:parent_id":102072869,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.25,
+    -5.33333,
+    105.25,
+    -5.33333
+],
+  "geometry": {"coordinates":[105.25,-5.33333],"type":"Point"}
+}

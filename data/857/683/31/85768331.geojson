@@ -1,0 +1,116 @@
+{
+  "id": 85768331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000061,
+    "geom:area_square_m":744837.173453,
+    "geom:bbox":"106.819385734,-6.2156471027,106.832419937,-6.20882097358",
+    "geom:latitude":-6.211807,
+    "geom:longitude":106.826455,
+    "gn:latitude":-6.212,
+    "gn:longitude":106.826,
+    "iso:country":"ID",
+    "lbl:latitude":-6.211778,
+    "lbl:longitude":106.82405,
+    "mps:latitude":-6.211552,
+    "mps:longitude":106.826455,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_locality":4,
+    "name:eng_x_preferred":[
+        "Karet"
+    ],
+    "name:eng_x_variant":[
+        "Karetpasarbaroe",
+        "Karetpasarbaru"
+    ],
+    "name:ind_x_preferred":[
+        "Karet"
+    ],
+    "name:unk_x_variant":[
+        "Karetpasarbaroe",
+        "Karet"
+    ],
+    "qs:gn_adm0_cc":"ID",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":1642911,
+    "qs:gn_nam_loc":"Jakarta, Jakarta Raya, ID",
+    "qs:gn_namadm1":"04",
+    "qs:gn_name":"Karet",
+    "qs:local_max":20589,
+    "qs:local_sum":67909,
+    "qs:localhoods":139,
+    "qs:name":"Karet",
+    "qs:name_adm0":"Indonesia",
+    "qs:name_adm1":"Jakarta Raya",
+    "qs:name_local":"Jakarta",
+    "qs:photo_max":46,
+    "qs:photo_sum":121,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":9,
+    "qs:woe_adm0":23424846,
+    "qs:woe_adm1":2345713,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":1047378,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85672001,
+        102191569,
+        85632203,
+        102021905,
+        102073177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1641109,
+        "gp:id":1035131,
+        "qs:id":349087,
+        "qs_pg:id":349087
+    },
+    "wof:country":"ID",
+    "wof:geomhash":"b8bbef78722a87f49967cc2026b68dab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102073177,
+            "locality_id":102021905,
+            "neighbourhood_id":85768331,
+            "region_id":85672001
+        }
+    ],
+    "wof:id":85768331,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1497313368,
+    "wof:name":"Karet",
+    "wof:parent_id":102021905,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.81938573391494,
+    -6.2156471026998,
+    106.83241993724147,
+    -6.20882097358229
+],
+  "geometry": {"coordinates":[[[106.83151512815681,-6.20882097358229],[106.83241993724147,-6.21155143635595],[106.83151513285003,-6.21428188820981],[106.83105468699995,-6.21428188971127],[106.82830810500008,-6.21428188938994],[106.82556152300003,-6.2142818896849],[106.82420433047776,-6.2156471026998],[106.82417213352261,-6.2156471026998],[106.82383887827655,-6.21531187767953],[106.82281494100005,-6.21496854741069],[106.82144165000011,-6.21450807743956],[106.82144165000011,-6.21428189175001],[106.82144165000011,-6.21291666785518],[106.820068359,-6.21291666787178],[106.81983813680057,-6.21291666752238],[106.81938573391494,-6.21155143945339],[106.82006835900017,-6.21086478235216],[106.82144165000011,-6.21132524873904],[106.82281494100016,-6.21086478235216],[106.82281494100016,-6.20950763274054],[106.82281494100005,-6.20882097712],[106.82349756980307,-6.20882097608802],[106.82556152300003,-6.20882097476152],[106.82830810500008,-6.20882097515454],[106.83105468700006,-6.20882097502664],[106.83151512815681,-6.20882097358229]]],"type":"Polygon"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1125414539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"112.25,-7.83333,112.25,-7.83333",
+    "geom:latitude":-7.83333,
+    "geom:longitude":112.25,
+    "gn:gn_country":"ID",
+    "gn:gn_fcode":"ADMD",
+    "gn:gn_pop":0,
+    "gn:population":1499768,
+    "iso:country":"ID",
+    "lbl:latitude":-7.83333,
+    "lbl:longitude":112.25,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Daerah Tingkat II Kediri"
+    ],
+    "qs_pg:aaroncc":"ID",
+    "qs_pg:gn_country":"ID",
+    "qs_pg:gn_fcode":"ADMD",
+    "qs_pg:gn_id":1640657,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Kabupaten Kediri",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":247560,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        85672027,
+        102073487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1640657,
+        "qs_pg:id":247560
+    },
+    "wof:country":"ID",
+    "wof:created":1497051050,
+    "wof:geomhash":"ae4b66f337dc145cbeac2bf62d9270a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102073487,
+            "localadmin_id":1125414539,
+            "region_id":85672027
+        }
+    ],
+    "wof:id":1125414539,
+    "wof:lastmodified":1509390339,
+    "wof:name":"Kabupaten Kediri",
+    "wof:parent_id":102073487,
+    "wof:placetype":"localadmin",
+    "wof:population":1499768,
+    "wof:population_rank":12,
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    112.25,
+    -7.83333,
+    112.25,
+    -7.83333
+],
+  "geometry": {"coordinates":[112.25,-7.83333],"type":"Point"}
+}

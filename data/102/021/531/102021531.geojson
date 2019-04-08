@@ -1,0 +1,79 @@
+{
+  "id": 102021531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000959,
+    "geom:area_square_m":11782603.678839,
+    "geom:bbox":"107.127685547,-6.61004409321,107.160644531,-6.56638897982",
+    "geom:latitude":-6.588217,
+    "geom:longitude":107.141418,
+    "gn:latitude":-6.58111,
+    "gn:longitude":107.13944,
+    "iso:country":"ID",
+    "lbl:latitude":-6.577303,
+    "lbl:longitude":107.138437,
+    "mps:latitude":-6.577303,
+    "mps:longitude":107.138437,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ind_x_preferred":[
+        "Kecamatan Cariu"
+    ],
+    "name:unk_x_variant":[
+        "Cariu"
+    ],
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Kecamatan Cariu",
+    "qs:loc_lc":"6592426",
+    "qs:pop":0,
+    "qs:source":"Nquattroshapes",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        85671983,
+        102073217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6592426,
+        "gp:id":56010613,
+        "qs:id":379206
+    },
+    "wof:country":"ID",
+    "wof:geomhash":"1c1f0cef3341dc37769041928f48a6bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102073217,
+            "locality_id":102021531,
+            "region_id":85671983
+        }
+    ],
+    "wof:id":102021531,
+    "wof:lastmodified":1501273024,
+    "wof:name":"Kecamatan Cariu",
+    "wof:parent_id":102073217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.127685547,
+    -6.61004409321,
+    107.160644531,
+    -6.56638897982
+],
+  "geometry": {"coordinates":[[[107.127685547,-6.61004409321],[107.127685547,-6.59913067521],[107.138671875,-6.59913067521],[107.138671875,-6.58821701672],[107.127685547,-6.58821701672],[107.127685547,-6.57730311812],[107.127685547,-6.56638897982],[107.138671875,-6.56638897982],[107.14965820299999,-6.56638897982],[107.14965820299999,-6.57730311812],[107.14965820299999,-6.58821701672],[107.160644531,-6.58821701672],[107.160644531,-6.59913067521],[107.14965820299999,-6.59913067521],[107.14965820299999,-6.61004409321],[107.138671875,-6.61004409321],[107.127685547,-6.61004409321]]],"type":"Polygon"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1243582689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.22197,4.3375,116.22197,4.3375",
+    "geom:latitude":4.3375,
+    "geom:longitude":116.22197,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Kapanan",
+    "gn:country_code":"ID",
+    "gn:dem":251,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8613564,
+    "gn:latitude":4.3375,
+    "gn:longitude":116.22197,
+    "gn:modification_date":"2013-09-11",
+    "gn:name":"Kapanan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Makassar",
+    "iso:country":"ID",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ind_x_preferred":[
+        "Kapanan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        85671977,
+        102073415,
+        1108805993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8613564
+    },
+    "wof:country":"ID",
+    "wof:geomhash":"bcb2d986d4dd8d3462c9cd6b5a828675",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102073415,
+            "locality_id":1243582689,
+            "region_id":85671977
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102073415,
+            "locality_id":1243582689,
+            "region_id":1108805993
+        }
+    ],
+    "wof:id":1243582689,
+    "wof:lastmodified":1537636515,
+    "wof:name":"Kapanan",
+    "wof:parent_id":102073415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.22197,
+    4.3375,
+    116.22197,
+    4.3375
+],
+  "geometry": {"coordinates":[116.22197,4.3375],"type":"Point"}
+}

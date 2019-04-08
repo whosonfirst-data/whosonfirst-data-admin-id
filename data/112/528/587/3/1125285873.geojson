@@ -1,0 +1,80 @@
+{
+  "id": 1125285873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.31694,-6.08639,107.31694,-6.08639",
+    "geom:latitude":-6.08639,
+    "geom:longitude":107.31694,
+    "gn:gn_country":"ID",
+    "gn:gn_fcode":"ADM4",
+    "gn:gn_pop":0,
+    "iso:country":"ID",
+    "lbl:latitude":-6.08639,
+    "lbl:longitude":107.31694,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ind_x_preferred":[
+        "Desa Jayakerta"
+    ],
+    "name:unk_x_variant":[
+        "Jayakerta"
+    ],
+    "qs_pg:aaroncc":"ID",
+    "qs_pg:gn_country":"ID",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":6606432,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Desa Jayakerta",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":903996,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        85671983,
+        102072937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6606432,
+        "qs_pg:id":903996
+    },
+    "wof:country":"ID",
+    "wof:created":1497042694,
+    "wof:geomhash":"2a3aab25918292ef3a88b681adc2d5d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102072937,
+            "localadmin_id":1125285873,
+            "region_id":85671983
+        }
+    ],
+    "wof:id":1125285873,
+    "wof:lastmodified":1509387420,
+    "wof:name":"Desa Jayakerta",
+    "wof:parent_id":102072937,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.31694,
+    -6.08639,
+    107.31694,
+    -6.08639
+],
+  "geometry": {"coordinates":[107.31694,-6.08639],"type":"Point"}
+}

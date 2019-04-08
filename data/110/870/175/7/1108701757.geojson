@@ -1,0 +1,72 @@
+{
+  "id": 1108701757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-21",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000153,
+    "geom:area_square_m":1891175.921588,
+    "geom:bbox":"114.495780945,-3.43389010429,114.510383606,-3.40001988411",
+    "geom:latitude":-3.41708,
+    "geom:longitude":114.50199,
+    "iso:country":"ID",
+    "lbl:latitude":-3.413474,
+    "lbl:longitude":114.4997,
+    "meso:admin_1":"KALIMANTAN SELATAN",
+    "meso:diss_me":"KALIMANTAN SELATANBARITOKUALA",
+    "meso:gadm_hasc":"ID.KS.BK",
+    "meso:gadm_name":"Barito Kuala",
+    "meso:gaul_adm2":"Baritokuala",
+    "meso:mps_x":114.4997,
+    "meso:mps_y":-3.413474,
+    "meso:name_local":"BARITOKUALA",
+    "meso:source":"AOTM",
+    "mps:latitude":-3.413474,
+    "mps:longitude":114.4997,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Baritokuala"
+    ],
+    "name:und_x_variant":[
+        "BARITOKUALA"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        85672031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"ID",
+    "wof:created":1474504953,
+    "wof:geomhash":"007b79c44057273117c2efd2aecdff20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":1108701757,
+            "region_id":85672031
+        }
+    ],
+    "wof:id":1108701757,
+    "wof:lastmodified":1543959490,
+    "wof:name":"Baritokuala",
+    "wof:parent_id":85672031,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.49578094482422,
+    -3.43389010429382,
+    114.51038360595703,
+    -3.4000198841095
+],
+  "geometry": {"coordinates":[[[[114.49825286865234,-3.4011800289154],[114.50007629394531,-3.4000198841095],[114.5018310546875,-3.40855312347412],[114.5018310546875,-3.40855765342712],[114.50521087646484,-3.42496991157532],[114.50293731689453,-3.42463994026184],[114.50222015380859,-3.42377161979675],[114.50222015380859,-3.42376708984375],[114.49787139892578,-3.41845011711121],[114.49578094482422,-3.41108989715576],[114.49825286865234,-3.4011800289154]]],[[[114.50403594970703,-3.43176412582398],[114.50403594970703,-3.43176174163818],[114.50939178466797,-3.42256999015808],[114.51038360595703,-3.42773008346558],[114.50949096679688,-3.43244004249573],[114.50530242919922,-3.43389010429382],[114.50423431396484,-3.43248391151428],[114.50388336181641,-3.43201994895935],[114.50403594970703,-3.43176412582398]]]],"type":"MultiPolygon"}
+}

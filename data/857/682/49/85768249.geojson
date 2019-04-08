@@ -1,0 +1,115 @@
+{
+  "id": 85768249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00001,
+    "geom:area_square_m":122834.14209,
+    "geom:bbox":"106.839294434,-6.19789897584,106.843406308,-6.19516843729",
+    "geom:latitude":-6.196477,
+    "geom:longitude":106.841133,
+    "gn:latitude":-6.1886,
+    "gn:longitude":106.8396,
+    "iso:country":"ID",
+    "lbl:latitude":-6.196534,
+    "lbl:longitude":106.840668,
+    "mps:latitude":-6.196533,
+    "mps:longitude":106.841133,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_locality":4,
+    "name:eng_x_preferred":[
+        "Cikini"
+    ],
+    "name:ind_x_preferred":[
+        "Cikini"
+    ],
+    "name:unk_x_variant":[
+        "Tjikini",
+        "Cikini"
+    ],
+    "qs:gn_adm0_cc":"ID",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":1642911,
+    "qs:gn_nam_loc":"Jakarta, Jakarta Raya, ID",
+    "qs:gn_namadm1":"04",
+    "qs:gn_name":"Cikini",
+    "qs:local_max":20589,
+    "qs:local_sum":67909,
+    "qs:localhoods":139,
+    "qs:name":"Cikini",
+    "qs:name_adm0":"Indonesia",
+    "qs:name_adm1":"Jakarta Raya",
+    "qs:name_adm2":"Kotamadya Jakarta Pusat",
+    "qs:name_local":"Jakarta",
+    "qs:photo_max":17,
+    "qs:photo_sum":17,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":1,
+    "qs:woe_adm0":23424846,
+    "qs:woe_adm1":2345713,
+    "qs:woe_adm2":56000234,
+    "qs:woe_lau":0,
+    "qs:woe_local":1047378,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85672001,
+        102191569,
+        85632203,
+        102021905,
+        102073177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1646610,
+        "gp:id":1031764,
+        "qs:id":182839,
+        "qs_pg:id":182839,
+        "wd:id":"Q5119919",
+        "wk:page":"Cikini, Menteng"
+    },
+    "wof:country":"ID",
+    "wof:geomhash":"a00da407d53861d56313dcf8614b4e97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102073177,
+            "locality_id":102021905,
+            "neighbourhood_id":85768249,
+            "region_id":85672001
+        }
+    ],
+    "wof:id":85768249,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1497312282,
+    "wof:name":"Cikini",
+    "wof:parent_id":102021905,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.83929443400012,
+    -6.19789897584043,
+    106.84340630826159,
+    -6.19516843729005
+],
+  "geometry": {"coordinates":[[[106.84204101600011,-6.19789897581546],[106.83929443400012,-6.19789897584043],[106.83929443400012,-6.1951684409688],[106.84204101600011,-6.19516844027876],[106.84340630826159,-6.19516843729005],[106.84250144750547,-6.19789897451464],[106.84204101600011,-6.19789897581546]]],"type":"Polygon"}
+}

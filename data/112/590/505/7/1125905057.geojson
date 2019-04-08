@@ -1,0 +1,80 @@
+{
+  "id": 1125905057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.1556,0.9411,124.1556,0.9411",
+    "geom:latitude":0.9411,
+    "geom:longitude":124.1556,
+    "gn:gn_country":"ID",
+    "gn:gn_fcode":"PPLA3",
+    "gn:gn_pop":0,
+    "iso:country":"ID",
+    "lbl:latitude":0.9411,
+    "lbl:longitude":124.1556,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ind_x_preferred":[
+        "Bolaang"
+    ],
+    "name:unk_x_variant":[
+        "Bolaangmongondou"
+    ],
+    "qs_pg:aaroncc":"ID",
+    "qs_pg:gn_country":"ID",
+    "qs_pg:gn_fcode":"PPLA3",
+    "qs_pg:gn_id":1648340,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Bolaang",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1030820,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        85672081,
+        1108796943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1648340,
+        "qs_pg:id":1030820
+    },
+    "wof:country":"ID",
+    "wof:created":1497295957,
+    "wof:geomhash":"760d172ec471e5a911187c593e1c3f3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":1108796943,
+            "locality_id":1125905057,
+            "region_id":85672081
+        }
+    ],
+    "wof:id":1125905057,
+    "wof:lastmodified":1509399699,
+    "wof:name":"Bolaang",
+    "wof:parent_id":1108796943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.1556,
+    0.9411,
+    124.1556,
+    0.9411
+],
+  "geometry": {"coordinates":[124.15560000000001,0.9411],"type":"Point"}
+}

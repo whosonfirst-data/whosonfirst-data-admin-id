@@ -1,0 +1,80 @@
+{
+  "id": 1125382641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.49602,-4.85499,104.49602,-4.85499",
+    "geom:latitude":-4.85499,
+    "geom:longitude":104.49602,
+    "gn:gn_country":"ID",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":0,
+    "iso:country":"ID",
+    "lbl:latitude":-4.85499,
+    "lbl:longitude":104.49602,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ind_x_preferred":[
+        "Kecamatan Banjit"
+    ],
+    "name:unk_x_variant":[
+        "Banjit"
+    ],
+    "qs_pg:aaroncc":"ID",
+    "qs_pg:gn_country":"ID",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8361790,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Kecamatan Banjit",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":381679,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        85672009,
+        102072943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8361790,
+        "qs_pg:id":381679
+    },
+    "wof:country":"ID",
+    "wof:created":1497048146,
+    "wof:geomhash":"104aabfcf5e3e6a4e975a017e56c1c72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102072943,
+            "localadmin_id":1125382641,
+            "region_id":85672009
+        }
+    ],
+    "wof:id":1125382641,
+    "wof:lastmodified":1509389630,
+    "wof:name":"Kecamatan Banjit",
+    "wof:parent_id":102072943,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.49602,
+    -4.85499,
+    104.49602,
+    -4.85499
+],
+  "geometry": {"coordinates":[104.49602,-4.85499],"type":"Point"}
+}

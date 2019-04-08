@@ -1,0 +1,80 @@
+{
+  "id": 1125363589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.66,-7.42132,108.66,-7.42132",
+    "geom:latitude":-7.42132,
+    "geom:longitude":108.66,
+    "gn:gn_country":"ID",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":0,
+    "iso:country":"ID",
+    "lbl:latitude":-7.42132,
+    "lbl:longitude":108.66,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ind_x_preferred":[
+        "Kecamatan Lakbok"
+    ],
+    "name:unk_x_variant":[
+        "Lakbok"
+    ],
+    "qs_pg:aaroncc":"ID",
+    "qs_pg:gn_country":"ID",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8070063,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Kecamatan Lakbok",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1245951,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        85671983,
+        102073245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8070063,
+        "qs_pg:id":1245951
+    },
+    "wof:country":"ID",
+    "wof:created":1497046947,
+    "wof:geomhash":"d686e0d1e8cabbf43c37dcf6858de8d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102073245,
+            "localadmin_id":1125363589,
+            "region_id":85671983
+        }
+    ],
+    "wof:id":1125363589,
+    "wof:lastmodified":1509389147,
+    "wof:name":"Kecamatan Lakbok",
+    "wof:parent_id":102073245,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.66,
+    -7.42132,
+    108.66,
+    -7.42132
+],
+  "geometry": {"coordinates":[108.66,-7.42132],"type":"Point"}
+}

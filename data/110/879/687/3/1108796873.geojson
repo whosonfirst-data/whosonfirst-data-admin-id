@@ -1,0 +1,109 @@
+{
+  "id": 1108796873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.089392,
+    "geom:area_square_m":1102425802.986655,
+    "geom:bbox":"136.092134986,-4.32395005358,136.536366948,-3.97953509112",
+    "geom:latitude":-4.16616,
+    "geom:longitude":136.313311,
+    "iso:country":"ID",
+    "lbl:latitude":-4.146969,
+    "lbl:longitude":136.310061,
+    "meso:admin_1":"PAPUA",
+    "meso:diss_me":"PAPUADEIYAI",
+    "meso:gadm_hasc":"ID.PA.PA",
+    "meso:gadm_name":"Paniai",
+    "meso:gaul_adm2":"Paniai",
+    "meso:name_local":"DEIYAI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Deiyai"
+    ],
+    "name:eng_x_preferred":[
+        "Deiyai"
+    ],
+    "name:eng_x_variant":[
+        "DEIYAI"
+    ],
+    "name:fre_x_preferred":[
+        "Deiyai"
+    ],
+    "name:ger_x_preferred":[
+        "Deiyai"
+    ],
+    "name:ind_x_preferred":[
+        "Deiyai"
+    ],
+    "name:jav_x_preferred":[
+        "Kabupat\u00e8n Deiyai"
+    ],
+    "name:may_x_preferred":[
+        "Kabupaten Deiyai"
+    ],
+    "name:spa_x_preferred":[
+        "Deiyai"
+    ],
+    "name:swe_x_preferred":[
+        "Kabupaten Deiyai"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2010-05-15",
+    "statoids:area_km":"537",
+    "statoids:as_of_date":"2010-05-15",
+    "statoids:capital":"Tigi",
+    "statoids:country":"ID",
+    "statoids:hasc":"ID.PA",
+    "statoids:name":"Deiyai",
+    "statoids:population":"62119",
+    "statoids:statoid":"ID.PA.DE",
+    "statoids:timezone":"9",
+    "statoids:type":"regency",
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        85672115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"ID.PA.DE",
+        "wd:id":"Q27386"
+    },
+    "wof:country":"ID",
+    "wof:created":1482878566,
+    "wof:geomhash":"305f381c6b7b3c26bc28f8ca39c65f67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":1108796873,
+            "region_id":85672115
+        }
+    ],
+    "wof:id":1108796873,
+    "wof:lastmodified":1543954431,
+    "wof:name":"Deiyai",
+    "wof:parent_id":85672115,
+    "wof:placetype":"county",
+    "wof:placetype_local":"regency",
+    "wof:population":62119,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:shortcode":"DE",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    136.09213498626147,
+    -4.32395005357732,
+    136.53636694777862,
+    -3.97953509111698
+],
+  "geometry": {"coordinates":[[[136.20237823687958,-3.98135924878158],[136.26446393457192,-3.99085668143654],[136.30430896946052,-3.99269956435561],[136.34605696679142,-3.99834790373934],[136.38022244991359,-4.00781728895954],[136.39922688078747,-4.02683739830756],[136.41825875684887,-4.06109853801549],[136.43348092549894,-4.0858394060154],[136.44263561569556,-4.11507085549826],[136.43922407046912,-4.11440726027863],[136.43735747209689,-4.13155753592418],[136.48685187190523,-4.21719865636359],[136.50398175442132,-4.24383773321081],[136.53636694777862,-4.30664280920178],[136.51552141401353,-4.32192575529523],[136.45479323033359,-4.32395005357732],[136.41871867287912,-4.31639766458523],[136.36744046639831,-4.29743929005429],[136.29148464904284,-4.27470807181527],[136.24023446819146,-4.27098210198879],[136.20795742087535,-4.26341214755566],[136.11307241197173,-4.2730828225497],[136.11176434460262,-4.27347882989332],[136.09213498626147,-4.23119290060031],[136.09589082020392,-4.20260573602376],[136.14707739042433,-4.16442350715004],[136.15841664019564,-4.13201474363296],[136.21144450288818,-4.0614361350699],[136.19045352991699,-3.97953509111698],[136.20237823687958,-3.98135924878158]]],"type":"Polygon"}
+}

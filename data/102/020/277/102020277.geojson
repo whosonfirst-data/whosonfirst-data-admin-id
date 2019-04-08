@@ -1,0 +1,90 @@
+{
+  "id": 102020277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000018,
+    "geom:area_square_m":217410.169031,
+    "geom:bbox":"106.703691969,-6.20677311733,106.709510417,-6.20131212486",
+    "geom:latitude":-6.203854,
+    "geom:longitude":106.70652,
+    "gn:latitude":-6.21389,
+    "gn:longitude":106.71056,
+    "iso:country":"ID",
+    "lbl:latitude":-6.203633,
+    "lbl:longitude":106.706322,
+    "mps:latitude":-6.203633,
+    "mps:longitude":106.706322,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Karangtengah 1"
+    ],
+    "qs:a0":"Indonesia",
+    "qs:a1":"*Banten",
+    "qs:a1r":"*",
+    "qs:a2":"Tangerang Kabupaten",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Karang Tengah",
+    "qs:loc_alt":"Karang Tengah",
+    "qs:loc_lc":"1641169",
+    "qs:pop":0,
+    "qs:source":"Nquattroshapes",
+    "qs:type":"Town",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        0,
+        85632203,
+        85671995,
+        1108796785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1641169,
+        "gp:id":56007006,
+        "qs:id":1043148,
+        "qs_pg:id":1043148
+    },
+    "wof:country":"ID",
+    "wof:geomhash":"6402c119a083d0e088445791e8f473e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":0,
+            "country_id":85632203,
+            "county_id":1108701743,
+            "locality_id":102020277,
+            "region_id":85671995
+        },
+        {
+            "continent_id":0,
+            "country_id":0,
+            "county_id":102073291,
+            "locality_id":102020277,
+            "region_id":85671995
+        }
+    ],
+    "wof:id":102020277,
+    "wof:lastmodified":1497297739,
+    "wof:name":"Karang Tengah",
+    "wof:parent_id":1108796785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.7036919692752,
+    -6.20677311732503,
+    106.70951041718659,
+    -6.20131212486004
+],
+  "geometry": {"coordinates":[[[106.70608520525012,-6.20199475377751],[106.70745849600003,-6.20199475422001],[106.70883178725008,-6.20199475377751],[106.70951041718659,-6.20267737827497],[106.70883178725008,-6.20336000542996],[106.70883178699997,-6.20472525399002],[106.70745849600003,-6.20472525399002],[106.70745849625014,-6.20609049856999],[106.70745849650017,-6.20677311732503],[106.70676382463871,-6.20677311732503],[106.70608520525012,-6.20609049812998],[106.70471191399996,-6.20609049856999],[106.70471191424998,-6.20472525354754],[106.7036919692752,-6.20369929790087],[106.70402927528802,-6.20336000556398],[106.70471191400007,-6.20336000586995],[106.70471191400007,-6.20199475422001],[106.70471191400007,-6.20131212486004],[106.70540657229931,-6.20131212486004],[106.70608520525012,-6.20199475377751]]],"type":"Polygon"}
+}

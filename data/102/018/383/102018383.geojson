@@ -1,0 +1,109 @@
+{
+  "id": 102018383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000254,
+    "geom:area_square_m":3138062.381111,
+    "geom:bbox":"98.8624615803,2.91753596376,98.8804583447,2.93563007167",
+    "geom:latitude":2.926583,
+    "geom:longitude":98.87146,
+    "iso:country":"ID",
+    "lbl:latitude":2.926583,
+    "lbl:longitude":98.87146,
+    "mps:latitude":2.926583,
+    "mps:longitude":98.87146,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ace_x_preferred":[
+        "Pematang Raya"
+    ],
+    "name:dut_x_preferred":[
+        "Pematang Raya"
+    ],
+    "name:eng_x_preferred":[
+        "Pematang Raya"
+    ],
+    "name:fre_x_preferred":[
+        "Pematang Raya"
+    ],
+    "name:ger_x_preferred":[
+        "Pematang Raya"
+    ],
+    "name:ind_x_preferred":[
+        "Pematang Raya"
+    ],
+    "name:may_x_preferred":[
+        "Pematang Raya"
+    ],
+    "name:por_x_preferred":[
+        "Pematang Raya"
+    ],
+    "name:spa_x_preferred":[
+        "Pematang Raya"
+    ],
+    "name:unk_x_variant":[
+        "Permatangraya"
+    ],
+    "qs:a0":"Indonesia",
+    "qs:a1":"*Sumatera Utara",
+    "qs:a1r":"*",
+    "qs:a2":"Simalungun",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Pematangraya",
+    "qs:loc_alt":"Pematangraya",
+    "qs:loc_lc":"1214205",
+    "qs:pop":0,
+    "qs:source":"Nquattroshapes",
+    "qs:type":"Town",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        85672073,
+        102073085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1214205,
+        "gp:id":1040869,
+        "qs:id":321443,
+        "qs_pg:id":321443,
+        "wd:id":"Q12504323"
+    },
+    "wof:country":"ID",
+    "wof:geomhash":"2e22e670820c396ba9aa3b2ce6583c78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102073085,
+            "locality_id":102018383,
+            "region_id":85672073
+        }
+    ],
+    "wof:id":102018383,
+    "wof:lastmodified":1514449885,
+    "wof:name":"Pematangraya",
+    "wof:parent_id":102073085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.86246158027488,
+    2.91753596376282,
+    98.88045834472531,
+    2.93563007167391
+],
+  "geometry": {"coordinates":[[[98.87321645382094,2.9177100005716],[98.87146098999553,2.91753596376282],[98.86970548680462,2.91770959746694],[98.86801740567249,2.91822422912068],[98.86646161724293,2.91906008209374],[98.86509790864427,2.92018503563676],[98.86397868604782,2.92155585917172],[98.86314696078769,2.9231198735046],[98.86263469642343,2.92481697513787],[98.86246158027488,2.92658194590813],[98.86263426665421,2.92834695920702],[98.86314612090787,2.93004418648378],[98.86397747413999,2.93160840386989],[98.86509637886816,2.93297949875249],[98.86645983659859,2.93410477996169],[98.86801545017603,2.93494100277961],[98.86970343741125,2.93545603093182],[98.87145892860472,2.93563007167391],[98.87321445965087,2.93545643649247],[98.87490256488469,2.93494179817563],[98.87645836999324,2.93410593436821],[98.87782208530878,2.93298096746894],[98.87894130363755,2.93161013008906],[98.87977301429522,2.93004610353066],[98.88028525594494,2.9283489931523],[98.88045834472531,2.92658401844875],[98.88028563049066,2.92481900662725],[98.87977375213542,2.92312178601351],[98.87894238222437,2.92155757946176],[98.87782347077935,2.92018649793549],[98.87646001731652,2.91906123057105],[98.87490441834173,2.91822501997872],[98.87321645382094,2.9177100005716]]],"type":"Polygon"}
+}

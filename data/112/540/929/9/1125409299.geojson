@@ -1,0 +1,80 @@
+{
+  "id": 1125409299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.7211,-5.1711,105.7211,-5.1711",
+    "geom:latitude":-5.1711,
+    "geom:longitude":105.7211,
+    "gn:gn_country":"ID",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":0,
+    "iso:country":"ID",
+    "lbl:latitude":-5.1711,
+    "lbl:longitude":105.7211,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ind_x_preferred":[
+        "Kecamatan Way Jepara"
+    ],
+    "name:unk_x_variant":[
+        "Way Jepara"
+    ],
+    "qs_pg:aaroncc":"ID",
+    "qs_pg:gn_country":"ID",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7664894,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Kecamatan Way Jepara",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1154918,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        85672009,
+        102072615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7664894,
+        "qs_pg:id":1154918
+    },
+    "wof:country":"ID",
+    "wof:created":1497049868,
+    "wof:geomhash":"b68ae96e9b264f937b097e5243c1086d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102072615,
+            "localadmin_id":1125409299,
+            "region_id":85672009
+        }
+    ],
+    "wof:id":1125409299,
+    "wof:lastmodified":1509390218,
+    "wof:name":"Kecamatan Way Jepara",
+    "wof:parent_id":102072615,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.7211,
+    -5.1711,
+    105.7211,
+    -5.1711
+],
+  "geometry": {"coordinates":[105.72110000000001,-5.1711],"type":"Point"}
+}

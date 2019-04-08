@@ -1,0 +1,72 @@
+{
+  "id": 1108701921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-21",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000245,
+    "geom:area_square_m":3027326.693026,
+    "geom:bbox":"99.2823181152,0.177350014448,99.3131027222,0.221650004387",
+    "geom:latitude":0.203076,
+    "geom:longitude":99.296172,
+    "iso:country":"ID",
+    "lbl:latitude":0.212044,
+    "lbl:longitude":99.289902,
+    "meso:admin_1":"SUMATERA BARAT",
+    "meso:diss_me":"SUMATERA BARATPASAMAN BARAT",
+    "meso:gadm_hasc":"ID.SB.PB",
+    "meso:gadm_name":"Pasaman Barat",
+    "meso:gaul_adm2":"Kota Pasaman Barat",
+    "meso:mps_x":99.289902,
+    "meso:mps_y":0.212044,
+    "meso:name_local":"PASAMAN BARAT",
+    "meso:source":"AOTM",
+    "mps:latitude":0.212044,
+    "mps:longitude":99.289902,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Pasaman Barat"
+    ],
+    "name:und_x_variant":[
+        "PASAMAN BARAT"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        85672087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"ID",
+    "wof:created":1474505229,
+    "wof:geomhash":"8e31b53c7028aeeaa053c11a5b041140",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":1108701921,
+            "region_id":85672087
+        }
+    ],
+    "wof:id":1108701921,
+    "wof:lastmodified":1543959490,
+    "wof:name":"Pasaman Barat",
+    "wof:parent_id":85672087,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.28231811523438,
+    0.17735001444817,
+    99.31310272216797,
+    0.2216500043869
+],
+  "geometry": {"coordinates":[[[[99.28665161132812,0.22073000669479],[99.29029846191406,0.2216500043869],[99.29691314697266,0.2120099812746],[99.29782104492188,0.20811001956463],[99.29190063476562,0.20420999825001],[99.28550720214844,0.2078800201416],[99.28231811523438,0.21408000588417],[99.28665161132812,0.22073000669479]]],[[[99.30648803710938,0.18882003426552],[99.31036376953125,0.19111999869347],[99.31310272216797,0.18675997853279],[99.31150817871094,0.18032999336719],[99.30648803710938,0.17735001444817],[99.30422210693359,0.17918999493122],[99.30399322509766,0.1830799728632],[99.30648803710938,0.18882003426552]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,116 @@
+{
+  "id": 85768351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000344,
+    "geom:area_square_m":4234040.729029,
+    "geom:bbox":"106.757883301,-6.24158557823,106.780226744,-6.22066428829",
+    "geom:latitude":-6.231465,
+    "geom:longitude":106.768607,
+    "gn:latitude":-6.2358,
+    "gn:longitude":106.7774,
+    "iso:country":"ID",
+    "lbl:latitude":-6.233826,
+    "lbl:longitude":106.771644,
+    "mps:latitude":-6.231144,
+    "mps:longitude":106.76749,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":4,
+    "name:eng_x_preferred":[
+        "Kebayoran"
+    ],
+    "name:eng_x_variant":[
+        "Kebajoran",
+        "Kebajuran",
+        "Kebayoranlama"
+    ],
+    "name:ind_x_preferred":[
+        "Kebayoran"
+    ],
+    "name:unk_x_variant":[
+        "Kebayoran"
+    ],
+    "qs:gn_adm0_cc":"ID",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":1642911,
+    "qs:gn_nam_loc":"Jakarta, Jakarta Raya, ID",
+    "qs:gn_namadm1":"04",
+    "qs:gn_name":"Kebayoran",
+    "qs:local_max":20589,
+    "qs:local_sum":67909,
+    "qs:localhoods":139,
+    "qs:name":"Kebayoran",
+    "qs:name_adm0":"Indonesia",
+    "qs:name_adm1":"Jakarta Raya",
+    "qs:name_local":"Jakarta",
+    "qs:photo_max":11,
+    "qs:photo_sum":19,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":3,
+    "qs:woe_adm0":23424846,
+    "qs:woe_adm1":2345713,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":1047378,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85672001,
+        0,
+        85632203,
+        102020239,
+        102072667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6754917,
+        "gp:id":1035317,
+        "qs:id":1187710,
+        "qs_pg:id":1187710
+    },
+    "wof:country":"ID",
+    "wof:geomhash":"9be475b0d1cc107f251a06b41e496f77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102072667,
+            "locality_id":102020239,
+            "neighbourhood_id":85768351,
+            "region_id":85672001
+        }
+    ],
+    "wof:id":85768351,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1497316228,
+    "wof:name":"Kebayoran",
+    "wof:parent_id":102020239,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.75788330100028,
+    -6.2415855782348,
+    106.78022674393867,
+    -6.22066428829496
+],
+  "geometry": {"coordinates":[[[106.76897044715832,-6.2207713628457],[106.77062988300014,-6.22244064181],[106.77797562889879,-6.22613530080119],[106.78022674393867,-6.23066425988735],[106.77886962900021,-6.23339463211219],[106.77886962900021,-6.23609234578198],[106.77612304308587,-6.23885530164893],[106.77340893018771,-6.2415855782348],[106.76501093685459,-6.2415855782348],[106.76413766967505,-6.23995181025354],[106.76413154448704,-6.23993161821492],[106.7641296201358,-6.23992527447926],[106.76405646667661,-6.23990308361998],[106.76232759866997,-6.23897898441793],[106.76081223318835,-6.23773535610675],[106.75956860487724,-6.23621999062503],[106.75864450567502,-6.23449112261849],[106.75807544819611,-6.23261519151488],[106.75788330100028,-6.23066428829485],[106.75807544819611,-6.22871338507481],[106.75864450567502,-6.22683745397129],[106.75956860487724,-6.22510858596466],[106.76081223318835,-6.22359322048312],[106.76232759866997,-6.22234959217185],[106.76405646667661,-6.22142549296971],[106.76593239778003,-6.2208564354908],[106.76788330100015,-6.22066428829496],[106.76897044715832,-6.2207713628457]]],"type":"Polygon"}
+}

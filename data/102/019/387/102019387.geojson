@@ -1,0 +1,81 @@
+{
+  "id": 102019387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000041,
+    "geom:area_square_m":506735.239703,
+    "geom:bbox":"106.832427979,-6.36716431286,106.840667725,-6.36034016724",
+    "geom:latitude":-6.363256,
+    "geom:longitude":106.835861,
+    "iso:country":"ID",
+    "lbl:latitude":-6.363281,
+    "lbl:longitude":106.835371,
+    "mps:latitude":-6.363281,
+    "mps:longitude":106.835371,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Pondoktjina 1"
+    ],
+    "qs:a0":"Indonesia",
+    "qs:a1":"*Jawa Barat",
+    "qs:a1r":"*",
+    "qs:a2":"Kotif Depok",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Pondokcina",
+    "qs:loc_alt":"Pondokcina",
+    "qs:loc_lc":"1630863",
+    "qs:pop":0,
+    "qs:source":"Nquattroshapes",
+    "qs:type":"Town",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        85671983,
+        102073083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1630863,
+        "gp:id":1041348,
+        "qs:id":1185123,
+        "qs_pg:id":1185123
+    },
+    "wof:country":"ID",
+    "wof:geomhash":"cb7c7840f255485cb5fb3cd85480df5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102073083,
+            "locality_id":102019387,
+            "region_id":85671983
+        }
+    ],
+    "wof:id":102019387,
+    "wof:lastmodified":1497295984,
+    "wof:name":"Pondokcina",
+    "wof:parent_id":102073083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.832427979,
+    -6.36716431286,
+    106.84066772499999,
+    -6.36034016724
+],
+  "geometry": {"coordinates":[[[106.836547852,-6.36579949099],[106.836547852,-6.36716431286],[106.835174561,-6.36716431286],[106.83380127,-6.36716431286],[106.83380127,-6.36579949099],[106.832427979,-6.36579949099],[106.832427979,-6.36443466549],[106.832427979,-6.36306983636],[106.832427979,-6.36170500361],[106.832427979,-6.36034016724],[106.83380127,-6.36034016724],[106.835174561,-6.36034016724],[106.836547852,-6.36034016724],[106.83792114299999,-6.36034016724],[106.839294434,-6.36034016724],[106.839294434,-6.36170500361],[106.84066772499999,-6.36170500361],[106.84066772499999,-6.36306983636],[106.839294434,-6.36306983636],[106.839294434,-6.36443466549],[106.83792114299999,-6.36443466549],[106.83792114299999,-6.36579949099],[106.836547852,-6.36579949099]]],"type":"Polygon"}
+}

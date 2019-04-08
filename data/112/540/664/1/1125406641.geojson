@@ -1,0 +1,80 @@
+{
+  "id": 1125406641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.01583,-7.39917,109.01583,-7.39917",
+    "geom:latitude":-7.39917,
+    "geom:longitude":109.01583,
+    "gn:gn_country":"ID",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":0,
+    "iso:country":"ID",
+    "lbl:latitude":-7.39917,
+    "lbl:longitude":109.01583,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ind_x_preferred":[
+        "Kecamatan Gumelar"
+    ],
+    "name:unk_x_variant":[
+        "Gumelar"
+    ],
+    "qs_pg:aaroncc":"ID",
+    "qs_pg:gn_country":"ID",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6388253,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Kecamatan Gumelar",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1153109,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        85671987,
+        102072715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6388253,
+        "qs_pg:id":1153109
+    },
+    "wof:country":"ID",
+    "wof:created":1497049678,
+    "wof:geomhash":"8e35980747694fc135a7da05929279a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102072715,
+            "localadmin_id":1125406641,
+            "region_id":85671987
+        }
+    ],
+    "wof:id":1125406641,
+    "wof:lastmodified":1509390170,
+    "wof:name":"Kecamatan Gumelar",
+    "wof:parent_id":102072715,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.01583,
+    -7.39917,
+    109.01583,
+    -7.39917
+],
+  "geometry": {"coordinates":[109.01582999999999,-7.39917],"type":"Point"}
+}

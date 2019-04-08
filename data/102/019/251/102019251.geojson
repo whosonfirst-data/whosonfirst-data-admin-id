@@ -1,0 +1,83 @@
+{
+  "id": 102019251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000019,
+    "geom:area_square_m":232304.732977,
+    "geom:bbox":"101.461486816,0.571279596633,101.46697998,0.576086046641",
+    "geom:latitude":0.573082,
+    "geom:longitude":101.463968,
+    "iso:country":"ID",
+    "lbl:latitude":0.572776,
+    "lbl:longitude":101.463418,
+    "mps:latitude":0.572776,
+    "mps:longitude":101.463418,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ind_x_preferred":[
+        "Rumbai"
+    ],
+    "name:min_x_preferred":[
+        "Rumbai"
+    ],
+    "qs:a0":"Indonesia",
+    "qs:a1":"*Riau",
+    "qs:a1r":"*",
+    "qs:a2":"Kota Pekan Baru",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Rumbai",
+    "qs:loc_alt":"Rumbai",
+    "qs:loc_lc":"1629445",
+    "qs:pop":0,
+    "qs:source":"Nquattroshapes",
+    "qs:type":"Town",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":173,
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        85672077,
+        1108796917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1629445,
+        "gp:id":1042229,
+        "qs:id":371865,
+        "wd:id":"Q6542832"
+    },
+    "wof:country":"ID",
+    "wof:geomhash":"ce26e1c01031f1b90a5373f7a2558d67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":1108796917,
+            "locality_id":102019251,
+            "region_id":85672077
+        }
+    ],
+    "wof:id":102019251,
+    "wof:lastmodified":1527637818,
+    "wof:name":"Rumbai",
+    "wof:parent_id":1108796917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.46148681600006,
+    0.57127959663298,
+    101.46697998,
+    0.57608604664138
+],
+  "geometry": {"coordinates":[[[101.46423339850007,0.57471268648449],[101.46423339800002,0.57402604148203],[101.46560668899998,0.57402604148203],[101.46697998,0.57402604148203],[101.46697998,0.57265281922204],[101.46697998,0.57127959663298],[101.46560668899998,0.57127959663298],[101.46423339800002,0.57127959663298],[101.46286010700008,0.57127959663298],[101.46162416596879,0.57127959663298],[101.46165846905832,0.57145112069114],[101.46148681600006,0.57196610564466],[101.46148681600006,0.57265281922204],[101.46148681600006,0.57402604148203],[101.46148681600006,0.57471268642888],[101.46286010725011,0.57608604664138],[101.46423339850007,0.57471268648449]]],"type":"Polygon"}
+}

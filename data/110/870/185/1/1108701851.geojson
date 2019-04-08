@@ -1,0 +1,72 @@
+{
+  "id": 1108701851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-21",
+    "edtf:inception":"uuuu",
+    "geom:area":0.480592,
+    "geom:area_square_m":5924129995.917358,
+    "geom:bbox":"137.670638052,-4.89076635655,138.955496589,-4.18340269789",
+    "geom:latitude":-4.51767,
+    "geom:longitude":138.361556,
+    "iso:country":"ID",
+    "lbl:latitude":-4.526145,
+    "lbl:longitude":138.147408,
+    "meso:admin_1":"PAPUA",
+    "meso:diss_me":"PAPUANDUGA",
+    "meso:gadm_hasc":"ID.PA.AS",
+    "meso:gadm_name":"Asmat",
+    "meso:gaul_adm2":"Asmat",
+    "meso:mps_x":138.147408,
+    "meso:mps_y":-4.526145,
+    "meso:name_local":"NDUGA",
+    "meso:source":"AOTM",
+    "mps:latitude":-4.526145,
+    "mps:longitude":138.147408,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Nduga"
+    ],
+    "name:und_x_variant":[
+        "NDUGA"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        85672115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"ID",
+    "wof:created":1474505117,
+    "wof:geomhash":"a854e37b393901c497676db1b43c9efa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":1108701851,
+            "region_id":85672115
+        }
+    ],
+    "wof:id":1108701851,
+    "wof:lastmodified":1543959491,
+    "wof:name":"Nduga",
+    "wof:parent_id":85672115,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    137.6706380523755,
+    -4.89076635654552,
+    138.95549658878605,
+    -4.18340269788632
+],
+  "geometry": {"coordinates":[[[137.68274792195388,-4.18340269788632],[137.68561929423316,-4.18351616641239],[138.38489252883375,-4.39836331597739],[138.5109919346605,-4.43288929661868],[138.60893346911752,-4.4324166168728],[138.58762726728276,-4.36581552625307],[138.65728713244519,-4.30579961989937],[138.7331410487057,-4.28955026203294],[138.74112421497315,-4.2878401153196],[138.85675011109942,-4.33640005840491],[138.94339487286547,-4.35766584549356],[138.95549658878605,-4.49731665520305],[138.95225542081243,-4.89076635654552],[138.90272674710141,-4.88092703953475],[138.44725135016344,-4.65196759321098],[138.14860078515247,-4.72660617062817],[138.0120258587439,-4.72957662799029],[137.82754390230369,-4.53657248887132],[137.68160149747393,-4.45035095107535],[137.67063805237549,-4.39904639362536],[137.68274792195388,-4.18340269788632]]],"type":"Polygon"}
+}

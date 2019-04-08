@@ -1,0 +1,93 @@
+{
+  "id": 1125788925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.5,0.9,103.5,0.9",
+    "geom:latitude":0.9,
+    "geom:longitude":103.5,
+    "gn:gn_country":"ID",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"ID",
+    "lbl:latitude":0.9,
+    "lbl:longitude":103.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Boeroe"
+    ],
+    "qs_pg:aaroncc":"ID",
+    "qs_pg:gn_country":"ID",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1647550,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Buru",
+    "qs_pg:name_adm0":"Indonesia",
+    "qs_pg:name_adm1":"Kepulauan Riau",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":84,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1161849,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424846,
+    "qs_pg:woe_id":1031055,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424846,
+    "woe:name_adm0":"Indonesia",
+    "woe:name_adm1":"Kepulauan Riau",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        85672049,
+        102073089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1647550,
+        "gp:id":1031055,
+        "qs_pg:id":1161849
+    },
+    "wof:country":"ID",
+    "wof:created":1497290785,
+    "wof:geomhash":"dfcee089b7fd40870915be1ec81b7962",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102073089,
+            "locality_id":1125788925,
+            "region_id":85672049
+        }
+    ],
+    "wof:id":1125788925,
+    "wof:lastmodified":1534379338,
+    "wof:name":"Buru",
+    "wof:parent_id":102073089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[
+        102020745
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.5,
+    0.9,
+    103.5,
+    0.9
+],
+  "geometry": {"coordinates":[103.5,0.9],"type":"Point"}
+}

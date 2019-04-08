@@ -1,0 +1,111 @@
+{
+  "id": 85779317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000325,
+    "geom:area_square_m":4001031.06878,
+    "geom:bbox":"106.905212402,-6.15688589549,106.92619873,-6.1332855919",
+    "geom:latitude":-6.144499,
+    "geom:longitude":106.915434,
+    "gn:latitude":-6.1526,
+    "gn:longitude":106.9106,
+    "iso:country":"ID",
+    "lbl:latitude":-6.148201,
+    "lbl:longitude":106.911255,
+    "mps:latitude":-6.144821,
+    "mps:longitude":106.915234,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":4,
+    "name:eng_x_preferred":[
+        "Rawaindal"
+    ],
+    "name:ind_x_preferred":[
+        "Rawaindah"
+    ],
+    "name:unk_x_variant":[
+        "Rawaindal"
+    ],
+    "qs:gn_adm0_cc":"ID",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":1642911,
+    "qs:gn_nam_loc":"Jakarta, Jakarta Raya, ID",
+    "qs:gn_namadm1":"04",
+    "qs:gn_name":"Rawaindah",
+    "qs:local_max":20589,
+    "qs:local_sum":67909,
+    "qs:localhoods":139,
+    "qs:name":"Rawaindal",
+    "qs:name_adm0":"Indonesia",
+    "qs:name_adm1":"Jakarta Raya",
+    "qs:name_local":"Jakarta",
+    "qs:photo_max":8,
+    "qs:photo_sum":10,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":3,
+    "qs:woe_adm0":23424846,
+    "qs:woe_adm1":2345713,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":1047378,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85672001,
+        102191569,
+        85632203,
+        102020429,
+        102073125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1992913,
+        "gp:id":28329148,
+        "qs:id":1103869,
+        "qs_pg:id":1103869
+    },
+    "wof:country":"ID",
+    "wof:geomhash":"04270170b38a3385afdd82e060f5f083",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102073125,
+            "locality_id":102020429,
+            "neighbourhood_id":85779317,
+            "region_id":85672001
+        }
+    ],
+    "wof:id":85779317,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1497315870,
+    "wof:name":"Rawaindal",
+    "wof:parent_id":102020429,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.90521240200019,
+    -6.15688589548758,
+    106.9261987300003,
+    -6.13328559190481
+],
+  "geometry": {"coordinates":[[[106.92600658280435,-6.15069808600499],[106.92543752532526,-6.15257401710861],[106.92451342612321,-6.15430288511514],[106.92326979781205,-6.15581825059668],[106.92196886874854,-6.15688589548758],[106.91345214800026,-6.15174626683601],[106.91307924975001,-6.15182127843526],[106.91205523477322,-6.15147796421003],[106.90795898400006,-6.15147796420995],[106.90795898400006,-6.15010464331871],[106.90795898400006,-6.14601639464436],[106.90521240200019,-6.14325392752353],[106.90521240200019,-6.13493746834781],[106.90687873167656,-6.13404679657965],[106.90875466277998,-6.13347773910083],[106.9107055660001,-6.13328559190481],[106.91265646922034,-6.13347773910083],[106.91453240032394,-6.13404679657965],[106.91626126833029,-6.13497089578179],[106.91777663381203,-6.13621452409306],[106.91902026212318,-6.13772988957469],[106.91994436132541,-6.13945875758131],[106.9199508427655,-6.13948012402592],[106.9199527126288,-6.13948628813976],[106.92002556432379,-6.13950838745983],[106.92175443233049,-6.14043248666188],[106.92326979781205,-6.14167611497297],[106.92451342612321,-6.14319148045477],[106.92543752532526,-6.14492034846131],[106.92600658280435,-6.14679627956465],[106.92619873000029,-6.14874718278496],[106.92600658280435,-6.15069808600499]]],"type":"Polygon"}
+}

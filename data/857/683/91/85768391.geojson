@@ -1,0 +1,105 @@
+{
+  "id": 85768391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00026,
+    "geom:area_square_m":3191531.561819,
+    "geom:bbox":"106.875,-6.1200966841,106.893239746,-6.10051487159",
+    "geom:latitude":-6.10966,
+    "geom:longitude":106.884295,
+    "iso:country":"ID",
+    "lbl:latitude":-6.110515,
+    "lbl:longitude":106.88324,
+    "mps:latitude":-6.109405,
+    "mps:longitude":106.884469,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":4,
+    "name:eng_x_preferred":[
+        "Kelumpang"
+    ],
+    "name:eng_x_variant":[
+        "Keloempang",
+        "Pelumpang"
+    ],
+    "name:unk_x_variant":[
+        "Kelumpang"
+    ],
+    "qs:gn_adm0_cc":"ID",
+    "qs:gn_id":0,
+    "qs:gn_local":1642911,
+    "qs:gn_nam_loc":"Jakarta, Jakarta Raya, ID",
+    "qs:gn_namadm1":"04",
+    "qs:id":0,
+    "qs:local_max":20589,
+    "qs:local_sum":67909,
+    "qs:localhoods":139,
+    "qs:name":"Kelumpang",
+    "qs:name_adm0":"Indonesia",
+    "qs:name_adm1":"Jakarta Raya",
+    "qs:name_local":"Jakarta",
+    "qs:photo_max":18,
+    "qs:photo_sum":18,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":1,
+    "qs:woe_adm0":23424846,
+    "qs:woe_adm1":2345713,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":1047378,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85672001,
+        102191569,
+        85632203,
+        102018829,
+        102073125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1035525
+    },
+    "wof:country":"ID",
+    "wof:geomhash":"ffe762f922ec64edb1348b626794d41f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102073125,
+            "locality_id":102018829,
+            "neighbourhood_id":85768391,
+            "region_id":85672001
+        }
+    ],
+    "wof:id":85768391,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527269516,
+    "wof:name":"Kelumpang",
+    "wof:parent_id":102018829,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.87500000000017,
+    -6.12009668409608,
+    106.89323974600023,
+    -6.1005148715949
+],
+  "geometry": {"coordinates":[[[106.89074683842244,-6.11711174893189],[106.88184304665208,-6.12009668409608],[106.88046200130935,-6.11870773323731],[106.87500000000017,-6.10772125448167],[106.87500000000017,-6.10486784227551],[106.87616867818826,-6.10344380378305],[106.87768404366989,-6.10220017547179],[106.87941291167652,-6.10127607626974],[106.88128884277995,-6.10070701879083],[106.88323974600007,-6.1005148715949],[106.88519064922019,-6.10070701879083],[106.8870665803239,-6.10127607626974],[106.88879544833026,-6.10220017547179],[106.89031081381188,-6.10344380378305],[106.89155444212315,-6.10495916926469],[106.89247854132537,-6.10668803727113],[106.89304759880412,-6.10856396837474],[106.89323974600023,-6.11051487159487],[106.89304759880412,-6.11246577481499],[106.89247854132537,-6.11434170591852],[106.89155444212315,-6.11607057392506],[106.89070931367149,-6.11710036592304],[106.89074683842244,-6.11711174893189]]],"type":"Polygon"}
+}

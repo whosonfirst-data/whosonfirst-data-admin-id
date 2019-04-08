@@ -1,0 +1,77 @@
+{
+  "id": 1125938955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.2679,0.9083,123.2679,0.9083",
+    "geom:latitude":0.9083,
+    "geom:longitude":123.2679,
+    "gn:gn_country":"ID",
+    "gn:gn_fcode":"PPLA3",
+    "gn:gn_pop":0,
+    "iso:country":"ID",
+    "lbl:latitude":0.9083,
+    "lbl:longitude":123.2679,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ind_x_preferred":[
+        "Boroko"
+    ],
+    "qs_pg:aaroncc":"ID",
+    "qs_pg:gn_country":"ID",
+    "qs_pg:gn_fcode":"PPLA3",
+    "qs_pg:gn_id":1648140,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Boroko",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":133821,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        85672081,
+        1108796951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1648140,
+        "qs_pg:id":133821
+    },
+    "wof:country":"ID",
+    "wof:created":1497297055,
+    "wof:geomhash":"f2fc16eeb0072f85be198864fa8ab727",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":1108796951,
+            "locality_id":1125938955,
+            "region_id":85672081
+        }
+    ],
+    "wof:id":1125938955,
+    "wof:lastmodified":1509401966,
+    "wof:name":"Boroko",
+    "wof:parent_id":1108796951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.2679,
+    0.9083,
+    123.2679,
+    0.9083
+],
+  "geometry": {"coordinates":[123.2679,0.9083],"type":"Point"}
+}

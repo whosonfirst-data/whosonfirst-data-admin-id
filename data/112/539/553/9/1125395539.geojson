@@ -1,0 +1,80 @@
+{
+  "id": 1125395539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.24061,-5.37127,105.24061,-5.37127",
+    "geom:latitude":-5.37127,
+    "geom:longitude":105.24061,
+    "gn:gn_country":"ID",
+    "gn:gn_fcode":"ADM4",
+    "gn:gn_pop":0,
+    "iso:country":"ID",
+    "lbl:latitude":-5.37127,
+    "lbl:longitude":105.24061,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ind_x_preferred":[
+        "Kelurahan Gedung Meneng"
+    ],
+    "name:unk_x_variant":[
+        "G\u0115dongm\u0115neng"
+    ],
+    "qs_pg:aaroncc":"ID",
+    "qs_pg:gn_country":"ID",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":7666601,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Kelurahan Gedung Meneng",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1048436,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        85672009,
+        102072869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7666601,
+        "qs_pg:id":1048436
+    },
+    "wof:country":"ID",
+    "wof:created":1497048992,
+    "wof:geomhash":"a1d3839b937dd2b69492c241c496a71a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102072869,
+            "localadmin_id":1125395539,
+            "region_id":85672009
+        }
+    ],
+    "wof:id":1125395539,
+    "wof:lastmodified":1509389940,
+    "wof:name":"Kelurahan Gedung Meneng",
+    "wof:parent_id":102072869,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.24061,
+    -5.37127,
+    105.24061,
+    -5.37127
+],
+  "geometry": {"coordinates":[105.24061,-5.37127],"type":"Point"}
+}

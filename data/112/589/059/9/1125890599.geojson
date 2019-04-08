@@ -1,0 +1,87 @@
+{
+  "id": 1125890599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.6512,-0.797,122.6512,-0.797",
+    "geom:latitude":-0.797,
+    "geom:longitude":122.6512,
+    "gn:gn_country":"ID",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"ID",
+    "lbl:latitude":-0.797,
+    "lbl:longitude":122.6512,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ind_x_preferred":[
+        "Pagimana"
+    ],
+    "qs_pg:aaroncc":"ID",
+    "qs_pg:gn_country":"ID",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1632733,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Pangimanan",
+    "qs_pg:name_adm0":"Indonesia",
+    "qs_pg:name_adm1":"Sulawesi Tengah",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1116766,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424846,
+    "qs_pg:woe_id":1048077,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424846,
+    "woe:name_adm0":"Indonesia",
+    "woe:name_adm1":"Sulawesi Tengah",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        85672111,
+        102073015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1632733,
+        "gp:id":1048077,
+        "qs_pg:id":1116766
+    },
+    "wof:country":"ID",
+    "wof:created":1497295299,
+    "wof:geomhash":"ff3f7ef4aa0a8d0bb2f74a6e0cc1c8eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102073015,
+            "locality_id":1125890599,
+            "region_id":85672111
+        }
+    ],
+    "wof:id":1125890599,
+    "wof:lastmodified":1509398774,
+    "wof:name":"Pangimanan",
+    "wof:parent_id":102073015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.6512,
+    -0.797,
+    122.6512,
+    -0.797
+],
+  "geometry": {"coordinates":[122.6512,-0.797],"type":"Point"}
+}

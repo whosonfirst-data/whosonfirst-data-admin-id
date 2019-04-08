@@ -1,0 +1,80 @@
+{
+  "id": 1125283399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"111.5671,-7.5833,111.5671,-7.5833",
+    "geom:latitude":-7.5833,
+    "geom:longitude":111.5671,
+    "gn:gn_country":"ID",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":0,
+    "iso:country":"ID",
+    "lbl:latitude":-7.5833,
+    "lbl:longitude":111.5671,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ind_x_preferred":[
+        "Kecamatan Madiun"
+    ],
+    "name:unk_x_variant":[
+        "Madiun"
+    ],
+    "qs_pg:aaroncc":"ID",
+    "qs_pg:gn_country":"ID",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6765751,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Kecamatan Madiun",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1038981,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        85672027,
+        102073519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6765751,
+        "qs_pg:id":1038981
+    },
+    "wof:country":"ID",
+    "wof:created":1497042598,
+    "wof:geomhash":"8aa43143a8e711cadc5b47bf8cfe1e28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102073519,
+            "localadmin_id":1125283399,
+            "region_id":85672027
+        }
+    ],
+    "wof:id":1125283399,
+    "wof:lastmodified":1509387353,
+    "wof:name":"Kecamatan Madiun",
+    "wof:parent_id":102073519,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    111.5671,
+    -7.5833,
+    111.5671,
+    -7.5833
+],
+  "geometry": {"coordinates":[111.5671,-7.5833],"type":"Point"}
+}

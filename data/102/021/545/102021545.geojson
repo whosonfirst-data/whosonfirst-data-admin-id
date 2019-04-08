@@ -1,0 +1,81 @@
+{
+  "id": 102021545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000009,
+    "geom:area_square_m":113728.010079,
+    "geom:bbox":"106.76651001,-6.32280574713,106.769943237,-6.31939339422",
+    "geom:latitude":-6.32101,
+    "geom:longitude":106.768138,
+    "gn:latitude":-6.39167,
+    "gn:longitude":107.21778,
+    "iso:country":"ID",
+    "lbl:latitude":-6.320783,
+    "lbl:longitude":106.767933,
+    "mps:latitude":-6.320783,
+    "mps:longitude":106.767933,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ind_x_preferred":[
+        "Cirendeu"
+    ],
+    "name:nld_x_preferred":[
+        "Cirendeu"
+    ],
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Cirendeu",
+    "qs:loc_lc":"6595032",
+    "qs:pop":0,
+    "qs:source":"Nquattroshapes",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":78,
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        85671995,
+        102072687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6595032,
+        "gp:id":1032137,
+        "wd:id":"Q1955792",
+        "wk:page":"Cirendeu"
+    },
+    "wof:country":"ID",
+    "wof:geomhash":"136190fce786b9a153e0c2c3246b1c4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102072687,
+            "locality_id":102021545,
+            "region_id":85671995
+        }
+    ],
+    "wof:id":102021545,
+    "wof:lastmodified":1527637828,
+    "wof:name":"Cirendeu",
+    "wof:parent_id":102072687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.76651001,
+    -6.32280574712998,
+    106.76994323700013,
+    -6.31939339421996
+],
+  "geometry": {"coordinates":[[[106.76994323700013,-6.32144918313844],[106.76994323700013,-6.32246032323924],[106.76925659150011,-6.32280574712998],[106.76856161796628,-6.32280574712998],[106.76788330075011,-6.32212327969994],[106.76651001,-6.32212328014998],[106.76651001,-6.32075833898998],[106.76651001,-6.31939339421996],[106.76788330100005,-6.31939339421996],[106.76925659199999,-6.31939339421996],[106.76925659175005,-6.32075833853993],[106.76994323700013,-6.32144918313844]]],"type":"Polygon"}
+}

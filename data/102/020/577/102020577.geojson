@@ -1,0 +1,84 @@
+{
+  "id": 102020577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000102,
+    "geom:area_square_m":1253010.41406,
+    "geom:bbox":"112.214994369,-7.6021078747,112.225341797,-7.58829991329",
+    "geom:latitude":-7.594589,
+    "geom:longitude":112.221128,
+    "gn:latitude":-7.57897,
+    "gn:longitude":112.23109,
+    "gn:population":41719,
+    "iso:country":"ID",
+    "lbl:latitude":-7.592872,
+    "lbl:longitude":112.221226,
+    "mps:latitude":-7.592872,
+    "mps:longitude":112.221226,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"Indonesia",
+    "qs:a1":"*Jawa Timur",
+    "qs:a1r":"*",
+    "qs:a2":"Jombang Kabupaten",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Diwek",
+    "qs:loc_alt":"Diwek",
+    "qs:loc_lc":"1645428",
+    "qs:pop":0,
+    "qs:source":"Nquattroshapes",
+    "qs:type":"Town",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        85672027,
+        102073297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1645428,
+        "gp:id":1032582,
+        "qs:id":893548,
+        "qs_pg:id":893548
+    },
+    "wof:country":"ID",
+    "wof:geomhash":"34adef15d3b92eebf6124f39c21b4ff7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102073297,
+            "locality_id":102020577,
+            "region_id":85672027
+        }
+    ],
+    "wof:id":102020577,
+    "wof:lastmodified":1505338968,
+    "wof:name":"Diwek",
+    "wof:parent_id":102073297,
+    "wof:placetype":"locality",
+    "wof:population":41719,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    112.21499436930343,
+    -7.60210787470004,
+    112.22534179700004,
+    -7.58829991329368
+],
+  "geometry": {"coordinates":[[[112.2205097626538,-7.58829991329368],[112.22121623285632,-7.58836733849022],[112.22188302494941,-7.58829991794454],[112.22218567180242,-7.58832880145835],[112.22534179700004,-7.59076364335036],[112.22534179700004,-7.59121797094004],[112.22534179700004,-7.60210787470004],[112.21984863300004,-7.60210787470004],[112.21984863300004,-7.59938542465001],[112.21984863300004,-7.59802419314002],[112.21984863300004,-7.59666295732998],[112.21780670977371,-7.59666295732998],[112.21499436930343,-7.59193418350476],[112.21509985207011,-7.5901251875305],[112.21511505076619,-7.59013756247202],[112.21547860239731,-7.58983815494231],[112.21704322760216,-7.58899804517914],[112.21874204147308,-7.58847864511343],[112.2205097626538,-7.58829991329368]]],"type":"Polygon"}
+}

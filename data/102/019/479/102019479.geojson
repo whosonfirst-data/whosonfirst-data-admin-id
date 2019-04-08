@@ -1,0 +1,72 @@
+{
+  "id": 102019479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000009,
+    "geom:area_square_m":110068.130167,
+    "geom:bbox":"106.826248169,-6.27980843274,106.829681396,-6.27570004593",
+    "geom:latitude":-6.278386,
+    "geom:longitude":106.827874,
+    "iso:country":"ID",
+    "lbl:latitude":-6.278477,
+    "lbl:longitude":106.827841,
+    "mps:latitude":-6.278477,
+    "mps:longitude":106.827841,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Pejaten Satu"
+    ],
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Pejaten",
+    "qs:loc_lc":"1631780",
+    "qs:pop":0,
+    "qs:source":"Nquattroshapes",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        85672001,
+        102072667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1631780
+    },
+    "wof:country":"ID",
+    "wof:geomhash":"b9729a403415165993fdd5d3ce2d19ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102072667,
+            "locality_id":102019479,
+            "region_id":85672001
+        }
+    ],
+    "wof:id":102019479,
+    "wof:lastmodified":1501221161,
+    "wof:name":"Pejaten",
+    "wof:parent_id":102072667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.82624816900007,
+    -6.27980843273996,
+    106.82968139625011,
+    -6.27570004592503
+],
+  "geometry": {"coordinates":[[[106.829681396,-6.27980843273996],[106.82830810500006,-6.27980843273996],[106.82693481400004,-6.2798084322925],[106.82624816900007,-6.27980843184503],[106.82624816900007,-6.27844337938498],[106.82760504123802,-6.27571326015004],[106.82763131127801,-6.27570004592503],[106.82830810550011,-6.27706180193432],[106.82968139625011,-6.27844337983245],[106.829681396,-6.27980843273996]]],"type":"Polygon"}
+}

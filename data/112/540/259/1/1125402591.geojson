@@ -1,0 +1,87 @@
+{
+  "id": 1125402591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.16667,-8.5,116.16667,-8.5",
+    "geom:latitude":-8.5,
+    "geom:longitude":116.16667,
+    "gn:gn_country":"ID",
+    "gn:gn_fcode":"ADMD",
+    "gn:gn_pop":0,
+    "gn:population":599986,
+    "iso:country":"ID",
+    "lbl:latitude":-8.5,
+    "lbl:longitude":116.16667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "West Lombok Regency"
+    ],
+    "name:ind_x_preferred":[
+        "Kabupaten Lombok Barat"
+    ],
+    "name:unk_x_variant":[
+        "Daerah Tingkat II Lombok Barat"
+    ],
+    "qs_pg:aaroncc":"ID",
+    "qs_pg:gn_country":"ID",
+    "qs_pg:gn_fcode":"ADMD",
+    "qs_pg:gn_id":1637367,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Kabupaten Lombok Barat",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":903604,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        85672103,
+        102073147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1637367,
+        "qs_pg:id":903604
+    },
+    "wof:country":"ID",
+    "wof:created":1497049416,
+    "wof:geomhash":"81c7c38624702ceb93ec8de2d4c6c996",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102073147,
+            "localadmin_id":1125402591,
+            "region_id":85672103
+        }
+    ],
+    "wof:id":1125402591,
+    "wof:lastmodified":1509390091,
+    "wof:name":"Kabupaten Lombok Barat",
+    "wof:parent_id":102073147,
+    "wof:placetype":"localadmin",
+    "wof:population":599986,
+    "wof:population_rank":11,
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.16667,
+    -8.5,
+    116.16667,
+    -8.5
+],
+  "geometry": {"coordinates":[116.16667,-8.5],"type":"Point"}
+}

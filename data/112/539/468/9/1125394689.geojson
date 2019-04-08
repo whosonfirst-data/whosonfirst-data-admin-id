@@ -1,0 +1,80 @@
+{
+  "id": 1125394689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.87029,-6.9635,109.87029,-6.9635",
+    "geom:latitude":-6.9635,
+    "geom:longitude":109.87029,
+    "gn:gn_country":"ID",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":0,
+    "iso:country":"ID",
+    "lbl:latitude":-6.9635,
+    "lbl:longitude":109.87029,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ind_x_preferred":[
+        "Kecamatan Subah"
+    ],
+    "name:unk_x_variant":[
+        "Subah"
+    ],
+    "qs_pg:aaroncc":"ID",
+    "qs_pg:gn_country":"ID",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6761808,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Kecamatan Subah",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1038962,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        85671987,
+        102073205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6761808,
+        "qs_pg:id":1038962
+    },
+    "wof:country":"ID",
+    "wof:created":1497048934,
+    "wof:geomhash":"4313b60b36941a5a1f039b0862ff533d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102073205,
+            "localadmin_id":1125394689,
+            "region_id":85671987
+        }
+    ],
+    "wof:id":1125394689,
+    "wof:lastmodified":1509389909,
+    "wof:name":"Kecamatan Subah",
+    "wof:parent_id":102073205,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.87029,
+    -6.9635,
+    109.87029,
+    -6.9635
+],
+  "geometry": {"coordinates":[109.87029,-6.9635],"type":"Point"}
+}

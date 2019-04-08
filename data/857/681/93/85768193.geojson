@@ -1,0 +1,103 @@
+{
+  "id": 85768193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000243,
+    "geom:area_square_m":2984963.027127,
+    "geom:bbox":"106.797762129,-6.12421446807,106.817321777,-6.10778388054",
+    "geom:latitude":-6.116928,
+    "geom:longitude":106.807111,
+    "iso:country":"ID",
+    "lbl:latitude":-6.120681,
+    "lbl:longitude":106.808967,
+    "mps:latitude":-6.117654,
+    "mps:longitude":106.807297,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":4,
+    "name:eng_x_preferred":[
+        "Bandan"
+    ],
+    "name:unk_x_variant":[
+        "Bandan"
+    ],
+    "qs:gn_adm0_cc":"ID",
+    "qs:gn_id":0,
+    "qs:gn_local":1642911,
+    "qs:gn_nam_loc":"Jakarta, Jakarta Raya, ID",
+    "qs:gn_namadm1":"04",
+    "qs:id":0,
+    "qs:local_max":20589,
+    "qs:local_sum":67909,
+    "qs:localhoods":139,
+    "qs:name":"Bandan",
+    "qs:name_adm0":"Indonesia",
+    "qs:name_adm1":"Jakarta Raya",
+    "qs:name_adm2":"Kotamadya Jakarta Utara",
+    "qs:name_local":"Jakarta",
+    "qs:photo_max":233,
+    "qs:photo_sum":790,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":17,
+    "qs:woe_adm0":23424846,
+    "qs:woe_adm1":2345713,
+    "qs:woe_adm2":56000235,
+    "qs:woe_lau":0,
+    "qs:woe_local":1047378,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":32,
+    "wof:belongsto":[
+        85672001,
+        102191569,
+        85632203,
+        102020429,
+        102073125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1029520
+    },
+    "wof:country":"ID",
+    "wof:geomhash":"dc247fd4a4ae360a5a489ba2f02c9c51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102073125,
+            "locality_id":102020429,
+            "neighbourhood_id":85768193,
+            "region_id":85672001
+        }
+    ],
+    "wof:id":85768193,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527269400,
+    "wof:name":"Bandan",
+    "wof:parent_id":102020429,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.79776212920501,
+    -6.12421446806624,
+    106.81732177700013,
+    -6.10778388054219
+],
+  "geometry": {"coordinates":[[[106.81457519500009,-6.11458781411004],[106.81457519500009,-6.1187077451556],[106.81732177700013,-6.1187077450103],[106.81732177700013,-6.12143867356106],[106.81457519500009,-6.12143867331868],[106.81457519500009,-6.12416958766862],[106.8118286130001,-6.12416958781401],[106.8117839874318,-6.12421446806624],[106.8114716322039,-6.12416958984998],[106.80908203100012,-6.12416958984998],[106.80633544900007,-6.12416958984998],[106.80565271213266,-6.12416958839577],[106.80358886700003,-6.12416958559118],[106.80222339341407,-6.12416958548619],[106.79809570300006,-6.12416958286748],[106.79809570300006,-6.11870774137631],[106.79776212920501,-6.11837224825254],[106.79809570300006,-6.11736579587021],[106.798095703,-6.11324584872003],[106.79946120026182,-6.11324584402671],[106.802223368059,-6.11324584318774],[106.80358886700003,-6.11187252843639],[106.80358886700003,-6.10915720077999],[106.80358886700003,-6.10778389447007],[106.80495438072904,-6.10778388797038],[106.80908203100012,-6.10778388185874],[106.8128924085417,-6.10778388054219],[106.81268984223061,-6.1096173898885],[106.81485452968309,-6.11324584523233],[106.81491657075128,-6.1135578270782],[106.81457519500009,-6.11458781411004]]],"type":"Polygon"}
+}

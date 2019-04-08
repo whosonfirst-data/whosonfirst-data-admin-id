@@ -1,0 +1,105 @@
+{
+  "id": 102020623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000045,
+    "geom:area_square_m":555423.298226,
+    "geom:bbox":"106.799932232,-6.27912590472,106.808395386,-6.27160835621",
+    "geom:latitude":-6.275616,
+    "geom:longitude":106.803637,
+    "gn:gn_country":"ID",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:latitude":-6.2674,
+    "gn:longitude":106.8026,
+    "iso:country":"ID",
+    "lbl:latitude":-6.275872,
+    "lbl:longitude":106.803637,
+    "mps:latitude":-6.275872,
+    "mps:longitude":106.803637,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ind_x_preferred":[
+        "Cipete"
+    ],
+    "name:unk_x_variant":[
+        "Tjipete-oedik"
+    ],
+    "qs:a0":"Indonesia",
+    "qs:a1":"*Banten",
+    "qs:a1r":"*",
+    "qs:a2":"Kotamadya Tangerang",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Cipete",
+    "qs:loc_alt":"Cipete",
+    "qs:loc_lc":"1646247",
+    "qs:pop":0,
+    "qs:source":"Nquattroshapes",
+    "qs:type":"Town",
+    "qs_pg:aaroncc":"ID",
+    "qs_pg:gn_country":"ID",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1646247,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Cipete",
+    "qs_pg:name_adm0":"Indonesia",
+    "qs_pg:name_adm1":"Banten",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":382142,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424846,
+    "qs_pg:woe_id":1032058,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        85672001,
+        102072667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1646247,
+        "gp:id":1032058,
+        "qs:id":382142,
+        "qs_pg:id":382142
+    },
+    "wof:country":"ID",
+    "wof:geomhash":"1d118c59020e57036ad45530285979d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102072667,
+            "locality_id":102020623,
+            "region_id":85672001
+        }
+    ],
+    "wof:id":102020623,
+    "wof:lastmodified":1534379336,
+    "wof:name":"Cipete",
+    "wof:parent_id":102072667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125891425
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.79993223188227,
+    -6.27912590471999,
+    106.80839538600013,
+    -6.27160835621274
+],
+  "geometry": {"coordinates":[[[106.80083649816537,-6.27160835621274],[106.80087508034673,-6.27161805984504],[106.80360525783108,-6.27161805984504],[106.80496215846604,-6.27298313419682],[106.80564060439632,-6.27366566626004],[106.80565700360383,-6.27366566626004],[106.80633544925006,-6.27434820098247],[106.80770874000008,-6.27434820098247],[106.80839538600013,-6.274348200535],[106.80839538600013,-6.27502247862294],[106.8077087398711,-6.27571326449181],[106.80702209500019,-6.27640404883709],[106.80702209500019,-6.27707832334497],[106.80736131261536,-6.27776085047],[106.80679868925456,-6.2788928869407],[106.80633544950008,-6.27912590471999],[106.80496215850015,-6.27912590471999],[106.80358886750012,-6.27912590471999],[106.80289400817209,-6.27912590471999],[106.80221557625016,-6.27844337983245],[106.80084228525014,-6.27844337983245],[106.79993223188227,-6.27752783449513],[106.80015564000014,-6.27707832334497],[106.80015564000014,-6.27399455493695],[106.80029625101578,-6.27378236713167],[106.80083649816537,-6.27160835621274]]],"type":"Polygon"}
+}

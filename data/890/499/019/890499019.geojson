@@ -1,0 +1,78 @@
+{
+  "id": 890499019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.855,-2.98556,118.855,-2.98556",
+    "geom:latitude":-2.98556,
+    "geom:longitude":118.855,
+    "gn:country":"ID",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424846,
+    "iso:country":"ID",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:unk_x_variant":[
+        "Maloenda"
+    ],
+    "qs:name":"Malunda",
+    "qs:name_adm0":"Indonesia",
+    "qs:name_adm1":"Sulawesi Barat",
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        85672045,
+        102072975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1636623,
+        "gp:id":1047854,
+        "qs:id":1162034
+    },
+    "wof:country":"ID",
+    "wof:created":1469055198,
+    "wof:geomhash":"cc9541fc79345d772472aa3c72ea0880",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102072975,
+            "locality_id":890499019,
+            "region_id":85672045
+        }
+    ],
+    "wof:id":890499019,
+    "wof:lastmodified":1534379335,
+    "wof:name":"Malunda",
+    "wof:parent_id":102072975,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[
+        890498149
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.855,
+    -2.98556,
+    118.855,
+    -2.98556
+],
+  "geometry": {"coordinates":[118.855,-2.98556],"type":"Point"}
+}

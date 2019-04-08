@@ -1,0 +1,81 @@
+{
+  "id": 102019481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000013,
+    "geom:area_square_m":159882.79672,
+    "geom:bbox":"106.801528931,-6.14260288867,106.805548468,-6.13850665873",
+    "geom:latitude":-6.140497,
+    "geom:longitude":106.803424,
+    "iso:country":"ID",
+    "lbl:latitude":-6.14044,
+    "lbl:longitude":106.803462,
+    "mps:latitude":-6.14044,
+    "mps:longitude":106.803462,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ind_x_preferred":[
+        "Pejagalan"
+    ],
+    "name:unk_x_variant":[
+        "Pedjagalan"
+    ],
+    "qs:a0":"Indonesia",
+    "qs:a1":"*Jakarta Raya",
+    "qs:a1r":"*",
+    "qs:a2":"Kotamadya Jakarta Utara",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Pejagalan",
+    "qs:loc_alt":"Pejagalan",
+    "qs:loc_lc":"1631786",
+    "qs:pop":0,
+    "qs:source":"Nquattroshapes",
+    "qs:type":"Suburb",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        85672001,
+        102072841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1631786,
+        "gp:id":1040763,
+        "qs:id":1060876
+    },
+    "wof:country":"ID",
+    "wof:geomhash":"05d54dd05e7219ff548cb71ed2c47ba1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102072841,
+            "locality_id":102019481,
+            "region_id":85672001
+        }
+    ],
+    "wof:id":102019481,
+    "wof:lastmodified":1501221161,
+    "wof:name":"Pejagalan",
+    "wof:parent_id":102072841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.80152893100008,
+    -6.142602888665,
+    106.80554846791672,
+    -6.13850665873001
+],
+  "geometry": {"coordinates":[[[106.80358886750012,-6.142602888665],[106.80254710902828,-6.142602888665],[106.80152893100008,-6.14055478157502],[106.80152893100008,-6.13918936809505],[106.80186832802691,-6.13850665873001],[106.80358886750012,-6.13850665873001],[106.80496529872592,-6.13919884311112],[106.80554846791672,-6.14095844191368],[106.80542516207989,-6.14145451146454],[106.8045148800711,-6.14237004871029],[106.80358886750012,-6.142602888665]]],"type":"Polygon"}
+}

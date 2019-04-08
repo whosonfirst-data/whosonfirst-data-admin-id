@@ -1,0 +1,114 @@
+{
+  "id": 85768307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000093,
+    "geom:area_square_m":1148019.981928,
+    "geom:bbox":"106.819044374,-6.19380317008,106.831054687,-6.18151555409",
+    "geom:latitude":-6.18834,
+    "geom:longitude":106.825452,
+    "gn:latitude":-6.1938,
+    "gn:longitude":106.8303,
+    "iso:country":"ID",
+    "lbl:latitude":-6.187202,
+    "lbl:longitude":106.825011,
+    "mps:latitude":-6.189032,
+    "mps:longitude":106.825567,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":4,
+    "name:eng_x_preferred":[
+        "Gondangdia"
+    ],
+    "name:ind_x_preferred":[
+        "Gondangdia"
+    ],
+    "name:unk_x_variant":[
+        "Gondangdia"
+    ],
+    "qs:gn_adm0_cc":"ID",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":1642911,
+    "qs:gn_nam_loc":"Jakarta, Jakarta Raya, ID",
+    "qs:gn_namadm1":"04",
+    "qs:gn_name":"Gondangdia",
+    "qs:local_max":20589,
+    "qs:local_sum":67909,
+    "qs:localhoods":139,
+    "qs:name":"Gondangdia",
+    "qs:name_adm0":"Indonesia",
+    "qs:name_adm1":"Jakarta Raya",
+    "qs:name_adm2":"Kotamadya Jakarta Pusat",
+    "qs:name_local":"Jakarta",
+    "qs:photo_max":560,
+    "qs:photo_sum":1732,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":16,
+    "qs:woe_adm0":23424846,
+    "qs:woe_adm1":2345713,
+    "qs:woe_adm2":56000234,
+    "qs:woe_lau":0,
+    "qs:woe_local":1047378,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85672001,
+        102191569,
+        85632203,
+        102021905,
+        102073177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1643899,
+        "gp:id":1033419,
+        "qs:id":349099,
+        "qs_pg:id":349099,
+        "wd:id":"Q5581440",
+        "wk:page":"Gondangdia, Menteng"
+    },
+    "wof:country":"ID",
+    "wof:geomhash":"55a82fe329f429b71dd127e3d09217e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102073177,
+            "locality_id":102021905,
+            "neighbourhood_id":85768307,
+            "region_id":85672001
+        }
+    ],
+    "wof:id":85768307,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1497313368,
+    "wof:name":"Gondangdia",
+    "wof:parent_id":102021905,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.81904437431683,
+    -6.19380317007992,
+    106.83105468713899,
+    -6.18151555408554
+],
+  "geometry": {"coordinates":[[[106.82830810500008,-6.18151555512745],[106.82830810500008,-6.18424616127993],[106.82830810500008,-6.18493281671644],[106.82830810500008,-6.18697675065508],[106.83105468713899,-6.18697675090013],[106.83105468713899,-6.18970732837022],[106.83105468713899,-6.19243789172874],[106.82830810500008,-6.19243789133652],[106.82624417230005,-6.19243789266027],[106.8257917369973,-6.19380316919494],[106.82556152300003,-6.19380316945046],[106.8241882320001,-6.19380316958831],[106.82315626567106,-6.19380316971115],[106.82281494100005,-6.19380317007992],[106.82281494100005,-6.19312053219494],[106.82212829584387,-6.19312053219086],[106.82212829584211,-6.19243789369003],[106.820068359,-6.19243789369003],[106.82006835900017,-6.19175123467487],[106.82006835900006,-6.18970732895819],[106.81904437431683,-6.18867733765288],[106.81929438572183,-6.1879229112168],[106.820068359,-6.1876634083155],[106.820068359,-6.18697675285998],[106.82281494100005,-6.18697675285998],[106.82281494100005,-6.18424616127993],[106.82281494100016,-6.18390283215996],[106.82238827694272,-6.18347367103642],[106.82258473167894,-6.18288085931991],[106.82281494100005,-6.18288085967927],[106.8241882320001,-6.18288085968655],[106.82486691432518,-6.18219820613722],[106.82556152300003,-6.18219820613722],[106.82556152300003,-6.18151555560006],[106.82624418691086,-6.18151555457251],[106.82762544074183,-6.18151555408554],[106.82830810500008,-6.18151555512745]]],"type":"Polygon"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1125382637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.57216,-4.33818,104.57216,-4.33818",
+    "geom:latitude":-4.33818,
+    "geom:longitude":104.57216,
+    "gn:gn_country":"ID",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":0,
+    "iso:country":"ID",
+    "lbl:latitude":-4.33818,
+    "lbl:longitude":104.57216,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ind_x_preferred":[
+        "Kecamatan Bahuga"
+    ],
+    "name:unk_x_variant":[
+        "Bahuga"
+    ],
+    "qs_pg:aaroncc":"ID",
+    "qs_pg:gn_country":"ID",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8361784,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Kecamatan Bahuga",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":381677,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        85672009,
+        102072943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8361784,
+        "qs_pg:id":381677
+    },
+    "wof:country":"ID",
+    "wof:created":1497048145,
+    "wof:geomhash":"05cfb7775216b02d59bc03ec5a848470",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102072943,
+            "localadmin_id":1125382637,
+            "region_id":85672009
+        }
+    ],
+    "wof:id":1125382637,
+    "wof:lastmodified":1509389630,
+    "wof:name":"Kecamatan Bahuga",
+    "wof:parent_id":102072943,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.57216,
+    -4.33818,
+    104.57216,
+    -4.33818
+],
+  "geometry": {"coordinates":[104.57216,-4.33818],"type":"Point"}
+}

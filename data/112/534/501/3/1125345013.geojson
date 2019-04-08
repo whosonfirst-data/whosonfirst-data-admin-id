@@ -1,0 +1,80 @@
+{
+  "id": 1125345013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.4636,3.6363,125.4636,3.6363",
+    "geom:latitude":3.6363,
+    "geom:longitude":125.4636,
+    "gn:gn_country":"ID",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":0,
+    "iso:country":"ID",
+    "lbl:latitude":3.6363,
+    "lbl:longitude":125.4636,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ind_x_preferred":[
+        "Kecamatan Tahuna"
+    ],
+    "name:unk_x_variant":[
+        "Tahuna"
+    ],
+    "qs_pg:aaroncc":"ID",
+    "qs_pg:gn_country":"ID",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6923794,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Kecamatan Tahuna",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":279234,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        85672081,
+        102073137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6923794,
+        "qs_pg:id":279234
+    },
+    "wof:country":"ID",
+    "wof:created":1497045871,
+    "wof:geomhash":"1a2d5a91492bb561f8dc2f1c9e9649c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102073137,
+            "localadmin_id":1125345013,
+            "region_id":85672081
+        }
+    ],
+    "wof:id":1125345013,
+    "wof:lastmodified":1509388746,
+    "wof:name":"Kecamatan Tahuna",
+    "wof:parent_id":102073137,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.4636,
+    3.6363,
+    125.4636,
+    3.6363
+],
+  "geometry": {"coordinates":[125.4636,3.6363],"type":"Point"}
+}

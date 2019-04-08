@@ -1,0 +1,80 @@
+{
+  "id": 1125392509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.6757,-6.5736,110.6757,-6.5736",
+    "geom:latitude":-6.5736,
+    "geom:longitude":110.6757,
+    "gn:gn_country":"ID",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":0,
+    "iso:country":"ID",
+    "lbl:latitude":-6.5736,
+    "lbl:longitude":110.6757,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ind_x_preferred":[
+        "Kecamatan Jepara"
+    ],
+    "name:unk_x_variant":[
+        "Jepara"
+    ],
+    "qs_pg:aaroncc":"ID",
+    "qs_pg:gn_country":"ID",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6827692,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Kecamatan Jepara",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1039129,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        85671987,
+        102072913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6827692,
+        "qs_pg:id":1039129
+    },
+    "wof:country":"ID",
+    "wof:created":1497048792,
+    "wof:geomhash":"888cdb9d8addaad9a64a065f631be971",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102072913,
+            "localadmin_id":1125392509,
+            "region_id":85671987
+        }
+    ],
+    "wof:id":1125392509,
+    "wof:lastmodified":1509389855,
+    "wof:name":"Kecamatan Jepara",
+    "wof:parent_id":102072913,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.6757,
+    -6.5736,
+    110.6757,
+    -6.5736
+],
+  "geometry": {"coordinates":[110.67570000000001,-6.5736],"type":"Point"}
+}

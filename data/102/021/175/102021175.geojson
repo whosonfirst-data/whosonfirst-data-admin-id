@@ -1,0 +1,83 @@
+{
+  "id": 102021175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000022,
+    "geom:area_square_m":276383.66423,
+    "geom:bbox":"106.829681396,-6.38217711386,106.835174561,-6.37671796435",
+    "geom:latitude":-6.379448,
+    "geom:longitude":106.832428,
+    "gn:latitude":-6.38417,
+    "gn:longitude":106.81139,
+    "iso:country":"ID",
+    "lbl:latitude":-6.379448,
+    "lbl:longitude":106.832428,
+    "mps:latitude":-6.379448,
+    "mps:longitude":106.832428,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Bedji"
+    ],
+    "qs:a0":"Indonesia",
+    "qs:a1":"*Jawa Barat",
+    "qs:a1r":"*",
+    "qs:a2":"Kotif Depok",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Beji",
+    "qs:loc_alt":"Beji",
+    "qs:loc_lc":"1959568",
+    "qs:pop":0,
+    "qs:source":"Nquattroshapes",
+    "qs:type":"Town",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        85671983,
+        102073083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1959568,
+        "gp:id":28303843,
+        "qs:id":1162877,
+        "qs_pg:id":1162877
+    },
+    "wof:country":"ID",
+    "wof:geomhash":"dad23a7c677b8ac6e206adbb1614b924",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102073083,
+            "locality_id":102021175,
+            "region_id":85671983
+        }
+    ],
+    "wof:id":102021175,
+    "wof:lastmodified":1497290981,
+    "wof:name":"Beji",
+    "wof:parent_id":102073083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.829681396,
+    -6.38217711386,
+    106.835174561,
+    -6.37671796435
+],
+  "geometry": {"coordinates":[[[106.83380127,-6.38081233194],[106.83380127,-6.38217711386],[106.832427979,-6.38217711386],[106.83105468700001,-6.38217711386],[106.83105468700001,-6.38081233194],[106.829681396,-6.38081233194],[106.829681396,-6.37944754638],[106.829681396,-6.37808275718],[106.83105468700001,-6.37808275718],[106.83105468700001,-6.37671796435],[106.832427979,-6.37671796435],[106.83380127,-6.37671796435],[106.83380127,-6.37808275718],[106.835174561,-6.37808275718],[106.835174561,-6.37944754638],[106.835174561,-6.38081233194],[106.83380127,-6.38081233194]]],"type":"Polygon"}
+}

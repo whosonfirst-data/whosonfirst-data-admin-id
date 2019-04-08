@@ -1,0 +1,80 @@
+{
+  "id": 102021033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000038,
+    "geom:area_square_m":461541.276293,
+    "geom:bbox":"106.420427452,-6.20352924918,106.425247192,-6.19380316919",
+    "geom:latitude":-6.198975,
+    "geom:longitude":106.423245,
+    "gn:latitude":-5.8681,
+    "gn:longitude":105.75264,
+    "iso:country":"ID",
+    "lbl:latitude":-6.19891,
+    "lbl:longitude":106.423248,
+    "mps:latitude":-6.19891,
+    "mps:longitude":106.423248,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ind_x_preferred":[
+        "Bakauheni"
+    ],
+    "name:unk_x_variant":[
+        "Bakau"
+    ],
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Bakauheni",
+    "qs:loc_lc":"1650684",
+    "qs:pop":0,
+    "qs:source":"Nquattroshapes",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        85671995,
+        102072687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1650684,
+        "gp:id":28318993,
+        "wd:id":"Q804267",
+        "wk:page":"Port of Bakauheni"
+    },
+    "wof:country":"ID",
+    "wof:geomhash":"89e663ad535eabcfce079d6c794787fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102072687,
+            "locality_id":102021033,
+            "region_id":85671995
+        }
+    ],
+    "wof:id":102021033,
+    "wof:lastmodified":1501221317,
+    "wof:name":"Bakauheni",
+    "wof:parent_id":102072687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.42042745187642,
+    -6.20352924918355,
+    106.42524719200016,
+    -6.19380316918998
+],
+  "geometry": {"coordinates":[[[106.42222515276164,-6.19380316918998],[106.42318725600005,-6.19380316963496],[106.42456054675007,-6.19380316963496],[106.42524719200016,-6.19449384641463],[106.42524719200016,-6.20339527926269],[106.4252336726632,-6.20339398343579],[106.42389815554311,-6.20352924918355],[106.42213475180914,-6.20336021790656],[106.42043818405985,-6.20285014172413],[106.42042745187642,-6.20284443776752],[106.42222515276164,-6.19380316918998]]],"type":"Polygon"}
+}

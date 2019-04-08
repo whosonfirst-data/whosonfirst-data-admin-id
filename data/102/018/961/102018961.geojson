@@ -1,0 +1,86 @@
+{
+  "id": 102018961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00012,
+    "geom:area_square_m":1469700.0109,
+    "geom:bbox":"108.314208984,-7.10089266862,108.325195312,-7.08999047636",
+    "geom:latitude":-7.095442,
+    "geom:longitude":108.319702,
+    "iso:country":"ID",
+    "lbl:latitude":-7.095441,
+    "lbl:longitude":108.319702,
+    "mps:latitude":-7.095441,
+    "mps:longitude":108.319702,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ind_x_preferred":[
+        "Sukamantri"
+    ],
+    "name:unk_x_variant":[
+        "Soekamantri Dua"
+    ],
+    "qs:a0":"Indonesia",
+    "qs:a1":"*Jawa Barat",
+    "qs:a1r":"*",
+    "qs:a2":"Tasikmalaya Kabupaten",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Sukamantri",
+    "qs:loc_alt":"Sukamantri",
+    "qs:loc_lc":"1626346",
+    "qs:pop":0,
+    "qs:source":"Nquattroshapes",
+    "qs:type":"Town",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        85671983,
+        102073245
+    ],
+    "wof:breaches":[
+        102022501
+    ],
+    "wof:concordances":{
+        "gn:id":1626346,
+        "gp:id":1043894,
+        "qs:id":1247780,
+        "qs_pg:id":1247780
+    },
+    "wof:country":"ID",
+    "wof:geomhash":"c9579e64d2fb2b65861df35c4ee8dfc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102073245,
+            "locality_id":102018961,
+            "region_id":85671983
+        }
+    ],
+    "wof:id":102018961,
+    "wof:lastmodified":1497297670,
+    "wof:name":"Sukamantri",
+    "wof:parent_id":102073245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.31420898399999,
+    -7.10089266862,
+    108.32519531199999,
+    -7.08999047636
+],
+  "geometry": {"coordinates":[[[108.31420898399999,-7.10089266862],[108.31420898399999,-7.08999047636],[108.32519531199999,-7.08999047636],[108.32519531199999,-7.10089266862],[108.31420898399999,-7.10089266862]]],"type":"Polygon"}
+}

@@ -1,0 +1,92 @@
+{
+  "id": 1125945565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.2136,0.3604,101.2136,0.3604",
+    "geom:latitude":0.3604,
+    "geom:longitude":101.2136,
+    "gn:gn_country":"ID",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"ID",
+    "lbl:latitude":0.3604,
+    "lbl:longitude":101.2136,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Karanganunggi"
+    ],
+    "name:ind_x_preferred":[
+        "Kampar"
+    ],
+    "qs_pg:aaroncc":"ID",
+    "qs_pg:gn_country":"ID",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":6724577,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Kampar",
+    "qs_pg:name_adm0":"Indonesia",
+    "qs_pg:name_adm1":"Riau",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":115,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":346720,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424846,
+    "qs_pg:woe_id":56005695,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424846,
+    "woe:name_adm0":"Indonesia",
+    "woe:name_adm1":"Riau",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        85672077,
+        1108796909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6724577,
+        "gp:id":56005695,
+        "qs_pg:id":346720
+    },
+    "wof:country":"ID",
+    "wof:created":1497297268,
+    "wof:geomhash":"8136e33f04e44acab2e7d9ff48c126d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":1108796909,
+            "locality_id":1125945565,
+            "region_id":85672077
+        }
+    ],
+    "wof:id":1125945565,
+    "wof:lastmodified":1509402371,
+    "wof:name":"Kampar",
+    "wof:parent_id":1108796909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.2136,
+    0.3604,
+    101.2136,
+    0.3604
+],
+  "geometry": {"coordinates":[101.2136,0.3604],"type":"Point"}
+}

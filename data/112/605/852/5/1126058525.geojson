@@ -1,0 +1,87 @@
+{
+  "id": 1126058525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.5198,-7.1213,109.5198,-7.1213",
+    "geom:latitude":-7.1213,
+    "geom:longitude":109.5198,
+    "gn:gn_country":"ID",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"ID",
+    "lbl:latitude":-7.1213,
+    "lbl:longitude":109.5198,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ind_x_preferred":[
+        "Kandangserang"
+    ],
+    "qs_pg:aaroncc":"ID",
+    "qs_pg:gn_country":"ID",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":6792088,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Kandang Serang",
+    "qs_pg:name_adm0":"Indonesia",
+    "qs_pg:name_adm1":"Provinsi Jawa Tengah",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1070951,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424846,
+    "qs_pg:woe_id":56012074,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424846,
+    "woe:name_adm0":"Indonesia",
+    "woe:name_adm1":"Provinsi Jawa Tengah",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        85671987,
+        102072647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6792088,
+        "gp:id":56012074,
+        "qs_pg:id":1070951
+    },
+    "wof:country":"ID",
+    "wof:created":1497303652,
+    "wof:geomhash":"b6895faa69ffc2e2abcff740de84f30f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102072647,
+            "locality_id":1126058525,
+            "region_id":85671987
+        }
+    ],
+    "wof:id":1126058525,
+    "wof:lastmodified":1509409782,
+    "wof:name":"Kandang Serang",
+    "wof:parent_id":102072647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.5198,
+    -7.1213,
+    109.5198,
+    -7.1213
+],
+  "geometry": {"coordinates":[109.5198,-7.1213],"type":"Point"}
+}

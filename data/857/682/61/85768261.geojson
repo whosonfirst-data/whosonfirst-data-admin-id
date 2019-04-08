@@ -1,0 +1,110 @@
+{
+  "id": 85768261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0001,
+    "geom:area_square_m":1226979.793722,
+    "geom:bbox":"106.817321777,-6.1419280892,106.832078781,-6.12825805611",
+    "geom:latitude":-6.133561,
+    "geom:longitude":106.823283,
+    "gn:latitude":-6.14889,
+    "gn:longitude":106.83472,
+    "iso:country":"ID",
+    "lbl:latitude":-6.133735,
+    "lbl:longitude":106.822229,
+    "mps:latitude":-6.132656,
+    "mps:longitude":106.823786,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_locality":4,
+    "name:eng_x_preferred":[
+        "Djembatanmerah"
+    ],
+    "name:unk_x_variant":[
+        "Jembatanmerah",
+        "Djembatanmerah"
+    ],
+    "qs:gn_adm0_cc":"ID",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":1642911,
+    "qs:gn_nam_loc":"Jakarta, Jakarta Raya, ID",
+    "qs:gn_namadm1":"04",
+    "qs:gn_name":"Jembatanmerah",
+    "qs:local_max":20589,
+    "qs:local_sum":67909,
+    "qs:localhoods":139,
+    "qs:name":"Djembatanmerah",
+    "qs:name_adm0":"Indonesia",
+    "qs:name_adm1":"Jakarta Raya",
+    "qs:name_adm2":"Kotamadya Jakarta Utara",
+    "qs:name_local":"Jakarta",
+    "qs:photo_max":69,
+    "qs:photo_sum":164,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":13,
+    "qs:woe_adm0":23424846,
+    "qs:woe_adm1":2345713,
+    "qs:woe_adm2":56000235,
+    "qs:woe_lau":0,
+    "qs:woe_local":1047378,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85672001,
+        102191569,
+        85632203,
+        102021905,
+        102073177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1642593,
+        "gp:id":1032591,
+        "qs:id":992718,
+        "qs_pg:id":992718
+    },
+    "wof:country":"ID",
+    "wof:geomhash":"ce21adb6bbbc519caf348e7360152da4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102073177,
+            "locality_id":102021905,
+            "neighbourhood_id":85768261,
+            "region_id":85672001
+        }
+    ],
+    "wof:id":85768261,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1497310401,
+    "wof:name":"Djembatanmerah",
+    "wof:parent_id":102021905,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.81732177700013,
+    -6.14192808920254,
+    106.8320787805414,
+    -6.12825805610736
+],
+  "geometry": {"coordinates":[[[106.82556152300003,-6.12825805610736],[106.82830810500008,-6.12917884537397],[106.83003058746573,-6.12860138460046],[106.8310546876869,-6.12963137596705],[106.83207878054139,-6.13066135517884],[106.83151506287641,-6.13236224558487],[106.83105468700006,-6.13236224710428],[106.82830810500008,-6.13236224689555],[106.82830810500008,-6.135093105344],[106.82624424567638,-6.13509310650981],[106.82579171253786,-6.13645853063478],[106.82556152300003,-6.1364585308833],[106.8241882320001,-6.13645853092646],[106.82281494100005,-6.13645853098473],[106.82281494100005,-6.13782395198997],[106.82213222035335,-6.13782395053158],[106.82006835900017,-6.13782394980238],[106.82006835900006,-6.14055478244995],[106.82006835900017,-6.14192808920254],[106.81732177700013,-6.14100727634893],[106.81732177700013,-6.14055478244995],[106.81732177700013,-6.13851060709182],[106.81732177700013,-6.13782395198997],[106.81732177700013,-6.13509310752998],[106.81732177700013,-6.13440644895989],[106.81732177700013,-6.1323622471382],[106.82006835900017,-6.13236224689555],[106.82006835900017,-6.12963137461117],[106.82109245886181,-6.12860138471032],[106.82281494100016,-6.12917884537397],[106.82556152300003,-6.12825805610736]]],"type":"Polygon"}
+}

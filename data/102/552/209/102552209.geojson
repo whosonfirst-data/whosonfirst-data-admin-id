@@ -1,0 +1,93 @@
+{
+  "id": 102552209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.569444,3.326667,117.569444,3.326667",
+    "geom:latitude":3.326667,
+    "geom:longitude":117.569444,
+    "gn:elevation":6,
+    "iso:country":"ID",
+    "lbl:latitude":3.32622,
+    "lbl:longitude":117.56714,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_variant":[
+        "TRK",
+        "KTRK"
+    ],
+    "name:unk_x_variant":[
+        "Tarakan / Juwata"
+    ],
+    "oa:elevation_ft":"23",
+    "oa:type":"medium_airport",
+    "src:centroid_lbl":"geonames",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424846,
+        "county_id":56000111,
+        "planet_id":1,
+        "state_id":2345723
+    },
+    "wof:belongsto":[
+        85671977,
+        102191569,
+        85632203,
+        102018809,
+        102072637,
+        1108805993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6301277,
+        "gp:id":12513517,
+        "iata:code":"TRK",
+        "icao:code":"KTRK",
+        "oa:id":"26762",
+        "wd:id":"Q2233018",
+        "wk:page":"Juwata_Airport"
+    },
+    "wof:country":"ID",
+    "wof:geomhash":"f61cebf22e8bc83668e86c42087edb98",
+    "wof:hierarchy":[
+        {
+            "campus_id":102552209,
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102072637,
+            "locality_id":102018809,
+            "region_id":85671977
+        },
+        {
+            "campus_id":102552209,
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102072637,
+            "locality_id":102018809,
+            "region_id":1108805993
+        }
+    ],
+    "wof:id":102552209,
+    "wof:lastmodified":1501272890,
+    "wof:name":"Tarakan Airport",
+    "wof:parent_id":102018809,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    117.569444,
+    3.326667,
+    117.569444,
+    3.326667
+],
+  "geometry": {"coordinates":[117.569444,3.326667],"type":"Point"}
+}

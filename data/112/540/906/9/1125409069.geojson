@@ -1,0 +1,77 @@
+{
+  "id": 1125409069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.4789,-8.5924,116.4789,-8.5924",
+    "geom:latitude":-8.5924,
+    "geom:longitude":116.4789,
+    "gn:gn_country":"ID",
+    "gn:gn_fcode":"ADM4",
+    "gn:gn_pop":0,
+    "iso:country":"ID",
+    "lbl:latitude":-8.5924,
+    "lbl:longitude":116.4789,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ind_x_preferred":[
+        "Desa Pringgasela"
+    ],
+    "qs_pg:aaroncc":"ID",
+    "qs_pg:gn_country":"ID",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":7377062,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Desa Pringgasela",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1154531,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        85672103,
+        102073213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7377062,
+        "qs_pg:id":1154531
+    },
+    "wof:country":"ID",
+    "wof:created":1497049852,
+    "wof:geomhash":"53790a1547fc737e2bb6bc76292b8d97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102073213,
+            "localadmin_id":1125409069,
+            "region_id":85672103
+        }
+    ],
+    "wof:id":1125409069,
+    "wof:lastmodified":1509390213,
+    "wof:name":"Desa Pringgasela",
+    "wof:parent_id":102073213,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.4789,
+    -8.5924,
+    116.4789,
+    -8.5924
+],
+  "geometry": {"coordinates":[116.4789,-8.5924],"type":"Point"}
+}

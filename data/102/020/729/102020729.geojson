@@ -1,0 +1,86 @@
+{
+  "id": 102020729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00019,
+    "geom:area_square_m":2335149.598038,
+    "geom:bbox":"106.81449072,-6.72030125717,106.828511813,-6.70050322464",
+    "geom:latitude":-6.71035,
+    "geom:longitude":106.822059,
+    "gn:latitude":-6.70611,
+    "gn:longitude":106.82139,
+    "gn:population":91845,
+    "iso:country":"ID",
+    "lbl:latitude":-6.710293,
+    "lbl:longitude":106.821926,
+    "mps:latitude":-6.710293,
+    "mps:longitude":106.821926,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ind_x_preferred":[
+        "Caringin"
+    ],
+    "name:unk_x_variant":[
+        "Tjaringin"
+    ],
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Caringin",
+    "qs:loc_lc":"1647298",
+    "qs:pop":0,
+    "qs:source":"Nquattroshapes",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        85671983,
+        102073217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1647298,
+        "gp:id":1031203,
+        "qs:id":133814,
+        "qs_pg:id":133814
+    },
+    "wof:country":"ID",
+    "wof:geomhash":"f584628fc7d580b022d431f308edbb51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102073217,
+            "locality_id":102020729,
+            "region_id":85671983
+        }
+    ],
+    "wof:id":102020729,
+    "wof:lastmodified":1505338969,
+    "wof:name":"Caringin",
+    "wof:parent_id":102073217,
+    "wof:placetype":"locality",
+    "wof:population":91845,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.8144907203786,
+    -6.72030125717078,
+    106.8285118127532,
+    -6.70050322463642
+],
+  "geometry": {"coordinates":[[[106.82830810550011,-6.70276067807499],[106.82693481400004,-6.70552617875003],[106.82693481400004,-6.71171557081939],[106.82851181275321,-6.71753775067593],[106.8255058949343,-6.72030125717078],[106.8205691995007,-6.72015062530238],[106.81880704871993,-6.71916488378498],[106.81695320636608,-6.70983171030762],[106.8144907203786,-6.70522698706235],[106.81542274235544,-6.70100400633164],[106.82006835900008,-6.70256320127422],[106.82006835900008,-6.70279838119004],[106.82076907685233,-6.70279838119004],[106.82111937764488,-6.70291595163674],[106.82146967916894,-6.70279838119004],[106.82281494100003,-6.70279838119004],[106.82556152300008,-6.70279838119004],[106.82556152300008,-6.70142505029037],[106.82830810550011,-6.70050322463642],[106.82830810550011,-6.70276067807499]]],"type":"Polygon"}
+}

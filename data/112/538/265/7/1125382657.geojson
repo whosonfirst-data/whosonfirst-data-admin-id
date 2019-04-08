@@ -1,0 +1,80 @@
+{
+  "id": 1125382657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.823,-1.5781,100.823,-1.5781",
+    "geom:latitude":-1.5781,
+    "geom:longitude":100.823,
+    "gn:gn_country":"ID",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":0,
+    "iso:country":"ID",
+    "lbl:latitude":-1.5781,
+    "lbl:longitude":100.823,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ind_x_preferred":[
+        "Kecamatan Lengayang"
+    ],
+    "name:unk_x_variant":[
+        "Lengayang"
+    ],
+    "qs_pg:aaroncc":"ID",
+    "qs_pg:gn_country":"ID",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8458205,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Kecamatan Lengayang",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":381744,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        85672087,
+        102072853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8458205,
+        "qs_pg:id":381744
+    },
+    "wof:country":"ID",
+    "wof:created":1497048147,
+    "wof:geomhash":"15715a314e54fe9da65e86d3d6c1e56f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102072853,
+            "localadmin_id":1125382657,
+            "region_id":85672087
+        }
+    ],
+    "wof:id":1125382657,
+    "wof:lastmodified":1509389630,
+    "wof:name":"Kecamatan Lengayang",
+    "wof:parent_id":102072853,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.823,
+    -1.5781,
+    100.823,
+    -1.5781
+],
+  "geometry": {"coordinates":[100.82299999999999,-1.5781],"type":"Point"}
+}

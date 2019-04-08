@@ -1,0 +1,80 @@
+{
+  "id": 1125395089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.72333,-7.64,109.72333,-7.64",
+    "geom:latitude":-7.64,
+    "geom:longitude":109.72333,
+    "gn:gn_country":"ID",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":0,
+    "iso:country":"ID",
+    "lbl:latitude":-7.64,
+    "lbl:longitude":109.72333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ind_x_preferred":[
+        "Kecamatan Alian"
+    ],
+    "name:unk_x_variant":[
+        "Alian"
+    ],
+    "qs_pg:aaroncc":"ID",
+    "qs_pg:gn_country":"ID",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6376475,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Kecamatan Alian",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1043530,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        85671987,
+        102072639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6376475,
+        "qs_pg:id":1043530
+    },
+    "wof:country":"ID",
+    "wof:created":1497048958,
+    "wof:geomhash":"093c64ec42f84619f24c8ff46553fc22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102072639,
+            "localadmin_id":1125395089,
+            "region_id":85671987
+        }
+    ],
+    "wof:id":1125395089,
+    "wof:lastmodified":1509389927,
+    "wof:name":"Kecamatan Alian",
+    "wof:parent_id":102072639,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.72333,
+    -7.64,
+    109.72333,
+    -7.64
+],
+  "geometry": {"coordinates":[109.72333,-7.64],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 102021883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000018,
+    "geom:area_square_m":217016.98529,
+    "geom:bbox":"106.703667562,-6.29801155428,106.708484336,-6.29277625028",
+    "geom:latitude":-6.295333,
+    "geom:longitude":106.706108,
+    "gn:latitude":-6.322,
+    "gn:longitude":106.7592,
+    "iso:country":"ID",
+    "lbl:latitude":-6.295316,
+    "lbl:longitude":106.706153,
+    "mps:latitude":-6.295316,
+    "mps:longitude":106.706153,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ind_x_preferred":[
+        "Kecamatan Ciputat"
+    ],
+    "name:unk_x_variant":[
+        "Ciputat"
+    ],
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Kecamatan Ciputat",
+    "qs:loc_lc":"6751091",
+    "qs:pop":0,
+    "qs:source":"Nquattroshapes",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        85671995,
+        102072687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6751091,
+        "gp:id":1034279,
+        "qs:id":356674,
+        "wd:id":"Q3058349",
+        "wk:page":"Ciputat"
+    },
+    "wof:country":"ID",
+    "wof:geomhash":"0471bfcfc2ba3b5699cafebea7c04631",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102072687,
+            "locality_id":102021883,
+            "region_id":85671995
+        }
+    ],
+    "wof:id":102021883,
+    "wof:lastmodified":1501273098,
+    "wof:name":"Kecamatan Ciputat",
+    "wof:parent_id":102072687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.70366756171985,
+    -6.29801155427576,
+    106.70848433646798,
+    -6.29277625028001
+],
+  "geometry": {"coordinates":[[[106.70848433646798,-6.29550627638501],[106.70723925311104,-6.29801155427576],[106.70528100839415,-6.29773010620798],[106.70366756379774,-6.29529524971706],[106.7037196343703,-6.29482377254998],[106.70366756171985,-6.29435227532461],[106.7040252690001,-6.29381246191767],[106.70608520550014,-6.29277625028001],[106.70678010043285,-6.29277625028001],[106.70745849646606,-6.29345875992676],[106.70814514200008,-6.29414956815934],[106.70814514200008,-6.29482377254998],[106.70848433646798,-6.29550627638501]]],"type":"Polygon"}
+}

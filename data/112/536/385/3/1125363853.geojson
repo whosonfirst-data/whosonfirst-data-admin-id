@@ -1,0 +1,80 @@
+{
+  "id": 1125363853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.49635,-4.05093,104.49635,-4.05093",
+    "geom:latitude":-4.05093,
+    "geom:longitude":104.49635,
+    "gn:gn_country":"ID",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":0,
+    "iso:country":"ID",
+    "lbl:latitude":-4.05093,
+    "lbl:longitude":104.49635,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ind_x_preferred":[
+        "Kecamatan Belitang"
+    ],
+    "name:unk_x_variant":[
+        "Belitang"
+    ],
+    "qs_pg:aaroncc":"ID",
+    "qs_pg:gn_country":"ID",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8361780,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Kecamatan Belitang",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1246227,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        85672013,
+        102073443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8361780,
+        "qs_pg:id":1246227
+    },
+    "wof:country":"ID",
+    "wof:created":1497046959,
+    "wof:geomhash":"28c17df31625ad9a16d4c7332a3ee5d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102073443,
+            "localadmin_id":1125363853,
+            "region_id":85672013
+        }
+    ],
+    "wof:id":1125363853,
+    "wof:lastmodified":1509389155,
+    "wof:name":"Kecamatan Belitang",
+    "wof:parent_id":102073443,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.49635,
+    -4.05093,
+    104.49635,
+    -4.05093
+],
+  "geometry": {"coordinates":[104.49635000000001,-4.05093],"type":"Point"}
+}

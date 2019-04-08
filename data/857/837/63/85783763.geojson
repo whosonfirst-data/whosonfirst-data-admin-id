@@ -1,0 +1,116 @@
+{
+  "id": 85783763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000435,
+    "geom:area_square_m":5345001.573647,
+    "geom:bbox":"106.746896973,-6.17878486538,106.770617206,-6.15513161871",
+    "geom:latitude":-6.16632,
+    "geom:longitude":106.759037,
+    "gn:latitude":-6.1736,
+    "gn:longitude":106.7631,
+    "iso:country":"ID",
+    "lbl:latitude":-6.165739,
+    "lbl:longitude":106.759338,
+    "mps:latitude":-6.165398,
+    "mps:longitude":106.758076,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":4,
+    "name:eng_x_preferred":[
+        "Kedoya Utara"
+    ],
+    "name:ind_x_preferred":[
+        "Kedoya Utara"
+    ],
+    "name:msa_x_preferred":[
+        "Kedoya Utara"
+    ],
+    "name:nld_x_preferred":[
+        "Kedoya Utara"
+    ],
+    "name:sun_x_preferred":[
+        "Kedoya Utara"
+    ],
+    "name:unk_x_variant":[
+        "Kedoya Utara"
+    ],
+    "qs:gn_adm0_cc":"ID",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":1642911,
+    "qs:gn_nam_loc":"Jakarta, Jakarta Raya, ID",
+    "qs:gn_namadm1":"04",
+    "qs:gn_name":"Kedoya Utara",
+    "qs:local_max":20589,
+    "qs:local_sum":67909,
+    "qs:localhoods":139,
+    "qs:name":"Kedoya Utara",
+    "qs:name_adm0":"Indonesia",
+    "qs:name_adm1":"Jakarta Raya",
+    "qs:name_adm2":"Kotamadya Jakarta Barat",
+    "qs:name_local":"Jakarta",
+    "qs:photo_max":5,
+    "qs:photo_sum":9,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":3,
+    "qs:woe_adm0":23424846,
+    "qs:woe_adm1":2345713,
+    "qs:woe_adm2":56000230,
+    "qs:woe_lau":0,
+    "qs:woe_local":1047378,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102020439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6754869,
+        "gp:id":56004899,
+        "qs:id":1207187,
+        "qs_pg:id":1207187
+    },
+    "wof:country":"ID",
+    "wof:geomhash":"87420ad6ca136d230364490ba90ae8f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":102020439,
+            "neighbourhood_id":85783763,
+            "region_id":-1
+        }
+    ],
+    "wof:id":85783763,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1507659363,
+    "wof:name":"Kedoya Utara",
+    "wof:parent_id":102020439,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.74689697300005,
+    -6.17878486538247,
+    106.77061720622316,
+    -6.15513161871493
+],
+  "geometry": {"coordinates":[[[106.76906970259552,-6.15769316318276],[106.77061720622316,-6.16236265611606],[106.76788330100015,-6.1678623018371],[106.76788330100015,-6.17878486538247],[106.75964355500008,-6.17878486538247],[106.75490783740992,-6.17719706917204],[106.75489868864514,-6.17718326591093],[106.75491935317115,-6.17717699739562],[106.75479480010489,-6.1770252290452],[106.75479837448648,-6.17703191624267],[106.75350240751408,-6.1750766172722],[106.75315134167499,-6.17441981928349],[106.75314494882866,-6.17439874489379],[106.75314306541958,-6.17439253612562],[106.75307013867655,-6.17437041404004],[106.75255772599803,-6.17409652375714],[106.75256322030714,-6.17410103281995],[106.75024439769214,-6.17254613444882],[106.74982590518829,-6.17220268652682],[106.74858227687713,-6.17068732104501],[106.74765817767508,-6.16895845303847],[106.74708912019616,-6.16708252193513],[106.74689697300005,-6.16513161871482],[106.74708912019616,-6.16318071549469],[106.74765817767508,-6.16130478439108],[106.74858227687713,-6.15957591638464],[106.74982590518829,-6.158060550903],[106.75134127067003,-6.15681692259191],[106.75307013867655,-6.15589282338978],[106.75494606977998,-6.15532376591078],[106.75689697300021,-6.15513161871493],[106.75884787622033,-6.15532376591078],[106.75964355500008,-6.15556513243008],[106.76043923378,-6.15532376591078],[106.76239013700012,-6.15513161871493],[106.76434104022036,-6.15532376591078],[106.76621697132396,-6.15589282338978],[106.76794583933031,-6.15681692259191],[106.76906055007305,-6.15773174205618],[106.76906177619617,-6.15771929301972],[106.76906970259552,-6.15769316318276]]],"type":"Polygon"}
+}

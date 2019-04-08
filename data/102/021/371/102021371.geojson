@@ -1,0 +1,84 @@
+{
+  "id": 102021371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":22887.205012,
+    "geom:bbox":"110.330200195,-7.8293709607,110.331573486,-7.82801046909",
+    "geom:latitude":-7.828691,
+    "geom:longitude":110.330887,
+    "gn:latitude":-7.82694,
+    "gn:longitude":110.32917,
+    "gn:population":86234,
+    "iso:country":"ID",
+    "lbl:latitude":-7.828691,
+    "lbl:longitude":110.330886,
+    "mps:latitude":-7.828691,
+    "mps:longitude":110.330886,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"Indonesia",
+    "qs:a1":"*Daerah Istimewa Yogyakarta",
+    "qs:a1r":"*",
+    "qs:a2":"Bantul",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Kasihan",
+    "qs:loc_alt":"Kasihan",
+    "qs:loc_lc":"2005237",
+    "qs:pop":0,
+    "qs:source":"Nquattroshapes",
+    "qs:type":"Town",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        85672093,
+        102073313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2005237,
+        "gp:id":28316094,
+        "qs:id":213561,
+        "qs_pg:id":213561
+    },
+    "wof:country":"ID",
+    "wof:geomhash":"dac35ac78e817f3a0f8c94824682a644",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102073313,
+            "locality_id":102021371,
+            "region_id":85672093
+        }
+    ],
+    "wof:id":102021371,
+    "wof:lastmodified":1505338972,
+    "wof:name":"Kasihan",
+    "wof:parent_id":102073313,
+    "wof:placetype":"locality",
+    "wof:population":86234,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.330200195,
+    -7.8293709607,
+    110.331573486,
+    -7.82801046909
+],
+  "geometry": {"coordinates":[[[110.330200195,-7.8293709607],[110.330200195,-7.82801046909],[110.331573486,-7.82801046909],[110.331573486,-7.8293709607],[110.330200195,-7.8293709607]]],"type":"Polygon"}
+}

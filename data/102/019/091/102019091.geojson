@@ -1,0 +1,105 @@
+{
+  "id": 102019091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000427,
+    "geom:area_square_m":5245255.994472,
+    "geom:bbox":"106.549512404,-6.14122800091,106.572084522,-6.11240271565",
+    "geom:latitude":-6.128717,
+    "geom:longitude":106.561246,
+    "gn:population":118439,
+    "iso:country":"ID",
+    "lbl:latitude":-6.128797,
+    "lbl:longitude":106.561031,
+    "mps:latitude":-6.128797,
+    "mps:longitude":106.561031,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u067e\u062a\u0627\u0646"
+    ],
+    "name:ind_x_preferred":[
+        "Sepatan"
+    ],
+    "name:jav_x_preferred":[
+        "Sepatan"
+    ],
+    "name:msa_x_preferred":[
+        "Sepatan"
+    ],
+    "name:nld_x_preferred":[
+        "Sepatan"
+    ],
+    "name:nor_x_preferred":[
+        "Sepatan"
+    ],
+    "name:unk_x_variant":[
+        "Sepaitan"
+    ],
+    "qs:a0":"Indonesia",
+    "qs:a1":"*Banten",
+    "qs:a1r":"*",
+    "qs:a2":"Tangerang Kabupaten",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Sepatan",
+    "qs:loc_alt":"Sepatan",
+    "qs:loc_lc":"1627610",
+    "qs:pop":0,
+    "qs:source":"Nquattroshapes",
+    "qs:type":"Town",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":41,
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        85671995,
+        102072687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1627610,
+        "gp:id":1043121,
+        "qs:id":1247774,
+        "qs_pg:id":1247774,
+        "wd:id":"Q965413"
+    },
+    "wof:country":"ID",
+    "wof:geomhash":"6a17ccfec0d0b90e51d62cc36c941126",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102072687,
+            "locality_id":102019091,
+            "region_id":85671995
+        }
+    ],
+    "wof:id":102019091,
+    "wof:lastmodified":1527637818,
+    "wof:name":"Sepatan",
+    "wof:parent_id":102072687,
+    "wof:placetype":"locality",
+    "wof:population":118439,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.54951240428447,
+    -6.14122800091406,
+    106.572084522357,
+    -6.11240271564903
+],
+  "geometry": {"coordinates":[[[106.56542953851452,-6.11597680144],[106.56693807577567,-6.11870774718999],[106.56738281300004,-6.11870774718999],[106.56738281300004,-6.11951286699991],[106.57134041604097,-6.12667742268135],[106.57092083673517,-6.12963132073499],[106.572084522357,-6.13236221412001],[106.5718519028871,-6.13399992182617],[106.56843046711363,-6.13973519215141],[106.56738281300004,-6.14008642509422],[106.56738281300004,-6.14055478244997],[106.56484259557065,-6.14055478244997],[106.56326293950009,-6.14083515350283],[106.55662284427008,-6.14122800091406],[106.55602367962986,-6.14086642722707],[106.55090332000005,-6.13228329241333],[106.55090332000005,-6.12963132073499],[106.54951240428447,-6.12683349373646],[106.55024293777196,-6.12489649397196],[106.55639642850313,-6.11870774718999],[106.55639648400008,-6.11870774718999],[106.55639648400008,-6.11870769137508],[106.56266554154224,-6.11240271564903],[106.56542953851452,-6.11597680144]]],"type":"Polygon"}
+}

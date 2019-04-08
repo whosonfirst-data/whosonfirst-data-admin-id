@@ -1,0 +1,120 @@
+{
+  "id": 85768179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000113,
+    "geom:area_square_m":1391292.303599,
+    "geom:bbox":"106.811743271,-6.13236224859,106.825561523,-6.12143867201",
+    "geom:latitude":-6.127007,
+    "geom:longitude":106.818108,
+    "iso:country":"ID",
+    "lbl:latitude":-6.129288,
+    "lbl:longitude":106.815808,
+    "mps:latitude":-6.1269,
+    "mps:longitude":106.81742,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":4,
+    "name:ceb_x_preferred":[
+        "Kelurahan Ancol"
+    ],
+    "name:eng_x_preferred":[
+        "Ancol"
+    ],
+    "name:eng_x_variant":[
+        "Anjol",
+        "Antjol"
+    ],
+    "name:ind_x_preferred":[
+        "Ancol"
+    ],
+    "name:msa_x_preferred":[
+        "Ancol"
+    ],
+    "name:nld_x_preferred":[
+        "Ancol"
+    ],
+    "name:sun_x_preferred":[
+        "Ancol"
+    ],
+    "name:unk_x_variant":[
+        "Ancol"
+    ],
+    "qs:gn_adm0_cc":"ID",
+    "qs:gn_id":0,
+    "qs:gn_local":1642911,
+    "qs:gn_nam_loc":"Jakarta, Jakarta Raya, ID",
+    "qs:gn_namadm1":"04",
+    "qs:id":0,
+    "qs:local_max":20589,
+    "qs:local_sum":67909,
+    "qs:localhoods":139,
+    "qs:name":"Ancol",
+    "qs:name_adm0":"Indonesia",
+    "qs:name_adm1":"Jakarta Raya",
+    "qs:name_local":"Jakarta",
+    "qs:photo_max":389,
+    "qs:photo_sum":678,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":14,
+    "qs:woe_adm0":23424846,
+    "qs:woe_adm1":2345713,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":1047378,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85672001,
+        102191569,
+        85632203,
+        102020429,
+        102073125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1028940
+    },
+    "wof:country":"ID",
+    "wof:geomhash":"a116b3d79fbba51c4b6ee97c36a0a618",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102073125,
+            "locality_id":102020429,
+            "neighbourhood_id":85768179,
+            "region_id":85672001
+        }
+    ],
+    "wof:id":85768179,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527269400,
+    "wof:name":"Ancol",
+    "wof:parent_id":102020429,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.81174327066316,
+    -6.13236224859384,
+    106.82556152300003,
+    -6.12143867200986
+],
+  "geometry": {"coordinates":[[[106.82052872533723,-6.12143867200986],[106.82143383258637,-6.12416958669908],[106.82419605088876,-6.12416958333289],[106.82556152300003,-6.12416958984998],[106.82556152300003,-6.12554289637858],[106.82556152300003,-6.12825805610736],[106.82556152300003,-6.12963137665007],[106.82006835900017,-6.12963137461117],[106.82006835900017,-6.13236224689555],[106.81732177700013,-6.1323622471382],[106.81525792198676,-6.13236224798749],[106.81457519500009,-6.13236224798588],[106.81320190400004,-6.13236224859384],[106.8132019040001,-6.13099681406457],[106.81216997754711,-6.13099681424639],[106.8118286130001,-6.13099681460992],[106.8118286130001,-6.13065348569253],[106.8118286130001,-6.12963137665007],[106.8118286130001,-6.12894471812038],[106.8118286130001,-6.12758714526261],[106.8118286130001,-6.12690049023999],[106.8118286130001,-6.12484052173177],[106.81174327066316,-6.12458302486981],[106.8117839874318,-6.12421446806624],[106.8118286130001,-6.12416958781401],[106.81457519500009,-6.12416958766862],[106.81457519500009,-6.12143867331868],[106.81732177700013,-6.12143867356106],[106.820068359,-6.12143867332817],[106.82052872533723,-6.12143867200986]]],"type":"Polygon"}
+}

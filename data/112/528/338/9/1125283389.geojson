@@ -1,0 +1,80 @@
+{
+  "id": 1125283389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.72767,-6.90704,109.72767,-6.90704",
+    "geom:latitude":-6.90704,
+    "geom:longitude":109.72767,
+    "gn:gn_country":"ID",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":0,
+    "iso:country":"ID",
+    "lbl:latitude":-6.90704,
+    "lbl:longitude":109.72767,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ind_x_preferred":[
+        "Kecamatan Batang"
+    ],
+    "name:unk_x_variant":[
+        "Batang"
+    ],
+    "qs_pg:aaroncc":"ID",
+    "qs_pg:gn_country":"ID",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6762777,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Kecamatan Batang",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1038980,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        85671987,
+        102073205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6762777,
+        "qs_pg:id":1038980
+    },
+    "wof:country":"ID",
+    "wof:created":1497042598,
+    "wof:geomhash":"bfad5223850f3dbfb7c5a7d7c9320989",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102073205,
+            "localadmin_id":1125283389,
+            "region_id":85671987
+        }
+    ],
+    "wof:id":1125283389,
+    "wof:lastmodified":1509387353,
+    "wof:name":"Kecamatan Batang",
+    "wof:parent_id":102073205,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.72767,
+    -6.90704,
+    109.72767,
+    -6.90704
+],
+  "geometry": {"coordinates":[109.72767,-6.90704],"type":"Point"}
+}

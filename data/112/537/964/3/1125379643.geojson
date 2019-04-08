@@ -1,0 +1,80 @@
+{
+  "id": 1125379643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.80778,-6.61889,106.80778,-6.61889",
+    "geom:latitude":-6.61889,
+    "geom:longitude":106.80778,
+    "gn:gn_country":"ID",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":0,
+    "iso:country":"ID",
+    "lbl:latitude":-6.61889,
+    "lbl:longitude":106.80778,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ind_x_preferred":[
+        "Kecamatan Bogor Selatan"
+    ],
+    "name:unk_x_variant":[
+        "Bogor Selatan"
+    ],
+    "qs_pg:aaroncc":"ID",
+    "qs_pg:gn_country":"ID",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6598070,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Kecamatan Bogor Selatan",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1038601,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        85671983,
+        102073411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6598070,
+        "qs_pg:id":1038601
+    },
+    "wof:country":"ID",
+    "wof:created":1497047965,
+    "wof:geomhash":"73667ec678827d22c5bc2447fd44611f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102073411,
+            "localadmin_id":1125379643,
+            "region_id":85671983
+        }
+    ],
+    "wof:id":1125379643,
+    "wof:lastmodified":1509389544,
+    "wof:name":"Kecamatan Bogor Selatan",
+    "wof:parent_id":102073411,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.80778,
+    -6.61889,
+    106.80778,
+    -6.61889
+],
+  "geometry": {"coordinates":[106.80777999999999,-6.61889],"type":"Point"}
+}

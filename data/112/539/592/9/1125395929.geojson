@@ -1,0 +1,80 @@
+{
+  "id": 1125395929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.36,0.6478,117.36,0.6478",
+    "geom:latitude":0.6478,
+    "geom:longitude":117.36,
+    "gn:gn_country":"ID",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":0,
+    "iso:country":"ID",
+    "lbl:latitude":0.6478,
+    "lbl:longitude":117.36,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ind_x_preferred":[
+        "Kecamatan Sangatta"
+    ],
+    "name:unk_x_variant":[
+        "Sangatta"
+    ],
+    "qs_pg:aaroncc":"ID",
+    "qs_pg:gn_country":"ID",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8423844,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Kecamatan Sangatta",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1049691,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        85671977,
+        102073369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8423844,
+        "qs_pg:id":1049691
+    },
+    "wof:country":"ID",
+    "wof:created":1497049013,
+    "wof:geomhash":"5cda34382b566ef630fc56a9b847a7c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102073369,
+            "localadmin_id":1125395929,
+            "region_id":85671977
+        }
+    ],
+    "wof:id":1125395929,
+    "wof:lastmodified":1509389951,
+    "wof:name":"Kecamatan Sangatta",
+    "wof:parent_id":102073369,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.36,
+    0.6478,
+    117.36,
+    0.6478
+],
+  "geometry": {"coordinates":[117.36,0.6478],"type":"Point"}
+}

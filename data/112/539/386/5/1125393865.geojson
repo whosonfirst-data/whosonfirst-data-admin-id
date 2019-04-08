@@ -1,0 +1,80 @@
+{
+  "id": 1125393865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.0969,-8.6097,122.0969,-8.6097",
+    "geom:latitude":-8.6097,
+    "geom:longitude":122.0969,
+    "gn:gn_country":"ID",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":0,
+    "iso:country":"ID",
+    "lbl:latitude":-8.6097,
+    "lbl:longitude":122.0969,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ind_x_preferred":[
+        "Kecamatan Nita"
+    ],
+    "name:unk_x_variant":[
+        "Nita"
+    ],
+    "qs_pg:aaroncc":"ID",
+    "qs_pg:gn_country":"ID",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7390099,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Kecamatan Nita",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1041239,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        85672037,
+        102073235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7390099,
+        "qs_pg:id":1041239
+    },
+    "wof:country":"ID",
+    "wof:created":1497048883,
+    "wof:geomhash":"adef5cfe350085d976b76a59c6128f91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102073235,
+            "localadmin_id":1125393865,
+            "region_id":85672037
+        }
+    ],
+    "wof:id":1125393865,
+    "wof:lastmodified":1509389886,
+    "wof:name":"Kecamatan Nita",
+    "wof:parent_id":102073235,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.0969,
+    -8.6097,
+    122.0969,
+    -8.6097
+],
+  "geometry": {"coordinates":[122.09690000000001,-8.6097],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1125410017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.615,-1.2025,101.615,-1.2025",
+    "geom:latitude":-1.2025,
+    "geom:longitude":101.615,
+    "gn:gn_country":"ID",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":0,
+    "iso:country":"ID",
+    "lbl:latitude":-1.2025,
+    "lbl:longitude":101.615,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ind_x_preferred":[
+        "Kecamatan Koto Baru"
+    ],
+    "name:unk_x_variant":[
+        "Koto Baru"
+    ],
+    "qs_pg:aaroncc":"ID",
+    "qs_pg:gn_country":"ID",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8458201,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Kecamatan Koto Baru",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1155806,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        85672087,
+        102073521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8458201,
+        "qs_pg:id":1155806
+    },
+    "wof:country":"ID",
+    "wof:created":1497049935,
+    "wof:geomhash":"40c2a286a96b95f69695c6de6f21742b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102073521,
+            "localadmin_id":1125410017,
+            "region_id":85672087
+        }
+    ],
+    "wof:id":1125410017,
+    "wof:lastmodified":1509390236,
+    "wof:name":"Kecamatan Koto Baru",
+    "wof:parent_id":102073521,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.615,
+    -1.2025,
+    101.615,
+    -1.2025
+],
+  "geometry": {"coordinates":[101.61499999999999,-1.2025],"type":"Point"}
+}

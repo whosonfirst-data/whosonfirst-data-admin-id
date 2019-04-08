@@ -1,0 +1,103 @@
+{
+  "id": 102021071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000014,
+    "geom:area_square_m":166219.446922,
+    "geom:bbox":"106.842503983,-6.12246669522,106.84753418,-6.11870774719",
+    "geom:latitude":-6.120447,
+    "geom:longitude":106.845246,
+    "gn:latitude":-6.11806,
+    "gn:longitude":106.86139,
+    "iso:country":"ID",
+    "lbl:latitude":-6.120271,
+    "lbl:longitude":106.845294,
+    "mps:latitude":-6.120271,
+    "mps:longitude":106.845294,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u5b89\u53ef"
+    ],
+    "name:dut_x_preferred":[
+        "Ancol"
+    ],
+    "name:eng_x_preferred":[
+        "Ancol"
+    ],
+    "name:fre_x_preferred":[
+        "Ancol"
+    ],
+    "name:ger_x_preferred":[
+        "Ancol"
+    ],
+    "name:ind_x_preferred":[
+        "Ancol"
+    ],
+    "name:may_x_preferred":[
+        "Ancol"
+    ],
+    "name:sun_x_preferred":[
+        "Ancol"
+    ],
+    "name:swe_x_preferred":[
+        "Kelurahan Ancol"
+    ],
+    "name:unk_x_variant":[
+        "Anjol"
+    ],
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Ancol",
+    "qs:loc_lc":"1651436",
+    "qs:pop":0,
+    "qs:source":"Nquattroshapes",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":947,
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        85672001,
+        102073125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1651436,
+        "wd:id":"Q4753096"
+    },
+    "wof:country":"ID",
+    "wof:geomhash":"cdd0dd638eda1c57386327d4e22c42f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102073125,
+            "locality_id":102021071,
+            "region_id":85672001
+        }
+    ],
+    "wof:id":102021071,
+    "wof:lastmodified":1553815720,
+    "wof:name":"Ancol",
+    "wof:parent_id":102073125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.84250398315312,
+    -6.12246669522097,
+    106.84753418000001,
+    -6.11870774718999
+],
+  "geometry": {"coordinates":[[[106.84753418000001,-6.12007321308998],[106.84753418000001,-6.12143867549996],[106.84616088875005,-6.12143867506494],[106.84548205274636,-6.12212140322001],[106.84478759750009,-6.12212140322001],[106.84410095200018,-6.12246669522097],[106.84295133613925,-6.12188859027323],[106.84250398315312,-6.1209887535401],[106.84341430654253,-6.12007321263505],[106.84410095200018,-6.11938263086826],[106.84410095200018,-6.11871166762178],[106.84410485010405,-6.11870774718999],[106.84478759800005,-6.11870774718999],[106.84616088899999,-6.11870774718999],[106.84753418000001,-6.11870774718999],[106.84753418000001,-6.12007321308998]]],"type":"Polygon"}
+}

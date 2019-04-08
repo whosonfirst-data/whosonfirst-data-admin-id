@@ -1,0 +1,80 @@
+{
+  "id": 1125269915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.56167,-7.6125,109.56167,-7.6125",
+    "geom:latitude":-7.6125,
+    "geom:longitude":109.56167,
+    "gn:gn_country":"ID",
+    "gn:gn_fcode":"ADM4",
+    "gn:gn_pop":0,
+    "iso:country":"ID",
+    "lbl:latitude":-7.6125,
+    "lbl:longitude":109.56167,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ind_x_preferred":[
+        "Desa Wonorejo"
+    ],
+    "name:unk_x_variant":[
+        "Wonorejo"
+    ],
+    "qs_pg:aaroncc":"ID",
+    "qs_pg:gn_country":"ID",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":6372589,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Desa Wonorejo",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":903855,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        85671987,
+        102072639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6372589,
+        "qs_pg:id":903855
+    },
+    "wof:country":"ID",
+    "wof:created":1497042083,
+    "wof:geomhash":"ef06895da9486021716678b58e0b5108",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102072639,
+            "localadmin_id":1125269915,
+            "region_id":85671987
+        }
+    ],
+    "wof:id":1125269915,
+    "wof:lastmodified":1509386990,
+    "wof:name":"Desa Wonorejo",
+    "wof:parent_id":102072639,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.56167,
+    -7.6125,
+    109.56167,
+    -7.6125
+],
+  "geometry": {"coordinates":[109.56167000000001,-7.6125],"type":"Point"}
+}

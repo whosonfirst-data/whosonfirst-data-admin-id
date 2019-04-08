@@ -1,0 +1,80 @@
+{
+  "id": 1125384177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.3787,-8.7872,116.3787,-8.7872",
+    "geom:latitude":-8.7872,
+    "geom:longitude":116.3787,
+    "gn:gn_country":"ID",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":0,
+    "iso:country":"ID",
+    "lbl:latitude":-8.7872,
+    "lbl:longitude":116.3787,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "East Praya District"
+    ],
+    "name:ind_x_preferred":[
+        "Kecamatan Praya Timur"
+    ],
+    "qs_pg:aaroncc":"ID",
+    "qs_pg:gn_country":"ID",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7335285,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Kecamatan Praya Timur",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1041138,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        85672103,
+        102072705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7335285,
+        "qs_pg:id":1041138
+    },
+    "wof:country":"ID",
+    "wof:created":1497048256,
+    "wof:geomhash":"1df80b3f0ec785356dbb699cd5a9edb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102072705,
+            "localadmin_id":1125384177,
+            "region_id":85672103
+        }
+    ],
+    "wof:id":1125384177,
+    "wof:lastmodified":1509389661,
+    "wof:name":"Kecamatan Praya Timur",
+    "wof:parent_id":102072705,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.3787,
+    -8.7872,
+    116.3787,
+    -8.7872
+],
+  "geometry": {"coordinates":[116.37869999999999,-8.7872],"type":"Point"}
+}

@@ -1,0 +1,89 @@
+{
+  "id": 1126096023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.7954,-6.1443,106.7954,-6.1443",
+    "geom:latitude":-6.1443,
+    "geom:longitude":106.7954,
+    "gn:gn_country":"ID",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"ID",
+    "lbl:latitude":-6.1443,
+    "lbl:longitude":106.7954,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"ID",
+    "qs_pg:gn_country":"ID",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1651386,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Angke",
+    "qs_pg:name_adm0":"Indonesia",
+    "qs_pg:name_adm1":"Jakarta Raya",
+    "qs_pg:photos":21,
+    "qs_pg:photos_1k":4,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":21,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1091398,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424846,
+    "qs_pg:woe_id":1028971,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424846,
+    "woe:name_adm0":"Indonesia",
+    "woe:name_adm1":"Jakarta Raya",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102020439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1651386,
+        "gp:id":1028971,
+        "qs_pg:id":1091398
+    },
+    "wof:country":"ID",
+    "wof:created":1497315227,
+    "wof:geomhash":"d4d534f7d57da6c1286dda7f06ef468a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":102020439,
+            "neighbourhood_id":1126096023,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1126096023,
+    "wof:lastmodified":1534379337,
+    "wof:name":"Angke",
+    "wof:parent_id":102020439,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[
+        85768183
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.7954,
+    -6.1443,
+    106.7954,
+    -6.1443
+],
+  "geometry": {"coordinates":[106.7954,-6.1443],"type":"Point"}
+}

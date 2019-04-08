@@ -1,0 +1,112 @@
+{
+  "id": 85783715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000189,
+    "geom:area_square_m":2325804.674157,
+    "geom:bbox":"106.764369885,-6.25114976152,106.787109375,-6.23609234578",
+    "geom:latitude":-6.244973,
+    "geom:longitude":106.77671,
+    "gn:latitude":-6.0341,
+    "gn:longitude":106.1998,
+    "iso:country":"ID",
+    "lbl:latitude":-6.245257,
+    "lbl:longitude":106.781764,
+    "mps:latitude":-6.245124,
+    "mps:longitude":106.777484,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":4,
+    "name:ind_x_preferred":[
+        "Kebonlama"
+    ],
+    "name:und_x_preferred":[
+        "Kebayoranlama"
+    ],
+    "name:unk_x_variant":[
+        "Kebayoranlama"
+    ],
+    "qs:gn_adm0_cc":"ID",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":1642911,
+    "qs:gn_nam_loc":"Jakarta, Jakarta Raya, ID",
+    "qs:gn_namadm1":"33",
+    "qs:gn_name":"Kebonlama",
+    "qs:local_max":20589,
+    "qs:local_sum":67909,
+    "qs:localhoods":139,
+    "qs:name":"Kebayoranlama",
+    "qs:name_adm0":"Indonesia",
+    "qs:name_adm1":"Jakarta Raya",
+    "qs:name_adm2":"Kotamadya Jakarta Selatan",
+    "qs:name_local":"Jakarta",
+    "qs:photo_max":74,
+    "qs:photo_sum":190,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":10,
+    "qs:woe_adm0":23424846,
+    "qs:woe_adm1":2345713,
+    "qs:woe_adm2":56000233,
+    "qs:woe_lau":0,
+    "qs:woe_local":1047378,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85672001,
+        0,
+        85632203,
+        102020239,
+        102072667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6762448,
+        "gp:id":56004788,
+        "qs:id":392703,
+        "qs_pg:id":392703
+    },
+    "wof:country":"ID",
+    "wof:geomhash":"99e207f4ac7974e60e323dd16b37c22a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102072667,
+            "locality_id":102020239,
+            "neighbourhood_id":85783715,
+            "region_id":85672001
+        }
+    ],
+    "wof:id":85783715,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1497312178,
+    "wof:name":"Kebayoranlama",
+    "wof:parent_id":102020239,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.76436988461796,
+    -6.25114976152335,
+    106.78710937500011,
+    -6.23609234578198
+],
+  "geometry": {"coordinates":[[[106.77956845164368,-6.23679533185667],[106.78025103747467,-6.23885530553994],[106.78161621100008,-6.23885530553994],[106.78161621100008,-6.24158561165278],[106.78436279300013,-6.24158561158634],[106.78436279300013,-6.24431590562645],[106.78710937500011,-6.24431590587362],[106.78710937500011,-6.24704618558315],[106.78573608400018,-6.2484276784667],[106.78573608400018,-6.24976825634154],[106.78571163954661,-6.24977645322996],[106.7816162110002,-6.25114976152335],[106.77886962900021,-6.25022875806879],[106.77612304700006,-6.25114976152335],[106.77475789754078,-6.2497764465799],[106.77062988300014,-6.24977644689662],[106.76513671900011,-6.2442504326705],[106.76436988461796,-6.24270759446824],[106.76440544142508,-6.24271838050768],[106.76501093685459,-6.2415855782348],[106.77340893018771,-6.2415855782348],[106.77612304308587,-6.23885530164893],[106.77886962900021,-6.23609234578198],[106.77956845164368,-6.23679533185667]]],"type":"Polygon"}
+}

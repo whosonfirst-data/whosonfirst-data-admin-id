@@ -1,0 +1,105 @@
+{
+  "id": 85768471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000266,
+    "geom:area_square_m":3267104.585755,
+    "geom:bbox":"106.767710422,-6.1146191551,106.784362793,-6.09368739048",
+    "geom:latitude":-6.103727,
+    "geom:longitude":106.776304,
+    "gn:latitude":-6.12639,
+    "gn:longitude":106.79556,
+    "iso:country":"ID",
+    "lbl:latitude":-6.10735,
+    "lbl:longitude":106.775838,
+    "mps:latitude":-6.103862,
+    "mps:longitude":106.776978,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":4,
+    "name:eng_x_preferred":[
+        "Pekoelitan"
+    ],
+    "name:unk_x_variant":[
+        "Pekulitan",
+        "Pekoelitan"
+    ],
+    "qs:gn_adm0_cc":"ID",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":1642911,
+    "qs:gn_nam_loc":"Jakarta, Jakarta Raya, ID",
+    "qs:gn_namadm1":"04",
+    "qs:gn_name":"Pekulitan",
+    "qs:local_max":20589,
+    "qs:local_sum":67909,
+    "qs:localhoods":139,
+    "qs:name":"Pekoelitan",
+    "qs:name_adm0":"Indonesia",
+    "qs:name_adm1":"Jakarta Raya",
+    "qs:name_adm2":"Kotamadya Jakarta Utara",
+    "qs:name_local":"Jakarta",
+    "qs:photo_max":40,
+    "qs:photo_sum":101,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":7,
+    "qs:woe_adm0":23424846,
+    "qs:woe_adm1":2345713,
+    "qs:woe_adm2":56000235,
+    "qs:woe_lau":0,
+    "qs:woe_local":1047378,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102020439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1631737,
+        "gp:id":1040793,
+        "qs:id":110983,
+        "qs_pg:id":110983
+    },
+    "wof:country":"ID",
+    "wof:geomhash":"1fd71fc4170e5568e1ecb5b9b6f4eaf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":102020439,
+            "neighbourhood_id":85768471,
+            "region_id":-1
+        }
+    ],
+    "wof:id":85768471,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1507659306,
+    "wof:name":"Pekoelitan",
+    "wof:parent_id":102020439,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.76771042225676,
+    -6.11461915509646,
+    106.78436279300024,
+    -6.09368739048482
+],
+  "geometry": {"coordinates":[[[106.78161621100008,-6.11188035666974],[106.78161621100008,-6.11324584872003],[106.78025071175034,-6.11324584084711],[106.77748854686479,-6.11324584221217],[106.77612304700006,-6.11461915509646],[106.77202656681789,-6.11324584871993],[106.77097904422362,-6.11289467664194],[106.77145230154565,-6.11051487507733],[106.77090920936422,-6.10778389098984],[106.76927991620187,-6.10505289297454],[106.76856605999012,-6.10433496179692],[106.76771042225676,-6.09659027919609],[106.76919405366993,-6.0953726943619],[106.77092292167657,-6.09444859515985],[106.77279885278,-6.09387953768093],[106.77474975600012,-6.09368739048482],[106.77670065922035,-6.09387953768093],[106.77857659032378,-6.09444859515985],[106.77986912463643,-6.09513946914338],[106.7798963299976,-6.09515401071187],[106.77995704385501,-6.09515999050488],[106.78164723519166,-6.09685980498232],[106.78436279300024,-6.10232187059457],[106.78436279300024,-6.10364831936405],[106.78436279300007,-6.10778389447007],[106.78436279300007,-6.11051487652843],[106.78300506947551,-6.11188035666974],[106.78161621100008,-6.11188035666974]]],"type":"Polygon"}
+}

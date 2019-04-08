@@ -1,0 +1,84 @@
+{
+  "id": 102019555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00084,
+    "geom:area_square_m":10317163.847884,
+    "geom:bbox":"107.193603516,-6.43540076513,107.2265625,-6.39173048548",
+    "geom:latitude":-6.408107,
+    "geom:longitude":107.213222,
+    "iso:country":"ID",
+    "lbl:latitude":-6.402648,
+    "lbl:longitude":107.215368,
+    "mps:latitude":-6.402648,
+    "mps:longitude":107.215368,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ind_x_preferred":[
+        "Pangkalan"
+    ],
+    "name:unk_x_variant":[
+        "Pangkelan 1"
+    ],
+    "qs:a0":"Indonesia",
+    "qs:a1":"*Jawa Barat",
+    "qs:a1r":"*",
+    "qs:a2":"Kerawang Kabupaten",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Pangkalan",
+    "qs:loc_alt":"Pangkalan",
+    "qs:loc_lc":"1632716",
+    "qs:pop":0,
+    "qs:source":"Nquattroshapes",
+    "qs:type":"Town",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        85671983,
+        102073551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1632716,
+        "gp:id":1040130,
+        "qs:id":192797,
+        "qs_pg:id":192797
+    },
+    "wof:country":"ID",
+    "wof:geomhash":"4c7da61f6e307befa55c83da43fab71b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102073551,
+            "locality_id":102019555,
+            "region_id":85671983
+        }
+    ],
+    "wof:id":102019555,
+    "wof:lastmodified":1497290547,
+    "wof:name":"Pangkalan",
+    "wof:parent_id":102073551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.193603516,
+    -6.43540076513,
+    107.22656249999999,
+    -6.39173048548
+],
+  "geometry": {"coordinates":[[[[107.204589844,-6.43540076513],[107.204589844,-6.42448354618],[107.215576172,-6.42448354618],[107.215576172,-6.43540076513],[107.204589844,-6.43540076513]]],[[[107.215576172,-6.42448354618],[107.215576172,-6.41356609299],[107.204589844,-6.41356609299],[107.204589844,-6.40264840596],[107.193603516,-6.40264840596],[107.193603516,-6.39173048548],[107.204589844,-6.39173048548],[107.215576172,-6.39173048548],[107.22656249999999,-6.39173048548],[107.22656249999999,-6.40264840596],[107.22656249999999,-6.41356609299],[107.22656249999999,-6.42448354618],[107.215576172,-6.42448354618]]]],"type":"MultiPolygon"}
+}

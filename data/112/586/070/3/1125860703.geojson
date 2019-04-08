@@ -1,0 +1,91 @@
+{
+  "id": 1125860703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.58778,-7.04528,107.58778,-7.04528",
+    "geom:latitude":-7.04528,
+    "geom:longitude":107.58778,
+    "gn:gn_country":"ID",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":164952,
+    "gn:population":164952,
+    "iso:country":"ID",
+    "lbl:latitude":-7.04528,
+    "lbl:longitude":107.58778,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Bandjaran"
+    ],
+    "qs_pg:aaroncc":"ID",
+    "qs_pg:gn_country":"ID",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1650227,
+    "qs_pg:gn_pop":164952,
+    "qs_pg:name":"Banjar Wangi",
+    "qs_pg:name_adm0":"Indonesia",
+    "qs_pg:name_adm1":"Jawa Barat",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":9,
+    "qs_pg:qs_id":208018,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424846,
+    "qs_pg:woe_id":56005777,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424846,
+    "woe:name_adm0":"Indonesia",
+    "woe:name_adm1":"Jawa Barat",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        85671983,
+        102072949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1650227,
+        "gp:id":56005777,
+        "qs_pg:id":208018
+    },
+    "wof:country":"ID",
+    "wof:created":1497293815,
+    "wof:geomhash":"fbea64276a4636938be2357c7c75fbe2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102072949,
+            "locality_id":1125860703,
+            "region_id":85671983
+        }
+    ],
+    "wof:id":1125860703,
+    "wof:lastmodified":1509396600,
+    "wof:name":"Banjar Wangi",
+    "wof:parent_id":102072949,
+    "wof:placetype":"locality",
+    "wof:population":164952,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.58778,
+    -7.04528,
+    107.58778,
+    -7.04528
+],
+  "geometry": {"coordinates":[107.58778,-7.04528],"type":"Point"}
+}

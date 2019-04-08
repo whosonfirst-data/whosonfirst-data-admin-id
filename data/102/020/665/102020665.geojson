@@ -1,0 +1,86 @@
+{
+  "id": 102020665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00002,
+    "geom:area_square_m":242723.088996,
+    "geom:bbox":"107.479248047,-6.43409880294,107.484741211,-6.42852269966",
+    "geom:latitude":-6.431258,
+    "geom:longitude":107.482292,
+    "gn:latitude":-6.43361,
+    "gn:longitude":107.48694,
+    "iso:country":"ID",
+    "lbl:latitude":-6.431307,
+    "lbl:longitude":107.482841,
+    "mps:latitude":-6.431307,
+    "mps:longitude":107.482841,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ind_x_preferred":[
+        "Cikopo"
+    ],
+    "name:unk_x_variant":[
+        "Tjikopo"
+    ],
+    "qs:a0":"Indonesia",
+    "qs:a1":"*Jawa Barat",
+    "qs:a1r":"*",
+    "qs:a2":"Purwakarta Kabupaten",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Cikopo",
+    "qs:loc_alt":"Cikopo",
+    "qs:loc_lc":"1646589",
+    "qs:pop":0,
+    "qs:source":"Nquattroshapes",
+    "qs:type":"Town",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        85671983,
+        102073471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1646589,
+        "gp:id":1031782,
+        "qs:id":1289590,
+        "qs_pg:id":1289590
+    },
+    "wof:country":"ID",
+    "wof:geomhash":"10d26112ea48934ce7410108759b5264",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102073471,
+            "locality_id":102020665,
+            "region_id":85671983
+        }
+    ],
+    "wof:id":102020665,
+    "wof:lastmodified":1497291160,
+    "wof:name":"Cikopo",
+    "wof:parent_id":102073471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.47924804700001,
+    -6.43409880293632,
+    107.48474121100004,
+    -6.42852269966032
+],
+  "geometry": {"coordinates":[[[107.48451089123758,-6.43130683458497],[107.4842026285264,-6.43409880293632],[107.48199462900008,-6.4333581395759],[107.48199462900008,-6.43267148238],[107.48062133800003,-6.43267148238],[107.47924804700001,-6.43267148238],[107.47924804700001,-6.43130683549997],[107.47924804700001,-6.42994218496003],[107.48062133800003,-6.42994218496003],[107.48199462900008,-6.42994218496003],[107.48199462900008,-6.42925552413236],[107.48417927753094,-6.42852269966032],[107.48474121100004,-6.42954057884108],[107.48474121100004,-6.42994218496003],[107.48474121100004,-6.43061149661075],[107.48451089123758,-6.43130683458497]]],"type":"Polygon"}
+}

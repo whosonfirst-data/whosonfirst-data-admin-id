@@ -1,0 +1,95 @@
+{
+  "id": 102020099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000105,
+    "geom:area_square_m":1290589.065606,
+    "geom:bbox":"106.423404996,-6.0544742721,106.436071283,-6.04206937327",
+    "geom:latitude":-6.047728,
+    "geom:longitude":106.430434,
+    "gn:latitude":-6.06056,
+    "gn:longitude":106.42417,
+    "iso:country":"ID",
+    "lbl:latitude":-6.047629,
+    "lbl:longitude":106.430435,
+    "mps:latitude":-6.047629,
+    "mps:longitude":106.430435,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ind_x_preferred":[
+        "Kronjo"
+    ],
+    "name:jav_x_preferred":[
+        "Kronjo"
+    ],
+    "name:msa_x_preferred":[
+        "Kronjo"
+    ],
+    "name:unk_x_variant":[
+        "Krondjo"
+    ],
+    "qs:a0":"Indonesia",
+    "qs:a1":"*Banten",
+    "qs:a1r":"*",
+    "qs:a2":"Tangerang Kabupaten",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Kronjo",
+    "qs:loc_alt":"Kronjo",
+    "qs:loc_lc":"1639343",
+    "qs:pop":0,
+    "qs:source":"Nquattroshapes",
+    "qs:type":"Town",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":31,
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        85671995,
+        102072687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1639343,
+        "gp:id":1036209,
+        "qs:id":271864,
+        "qs_pg:id":271864,
+        "wd:id":"Q3652299",
+        "wk:page":"Kronjo"
+    },
+    "wof:country":"ID",
+    "wof:geomhash":"492ffcf84a4671fc7c874748e7a8f7b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102072687,
+            "locality_id":102020099,
+            "region_id":85671995
+        }
+    ],
+    "wof:id":102020099,
+    "wof:lastmodified":1527637551,
+    "wof:name":"Kronjo",
+    "wof:parent_id":102072687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.42340499643525,
+    -6.0544742721015,
+    106.43607128306094,
+    -6.04206937327282
+],
+  "geometry": {"coordinates":[[[106.43071658862358,-6.04206937327282],[106.43142176494349,-6.04213702701517],[106.4320898568151,-6.04206937872482],[106.43374100881316,-6.04222778399061],[106.43600718126943,-6.04906437669999],[106.43607128306094,-6.04945114196424],[106.43574775076594,-6.05302994657779],[106.43483343568825,-6.05316129570998],[106.43005371100001,-6.05316129570998],[106.43005371100001,-6.05424251320507],[106.42951595651137,-6.0544742721015],[106.4295078980911,-6.05446819439241],[106.42340499643525,-6.04587623057049],[106.42433566041412,-6.04473492489163],[106.42570167384874,-6.04360666120205],[106.42726131234612,-6.04276685456537],[106.42895464105537,-6.04224777648415],[106.43071658862358,-6.04206937327282]]],"type":"Polygon"}
+}

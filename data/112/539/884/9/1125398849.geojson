@@ -1,0 +1,80 @@
+{
+  "id": 1125398849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.4606,-6.9367,106.4606,-6.9367",
+    "geom:latitude":-6.9367,
+    "geom:longitude":106.4606,
+    "gn:gn_country":"ID",
+    "gn:gn_fcode":"ADM4",
+    "gn:gn_pop":0,
+    "iso:country":"ID",
+    "lbl:latitude":-6.9367,
+    "lbl:longitude":106.4606,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ind_x_preferred":[
+        "Desa Cisolok"
+    ],
+    "name:unk_x_variant":[
+        "Cisolok"
+    ],
+    "qs_pg:aaroncc":"ID",
+    "qs_pg:gn_country":"ID",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":7753870,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Desa Cisolok",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1063810,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        85671983,
+        102072855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7753870,
+        "qs_pg:id":1063810
+    },
+    "wof:country":"ID",
+    "wof:created":1497049189,
+    "wof:geomhash":"a9f4b06b2a235711a65eff81fb596a8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102072855,
+            "localadmin_id":1125398849,
+            "region_id":85671983
+        }
+    ],
+    "wof:id":1125398849,
+    "wof:lastmodified":1509390008,
+    "wof:name":"Desa Cisolok",
+    "wof:parent_id":102072855,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.4606,
+    -6.9367,
+    106.4606,
+    -6.9367
+],
+  "geometry": {"coordinates":[106.4606,-6.9367],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1125374629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.5687,-8.5228,116.5687,-8.5228",
+    "geom:latitude":-8.5228,
+    "geom:longitude":116.5687,
+    "gn:gn_country":"ID",
+    "gn:gn_fcode":"ADM4",
+    "gn:gn_pop":0,
+    "iso:country":"ID",
+    "lbl:latitude":-8.5228,
+    "lbl:longitude":116.5687,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ind_x_preferred":[
+        "Desa Suwele"
+    ],
+    "name:unk_x_variant":[
+        "Su\u00e9la"
+    ],
+    "qs_pg:aaroncc":"ID",
+    "qs_pg:gn_country":"ID",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":1627367,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Desa Suwele",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":371012,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        85672103,
+        102073213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1627367,
+        "qs_pg:id":371012
+    },
+    "wof:country":"ID",
+    "wof:created":1497047643,
+    "wof:geomhash":"7a5b3d908b045c9f4dfd43ab700d8d4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102073213,
+            "localadmin_id":1125374629,
+            "region_id":85672103
+        }
+    ],
+    "wof:id":1125374629,
+    "wof:lastmodified":1509389423,
+    "wof:name":"Desa Suwele",
+    "wof:parent_id":102073213,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.5687,
+    -8.5228,
+    116.5687,
+    -8.5228
+],
+  "geometry": {"coordinates":[116.56870000000001,-8.5228],"type":"Point"}
+}

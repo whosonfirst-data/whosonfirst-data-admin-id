@@ -1,0 +1,75 @@
+{
+  "id": 102021555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00003,
+    "geom:area_square_m":368577.699156,
+    "geom:bbox":"106.862640381,-6.65849269977,106.868133545,-6.65096726217",
+    "geom:latitude":-6.654389,
+    "geom:longitude":106.865387,
+    "gn:latitude":-6.65389,
+    "gn:longitude":106.86361,
+    "iso:country":"ID",
+    "lbl:latitude":-6.654416,
+    "lbl:longitude":106.865387,
+    "mps:latitude":-6.654416,
+    "mps:longitude":106.865387,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ind_x_preferred":[
+        "Gadog"
+    ],
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Gadog",
+    "qs:loc_lc":"6596946",
+    "qs:pop":0,
+    "qs:source":"Nquattroshapes",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        85671983,
+        102073217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6596946,
+        "gp:id":1033005
+    },
+    "wof:country":"ID",
+    "wof:geomhash":"bdcbd2b7132cdce2ffc0530eadd6a3e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102073217,
+            "locality_id":102021555,
+            "region_id":85671983
+        }
+    ],
+    "wof:id":102021555,
+    "wof:lastmodified":1501273027,
+    "wof:name":"Gadog",
+    "wof:parent_id":102073217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.86264038100005,
+    -6.65849269976547,
+    106.86813354499999,
+    -6.65096726217
+],
+  "geometry": {"coordinates":[[[106.86676025400006,-6.65096726217],[106.86676025400006,-6.65233130921997],[106.86813354499999,-6.65233130921997],[106.86813354499999,-6.65369535248996],[106.86813354499999,-6.65505939195995],[106.86813354499999,-6.65642342764995],[106.86676025400006,-6.65642342764995],[106.86676025350009,-6.65711008730842],[106.86538696280569,-6.65849269976547],[106.86401367150013,-6.65711008663723],[106.8640136720001,-6.65642342764995],[106.86264038100005,-6.65642342764995],[106.86264038100005,-6.65505939195995],[106.86264038100005,-6.65369535248996],[106.86264038100005,-6.65233130921997],[106.86401367200001,-6.65233130921997],[106.86401367200001,-6.65096726217],[106.86538696300003,-6.65096726217],[106.86676025400006,-6.65096726217]]],"type":"Polygon"}
+}

@@ -1,0 +1,109 @@
+{
+  "id": 1108796885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.440657,
+    "geom:area_square_m":5434824426.488207,
+    "geom:bbox":"137.682747922,-4.43288929662,138.860527665,-3.73235120162",
+    "geom:latitude":-4.098375,
+    "geom:longitude":138.26423,
+    "iso:country":"ID",
+    "lbl:latitude":-4.141221,
+    "lbl:longitude":138.313335,
+    "meso:admin_1":"PAPUA",
+    "meso:diss_me":"PAPUALANNY JAYA",
+    "meso:gadm_hasc":"ID.PA.JA",
+    "meso:gadm_name":"Jayawijaya",
+    "meso:gaul_adm2":"Jayawijaya",
+    "meso:name_local":"LANNY JAYA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Lanny Jaya"
+    ],
+    "name:eng_x_preferred":[
+        "Lanny Jaya"
+    ],
+    "name:eng_x_variant":[
+        "LANNY JAYA"
+    ],
+    "name:fre_x_preferred":[
+        "Lanny Jaya"
+    ],
+    "name:ger_x_preferred":[
+        "Lanny Jaya"
+    ],
+    "name:ind_x_preferred":[
+        "Lanny Jaya"
+    ],
+    "name:jav_x_preferred":[
+        "Kabupat\u00e8n Lanny Jaya"
+    ],
+    "name:may_x_preferred":[
+        "Kabupaten Lanny Jaya"
+    ],
+    "name:spa_x_preferred":[
+        "Lanny Jaya"
+    ],
+    "name:swe_x_preferred":[
+        "Kabupaten Lanny Jaya"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2010-05-15",
+    "statoids:area_km":"2248",
+    "statoids:as_of_date":"2010-05-15",
+    "statoids:capital":"Tiom",
+    "statoids:country":"ID",
+    "statoids:hasc":"ID.PA",
+    "statoids:name":"Lanny Jaya",
+    "statoids:population":"148522",
+    "statoids:statoid":"ID.PA.LJ",
+    "statoids:timezone":"9",
+    "statoids:type":"regency",
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        85672115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"ID.PA.LJ",
+        "wd:id":"Q27594"
+    },
+    "wof:country":"ID",
+    "wof:created":1482878574,
+    "wof:geomhash":"fd3d095948c1319cb06f6940f242941c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":1108796885,
+            "region_id":85672115
+        }
+    ],
+    "wof:id":1108796885,
+    "wof:lastmodified":1543954429,
+    "wof:name":"Lanny Jaya",
+    "wof:parent_id":85672115,
+    "wof:placetype":"county",
+    "wof:placetype_local":"regency",
+    "wof:population":148522,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:shortcode":"LJ",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    137.68274792195388,
+    -4.43288929661868,
+    138.86052766475453,
+    -3.732351201617
+],
+  "geometry": {"coordinates":[[[137.69693465667916,-4.0181741688704],[137.86059269354274,-4.02077591734456],[137.86672656164103,-3.91985365496943],[137.85650555819859,-3.77016351234127],[138.11930553407242,-3.87338939577577],[138.11930792118471,-3.86924935047406],[138.12392311913689,-3.87614844450299],[138.27423018452134,-3.8615301905885],[138.32339961614579,-3.91752717907104],[138.4283751929766,-3.93817076033139],[138.52989366998594,-3.96934435011485],[138.60677669236776,-3.96229432758288],[138.6064245704828,-3.88124399000946],[138.62974572639231,-3.7334329763403],[138.63425483749194,-3.732351201617],[138.70731413220904,-3.77198462877264],[138.81251343677368,-3.855766164029],[138.83299279224011,-3.91369121823003],[138.86052766475453,-3.93059737877925],[138.84862364343024,-3.94387138905127],[138.81852153986071,-3.9379690360527],[138.79896228329383,-3.95059661280424],[138.77678800754589,-3.9625166160608],[138.72667313299175,-3.96726479609307],[138.69536979299838,-4.02496271715444],[138.67702592948149,-4.03890954585769],[138.60718716902608,-4.05677658825042],[138.60718717370503,-4.05677766523417],[138.65665937522442,-4.17240238922764],[138.73054949507144,-4.27034074299852],[138.7331410487057,-4.28955026203294],[138.65728713244519,-4.30579961989937],[138.58762726728276,-4.36581552625307],[138.60893346911752,-4.4324166168728],[138.5109919346605,-4.43288929661868],[138.38489252883375,-4.39836331597739],[137.68561929423316,-4.18351616641239],[137.68274792195388,-4.18340269788632],[137.69203101256971,-4.01809621334298],[137.69693465667916,-4.0181741688704]]],"type":"Polygon"}
+}

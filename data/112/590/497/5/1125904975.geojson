@@ -1,0 +1,89 @@
+{
+  "id": 1125904975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.10032,-3.25712,127.10032,-3.25712",
+    "geom:latitude":-3.25712,
+    "geom:longitude":127.10032,
+    "gn:gn_country":"ID",
+    "gn:gn_fcode":"PPLA3",
+    "gn:gn_pop":0,
+    "iso:country":"ID",
+    "lbl:latitude":-3.25712,
+    "lbl:longitude":127.10032,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Nam\u2019 L\u00e9a"
+    ],
+    "qs_pg:aaroncc":"ID",
+    "qs_pg:gn_country":"ID",
+    "qs_pg:gn_fcode":"PPLA3",
+    "qs_pg:gn_id":1634519,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Namlea",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1030705,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        85672085,
+        1108796815,
+        85672097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1634519,
+        "qs_pg:id":1030705
+    },
+    "wof:country":"ID",
+    "wof:created":1497295952,
+    "wof:geomhash":"f891d9f00f606e251b39df1009b2e398",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":1108796815,
+            "locality_id":1125904975,
+            "region_id":85672085
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":1108796815,
+            "locality_id":1125904975,
+            "region_id":85672097
+        }
+    ],
+    "wof:id":1125904975,
+    "wof:lastmodified":1534379336,
+    "wof:name":"Namlea",
+    "wof:parent_id":1108796815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[
+        102019691
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.10032,
+    -3.25712,
+    127.10032,
+    -3.25712
+],
+  "geometry": {"coordinates":[127.10032,-3.25712],"type":"Point"}
+}
