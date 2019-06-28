@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01426,
-    "geom:area_square_m":176149031.169175,
+    "geom:area_square_m":176149031.169302,
     "geom:bbox":"140.116127517,-2.924657972,140.870202114,-2.49778217447",
     "geom:latitude":-2.615626,
     "geom:longitude":140.690819,
@@ -41,14 +41,11 @@
     "name:ces_x_preferred":[
         "Jayapura"
     ],
-    "name:chi_x_preferred":[
-        "\u67e5\u96c5\u666e\u62c9"
+    "name:ces_x_variant":[
+        "D\u017eajap\u00fara"
     ],
     "name:cze_x_colloquial":[
         "Dzajapura"
-    ],
-    "name:cze_x_preferred":[
-        "D\u017eajap\u00fara"
     ],
     "name:dan_x_preferred":[
         "Jayapura"
@@ -56,8 +53,8 @@
     "name:deu_x_preferred":[
         "Jayapura"
     ],
-    "name:dut_x_preferred":[
-        "Port Numbay"
+    "name:ell_x_preferred":[
+        "\u03a4\u03b6\u03b1\u03b3\u03b9\u03b1\u03c0\u03bf\u03cd\u03c1\u03b1"
     ],
     "name:eng_x_preferred":[
         "Jayapura"
@@ -84,18 +81,6 @@
     ],
     "name:fra_x_preferred":[
         "Jayapura"
-    ],
-    "name:fre_x_preferred":[
-        "Jayapura"
-    ],
-    "name:geo_x_preferred":[
-        "\u10ef\u10d0\u10d8\u10d0\u10de\u10e3\u10e0\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Jayapura"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03b6\u03b1\u03b3\u03b9\u03b1\u03c0\u03bf\u03cd\u03c1\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a9c\u0aaf\u0aaa\u0ac1\u0ab0\u0abe"
@@ -139,14 +124,14 @@
     "name:mar_x_preferred":[
         "\u091c\u092f\u092a\u0941\u0930\u093e"
     ],
-    "name:may_x_preferred":[
-        "Jayapura"
-    ],
     "name:mlg_x_preferred":[
         "Kota Jayapura"
     ],
     "name:msa_x_preferred":[
         "Port Numbay"
+    ],
+    "name:msa_x_variant":[
+        "Jayapura"
     ],
     "name:nld_x_historical":[
         "Hollandia",
@@ -166,9 +151,6 @@
     "name:nor_x_preferred":[
         "Jaya Pura"
     ],
-    "name:per_x_preferred":[
-        "\u062c\u0627\u06cc\u0627\u067e\u0648\u0631\u0627"
-    ],
     "name:pnb_x_preferred":[
         "\u062c\u0627\u067e\u0627\u067e\u0648\u0631\u0627"
     ],
@@ -179,9 +161,6 @@
         "Jayapura"
     ],
     "name:ron_x_preferred":[
-        "Jayapura"
-    ],
-    "name:rum_x_preferred":[
         "Jayapura"
     ],
     "name:rus_x_preferred":[
@@ -389,7 +368,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1514449101,
+    "wof:lastmodified":1561755851,
     "wof:name":"Jayapura",
     "wof:parent_id":102073081,
     "wof:placetype":"locality",

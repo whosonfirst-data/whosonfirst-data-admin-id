@@ -32,9 +32,6 @@
     "name:ara_x_preferred":[
         "\u0628\u0627\u0646\u062c\u0643\u0627 - \u0628\u0644\u064a\u062a\u0648\u0646\u062c"
     ],
-    "name:baq_x_preferred":[
-        "Bangka-Belitung"
-    ],
     "name:bel_x_preferred":[
         "\u0411\u0430\u043d\u0433\u043a\u0430\u2013\u0411\u0435\u043b\u0456\u0442\u0443\u043d\u0433"
     ],
@@ -50,10 +47,7 @@
     "name:cdo_x_preferred":[
         "Bangka Belitung G\u00f9ng-d\u014d\u0324"
     ],
-    "name:chi_x_preferred":[
-        "\u90a6\u52a0-\u52ff\u91cc\u6d1e\u7701"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Bangka-Belitung"
     ],
     "name:dan_x_preferred":[
@@ -62,8 +56,8 @@
     "name:deu_x_preferred":[
         "Bangka-Belitung"
     ],
-    "name:dut_x_preferred":[
-        "Banka-Billiton"
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03ac\u03bd\u03b3\u03ba\u03b1 \u039c\u03c0\u03b5\u03bb\u03af\u03c4\u03bf\u03c5\u03bd\u03b3\u03ba"
     ],
     "name:eng_x_preferred":[
         "Bangka-Belitung"
@@ -76,23 +70,17 @@
     "name:epo_x_preferred":[
         "Bangka-Belitungo"
     ],
+    "name:eus_x_preferred":[
+        "Bangka-Belitung"
+    ],
+    "name:fas_x_preferred":[
+        "\u062c\u0632\u0627\u06cc\u0631 \u0628\u0627\u0646\u06af\u06a9\u0627-\u0628\u0644\u06cc\u062a\u0648\u0646\u06af"
+    ],
     "name:fin_x_preferred":[
         "Bangka-Belitung"
     ],
     "name:fra_x_preferred":[
         "\u00celes Bangka Belitung"
-    ],
-    "name:fre_x_preferred":[
-        "\u00celes Bangka Belitung"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10d0\u10dc\u10d9\u10d0-\u10d1\u10d4\u10da\u10d8\u10e2\u10e3\u10dc\u10d2\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Bangka-Belitung"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03ac\u03bd\u03b3\u03ba\u03b1 \u039c\u03c0\u03b5\u03bb\u03af\u03c4\u03bf\u03c5\u03bd\u03b3\u03ba"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0abe\u0a82\u0a97\u0acd\u0a95\u0abe \u0aac\u0ac7\u0ab2\u0abf\u0a9f\u0ac1\u0a82\u0a97 \u0a86\u0a87\u0ab2\u0ac7\u0aa8\u0acd\u0aa1\u0acd\u0ab8"
@@ -127,6 +115,9 @@
     "name:kan_x_preferred":[
         "\u0cac\u0ccd\u0caf\u0cbe\u0c82\u0c97\u0ccd\u0c95\u0cbe \u0cac\u0cc6\u0cb2\u0cbf\u0c9f\u0cc1\u0c82\u0c97\u0ccd \u0ca6\u0ccd\u0cb5\u0cc0\u0caa\u0c97\u0cb3\u0cc1"
     ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d0\u10dc\u10d9\u10d0-\u10d1\u10d4\u10da\u10d8\u10e2\u10e3\u10dc\u10d2\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ubc29\uce74\ube14\ub9ac\ud241 \uc81c\ub3c4"
     ],
@@ -142,11 +133,11 @@
     "name:mar_x_preferred":[
         "\u092c\u093e\u0902\u0915\u093e-\u092c\u0947\u0932\u093f\u0924\u0941\u0902\u0917 \u0926\u094d\u0935\u0940\u092a\u0938\u092e\u0942\u0939"
     ],
-    "name:may_x_preferred":[
-        "Kepulauan Bangka Belitung"
-    ],
     "name:min_x_preferred":[
         "Kapulauan Bangka Belitung"
+    ],
+    "name:msa_x_preferred":[
+        "Kepulauan Bangka Belitung"
     ],
     "name:nld_x_preferred":[
         "Banka-Billiton"
@@ -156,9 +147,6 @@
     ],
     "name:pam_x_preferred":[
         "Bangka-Belitung"
-    ],
-    "name:per_x_preferred":[
-        "\u062c\u0632\u0627\u06cc\u0631 \u0628\u0627\u0646\u06af\u06a9\u0627-\u0628\u0644\u06cc\u062a\u0648\u0646\u06af"
     ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0628\u0627\u0646\u06af\u06a9\u0627 \u0628\u06cc\u0644\u06cc\u0679\u0646\u06af"
@@ -360,7 +348,7 @@
     "wof:lang_x_spoken":[
         "ind"
     ],
-    "wof:lastmodified":1553550368,
+    "wof:lastmodified":1561756021,
     "wof:name":"Bangka-Belitung",
     "wof:parent_id":85632203,
     "wof:placetype":"region",

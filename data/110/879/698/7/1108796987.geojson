@@ -29,10 +29,7 @@
     "name:ace_x_preferred":[
         "Kabupaten Nias Utara"
     ],
-    "name:chi_x_preferred":[
-        "\u5317\u5c3c\u4e9a\u65af\u53bf"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Nias Utara"
     ],
     "name:eng_x_preferred":[
@@ -41,10 +38,7 @@
     "name:eng_x_variant":[
         "NIAS UTARA"
     ],
-    "name:fre_x_preferred":[
-        "Nias Utara"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Nias Utara"
     ],
     "name:ind_x_preferred":[
@@ -53,7 +47,10 @@
     "name:ita_x_preferred":[
         "Nias Nord"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Nias Utara"
+    ],
+    "name:nld_x_preferred":[
         "Nias Utara"
     ],
     "name:rus_x_preferred":[
@@ -67,6 +64,9 @@
     ],
     "name:vie_x_preferred":[
         "B\u1eafc Nias"
+    ],
+    "name:zho_x_preferred":[
+        "\u5317\u5c3c\u4e9a\u65af\u53bf"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -104,7 +104,7 @@
         }
     ],
     "wof:id":1108796987,
-    "wof:lastmodified":1553718812,
+    "wof:lastmodified":1561756976,
     "wof:name":"Nias Utara",
     "wof:parent_id":85672073,
     "wof:placetype":"county",

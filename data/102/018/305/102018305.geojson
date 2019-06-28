@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004743,
-    "geom:area_square_m":58455442.440263,
+    "geom:area_square_m":58455442.440264,
     "geom:bbox":"96.8080074353,4.57286041863,96.9249034958,4.65664525156",
     "geom:latitude":4.620747,
     "geom:longitude":96.861084,
@@ -22,12 +22,6 @@
     "name:ara_x_preferred":[
         "\u062a\u0627\u0643\u0646\u063a\u0648\u0646"
     ],
-    "name:chi_x_preferred":[
-        "\u6253\u4eac\u5cb8"
-    ],
-    "name:dut_x_preferred":[
-        "Takengon"
-    ],
     "name:eng_x_preferred":[
         "Takengon"
     ],
@@ -43,11 +37,17 @@
     "name:lit_x_preferred":[
         "Takengonas"
     ],
+    "name:nld_x_preferred":[
+        "Takengon"
+    ],
     "name:unk_x_variant":[
         "Takengeun"
     ],
     "name:urd_x_preferred":[
         "\u062a\u0627\u06a9\u06cc\u0646\u06af\u0648\u0646"
+    ],
+    "name:zho_x_preferred":[
+        "\u6253\u4eac\u5cb8"
     ],
     "qs:a0":"Indonesia",
     "qs:a1":"*Nanggroe Aceh Darussalam",
@@ -97,7 +97,7 @@
         }
     ],
     "wof:id":102018305,
-    "wof:lastmodified":1527637581,
+    "wof:lastmodified":1561755821,
     "wof:name":"Takengon",
     "wof:parent_id":102072605,
     "wof:placetype":"locality",

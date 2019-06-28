@@ -31,32 +31,26 @@
     "name:cat_x_preferred":[
         "Tasikmalaya"
     ],
-    "name:chi_x_preferred":[
-        "\u6253\u6a6b"
-    ],
     "name:dan_x_preferred":[
         "Tasikmalaya"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Tasikmalaya"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03b1\u03c3\u03b9\u03ba\u03bc\u03b1\u03bb\u03ac\u03b3\u03b9\u03b1"
     ],
     "name:eng_x_preferred":[
         "Tasikmalaya"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u0627\u0633\u06cc\u06a9\u200c\u0645\u0627\u0644\u0627\u06cc\u0627"
+    ],
     "name:fin_x_preferred":[
         "Tasikmalaya"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Tasikmalaya"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e2\u10d0\u10e1\u10d8\u10d9\u10db\u10d0\u10da\u10d0\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Tasikmalaya"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03b1\u03c3\u03b9\u03ba\u03bc\u03b1\u03bb\u03ac\u03b3\u03b9\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aa4\u0ab8\u0abf\u0a95\u0aae\u0ab2\u0aaf"
@@ -79,6 +73,9 @@
     "name:kan_x_preferred":[
         "\u0ca4\u0cb8\u0cbf\u0c95\u0ccd\u0cae\u0cbe\u0cb2\u0caf"
     ],
+    "name:kat_x_preferred":[
+        "\u10e2\u10d0\u10e1\u10d8\u10d9\u10db\u10d0\u10da\u10d0\u10d8\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\ud0c0\uc2dc\ud06c\ub9d0\ub77c\uc57c"
     ],
@@ -91,13 +88,16 @@
     "name:mar_x_preferred":[
         "\u0924\u093e\u0938\u093f\u0915\u092e\u0932\u092f"
     ],
-    "name:may_x_preferred":[
-        "Tasikmalaya"
-    ],
     "name:mlg_x_preferred":[
         "Kota Tasikmalaya"
     ],
+    "name:msa_x_preferred":[
+        "Tasikmalaya"
+    ],
     "name:nan_x_preferred":[
+        "Tasikmalaya"
+    ],
+    "name:nld_x_preferred":[
         "Tasikmalaya"
     ],
     "name:nob_x_preferred":[
@@ -106,16 +106,13 @@
     "name:oci_x_preferred":[
         "Tasikmalaya"
     ],
-    "name:per_x_preferred":[
-        "\u062a\u0627\u0633\u06cc\u06a9\u200c\u0645\u0627\u0644\u0627\u06cc\u0627"
-    ],
     "name:pol_x_preferred":[
         "Tasikmalaya"
     ],
     "name:por_x_preferred":[
         "Tasikmalaya"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Tasikmalaya"
     ],
     "name:rus_x_preferred":[
@@ -153,6 +150,9 @@
     ],
     "name:vie_x_preferred":[
         "Tasikmalaya"
+    ],
+    "name:zho_x_preferred":[
+        "\u6253\u6a6b"
     ],
     "qs:name":"Tasikmalaya",
     "qs:name_adm0":"Indonesia",
@@ -192,7 +192,7 @@
         }
     ],
     "wof:id":890500227,
-    "wof:lastmodified":1527782068,
+    "wof:lastmodified":1561757339,
     "wof:name":"Tasikmalaya",
     "wof:parent_id":102073307,
     "wof:placetype":"locality",

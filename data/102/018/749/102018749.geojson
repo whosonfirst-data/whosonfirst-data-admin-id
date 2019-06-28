@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009856,
-    "geom:area_square_m":121862611.246679,
+    "geom:area_square_m":121862611.246566,
     "geom:bbox":"127.174244637,0.655614577284,127.543774616,1.02522605434",
     "geom:latitude":0.803841,
     "geom:longitude":127.366912,
@@ -27,17 +27,14 @@
     "name:ben_x_preferred":[
         "\u09a4\u09be\u09b0\u09a8\u09be\u09a4\u09c7"
     ],
-    "name:chi_x_preferred":[
-        "\u7279\u723e\u7d0d\u7279"
-    ],
     "name:dan_x_preferred":[
         "Ternate"
     ],
     "name:deu_x_preferred":[
         "Ternate"
     ],
-    "name:dut_x_preferred":[
-        "Ternate"
+    "name:ell_x_preferred":[
+        "\u03a4\u03b5\u03c1\u03bd\u03ad\u03b9\u03c4"
     ],
     "name:eng_x_preferred":[
         "Ternate"
@@ -51,14 +48,8 @@
     "name:fra_x_preferred":[
         "Ternate"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Kota Ternate"
-    ],
-    "name:ger_x_preferred":[
-        "Ternate"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03b5\u03c1\u03bd\u03ad\u03b9\u03c4"
     ],
     "name:guj_x_preferred":[
         "\u0aa4\u0ac7\u0ab0\u0acd\u0aa8\u0ac7\u0a9f"
@@ -98,9 +89,6 @@
     ],
     "name:mar_x_preferred":[
         "\u0924\u0947\u0930\u094d\u0928\u0947\u091f"
-    ],
-    "name:may_x_preferred":[
-        "Ternate"
     ],
     "name:mlg_x_preferred":[
         "Kota Ternate"
@@ -157,6 +145,9 @@
         "Ternate"
     ],
     "name:wuu_x_preferred":[
+        "\u7279\u723e\u7d0d\u7279"
+    ],
+    "name:zho_x_preferred":[
         "\u7279\u723e\u7d0d\u7279"
     ],
     "ne:ADM0CAP":0.0,
@@ -313,7 +304,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1534379337,
+    "wof:lastmodified":1561755820,
     "wof:name":"Ternate",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

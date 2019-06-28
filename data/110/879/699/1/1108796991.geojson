@@ -29,10 +29,7 @@
     "name:ace_x_preferred":[
         "Padang Lawas Utara"
     ],
-    "name:chi_x_preferred":[
-        "\u5317\u5df4\u6771\u8001\u8d8a\u651d\u653f"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Padang Lawas Utara"
     ],
     "name:eng_x_preferred":[
@@ -41,11 +38,8 @@
     "name:eng_x_variant":[
         "PADANG LAWAS UTARA"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "kabupaten de Padang Lawas du Nord"
-    ],
-    "name:ger_x_preferred":[
-        "Padang Lawas Utara"
     ],
     "name:ind_x_preferred":[
         "Padang Lawas Utara"
@@ -56,8 +50,11 @@
     "name:jav_x_preferred":[
         "Kabupat\u00e8n Padang Lawas Lor"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Kabupaten Padang Lawas Utara"
+    ],
+    "name:nld_x_preferred":[
+        "Padang Lawas Utara"
     ],
     "name:rus_x_preferred":[
         "\u0421\u0435\u0432\u0435\u0440\u043d\u043e\u0435 \u041f\u0430\u0434\u0430\u043d\u0433\u043b\u0430\u0432\u0430\u0441"
@@ -70,6 +67,9 @@
     ],
     "name:vie_x_preferred":[
         "B\u1eafc Padang Lawas"
+    ],
+    "name:zho_x_preferred":[
+        "\u5317\u5df4\u6771\u8001\u8d8a\u651d\u653f"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -107,7 +107,7 @@
         }
     ],
     "wof:id":1108796991,
-    "wof:lastmodified":1553718815,
+    "wof:lastmodified":1561756973,
     "wof:name":"Padang Lawas Utara",
     "wof:parent_id":85672073,
     "wof:placetype":"county",

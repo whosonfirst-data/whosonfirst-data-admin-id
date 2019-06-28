@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000255,
-    "geom:area_square_m":3135222.973924,
+    "geom:area_square_m":3135222.973925,
     "geom:bbox":"106.574816166,-6.78821356457,106.592908403,-6.77012842651",
     "geom:latitude":-6.779171,
     "geom:longitude":106.583862,
@@ -32,32 +32,26 @@
     "name:cat_x_preferred":[
         "Sukabumi"
     ],
-    "name:chi_x_preferred":[
-        "\u8607\u52a0\u6b66\u7709"
-    ],
     "name:dan_x_preferred":[
         "Sukabumi"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Sukabumi"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03bf\u03c5\u03ba\u03b1\u03bc\u03c0\u03bf\u03cd\u03bc\u03b9"
     ],
     "name:eng_x_preferred":[
         "Sukabumi"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0648\u06a9\u0627\u0628\u0648\u0645\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Sukabumi"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Sukabumi"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10e3\u10d9\u10d0\u10d1\u10e3\u10db\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Sukabumi"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03bf\u03c5\u03ba\u03b1\u03bc\u03c0\u03bf\u03cd\u03bc\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ac1\u0a95\u0abe\u0aac\u0ac1\u0aae\u0ac0"
@@ -80,6 +74,9 @@
     "name:kan_x_preferred":[
         "\u0cb8\u0cc1\u0c95\u0cac\u0cbf\u0cae\u0cbf"
     ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10e3\u10d9\u10d0\u10d1\u10e3\u10db\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uc218\uce74\ubd80\ubbf8"
     ],
@@ -92,13 +89,16 @@
     "name:mar_x_preferred":[
         "\u0938\u0941\u0915\u093e\u092c\u0941\u092e\u0940"
     ],
-    "name:may_x_preferred":[
-        "Sukabumi"
-    ],
     "name:mlg_x_preferred":[
         "Kota Sukabumi"
     ],
+    "name:msa_x_preferred":[
+        "Sukabumi"
+    ],
     "name:nan_x_preferred":[
+        "Sukabumi"
+    ],
+    "name:nld_x_preferred":[
         "Sukabumi"
     ],
     "name:nob_x_preferred":[
@@ -107,16 +107,13 @@
     "name:oci_x_preferred":[
         "Sukabumi"
     ],
-    "name:per_x_preferred":[
-        "\u0633\u0648\u06a9\u0627\u0628\u0648\u0645\u06cc"
-    ],
     "name:pol_x_preferred":[
         "Sukabumi"
     ],
     "name:por_x_preferred":[
         "Sukabumi"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Sukabumi"
     ],
     "name:rus_x_preferred":[
@@ -161,6 +158,9 @@
     "name:war_x_preferred":[
         "Sukabumi"
     ],
+    "name:zho_x_preferred":[
+        "\u8607\u52a0\u6b66\u7709"
+    ],
     "qs:a1":"*",
     "qs:a1r":"*",
     "qs:id":0,
@@ -203,7 +203,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1514449271,
+    "wof:lastmodified":1561755820,
     "wof:name":"Kabupaten Sukabumi",
     "wof:parent_id":102072855,
     "wof:placetype":"locality",

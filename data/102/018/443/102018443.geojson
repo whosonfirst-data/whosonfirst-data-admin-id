@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014213,
-    "geom:area_square_m":175030801.401931,
+    "geom:area_square_m":175030801.401744,
     "geom:bbox":"96.8994140625,5.05454376264,97.2984468634,5.26957863169",
     "geom:latitude":5.180501,
     "geom:longitude":97.090422,
@@ -33,9 +33,6 @@
     "name:ast_x_preferred":[
         "Lhokseumawe"
     ],
-    "name:baq_x_preferred":[
-        "Lhokseumawe"
-    ],
     "name:bar_x_preferred":[
         "Lhokseumawe"
     ],
@@ -51,20 +48,23 @@
     "name:cat_x_preferred":[
         "Lhokseumawe"
     ],
-    "name:chi_x_preferred":[
-        "\u53f8\u99ac\u5a01"
+    "name:ces_x_preferred":[
+        "Lhokseumawe"
     ],
     "name:cos_x_preferred":[
         "Lhokseumawe"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Lhokseumawe"
     ],
     "name:dan_x_preferred":[
         "Lhokseumawe"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Lhokseumawe"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03bf\u03ba\u03c3\u03b5\u03bf\u03c5\u03bc\u03ac\u03b2\u03b5"
     ],
     "name:eng_x_preferred":[
         "Lhokseumawe"
@@ -75,19 +75,19 @@
     "name:est_x_preferred":[
         "Lhokseumawe"
     ],
+    "name:eus_x_preferred":[
+        "Lhokseumawe"
+    ],
     "name:fin_x_preferred":[
         "Lhokseumawe"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Lhokseumawe"
     ],
     "name:frp_x_preferred":[
         "Lhokseumawe"
     ],
     "name:fur_x_preferred":[
-        "Lhokseumawe"
-    ],
-    "name:ger_x_preferred":[
         "Lhokseumawe"
     ],
     "name:gla_x_preferred":[
@@ -98,9 +98,6 @@
     ],
     "name:glg_x_preferred":[
         "Lhokseumawe"
-    ],
-    "name:gre_x_preferred":[
-        "\u039b\u03bf\u03ba\u03c3\u03b5\u03bf\u03c5\u03bc\u03ac\u03b2\u03b5"
     ],
     "name:gsw_x_preferred":[
         "Lhokseumawe"
@@ -117,9 +114,6 @@
     "name:hun_x_preferred":[
         "Lhokseumawe"
     ],
-    "name:ice_x_preferred":[
-        "Lhokseumawe"
-    ],
     "name:ido_x_preferred":[
         "Lhokseumawe"
     ],
@@ -133,6 +127,9 @@
         "Kota Lhokseumawe"
     ],
     "name:ind_x_variant":[
+        "Lhokseumawe"
+    ],
+    "name:isl_x_preferred":[
         "Lhokseumawe"
     ],
     "name:ita_x_preferred":[
@@ -171,9 +168,6 @@
     "name:mar_x_preferred":[
         "\u0932\u094b\u0915\u094d\u0938\u0947\u0905\u092e\u0935\u0947"
     ],
-    "name:may_x_preferred":[
-        "Lhokseumawe"
-    ],
     "name:min_x_preferred":[
         "Kota Lhokseumawe"
     ],
@@ -187,6 +181,9 @@
         "Lhokseumawe"
     ],
     "name:nds_x_preferred":[
+        "Lhokseumawe"
+    ],
+    "name:nld_x_preferred":[
         "Lhokseumawe"
     ],
     "name:nno_x_preferred":[
@@ -216,7 +213,7 @@
     "name:roh_x_preferred":[
         "Lhokseumawe"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Lhokseumawe"
     ],
     "name:rus_x_preferred":[
@@ -231,7 +228,7 @@
     "name:sin_x_preferred":[
         "\u0dbd\u0ddd\u0d9a\u0dca\u0dc3\u0dd9\u0d8b\u0db8\u0dcf\u0dc0\u0dda"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Lhokseumawe"
     ],
     "name:slv_x_preferred":[
@@ -285,14 +282,14 @@
     "name:vol_x_preferred":[
         "Lhokseumawe"
     ],
-    "name:wel_x_preferred":[
-        "Lhokseumawe"
-    ],
     "name:wln_x_preferred":[
         "Lhokseumawe"
     ],
     "name:wol_x_preferred":[
         "Lhokseumawe"
+    ],
+    "name:zho_x_preferred":[
+        "\u53f8\u99ac\u5a01"
     ],
     "name:zul_x_preferred":[
         "Lhokseumawe"
@@ -435,7 +432,7 @@
         }
     ],
     "wof:id":102018443,
-    "wof:lastmodified":1514449451,
+    "wof:lastmodified":1561755821,
     "wof:name":"Lhokseumawe",
     "wof:parent_id":102073091,
     "wof:placetype":"locality",

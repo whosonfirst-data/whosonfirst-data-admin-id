@@ -37,20 +37,11 @@
     "name:afr_x_preferred":[
         "Palembang"
     ],
-    "name:alb_x_preferred":[
-        "Palembang"
-    ],
     "name:ara_x_preferred":[
         "\u0641\u0644\u0645\u0628\u0627\u0646"
     ],
-    "name:arm_x_preferred":[
-        "\u054a\u0561\u056c\u0565\u0574\u0562\u0561\u0576\u0563"
-    ],
     "name:arz_x_preferred":[
         "\u0641\u0644\u0645\u0628\u0627\u0646\u062c"
-    ],
-    "name:baq_x_preferred":[
-        "Palembang"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041f\u0430\u043b\u0435\u043c\u0431\u0430\u043d\u0433"
@@ -67,20 +58,20 @@
     "name:cat_x_preferred":[
         "Palembang"
     ],
+    "name:ces_x_preferred":[
+        "Palembang"
+    ],
     "name:che_x_preferred":[
         "\u041f\u0430\u043b\u0435\u043c\u0431\u0430\u043d\u0433"
-    ],
-    "name:chi_x_preferred":[
-        "\u5de8\u6e2f"
-    ],
-    "name:cze_x_preferred":[
-        "Palembang"
     ],
     "name:dan_x_preferred":[
         "Palembang"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Palembang"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03b1\u03bb\u03b5\u03bc\u03c0\u03ac\u03bd\u03b3\u03ba"
     ],
     "name:eng_x_preferred":[
         "Palembang"
@@ -91,17 +82,17 @@
     "name:epo_x_preferred":[
         "Palembang"
     ],
+    "name:eus_x_preferred":[
+        "Palembang"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u0644\u0645\u200c\u0628\u0627\u0646\u06af"
+    ],
     "name:fin_x_preferred":[
         "Palembang"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Palembang"
-    ],
-    "name:ger_x_preferred":[
-        "Palembang"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03b1\u03bb\u03b5\u03bc\u03c0\u03ac\u03bd\u03b3\u03ba"
     ],
     "name:guj_x_preferred":[
         "\u0aaa\u0abe\u0ab2\u0ac7\u0aae\u0acd\u0aac\u0abe\u0a82\u0a97"
@@ -112,10 +103,13 @@
     "name:hun_x_preferred":[
         "Palembang"
     ],
-    "name:ice_x_preferred":[
-        "Palembang"
+    "name:hye_x_preferred":[
+        "\u054a\u0561\u056c\u0565\u0574\u0562\u0561\u0576\u0563"
     ],
     "name:ind_x_preferred":[
+        "Palembang"
+    ],
+    "name:isl_x_preferred":[
         "Palembang"
     ],
     "name:ita_x_preferred":[
@@ -148,16 +142,19 @@
     "name:lit_x_preferred":[
         "Palembangas"
     ],
-    "name:mao_x_preferred":[
-        "Palembang"
-    ],
     "name:mar_x_preferred":[
         "\u092a\u093e\u0932\u0947\u0902\u092c\u093e\u0902\u0917"
     ],
-    "name:may_x_preferred":[
+    "name:mlg_x_preferred":[
         "Palembang"
     ],
-    "name:mlg_x_preferred":[
+    "name:mri_x_preferred":[
+        "Palembang"
+    ],
+    "name:msa_x_preferred":[
+        "Palembang"
+    ],
+    "name:nld_x_preferred":[
         "Palembang"
     ],
     "name:nno_x_preferred":[
@@ -169,9 +166,6 @@
     "name:oci_x_preferred":[
         "Palembang"
     ],
-    "name:per_x_preferred":[
-        "\u067e\u0627\u0644\u0645\u200c\u0628\u0627\u0646\u06af"
-    ],
     "name:pnb_x_preferred":[
         "\u067e\u0627\u0644\u06cc\u0645\u0628\u0627\u0646\u06af"
     ],
@@ -181,7 +175,7 @@
     "name:por_x_preferred":[
         "Palimb\u00e3o"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Palembang"
     ],
     "name:rus_x_preferred":[
@@ -194,6 +188,9 @@
         "\u0db4\u0dd9\u0dbd\u0dd9\u0db8\u0dca\u0db6\u0db1\u0dca\u0d9c\u0dca"
     ],
     "name:spa_x_preferred":[
+        "Palembang"
+    ],
+    "name:sqi_x_preferred":[
         "Palembang"
     ],
     "name:srp_x_preferred":[
@@ -244,6 +241,9 @@
     "name:yue_x_preferred":[
         "\u5de8\u6e2f"
     ],
+    "name:zho_x_preferred":[
+        "\u5de8\u6e2f"
+    ],
     "qs:a0":"Indonesia",
     "qs:a0_lc":"IDN",
     "qs:a1":"SUMATERA SELATAN",
@@ -291,7 +291,7 @@
         }
     ],
     "wof:id":102073051,
-    "wof:lastmodified":1553716903,
+    "wof:lastmodified":1561755803,
     "wof:name":"Palembang",
     "wof:parent_id":85672013,
     "wof:placetype":"county",

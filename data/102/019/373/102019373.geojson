@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006507,
-    "geom:area_square_m":80437621.055936,
+    "geom:area_square_m":80437621.055959,
     "geom:bbox":"120.571463859,-1.68421601202,120.897044859,-1.1389553078",
     "geom:latitude":-1.39951,
     "geom:longitude":120.728851,
@@ -27,8 +27,11 @@
     "name:dan_x_preferred":[
         "Poso"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Poso"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03cc\u03c3\u03bf"
     ],
     "name:eng_x_preferred":[
         "Poso"
@@ -39,14 +42,8 @@
     "name:fin_x_preferred":[
         "Poso"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Poso"
-    ],
-    "name:ger_x_preferred":[
-        "Poso"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03cc\u03c3\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0aaa\u0acb\u0ab8\u0acb"
@@ -81,7 +78,10 @@
     "name:mar_x_preferred":[
         "\u092a\u094b\u0938\u094b"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Poso"
+    ],
+    "name:nld_x_preferred":[
         "Poso"
     ],
     "name:nob_x_preferred":[
@@ -269,7 +269,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1514449903,
+    "wof:lastmodified":1561755847,
     "wof:name":"Poso",
     "wof:parent_id":102073211,
     "wof:placetype":"locality",

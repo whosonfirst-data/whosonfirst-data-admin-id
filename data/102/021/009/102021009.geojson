@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003137,
-    "geom:area_square_m":38781423.948728,
+    "geom:area_square_m":38781423.948757,
     "geom:bbox":"122.548994698,-1.60735031023,123.511797484,-0.974180889749",
     "geom:latitude":-1.25935,
     "geom:longitude":122.89128,
@@ -24,14 +24,11 @@
     "name:ben_x_preferred":[
         "\u09b2\u09cb\u0989\u0995"
     ],
-    "name:chi_x_preferred":[
-        "\u76e7\u6b66\u514b"
-    ],
     "name:dan_x_preferred":[
         "Luwuk"
     ],
-    "name:dut_x_preferred":[
-        "Luwuk"
+    "name:ell_x_preferred":[
+        "\u039b\u03bf\u03c5\u03b2\u03bf\u03cd\u03ba"
     ],
     "name:eng_x_preferred":[
         "Luwuk"
@@ -42,11 +39,8 @@
     "name:fin_x_preferred":[
         "Luwuk"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Luwuk"
-    ],
-    "name:gre_x_preferred":[
-        "\u039b\u03bf\u03c5\u03b2\u03bf\u03cd\u03ba"
     ],
     "name:guj_x_preferred":[
         "\u0ab2\u0ac1\u0ab5\u0abe\u0a95"
@@ -78,7 +72,10 @@
     "name:mar_x_preferred":[
         "\u0932\u0941\u0935\u0942\u0915"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Luwuk"
+    ],
+    "name:nld_x_preferred":[
         "Luwuk"
     ],
     "name:nob_x_preferred":[
@@ -123,6 +120,9 @@
     "name:vie_x_preferred":[
         "Luwuk"
     ],
+    "name:zho_x_preferred":[
+        "\u76e7\u6b66\u514b"
+    ],
     "qs:a1":"*",
     "qs:a1r":"*",
     "qs:id":0,
@@ -157,7 +157,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1553815720,
+    "wof:lastmodified":1561755850,
     "wof:name":"Banggai",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
