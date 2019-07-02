@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020212,
-    "geom:area_square_m":249412074.19625,
+    "geom:area_square_m":249412074.195918,
     "geom:bbox":"128.009183928,-3.82397294703,128.389740817,-3.48792606207",
     "geom:latitude":-3.678938,
     "geom:longitude":128.190293,
@@ -26,9 +26,6 @@
     "name:afr_x_preferred":[
         "Ambon"
     ],
-    "name:alb_x_preferred":[
-        "Ambon"
-    ],
     "name:ara_x_preferred":[
         "\u0623\u0645\u0628\u0648\u0646"
     ],
@@ -36,9 +33,6 @@
         "\u0622\u0645\u0628\u0646"
     ],
     "name:aze_x_preferred":[
-        "Ambon"
-    ],
-    "name:baq_x_preferred":[
         "Ambon"
     ],
     "name:bel_x_preferred":[
@@ -53,17 +47,14 @@
     "name:cat_x_preferred":[
         "Ambon"
     ],
-    "name:chi_x_preferred":[
-        "\u5b89\u6c76"
-    ],
     "name:dan_x_preferred":[
         "Ambon"
     ],
     "name:deu_x_preferred":[
         "Ambon"
     ],
-    "name:dut_x_preferred":[
-        "Ambon"
+    "name:ell_x_preferred":[
+        "\u0386\u03bc\u03c0\u03bf\u03bd"
     ],
     "name:eng_x_preferred":[
         "Ambon"
@@ -77,23 +68,17 @@
     "name:est_x_preferred":[
         "Ambon"
     ],
+    "name:eus_x_preferred":[
+        "Ambon"
+    ],
     "name:fas_x_preferred":[
         "\u0622\u0645\u0628\u0648\u0646"
     ],
     "name:fin_x_preferred":[
         "Ambon"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Ambon"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d0\u10db\u10d1\u10dd\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Ambon"
-    ],
-    "name:gre_x_preferred":[
-        "\u0386\u03bc\u03c0\u03bf\u03bd"
     ],
     "name:guj_x_preferred":[
         "\u0a85\u0aae\u0acd\u0aac\u0acb\u0aa8"
@@ -104,13 +89,13 @@
     "name:hin_x_preferred":[
         "\u0906\u092e\u094d\u092c\u094b\u0928"
     ],
-    "name:ice_x_preferred":[
-        "Ambon"
-    ],
     "name:ind_x_preferred":[
         "Kota Ambon"
     ],
     "name:ind_x_variant":[
+        "Ambon"
+    ],
+    "name:isl_x_preferred":[
         "Ambon"
     ],
     "name:ita_x_preferred":[
@@ -125,6 +110,9 @@
     "name:kan_x_preferred":[
         "\u0c85\u0c82\u0cac\u0ccb\u0ca8\u0ccd"
     ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10db\u10d1\u10dd\u10dc\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uc554\ubcf8"
     ],
@@ -137,9 +125,6 @@
     "name:mar_x_preferred":[
         "\u0905\u0902\u092c\u094b\u0928"
     ],
-    "name:may_x_preferred":[
-        "Kota Ambon"
-    ],
     "name:mlg_x_preferred":[
         "Kota Ambon"
     ],
@@ -149,19 +134,19 @@
     "name:msa_x_preferred":[
         "Kota Ambon"
     ],
+    "name:nld_x_preferred":[
+        "Ambon"
+    ],
     "name:nob_x_preferred":[
         "Ambon"
     ],
     "name:oci_x_preferred":[
         "Ambon"
     ],
-    "name:per_x_preferred":[
-        "\u0622\u0645\u0628\u0648\u0646"
-    ],
     "name:pol_x_preferred":[
         "Ambon"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Ambon"
     ],
     "name:rus_x_preferred":[
@@ -174,6 +159,9 @@
         "Ambon"
     ],
     "name:spa_x_preferred":[
+        "Ambon"
+    ],
+    "name:sqi_x_preferred":[
         "Ambon"
     ],
     "name:swe_x_preferred":[
@@ -336,7 +324,8 @@
         0,
         85632203,
         85672097,
-        1108701787
+        1108701787,
+        1108796829
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -363,7 +352,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1553815720,
+    "wof:lastmodified":1561755852,
     "wof:name":"Ambon",
     "wof:parent_id":1108796829,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033635,
-    "geom:area_square_m":411332758.68774,
+    "geom:area_square_m":411332758.687967,
     "geom:bbox":"115.05622774,-8.69325064581,115.436942776,-8.30573558093",
     "geom:latitude":-8.498284,
     "geom:longitude":115.295787,
@@ -24,14 +24,14 @@
     "name:ben_x_preferred":[
         "\u099c\u09bf\u09af\u09bc\u09be\u09a8\u09be\u09af\u09bc\u09be\u09b0"
     ],
-    "name:chi_x_preferred":[
-        "\u5409\u5b89\u96c5"
-    ],
     "name:dan_x_preferred":[
         "Gianyar"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Gianyar"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03b6\u03b9\u03b1\u03bd\u03b3\u03b9\u03ac\u03c1"
     ],
     "name:eng_x_preferred":[
         "Gianyar"
@@ -39,14 +39,8 @@
     "name:fin_x_preferred":[
         "Gianyar"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "kabupaten de Gianyar"
-    ],
-    "name:ger_x_preferred":[
-        "Gianyar"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03b6\u03b9\u03b1\u03bd\u03b3\u03b9\u03ac\u03c1"
     ],
     "name:guj_x_preferred":[
         "\u0a97\u0abf\u0aaf\u0abe\u0aa8\u0acd\u0aaf\u0abe\u0ab0"
@@ -81,8 +75,11 @@
     "name:mar_x_preferred":[
         "\u0917\u094d\u092f\u093e\u0928\u093e\u0930"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Kabupaten Gianyar"
+    ],
+    "name:nld_x_preferred":[
+        "Gianyar"
     ],
     "name:nob_x_preferred":[
         "Gianyar"
@@ -132,6 +129,9 @@
     "name:vie_x_preferred":[
         "Gianyar"
     ],
+    "name:zho_x_preferred":[
+        "\u5409\u5b89\u96c5"
+    ],
     "qs:a0":"Indonesia",
     "qs:a1":"*Bali",
     "qs:a1r":"*",
@@ -176,7 +176,7 @@
         }
     ],
     "wof:id":102020509,
-    "wof:lastmodified":1514448946,
+    "wof:lastmodified":1561755812,
     "wof:name":"Gianyar",
     "wof:parent_id":102073127,
     "wof:placetype":"locality",

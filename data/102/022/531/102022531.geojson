@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000206,
-    "geom:area_square_m":2529459.984084,
+    "geom:area_square_m":2529459.984081,
     "geom:bbox":"106.811828613,-6.62641376843,106.995849609,-6.40298312592",
     "geom:latitude":-6.523158,
     "geom:longitude":106.898422,
@@ -24,25 +24,22 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u0643\u0648\u0631"
     ],
-    "name:baq_x_preferred":[
-        "Bogor"
-    ],
     "name:bul_x_preferred":[
         "\u0411\u043e\u0433\u043e\u0440"
     ],
     "name:cat_x_preferred":[
         "Bogor"
     ],
-    "name:chi_x_preferred":[
-        "\u8302\u7269"
+    "name:ces_x_preferred":[
+        "Bogor"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Bogor"
     ],
     "name:dan_x_preferred":[
         "Bogor"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Bogor"
     ],
     "name:eng_x_preferred":[
@@ -51,16 +48,16 @@
     "name:epo_x_preferred":[
         "Bogor"
     ],
+    "name:eus_x_preferred":[
+        "Bogor"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u06af\u0648\u0631"
+    ],
     "name:fin_x_preferred":[
         "Bogor"
     ],
-    "name:fre_x_preferred":[
-        "Bogor"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10dd\u10d2\u10dd\u10e0\u10d8"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Bogor"
     ],
     "name:heb_x_preferred":[
@@ -84,14 +81,14 @@
     "name:jpn_x_preferred":[
         "\u30dc\u30b4\u30fc\u30eb"
     ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10dd\u10d2\u10dd\u10e0\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ubcf4\uace0\ub974"
     ],
     "name:lit_x_preferred":[
         "Bogoras"
-    ],
-    "name:may_x_preferred":[
-        "Bogor"
     ],
     "name:min_x_preferred":[
         "Bogor"
@@ -99,7 +96,13 @@
     "name:mlg_x_preferred":[
         "Kota Bogor"
     ],
+    "name:msa_x_preferred":[
+        "Bogor"
+    ],
     "name:nan_x_preferred":[
+        "Bogor"
+    ],
+    "name:nld_x_preferred":[
         "Bogor"
     ],
     "name:nob_x_preferred":[
@@ -108,16 +111,13 @@
     "name:oci_x_preferred":[
         "Bogor"
     ],
-    "name:per_x_preferred":[
-        "\u0628\u0648\u06af\u0648\u0631"
-    ],
     "name:pol_x_preferred":[
         "Bogor"
     ],
     "name:por_x_preferred":[
         "Bogor"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Bogor"
     ],
     "name:rus_x_preferred":[
@@ -159,8 +159,8 @@
     "name:war_x_preferred":[
         "Bogor"
     ],
-    "name:wel_x_preferred":[
-        "Bogor"
+    "name:zho_x_preferred":[
+        "\u8302\u7269"
     ],
     "qs:a1":"*",
     "qs:a1r":"*",
@@ -198,7 +198,7 @@
         }
     ],
     "wof:id":102022531,
-    "wof:lastmodified":1514448798,
+    "wof:lastmodified":1561755786,
     "wof:name":"Bogor",
     "wof:parent_id":102073217,
     "wof:placetype":"locality",

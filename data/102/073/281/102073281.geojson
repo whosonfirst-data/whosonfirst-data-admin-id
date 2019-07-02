@@ -46,14 +46,14 @@
     "name:cat_x_preferred":[
         "Cilegon"
     ],
-    "name:chi_x_preferred":[
-        "\u829d\u52d2\u8ca2"
-    ],
     "name:dan_x_preferred":[
         "Cilegon"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Cilegon"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b9\u03bb\u03b5\u03b3\u03ba\u03cc\u03bd"
     ],
     "name:eng_x_preferred":[
         "Cilegon"
@@ -61,20 +61,14 @@
     "name:eng_x_variant":[
         "KOTA CILEGON"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u06cc\u0644\u06af\u0648\u0646\u060c \u0627\u0646\u062f\u0648\u0646\u0632\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Cilegon"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Cilegon"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e9\u10d8\u10da\u10d4\u10d2\u10dd\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Cilegon"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03b9\u03bb\u03b5\u03b3\u03ba\u03cc\u03bd"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ac0\u0ab2\u0ac7\u0a97\u0acb\u0aa8"
@@ -97,6 +91,9 @@
     "name:kan_x_preferred":[
         "\u0cb8\u0cbf\u0cb2\u0cc6\u0c97\u0cbe\u0ca8\u0ccd"
     ],
+    "name:kat_x_preferred":[
+        "\u10e9\u10d8\u10da\u10d4\u10d2\u10dd\u10dc\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uce60\ub808\uace4"
     ],
@@ -109,13 +106,16 @@
     "name:mar_x_preferred":[
         "\u0938\u093f\u0932\u0947\u0917\u0949\u0928"
     ],
-    "name:may_x_preferred":[
-        "Kota Cilegon"
-    ],
     "name:mlg_x_preferred":[
         "Kota Cilegon"
     ],
+    "name:msa_x_preferred":[
+        "Kota Cilegon"
+    ],
     "name:nan_x_preferred":[
+        "Cilegon"
+    ],
+    "name:nld_x_preferred":[
         "Cilegon"
     ],
     "name:nob_x_preferred":[
@@ -124,16 +124,13 @@
     "name:oci_x_preferred":[
         "Cilegon"
     ],
-    "name:per_x_preferred":[
-        "\u0633\u06cc\u0644\u06af\u0648\u0646\u060c \u0627\u0646\u062f\u0648\u0646\u0632\u06cc"
-    ],
     "name:pol_x_preferred":[
         "Cilegon"
     ],
     "name:por_x_preferred":[
         "Cilegon"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Cilegon"
     ],
     "name:rus_x_preferred":[
@@ -171,6 +168,9 @@
     ],
     "name:vie_x_preferred":[
         "Cilegon"
+    ],
+    "name:zho_x_preferred":[
+        "\u829d\u52d2\u8ca2"
     ],
     "qs:a0":"Indonesia",
     "qs:a0_lc":"IDN",
@@ -218,7 +218,7 @@
         }
     ],
     "wof:id":102073281,
-    "wof:lastmodified":1553716923,
+    "wof:lastmodified":1561755792,
     "wof:name":"Cilegon",
     "wof:parent_id":85671995,
     "wof:placetype":"county",

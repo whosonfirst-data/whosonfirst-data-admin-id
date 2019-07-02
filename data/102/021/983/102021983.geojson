@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000734,
-    "geom:area_square_m":9009261.411128,
+    "geom:area_square_m":9009261.411123,
     "geom:bbox":"108.980818585,-7.09357963934,109.020890572,-7.06459621532",
     "geom:latitude":-7.077192,
     "geom:longitude":109.000855,
@@ -36,9 +36,6 @@
     "name:azb_x_preferred":[
         "\u062a\u0626\u06af\u0627\u0644"
     ],
-    "name:baq_x_preferred":[
-        "Tegal"
-    ],
     "name:bar_x_preferred":[
         "Tegal"
     ],
@@ -51,20 +48,23 @@
     "name:cat_x_preferred":[
         "Tegal"
     ],
-    "name:chi_x_preferred":[
-        "\u76f4\u845b"
+    "name:ces_x_preferred":[
+        "Tegal"
     ],
     "name:cos_x_preferred":[
         "Tegal"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Tegal"
     ],
     "name:dan_x_preferred":[
         "Tegal"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Tegal"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03b5\u03b3\u03ba\u03ac\u03bb"
     ],
     "name:eng_x_preferred":[
         "Tegal"
@@ -75,22 +75,22 @@
     "name:est_x_preferred":[
         "Tegal"
     ],
+    "name:eus_x_preferred":[
+        "Tegal"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u06af\u0627\u0644"
+    ],
     "name:fin_x_preferred":[
         "Tegal"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Tegal"
     ],
     "name:frp_x_preferred":[
         "Tegal"
     ],
     "name:fur_x_preferred":[
-        "Tegal"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e2\u10d4\u10d2\u10d0\u10da\u10d8"
-    ],
-    "name:ger_x_preferred":[
         "Tegal"
     ],
     "name:gla_x_preferred":[
@@ -101,9 +101,6 @@
     ],
     "name:glg_x_preferred":[
         "Tegal"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03b5\u03b3\u03ba\u03ac\u03bb"
     ],
     "name:gsw_x_preferred":[
         "Tegal"
@@ -120,9 +117,6 @@
     "name:hun_x_preferred":[
         "Tegal"
     ],
-    "name:ice_x_preferred":[
-        "Tegal"
-    ],
     "name:ido_x_preferred":[
         "Tegal"
     ],
@@ -133,6 +127,9 @@
         "Tegal"
     ],
     "name:ind_x_preferred":[
+        "Tegal"
+    ],
+    "name:isl_x_preferred":[
         "Tegal"
     ],
     "name:ita_x_preferred":[
@@ -146,6 +143,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0c9f\u0cc6\u0c97\u0cbe\u0cb2\u0ccd"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e2\u10d4\u10d2\u10d0\u10da\u10d8"
     ],
     "name:kon_x_preferred":[
         "Tegal"
@@ -171,19 +171,22 @@
     "name:mar_x_preferred":[
         "\u091f\u0947\u0902\u0917\u0932"
     ],
-    "name:may_x_preferred":[
-        "Kota Tegal"
-    ],
     "name:min_x_preferred":[
         "Tegal"
     ],
     "name:mlg_x_preferred":[
         "Kota Tegal"
     ],
+    "name:msa_x_preferred":[
+        "Kota Tegal"
+    ],
     "name:nap_x_preferred":[
         "Tegal"
     ],
     "name:nds_x_preferred":[
+        "Tegal"
+    ],
+    "name:nld_x_preferred":[
         "Tegal"
     ],
     "name:nno_x_preferred":[
@@ -201,9 +204,6 @@
     "name:pcd_x_preferred":[
         "Tegal"
     ],
-    "name:per_x_preferred":[
-        "\u062a\u06af\u0627\u0644"
-    ],
     "name:pms_x_preferred":[
         "Tegal"
     ],
@@ -216,7 +216,7 @@
     "name:roh_x_preferred":[
         "Tegal"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Tegal"
     ],
     "name:rus_x_preferred":[
@@ -231,7 +231,7 @@
     "name:sin_x_preferred":[
         "\u0da7\u0dd9\u0d9c\u0dbd\u0dca"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Tegal"
     ],
     "name:slv_x_preferred":[
@@ -285,14 +285,14 @@
     "name:war_x_preferred":[
         "Tegal"
     ],
-    "name:wel_x_preferred":[
-        "Tegal"
-    ],
     "name:wln_x_preferred":[
         "Tegal"
     ],
     "name:wol_x_preferred":[
         "Tegal"
+    ],
+    "name:zho_x_preferred":[
+        "\u76f4\u845b"
     ],
     "name:zul_x_preferred":[
         "Tegal"
@@ -333,7 +333,7 @@
         }
     ],
     "wof:id":102021983,
-    "wof:lastmodified":1514450349,
+    "wof:lastmodified":1561755851,
     "wof:name":"Tegal",
     "wof:parent_id":102073417,
     "wof:placetype":"locality",

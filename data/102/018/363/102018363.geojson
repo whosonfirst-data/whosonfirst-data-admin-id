@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008927,
-    "geom:area_square_m":109804631.820851,
+    "geom:area_square_m":109804631.820831,
     "geom:bbox":"95.2369446131,5.66707850912,95.3978189852,5.9071786421",
     "geom:latitude":5.848479,
     "geom:longitude":95.319281,
@@ -41,17 +41,14 @@
     "name:ceb_x_preferred":[
         "Sabang"
     ],
-    "name:chi_x_preferred":[
-        "\u6c99\u749c"
-    ],
     "name:dan_x_preferred":[
         "Sabang"
     ],
     "name:deu_x_preferred":[
         "Sabang"
     ],
-    "name:dut_x_preferred":[
-        "Sabang"
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03bc\u03c0\u03ac\u03bd\u03b3\u03ba"
     ],
     "name:eng_x_preferred":[
         "Sabang"
@@ -61,15 +58,6 @@
     ],
     "name:fra_x_preferred":[
         "Sabang"
-    ],
-    "name:fre_x_preferred":[
-        "Sabang"
-    ],
-    "name:ger_x_preferred":[
-        "Sabang"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03b1\u03bc\u03c0\u03ac\u03bd\u03b3\u03ba"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0aac\u0abe\u0a82\u0a97"
@@ -103,9 +91,6 @@
     ],
     "name:mar_x_preferred":[
         "\u0938\u092c\u093e\u0902\u0917"
-    ],
-    "name:may_x_preferred":[
-        "Sabang"
     ],
     "name:min_x_preferred":[
         "Kota Sabang"
@@ -206,7 +191,7 @@
         }
     ],
     "wof:id":102018363,
-    "wof:lastmodified":1514450027,
+    "wof:lastmodified":1561755818,
     "wof:name":"Sabang",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000254,
-    "geom:area_square_m":3138053.522053,
+    "geom:area_square_m":3138053.522056,
     "geom:bbox":"104.882967943,-3.11116801727,104.900967605,-3.09307395436",
     "geom:latitude":-3.102121,
     "geom:longitude":104.891968,
@@ -52,9 +52,6 @@
     "name:div_x_preferred":[
         "\u0783\u07a6\u0782\u07b0\u0784\u07aa\u0790\u07b0\u078c\u07a7\u0782\u07b0"
     ],
-    "name:dut_x_preferred":[
-        "Rambutan"
-    ],
     "name:eng_x_preferred":[
         "Rambutan"
     ],
@@ -76,10 +73,7 @@
     "name:fra_x_preferred":[
         "Ramboutan"
     ],
-    "name:fre_x_preferred":[
-        "Rambutan"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_variant":[
         "Rambutan"
     ],
     "name:glg_x_preferred":[
@@ -127,9 +121,6 @@
     "name:mal_x_preferred":[
         "\u0d31\u0d2e\u0d4d\u0d2a\u0d42\u0d1f\u0d4d\u0d1f\u0d3e\u0d7b"
     ],
-    "name:may_x_preferred":[
-        "Rambutan"
-    ],
     "name:mrj_x_preferred":[
         "\u0420\u0430\u043c\u0431\u0443\u0442\u0430\u043d"
     ],
@@ -141,6 +132,9 @@
     ],
     "name:nld_x_preferred":[
         "Ramboetan"
+    ],
+    "name:nld_x_variant":[
+        "Rambutan"
     ],
     "name:nor_x_preferred":[
         "Rambutan"
@@ -237,7 +231,7 @@
         }
     ],
     "wof:id":102019309,
-    "wof:lastmodified":1527637816,
+    "wof:lastmodified":1561755838,
     "wof:name":"Rambutan",
     "wof:parent_id":102072629,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004921,
-    "geom:area_square_m":60570820.129455,
+    "geom:area_square_m":60570820.129375,
     "geom:bbox":"122.548955457,-5.52115364069,122.687859128,-5.37182035894",
     "geom:latitude":-5.456878,
     "geom:longitude":122.608839,
@@ -34,9 +34,6 @@
     "name:ast_x_preferred":[
         "Baubau"
     ],
-    "name:baq_x_preferred":[
-        "Baubau"
-    ],
     "name:bar_x_preferred":[
         "Baubau"
     ],
@@ -46,19 +43,19 @@
     "name:cat_x_preferred":[
         "Bau-Bau"
     ],
-    "name:chi_x_preferred":[
-        "\u5df4\u52a1\u5df4\u52a1\u5e02"
+    "name:ces_x_preferred":[
+        "Baubau"
     ],
     "name:cos_x_preferred":[
         "Baubau"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Baubau"
     ],
     "name:dan_x_preferred":[
         "Baubau"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Bau-Bau"
     ],
     "name:eng_x_preferred":[
@@ -74,10 +71,13 @@
     "name:est_x_preferred":[
         "Baubau"
     ],
+    "name:eus_x_preferred":[
+        "Baubau"
+    ],
     "name:fin_x_preferred":[
         "Baubau"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Bau-Bau"
     ],
     "name:frp_x_preferred":[
@@ -85,9 +85,6 @@
     ],
     "name:fur_x_preferred":[
         "Baubau"
-    ],
-    "name:ger_x_preferred":[
-        "Bau-Bau"
     ],
     "name:gla_x_preferred":[
         "Baubau"
@@ -107,9 +104,6 @@
     "name:hun_x_preferred":[
         "Baubau"
     ],
-    "name:ice_x_preferred":[
-        "Baubau"
-    ],
     "name:ido_x_preferred":[
         "Baubau"
     ],
@@ -120,6 +114,9 @@
         "Baubau"
     ],
     "name:ind_x_preferred":[
+        "Baubau"
+    ],
+    "name:isl_x_preferred":[
         "Baubau"
     ],
     "name:ita_x_preferred":[
@@ -146,20 +143,23 @@
     "name:ltz_x_preferred":[
         "Baubau"
     ],
-    "name:may_x_preferred":[
-        "Bau-Bau"
-    ],
     "name:min_x_preferred":[
         "Baubau"
     ],
     "name:mlg_x_preferred":[
         "Kota Bau-Bau"
     ],
+    "name:msa_x_preferred":[
+        "Bau-Bau"
+    ],
     "name:nap_x_preferred":[
         "Baubau"
     ],
     "name:nds_x_preferred":[
         "Baubau"
+    ],
+    "name:nld_x_preferred":[
+        "Bau-Bau"
     ],
     "name:nno_x_preferred":[
         "Baubau"
@@ -188,7 +188,7 @@
     "name:roh_x_preferred":[
         "Baubau"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Bau-Bau"
     ],
     "name:scn_x_preferred":[
@@ -197,7 +197,7 @@
     "name:sco_x_preferred":[
         "Bau-Bau"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Baubau"
     ],
     "name:slv_x_preferred":[
@@ -239,14 +239,14 @@
     "name:vol_x_preferred":[
         "Baubau"
     ],
-    "name:wel_x_preferred":[
-        "Baubau"
-    ],
     "name:wln_x_preferred":[
         "Baubau"
     ],
     "name:wol_x_preferred":[
         "Baubau"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u52a1\u5df4\u52a1\u5e02"
     ],
     "name:zul_x_preferred":[
         "Baubau"
@@ -387,7 +387,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1534379338,
+    "wof:lastmodified":1561755812,
     "wof:name":"Baubau",
     "wof:parent_id":102072977,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003037,
-    "geom:area_square_m":37558724.526741,
+    "geom:area_square_m":37558724.526751,
     "geom:bbox":"100.136888937,-0.355112648444,100.242749398,-0.238146303047",
     "geom:latitude":-0.299344,
     "geom:longitude":100.197744,
@@ -29,8 +29,8 @@
     "name:deu_x_preferred":[
         "Maninjau-See"
     ],
-    "name:dut_x_preferred":[
-        "Maninjau"
+    "name:deu_x_variant":[
+        "Nagari Maninjau"
     ],
     "name:eng_x_preferred":[
         "Maninjau"
@@ -41,11 +41,8 @@
     "name:fra_x_preferred":[
         "Lac Maninjau"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Maninjau"
-    ],
-    "name:ger_x_preferred":[
-        "Nagari Maninjau"
     ],
     "name:ind_x_preferred":[
         "Danau Maninjau"
@@ -56,17 +53,20 @@
     "name:jav_x_preferred":[
         "Tlaga Maninjau"
     ],
-    "name:may_x_preferred":[
-        "Maninjau"
-    ],
     "name:min_x_preferred":[
         "Danau Maninjau"
     ],
     "name:msa_x_preferred":[
         "Tasik Maninjau"
     ],
+    "name:msa_x_variant":[
+        "Maninjau"
+    ],
     "name:nld_x_preferred":[
         "Maninjaumeer"
+    ],
+    "name:nld_x_variant":[
+        "Maninjau"
     ],
     "name:pol_x_preferred":[
         "Maninjau"
@@ -136,7 +136,7 @@
         }
     ],
     "wof:id":102019845,
-    "wof:lastmodified":1527637817,
+    "wof:lastmodified":1561755840,
     "wof:name":"Maninjau",
     "wof:parent_id":102072691,
     "wof:placetype":"locality",

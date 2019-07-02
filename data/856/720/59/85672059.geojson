@@ -35,9 +35,6 @@
     "name:azb_x_preferred":[
         "\u062c\u0627\u0645\u0628\u06cc"
     ],
-    "name:baq_x_preferred":[
-        "Jambi"
-    ],
     "name:ben_x_preferred":[
         "\u099c\u09be\u09ae\u09cd\u09ac\u09bf \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6\u09c7"
     ],
@@ -50,17 +47,20 @@
     "name:cdo_x_preferred":[
         "Jambi"
     ],
-    "name:chi_x_preferred":[
-        "\u5360\u7891\u7701"
+    "name:ces_x_preferred":[
+        "Jambi"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Jambi"
     ],
     "name:dan_x_preferred":[
         "Jambi"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Jambi"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03b6\u03ac\u03bc\u03c0\u03b9"
     ],
     "name:eng_x_preferred":[
         "Jambi"
@@ -68,20 +68,17 @@
     "name:epo_x_preferred":[
         "\u011cambio"
     ],
+    "name:eus_x_preferred":[
+        "Jambi"
+    ],
+    "name:fas_x_preferred":[
+        "\u062c\u0627\u0645\u0628\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Jambi"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Jambi"
-    ],
-    "name:geo_x_preferred":[
-        "\u10ef\u10d0\u10db\u10d1\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Jambi"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03b6\u03ac\u03bc\u03c0\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0a9c\u0abe\u0a82\u0aac\u0ac0 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -110,6 +107,9 @@
     "name:kan_x_preferred":[
         "\u0c9c\u0c82\u0cac\u0cbf \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
     ],
+    "name:kat_x_preferred":[
+        "\u10ef\u10d0\u10db\u10d1\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uc7a0\ube44 \uc8fc"
     ],
@@ -128,14 +128,17 @@
     "name:mar_x_preferred":[
         "\u091c\u093e\u0902\u092c\u0940"
     ],
-    "name:may_x_preferred":[
-        "Jambi"
-    ],
     "name:min_x_preferred":[
         "Jambi"
     ],
     "name:mon_x_preferred":[
         "\u0416\u0430\u043c\u0431\u0438"
+    ],
+    "name:msa_x_preferred":[
+        "Jambi"
+    ],
+    "name:nld_x_preferred":[
+        "Jambi"
     ],
     "name:nob_x_preferred":[
         "Jambi"
@@ -146,9 +149,6 @@
     "name:pam_x_preferred":[
         "Jambi"
     ],
-    "name:per_x_preferred":[
-        "\u062c\u0627\u0645\u0628\u06cc"
-    ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u062c\u0627\u0645\u0628\u06cc"
     ],
@@ -158,7 +158,7 @@
     "name:por_x_preferred":[
         "Jambi"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Jambi"
     ],
     "name:rus_x_preferred":[
@@ -212,14 +212,14 @@
     "name:war_x_preferred":[
         "Jambi"
     ],
-    "name:wel_x_preferred":[
-        "Jambi"
-    ],
     "name:wuu_x_preferred":[
         "\u5360\u7891\u7701"
     ],
     "name:yue_x_preferred":[
         "\u5360\u7891"
+    ],
+    "name:zho_x_preferred":[
+        "\u5360\u7891\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"IDN",
@@ -345,7 +345,7 @@
     "wof:lang_x_spoken":[
         "ind"
     ],
-    "wof:lastmodified":1553550372,
+    "wof:lastmodified":1561756019,
     "wof:name":"Jambi",
     "wof:parent_id":85632203,
     "wof:placetype":"region",

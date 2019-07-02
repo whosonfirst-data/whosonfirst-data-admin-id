@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034143,
-    "geom:area_square_m":419178648.564295,
+    "geom:area_square_m":419178648.564564,
     "geom:bbox":"107.742919922,-6.98453542451,108.054084972,-6.69103658035",
     "geom:latitude":-6.84501,
     "geom:longitude":107.91056,
@@ -31,8 +31,11 @@
     "name:dan_x_preferred":[
         "Sumedang"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Sumedang"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03bf\u03c5\u03bc\u03b5\u03bd\u03c4\u03ac\u03bd\u03b3\u03ba"
     ],
     "name:eng_x_preferred":[
         "Sumedang"
@@ -47,14 +50,8 @@
     "name:fra_x_preferred":[
         "Kabupaten de Sumedang"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Sumedang"
-    ],
-    "name:ger_x_preferred":[
-        "Sumedang"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03bf\u03c5\u03bc\u03b5\u03bd\u03c4\u03ac\u03bd\u03b3\u03ba"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ac1\u0aae\u0ac7\u0aa1\u0abe\u0a82\u0a97"
@@ -92,7 +89,7 @@
     "name:mar_x_preferred":[
         "\u0938\u0941\u092e\u0947\u0921\u093e\u0902\u0917"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Sumedang"
     ],
     "name:nld_x_preferred":[
@@ -201,7 +198,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1514450245,
+    "wof:lastmodified":1561755821,
     "wof:name":"Sumedang",
     "wof:parent_id":102072739,
     "wof:placetype":"locality",

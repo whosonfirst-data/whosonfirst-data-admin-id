@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.053254,
-    "geom:area_square_m":658377332.287602,
+    "geom:area_square_m":658377332.286612,
     "geom:bbox":"103.806320992,0.864332978501,104.17585751,1.27786318102",
     "geom:latitude":1.09362,
     "geom:longitude":104.017495,
@@ -25,9 +25,6 @@
     "name:ara_x_preferred":[
         "\u0628\u0627\u062a\u0627\u0645"
     ],
-    "name:baq_x_preferred":[
-        "Batam"
-    ],
     "name:bel_x_preferred":[
         "\u0411\u0430\u0442\u0430\u043c"
     ],
@@ -40,20 +37,23 @@
     "name:cat_x_preferred":[
         "Batam"
     ],
-    "name:chi_x_preferred":[
-        "\u5df4\u6de1\u5cf6"
-    ],
     "name:dan_x_preferred":[
         "Batam"
     ],
     "name:deu_x_preferred":[
         "Batam"
     ],
-    "name:dut_x_preferred":[
-        "Batam"
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b1\u03c4\u03ac\u03bc"
     ],
     "name:eng_x_preferred":[
         "Batam"
+    ],
+    "name:eus_x_preferred":[
+        "Batam"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u062a\u0645"
     ],
     "name:fin_x_preferred":[
         "Batam"
@@ -61,14 +61,8 @@
     "name:fra_x_preferred":[
         "\u00cele de Batam"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Batam"
-    ],
-    "name:ger_x_preferred":[
-        "Batam"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03b1\u03c4\u03ac\u03bc"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0ac7\u0a9f\u0aae"
@@ -109,10 +103,10 @@
     "name:mar_x_preferred":[
         "\u092c\u091f\u093e\u092e"
     ],
-    "name:may_x_preferred":[
+    "name:mlg_x_preferred":[
         "Kota Batam"
     ],
-    "name:mlg_x_preferred":[
+    "name:msa_x_preferred":[
         "Kota Batam"
     ],
     "name:nld_x_preferred":[
@@ -127,16 +121,13 @@
     "name:oci_x_preferred":[
         "Batam"
     ],
-    "name:per_x_preferred":[
-        "\u0628\u0627\u062a\u0645"
-    ],
     "name:pol_x_preferred":[
         "Batam"
     ],
     "name:por_x_preferred":[
         "Batam"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Batam"
     ],
     "name:rus_x_preferred":[
@@ -225,7 +216,7 @@
         }
     ],
     "wof:id":102020939,
-    "wof:lastmodified":1514449919,
+    "wof:lastmodified":1561755807,
     "wof:name":"Pulau Batam",
     "wof:parent_id":102073453,
     "wof:placetype":"locality",

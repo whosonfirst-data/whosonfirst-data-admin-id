@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.057796,
-    "geom:area_square_m":708532362.085451,
+    "geom:area_square_m":708532362.085001,
     "geom:bbox":"110.057465343,-7.70370573955,110.412597656,-7.24990009579",
     "geom:latitude":-7.506361,
     "geom:longitude":110.247531,
@@ -39,20 +39,14 @@
     "name:ces_x_preferred":[
         "Magelang"
     ],
-    "name:chi_x_preferred":[
-        "\u99ac\u683c\u6717"
-    ],
-    "name:cze_x_preferred":[
-        "Magelang"
-    ],
     "name:dan_x_preferred":[
         "Magelang"
     ],
     "name:deu_x_preferred":[
         "Magelang"
     ],
-    "name:dut_x_preferred":[
-        "Magelang"
+    "name:ell_x_preferred":[
+        "\u039c\u03ac\u03c4\u03b6\u03b5\u03bb\u03b1\u03bd\u03c4"
     ],
     "name:eng_x_preferred":[
         "Magelang"
@@ -65,18 +59,6 @@
     ],
     "name:fra_x_preferred":[
         "Magelang"
-    ],
-    "name:fre_x_preferred":[
-        "Magelang"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10d0\u10d2\u10d4\u10da\u10d0\u10dc\u10d2\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Magelang"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03ac\u03c4\u03b6\u03b5\u03bb\u03b1\u03bd\u03c4"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0ac7\u0a97\u0ac7\u0ab2\u0a82\u0a97"
@@ -114,11 +96,11 @@
     "name:mar_x_preferred":[
         "\u092e\u093e\u0917\u0947\u0932\u0901\u0917"
     ],
-    "name:may_x_preferred":[
-        "Magelang"
-    ],
     "name:mlg_x_preferred":[
         "Kota Magelang"
+    ],
+    "name:msa_x_preferred":[
+        "Magelang"
     ],
     "name:nan_x_preferred":[
         "Magelang"
@@ -135,9 +117,6 @@
     "name:oci_x_preferred":[
         "Magelang"
     ],
-    "name:per_x_preferred":[
-        "\u0645\u0627\u06af\u0644\u0627\u0646\u06af"
-    ],
     "name:pol_x_preferred":[
         "Magelang"
     ],
@@ -145,9 +124,6 @@
         "Magelang"
     ],
     "name:ron_x_preferred":[
-        "Magelang"
-    ],
-    "name:rum_x_preferred":[
         "Magelang"
     ],
     "name:rus_x_preferred":[
@@ -333,7 +309,7 @@
         }
     ],
     "wof:id":102019913,
-    "wof:lastmodified":1514449558,
+    "wof:lastmodified":1561755843,
     "wof:name":"Magelang",
     "wof:parent_id":102072857,
     "wof:placetype":"locality",

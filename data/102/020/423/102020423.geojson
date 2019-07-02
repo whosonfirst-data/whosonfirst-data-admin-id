@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033584,
-    "geom:area_square_m":415108060.774347,
+    "geom:area_square_m":415108060.774069,
     "geom:bbox":"103.232285479,-1.98070038367,103.846269452,-1.30370797903",
     "geom:latitude":-1.633642,
     "geom:longitude":103.542615,
@@ -30,19 +30,13 @@
     "name:ara_x_preferred":[
         "\u062c\u0627\u0645\u0628\u064a"
     ],
-    "name:baq_x_preferred":[
-        "Jambi"
-    ],
     "name:ben_x_preferred":[
         "\u099c\u09be\u09ae\u09cd\u09ac\u09bf \u09b6\u09b9\u09b0"
     ],
     "name:cat_x_preferred":[
         "Jambi"
     ],
-    "name:chi_x_preferred":[
-        "\u5360\u7891\u5e02"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Jambi"
     ],
     "name:dan_x_preferred":[
@@ -51,8 +45,8 @@
     "name:deu_x_preferred":[
         "Jambi"
     ],
-    "name:dut_x_preferred":[
-        "Jambi"
+    "name:ell_x_preferred":[
+        "\u03a4\u03b6\u03ac\u03bc\u03c0\u03b9"
     ],
     "name:eng_x_preferred":[
         "Jambi City"
@@ -60,20 +54,17 @@
     "name:epo_x_preferred":[
         "Jambi"
     ],
+    "name:eus_x_preferred":[
+        "Jambi"
+    ],
+    "name:fas_x_preferred":[
+        "\u062c\u0645\u0628\u06cc\u060c \u0627\u0646\u062f\u0648\u0646\u0632\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Jambi"
     ],
     "name:fra_x_preferred":[
         "Jambi"
-    ],
-    "name:fre_x_preferred":[
-        "Jambi"
-    ],
-    "name:ger_x_preferred":[
-        "Jambi"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03b6\u03ac\u03bc\u03c0\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0a9c\u0abe\u0a82\u0aac\u0ac0"
@@ -108,14 +99,14 @@
     "name:mar_x_preferred":[
         "\u091c\u0902\u092c\u0940"
     ],
-    "name:may_x_preferred":[
-        "Kota Jambi"
-    ],
     "name:mlg_x_preferred":[
         "Kota Jambi"
     ],
     "name:msa_x_preferred":[
         "Jambi"
+    ],
+    "name:msa_x_variant":[
+        "Kota Jambi"
     ],
     "name:nld_x_preferred":[
         "Jambi"
@@ -129,9 +120,6 @@
     "name:oci_x_preferred":[
         "Jambi"
     ],
-    "name:per_x_preferred":[
-        "\u062c\u0645\u0628\u06cc\u060c \u0627\u0646\u062f\u0648\u0646\u0632\u06cc"
-    ],
     "name:pnb_x_preferred":[
         "\u062c\u0627\u0645\u0628\u06cc"
     ],
@@ -141,7 +129,7 @@
     "name:por_x_preferred":[
         "Jambi"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Jambi"
     ],
     "name:rus_x_preferred":[
@@ -187,6 +175,9 @@
         "Jambi"
     ],
     "name:wuu_x_preferred":[
+        "\u5360\u7891\u5e02"
+    ],
+    "name:zho_x_preferred":[
         "\u5360\u7891\u5e02"
     ],
     "ne:ADM0CAP":0.0,
@@ -339,7 +330,7 @@
         }
     ],
     "wof:id":102020423,
-    "wof:lastmodified":1527637550,
+    "wof:lastmodified":1561755809,
     "wof:name":"Jambi",
     "wof:parent_id":102073101,
     "wof:placetype":"locality",

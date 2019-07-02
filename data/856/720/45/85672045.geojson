@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.375047,
-    "geom:area_square_m":16986043298.511614,
+    "geom:area_square_m":16986043298.493826,
     "geom:bbox":"118.752502441,-3.57310009003,119.875457764,-0.849469840527",
     "geom:latitude":-2.458588,
     "geom:longitude":119.35345,
@@ -32,9 +32,6 @@
     "name:ara_x_preferred":[
         "\u0633\u0648\u0644\u0627\u0648\u0633\u064a \u0627\u0644\u063a\u0631\u0628\u064a\u0629"
     ],
-    "name:baq_x_preferred":[
-        "Mendebaldeko Sulawesi"
-    ],
     "name:bel_x_preferred":[
         "\u041f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u0417\u0430\u0445\u043e\u0434\u043d\u0456 \u0421\u0443\u043b\u0430\u0432\u0435\u0441\u0456"
     ],
@@ -47,17 +44,17 @@
     "name:cdo_x_preferred":[
         "S\u0103\u0324 Sulawesi"
     ],
-    "name:chi_x_preferred":[
-        "\u897f\u82cf\u62c9\u5a01\u897f\u7701"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Z\u00e1padn\u00ed Sulawesi"
     ],
     "name:dan_x_preferred":[
         "West Sulawesi"
     ],
-    "name:dut_x_preferred":[
-        "West-Celebes"
+    "name:deu_x_preferred":[
+        "Westsulawesi"
+    ],
+    "name:ell_x_preferred":[
+        "\u0393\u03bf\u03c5\u03ad\u03c3\u03c4 \u03a3\u03bf\u03c5\u03bb\u03b1\u03b2\u03ad\u03c3\u03b9"
     ],
     "name:eng_x_preferred":[
         "West Sulawesi"
@@ -65,20 +62,17 @@
     "name:epo_x_preferred":[
         "Okcidenta Sulaveso"
     ],
+    "name:eus_x_preferred":[
+        "Mendebaldeko Sulawesi"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0648\u0644\u0627\u0648\u0633\u06cc \u063a\u0631\u0628\u06cc"
+    ],
     "name:fin_x_preferred":[
         "L\u00e4nsi-Sulawesi"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Sulawesi occidental"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d3\u10d0\u10e1\u10d0\u10d5\u10da\u10d4\u10d7\u10d8 \u10e1\u10e3\u10da\u10d0\u10d5\u10d4\u10e1\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Westsulawesi"
-    ],
-    "name:gre_x_preferred":[
-        "\u0393\u03bf\u03c5\u03ad\u03c3\u03c4 \u03a3\u03bf\u03c5\u03bb\u03b1\u03b2\u03ad\u03c3\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0ab5\u0ac7\u0ab8\u0acd\u0a9f \u0ab8\u0ac1\u0ab2\u0abe\u0ab5\u0ac7\u0ab8\u0ac0"
@@ -104,6 +98,9 @@
     "name:kan_x_preferred":[
         "\u0cb5\u0cc6\u0cb8\u0ccd\u0c9f\u0ccd \u0cb8\u0cc1\u0cb2\u0cbe\u0cb5\u0cc6\u0cb8\u0cbf"
     ],
+    "name:kat_x_preferred":[
+        "\u10d3\u10d0\u10e1\u10d0\u10d5\u10da\u10d4\u10d7\u10d8 \u10e1\u10e3\u10da\u10d0\u10d5\u10d4\u10e1\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uc220\ub77c\uc6e8\uc2dc\ubc14\ub78f \uc8fc"
     ],
@@ -119,20 +116,20 @@
     "name:mar_x_preferred":[
         "\u092a\u0936\u094d\u091a\u093f\u092e \u0938\u0941\u0932\u093e\u0935\u0947\u0938\u0940"
     ],
-    "name:may_x_preferred":[
-        "Sulawesi Barat"
-    ],
     "name:min_x_preferred":[
         "Sulawesi Barat"
     ],
     "name:mon_x_preferred":[
         "\u04e8\u0440\u043d\u04e9 \u0421\u0443\u043b\u0430\u0432\u0435\u0441\u0438"
     ],
+    "name:msa_x_preferred":[
+        "Sulawesi Barat"
+    ],
+    "name:nld_x_preferred":[
+        "West-Celebes"
+    ],
     "name:nob_x_preferred":[
         "West Sulawesi"
-    ],
-    "name:per_x_preferred":[
-        "\u0633\u0648\u0644\u0627\u0648\u0633\u06cc \u063a\u0631\u0628\u06cc"
     ],
     "name:pol_x_preferred":[
         "Celebes Zachodni"
@@ -196,6 +193,9 @@
     ],
     "name:yue_x_preferred":[
         "\u897f\u8607\u62c9\u5a01\u897f"
+    ],
+    "name:zho_x_preferred":[
+        "\u897f\u82cf\u62c9\u5a01\u897f\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"IDN",
@@ -320,7 +320,7 @@
     "wof:lang_x_spoken":[
         "ind"
     ],
-    "wof:lastmodified":1553814797,
+    "wof:lastmodified":1561756020,
     "wof:name":"Sulawesi Barat",
     "wof:parent_id":85632203,
     "wof:placetype":"region",

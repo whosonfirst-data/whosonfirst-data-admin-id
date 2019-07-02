@@ -64,9 +64,6 @@
     "name:aze_x_preferred":[
         "S\u00fcm\u00fck"
     ],
-    "name:baq_x_preferred":[
-        "Bone"
-    ],
     "name:bar_x_preferred":[
         "Boan"
     ],
@@ -97,6 +94,9 @@
     "name:ces_x_preferred":[
         "Kost"
     ],
+    "name:ces_x_variant":[
+        "Bone"
+    ],
     "name:chv_x_preferred":[
         "\u0428\u0103\u043c\u0103"
     ],
@@ -109,7 +109,7 @@
     "name:cym_x_preferred":[
         "Asgwrn"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_variant":[
         "Bone"
     ],
     "name:dan_x_preferred":[
@@ -118,11 +118,11 @@
     "name:deu_x_preferred":[
         "Knochen"
     ],
+    "name:deu_x_variant":[
+        "Bone"
+    ],
     "name:diq_x_preferred":[
         "Este"
-    ],
-    "name:dut_x_preferred":[
-        "Bone"
     ],
     "name:ell_x_preferred":[
         "\u039f\u03c3\u03c4\u03cc"
@@ -142,6 +142,9 @@
     "name:eus_x_preferred":[
         "Hezur"
     ],
+    "name:eus_x_variant":[
+        "Bone"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u062e\u0648\u0627\u0646"
     ],
@@ -151,7 +154,7 @@
     "name:fra_x_preferred":[
         "Os"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "kabupaten de Bone"
     ],
     "name:frp_x_preferred":[
@@ -161,9 +164,6 @@
         "Bonke"
     ],
     "name:fur_x_preferred":[
-        "Bone"
-    ],
-    "name:ger_x_preferred":[
         "Bone"
     ],
     "name:gla_x_preferred":[
@@ -202,9 +202,6 @@
     "name:hye_x_preferred":[
         "\u0548\u057d\u056f\u0578\u0580"
     ],
-    "name:ice_x_preferred":[
-        "Bone"
-    ],
     "name:ido_x_preferred":[
         "Osto"
     ],
@@ -219,6 +216,9 @@
     ],
     "name:isl_x_preferred":[
         "Bein"
+    ],
+    "name:isl_x_variant":[
+        "Bone"
     ],
     "name:ita_x_preferred":[
         "Osso"
@@ -280,9 +280,6 @@
     "name:mar_x_preferred":[
         "\u0905\u0938\u094d\u0925\u093f"
     ],
-    "name:may_x_preferred":[
-        "Bone"
-    ],
     "name:mhr_x_preferred":[
         "\u041b\u0443"
     ],
@@ -301,6 +298,9 @@
     "name:msa_x_preferred":[
         "Tulang"
     ],
+    "name:msa_x_variant":[
+        "Bone"
+    ],
     "name:mya_x_preferred":[
         "\u1021\u101b\u102d\u102f\u1038"
     ],
@@ -315,6 +315,9 @@
     ],
     "name:nld_x_preferred":[
         "Bot"
+    ],
+    "name:nld_x_variant":[
+        "Bone"
     ],
     "name:nno_x_preferred":[
         "Knokkel"
@@ -361,7 +364,7 @@
     "name:ron_x_preferred":[
         "Os"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_variant":[
         "Bone"
     ],
     "name:rus_x_preferred":[
@@ -379,7 +382,7 @@
     "name:slk_x_preferred":[
         "Kos\u0165"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_variant":[
         "Bone"
     ],
     "name:slv_x_preferred":[
@@ -450,9 +453,6 @@
     ],
     "name:war_x_preferred":[
         "Bukog"
-    ],
-    "name:wel_x_preferred":[
-        "Bone"
     ],
     "name:wln_x_preferred":[
         "Oxhea"
@@ -525,7 +525,7 @@
         }
     ],
     "wof:id":102073433,
-    "wof:lastmodified":1553716915,
+    "wof:lastmodified":1561755802,
     "wof:name":"Bone",
     "wof:parent_id":85672041,
     "wof:placetype":"county",

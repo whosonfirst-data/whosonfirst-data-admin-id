@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.070652,
-    "geom:area_square_m":866337201.927537,
+    "geom:area_square_m":866337201.92798,
     "geom:bbox":"107.882187176,-7.80167077275,108.493545241,-7.1054852303",
     "geom:latitude":-7.405084,
     "geom:longitude":108.155107,
@@ -36,17 +36,14 @@
     "name:cat_x_preferred":[
         "Tasikmalaya"
     ],
-    "name:chi_x_preferred":[
-        "\u6253\u6a6b"
-    ],
     "name:dan_x_preferred":[
         "Tasikmalaya"
     ],
     "name:deu_x_preferred":[
         "Tasikmalaya"
     ],
-    "name:dut_x_preferred":[
-        "Tasikmalaya"
+    "name:ell_x_preferred":[
+        "\u03a4\u03b1\u03c3\u03b9\u03ba\u03bc\u03b1\u03bb\u03ac\u03b3\u03b9\u03b1"
     ],
     "name:eng_x_preferred":[
         "Tasikmalaya"
@@ -59,18 +56,6 @@
     ],
     "name:fra_x_preferred":[
         "Tasikmalaya"
-    ],
-    "name:fre_x_preferred":[
-        "Tasikmalaya"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e2\u10d0\u10e1\u10d8\u10d9\u10db\u10d0\u10da\u10d0\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Tasikmalaya"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03b1\u03c3\u03b9\u03ba\u03bc\u03b1\u03bb\u03ac\u03b3\u03b9\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aa4\u0ab8\u0abf\u0a95\u0aae\u0ab2\u0aaf"
@@ -114,14 +99,14 @@
     "name:mar_x_preferred":[
         "\u0924\u093e\u0938\u093f\u0915\u092e\u0932\u092f"
     ],
-    "name:may_x_preferred":[
-        "Tasikmalaya"
-    ],
     "name:mlg_x_preferred":[
         "Kota Tasikmalaya"
     ],
     "name:msa_x_preferred":[
         "Kota Tasikmalaya"
+    ],
+    "name:msa_x_variant":[
+        "Tasikmalaya"
     ],
     "name:nan_x_preferred":[
         "Tasikmalaya"
@@ -138,9 +123,6 @@
     "name:oci_x_preferred":[
         "Tasikmalaya"
     ],
-    "name:per_x_preferred":[
-        "\u062a\u0627\u0633\u06cc\u06a9\u200c\u0645\u0627\u0644\u0627\u06cc\u0627"
-    ],
     "name:pol_x_preferred":[
         "Tasikmalaya"
     ],
@@ -148,9 +130,6 @@
         "Tasikmalaya"
     ],
     "name:ron_x_preferred":[
-        "Tasikmalaya"
-    ],
-    "name:rum_x_preferred":[
         "Tasikmalaya"
     ],
     "name:rus_x_preferred":[
@@ -336,7 +315,7 @@
         }
     ],
     "wof:id":102018801,
-    "wof:lastmodified":1514450341,
+    "wof:lastmodified":1561755824,
     "wof:name":"Tasikmalaya",
     "wof:parent_id":102073307,
     "wof:placetype":"locality",

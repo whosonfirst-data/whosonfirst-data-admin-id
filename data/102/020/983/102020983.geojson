@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002402,
-    "geom:area_square_m":29463159.783554,
+    "geom:area_square_m":29463159.783558,
     "geom:bbox":"108.566894531,-7.35516149537,108.735249544,-7.30439558306",
     "geom:latitude":-7.333531,
     "geom:longitude":108.641796,
@@ -34,8 +34,11 @@
     "name:dan_x_preferred":[
         "Banjar"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Banjar"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b1\u03bd\u03c4\u03b6\u03ac\u03c1"
     ],
     "name:eng_x_preferred":[
         "Banjar"
@@ -47,14 +50,8 @@
     "name:fin_x_preferred":[
         "Banjar"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Banjar"
-    ],
-    "name:ger_x_preferred":[
-        "Banjar"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03b1\u03bd\u03c4\u03b6\u03ac\u03c1"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0a82\u0a9c\u0abe\u0ab0"
@@ -89,13 +86,16 @@
     "name:mar_x_preferred":[
         "\u092c\u0928\u091d\u093e\u0930"
     ],
-    "name:may_x_preferred":[
-        "Kota Banjar"
-    ],
     "name:mlg_x_preferred":[
         "Kota Banjar"
     ],
+    "name:msa_x_preferred":[
+        "Kota Banjar"
+    ],
     "name:nan_x_preferred":[
+        "Banjar"
+    ],
+    "name:nld_x_preferred":[
         "Banjar"
     ],
     "name:nob_x_preferred":[
@@ -192,7 +192,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1514448711,
+    "wof:lastmodified":1561755809,
     "wof:name":"Banjar",
     "wof:parent_id":102072819,
     "wof:placetype":"locality",
