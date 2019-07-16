@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000143,
-    "geom:area_square_m":1757881.933801,
+    "geom:area_square_m":1757881.9338,
     "geom:bbox":"106.836547852,-6.18015824311,106.853027344,-6.16786230762",
     "geom:latitude":-6.174205,
     "geom:longitude":106.844849,
@@ -26,7 +26,16 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":16.0,
     "mz:tier_locality":4,
+    "name:ceb_x_preferred":[
+        "Kecamatan Senen"
+    ],
+    "name:deu_x_preferred":[
+        "Senen"
+    ],
     "name:eng_x_preferred":[
+        "Senen"
+    ],
+    "name:fra_x_preferred":[
         "Senen"
     ],
     "name:ind_x_preferred":[
@@ -38,11 +47,20 @@
     "name:nld_x_preferred":[
         "Senen"
     ],
+    "name:pol_x_preferred":[
+        "Senen"
+    ],
     "name:sun_x_preferred":[
         "Sen\u00e9n"
     ],
+    "name:swe_x_preferred":[
+        "Kecamatan Senen"
+    ],
     "name:unk_x_variant":[
         "Senen"
+    ],
+    "name:zho_x_preferred":[
+        "\u8001\u5df4\u524e"
     ],
     "qs:gn_adm0_cc":"ID",
     "qs:gn_fcode":"PPL",
@@ -109,7 +127,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527639352,
+    "wof:lastmodified":1563251272,
     "wof:name":"Senen",
     "wof:parent_id":102021905,
     "wof:placetype":"neighbourhood",

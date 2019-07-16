@@ -26,6 +26,9 @@
     "meso:name_local":"TANA TIDUNG",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Kabupaten Tana Tidung"
+    ],
     "name:deu_x_preferred":[
         "Kabupaten Tana Tidung"
     ],
@@ -62,8 +65,14 @@
     "name:spa_x_preferred":[
         "Tana Tidung"
     ],
+    "name:spa_x_variant":[
+        "Mesuji"
+    ],
     "name:swe_x_preferred":[
         "Kabupaten Tana Tidung"
+    ],
+    "name:zho_x_preferred":[
+        "\u5854\u7eb3\u8482\u4e1c\u53bf"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -108,7 +117,7 @@
         }
     ],
     "wof:id":1108796801,
-    "wof:lastmodified":1561756967,
+    "wof:lastmodified":1563267891,
     "wof:name":"Tana Tidung",
     "wof:parent_id":-1,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005966,
-    "geom:area_square_m":73264856.556804,
+    "geom:area_square_m":73264856.55693,
     "geom:bbox":"106.90246582,-6.74916892387,107.068063222,-6.63919822308",
     "geom:latitude":-6.691947,
     "geom:longitude":106.969802,
@@ -19,14 +19,23 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u0646\u0634\u0627\u0643"
     ],
+    "name:eng_x_preferred":[
+        "Puncak"
+    ],
     "name:ind_x_preferred":[
         "Puncak"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d7\u30f3\u30c1\u30e3\u30c3\u30af\u5ce0"
     ],
     "name:nld_x_preferred":[
         "Puncak"
     ],
     "name:unk_x_variant":[
         "Puntjak"
+    ],
+    "name:zho_x_preferred":[
+        "\u6728\u624e"
     ],
     "qs:a1":"*",
     "qs:a1r":"*",
@@ -66,7 +75,7 @@
         }
     ],
     "wof:id":102019349,
-    "wof:lastmodified":1527637819,
+    "wof:lastmodified":1563246872,
     "wof:name":"Puncak",
     "wof:parent_id":102073217,
     "wof:placetype":"locality",

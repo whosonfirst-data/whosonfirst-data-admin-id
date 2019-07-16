@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000254,
-    "geom:area_square_m":3133353.191019,
+    "geom:area_square_m":3133353.191021,
     "geom:bbox":"101.224536276,-1.7940298052,101.242504685,-1.7759491932",
     "geom:latitude":-1.78499,
     "geom:longitude":101.23352,
@@ -33,6 +33,15 @@
     ],
     "name:deu_x_preferred":[
         "Kerinci"
+    ],
+    "name:deu_x_variant":[
+        "Kerinchi"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b5\u03c1\u03af\u03bd\u03c4\u03c3\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Mount Kerinci"
     ],
     "name:est_x_preferred":[
         "Kerinci"
@@ -67,8 +76,17 @@
     "name:kor_x_preferred":[
         "\ud06c\ub9b0\uce58 \uc0b0"
     ],
+    "name:kor_x_variant":[
+        "\ucf00\ub9b0\uce58 \uc0b0"
+    ],
     "name:lit_x_preferred":[
         "Kerin\u010dis"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d15\u0d46\u0d30\u0d3f\u0d7b\u0d38\u0d3f \u0d2a\u0d7c\u0d35\u0d4d\u0d35\u0d24\u0d02"
+    ],
+    "name:min_x_preferred":[
+        "Gunuang Kurinci"
     ],
     "name:msa_x_preferred":[
         "Gunung Kerinci"
@@ -91,20 +109,32 @@
     "name:slk_x_preferred":[
         "Kerinci"
     ],
+    "name:spa_x_preferred":[
+        "Kerinci"
+    ],
     "name:srp_x_preferred":[
         "\u041a\u0435\u0440\u0438\u043d\u0447\u0438"
     ],
     "name:sun_x_preferred":[
         "Gunung Kerinci"
     ],
+    "name:swa_x_preferred":[
+        "Mlima Kerinci"
+    ],
     "name:swe_x_preferred":[
         "Kerinci"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0435\u0440\u0456\u043d\u0447\u0456"
     ],
     "name:unk_x_variant":[
         "Piek van Indrapoera"
     ],
     "name:uzb_x_preferred":[
         "Kerinchi"
+    ],
+    "name:vie_x_preferred":[
+        "N\u00fai Kerinci"
     ],
     "name:zho_x_preferred":[
         "\u845b\u6797\u829d\u706b\u5c71"
@@ -147,7 +177,7 @@
         }
     ],
     "wof:id":102020187,
-    "wof:lastmodified":1527637552,
+    "wof:lastmodified":1563246529,
     "wof:name":"Gunung Kerinci",
     "wof:parent_id":102072673,
     "wof:placetype":"locality",

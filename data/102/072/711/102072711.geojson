@@ -46,6 +46,9 @@
     "name:ceb_x_preferred":[
         "Pulau Samosir"
     ],
+    "name:ceb_x_variant":[
+        "Kabupaten Samosir"
+    ],
     "name:cym_x_preferred":[
         "Ynys Samosir"
     ],
@@ -67,11 +70,17 @@
     "name:ind_x_preferred":[
         "Pulau Samosir"
     ],
+    "name:ind_x_variant":[
+        "Samosir"
+    ],
     "name:ita_x_preferred":[
         "Samosir"
     ],
     "name:jav_x_preferred":[
         "Pulo Samosir"
+    ],
+    "name:jav_x_variant":[
+        "Kabupat\u00e8n Samosir"
     ],
     "name:jpn_x_preferred":[
         "\u30b5\u30e2\u30b7\u30fc\u30eb\u5cf6"
@@ -108,6 +117,10 @@
     ],
     "name:zho_x_preferred":[
         "\u6c99\u6469\u897f\u5cf6"
+    ],
+    "name:zho_x_variant":[
+        "\u4e39\u5e15\u6c99",
+        "\u6c99\u6469\u897f\u53bf"
     ],
     "qs:a0":"Indonesia",
     "qs:a0_lc":"IDN",
@@ -157,7 +170,7 @@
         }
     ],
     "wof:id":102072711,
-    "wof:lastmodified":1561755837,
+    "wof:lastmodified":1563246813,
     "wof:name":"Samosir",
     "wof:parent_id":85672073,
     "wof:placetype":"county",

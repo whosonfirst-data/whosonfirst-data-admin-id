@@ -32,6 +32,9 @@
     "name:ara_x_preferred":[
         "\u0631\u064a\u0627\u0648"
     ],
+    "name:azb_x_preferred":[
+        "\u0631\u06cc\u0627\u0626\u0648"
+    ],
     "name:bel_x_preferred":[
         "\u041f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u0420\u044b\u0430\u0443"
     ],
@@ -86,14 +89,23 @@
     "name:fra_x_preferred":[
         "Riau"
     ],
+    "name:gor_x_preferred":[
+        "Riau"
+    ],
     "name:guj_x_preferred":[
         "\u0ab0\u0abf\u0aaf\u0abe\u0a89 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
     ],
     "name:hak_x_preferred":[
         "Li\u00e0u-nui-s\u00e9n"
     ],
+    "name:hak_x_variant":[
+        "Riau"
+    ],
     "name:hin_x_preferred":[
         "\u0930\u093f\u092f\u093e\u0909"
+    ],
+    "name:ilo_x_preferred":[
+        "Riau"
     ],
     "name:ind_x_preferred":[
         "Riau"
@@ -116,6 +128,9 @@
     "name:kor_x_preferred":[
         "\ub9ac\uc544\uc6b0 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\ub9ac\uc544\uc6b0\uc8fc"
+    ],
     "name:lav_x_preferred":[
         "Riau province"
     ],
@@ -124,6 +139,9 @@
     ],
     "name:lrc_x_preferred":[
         "\u0631\u06cc\u0627\u0626\u0648"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d31\u0d3f\u0d2f\u0d3e\u0d35\u0d41"
     ],
     "name:mar_x_preferred":[
         "\u0930\u093f\u092f\u093e\u0909"
@@ -190,6 +208,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e40\u0e23\u0e35\u0e22\u0e27"
+    ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e23\u0e35\u0e40\u0e22\u0e32"
     ],
     "name:tur_x_preferred":[
         "Riau"
@@ -346,7 +367,7 @@
     "wof:lang_x_spoken":[
         "ind"
     ],
-    "wof:lastmodified":1561756024,
+    "wof:lastmodified":1563251352,
     "wof:name":"Riau",
     "wof:parent_id":85632203,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001223,
-    "geom:area_square_m":15102559.570632,
+    "geom:area_square_m":15102559.570652,
     "geom:bbox":"103.817294389,-3.30861145799,103.857266356,-3.26858467121",
     "geom:latitude":-3.288598,
     "geom:longitude":103.83728,
@@ -16,6 +16,9 @@
     "mps:longitude":103.83728,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Pendopo"
+    ],
     "name:fra_x_preferred":[
         "Pendopo"
     ],
@@ -25,8 +28,23 @@
     "name:jav_x_preferred":[
         "Pendhapa"
     ],
+    "name:msa_x_preferred":[
+        "Pendapa"
+    ],
     "name:nld_x_preferred":[
         "Pendoppo"
+    ],
+    "name:nld_x_variant":[
+        "Pendopo"
+    ],
+    "name:por_x_preferred":[
+        "Pendopo"
+    ],
+    "name:spa_x_preferred":[
+        "Pendopo"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e1b\u0e34\u0e19\u0e14\u0e32\u0e1b\u0e32"
     ],
     "qs:a0":"Indonesia",
     "qs:a1":"*Sumatera Selatan",
@@ -73,7 +91,7 @@
         }
     ],
     "wof:id":102019449,
-    "wof:lastmodified":1527637817,
+    "wof:lastmodified":1563246835,
     "wof:name":"Pendopo",
     "wof:parent_id":102073571,
     "wof:placetype":"locality",

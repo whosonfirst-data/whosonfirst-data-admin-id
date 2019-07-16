@@ -29,14 +29,21 @@
     "name:bjn_x_preferred":[
         "Maluku Tenggara Barat"
     ],
+    "name:ceb_x_preferred":[
+        "Kabupaten Maluku Tenggara Barat"
+    ],
     "name:deu_x_preferred":[
         "Westliche S\u00fcdostmolukken"
+    ],
+    "name:deu_x_variant":[
+        "Tanimbarinseln"
     ],
     "name:eng_x_preferred":[
         "Maluku Tenggara Barat"
     ],
     "name:eng_x_variant":[
-        "MALUKU TENGGARA BARAT"
+        "MALUKU TENGGARA BARAT",
+        "Kepulauan Tanimbar"
     ],
     "name:fra_x_preferred":[
         "kabupaten des Moluques du Sud-Est occidentales"
@@ -46,6 +53,9 @@
     ],
     "name:jav_x_preferred":[
         "Maluku Kidul-w\u00e9tan Kulon"
+    ],
+    "name:jav_x_variant":[
+        "Kapuloan Tanimbar"
     ],
     "name:jpn_x_preferred":[
         "\u897f\u90e8\u5357\u6771\u30de\u30eb\u30af\u770c"
@@ -64,6 +74,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0417\u0430\u0445\u0456\u0434\u043d\u0435 \u041f\u0456\u0432\u0434\u0435\u043d\u043d\u043e-\u0421\u0445\u0456\u0434\u043d\u0435 \u041c\u0430\u043b\u0443\u043a\u0443"
+    ],
+    "name:zho_x_preferred":[
+        "\u897f\u4e1c\u5357\u9a6c\u9c81\u53e4\u53bf"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -101,7 +114,7 @@
         }
     ],
     "wof:id":1108796837,
-    "wof:lastmodified":1561756972,
+    "wof:lastmodified":1563267912,
     "wof:name":"Maluku Tenggara Barat",
     "wof:parent_id":85672097,
     "wof:placetype":"county",

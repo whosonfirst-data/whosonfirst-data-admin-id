@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005128,
-    "geom:area_square_m":63366816.378903,
+    "geom:area_square_m":63366816.378801,
     "geom:bbox":"105.124674374,-2.09049835973,105.241536385,-1.87476858522",
     "geom:latitude":-2.046409,
     "geom:longitude":105.178034,
@@ -17,11 +17,35 @@
     "mps:longitude":105.167382,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041c\u0443\u043d\u0442\u043e\u043a"
+    ],
+    "name:ceb_x_preferred":[
+        "Muntok"
+    ],
+    "name:deu_x_preferred":[
+        "Muntok"
+    ],
+    "name:eng_x_preferred":[
+        "Muntok"
+    ],
+    "name:fra_x_preferred":[
+        "Muntok"
+    ],
     "name:ind_x_preferred":[
         "Muntok"
     ],
+    "name:ind_x_variant":[
+        "Mentok"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e0\u30f3\u30c8\u30af"
+    ],
     "name:min_x_preferred":[
         "Mentok"
+    ],
+    "name:mlg_x_preferred":[
+        "Muntok"
     ],
     "name:msa_x_preferred":[
         "Muntok"
@@ -32,8 +56,14 @@
     "name:rus_x_preferred":[
         "\u041c\u0443\u043d\u0442\u043e\u043a"
     ],
+    "name:swe_x_preferred":[
+        "Muntok"
+    ],
     "name:unk_x_variant":[
         "Mentok"
+    ],
+    "name:zho_x_preferred":[
+        "\u6587\u5cf6"
     ],
     "qs:a1":"*",
     "qs:a1r":"*",
@@ -78,7 +108,7 @@
         }
     ],
     "wof:id":102019703,
-    "wof:lastmodified":1527637820,
+    "wof:lastmodified":1563246891,
     "wof:name":"Muntok",
     "wof:parent_id":102073367,
     "wof:placetype":"locality",

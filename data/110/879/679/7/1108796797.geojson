@@ -26,6 +26,9 @@
     "meso:name_local":"KUBU RAYA",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Kabupaten Kubu Raya"
+    ],
     "name:deu_x_preferred":[
         "Kabupaten Kubu Raya"
     ],
@@ -59,8 +62,14 @@
     "name:spa_x_preferred":[
         "Kubu Raya"
     ],
+    "name:spa_x_variant":[
+        "Barito Kuala"
+    ],
     "name:swe_x_preferred":[
         "Kabupaten Kubu Raya"
+    ],
+    "name:zho_x_preferred":[
+        "\u53e4\u5e03\u62c9\u96c5\u7e23"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -98,7 +107,7 @@
         }
     ],
     "wof:id":1108796797,
-    "wof:lastmodified":1561756971,
+    "wof:lastmodified":1563267908,
     "wof:name":"Kubu Raya",
     "wof:parent_id":85672005,
     "wof:placetype":"county",

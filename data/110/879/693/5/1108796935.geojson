@@ -26,6 +26,9 @@
     "meso:name_local":"SIGI",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Kabupaten Sigi"
+    ],
     "name:deu_x_preferred":[
         "Kabupaten Sigi"
     ],
@@ -37,6 +40,9 @@
     ],
     "name:fra_x_preferred":[
         "Sigi"
+    ],
+    "name:gor_x_preferred":[
+        "Kabupaten Sigi"
     ],
     "name:ind_x_preferred":[
         "Sigi"
@@ -56,8 +62,14 @@
     "name:spa_x_preferred":[
         "Sigi"
     ],
+    "name:spa_x_variant":[
+        "Toraja Utara"
+    ],
     "name:swe_x_preferred":[
         "Kabupaten Sigi"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e0c\u5409\u53bf"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -95,7 +107,7 @@
         }
     ],
     "wof:id":1108796935,
-    "wof:lastmodified":1561756968,
+    "wof:lastmodified":1563267896,
     "wof:name":"Sigi",
     "wof:parent_id":85672111,
     "wof:placetype":"county",

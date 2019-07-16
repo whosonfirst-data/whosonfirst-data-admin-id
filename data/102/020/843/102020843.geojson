@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001781,
-    "geom:area_square_m":22004317.307361,
+    "geom:area_square_m":22004317.307374,
     "geom:bbox":"133.095868429,-2.46373522208,133.542334851,-2.08338611314",
     "geom:latitude":-2.286158,
     "geom:longitude":133.325244,
@@ -21,11 +21,20 @@
     "name:ara_x_preferred":[
         "\u0628\u0646\u062a\u0648\u0646\u064a"
     ],
+    "name:deu_x_preferred":[
+        "Bintuni"
+    ],
+    "name:eng_x_preferred":[
+        "Bintuni"
+    ],
     "name:ind_x_preferred":[
         "Bintuni"
     ],
     "name:jav_x_preferred":[
         "Bintuni"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d3\u30f3\u30c8\u30a5\u30cb"
     ],
     "name:msa_x_preferred":[
         "Bintuni"
@@ -36,8 +45,14 @@
     "name:nld_x_variant":[
         "Steenkool"
     ],
+    "name:por_x_preferred":[
+        "Bintuni"
+    ],
     "name:unk_x_variant":[
         "Timbuni"
+    ],
+    "name:zho_x_preferred":[
+        "\u5bbe\u56fe\u5c3c"
     ],
     "qs:a1":"*",
     "qs:a1r":"*",
@@ -78,7 +93,7 @@
         }
     ],
     "wof:id":102020843,
-    "wof:lastmodified":1527637550,
+    "wof:lastmodified":1563246509,
     "wof:name":"Bintuni",
     "wof:parent_id":1108796867,
     "wof:placetype":"locality",

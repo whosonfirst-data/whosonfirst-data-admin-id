@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000618,
-    "geom:area_square_m":7608871.853498,
+    "geom:area_square_m":7608871.8535,
     "geom:bbox":"119.945212102,-5.20392854553,119.974221328,-5.17491831302",
     "geom:latitude":-5.191072,
     "geom:longitude":119.95807,
@@ -19,10 +19,22 @@
     "name:ara_x_preferred":[
         "\u062a\u0648\u0645\u0628\u0644\u0648"
     ],
+    "name:aze_x_preferred":[
+        "Tombolo"
+    ],
     "name:cat_x_preferred":[
         "T\u00f3mbol"
     ],
+    "name:cat_x_variant":[
+        "t\u00f3mbol"
+    ],
+    "name:ces_x_preferred":[
+        "Tombolo"
+    ],
     "name:deu_x_preferred":[
+        "Tombolo"
+    ],
+    "name:eng_x_preferred":[
         "Tombolo"
     ],
     "name:est_x_preferred":[
@@ -43,6 +55,9 @@
     "name:glv_x_preferred":[
         "Tombolo"
     ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05d5\u05de\u05d1\u05d5\u05dc\u05d5"
+    ],
     "name:hin_x_preferred":[
         "\u0938\u0902\u092f\u094b\u091c\u0915 \u0930\u094b\u0927\u093f\u0915\u093e"
     ],
@@ -55,14 +70,29 @@
     "name:ita_x_preferred":[
         "Tombolo"
     ],
+    "name:ita_x_variant":[
+        "tombolo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u9678\u7e4b\u5cf6"
+    ],
     "name:kor_x_preferred":[
         "\uc721\uacc4\uc0ac\uc8fc"
     ],
     "name:lat_x_preferred":[
         "Tumulus"
     ],
+    "name:mkd_x_preferred":[
+        "\u0442\u043e\u043c\u0431\u043e\u043b\u043e"
+    ],
+    "name:msa_x_preferred":[
+        "Tombolo"
+    ],
     "name:nld_x_preferred":[
         "Tombolo"
+    ],
+    "name:nld_x_variant":[
+        "tombolo"
     ],
     "name:nno_x_preferred":[
         "Tombolo"
@@ -79,8 +109,14 @@
     "name:spa_x_preferred":[
         "T\u00f3mbolo"
     ],
+    "name:srp_x_preferred":[
+        "\u0442\u043e\u043c\u0431\u043e\u043b\u043e"
+    ],
     "name:swe_x_preferred":[
         "Tombolo"
+    ],
+    "name:swe_x_variant":[
+        "tombolo"
     ],
     "name:tha_x_preferred":[
         "\u0e2a\u0e31\u0e19\u0e14\u0e2d\u0e19\u0e40\u0e0a\u0e37\u0e48\u0e2d\u0e21\u0e40\u0e01\u0e32\u0e30"
@@ -134,7 +170,7 @@
         }
     ],
     "wof:id":102018709,
-    "wof:lastmodified":1527637575,
+    "wof:lastmodified":1563246641,
     "wof:name":"Tombolo",
     "wof:parent_id":102073115,
     "wof:placetype":"locality",

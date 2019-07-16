@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000935,
-    "geom:area_square_m":11558616.846886,
+    "geom:area_square_m":11558616.846878,
     "geom:bbox":"100.191819772,0.897288974869,100.264723456,1.10211846261",
     "geom:latitude":1.03671,
     "geom:longitude":100.235148,
@@ -24,16 +24,37 @@
     "name:ara_x_preferred":[
         "\u062f\u0627\u0646\u063a\u0646 \u0648\u0627\u0646\u063a\u0648\u0645"
     ],
+    "name:ara_x_variant":[
+        "\u062f\u0627\u0646\u063a\u0648\u0646"
+    ],
     "name:aze_x_preferred":[
         "Danqun Vanqqeom"
+    ],
+    "name:cat_x_preferred":[
+        "Dangun"
+    ],
+    "name:ces_x_preferred":[
+        "Tangun"
     ],
     "name:ckb_x_preferred":[
         "\u062a\u0627\u0646\u06af\u0646"
     ],
+    "name:dan_x_preferred":[
+        "Dangun Wanggeom"
+    ],
     "name:deu_x_preferred":[
         "Dangun"
     ],
+    "name:eng_x_preferred":[
+        "Dangun"
+    ],
     "name:epo_x_preferred":[
+        "Dangun"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0627\u0646\u06af\u0648\u0646"
+    ],
+    "name:fin_x_preferred":[
         "Dangun"
     ],
     "name:fra_x_preferred":[
@@ -51,6 +72,9 @@
     "name:ind_x_variant":[
         "Tangun"
     ],
+    "name:jav_x_preferred":[
+        "Dangun"
+    ],
     "name:jpn_x_preferred":[
         "\u6a80\u541b"
     ],
@@ -60,6 +84,9 @@
     "name:lat_x_preferred":[
         "Tangun"
     ],
+    "name:mlg_x_preferred":[
+        "Dangun"
+    ],
     "name:mon_x_preferred":[
         "\u0422\u0430\u043d\u044c\u0433\u04af\u043d\u044c"
     ],
@@ -68,6 +95,9 @@
     ],
     "name:nld_x_preferred":[
         "Dangun"
+    ],
+    "name:nob_x_preferred":[
+        "Dangun Wanggeom"
     ],
     "name:nor_x_preferred":[
         "Dangun Wanggeom"
@@ -92,6 +122,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e1e\u0e23\u0e30\u0e40\u0e08\u0e49\u0e32\u0e17\u0e31\u0e19\u0e01\u0e38\u0e19"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1e\u0e23\u0e30\u0e40\u0e08\u0e49\u0e32\u0e14\u0e31\u0e19\u0e01\u0e38\u0e19 \u0e27\u0e31\u0e07\u0e01\u0e22\u0e2d\u0e21"
     ],
     "name:tur_x_preferred":[
         "Dangun"
@@ -142,7 +175,7 @@
         }
     ],
     "wof:id":102022201,
-    "wof:lastmodified":1527636679,
+    "wof:lastmodified":1563246355,
     "wof:name":"Tangun",
     "wof:parent_id":1108796925,
     "wof:placetype":"locality",

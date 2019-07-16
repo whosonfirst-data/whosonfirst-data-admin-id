@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002785,
-    "geom:area_square_m":34420588.684187,
+    "geom:area_square_m":34420588.684206,
     "geom:bbox":"124.948170285,1.39157540327,125.005932306,1.47612588256",
     "geom:latitude":1.434265,
     "geom:longitude":124.975268,
@@ -21,11 +21,20 @@
     "name:deu_x_preferred":[
         "Airmadidi"
     ],
+    "name:eng_x_preferred":[
+        "Airmadidi"
+    ],
+    "name:fra_x_preferred":[
+        "Airmadidi"
+    ],
     "name:ind_x_preferred":[
         "Airmadidi"
     ],
     "name:jav_x_preferred":[
         "Airmadidi"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a8\u30a2\u30de\u30c7\u30a3\u30c7\u30a3"
     ],
     "name:msa_x_preferred":[
         "Airmadidi"
@@ -35,6 +44,9 @@
     ],
     "name:unk_x_variant":[
         "Ayermadidi"
+    ],
+    "name:zho_x_preferred":[
+        "\u57c3\u5c14\u9a6c\u8fea\u8fea"
     ],
     "qs:a1":"*",
     "qs:a1r":"*",
@@ -73,7 +85,7 @@
         }
     ],
     "wof:id":102021105,
-    "wof:lastmodified":1527637825,
+    "wof:lastmodified":1563246955,
     "wof:name":"Airmadidi",
     "wof:parent_id":102073343,
     "wof:placetype":"locality",

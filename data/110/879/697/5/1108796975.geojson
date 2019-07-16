@@ -29,6 +29,9 @@
     "name:ace_x_preferred":[
         "Kabupaten Batubara"
     ],
+    "name:ceb_x_preferred":[
+        "Kabupaten Batu Bara"
+    ],
     "name:deu_x_preferred":[
         "Batu Bara"
     ],
@@ -36,7 +39,8 @@
         "Batu Bara"
     ],
     "name:eng_x_variant":[
-        "BATU BARA"
+        "BATU BARA",
+        "Batubara"
     ],
     "name:fra_x_preferred":[
         "Batu Bara"
@@ -62,11 +66,17 @@
     "name:spa_x_preferred":[
         "Batu Bara"
     ],
+    "name:spa_x_variant":[
+        "Ogan Komering Ulu Selatan"
+    ],
     "name:swe_x_preferred":[
         "Kabupaten Batu Bara"
     ],
     "name:vie_x_preferred":[
         "Batubara"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u90fd\u5df4\u62c9\u53bf"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -104,7 +114,7 @@
         }
     ],
     "wof:id":1108796975,
-    "wof:lastmodified":1561756975,
+    "wof:lastmodified":1563267920,
     "wof:name":"Batu Bara",
     "wof:parent_id":85672073,
     "wof:placetype":"county",

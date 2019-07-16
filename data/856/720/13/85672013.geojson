@@ -29,8 +29,14 @@
     "name:ace_x_preferred":[
         "Sumatra Seulatan"
     ],
+    "name:afr_x_preferred":[
+        "Suid-Sumatra"
+    ],
     "name:ara_x_preferred":[
         "\u0633\u0648\u0645\u0637\u0631\u0629 \u0627\u0644\u062c\u0646\u0648\u0628\u064a\u0629"
+    ],
+    "name:azb_x_preferred":[
+        "\u06af\u0648\u0646\u0626\u06cc \u0633\u0648\u0645\u0627\u062a\u0631\u0627\u06cc"
     ],
     "name:ben_x_preferred":[
         "\u09a6\u0995\u09cd\u09b7\u09bf\u09a3 \u09b8\u09c1\u09ae\u09be\u09a4\u09cd\u09b0\u09be\u09b0"
@@ -43,6 +49,9 @@
     ],
     "name:cdo_x_preferred":[
         "N\u00e0ng Sumatra"
+    ],
+    "name:ceb_x_preferred":[
+        "Sumatera Selatan"
     ],
     "name:ces_x_preferred":[
         "Ji\u017en\u00ed Sumatra"
@@ -80,17 +89,26 @@
     "name:glg_x_preferred":[
         "Sumatra Meridional"
     ],
+    "name:gor_x_preferred":[
+        "Sumatera Selatan"
+    ],
     "name:guj_x_preferred":[
         "\u0ab8\u0abe\u0a89\u0aa5 \u0ab8\u0ac1\u0aae\u0abe\u0aa4\u0acd\u0ab0\u0abe"
     ],
     "name:hak_x_preferred":[
         "N\u00e0m S\u00fb-m\u00f9n-tap-lia\u030dp-s\u00e9n"
     ],
+    "name:hak_x_variant":[
+        "N\u00e0m Sumatera"
+    ],
     "name:heb_x_preferred":[
         "\u05d3\u05e8\u05d5\u05dd \u05e1\u05d5\u05de\u05d8\u05e8\u05d4"
     ],
     "name:hin_x_preferred":[
         "\u0926\u0915\u094d\u0937\u093f\u0923 \u0938\u0941\u092e\u093e\u0924\u094d\u0930\u093e"
+    ],
+    "name:ilo_x_preferred":[
+        "Abagatan a Sumatra"
     ],
     "name:ind_x_preferred":[
         "Sumatera Selatan"
@@ -117,6 +135,9 @@
     "name:kor_x_preferred":[
         "\uc218\ub9c8\ud2b8\ub77c\uc2ac\ub77c\ud0c4 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\ub0a8\uc218\ub9c8\ud2b8\ub77c\uc8fc"
+    ],
     "name:lav_x_preferred":[
         "Dienvidsumatra"
     ],
@@ -125,6 +146,9 @@
     ],
     "name:lrc_x_preferred":[
         "\u0633\u0648\u0645\u0627\u062a\u0631\u0627 \u0647\u0627\u0631\u06af\u0647"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d24\u0d46\u0d15\u0d4d\u0d15\u0d7b \u0d38\u0d41\u0d2e\u0d3e\u0d24\u0d4d\u0d30"
     ],
     "name:mar_x_preferred":[
         "\u0926\u0915\u094d\u0937\u093f\u0923 \u0938\u0941\u092e\u093e\u0924\u094d\u0930\u093e"
@@ -138,6 +162,9 @@
     "name:msa_x_preferred":[
         "Sumatera Selatan"
     ],
+    "name:nan_x_preferred":[
+        "L\u00e2m Sumatera"
+    ],
     "name:nld_x_preferred":[
         "Zuid-Sumatra"
     ],
@@ -149,6 +176,9 @@
     ],
     "name:pam_x_preferred":[
         "Mauling Sumatra"
+    ],
+    "name:pam_x_variant":[
+        "South Sumatra"
     ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u062f\u06a9\u06be\u0646\u06cc \u0633\u0645\u0627\u0679\u0631\u0627"
@@ -180,8 +210,14 @@
     "name:swe_x_preferred":[
         "Sumatera Selatan"
     ],
+    "name:swe_x_variant":[
+        "Sumatra Selatan"
+    ],
     "name:tam_x_preferred":[
         "\u0ba4\u0bc6\u0bb1\u0bcd\u0b95\u0bc1 \u0b9a\u0bc1\u0bae\u0bbe\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bbe \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+    ],
+    "name:tam_x_variant":[
+        "\u0ba4\u0bc6\u0bb1\u0bcd\u0b95\u0bc1\u0b9a\u0bcd \u0b9a\u0bc1\u0bae\u0bbe\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bbe"
     ],
     "name:tel_x_preferred":[
         "\u0c26\u0c15\u0c4d\u0c37\u0c3f\u0c23 \u0c38\u0c41\u0c2e\u0c24\u0c4d\u0c30"
@@ -345,7 +381,7 @@
     "wof:lang_x_spoken":[
         "ind"
     ],
-    "wof:lastmodified":1561756025,
+    "wof:lastmodified":1563251357,
     "wof:name":"Sumatera Selatan",
     "wof:parent_id":85632203,
     "wof:placetype":"region",
