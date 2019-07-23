@@ -46,6 +46,9 @@
     "name:cat_x_preferred":[
         "Sumbawa"
     ],
+    "name:ceb_x_preferred":[
+        "Kabupaten Sumbawa"
+    ],
     "name:ces_x_preferred":[
         "Sumbawa"
     ],
@@ -100,11 +103,17 @@
     "name:ind_x_preferred":[
         "Pulau Sumbawa"
     ],
+    "name:ind_x_variant":[
+        "Sumbawa"
+    ],
     "name:ita_x_preferred":[
         "Sumbawa"
     ],
     "name:jav_x_preferred":[
         "Sumbawa"
+    ],
+    "name:jav_x_variant":[
+        "Kabupat\u00e8n Sumbawa"
     ],
     "name:jpn_x_preferred":[
         "\u30b9\u30f3\u30d0\u30ef\u5cf6"
@@ -169,6 +178,9 @@
     "name:swe_x_preferred":[
         "Sumbawa"
     ],
+    "name:swe_x_variant":[
+        "Kabupaten Sumbawa"
+    ],
     "name:tam_x_preferred":[
         "\u0b9a\u0bc1\u0bae\u0bcd\u0baa\u0bbe\u0bb5\u0bbe"
     ],
@@ -189,6 +201,10 @@
     ],
     "name:zho_x_preferred":[
         "\u677e\u5df4\u54c7\u5cf6"
+    ],
+    "name:zho_x_variant":[
+        "\u5e15\u6d1b\u6ce2",
+        "\u677e\u5df4\u54c7\u53bf"
     ],
     "qs:a0":"Indonesia",
     "qs:a0_lc":"IDN",
@@ -237,7 +253,7 @@
         }
     ],
     "wof:id":102072655,
-    "wof:lastmodified":1561755834,
+    "wof:lastmodified":1563246795,
     "wof:name":"Sumbawa",
     "wof:parent_id":85672103,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007775,
-    "geom:area_square_m":96122740.177534,
+    "geom:area_square_m":96122740.177499,
     "geom:bbox":"103.300952236,0.721527429252,103.527661563,1.08014806661",
     "geom:latitude":1.003372,
     "geom:longitude":103.395938,
@@ -16,8 +16,17 @@
     "mps:longitude":103.409154,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Tanjung Balai Karimun"
+    ],
     "name:eng_x_preferred":[
         "Tanjung Balai"
+    ],
+    "name:eng_x_variant":[
+        "Tanjung Balai Karimun"
+    ],
+    "name:fra_x_preferred":[
+        "Tanjung Balai Karimun"
     ],
     "name:ind_x_preferred":[
         "Tanjung Balai Karimun"
@@ -72,7 +81,7 @@
         }
     ],
     "wof:id":102018837,
-    "wof:lastmodified":1527637583,
+    "wof:lastmodified":1563246711,
     "wof:name":"Tanjung Balai",
     "wof:parent_id":102073089,
     "wof:placetype":"locality",

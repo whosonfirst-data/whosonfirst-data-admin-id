@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000254,
-    "geom:area_square_m":3130188.536543,
+    "geom:area_square_m":3130188.536551,
     "geom:bbox":"119.846350173,-3.93357545435,119.864343116,-3.91550429189",
     "geom:latitude":-3.92454,
     "geom:longitude":119.855347,
@@ -24,17 +24,30 @@
     "name:deu_x_preferred":[
         "Sidenreng Rappang"
     ],
+    "name:eng_x_preferred":[
+        "Sidenreng Rappang"
+    ],
+    "name:fra_x_preferred":[
+        "Sidenreng Rappang"
+    ],
     "name:ind_x_preferred":[
         "Kabupaten Sidenreng Rappang"
     ],
     "name:ind_x_variant":[
-        "Sidenreng"
+        "Sidenreng",
+        "Sidenreng Rappang"
     ],
     "name:jav_x_preferred":[
         "Kabupat\u00e8n Sid\u00e8nr\u00e8ng Rappang"
     ],
+    "name:jpn_x_preferred":[
+        "\u30b7\u30c7\u30f3\u30ec\u30f3\u30fb\u30e9\u30d1\u30f3\u770c"
+    ],
     "name:msa_x_preferred":[
         "Sidenreng Rappang"
+    ],
+    "name:zho_x_preferred":[
+        "\u9521\u767b\u4f26\u62c9\u5e9e\u53bf"
     ],
     "qs:a1":"*",
     "qs:a1r":"*",
@@ -76,7 +89,7 @@
         }
     ],
     "wof:id":102021267,
-    "wof:lastmodified":1527637827,
+    "wof:lastmodified":1563246985,
     "wof:name":"Sidenreng",
     "wof:parent_id":102072745,
     "wof:placetype":"locality",

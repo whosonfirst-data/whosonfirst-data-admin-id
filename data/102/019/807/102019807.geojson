@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003546,
-    "geom:area_square_m":43350945.792431,
+    "geom:area_square_m":43350945.792393,
     "geom:bbox":"122.120426869,-8.71497318191,122.281427372,-8.57740844214",
     "geom:latitude":-8.632272,
     "geom:longitude":122.211821,
@@ -21,7 +21,13 @@
     "name:ara_x_preferred":[
         "\u0645\u0648\u0645\u064a\u0631\u064a"
     ],
+    "name:ceb_x_preferred":[
+        "Maumere"
+    ],
     "name:deu_x_preferred":[
+        "Maumere"
+    ],
+    "name:eng_x_preferred":[
         "Maumere"
     ],
     "name:fra_x_preferred":[
@@ -39,6 +45,9 @@
     "name:jpn_x_preferred":[
         "\u30de\u30a6\u30e1\u30ec"
     ],
+    "name:kor_x_preferred":[
+        "\ub9c8\uc6b0\uba54\ub808"
+    ],
     "name:msa_x_preferred":[
         "Maumere"
     ],
@@ -54,8 +63,14 @@
     "name:rus_x_preferred":[
         "\u041c\u0430\u0443\u043c\u0435\u0440\u0435"
     ],
+    "name:swe_x_preferred":[
+        "Maumere"
+    ],
     "name:unk_x_variant":[
         "Mauniere"
+    ],
+    "name:zho_x_preferred":[
+        "\u6bdb\u6885\u96f7"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Indonesia",
@@ -196,7 +211,7 @@
         }
     ],
     "wof:id":102019807,
-    "wof:lastmodified":1527637822,
+    "wof:lastmodified":1563246916,
     "wof:name":"Maumere",
     "wof:parent_id":102073235,
     "wof:placetype":"locality",

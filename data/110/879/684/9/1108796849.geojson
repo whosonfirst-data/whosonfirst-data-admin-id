@@ -26,6 +26,9 @@
     "meso:name_local":"MANGGARAI TIMUR",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Kabupaten Manggarai Timur"
+    ],
     "name:deu_x_preferred":[
         "Kabupaten Manggarai Timur"
     ],
@@ -56,8 +59,14 @@
     "name:spa_x_preferred":[
         "Manggarai Oriental"
     ],
+    "name:spa_x_variant":[
+        "Kayong Utara"
+    ],
     "name:swe_x_preferred":[
         "Kabupaten Manggarai Timur"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e1c\u8292\u52a0\u83b1\u53bf"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -95,7 +104,7 @@
         }
     ],
     "wof:id":1108796849,
-    "wof:lastmodified":1561756971,
+    "wof:lastmodified":1563267910,
     "wof:name":"Manggarai Timur",
     "wof:parent_id":85672037,
     "wof:placetype":"county",

@@ -32,6 +32,12 @@
     "name:ara_x_preferred":[
         "\u0643\u0627\u0644\u064a\u0645\u0627\u0646\u062a\u0627\u0646 \u0627\u0644\u062c\u0646\u0648\u0628\u064a\u0629"
     ],
+    "name:ara_x_variant":[
+        "\u0643\u0644\u064a\u0645\u0646\u062a\u0627\u0646 \u0627\u0644\u062c\u0646\u0648\u0628\u064a\u0629"
+    ],
+    "name:azb_x_preferred":[
+        "\u06af\u0648\u0646\u0626\u06cc \u06a9\u0627\u0644\u06cc\u0645\u0627\u0646\u062a\u0627\u0646"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09be\u09b2\u09bf\u09ae\u09be\u09a8\u09cd\u099f\u09be\u09a8 \u09b8\u09c7\u09b2\u09be\u099f\u09be\u09a8"
     ],
@@ -47,8 +53,14 @@
     "name:cat_x_preferred":[
         "Kalimantan del Sud"
     ],
+    "name:cat_x_variant":[
+        "Kalimantan Meridional"
+    ],
     "name:cdo_x_preferred":[
         "N\u00e0ng Kalimantan"
+    ],
+    "name:ceb_x_preferred":[
+        "Provinsi Kalimantan Selatan"
     ],
     "name:ces_x_preferred":[
         "Ji\u017en\u00ed Kalimantan"
@@ -83,11 +95,17 @@
     "name:fra_x_preferred":[
         "Kalimantan du Sud"
     ],
+    "name:gor_x_preferred":[
+        "Kalimantan Selatan"
+    ],
     "name:guj_x_preferred":[
         "\u0a95\u0abe\u0ab2\u0abf\u0aae\u0a82\u0a9f\u0aa8 \u0ab8\u0ac7\u0ab2\u0abe\u0a9f\u0aa8"
     ],
     "name:hak_x_preferred":[
         "N\u00e0m K\u00e2-l\u00ee-man-t\u00e2n-s\u00e9n"
+    ],
+    "name:hak_x_variant":[
+        "N\u00e0m Kalimantan"
     ],
     "name:hin_x_preferred":[
         "\u0926\u0915\u094d\u0937\u093f\u0923 \u0915\u093e\u0932\u093f\u092e\u0902\u0924\u093e\u0928"
@@ -119,6 +137,9 @@
     "name:kor_x_preferred":[
         "\uce7c\ub9ac\ub9cc\ud0c4\uc2ac\ub77c\ud0c4 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\ub0a8\uce7c\ub9ac\ub9cc\ud0c4\uc8fc"
+    ],
     "name:lav_x_preferred":[
         "Dienvidkalimant\u0101na"
     ],
@@ -127,6 +148,9 @@
     ],
     "name:lrc_x_preferred":[
         "\u06a9\u0627\u0644\u06cc\u0645\u0627\u0646\u062a\u0627\u0646 \u0647\u0627\u0631\u06af\u0647"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d26\u0d15\u0d4d\u0d37\u0d3f\u0d23 \u0d15\u0d32\u0d3f\u0d2e\u0d28\u0d4d\u0d24\u0d3e\u0d7b"
     ],
     "name:mar_x_preferred":[
         "\u0926\u0915\u094d\u0937\u093f\u0923 \u0915\u093e\u0932\u093f\u092e\u093e\u0902\u0924\u093e\u0928"
@@ -139,6 +163,9 @@
     ],
     "name:msa_x_preferred":[
         "Kalimantan Selatan"
+    ],
+    "name:nan_x_preferred":[
+        "L\u00e2m Kalimantan"
     ],
     "name:nld_x_preferred":[
         "Zuid-Kalimantan"
@@ -181,6 +208,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e01\u0e32\u0e25\u0e34\u0e21\u0e31\u0e19\u0e15\u0e31\u0e19"
+    ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e01\u0e32\u0e25\u0e35\u0e21\u0e31\u0e19\u0e15\u0e31\u0e19\u0e43\u0e15\u0e49"
     ],
     "name:tur_x_preferred":[
         "G\u00fcney Kalimantan"
@@ -338,7 +368,7 @@
     "wof:lang_x_spoken":[
         "ind"
     ],
-    "wof:lastmodified":1561756022,
+    "wof:lastmodified":1563251342,
     "wof:name":"Kalimantan Selatan",
     "wof:parent_id":85632203,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002138,
-    "geom:area_square_m":26405076.073047,
+    "geom:area_square_m":26405076.073033,
     "geom:bbox":"98.3021617275,2.53070974913,98.3750839406,2.63934766097",
     "geom:latitude":2.563146,
     "geom:longitude":98.330781,
@@ -19,14 +19,26 @@
     "name:ara_x_preferred":[
         "\u0633\u0627\u0644\u0627\u0643\u0629 \u0645\u0623\u0644\u0648\u0641\u0629"
     ],
+    "name:ast_x_preferred":[
+        "Salacca zalacca"
+    ],
+    "name:bul_x_preferred":[
+        "Salacca zalacca"
+    ],
     "name:ceb_x_preferred":[
         "Salacca zalacca"
     ],
     "name:ces_x_preferred":[
         "Salak"
     ],
+    "name:ces_x_variant":[
+        "salak"
+    ],
     "name:deu_x_preferred":[
         "Salakpalme"
+    ],
+    "name:eng_x_preferred":[
+        "Salacca zalacca"
     ],
     "name:epo_x_preferred":[
         "Salacca zalacca"
@@ -40,8 +52,14 @@
     "name:fra_x_preferred":[
         "Salak"
     ],
+    "name:fra_x_variant":[
+        "Salacca zalacca"
+    ],
     "name:ind_x_preferred":[
         "Salak"
+    ],
+    "name:ita_x_preferred":[
+        "Salacca zalacca"
     ],
     "name:jav_x_preferred":[
         "Salak"
@@ -54,6 +72,9 @@
     ],
     "name:kom_x_preferred":[
         "\u0421\u0430\u043b\u0430\u043a"
+    ],
+    "name:lat_x_preferred":[
+        "Salacca zalacca"
     ],
     "name:lbe_x_preferred":[
         "\u0421\u0430\u043b\u0430\u043a"
@@ -76,8 +97,17 @@
     "name:pol_x_preferred":[
         "Oszpilna jadalna"
     ],
+    "name:por_x_preferred":[
+        "Salacca zalacca"
+    ],
+    "name:ron_x_preferred":[
+        "Salak"
+    ],
     "name:rus_x_preferred":[
         "\u0421\u0430\u043b\u0430\u043a"
+    ],
+    "name:slk_x_preferred":[
+        "Salaka"
     ],
     "name:spa_x_preferred":[
         "Salacca zalacca"
@@ -96,6 +126,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043b\u0430\u043a"
+    ],
+    "name:ukr_x_variant":[
+        "Salacca zalacca"
     ],
     "name:vie_x_preferred":[
         "Salak"
@@ -151,7 +184,7 @@
         }
     ],
     "wof:id":102018361,
-    "wof:lastmodified":1527637580,
+    "wof:lastmodified":1563246683,
     "wof:name":"Salak",
     "wof:parent_id":102073255,
     "wof:placetype":"locality",

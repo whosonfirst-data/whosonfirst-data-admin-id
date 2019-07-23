@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001313,
-    "geom:area_square_m":16228465.316436,
+    "geom:area_square_m":16228465.316417,
     "geom:bbox":"102.619803866,0.897292944597,102.934397053,1.00325235292",
     "geom:latitude":0.947229,
     "geom:longitude":102.821869,
@@ -19,11 +19,23 @@
     "name:ara_x_preferred":[
         "\u0633\u064a\u0644\u0627\u062a"
     ],
+    "name:eng_x_preferred":[
+        "Selat Panjang"
+    ],
+    "name:fra_x_preferred":[
+        "Selat Panjang"
+    ],
     "name:ind_x_preferred":[
         "Selatpanjang"
     ],
+    "name:nld_x_preferred":[
+        "Selat Panjang"
+    ],
     "name:unk_x_variant":[
         "Straat Lalang"
+    ],
+    "name:zho_x_preferred":[
+        "Lirung"
     ],
     "qs:a1":"*",
     "qs:a1r":"*",
@@ -56,7 +68,7 @@
         }
     ],
     "wof:id":102019539,
-    "wof:lastmodified":1527637820,
+    "wof:lastmodified":1563246882,
     "wof:name":"Selat Panjang",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

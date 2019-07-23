@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005083,
-    "geom:area_square_m":62788973.515224,
+    "geom:area_square_m":62788973.515158,
     "geom:bbox":"111.54068598,-2.76006423675,111.767417822,-2.56637989914",
     "geom:latitude":-2.69362,
     "geom:longitude":111.666019,
@@ -20,14 +20,26 @@
     "name:cat_x_preferred":[
         "Pangkalan Bun"
     ],
+    "name:eng_x_preferred":[
+        "Pangkalanbun"
+    ],
     "name:ind_x_preferred":[
         "Pangkalan Bun"
+    ],
+    "name:ind_x_variant":[
+        "Pangkalanbun"
     ],
     "name:jav_x_preferred":[
         "Pangkalan Bun"
     ],
+    "name:jpn_x_preferred":[
+        "\u30d1\u30f3\u30ab\u30e9\u30f3\u30fb\u30d6\u30f3"
+    ],
     "name:unk_x_variant":[
         "Sukabumi"
+    ],
+    "name:zho_x_preferred":[
+        "\u60f9\u73ed"
     ],
     "qs:a0":"Indonesia",
     "qs:a1":"*Kalimantan Tengah",
@@ -75,7 +87,7 @@
         }
     ],
     "wof:id":102019551,
-    "wof:lastmodified":1527637815,
+    "wof:lastmodified":1563246818,
     "wof:name":"Pangkalanbuun",
     "wof:parent_id":102072749,
     "wof:placetype":"locality",

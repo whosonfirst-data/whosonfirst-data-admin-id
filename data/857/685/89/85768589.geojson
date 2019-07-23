@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6949602.041586,
+    "geom:area_square_m":0.0,
     "geom:bbox":"112.739864,-7.236435,112.739864,-7.236435",
     "geom:latitude":-7.236435,
     "geom:longitude":112.739864,
@@ -31,6 +31,9 @@
     ],
     "name:unk_x_variant":[
         "Simpang"
+    ],
+    "name:zho_x_preferred":[
+        "\u65b0\u90a6"
     ],
     "qs:gn_adm0_cc":"ID",
     "qs:gn_id":0,
@@ -61,11 +64,11 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":90,
     "wof:belongsto":[
+        85672027,
         102191569,
         85632203,
         102018911,
-        102073397,
-        85672027
+        102073397
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -88,7 +91,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859306,
+    "wof:lastmodified":1563251283,
     "wof:name":"Simpang",
     "wof:parent_id":102018911,
     "wof:placetype":"neighbourhood",

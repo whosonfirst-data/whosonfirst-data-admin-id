@@ -26,6 +26,9 @@
     "meso:name_local":"GORONTALO UTARA",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Kabupaten Gorontalo Utara"
+    ],
     "name:deu_x_preferred":[
         "Kabupaten Gorontalo Utara"
     ],
@@ -37,6 +40,9 @@
     ],
     "name:fra_x_preferred":[
         "Gorontalo du Nord"
+    ],
+    "name:gor_x_preferred":[
+        "Kabupaten Gorontalo Utara"
     ],
     "name:ind_x_preferred":[
         "Gorontalo Utara"
@@ -59,8 +65,14 @@
     "name:spa_x_preferred":[
         "Gorontalo Septentrional"
     ],
+    "name:spa_x_variant":[
+        "Kubu Raya"
+    ],
     "name:swe_x_preferred":[
         "Kabupaten Gorontalo Utara"
+    ],
+    "name:zho_x_preferred":[
+        "\u5317\u54e5\u4f26\u6253\u6d1b\u53bf"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -98,7 +110,7 @@
         }
     ],
     "wof:id":1108796791,
-    "wof:lastmodified":1561756971,
+    "wof:lastmodified":1563267909,
     "wof:name":"Gorontalo Utara",
     "wof:parent_id":85672055,
     "wof:placetype":"county",

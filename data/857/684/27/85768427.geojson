@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000028,
-    "geom:area_square_m":341124.646643,
+    "geom:area_square_m":341124.646642,
     "geom:bbox":"106.807716585,-6.13782395199,106.813201904,-6.13065348569",
     "geom:latitude":-6.134429,
     "geom:longitude":106.8106,
@@ -25,8 +25,17 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":16.0,
     "mz:tier_locality":4,
+    "name:ell_x_preferred":[
+        "\u039c\u03b1\u03bb\u03ac\u03ba\u03b1\u03c2"
+    ],
     "name:eng_x_preferred":[
         "Malaka"
+    ],
+    "name:eng_x_variant":[
+        "Malakas"
+    ],
+    "name:lat_x_preferred":[
+        "Malakas"
     ],
     "name:und_x_variant":[
         "Roa Malaka"
@@ -95,7 +104,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527639380,
+    "wof:lastmodified":1563251289,
     "wof:name":"Malaka",
     "wof:parent_id":102021905,
     "wof:placetype":"neighbourhood",
