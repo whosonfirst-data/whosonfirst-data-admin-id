@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001011,
-    "geom:area_square_m":12477723.679306,
+    "geom:area_square_m":12477723.6793,
     "geom:bbox":"111.463787215,-3.49504767156,117.853851037,3.50601835109",
     "geom:latitude":-1.299598,
     "geom:longitude":115.175205,
@@ -25,8 +25,14 @@
     "name:afr_x_preferred":[
         "Borneo"
     ],
+    "name:amh_x_preferred":[
+        "\u1266\u122d\u1292\u12ee"
+    ],
     "name:ara_x_preferred":[
         "\u0628\u0648\u0631\u0646\u064a\u0648"
+    ],
+    "name:ast_x_preferred":[
+        "Borneo"
     ],
     "name:aze_x_preferred":[
         "Kalimantan"
@@ -118,8 +124,17 @@
     "name:glg_x_preferred":[
         "Borneo"
     ],
+    "name:grn_x_preferred":[
+        "Von\u00e9o"
+    ],
     "name:hak_x_preferred":[
         "Ph\u00f4-l\u00f2-ch\u00fb"
+    ],
+    "name:hak_x_variant":[
+        "Borneo"
+    ],
+    "name:hau_x_preferred":[
+        "Borneo"
     ],
     "name:hbs_x_preferred":[
         "Borneo"
@@ -172,6 +187,9 @@
     "name:kor_x_preferred":[
         "\ubcf4\ub974\ub124\uc624 \uc12c"
     ],
+    "name:kor_x_variant":[
+        "\ubcf4\ub974\ub124\uc624\uc12c"
+    ],
     "name:lat_x_preferred":[
         "Borneum"
     ],
@@ -217,6 +235,9 @@
     "name:nor_x_preferred":[
         "Borneo"
     ],
+    "name:nya_x_preferred":[
+        "Borneo"
+    ],
     "name:oci_x_preferred":[
         "Born\u00e8o"
     ],
@@ -253,6 +274,9 @@
     "name:spa_x_preferred":[
         "Isla de Borneo"
     ],
+    "name:sqi_x_preferred":[
+        "Borneo"
+    ],
     "name:srp_x_preferred":[
         "\u0411\u043e\u0440\u043d\u0435\u043e"
     ],
@@ -270,6 +294,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0baa\u0bcb\u0bb0\u0bcd\u0ba9\u0bbf\u0baf\u0bcb"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2c\u0c4b\u0c30\u0c4d\u0c28\u0c3f\u0c2f\u0c4b"
     ],
     "name:tgk_x_preferred":[
         "\u0411\u043e\u0440\u043d\u0435\u043e"
@@ -300,6 +327,9 @@
     ],
     "name:uzb_x_preferred":[
         "Borneo"
+    ],
+    "name:uzb_x_variant":[
+        "Kalimantan"
     ],
     "name:vie_x_preferred":[
         "Borneo"
@@ -363,7 +393,7 @@
         }
     ],
     "wof:id":102020795,
-    "wof:lastmodified":1527637554,
+    "wof:lastmodified":1564171420,
     "wof:name":"Borneo",
     "wof:parent_id":102072657,
     "wof:placetype":"locality",

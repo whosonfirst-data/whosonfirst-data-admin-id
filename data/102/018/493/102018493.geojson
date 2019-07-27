@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000748,
-    "geom:area_square_m":9219336.77139,
+    "geom:area_square_m":9219336.771378,
     "geom:bbox":"97.763809025,4.91226104631,97.8148039535,4.96318692855",
     "geom:latitude":4.93936,
     "geom:longitude":97.787664,
@@ -16,6 +16,9 @@
     "mps:longitude":97.772494,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Idi"
+    ],
     "name:deu_x_preferred":[
         "IDI"
     ],
@@ -25,11 +28,20 @@
     "name:epo_x_preferred":[
         "IDI"
     ],
+    "name:fin_x_preferred":[
+        "Idi"
+    ],
+    "name:fra_x_preferred":[
+        "Idi"
+    ],
     "name:ind_x_preferred":[
         "Idi"
     ],
     "name:ita_x_preferred":[
         "IDI"
+    ],
+    "name:swe_x_preferred":[
+        "Idi"
     ],
     "name:unk_x_variant":[
         "Edi"
@@ -70,7 +82,7 @@
         }
     ],
     "wof:id":102018493,
-    "wof:lastmodified":1527637583,
+    "wof:lastmodified":1564171460,
     "wof:name":"Idi",
     "wof:parent_id":102073069,
     "wof:placetype":"locality",
