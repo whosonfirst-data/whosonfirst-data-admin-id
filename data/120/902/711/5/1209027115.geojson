@@ -25,6 +25,15 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Mundu"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d2e\u0d41\u0d23\u0d4d\u0d1f\u0d4d"
+    ],
+    "name:pol_x_preferred":[
+        "Mundu"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632203
@@ -34,7 +43,7 @@
         "gn:id":6262867
     },
     "wof:country":"ID",
-    "wof:geomhash":"4d9ead6d70fb2693a9520a74eb0713db",
+    "wof:geomhash":"be7d7c6f59ad743d4c293ceea15fcd89",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +51,7 @@
         }
     ],
     "wof:id":1209027115,
-    "wof:lastmodified":1536299961,
+    "wof:lastmodified":1564186494,
     "wof:name":"Mundu",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +62,9 @@
 },
   "bbox": [
     110.81333,
-    -7.494439999999999,
+    -7.49444,
     110.81333,
-    -7.494439999999999
+    -7.49444
 ],
   "geometry": {"coordinates":[110.81332999999999,-7.49444],"type":"Point"}
 }

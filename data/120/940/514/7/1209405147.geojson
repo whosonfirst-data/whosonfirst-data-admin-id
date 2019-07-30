@@ -25,6 +25,12 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ind_x_preferred":[
+        "Kuso"
+    ],
+    "name:zho_x_preferred":[
+        "\u60e1\u641e\u6587\u5316"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632203
@@ -34,7 +40,7 @@
         "gn:id":1972268
     },
     "wof:country":"ID",
-    "wof:geomhash":"9ba036d8690051b81860bd1899df7c6f",
+    "wof:geomhash":"531dc85f1aaab3b521f683f6291eabbc",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +48,7 @@
         }
     ],
     "wof:id":1209405147,
-    "wof:lastmodified":1536288019,
+    "wof:lastmodified":1564185232,
     "wof:name":"Kuso",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +59,9 @@
 },
   "bbox": [
     112.5675,
-    -7.968889999999999,
+    -7.96889,
     112.5675,
-    -7.968889999999999
+    -7.96889
 ],
   "geometry": {"coordinates":[112.5675,-7.96889],"type":"Point"}
 }

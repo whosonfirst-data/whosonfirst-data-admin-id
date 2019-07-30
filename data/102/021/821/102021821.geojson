@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000254,
-    "geom:area_square_m":3130942.627242,
+    "geom:area_square_m":3130942.627236,
     "geom:bbox":"96.3026308769,5.26244128792,96.3206602064,5.28051433686",
     "geom:latitude":5.271478,
     "geom:longitude":96.311646,
@@ -18,8 +18,14 @@
     "mps:longitude":96.311645,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:azb_x_preferred":[
+        "\u0627\u0648\u0644\u06cc\u0645"
+    ],
     "name:deu_x_preferred":[
         "Ulim"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u0644\u06cc\u0645"
     ],
     "name:fra_x_preferred":[
         "Ulim"
@@ -29,6 +35,9 @@
     ],
     "name:pol_x_preferred":[
         "Ulim"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0423\u043b\u0456\u043c"
     ],
     "qs:a0":"Indonesia",
     "qs:a1":"*Nanggroe Aceh Darussalam",
@@ -69,7 +78,7 @@
         }
     ],
     "wof:id":102021821,
-    "wof:lastmodified":1527637826,
+    "wof:lastmodified":1564171546,
     "wof:name":"Ulim",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
