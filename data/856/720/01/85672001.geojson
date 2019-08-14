@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "special district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "JK"
+    ],
     "lbl:latitude":-6.20596,
     "lbl:longitude":106.82776,
     "meso:name_local":"Jakarta Raya",
@@ -712,16 +715,13 @@
         }
     ],
     "wof:id":85672001,
-    "wof:lang":[
-        "unk"
-    ],
     "wof:lang_x_official":[
         "ind"
     ],
     "wof:lang_x_spoken":[
         "ind"
     ],
-    "wof:lastmodified":1563251344,
+    "wof:lastmodified":1565715608,
     "wof:name":"Jakarta Raya",
     "wof:parent_id":85632203,
     "wof:placetype":"region",
@@ -730,6 +730,7 @@
     "wof:population":9607787,
     "wof:population_rank":13,
     "wof:repo":"whosonfirst-data-admin-id",
+    "wof:shortcode":"JK",
     "wof:subdivision":"ID-JK",
     "wof:superseded_by":[],
     "wof:supersedes":[],
