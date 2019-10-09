@@ -1,16 +1,18 @@
 {
   "id": 102021405,
   "type": "Feature",
-  "properties": {"wof:repo":"whosonfirst-data-admin-id",
+  "properties": {
+    "src:alt_label":"naturalearth",
     "src:geom":"naturalearth",
-    "wof:geomhash":"4d1328a4199d83c56e009d0d9682cea6",
-    "wof:id":102021405
+    "wof:geomhash":"9f5b1fd229ac5a6b9be7842b8a72e620",
+    "wof:id":102021405,
+    "wof:repo":"whosonfirst-data-admin-id"
 },
   "bbox": [
     140.40180700598296,
-    -8.493190898780597,
+    -8.4931908987806,
     140.40180700598296,
-    -8.493190898780597
+    -8.4931908987806
 ],
   "geometry": {"coordinates":[140.40180700598296,-8.4931908987806],"type":"Point"}
 }
