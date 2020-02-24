@@ -223,7 +223,8 @@
     "qs:type":"Town",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "naturalearth"
     ],
     "src:lbl:centroid":"mapshaper",
     "src:population":"geonames",
@@ -245,6 +246,10 @@
         "wd:id":"Q855314"
     },
     "wof:country":"ID",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "naturalearth"
+    ],
     "wof:geomhash":"afe3a63eb1f4da40a4b2df8c1fcaee5b",
     "wof:hierarchy":[
         {
@@ -263,7 +268,7 @@
         }
     ],
     "wof:id":102020855,
-    "wof:lastmodified":1563246598,
+    "wof:lastmodified":1582353780,
     "wof:name":"Biak",
     "wof:parent_id":1108796871,
     "wof:placetype":"locality",

@@ -168,7 +168,8 @@
     "qs:source":"Nquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "naturalearth"
     ],
     "src:lbl:centroid":"mapshaper",
     "wd:wordcount":22,
@@ -188,6 +189,10 @@
         "wk:page":"Makale"
     },
     "wof:country":"ID",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "naturalearth"
+    ],
     "wof:geomhash":"0c653d9531fad1516ac45a42dfd763b3",
     "wof:hierarchy":[
         {
@@ -199,7 +204,7 @@
         }
     ],
     "wof:id":102019897,
-    "wof:lastmodified":1563246930,
+    "wof:lastmodified":1582353816,
     "wof:name":"Makale",
     "wof:parent_id":102072845,
     "wof:placetype":"locality",

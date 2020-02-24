@@ -166,7 +166,8 @@
     "qs:type":"Town",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "naturalearth"
     ],
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -186,6 +187,10 @@
         "wk:page":"Cilacap Regency"
     },
     "wof:country":"ID",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "naturalearth"
+    ],
     "wof:geomhash":"fb34795cd0e7792cbf6af23a9f487ba1",
     "wof:hierarchy":[
         {
@@ -200,7 +205,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561755814,
+    "wof:lastmodified":1582353778,
     "wof:name":"Cilacap",
     "wof:parent_id":102072819,
     "wof:placetype":"locality",
