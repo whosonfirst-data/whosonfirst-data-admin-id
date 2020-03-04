@@ -222,7 +222,8 @@
     "qs:source":"Nquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "naturalearth"
     ],
     "src:lbl:centroid":"mapshaper",
     "wd:wordcount":2032,
@@ -242,6 +243,10 @@
         "wk:page":"Sawahlunto"
     },
     "wof:country":"ID",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "naturalearth"
+    ],
     "wof:geomhash":"d9fe284e8820c9232f04c931d1c3972d",
     "wof:hierarchy":[
         {
@@ -253,7 +258,7 @@
         }
     ],
     "wof:id":102019165,
-    "wof:lastmodified":1563246883,
+    "wof:lastmodified":1582353811,
     "wof:name":"Sawahlunto",
     "wof:parent_id":102072835,
     "wof:placetype":"locality",

@@ -266,7 +266,8 @@
     "qs:type":"Town",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "naturalearth"
     ],
     "src:lbl:centroid":"mapshaper",
     "src:population":"geonames",
@@ -286,6 +287,10 @@
         "wd:id":"Q14636"
     },
     "wof:country":"ID",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "naturalearth"
+    ],
     "wof:geomhash":"51f6ef9630e84443b690526b1869d9fb",
     "wof:hierarchy":[
         {
@@ -297,7 +302,7 @@
         }
     ],
     "wof:id":102019529,
-    "wof:lastmodified":1563246873,
+    "wof:lastmodified":1582353810,
     "wof:name":"Parepare",
     "wof:parent_id":102073531,
     "wof:placetype":"locality",

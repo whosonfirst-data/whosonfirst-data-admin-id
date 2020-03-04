@@ -396,7 +396,8 @@
     "qs:type":"Town",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "naturalearth"
     ],
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -416,6 +417,10 @@
         "wk:page":"Merauke"
     },
     "wof:country":"ID",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "naturalearth"
+    ],
     "wof:geomhash":"27634bdc627d3c64581b8f6f747cf2e7",
     "wof:hierarchy":[
         {
@@ -430,7 +435,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563247036,
+    "wof:lastmodified":1582353821,
     "wof:name":"Merauke",
     "wof:parent_id":102072939,
     "wof:placetype":"locality",
