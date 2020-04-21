@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":154.206095,
-    "geom:area_square_m":1902169699518.310547,
+    "geom:area_square_m":1902169710156.338379,
     "geom:bbox":"95.008308,-10.992515,141.022151,5.91625",
     "geom:latitude":-2.231956,
     "geom:longitude":117.302364,
@@ -51,6 +51,9 @@
     "name:arg_x_preferred":[
         "Indonesia"
     ],
+    "name:ary_x_preferred":[
+        "\u0623\u0646\u062f\u0648\u0646\u064a\u0633\u064a\u0627"
+    ],
     "name:arz_x_preferred":[
         "\u0627\u0646\u062f\u0648\u0646\u064a\u0633\u064a\u0627"
     ],
@@ -71,6 +74,9 @@
     ],
     "name:bak_x_preferred":[
         "\u0418\u043d\u0434\u043e\u043d\u0435\u0437\u0438\u044f"
+    ],
+    "name:ban_x_preferred":[
+        "Indon\u00e9sia"
     ],
     "name:bar_x_preferred":[
         "Indonesien"
@@ -183,6 +189,12 @@
     "name:dan_x_preferred":[
         "Indonesien"
     ],
+    "name:deu_at_x_preferred":[
+        "Indonesien"
+    ],
+    "name:deu_ch_x_preferred":[
+        "Indonesien"
+    ],
     "name:deu_x_preferred":[
         "Indonesien"
     ],
@@ -203,6 +215,12 @@
     ],
     "name:ell_x_preferred":[
         "\u0399\u03bd\u03b4\u03bf\u03bd\u03b7\u03c3\u03af\u03b1"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Indonesia"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Indonesia"
     ],
     "name:eng_x_preferred":[
         "Indonesia"
@@ -266,6 +284,9 @@
     ],
     "name:gan_x_preferred":[
         "\u5370\u5ea6\u5c3c\u897f\u4e9e"
+    ],
+    "name:gcr_x_preferred":[
+        "Endon\u00e9zi"
     ],
     "name:gla_x_preferred":[
         "An Innd-Innse"
@@ -401,6 +422,9 @@
     ],
     "name:kbp_x_preferred":[
         "\u0190ndonezi"
+    ],
+    "name:kea_x_preferred":[
+        "Indon\u00e9zia"
     ],
     "name:khm_x_preferred":[
         "\u17a5\u178e\u17d2\u178c\u17bc\u1793\u17c1\u179f\u17ca\u17b8"
@@ -573,6 +597,9 @@
     "name:nov_x_preferred":[
         "Indonesia"
     ],
+    "name:nqo_x_preferred":[
+        "\u07cd\u07f2\u07d8\u07cf\u07e3\u07db\u07cc\u07eb"
+    ],
     "name:nya_x_preferred":[
         "Indonesia"
     ],
@@ -620,6 +647,9 @@
     ],
     "name:pol_x_preferred":[
         "Indonezja"
+    ],
+    "name:por_br_x_preferred":[
+        "Indon\u00e9sia"
     ],
     "name:por_x_preferred":[
         "Indon\u00e9sia"
@@ -705,6 +735,12 @@
     "name:srn_x_preferred":[
         "Indonesikondre"
     ],
+    "name:srp_ec_x_preferred":[
+        "\u0418\u043d\u0434\u043e\u043d\u0435\u0437\u0438\u0458\u0430"
+    ],
+    "name:srp_el_x_preferred":[
+        "Indonezija"
+    ],
     "name:srp_x_preferred":[
         "\u0418\u043d\u0434\u043e\u043d\u0435\u0437\u0438\u0458\u0430"
     ],
@@ -726,11 +762,17 @@
     "name:szl_x_preferred":[
         "Ind\u016fnezyjo"
     ],
+    "name:szy_x_preferred":[
+        "Indonesia"
+    ],
     "name:tam_x_preferred":[
         "\u0b87\u0ba8\u0bcd\u0ba4\u0bcb\u0ba9\u0bc7\u0b9a\u0bbf\u0baf\u0bbe"
     ],
     "name:tat_x_preferred":[
         "\u0418\u043d\u0434\u043e\u043d\u0435\u0437\u0438\u044f"
+    ],
+    "name:tat_x_variant":[
+        "\u0418\u043d\u0434\u0430\u043d\u0438\u0437\u0438\u044f"
     ],
     "name:tel_x_preferred":[
         "\u0c07\u0c02\u0c21\u0c4b\u0c28\u0c47\u0c37\u0c3f\u0c2f\u0c3e"
@@ -839,8 +881,26 @@
     "name:zha_x_preferred":[
         "Yindunizsihya"
     ],
+    "name:zho_cn_x_preferred":[
+        "\u5370\u5ea6\u5c3c\u897f\u4e9a"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u5370\u5ea6\u5c3c\u897f\u4e9e"
+    ],
     "name:zho_min_nan_x_preferred":[
         "\u00ccn-n\u00ee"
+    ],
+    "name:zho_mo_x_preferred":[
+        "\u5370\u5ea6\u5c3c\u897f\u4e9e"
+    ],
+    "name:zho_my_x_preferred":[
+        "\u5370\u5ea6\u5c3c\u897f\u4e9a"
+    ],
+    "name:zho_sg_x_preferred":[
+        "\u5370\u5ea6\u5c3c\u897f\u4e9a"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5370\u5ea6\u5c3c\u897f\u4e9e"
     ],
     "name:zho_x_preferred":[
         "\u5370\u5ea6\u5c3c\u897f\u4e9a"
@@ -1001,7 +1061,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1583797351,
+    "wof:lastmodified":1587427701,
     "wof:name":"Indonesia",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
