@@ -5,9 +5,9 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00012,
-    "geom:area_square_m":1469700.0109,
-    "geom:bbox":"108.314208984,-7.10089266862,108.325195312,-7.08999047636",
-    "geom:latitude":-7.095442,
+    "geom:area_square_m":1469765.019169,
+    "geom:bbox":"108.314209,-7.100893,108.325195,-7.08999",
+    "geom:latitude":-7.095441,
     "geom:longitude":108.319702,
     "iso:country":"ID",
     "lbl:latitude":-7.095441,
@@ -15,7 +15,7 @@
     "mps:latitude":-7.095441,
     "mps:longitude":108.319702,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "name:ind_x_preferred":[
         "Sukamantri"
     ],
@@ -35,16 +35,18 @@
     "qs:pop":0,
     "qs:source":"Nquattroshapes",
     "qs:type":"Town",
-    "src:geom":"quattroshapes",
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
+    "src:geom_via":"quattroshapes",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073245
+        102073245,
+        85671983
     ],
     "wof:breaches":[
         102022501
@@ -57,9 +59,10 @@
     },
     "wof:country":"ID",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
-    "wof:geomhash":"c9579e64d2fb2b65861df35c4ee8dfc3",
+    "wof:geomhash":"c3c1217c9823db0053d57a6678b6fa1b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":102018961,
-    "wof:lastmodified":1582353786,
+    "wof:lastmodified":1612910751,
     "wof:name":"Sukamantri",
     "wof:parent_id":102073245,
     "wof:placetype":"locality",
@@ -80,10 +83,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.31420898399999,
-    -7.10089266862,
-    108.32519531199999,
-    -7.08999047636
+    108.314209,
+    -7.100893,
+    108.325195,
+    -7.08999
 ],
-  "geometry": {"coordinates":[[[108.31420898399999,-7.10089266862],[108.31420898399999,-7.08999047636],[108.32519531199999,-7.08999047636],[108.32519531199999,-7.10089266862],[108.31420898399999,-7.10089266862]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[108.31420900000001,-7.100893],[108.31420900000001,-7.08999],[108.32519499999999,-7.08999],[108.32519499999999,-7.100893],[108.31420900000001,-7.100893]]],"type":"Polygon"}
 }

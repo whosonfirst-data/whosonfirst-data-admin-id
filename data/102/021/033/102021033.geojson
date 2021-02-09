@@ -5,10 +5,10 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000038,
-    "geom:area_square_m":461541.276295,
-    "geom:bbox":"106.420427452,-6.20352924918,106.425247192,-6.19380316919",
+    "geom:area_square_m":461555.704532,
+    "geom:bbox":"106.420427,-6.203529,106.425247,-6.193803",
     "geom:latitude":-6.198975,
-    "geom:longitude":106.423245,
+    "geom:longitude":106.423244,
     "gn:latitude":-5.8681,
     "gn:longitude":105.75264,
     "iso:country":"ID",
@@ -17,7 +17,7 @@
     "mps:latitude":-6.19891,
     "mps:longitude":106.423248,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "name:deu_x_preferred":[
         "Bakauheni"
     ],
@@ -60,14 +60,17 @@
     "qs:loc_lc":"1650684",
     "qs:pop":0,
     "qs:source":"Nquattroshapes",
-    "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632203,
-        85671995,
-        102072687
+        102072687,
+        85671995
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -77,7 +80,10 @@
         "wk:page":"Port of Bakauheni"
     },
     "wof:country":"ID",
-    "wof:geomhash":"89e663ad535eabcfce079d6c794787fb",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"e45312d1d9e799a664d9d6925da4fb4d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":102021033,
-    "wof:lastmodified":1563247039,
+    "wof:lastmodified":1612910864,
     "wof:name":"Bakauheni",
     "wof:parent_id":102072687,
     "wof:placetype":"locality",
@@ -98,10 +104,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.42042745187642,
-    -6.20352924918355,
-    106.42524719200016,
-    -6.19380316918998
+    106.420427,
+    -6.203529,
+    106.425247,
+    -6.193803
 ],
-  "geometry": {"coordinates":[[[106.42222515276164,-6.19380316918998],[106.42318725600005,-6.19380316963496],[106.42456054675007,-6.19380316963496],[106.42524719200016,-6.19449384641463],[106.42524719200016,-6.20339527926269],[106.4252336726632,-6.20339398343579],[106.42389815554311,-6.20352924918355],[106.42213475180914,-6.20336021790656],[106.42043818405985,-6.20285014172413],[106.42042745187642,-6.20284443776752],[106.42222515276164,-6.19380316918998]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[106.425247,-6.203395],[106.425234,-6.203394],[106.42389799999999,-6.203529],[106.422135,-6.20336],[106.420438,-6.20285],[106.420427,-6.202844],[106.422225,-6.193803],[106.423187,-6.193803],[106.424561,-6.193803],[106.425247,-6.194494],[106.425247,-6.203395]]],"type":"Polygon"}
 }

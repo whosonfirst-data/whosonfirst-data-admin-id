@@ -4,18 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.000029,
-    "geom:area_square_m":355681.904288,
-    "geom:bbox":"124.860256772,1.23037417743,124.869460476,1.24072052541",
-    "geom:latitude":1.234706,
-    "geom:longitude":124.865449,
+    "geom:area":0.000018,
+    "geom:area_square_m":225323.010376,
+    "geom:bbox":"124.865112,1.230374,124.86946,1.235866",
+    "geom:latitude":1.232852,
+    "geom:longitude":124.866826,
     "iso:country":"ID",
-    "lbl:latitude":1.232329,
-    "lbl:longitude":124.866612,
+    "lbl:latitude":1.232499,
+    "lbl:longitude":124.866567,
     "mps:latitude":1.232329,
     "mps:longitude":124.866612,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "name:ind_x_preferred":[
         "Remboken"
     ],
@@ -32,16 +32,19 @@
     "qs:pop":0,
     "qs:source":"Nquattroshapes",
     "qs:type":"Town",
-    "src:geom":"quattroshapes",
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes",
+        "whosonfirst"
     ],
+    "src:geom_via":"whosonfirst",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
         0,
         85632203,
-        85672081,
         102073159,
+        85672081,
         102073387
     ],
     "wof:breaches":[],
@@ -53,9 +56,11 @@
     },
     "wof:country":"ID",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes",
+        "whosonfirst"
     ],
-    "wof:geomhash":"aa491d6a30189b19f895c5a890fffd6c",
+    "wof:geomhash":"04b7151548a0bbcb486574f4fb640f9b",
     "wof:hierarchy":[
         {
             "continent_id":0,
@@ -73,7 +78,7 @@
         }
     ],
     "wof:id":102019271,
-    "wof:lastmodified":1582353814,
+    "wof:lastmodified":1612911316,
     "wof:name":"Remboken",
     "wof:parent_id":102073387,
     "wof:placetype":"locality",
@@ -83,10 +88,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    124.86025677181392,
-    1.23037417742995,
-    124.8694604756591,
-    1.2407205254125
+    124.865112,
+    1.230374,
+    124.86946,
+    1.235866
 ],
-  "geometry": {"coordinates":[[[[124.86511230500001,1.23586606933004],[124.86648559600003,1.23586606933004],[124.86785888699997,1.23586606933004],[124.86785888699997,1.23449309742001],[124.86785888700008,1.23312012479998],[124.868545372762,1.23312012479998],[124.8694604756591,1.23037417742995],[124.86511230500001,1.23037417742995],[124.86511230500001,1.23312012479998],[124.86511230500001,1.23449309742001],[124.86511230500001,1.23586606933004]]],[[[124.86511230500001,1.23586606933004],[124.86305284497492,1.23586606932996],[124.86025677181392,1.24052726880488],[124.86026748530462,1.2407094419754],[124.86045585958659,1.2407205254125],[124.86511230500001,1.23792600528226],[124.86511230500001,1.23586606933004]]]],"type":"MultiPolygon"}
+  "geometry": {"coordinates":[[[124.865112,1.235866],[124.86648599999999,1.235866],[124.867859,1.235866],[124.867859,1.234493],[124.867859,1.23312],[124.868545,1.23312],[124.86946,1.230374],[124.865112,1.230374],[124.865112,1.23312],[124.865112,1.234493],[124.865112,1.235866]]],"type":"Polygon"}
 }

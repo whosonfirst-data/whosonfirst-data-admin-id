@@ -5,8 +5,8 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000002,
-    "geom:area_square_m":22887.205012,
-    "geom:bbox":"110.330200195,-7.8293709607,110.331573486,-7.82801046909",
+    "geom:area_square_m":22890.905935,
+    "geom:bbox":"110.3302,-7.829371,110.331573,-7.82801",
     "geom:latitude":-7.828691,
     "geom:longitude":110.330887,
     "gn:latitude":-7.82694,
@@ -18,7 +18,7 @@
     "mps:latitude":-7.828691,
     "mps:longitude":110.330886,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "qs:a0":"Indonesia",
     "qs:a1":"*Daerah Istimewa Yogyakarta",
     "qs:a1r":"*",
@@ -32,17 +32,19 @@
     "qs:pop":0,
     "qs:source":"Nquattroshapes",
     "qs:type":"Town",
-    "src:geom":"quattroshapes",
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
+    "src:geom_via":"quattroshapes",
     "src:lbl:centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073313
+        102073313,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,9 +55,10 @@
     },
     "wof:country":"ID",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
-    "wof:geomhash":"dac35ac78e817f3a0f8c94824682a644",
+    "wof:geomhash":"a0f75c173dffc3066d51207c624598bf",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":102021371,
-    "wof:lastmodified":1582353820,
+    "wof:lastmodified":1612910846,
     "wof:name":"Kasihan",
     "wof:parent_id":102073313,
     "wof:placetype":"locality",
@@ -78,10 +81,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.330200195,
-    -7.8293709607,
-    110.331573486,
-    -7.82801046909
+    110.3302,
+    -7.829371,
+    110.331573,
+    -7.82801
 ],
-  "geometry": {"coordinates":[[[110.330200195,-7.8293709607],[110.330200195,-7.82801046909],[110.331573486,-7.82801046909],[110.331573486,-7.8293709607],[110.330200195,-7.8293709607]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[110.3302,-7.82801],[110.33157300000001,-7.82801],[110.33157300000001,-7.829371],[110.3302,-7.829371],[110.3302,-7.82801]]],"type":"Polygon"}
 }
