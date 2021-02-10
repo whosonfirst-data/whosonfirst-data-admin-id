@@ -4,18 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.00084,
-    "geom:area_square_m":10317163.847894,
-    "geom:bbox":"107.193603516,-6.43540076513,107.2265625,-6.39173048548",
-    "geom:latitude":-6.408107,
-    "geom:longitude":107.213222,
+    "geom:area":0.00072,
+    "geom:area_square_m":8843336.118169,
+    "geom:bbox":"107.193604,-6.424484,107.226562,-6.39173",
+    "geom:latitude":-6.404468,
+    "geom:longitude":107.213745,
     "iso:country":"ID",
     "lbl:latitude":-6.402648,
-    "lbl:longitude":107.215368,
+    "lbl:longitude":107.215393,
     "mps:latitude":-6.402648,
     "mps:longitude":107.215368,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "name:ceb_x_preferred":[
         "Pangkalan"
     ],
@@ -44,16 +44,18 @@
     "qs:pop":0,
     "qs:source":"Nquattroshapes",
     "qs:type":"Town",
-    "src:geom":"quattroshapes",
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
+    "src:geom_via":"quattroshapes",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073551
+        102073551,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -64,9 +66,10 @@
     },
     "wof:country":"ID",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
-    "wof:geomhash":"4c7da61f6e307befa55c83da43fab71b",
+    "wof:geomhash":"51fcb50997e750592b9c1df4af15fc64",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":102019555,
-    "wof:lastmodified":1582353811,
+    "wof:lastmodified":1612983817,
     "wof:name":"Pangkalan",
     "wof:parent_id":102073551,
     "wof:placetype":"locality",
@@ -87,10 +90,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.193603516,
-    -6.43540076513,
-    107.22656249999999,
-    -6.39173048548
+    107.193604,
+    -6.424484,
+    107.226562,
+    -6.39173
 ],
-  "geometry": {"coordinates":[[[[107.204589844,-6.43540076513],[107.204589844,-6.42448354618],[107.215576172,-6.42448354618],[107.215576172,-6.43540076513],[107.204589844,-6.43540076513]]],[[[107.215576172,-6.42448354618],[107.215576172,-6.41356609299],[107.204589844,-6.41356609299],[107.204589844,-6.40264840596],[107.193603516,-6.40264840596],[107.193603516,-6.39173048548],[107.204589844,-6.39173048548],[107.215576172,-6.39173048548],[107.22656249999999,-6.39173048548],[107.22656249999999,-6.40264840596],[107.22656249999999,-6.41356609299],[107.22656249999999,-6.42448354618],[107.215576172,-6.42448354618]]]],"type":"MultiPolygon"}
+  "geometry": {"coordinates":[[[107.215576,-6.424484],[107.215576,-6.413566],[107.20459,-6.413566],[107.20459,-6.402648],[107.19360399999999,-6.402648],[107.19360399999999,-6.39173],[107.20459,-6.39173],[107.215576,-6.39173],[107.226562,-6.39173],[107.226562,-6.402648],[107.226562,-6.413566],[107.226562,-6.424484],[107.215576,-6.424484]]],"type":"Polygon"}
 }
