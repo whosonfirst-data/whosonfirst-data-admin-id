@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-02-10",
     "edtf:inception":"uuuu",
     "geom:area":0.000057,
     "geom:area_square_m":700712.369108,
@@ -17,7 +18,7 @@
     "mps:latitude":-6.389684,
     "mps:longitude":106.896595,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "name:afr_x_preferred":[
         "Depok"
     ],
@@ -264,7 +265,7 @@
         }
     ],
     "wof:id":102022009,
-    "wof:lastmodified":1612983754,
+    "wof:lastmodified":1613003940,
     "wof:name":"Depok",
     "wof:parent_id":102073083,
     "wof:placetype":"locality",

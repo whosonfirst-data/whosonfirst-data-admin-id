@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-02-10",
     "edtf:inception":"uuuu",
     "geom:area":0.000236,
     "geom:area_square_m":2898373.779209,
@@ -17,7 +18,7 @@
     "mps:latitude":-6.354594,
     "mps:longitude":106.806608,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "name:ceb_x_preferred":[
         "Kelurahan Jagakarsa"
     ],
@@ -98,7 +99,7 @@
         }
     ],
     "wof:id":102020443,
-    "wof:lastmodified":1612983776,
+    "wof:lastmodified":1613003941,
     "wof:name":"Jagakarsa",
     "wof:parent_id":102072667,
     "wof:placetype":"locality",

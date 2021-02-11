@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-02-10",
     "edtf:inception":"uuuu",
     "geom:area":0.000019,
     "geom:area_square_m":233375.115738,
@@ -17,7 +18,7 @@
     "mps:latitude":-6.226431,
     "mps:longitude":106.959431,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "name:ind_x_preferred":[
         "Kecamatan Bekasi Barat"
     ],
@@ -66,7 +67,7 @@
         }
     ],
     "wof:id":102021895,
-    "wof:lastmodified":1612983837,
+    "wof:lastmodified":1613003944,
     "wof:name":"Kecamatan Bekasi Barat",
     "wof:parent_id":102072621,
     "wof:placetype":"locality",

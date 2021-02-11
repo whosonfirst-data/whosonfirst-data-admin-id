@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-02-10",
     "edtf:inception":"uuuu",
     "geom:area":0.000158,
     "geom:area_square_m":1941513.738859,
@@ -17,7 +18,7 @@
     "mps:latitude":-6.328566,
     "mps:longitude":106.896901,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "name:ceb_x_preferred":[
         "Kelurahan Cipayung"
     ],
@@ -120,7 +121,7 @@
         }
     ],
     "wof:id":102021189,
-    "wof:lastmodified":1612983840,
+    "wof:lastmodified":1613003944,
     "wof:name":"Cipayung",
     "wof:parent_id":102073493,
     "wof:placetype":"locality",

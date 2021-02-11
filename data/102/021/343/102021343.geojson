@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-02-10",
     "edtf:inception":"uuuu",
     "geom:area":0.000078,
     "geom:area_square_m":953445.519412,
@@ -17,7 +18,7 @@
     "mps:latitude":-6.296735,
     "mps:longitude":106.95699,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "qs:a0":"Indonesia",
     "qs:a1":"*Jawa Barat",
     "qs:a1r":"*",
@@ -67,7 +68,7 @@
         }
     ],
     "wof:id":102021343,
-    "wof:lastmodified":1612983848,
+    "wof:lastmodified":1613003946,
     "wof:name":"Jatiasih",
     "wof:parent_id":102073551,
     "wof:placetype":"locality",

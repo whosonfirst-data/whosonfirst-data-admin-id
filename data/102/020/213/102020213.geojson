@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-02-10",
     "edtf:inception":"uuuu",
     "geom:area":0.000047,
     "geom:area_square_m":577971.360028,
@@ -17,7 +18,7 @@
     "mps:latitude":-6.198581,
     "mps:longitude":106.758783,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "name:ceb_x_preferred":[
         "Kembangan"
     ],
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":102020213,
-    "wof:lastmodified":1612983777,
+    "wof:lastmodified":1613003942,
     "wof:name":"Kembangan",
     "wof:parent_id":102072841,
     "wof:placetype":"locality",
