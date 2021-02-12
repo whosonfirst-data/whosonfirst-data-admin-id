@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"106.8209,-6.2374,106.8209,-6.2374",
-    "geom:latitude":-6.2374,
-    "geom:longitude":106.8209,
+    "geom:area":0.000083,
+    "geom:area_square_m":1015819.733519,
+    "geom:bbox":"106.816393,-6.240947,106.83261,-6.225957",
+    "geom:latitude":-6.235705,
+    "geom:longitude":106.821872,
     "gn:gn_country":"ID",
     "gn:gn_fcode":"PPL",
     "gn:gn_pop":0,
@@ -16,7 +16,7 @@
     "lbl:latitude":-6.2374,
     "lbl:longitude":106.8209,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ind_x_preferred":[
         "Kuningan Barat"
@@ -40,7 +40,10 @@
     "qs_pg:qs_pg_placetype_gp":"Suburb",
     "qs_pg:woe_adm0":23424846,
     "qs_pg:woe_id":56120529,
-    "src:geom":"qs_pg",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
     "src:lbl:centroid":"qs_pg",
     "woe:adm0_id":23424846,
     "woe:name_adm0":"Indonesia",
@@ -49,8 +52,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        102021905,
         102073177,
+        102021905,
         85672001
     ],
     "wof:breaches":[],
@@ -61,7 +64,10 @@
     },
     "wof:country":"ID",
     "wof:created":1497314645,
-    "wof:geomhash":"954548bb1e0d97b3dda9a128f1a179a0",
+    "wof:geom_alt":[
+        "qs_pg"
+    ],
+    "wof:geomhash":"0dd982ca1c583cdde1105c1cb58cd4ec",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +79,7 @@
         }
     ],
     "wof:id":1126093637,
-    "wof:lastmodified":1509411778,
+    "wof:lastmodified":1613158498,
     "wof:name":"Kuningan Barat",
     "wof:parent_id":102021905,
     "wof:placetype":"neighbourhood",
@@ -83,10 +89,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.8209,
-    -6.2374,
-    106.8209,
-    -6.2374
+    106.816393,
+    -6.240947,
+    106.83261,
+    -6.225957
 ],
-  "geometry": {"coordinates":[106.82089999999999,-6.2374],"type":"Point"}
+  "geometry": {"coordinates":[[[106.81715699999999,-6.234071],[106.816884,-6.232347],[106.816761,-6.230996],[106.816884,-6.229644],[106.81639300000001,-6.22817],[106.816761,-6.227064],[106.816906,-6.225957],[106.82081599999999,-6.23161],[106.823396,-6.234436],[106.828065,-6.237262],[106.83261,-6.24021],[106.831382,-6.240087],[106.830153,-6.240087],[106.82794199999999,-6.239842],[106.825362,-6.239842],[106.822536,-6.24021],[106.82143000000001,-6.240947],[106.82057,-6.240456],[106.817638,-6.239073],[106.818017,-6.237634],[106.81814,-6.236774],[106.818017,-6.235177],[106.81715699999999,-6.234071]]],"type":"Polygon"}
 }

@@ -4,18 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"106.84556,-6.31139,106.84556,-6.31139",
-    "geom:latitude":-6.31139,
-    "geom:longitude":106.84556,
+    "geom:area":0.000227,
+    "geom:area_square_m":2791748.91093,
+    "geom:bbox":"106.824325,-6.321985,106.837122,-6.296669",
+    "geom:latitude":-6.309888,
+    "geom:longitude":106.830827,
     "gn:country":"ID",
     "gn:fcode":"PPL",
     "gn:pop":0,
     "gp:adm0":23424846,
     "iso:country":"ID",
+    "lbl:latitude":-6.311248,
+    "lbl:longitude":106.831345,
+    "mps:latitude":-6.311248,
+    "mps:longitude":106.831345,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "name:ceb_x_preferred":[
         "Kelurahan Kebagusan"
     ],
@@ -57,14 +61,19 @@
     "qs:photos_sr":4,
     "qs:placetype":"Suburb",
     "qs:pop_sr":"0",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "unknown"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":169,
     "wof:belongsto":[
-        85672001,
         102191569,
         85632203,
+        102072667,
         102020433,
-        102072667
+        85672001
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,7 +85,10 @@
     },
     "wof:country":"ID",
     "wof:created":1469055024,
-    "wof:geomhash":"744929c3d7a1b56f7c5a592cef734bb1",
+    "wof:geom_alt":[
+        "unknown"
+    ],
+    "wof:geomhash":"5c414a4f2a999c376d7d5e91e75c6bd4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -88,7 +100,7 @@
         }
     ],
     "wof:id":890495287,
-    "wof:lastmodified":1563274276,
+    "wof:lastmodified":1613158483,
     "wof:name":"Kebagusan",
     "wof:parent_id":102020433,
     "wof:placetype":"neighbourhood",
@@ -99,10 +111,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.84556,
-    -6.31139,
-    106.84556,
-    -6.31139
+    106.824325,
+    -6.321985,
+    106.837122,
+    -6.296669
 ],
-  "geometry": {"coordinates":[106.84556000000001,-6.31139],"type":"Point"}
+  "geometry": {"coordinates":[[[106.824325,-6.318898],[106.825266,-6.314606],[106.825388,-6.312149],[106.82588,-6.31092],[106.827539,-6.307542],[106.82766100000001,-6.305883],[106.82674,-6.303917],[106.82624800000001,-6.300539],[106.82631000000001,-6.299249],[106.826617,-6.296669],[106.828644,-6.297099],[106.83147,-6.298389],[106.83712199999999,-6.30232],[106.83712199999999,-6.302934],[106.836876,-6.307112],[106.83632299999999,-6.31221],[106.836262,-6.31522],[106.834726,-6.318292],[106.831194,-6.321371],[106.82885899999999,-6.32174],[106.827754,-6.321985],[106.825911,-6.321371],[106.824928,-6.319651],[106.824325,-6.318898]]],"type":"Polygon"}
 }

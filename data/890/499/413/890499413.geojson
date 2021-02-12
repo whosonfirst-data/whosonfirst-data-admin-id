@@ -4,18 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"106.927,-6.2256,106.927,-6.2256",
-    "geom:latitude":-6.2256,
-    "geom:longitude":106.927,
+    "geom:area":0.000105,
+    "geom:area_square_m":1286344.674352,
+    "geom:bbox":"106.923926,-6.2324,106.932281,-6.216375",
+    "geom:latitude":-6.223816,
+    "geom:longitude":106.928097,
     "gn:country":"ID",
     "gn:fcode":"PPL",
     "gn:pop":0,
     "gp:adm0":23424846,
     "iso:country":"ID",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "name:ind_x_preferred":[
         "Malakasari"
     ],
@@ -30,13 +30,17 @@
     "qs:photos_sr":1,
     "qs:placetype":"Suburb",
     "qs:pop_sr":"0",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "unknown"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
-        85672001,
         102191569,
         85632203,
+        102073493,
         102020431,
-        102073493
+        85672001
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,7 +50,10 @@
     },
     "wof:country":"ID",
     "wof:created":1469055215,
-    "wof:geomhash":"6b244ee7f0895f3fee97cd4bb92ae523",
+    "wof:geom_alt":[
+        "unknown"
+    ],
+    "wof:geomhash":"a04b569663c5220289b05d1435ed9983",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":890499413,
-    "wof:lastmodified":1505343837,
+    "wof:lastmodified":1613158525,
     "wof:name":"Malakasari",
     "wof:parent_id":102020431,
     "wof:placetype":"neighbourhood",
@@ -69,10 +76,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.927,
-    -6.2256,
-    106.927,
-    -6.2256
+    106.923926,
+    -6.2324,
+    106.932281,
+    -6.216375
 ],
-  "geometry": {"coordinates":[106.92700000000001,-6.2256],"type":"Point"}
+  "geometry": {"coordinates":[[[106.931145,-6.217096],[106.93105199999999,-6.218955],[106.931912,-6.220798],[106.932281,-6.222027],[106.932035,-6.224484],[106.931912,-6.225836],[106.931421,-6.226941],[106.93179000000001,-6.228539],[106.931912,-6.229276],[106.931298,-6.229521],[106.93105199999999,-6.22989],[106.93087,-6.2324],[106.92957800000001,-6.232224],[106.927367,-6.231241],[106.926384,-6.23075],[106.925769,-6.229767],[106.92540099999999,-6.228539],[106.924786,-6.227556],[106.92418000000001,-6.227141],[106.924541,-6.226204],[106.924541,-6.225098],[106.924172,-6.223256],[106.92392599999999,-6.221167],[106.92392599999999,-6.218587],[106.92466400000001,-6.216375],[106.931145,-6.217096]]],"type":"Polygon"}
 }

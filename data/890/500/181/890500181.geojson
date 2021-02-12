@@ -4,18 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"106.9129,-6.1293,106.9129,-6.1293",
-    "geom:latitude":-6.1293,
-    "geom:longitude":106.9129,
+    "geom:area":0.00019,
+    "geom:area_square_m":2341954.963419,
+    "geom:bbox":"106.903269,-6.130926,106.921592,-6.118025",
+    "geom:latitude":-6.124228,
+    "geom:longitude":106.91212,
     "gn:country":"ID",
     "gn:fcode":"PPL",
     "gn:pop":0,
     "gp:adm0":23424846,
     "iso:country":"ID",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "name:ind_x_preferred":[
         "Tugu Utara"
     ],
@@ -26,13 +26,17 @@
     "qs:photos_sr":0,
     "qs:placetype":"Suburb",
     "qs:pop_sr":"0",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "unknown"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
-        85672001,
         102191569,
         85632203,
+        102073125,
         102020429,
-        102073125
+        85672001
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,7 +46,10 @@
     },
     "wof:country":"ID",
     "wof:created":1469055248,
-    "wof:geomhash":"fb2f6f8373587663892b197ce22fc1e1",
+    "wof:geom_alt":[
+        "unknown"
+    ],
+    "wof:geomhash":"a267661cfc64b52c2fd74cacc2d9c8b6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":890500181,
-    "wof:lastmodified":1505343842,
+    "wof:lastmodified":1613158581,
     "wof:name":"Tugu Utara",
     "wof:parent_id":102020429,
     "wof:placetype":"neighbourhood",
@@ -65,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.9129,
-    -6.1293,
-    106.9129,
-    -6.1293
+    106.903269,
+    -6.130926,
+    106.921592,
+    -6.118025
 ],
-  "geometry": {"coordinates":[106.91289999999999,-6.1293],"type":"Point"}
+  "geometry": {"coordinates":[[[106.918398,-6.128837],[106.916186,-6.12982],[106.915449,-6.130312],[106.913483,-6.130926],[106.912623,-6.130803],[106.911518,-6.130434],[106.910043,-6.129697],[106.908692,-6.129206],[106.90648,-6.129452],[106.90329699999999,-6.129572],[106.90328599999999,-6.129329],[106.903532,-6.121834],[106.90326899999999,-6.118768],[106.90967499999999,-6.119254],[106.910658,-6.118025],[106.91680100000001,-6.11864],[106.91827499999999,-6.119746],[106.920118,-6.119377],[106.921346,-6.120728],[106.921592,-6.125397],[106.921346,-6.127117],[106.919749,-6.127363],[106.918398,-6.128837]]],"type":"Polygon"}
 }

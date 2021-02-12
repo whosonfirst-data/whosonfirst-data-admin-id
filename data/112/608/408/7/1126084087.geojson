@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-02-12",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -16,7 +17,7 @@
     "lbl:latitude":-6.31278,
     "lbl:longitude":106.8675,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "qs_pg:aaroncc":"ID",
     "qs_pg:gn_country":"ID",
@@ -43,8 +44,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        102020677,
         102073493,
+        102020677,
         85672001
     ],
     "wof:breaches":[],
@@ -67,12 +68,14 @@
         }
     ],
     "wof:id":1126084087,
-    "wof:lastmodified":1509411307,
+    "wof:lastmodified":1613158508,
     "wof:name":"Susukan",
     "wof:parent_id":102020677,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-id",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        85779263
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -4,18 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.000013,
-    "geom:area_square_m":165171.005804,
-    "geom:bbox":"106.84067576,-6.21292474926,106.844787598,-6.20882097358",
-    "geom:latitude":-6.210702,
-    "geom:longitude":106.842897,
+    "geom:area":0.000065,
+    "geom:area_square_m":803024.063333,
+    "geom:bbox":"106.834945,-6.214758,106.848091,-6.205921",
+    "geom:latitude":-6.210362,
+    "geom:longitude":106.841598,
     "iso:country":"ID",
-    "lbl:latitude":-6.210186,
-    "lbl:longitude":106.843414,
-    "mps:latitude":-6.210729,
-    "mps:longitude":106.842897,
+    "lbl:latitude":-6.210459,
+    "lbl:longitude":106.841598,
+    "mps:latitude":-6.210459,
+    "mps:longitude":106.841598,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -55,22 +55,28 @@
     "qs:woe_lau":0,
     "qs:woe_local":1047378,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
     "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85672001,
         102191569,
         85632203,
+        102073177,
         102021905,
-        102073177
+        85672001
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1040465
     },
     "wof:country":"ID",
-    "wof:geomhash":"6d49e979ed1285b45897d55ef367de40",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"d684b16a8c663722d595b2bac8b12246",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -85,7 +91,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527269515,
+    "wof:lastmodified":1613158504,
     "wof:name":"Pasarmanggis",
     "wof:parent_id":102021905,
     "wof:placetype":"neighbourhood",
@@ -95,10 +101,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.84067576015883,
-    -6.21292474926352,
-    106.8447875980001,
-    -6.20882097358229
+    106.834945,
+    -6.214758,
+    106.848091,
+    -6.205921
 ],
-  "geometry": {"coordinates":[[[106.84158057512099,-6.20882097358229],[106.84204101600011,-6.2088209753511],[106.8447875980001,-6.20882097515454],[106.8447875980001,-6.21155144152],[106.84478759799998,-6.21200381290551],[106.84204101600011,-6.21292474926352],[106.84067576015883,-6.21155142735746],[106.84158057512099,-6.20882097358229]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[106.844326,-6.214758],[106.838016,-6.213181],[106.837525,-6.210355],[106.835928,-6.211829],[106.834945,-6.210724],[106.839088,-6.205921],[106.845917,-6.208427],[106.84696700000001,-6.208589],[106.84805299999999,-6.208091],[106.848091,-6.208389],[106.84710800000001,-6.210478],[106.844326,-6.214758]]],"type":"Polygon"}
 }

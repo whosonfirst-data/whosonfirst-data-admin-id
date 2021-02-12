@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"106.8025,-6.195,106.8025,-6.195",
-    "geom:latitude":-6.195,
-    "geom:longitude":106.8025,
+    "geom:area":0.00008,
+    "geom:area_square_m":988758.204098,
+    "geom:bbox":"106.796946,-6.201323,106.806765,-6.188736",
+    "geom:latitude":-6.193981,
+    "geom:longitude":106.80132,
     "gn:gn_country":"ID",
     "gn:gn_fcode":"PPL",
     "gn:gn_pop":0,
@@ -16,7 +16,7 @@
     "lbl:latitude":-6.195,
     "lbl:longitude":106.8025,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ind_x_preferred":[
         "Slipi"
@@ -41,7 +41,10 @@
     "qs_pg:qs_pg_placetype_gp":"Suburb",
     "qs_pg:woe_adm0":23424846,
     "qs_pg:woe_id":1043672,
-    "src:geom":"qs_pg",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
     "src:lbl:centroid":"qs_pg",
     "woe:adm0_id":23424846,
     "woe:name_adm0":"Indonesia",
@@ -50,8 +53,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        102021905,
         102073177,
+        102021905,
         85672001
     ],
     "wof:breaches":[],
@@ -62,7 +65,10 @@
     },
     "wof:country":"ID",
     "wof:created":1497313300,
-    "wof:geomhash":"b8014b39d0657196143d2b412879cb31",
+    "wof:geom_alt":[
+        "qs_pg"
+    ],
+    "wof:geomhash":"e6c380ba90332d52118dc2f73618bffe",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,7 +80,7 @@
         }
     ],
     "wof:id":1126088933,
-    "wof:lastmodified":1509411543,
+    "wof:lastmodified":1613158556,
     "wof:name":"Slipi",
     "wof:parent_id":102021905,
     "wof:placetype":"neighbourhood",
@@ -84,10 +90,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.8025,
-    -6.195,
-    106.8025,
-    -6.195
+    106.796946,
+    -6.201323,
+    106.806765,
+    -6.188736
 ],
-  "geometry": {"coordinates":[106.80249999999999,-6.195],"type":"Point"}
+  "geometry": {"coordinates":[[[106.79723199999999,-6.189397],[106.799526,-6.189657],[106.802966,-6.189227],[106.804686,-6.189043],[106.806765,-6.188736],[106.80644100000001,-6.190998],[106.803695,-6.198268],[106.800383,-6.200045],[106.799413,-6.201323],[106.79928099999999,-6.201083],[106.798119,-6.200122],[106.798298,-6.199916],[106.798421,-6.198872],[106.797929,-6.197459],[106.79706899999999,-6.194817],[106.79694600000001,-6.192176],[106.79713099999999,-6.190824],[106.797253,-6.189596],[106.79723199999999,-6.189397]]],"type":"Polygon"}
 }

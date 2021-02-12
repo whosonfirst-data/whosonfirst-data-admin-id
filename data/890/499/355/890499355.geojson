@@ -4,18 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"106.8062,-6.1674,106.8062,-6.1674",
-    "geom:latitude":-6.1674,
-    "geom:longitude":106.8062,
+    "geom:area":0.000104,
+    "geom:area_square_m":1283776.219104,
+    "geom:bbox":"106.80025,-6.185163,106.813997,-6.165675",
+    "geom:latitude":-6.173101,
+    "geom:longitude":106.808088,
     "gn:country":"ID",
     "gn:fcode":"PPL",
     "gn:pop":0,
     "gp:adm0":23424846,
     "iso:country":"ID",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "name:ind_x_preferred":[
         "Cideng"
     ],
@@ -30,13 +30,17 @@
     "qs:photos_sr":1,
     "qs:placetype":"Suburb",
     "qs:pop_sr":"0",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "unknown"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
-        85672001,
         102191569,
         85632203,
+        102073177,
         102021905,
-        102073177
+        85672001
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,7 +50,10 @@
     },
     "wof:country":"ID",
     "wof:created":1469055212,
-    "wof:geomhash":"88b8b246e7f4ba4b0cb6f4ab462f304e",
+    "wof:geom_alt":[
+        "unknown"
+    ],
+    "wof:geomhash":"d5dcfd2b66529c8520fdceff54b0d6e8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":890499355,
-    "wof:lastmodified":1505343837,
+    "wof:lastmodified":1613158550,
     "wof:name":"Cideng",
     "wof:parent_id":102021905,
     "wof:placetype":"neighbourhood",
@@ -69,10 +76,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.8062,
-    -6.1674,
-    106.8062,
-    -6.1674
+    106.80025,
+    -6.185163,
+    106.813997,
+    -6.165675
 ],
-  "geometry": {"coordinates":[106.8062,-6.1674],"type":"Point"}
+  "geometry": {"coordinates":[[[106.80025000000001,-6.166682],[106.80025000000001,-6.166682],[106.810389,-6.165675],[106.810373,-6.165941],[106.810864,-6.170855],[106.81135500000001,-6.174111],[106.813137,-6.181114],[106.813997,-6.181974],[106.810096,-6.185163],[106.810096,-6.185163],[106.809834,-6.181144],[106.809026,-6.178882],[106.80110999999999,-6.168058],[106.80025000000001,-6.166682]]],"type":"Polygon"}
 }

@@ -4,18 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"106.8065,-6.1969,106.8065,-6.1969",
-    "geom:latitude":-6.1969,
-    "geom:longitude":106.8065,
+    "geom:area":0.000072,
+    "geom:area_square_m":886070.240633,
+    "geom:bbox":"106.799413,-6.204365,106.810319,-6.188575",
+    "geom:latitude":-6.196954,
+    "geom:longitude":106.805868,
     "gn:country":"ID",
     "gn:fcode":"PPL",
     "gn:pop":0,
     "gp:adm0":23424846,
     "iso:country":"ID",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "name:ind_x_preferred":[
         "Petamburan"
     ],
@@ -29,13 +29,17 @@
     "qs:photos_sr":0,
     "qs:placetype":"Suburb",
     "qs:pop_sr":"0",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "unknown"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
-        85672001,
         102191569,
         85632203,
+        102073177,
         102021905,
-        102073177
+        85672001
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,7 +49,10 @@
     },
     "wof:country":"ID",
     "wof:created":1469055154,
-    "wof:geomhash":"f567ceb82f69816d62a2b3188bd527a0",
+    "wof:geom_alt":[
+        "unknown"
+    ],
+    "wof:geomhash":"3d6c977c3ca640d899cc93c4e05dccf5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":890498035,
-    "wof:lastmodified":1505343830,
+    "wof:lastmodified":1613158535,
     "wof:name":"Petamburan",
     "wof:parent_id":102021905,
     "wof:placetype":"neighbourhood",
@@ -68,10 +75,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.8065,
-    -6.1969,
-    106.8065,
-    -6.1969
+    106.799413,
+    -6.204365,
+    106.810319,
+    -6.188575
 ],
-  "geometry": {"coordinates":[106.8065,-6.1969],"type":"Point"}
+  "geometry": {"coordinates":[[[106.81000299999999,-6.198166],[106.806933,-6.200895],[106.80159399999999,-6.204365],[106.799413,-6.201323],[106.800383,-6.200045],[106.803695,-6.198268],[106.80644100000001,-6.190998],[106.806765,-6.188736],[106.81031900000001,-6.188575],[106.809758,-6.190083],[106.809513,-6.191557],[106.809513,-6.193523],[106.809513,-6.195735],[106.809513,-6.197578],[106.81000299999999,-6.198166]]],"type":"Polygon"}
 }

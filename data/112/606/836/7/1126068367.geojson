@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"106.90917,-6.11333,106.90917,-6.11333",
-    "geom:latitude":-6.11333,
-    "geom:longitude":106.90917,
+    "geom:area":0.000131,
+    "geom:area_square_m":1606900.776854,
+    "geom:bbox":"106.902794,-6.119254,106.917538,-6.108074",
+    "geom:latitude":-6.113868,
+    "geom:longitude":106.910583,
     "gn:gn_country":"ID",
     "gn:gn_fcode":"PPL",
     "gn:gn_pop":0,
@@ -16,7 +16,7 @@
     "lbl:latitude":-6.11333,
     "lbl:longitude":106.90917,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
         "Lagoa"
@@ -85,18 +85,21 @@
     "qs_pg:qs_pg_placetype_gp":"Suburb",
     "qs_pg:woe_adm0":23424846,
     "qs_pg:woe_id":1036568,
-    "src:geom":"qs_pg",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
     "src:lbl:centroid":"qs_pg",
     "woe:adm0_id":23424846,
     "woe:name_adm0":"Indonesia",
     "woe:name_adm1":"Jakarta Raya",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
-        85672001,
         102191569,
         85632203,
+        102073125,
         102020429,
-        102073125
+        85672001
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -106,7 +109,10 @@
     },
     "wof:country":"ID",
     "wof:created":1497309318,
-    "wof:geomhash":"cc7cc1747dea1a608405bcb335224460",
+    "wof:geom_alt":[
+        "qs_pg"
+    ],
+    "wof:geomhash":"a486cb89050017b891f364ae632dde2e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -118,7 +124,7 @@
         }
     ],
     "wof:id":1126068367,
-    "wof:lastmodified":1564197403,
+    "wof:lastmodified":1613158581,
     "wof:name":"Lagoa",
     "wof:parent_id":102020429,
     "wof:placetype":"neighbourhood",
@@ -128,10 +134,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.90917,
-    -6.11333,
-    106.90917,
-    -6.11333
+    106.902794,
+    -6.119254,
+    106.917538,
+    -6.108074
 ],
-  "geometry": {"coordinates":[106.90917,-6.11333],"type":"Point"}
+  "geometry": {"coordinates":[[[106.90688400000001,-6.108918],[106.91753799999999,-6.108074],[106.91680100000001,-6.11864],[106.910658,-6.118025],[106.90967499999999,-6.119254],[106.90326899999999,-6.118768],[106.90316300000001,-6.117534],[106.902794,-6.112005],[106.90648,-6.112128],[106.90688400000001,-6.108918]]],"type":"Polygon"}
 }

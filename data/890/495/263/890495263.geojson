@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"106.8357,-6.2066,106.8357,-6.2066",
-    "geom:latitude":-6.2066,
-    "geom:longitude":106.8357,
+    "geom:area":0.000046,
+    "geom:area_square_m":559877.94363,
+    "geom:bbox":"106.82745,-6.210794,106.839088,-6.20367",
+    "geom:latitude":-6.207036,
+    "geom:longitude":106.833068,
     "gn:country":"ID",
     "gn:fcode":"PPL",
     "gn:pop":0,
@@ -177,17 +177,21 @@
     "qs:photos_sr":4,
     "qs:placetype":"Suburb",
     "qs:pop_sr":"0",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "unknown"
+    ],
     "src:population":"geonames",
     "wd:elevation":30.0,
     "wd:latitude":"16.3",
     "wd:longitude":"80.45",
     "wd:wordcount":3176,
     "wof:belongsto":[
-        85672001,
         102191569,
         85632203,
+        102073177,
         102021905,
-        102073177
+        85672001
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -198,7 +202,10 @@
     },
     "wof:country":"ID",
     "wof:created":1469055023,
-    "wof:geomhash":"aed654ca3e80e3bfcd5b7f6c726bc82f",
+    "wof:geom_alt":[
+        "unknown"
+    ],
+    "wof:geomhash":"a6abe4c22574100ada1448a63b7d4832",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -210,7 +217,7 @@
         }
     ],
     "wof:id":890495263,
-    "wof:lastmodified":1564197353,
+    "wof:lastmodified":1613158504,
     "wof:name":"Guntur",
     "wof:parent_id":102021905,
     "wof:placetype":"neighbourhood",
@@ -221,10 +228,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.8357,
-    -6.2066,
-    106.8357,
-    -6.2066
+    106.82745,
+    -6.210794,
+    106.839088,
+    -6.20367
 ],
-  "geometry": {"coordinates":[106.8357,-6.2066],"type":"Point"}
+  "geometry": {"coordinates":[[[106.831057,-6.210794],[106.829662,-6.208021],[106.828433,-6.205932],[106.82794199999999,-6.205072],[106.82745,-6.203721],[106.82745,-6.20367],[106.830651,-6.204389],[106.837113,-6.205196],[106.839088,-6.205921],[106.834945,-6.210724],[106.83297899999999,-6.209372],[106.83211900000001,-6.210232],[106.831057,-6.210794]]],"type":"Polygon"}
 }

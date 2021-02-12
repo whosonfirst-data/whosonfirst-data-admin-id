@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"106.7793,-6.1395,106.7793,-6.1395",
-    "geom:latitude":-6.1395,
-    "geom:longitude":106.7793,
+    "geom:area":0.000299,
+    "geom:area_square_m":3674433.529938,
+    "geom:bbox":"106.773422,-6.14528,106.800555,-6.121527",
+    "geom:latitude":-6.136205,
+    "geom:longitude":106.784633,
     "gn:gn_country":"ID",
     "gn:gn_fcode":"PPL",
     "gn:gn_pop":0,
@@ -16,7 +16,7 @@
     "lbl:latitude":-6.1395,
     "lbl:longitude":106.7793,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ind_x_preferred":[
         "Pejagalan"
@@ -40,7 +40,10 @@
     "qs_pg:qs_pg_placetype_gp":"Suburb",
     "qs_pg:woe_adm0":23424846,
     "qs_pg:woe_id":1040763,
-    "src:geom":"qs_pg",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
     "src:lbl:centroid":"qs_pg",
     "woe:adm0_id":23424846,
     "woe:name_adm0":"Indonesia",
@@ -57,7 +60,10 @@
     },
     "wof:country":"ID",
     "wof:created":1497313028,
-    "wof:geomhash":"87b74342c07b6099df02a2e37e8c10a5",
+    "wof:geom_alt":[
+        "qs_pg"
+    ],
+    "wof:geomhash":"59465917b1ea938a1705e3ed68e52acd",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1126087415,
-    "wof:lastmodified":1509411470,
+    "wof:lastmodified":1613158575,
     "wof:name":"Pejagalan",
     "wof:parent_id":102020439,
     "wof:placetype":"neighbourhood",
@@ -78,10 +84,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.7793,
-    -6.1395,
-    106.7793,
-    -6.1395
+    106.773422,
+    -6.14528,
+    106.800555,
+    -6.121527
 ],
-  "geometry": {"coordinates":[106.77930000000001,-6.1395],"type":"Point"}
+  "geometry": {"coordinates":[[[106.78345299999999,-6.126027],[106.78534000000001,-6.131602],[106.79222,-6.132339],[106.792957,-6.137745],[106.800555,-6.137016],[106.79998000000001,-6.142049],[106.79271,-6.142857],[106.790448,-6.142534],[106.786894,-6.143826],[106.77736299999999,-6.144473],[106.775425,-6.14528],[106.775425,-6.141403],[106.77600200000001,-6.137007],[106.776494,-6.133813],[106.776617,-6.12939],[106.774405,-6.125336],[106.773422,-6.121527],[106.776617,-6.12423],[106.78018,-6.125336],[106.781654,-6.125827],[106.78345299999999,-6.126027]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"106.8665,-6.251,106.8665,-6.251",
+    "geom:area":0.00016,
+    "geom:area_square_m":1970539.648454,
+    "geom:bbox":"106.857467,-6.258476,106.876717,-6.243224",
     "geom:latitude":-6.251,
-    "geom:longitude":106.8665,
+    "geom:longitude":106.867188,
     "gn:gn_country":"ID",
     "gn:gn_fcode":"PPL",
     "gn:gn_pop":0,
@@ -16,7 +16,7 @@
     "lbl:latitude":-6.251,
     "lbl:longitude":106.8665,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ind_x_preferred":[
         "Cawang"
@@ -44,7 +44,10 @@
     "qs_pg:qs_pg_placetype_gp":"Suburb",
     "qs_pg:woe_adm0":23424846,
     "qs_pg:woe_id":1031214,
-    "src:geom":"qs_pg",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
     "src:lbl:centroid":"qs_pg",
     "woe:adm0_id":23424846,
     "woe:name_adm0":"Indonesia",
@@ -53,8 +56,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        102020719,
         102073493,
+        102020719,
         85672001
     ],
     "wof:breaches":[],
@@ -65,7 +68,10 @@
     },
     "wof:country":"ID",
     "wof:created":1497313266,
-    "wof:geomhash":"8aa2fbeced2ad7baa9d5b6176dead17b",
+    "wof:geom_alt":[
+        "qs_pg"
+    ],
+    "wof:geomhash":"483404da0e62e1e8683f2495fb211be1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +83,7 @@
         }
     ],
     "wof:id":1126088817,
-    "wof:lastmodified":1509411537,
+    "wof:lastmodified":1613158519,
     "wof:name":"Cawang",
     "wof:parent_id":102020719,
     "wof:placetype":"neighbourhood",
@@ -87,10 +93,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.8665,
-    -6.251,
-    106.8665,
-    -6.251
+    106.857467,
+    -6.258476,
+    106.876717,
+    -6.243224
 ],
-  "geometry": {"coordinates":[106.8665,-6.251],"type":"Point"}
+  "geometry": {"coordinates":[[[106.876717,-6.247459],[106.876103,-6.249548],[106.872663,-6.252496],[106.872417,-6.255814],[106.87143399999999,-6.255936],[106.870943,-6.256674],[106.869714,-6.258271],[106.86824,-6.258271],[106.86787099999999,-6.256796],[106.866643,-6.256059],[106.86394,-6.256428],[106.86308,-6.258148],[106.860376,-6.258476],[106.86053699999999,-6.257699],[106.859487,-6.256407],[106.860618,-6.255518],[106.859729,-6.254387],[106.857467,-6.254872],[106.85754799999999,-6.25366],[106.859083,-6.251399],[106.860456,-6.251237],[106.861344,-6.253741],[106.862556,-6.253256],[106.862233,-6.250349],[106.864172,-6.249864],[106.861829,-6.246471],[106.86223099999999,-6.243224],[106.868977,-6.244879],[106.873769,-6.246353],[106.876717,-6.247459]]],"type":"Polygon"}
 }

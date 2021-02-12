@@ -4,18 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"106.90306,-6.21222,106.90306,-6.21222",
-    "geom:latitude":-6.21222,
-    "geom:longitude":106.90306,
+    "geom:area":0.000237,
+    "geom:area_square_m":2908921.930189,
+    "geom:bbox":"106.893766,-6.224853,106.924664,-6.213181",
+    "geom:latitude":-6.218812,
+    "geom:longitude":106.907586,
     "gn:country":"ID",
     "gn:fcode":"PPL",
     "gn:pop":0,
     "gp:adm0":23424846,
     "iso:country":"ID",
+    "lbl:latitude":-6.218948,
+    "lbl:longitude":106.902657,
+    "mps:latitude":-6.218948,
+    "mps:longitude":106.902657,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "qs:name":"Klender",
     "qs:name_adm0":"Indonesia",
     "qs:name_adm1":"Jakarta Raya",
@@ -23,13 +27,18 @@
     "qs:photos_sr":0,
     "qs:placetype":"Suburb",
     "qs:pop_sr":"0",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "unknown"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85672001,
         102191569,
         85632203,
+        102073493,
         102020431,
-        102073493
+        85672001
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,7 +48,10 @@
     },
     "wof:country":"ID",
     "wof:created":1469054988,
-    "wof:geomhash":"3c0b7deddeee3c8e16fd8f7eca821c33",
+    "wof:geom_alt":[
+        "unknown"
+    ],
+    "wof:geomhash":"e75c954dda3447b49b689e7af247ff18",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":890494539,
-    "wof:lastmodified":1505343810,
+    "wof:lastmodified":1613158525,
     "wof:name":"Klender",
     "wof:parent_id":102020431,
     "wof:placetype":"neighbourhood",
@@ -62,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.90306,
-    -6.21222,
-    106.90306,
-    -6.21222
+    106.893766,
+    -6.224853,
+    106.924664,
+    -6.213181
 ],
-  "geometry": {"coordinates":[106.90306,-6.21222],"type":"Point"}
+  "geometry": {"coordinates":[[[106.92392599999999,-6.220101],[106.920855,-6.22043],[106.919381,-6.220553],[106.91741500000001,-6.220921],[106.914958,-6.222273],[106.91385200000001,-6.223133],[106.912869,-6.224116],[106.91164000000001,-6.224853],[106.910658,-6.22473],[106.910043,-6.224484],[106.909183,-6.223747],[106.907095,-6.222518],[106.905252,-6.223256],[106.90242600000001,-6.224361],[106.899477,-6.224607],[106.898371,-6.223256],[106.893766,-6.223256],[106.893795,-6.223133],[106.894041,-6.22215],[106.894655,-6.221535],[106.895884,-6.220184],[106.89563800000001,-6.21871],[106.895146,-6.217604],[106.896006,-6.216867],[106.89563800000001,-6.213181],[106.90107399999999,-6.213427],[106.92466400000001,-6.216375],[106.92392599999999,-6.218587],[106.92392599999999,-6.220101]]],"type":"Polygon"}
 }

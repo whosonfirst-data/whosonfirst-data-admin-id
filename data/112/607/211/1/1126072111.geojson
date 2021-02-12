@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"106.9257,-6.1484,106.9257,-6.1484",
-    "geom:latitude":-6.1484,
-    "geom:longitude":106.9257,
+    "geom:area":0.000474,
+    "geom:area_square_m":5821580.916949,
+    "geom:bbox":"106.915326,-6.162162,106.940283,-6.1367",
+    "geom:latitude":-6.14807,
+    "geom:longitude":106.92779,
     "gn:gn_country":"ID",
     "gn:gn_fcode":"PPL",
     "gn:gn_pop":0,
@@ -16,7 +16,7 @@
     "lbl:latitude":-6.1484,
     "lbl:longitude":106.9257,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ind_x_preferred":[
         "Sukapura"
@@ -44,7 +44,10 @@
     "qs_pg:qs_pg_placetype_gp":"Suburb",
     "qs_pg:woe_adm0":23424846,
     "qs_pg:woe_id":1043910,
-    "src:geom":"qs_pg",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
     "src:lbl:centroid":"qs_pg",
     "woe:adm0_id":23424846,
     "woe:name_adm0":"Indonesia",
@@ -53,8 +56,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        102018957,
         102073125,
+        102018957,
         85672001
     ],
     "wof:breaches":[],
@@ -65,7 +68,10 @@
     },
     "wof:country":"ID",
     "wof:created":1497310139,
-    "wof:geomhash":"71e0ac9a11fedd0eaab8466015f2c391",
+    "wof:geom_alt":[
+        "qs_pg"
+    ],
+    "wof:geomhash":"69d6c7f766058f1790207056e61a641c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +83,7 @@
         }
     ],
     "wof:id":1126072111,
-    "wof:lastmodified":1509410729,
+    "wof:lastmodified":1613158583,
     "wof:name":"Sukapura",
     "wof:parent_id":102018957,
     "wof:placetype":"neighbourhood",
@@ -87,10 +93,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.9257,
-    -6.1484,
-    106.9257,
-    -6.1484
+    106.915326,
+    -6.162162,
+    106.940283,
+    -6.1367
 ],
-  "geometry": {"coordinates":[106.92570000000001,-6.1484],"type":"Point"}
+  "geometry": {"coordinates":[[[106.917231,-6.137683],[106.924418,-6.1367],[106.932772,-6.137437],[106.935598,-6.137192],[106.938793,-6.141738],[106.940144,-6.148986],[106.94028299999999,-6.151661],[106.939313,-6.151985],[106.934952,-6.158608],[106.933498,-6.158123],[106.933498,-6.159254],[106.931236,-6.159254],[106.931397,-6.160385],[106.92542,-6.16087],[106.922028,-6.162162],[106.921531,-6.160597],[106.921408,-6.158754],[106.920179,-6.156542],[106.918459,-6.153594],[106.917722,-6.151136],[106.91747599999999,-6.149908],[106.916923,-6.148188],[106.916248,-6.147266],[106.91532599999999,-6.146099],[106.915511,-6.144256],[106.915818,-6.14229],[106.916678,-6.139587],[106.917231,-6.137683]]],"type":"Polygon"}
 }

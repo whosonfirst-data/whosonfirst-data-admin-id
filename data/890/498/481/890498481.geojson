@@ -4,18 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"106.7938,-6.2096,106.7938,-6.2096",
-    "geom:latitude":-6.2096,
-    "geom:longitude":106.7938,
+    "geom:area":0.000279,
+    "geom:area_square_m":3428987.250565,
+    "geom:bbox":"106.791799,-6.229509,106.812313,-6.201323",
+    "geom:latitude":-6.216187,
+    "geom:longitude":106.80143,
     "gn:country":"ID",
     "gn:fcode":"PPL",
     "gn:pop":0,
     "gp:adm0":23424846,
     "iso:country":"ID",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "name:ind_x_preferred":[
         "Gelora"
     ],
@@ -30,13 +30,17 @@
     "qs:photos_sr":1,
     "qs:placetype":"Suburb",
     "qs:pop_sr":"0",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "unknown"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
-        85672001,
         102191569,
         85632203,
+        102073177,
         102021905,
-        102073177
+        85672001
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,7 +50,10 @@
     },
     "wof:country":"ID",
     "wof:created":1469055177,
-    "wof:geomhash":"2822b30d474d959b72999a256979d117",
+    "wof:geom_alt":[
+        "unknown"
+    ],
+    "wof:geomhash":"f0c0de8e18466311a5c07ea9bc57591d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":890498481,
-    "wof:lastmodified":1505343833,
+    "wof:lastmodified":1613158534,
     "wof:name":"Gelora",
     "wof:parent_id":102021905,
     "wof:placetype":"neighbourhood",
@@ -69,10 +76,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.7938,
-    -6.2096,
-    106.7938,
-    -6.2096
+    106.791799,
+    -6.229509,
+    106.812313,
+    -6.201323
 ],
-  "geometry": {"coordinates":[106.7938,-6.2096],"type":"Point"}
+  "geometry": {"coordinates":[[[106.799413,-6.201323],[106.812313,-6.219315],[106.799553,-6.229105],[106.79818,-6.228863],[106.797534,-6.229509],[106.795918,-6.229348],[106.795514,-6.22854],[106.796322,-6.22644],[106.79599899999999,-6.222643],[106.79672600000001,-6.218524],[106.79608,-6.216585],[106.79624099999999,-6.215535],[106.795434,-6.213839],[106.795918,-6.212466],[106.79349499999999,-6.21182],[106.793576,-6.21085],[106.791799,-6.208831],[106.792379,-6.207648],[106.79279099999999,-6.207556],[106.796183,-6.207637],[106.797072,-6.204406],[106.799413,-6.201323]]],"type":"Polygon"}
 }
