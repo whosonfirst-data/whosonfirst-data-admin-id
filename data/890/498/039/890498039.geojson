@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-02-12",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -12,7 +13,7 @@
     "gp:adm0":23424846,
     "iso:country":"ID",
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "name:ace_x_preferred":[
         "Makassar"
     ],
@@ -205,11 +206,11 @@
     "wd:longitude":"119.431111111",
     "wd:wordcount":2525,
     "wof:belongsto":[
-        85672001,
         102191569,
         85632203,
+        102073177,
         102021905,
-        102073177
+        85672001
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -231,7 +232,7 @@
         }
     ],
     "wof:id":890498039,
-    "wof:lastmodified":1564197035,
+    "wof:lastmodified":1613151696,
     "wof:name":"Makasar",
     "wof:parent_id":102021905,
     "wof:placetype":"neighbourhood",

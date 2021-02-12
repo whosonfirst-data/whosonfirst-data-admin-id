@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-02-12",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "gp:adm0":23424846,
     "iso:country":"ID",
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "name:ace_x_preferred":[
         "Meulaka"
     ],
@@ -209,11 +210,11 @@
     "src:population":"geonames",
     "wd:wordcount":7061,
     "wof:belongsto":[
-        85672001,
         102191569,
         85632203,
+        102073493,
         102020431,
-        102073493
+        85672001
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -236,7 +237,7 @@
         }
     ],
     "wof:id":890499859,
-    "wof:lastmodified":1564196959,
+    "wof:lastmodified":1613151694,
     "wof:name":"Melaka",
     "wof:parent_id":102020431,
     "wof:placetype":"neighbourhood",

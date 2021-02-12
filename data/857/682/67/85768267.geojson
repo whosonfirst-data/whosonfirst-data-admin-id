@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-02-12",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":14059407.893806,
@@ -17,7 +18,7 @@
     "mps:latitude":-7.779664,
     "mps:longitude":110.394122,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -64,11 +65,11 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
-        85672093,
         102191569,
         85632203,
+        102073265,
         102018575,
-        102073265
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -97,7 +98,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582353983,
+    "wof:lastmodified":1613151692,
     "wof:name":"Djetis",
     "wof:parent_id":102018575,
     "wof:placetype":"neighbourhood",

@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-02-12",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "gp:adm0":23424846,
     "iso:country":"ID",
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "name:deu_x_preferred":[
         "Semper"
     ],
@@ -41,11 +42,11 @@
     "src:population":"geonames",
     "wd:wordcount":174,
     "wof:belongsto":[
-        85672001,
         102191569,
         85632203,
+        102073125,
         102020429,
-        102073125
+        85672001
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -68,7 +69,7 @@
         }
     ],
     "wof:id":890499341,
-    "wof:lastmodified":1564196973,
+    "wof:lastmodified":1613151695,
     "wof:name":"Semper",
     "wof:parent_id":102020429,
     "wof:placetype":"neighbourhood",
