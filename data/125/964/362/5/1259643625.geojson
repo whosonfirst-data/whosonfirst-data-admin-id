@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        1108796793
+        1108796793,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1965241
     },
     "wof:country":"ID",
-    "wof:geomhash":"cb25967f0a80ad3629644478a10aa7b5",
+    "wof:geomhash":"95f04fe0cf3060e5234713847c7ad4cc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,7 +54,14 @@
         }
     ],
     "wof:id":1259643625,
-    "wof:lastmodified":1537627801,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613184462,
     "wof:name":"Cikubang Girang",
     "wof:parent_id":1108796793,
     "wof:placetype":"locality",
@@ -64,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.46193999999998,
+    107.46194,
     -6.75528,
-    107.46193999999998,
+    107.46194,
     -6.75528
 ],
-  "geometry": {"coordinates":[107.46193999999998,-6.75528],"type":"Point"}
+  "geometry": {"coordinates":[107.46194,-6.75528],"type":"Point"}
 }

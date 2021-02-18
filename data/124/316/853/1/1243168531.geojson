@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072947
+        102072947,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6255970
     },
     "wof:country":"ID",
-    "wof:geomhash":"110e54c72ac9ca018a3c9a585367774a",
+    "wof:geomhash":"7a1ad7aecb707b5c1e052305dca49453",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1243168531,
-    "wof:lastmodified":1536709576,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613184125,
     "wof:name":"Jenggotan",
     "wof:parent_id":102072947,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.79361000000002,
+    110.79361,
     -7.83222,
-    110.79361000000002,
+    110.79361,
     -7.83222
 ],
-  "geometry": {"coordinates":[110.79361000000002,-7.83222],"type":"Point"}
+  "geometry": {"coordinates":[110.79361,-7.83222],"type":"Point"}
 }

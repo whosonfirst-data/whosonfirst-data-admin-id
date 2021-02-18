@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072937
+        102072937,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6601541
     },
     "wof:country":"ID",
-    "wof:geomhash":"c973331cbfa9d0c30bf4cda9b8e84f83",
+    "wof:geomhash":"8a04ad26ba193ca2ae1cbc558898c52a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1225805559,
-    "wof:lastmodified":1537629988,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185885,
     "wof:name":"Kalensinem",
     "wof:parent_id":102072937,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.51888999999998,
+    107.51889,
     -6.37917,
-    107.51888999999998,
+    107.51889,
     -6.37917
 ],
-  "geometry": {"coordinates":[107.51888999999998,-6.37917],"type":"Point"}
+  "geometry": {"coordinates":[107.51889,-6.37917],"type":"Point"}
 }

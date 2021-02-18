@@ -34,7 +34,7 @@
         "gn:id":6199356
     },
     "wof:country":"ID",
-    "wof:geomhash":"981ed5f97f6603784265ed9b49ffff4b",
+    "wof:geomhash":"e598ce1d01425d545c6703b33950e586",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209305561,
-    "wof:lastmodified":1536291208,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178470,
     "wof:name":"Badong",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     110.24444,
-    -7.411110000000001,
+    -7.41111,
     110.24444,
-    -7.411110000000001
+    -7.41111
 ],
   "geometry": {"coordinates":[110.24444,-7.41111],"type":"Point"}
 }

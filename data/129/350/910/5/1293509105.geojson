@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102073325
+        102073325,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6865461
     },
     "wof:country":"ID",
-    "wof:geomhash":"6a8c72ba49b6d2949b29b638b3fefb76",
+    "wof:geomhash":"407dbda5132c3346f53fed59c04ec503",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1293509105,
-    "wof:lastmodified":1537632437,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613176138,
     "wof:name":"Tanggungan",
     "wof:parent_id":102073325,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.95763999999998,
+    111.95764,
     -7.13007,
-    111.95763999999998,
+    111.95764,
     -7.13007
 ],
-  "geometry": {"coordinates":[111.95763999999998,-7.13007],"type":"Point"}
+  "geometry": {"coordinates":[111.95764,-7.13007],"type":"Point"}
 }

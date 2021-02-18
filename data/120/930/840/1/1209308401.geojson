@@ -34,7 +34,7 @@
         "gn:id":2010631
     },
     "wof:country":"ID",
-    "wof:geomhash":"67d89a195133195e246952a9c3f7c8b8",
+    "wof:geomhash":"e4c55f700802ff45a191bc3f470cfc12",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209308401,
-    "wof:lastmodified":1536291113,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178488,
     "wof:name":"Jomboran",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     110.6775,
-    -7.523060000000001,
+    -7.52306,
     110.6775,
-    -7.523060000000001
+    -7.52306
 ],
   "geometry": {"coordinates":[110.67749999999999,-7.52306],"type":"Point"}
 }

@@ -39,7 +39,7 @@
         "gn:id":1973532
     },
     "wof:country":"ID",
-    "wof:geomhash":"808e5127306a08889d11c37fd5bba48f",
+    "wof:geomhash":"c88a810f47f6e5b74c76f00970b8bd1f",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -47,7 +47,14 @@
         }
     ],
     "wof:id":1209205757,
-    "wof:lastmodified":1537628127,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179291,
     "wof:name":"Jatitekan",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -57,10 +64,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.55306000000002,
+    110.55306,
     -7.39861,
-    110.55306000000002,
+    110.55306,
     -7.39861
 ],
-  "geometry": {"coordinates":[110.55306000000002,-7.39861],"type":"Point"}
+  "geometry": {"coordinates":[110.55306,-7.39861],"type":"Point"}
 }

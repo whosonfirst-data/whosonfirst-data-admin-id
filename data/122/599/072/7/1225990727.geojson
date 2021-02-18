@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072937
+        102072937,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6599830
     },
     "wof:country":"ID",
-    "wof:geomhash":"1f53336ccd3939cd073234b2d386165c",
+    "wof:geomhash":"f0a7f53f2ec34ca39c98285ab6e05844",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1225990727,
-    "wof:lastmodified":1537629975,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185912,
     "wof:name":"Bambuiken",
     "wof:parent_id":102072937,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.55861000000002,
+    107.55861,
     -6.35722,
-    107.55861000000002,
+    107.55861,
     -6.35722
 ],
-  "geometry": {"coordinates":[107.55861000000002,-6.35722],"type":"Point"}
+  "geometry": {"coordinates":[107.55861,-6.35722],"type":"Point"}
 }

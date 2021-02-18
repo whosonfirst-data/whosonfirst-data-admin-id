@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073187
+        102073187,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6261415
     },
     "wof:country":"ID",
-    "wof:geomhash":"101dc52ec4c1e7e0cf1a59b678ca66ca",
+    "wof:geomhash":"931127ffaea21487cd9564cb3b820e4b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1293880123,
-    "wof:lastmodified":1536718603,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613176905,
     "wof:name":"Brusah",
     "wof:parent_id":102073187,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.11388999999998,
+    110.11389,
     -7.62806,
-    110.11388999999998,
+    110.11389,
     -7.62806
 ],
-  "geometry": {"coordinates":[110.11388999999998,-7.62806],"type":"Point"}
+  "geometry": {"coordinates":[110.11389,-7.62806],"type":"Point"}
 }

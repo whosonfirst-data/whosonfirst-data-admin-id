@@ -34,7 +34,7 @@
         "gn:id":2010720
     },
     "wof:country":"ID",
-    "wof:geomhash":"4124eb58b1e742379dbfa66772cf2143",
+    "wof:geomhash":"ebde19e674ebb7d153632094ed5b87fc",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209606357,
-    "wof:lastmodified":1536281999,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179109,
     "wof:name":"Mangli",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     110.65167,
-    -7.532780000000002,
+    -7.53278,
     110.65167,
-    -7.532780000000002
+    -7.53278
 ],
   "geometry": {"coordinates":[110.65167,-7.53278],"type":"Point"}
 }

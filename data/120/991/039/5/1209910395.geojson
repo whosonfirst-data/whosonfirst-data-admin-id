@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073187
+        102073187,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6567110
     },
     "wof:country":"ID",
-    "wof:geomhash":"2121e240b761a2f01d127f2ce3d2a695",
+    "wof:geomhash":"72c994ab9ac01017035fe9aea160f3bb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1209910395,
-    "wof:lastmodified":1537629312,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178385,
     "wof:name":"Kwarasan",
     "wof:parent_id":102073187,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.89388999999998,
+    109.89389,
     -7.61278,
-    109.89388999999998,
+    109.89389,
     -7.61278
 ],
-  "geometry": {"coordinates":[109.89388999999998,-7.61278],"type":"Point"}
+  "geometry": {"coordinates":[109.89389,-7.61278],"type":"Point"}
 }

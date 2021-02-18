@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671995,
-        102072687
+        102072687,
+        85671995
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1990664
     },
     "wof:country":"ID",
-    "wof:geomhash":"ca179c62bea7788ca3df8fce463383e1",
+    "wof:geomhash":"f677ce75b05eca27abd1cbc156971223",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1310055547,
-    "wof:lastmodified":1537065798,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181601,
     "wof:name":"Kisati",
     "wof:parent_id":102072687,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.51111000000002,
+    106.51111,
     -6.07139,
-    106.51111000000002,
+    106.51111,
     -6.07139
 ],
-  "geometry": {"coordinates":[106.51111000000002,-6.07139],"type":"Point"}
+  "geometry": {"coordinates":[106.51111,-6.07139],"type":"Point"}
 }

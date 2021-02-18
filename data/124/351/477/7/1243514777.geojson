@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073193
+        102073193,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6404222
     },
     "wof:country":"ID",
-    "wof:geomhash":"47231c7a0f88b4a9c79a4ed9e393b236",
+    "wof:geomhash":"ca749f439b8571bd0acf7636f6677164",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1243514777,
-    "wof:lastmodified":1537628888,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183661,
     "wof:name":"Tegalrasak",
     "wof:parent_id":102073193,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.47556000000002,
+    108.47556,
     -6.48611,
-    108.47556000000002,
+    108.47556,
     -6.48611
 ],
-  "geometry": {"coordinates":[108.47556000000002,-6.48611],"type":"Point"}
+  "geometry": {"coordinates":[108.47556,-6.48611],"type":"Point"}
 }

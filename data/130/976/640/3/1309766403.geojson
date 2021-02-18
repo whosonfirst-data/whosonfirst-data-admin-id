@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073449
+        102073449,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1962534
     },
     "wof:country":"ID",
-    "wof:geomhash":"9ca42364c7202c35b4080cae6154ae86",
+    "wof:geomhash":"148b6c76d67d4a982cfabf482a913e1b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1309766403,
-    "wof:lastmodified":1536987230,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613182367,
     "wof:name":"Krobokon",
     "wof:parent_id":102073449,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.61388999999998,
+    107.61389,
     -6.9,
-    107.61388999999998,
+    107.61389,
     -6.9
 ],
-  "geometry": {"coordinates":[107.61388999999998,-6.9],"type":"Point"}
+  "geometry": {"coordinates":[107.61389,-6.9],"type":"Point"}
 }

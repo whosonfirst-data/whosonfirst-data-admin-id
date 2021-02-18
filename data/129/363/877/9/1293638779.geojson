@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073217
+        102073217,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1987870
     },
     "wof:country":"ID",
-    "wof:geomhash":"4f2dd588dcbb565879437a175d408d4c",
+    "wof:geomhash":"eb5092d65de6f3069a8b39398273087b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1293638779,
-    "wof:lastmodified":1537063490,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175569,
     "wof:name":"Blokmasjid",
     "wof:parent_id":102073217,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.72556000000002,
+    106.72556,
     -6.48556,
-    106.72556000000002,
+    106.72556,
     -6.48556
 ],
-  "geometry": {"coordinates":[106.72556000000002,-6.48556],"type":"Point"}
+  "geometry": {"coordinates":[106.72556,-6.48556],"type":"Point"}
 }

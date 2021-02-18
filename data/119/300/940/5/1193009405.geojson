@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072983
+        102072983,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2009387
     },
     "wof:country":"ID",
-    "wof:geomhash":"fb39eb413d876bb9600eae6e384bd383",
+    "wof:geomhash":"60db87cf4410d985b59e9e9ed4b6e712",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1193009405,
-    "wof:lastmodified":1536363667,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179736,
     "wof:name":"Sriyatno",
     "wof:parent_id":102072983,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.60056000000002,
+    110.60056,
     -7.52194,
-    110.60056000000002,
+    110.60056,
     -7.52194
 ],
-  "geometry": {"coordinates":[110.60056000000002,-7.52194],"type":"Point"}
+  "geometry": {"coordinates":[110.60056,-7.52194],"type":"Point"}
 }

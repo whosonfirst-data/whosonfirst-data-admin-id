@@ -50,15 +50,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073505
+        102073505,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6401168
     },
     "wof:country":"ID",
-    "wof:geomhash":"1a665d89ba680ef2957899293020a065",
+    "wof:geomhash":"202e842496993b928ab2af94ead8ebb4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -69,7 +69,14 @@
         }
     ],
     "wof:id":1276276749,
-    "wof:lastmodified":1564180978,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177306,
     "wof:name":"Pesantren",
     "wof:parent_id":102073505,
     "wof:placetype":"locality",
@@ -79,10 +86,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.49056000000002,
+    108.49056,
     -6.75472,
-    108.49056000000002,
+    108.49056,
     -6.75472
 ],
-  "geometry": {"coordinates":[108.49056000000002,-6.75472],"type":"Point"}
+  "geometry": {"coordinates":[108.49056,-6.75472],"type":"Point"}
 }

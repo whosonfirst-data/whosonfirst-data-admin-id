@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073469
+        102073469,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2009625
     },
     "wof:country":"ID",
-    "wof:geomhash":"80c895f8a032d9c34a335a8d5d35ec16",
+    "wof:geomhash":"ed605f711de2f80d3d38aa2b721e73ef",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1226337301,
-    "wof:lastmodified":1536801675,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185550,
     "wof:name":"Dabag Dua",
     "wof:parent_id":102073469,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.10193999999998,
+    110.10194,
     -7.905,
-    110.10193999999998,
+    110.10194,
     -7.905
 ],
-  "geometry": {"coordinates":[110.10193999999998,-7.905],"type":"Point"}
+  "geometry": {"coordinates":[110.10194,-7.905],"type":"Point"}
 }

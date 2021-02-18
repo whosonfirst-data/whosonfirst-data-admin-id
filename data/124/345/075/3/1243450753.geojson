@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073153
+        102073153,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6373148
     },
     "wof:country":"ID",
-    "wof:geomhash":"64c1b03188c2bfc0f5f35c960d10abf0",
+    "wof:geomhash":"367269ff1b36ef3baa79a531b1a58394",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1243450753,
-    "wof:lastmodified":1537628388,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613184150,
     "wof:name":"Sayangan",
     "wof:parent_id":102073153,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.71193999999998,
+    109.71194,
     -7.38917,
-    109.71193999999998,
+    109.71194,
     -7.38917
 ],
-  "geometry": {"coordinates":[109.71193999999998,-7.38917],"type":"Point"}
+  "geometry": {"coordinates":[109.71194,-7.38917],"type":"Point"}
 }

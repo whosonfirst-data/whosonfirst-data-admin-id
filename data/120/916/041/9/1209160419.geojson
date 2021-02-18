@@ -34,7 +34,7 @@
         "gn:id":1986318
     },
     "wof:country":"ID",
-    "wof:geomhash":"1e8d60de63c977801458831ad702bce0",
+    "wof:geomhash":"432e0722b03640a832fe482ee5c65f11",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209160419,
-    "wof:lastmodified":1536295917,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179244,
     "wof:name":"Sukaratu",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -52,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.61556000000002,
-    -7.2111100000000015,
-    107.61556000000002,
-    -7.2111100000000015
+    107.61556,
+    -7.21111,
+    107.61556,
+    -7.21111
 ],
-  "geometry": {"coordinates":[107.61556000000002,-7.21111],"type":"Point"}
+  "geometry": {"coordinates":[107.61556,-7.21111],"type":"Point"}
 }

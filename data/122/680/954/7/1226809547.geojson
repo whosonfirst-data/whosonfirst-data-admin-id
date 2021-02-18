@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073217
+        102073217,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1987965
     },
     "wof:country":"ID",
-    "wof:geomhash":"be3d949265bf25b357990254f6cfe727",
+    "wof:geomhash":"4c5ee8fb3666afb1bf787a87b3179221",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1226809547,
-    "wof:lastmodified":1537628249,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185407,
     "wof:name":"Kalijati",
     "wof:parent_id":102073217,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.69138999999998,
+    106.69139,
     -6.50222,
-    106.69138999999998,
+    106.69139,
     -6.50222
 ],
-  "geometry": {"coordinates":[106.69138999999998,-6.50222],"type":"Point"}
+  "geometry": {"coordinates":[106.69139,-6.50222],"type":"Point"}
 }

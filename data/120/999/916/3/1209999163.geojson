@@ -38,15 +38,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672009,
-        1108796813
+        1108796813,
+        85672009
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8531429
     },
     "wof:country":"ID",
-    "wof:geomhash":"337f5e0206e9ecd350454fe0ef54e63a",
+    "wof:geomhash":"66caa69e4d041797fea1ff269593a527",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -57,7 +57,14 @@
         }
     ],
     "wof:id":1209999163,
-    "wof:lastmodified":1537636350,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178590,
     "wof:name":"Umbulan Tegalberak Satu",
     "wof:parent_id":1108796813,
     "wof:placetype":"locality",
@@ -67,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    105.17128999999998,
+    105.17129,
     -4.53501,
-    105.17128999999998,
+    105.17129,
     -4.53501
 ],
-  "geometry": {"coordinates":[105.17128999999998,-4.53501],"type":"Point"}
+  "geometry": {"coordinates":[105.17129,-4.53501],"type":"Point"}
 }

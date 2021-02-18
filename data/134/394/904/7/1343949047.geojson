@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073405
+        102073405,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2003905
     },
     "wof:country":"ID",
-    "wof:geomhash":"5b2e5bcee4230691364e1bbbc180c3d4",
+    "wof:geomhash":"31eb236644e6d7cb79a734c504779ecb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1343949047,
-    "wof:lastmodified":1537035000,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613174804,
     "wof:name":"Sorobojan",
     "wof:parent_id":102073405,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.72693999999998,
+    110.72694,
     -7.7725,
-    110.72693999999998,
+    110.72694,
     -7.7725
 ],
-  "geometry": {"coordinates":[110.72693999999998,-7.7725],"type":"Point"}
+  "geometry": {"coordinates":[110.72694,-7.7725],"type":"Point"}
 }

@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073529
+        102073529,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6579402
     },
     "wof:country":"ID",
-    "wof:geomhash":"b069229f090af51c3948cd4b4762efc6",
+    "wof:geomhash":"f04a437499a95df0fd17dc948c7a8258",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1209876685,
-    "wof:lastmodified":1537629425,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179343,
     "wof:name":"Golebag Satu",
     "wof:parent_id":102073529,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.16861000000002,
+    107.16861,
     -6.84028,
-    107.16861000000002,
+    107.16861,
     -6.84028
 ],
-  "geometry": {"coordinates":[107.16861000000002,-6.84028],"type":"Point"}
+  "geometry": {"coordinates":[107.16861,-6.84028],"type":"Point"}
 }

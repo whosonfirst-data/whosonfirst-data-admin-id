@@ -32,8 +32,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671977,
         102073415,
+        85671977,
         1108805993
     ],
     "wof:breaches":[],
@@ -41,7 +41,7 @@
         "gn:id":8613645
     },
     "wof:country":"ID",
-    "wof:geomhash":"06a13162b77499ce9cde57a202ef5f8a",
+    "wof:geomhash":"15b4e76e03d9aae8de2003c64aa48a53",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -59,7 +59,14 @@
         }
     ],
     "wof:id":1276794085,
-    "wof:lastmodified":1537636517,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177954,
     "wof:name":"Long Puna",
     "wof:parent_id":102073415,
     "wof:placetype":"locality",
@@ -69,10 +76,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    115.61341000000002,
+    115.61341,
     3.76304,
-    115.61341000000002,
+    115.61341,
     3.76304
 ],
-  "geometry": {"coordinates":[115.61341000000002,3.76304],"type":"Point"}
+  "geometry": {"coordinates":[115.61341,3.76304],"type":"Point"}
 }

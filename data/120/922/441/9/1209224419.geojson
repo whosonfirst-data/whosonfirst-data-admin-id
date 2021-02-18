@@ -34,7 +34,7 @@
         "gn:id":2008842
     },
     "wof:country":"ID",
-    "wof:geomhash":"8c64bdc59609e47b57d60e9de7b050d7",
+    "wof:geomhash":"c7fb1e46449cf5a3a2de07b2f0f6c293",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209224419,
-    "wof:lastmodified":1536293847,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178877,
     "wof:name":"Kragilan",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     110.745,
-    -7.7111100000000015,
+    -7.71111,
     110.745,
-    -7.7111100000000015
+    -7.71111
 ],
   "geometry": {"coordinates":[110.745,-7.71111],"type":"Point"}
 }

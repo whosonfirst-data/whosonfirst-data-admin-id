@@ -59,15 +59,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072949
+        102072949,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1962451
     },
     "wof:country":"ID",
-    "wof:geomhash":"cc0702b76f848f897fb4c5456e402a40",
+    "wof:geomhash":"e4fbaa7cf2f45490bedb7972d756d251",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +78,14 @@
         }
     ],
     "wof:id":1327493429,
-    "wof:lastmodified":1564169032,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613172783,
     "wof:name":"Cikupa",
     "wof:parent_id":102072949,
     "wof:placetype":"locality",
@@ -88,10 +95,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.51888999999998,
+    107.51889,
     -7.01889,
-    107.51888999999998,
+    107.51889,
     -7.01889
 ],
-  "geometry": {"coordinates":[107.51888999999998,-7.01889],"type":"Point"}
+  "geometry": {"coordinates":[107.51889,-7.01889],"type":"Point"}
 }

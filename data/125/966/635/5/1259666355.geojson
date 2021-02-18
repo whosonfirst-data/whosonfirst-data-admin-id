@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672009,
-        1108796809
+        1108796809,
+        85672009
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7667081
     },
     "wof:country":"ID",
-    "wof:geomhash":"273248cb815521de1debb11a50ae31a5",
+    "wof:geomhash":"15ca78137a0689cfc00e6cd9e8065c64",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1259666355,
-    "wof:lastmodified":1537634235,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613184807,
     "wof:name":"Fajarharapan",
     "wof:parent_id":1108796809,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    105.33256000000002,
+    105.33256,
     -5.32058,
-    105.33256000000002,
+    105.33256,
     -5.32058
 ],
-  "geometry": {"coordinates":[105.33256000000002,-5.32058],"type":"Point"}
+  "geometry": {"coordinates":[105.33256,-5.32058],"type":"Point"}
 }

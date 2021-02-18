@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073569
+        102073569,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6400809
     },
     "wof:country":"ID",
-    "wof:geomhash":"662e02234993dc40648b184c1aabf8a0",
+    "wof:geomhash":"e27c3bc4bd6acbee66af401657099ed2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1292950515,
-    "wof:lastmodified":1537628824,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175674,
     "wof:name":"Cicangkrung",
     "wof:parent_id":102073569,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.42638999999998,
+    108.42639,
     -6.98028,
-    108.42638999999998,
+    108.42639,
     -6.98028
 ],
-  "geometry": {"coordinates":[108.42638999999998,-6.98028],"type":"Point"}
+  "geometry": {"coordinates":[108.42639,-6.98028],"type":"Point"}
 }

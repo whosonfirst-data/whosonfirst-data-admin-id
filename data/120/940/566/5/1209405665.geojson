@@ -34,7 +34,7 @@
         "gn:id":6258717
     },
     "wof:country":"ID",
-    "wof:geomhash":"5f0056ae85a91ec5953004b60aebf706",
+    "wof:geomhash":"444c547e4137ca7acada13e63e12f60b",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209405665,
-    "wof:lastmodified":1536288004,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178754,
     "wof:name":"Nyulakan",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     110.36667,
-    -7.508610000000001,
+    -7.50861,
     110.36667,
-    -7.508610000000001
+    -7.50861
 ],
   "geometry": {"coordinates":[110.36667,-7.50861],"type":"Point"}
 }

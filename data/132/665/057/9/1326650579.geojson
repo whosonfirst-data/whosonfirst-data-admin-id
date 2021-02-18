@@ -98,15 +98,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073187
+        102073187,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6566767
     },
     "wof:country":"ID",
-    "wof:geomhash":"a8d9496d564f98792621b2dba3daf4b8",
+    "wof:geomhash":"9f1da581b25775e8a1ff2b2438a955a5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -117,7 +117,14 @@
         }
     ],
     "wof:id":1326650579,
-    "wof:lastmodified":1564170613,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613173365,
     "wof:name":"Pasuruan",
     "wof:parent_id":102073187,
     "wof:placetype":"locality",
@@ -127,10 +134,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.91861000000002,
+    109.91861,
     -7.52111,
-    109.91861000000002,
+    109.91861,
     -7.52111
 ],
-  "geometry": {"coordinates":[109.91861000000002,-7.52111],"type":"Point"}
+  "geometry": {"coordinates":[109.91861,-7.52111],"type":"Point"}
 }

@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073187
+        102073187,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6260639
     },
     "wof:country":"ID",
-    "wof:geomhash":"7598e11d712b18bbd2dc7a087befb34e",
+    "wof:geomhash":"94f9da56cde2cd1abb7f13a567175c11",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1343682355,
-    "wof:lastmodified":1536924220,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613174671,
     "wof:name":"Seketincup",
     "wof:parent_id":102073187,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.08693999999998,
+    110.08694,
     -7.61472,
-    110.08693999999998,
+    110.08694,
     -7.61472
 ],
-  "geometry": {"coordinates":[110.08693999999998,-7.61472],"type":"Point"}
+  "geometry": {"coordinates":[110.08694,-7.61472],"type":"Point"}
 }

@@ -34,7 +34,7 @@
         "gn:id":1991514
     },
     "wof:country":"ID",
-    "wof:geomhash":"7a308bc69d2a9d042825675369c2a91e",
+    "wof:geomhash":"3a64175f8cedde1578a9fc9258022a60",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209460877,
-    "wof:lastmodified":1536286384,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178693,
     "wof:name":"Kesiken",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     106.435,
-    -6.2194400000000005,
+    -6.21944,
     106.435,
-    -6.2194400000000005
+    -6.21944
 ],
   "geometry": {"coordinates":[106.435,-6.21944],"type":"Point"}
 }

@@ -34,7 +34,7 @@
         "gn:id":6260852
     },
     "wof:country":"ID",
-    "wof:geomhash":"b8fb85993c2527cf5439254ccbafc51b",
+    "wof:geomhash":"268411bbaccb46949735f62e6693f64c",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209211127,
-    "wof:lastmodified":1536294288,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179471,
     "wof:name":"Gedongan",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     110.21306,
-    -7.618060000000002,
+    -7.61806,
     110.21306,
-    -7.618060000000002
+    -7.61806
 ],
   "geometry": {"coordinates":[110.21306,-7.61806],"type":"Point"}
 }

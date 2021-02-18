@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672041,
-        102073441
+        102073441,
+        85672041
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6743441
     },
     "wof:country":"ID",
-    "wof:geomhash":"fe1dc62e93b79baa22f7dac30073243a",
+    "wof:geomhash":"94c86f323fc07ab732918d6292f7590f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1360135999,
-    "wof:lastmodified":1537631135,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181782,
     "wof:name":"Bontosaraung",
     "wof:parent_id":102073441,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    120.17513999999998,
+    120.17514,
     -5.56294,
-    120.17513999999998,
+    120.17514,
     -5.56294
 ],
-  "geometry": {"coordinates":[120.17513999999998,-5.56294],"type":"Point"}
+  "geometry": {"coordinates":[120.17514,-5.56294],"type":"Point"}
 }

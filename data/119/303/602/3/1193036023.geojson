@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073313
+        102073313,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2011942
     },
     "wof:country":"ID",
-    "wof:geomhash":"a6f25813a5ae051f35f9df7d3c39fe84",
+    "wof:geomhash":"358698ed48fd34a9e9b007f72bf53765",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1193036023,
-    "wof:lastmodified":1536380976,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179964,
     "wof:name":"Gunungmojo",
     "wof:parent_id":102073313,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.24056000000002,
+    110.24056,
     -7.81278,
-    110.24056000000002,
+    110.24056,
     -7.81278
 ],
-  "geometry": {"coordinates":[110.24056000000002,-7.81278],"type":"Point"}
+  "geometry": {"coordinates":[110.24056,-7.81278],"type":"Point"}
 }

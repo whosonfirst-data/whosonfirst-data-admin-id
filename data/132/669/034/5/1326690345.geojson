@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073515
+        102073515,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6401553
     },
     "wof:country":"ID",
-    "wof:geomhash":"805ae2fe93a75e7bb0272dec60337e1c",
+    "wof:geomhash":"0d0688c33f005b26b4c39206dcd0e2f3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1326690345,
-    "wof:lastmodified":1537628844,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613172482,
     "wof:name":"Babakanceneng",
     "wof:parent_id":102073515,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.23111000000002,
+    108.23111,
     -6.64194,
-    108.23111000000002,
+    108.23111,
     -6.64194
 ],
-  "geometry": {"coordinates":[108.23111000000002,-6.64194],"type":"Point"}
+  "geometry": {"coordinates":[108.23111,-6.64194],"type":"Point"}
 }

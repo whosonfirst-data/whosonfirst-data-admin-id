@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672103,
-        102072655
+        102072655,
+        85672103
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8458467
     },
     "wof:country":"ID",
-    "wof:geomhash":"9935c9f8278b31166ad78ea38fa71ef0",
+    "wof:geomhash":"20ab353236bcd561c8300b3917844c5c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1293366349,
-    "wof:lastmodified":1537636224,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175360,
     "wof:name":"Senawangbranglama",
     "wof:parent_id":102072655,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    117.21701000000002,
+    117.21701,
     -8.79444,
-    117.21701000000002,
+    117.21701,
     -8.79444
 ],
-  "geometry": {"coordinates":[117.21701000000002,-8.79444],"type":"Point"}
+  "geometry": {"coordinates":[117.21701,-8.79444],"type":"Point"}
 }

@@ -34,7 +34,7 @@
         "gn:id":1999250
     },
     "wof:country":"ID",
-    "wof:geomhash":"892f1f182929ceed21d8fca22f510865",
+    "wof:geomhash":"35a5e4ac9b20ac3292a5aa57f1c951ae",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209609167,
-    "wof:lastmodified":1536281905,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179128,
     "wof:name":"Karangturi",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     110.58833,
-    -7.793889999999998,
+    -7.79389,
     110.58833,
-    -7.793889999999998
+    -7.79389
 ],
   "geometry": {"coordinates":[110.58833,-7.79389],"type":"Point"}
 }

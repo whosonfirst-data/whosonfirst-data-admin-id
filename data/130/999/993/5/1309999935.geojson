@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072929
+        102072929,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6262996
     },
     "wof:country":"ID",
-    "wof:geomhash":"5e74e263e41332c59e78563ad8b66866",
+    "wof:geomhash":"eff1a7cc5fb0b5ee1caf104706023817",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1309999935,
-    "wof:lastmodified":1536651182,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613182200,
     "wof:name":"Kategan",
     "wof:parent_id":102072929,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.83693999999998,
+    110.83694,
     -7.38972,
-    110.83693999999998,
+    110.83694,
     -7.38972
 ],
-  "geometry": {"coordinates":[110.83693999999998,-7.38972],"type":"Point"}
+  "geometry": {"coordinates":[110.83694,-7.38972],"type":"Point"}
 }

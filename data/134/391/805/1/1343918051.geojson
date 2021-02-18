@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073569
+        102073569,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6400796
     },
     "wof:country":"ID",
-    "wof:geomhash":"d1bbb37372d689981716941efc1f8dbc",
+    "wof:geomhash":"ee754a0d1e5d2fd5a713183fb31cded0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1343918051,
-    "wof:lastmodified":1537628823,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613173846,
     "wof:name":"Pasapen",
     "wof:parent_id":102073569,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.47556000000002,
+    108.47556,
     -6.98222,
-    108.47556000000002,
+    108.47556,
     -6.98222
 ],
-  "geometry": {"coordinates":[108.47556000000002,-6.98222],"type":"Point"}
+  "geometry": {"coordinates":[108.47556,-6.98222],"type":"Point"}
 }

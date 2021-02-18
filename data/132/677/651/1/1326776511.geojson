@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073529
+        102073529,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6579232
     },
     "wof:country":"ID",
-    "wof:geomhash":"64e7ec2d79e35c2af98e9c2047a8ca88",
+    "wof:geomhash":"f42eb3d078b588ec55d62627528df913",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1326776511,
-    "wof:lastmodified":1537629418,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613173148,
     "wof:name":"Mukalaos",
     "wof:parent_id":102073529,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.14388999999998,
+    107.14389,
     -6.81222,
-    107.14388999999998,
+    107.14389,
     -6.81222
 ],
-  "geometry": {"coordinates":[107.14388999999998,-6.81222],"type":"Point"}
+  "geometry": {"coordinates":[107.14389,-6.81222],"type":"Point"}
 }

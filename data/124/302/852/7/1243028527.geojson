@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073193
+        102073193,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6403830
     },
     "wof:country":"ID",
-    "wof:geomhash":"d2918bd5ea56b81e8b10fd1b91671802",
+    "wof:geomhash":"5abaa1cce0a39e9460cfa18a2eeea2c8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,7 +54,14 @@
         }
     ],
     "wof:id":1243028527,
-    "wof:lastmodified":1564200288,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183769,
     "wof:name":"Jambe",
     "wof:parent_id":102073193,
     "wof:placetype":"locality",
@@ -64,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.30138999999998,
+    108.30139,
     -6.40528,
-    108.30138999999998,
+    108.30139,
     -6.40528
 ],
-  "geometry": {"coordinates":[108.30138999999998,-6.40528],"type":"Point"}
+  "geometry": {"coordinates":[108.30139,-6.40528],"type":"Point"}
 }

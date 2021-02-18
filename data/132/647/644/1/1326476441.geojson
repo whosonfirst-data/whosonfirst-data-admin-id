@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073217
+        102073217,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6605194
     },
     "wof:country":"ID",
-    "wof:geomhash":"bb1ffa01084a4bccb8abdbdce484b02e",
+    "wof:geomhash":"89789abbcfda7e880d9e8ff0783f7feb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1326476441,
-    "wof:lastmodified":1537630063,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613173060,
     "wof:name":"Cisasak",
     "wof:parent_id":102073217,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.64388999999998,
+    106.64389,
     -6.555,
-    106.64388999999998,
+    106.64389,
     -6.555
 ],
-  "geometry": {"coordinates":[106.64388999999998,-6.555],"type":"Point"}
+  "geometry": {"coordinates":[106.64389,-6.555],"type":"Point"}
 }

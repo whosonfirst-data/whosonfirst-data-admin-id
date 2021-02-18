@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072647
+        102072647,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6763170
     },
     "wof:country":"ID",
-    "wof:geomhash":"95268989635c342df7d795e59c71a2f4",
+    "wof:geomhash":"3124870f7cdf48e59ba9d614906ec3a1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1243354575,
-    "wof:lastmodified":1537631430,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183645,
     "wof:name":"Gembong Timur",
     "wof:parent_id":102072647,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.65151000000002,
+    109.65151,
     -6.96967,
-    109.65151000000002,
+    109.65151,
     -6.96967
 ],
-  "geometry": {"coordinates":[109.65151000000002,-6.96967],"type":"Point"}
+  "geometry": {"coordinates":[109.65151,-6.96967],"type":"Point"}
 }

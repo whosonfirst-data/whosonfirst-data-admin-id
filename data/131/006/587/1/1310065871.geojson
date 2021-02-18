@@ -34,15 +34,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072937
+        102072937,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1964328
     },
     "wof:country":"ID",
-    "wof:geomhash":"c589dfef27e9d9735849108dc730534b",
+    "wof:geomhash":"36018f5470661191425f4d90430316c6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +53,14 @@
         }
     ],
     "wof:id":1310065871,
-    "wof:lastmodified":1537627755,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181205,
     "wof:name":"Jati Satu",
     "wof:parent_id":102072937,
     "wof:placetype":"locality",
@@ -63,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.21056000000002,
+    107.21056,
     -6.085,
-    107.21056000000002,
+    107.21056,
     -6.085
 ],
-  "geometry": {"coordinates":[107.21056000000002,-6.085],"type":"Point"}
+  "geometry": {"coordinates":[107.21056,-6.085],"type":"Point"}
 }

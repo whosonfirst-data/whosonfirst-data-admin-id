@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073529
+        102073529,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6579076
     },
     "wof:country":"ID",
-    "wof:geomhash":"612dd8827c12da66cc3bef7b4fc57fba",
+    "wof:geomhash":"bbe9aaa03c24e27e6932233227191976",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1293061377,
-    "wof:lastmodified":1537629411,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175514,
     "wof:name":"Cikaramat",
     "wof:parent_id":102073529,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.20638999999998,
+    107.20639,
     -6.79694,
-    107.20638999999998,
+    107.20639,
     -6.79694
 ],
-  "geometry": {"coordinates":[107.20638999999998,-6.79694],"type":"Point"}
+  "geometry": {"coordinates":[107.20639,-6.79694],"type":"Point"}
 }

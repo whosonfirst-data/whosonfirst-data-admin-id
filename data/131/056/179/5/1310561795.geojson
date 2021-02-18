@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072739
+        102072739,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6584097
     },
     "wof:country":"ID",
-    "wof:geomhash":"d0f2a69dbe57a2b43f7454cb5f742197",
+    "wof:geomhash":"ee8297fd5ca402f1c2d06f65f1561352",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1310561795,
-    "wof:lastmodified":1537629546,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181637,
     "wof:name":"Banyumukti",
     "wof:parent_id":102072739,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.80138999999998,
+    107.80139,
     -6.91361,
-    107.80138999999998,
+    107.80139,
     -6.91361
 ],
-  "geometry": {"coordinates":[107.80138999999998,-6.91361],"type":"Point"}
+  "geometry": {"coordinates":[107.80139,-6.91361],"type":"Point"}
 }

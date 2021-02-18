@@ -34,7 +34,7 @@
         "gn:id":6260169
     },
     "wof:country":"ID",
-    "wof:geomhash":"8e9e2af9c2c539769ad96b0f3211d8c5",
+    "wof:geomhash":"fb58c590ecd5052f8cee3b4ff9f9fc27",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209205515,
-    "wof:lastmodified":1536294469,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179283,
     "wof:name":"Prapak Kulon",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     110.22056,
-    -7.7458300000000015,
+    -7.74583,
     110.22056,
-    -7.7458300000000015
+    -7.74583
 ],
   "geometry": {"coordinates":[110.22056000000001,-7.74583],"type":"Point"}
 }

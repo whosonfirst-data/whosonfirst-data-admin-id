@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072947
+        102072947,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6406553
     },
     "wof:country":"ID",
-    "wof:geomhash":"b849e0e1517f42446eb412da46150d4b",
+    "wof:geomhash":"77619e34cc10aab02cf21345c5a55ede",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1259674933,
-    "wof:lastmodified":1537628965,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613184887,
     "wof:name":"Segoroh",
     "wof:parent_id":102072947,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.02306000000002,
+    111.02306,
     -7.79556,
-    111.02306000000002,
+    111.02306,
     -7.79556
 ],
-  "geometry": {"coordinates":[111.02306000000002,-7.79556],"type":"Point"}
+  "geometry": {"coordinates":[111.02306,-7.79556],"type":"Point"}
 }

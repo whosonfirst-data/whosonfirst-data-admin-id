@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072937
+        102072937,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6606133
     },
     "wof:country":"ID",
-    "wof:geomhash":"06410dc540d7868df917e4a8e6ab85ec",
+    "wof:geomhash":"3e5522ca04faad41632abe021ab37413",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1276602625,
-    "wof:lastmodified":1537630098,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177430,
     "wof:name":"Sungaiterong",
     "wof:parent_id":102072937,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.19693999999998,
+    107.19694,
     -6.04861,
-    107.19693999999998,
+    107.19694,
     -6.04861
 ],
-  "geometry": {"coordinates":[107.19693999999998,-6.04861],"type":"Point"}
+  "geometry": {"coordinates":[107.19694,-6.04861],"type":"Point"}
 }

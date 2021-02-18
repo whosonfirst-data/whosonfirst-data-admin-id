@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073313
+        102073313,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2002514
     },
     "wof:country":"ID",
-    "wof:geomhash":"cc2c6b2d6cc961c831cbe5ff18edd3d1",
+    "wof:geomhash":"c75cc285aee5d007b14b0e7dfdf7fa6c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1310579787,
-    "wof:lastmodified":1536809418,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181560,
     "wof:name":"Benyo",
     "wof:parent_id":102073313,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.29361000000002,
+    110.29361,
     -7.89528,
-    110.29361000000002,
+    110.29361,
     -7.89528
 ],
-  "geometry": {"coordinates":[110.29361000000002,-7.89528],"type":"Point"}
+  "geometry": {"coordinates":[110.29361,-7.89528],"type":"Point"}
 }

@@ -53,15 +53,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073569
+        102073569,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6400756
     },
     "wof:country":"ID",
-    "wof:geomhash":"2bf67be5730068b22eef87ff5adf363f",
+    "wof:geomhash":"412af893eba76225d39e3a93956bcd3e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -72,7 +72,14 @@
         }
     ],
     "wof:id":1276613933,
-    "wof:lastmodified":1564181716,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177587,
     "wof:name":"Dano",
     "wof:parent_id":102073569,
     "wof:placetype":"locality",
@@ -82,10 +89,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.44693999999998,
+    108.44694,
     -6.96139,
-    108.44693999999998,
+    108.44694,
     -6.96139
 ],
-  "geometry": {"coordinates":[108.44693999999998,-6.96139],"type":"Point"}
+  "geometry": {"coordinates":[108.44694,-6.96139],"type":"Point"}
 }

@@ -44,15 +44,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072639
+        102072639,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6376564
     },
     "wof:country":"ID",
-    "wof:geomhash":"01ec8ddc1ac2a501b25bc57d3330cef9",
+    "wof:geomhash":"77ce15ed435965631dc6090a5b29b1a1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -63,7 +63,14 @@
         }
     ],
     "wof:id":1226163585,
-    "wof:lastmodified":1564205524,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185537,
     "wof:name":"Karangasem",
     "wof:parent_id":102072639,
     "wof:placetype":"locality",
@@ -73,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.66443999999998,
+    109.66444,
     -7.65472,
-    109.66443999999998,
+    109.66444,
     -7.65472
 ],
-  "geometry": {"coordinates":[109.66443999999998,-7.65472],"type":"Point"}
+  "geometry": {"coordinates":[109.66444,-7.65472],"type":"Point"}
 }

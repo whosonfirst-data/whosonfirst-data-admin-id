@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672019,
-        102072881
+        102072881,
+        85672019
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8529621
     },
     "wof:country":"ID",
-    "wof:geomhash":"c3dc4913e1081f71deaca4187c5a30ff",
+    "wof:geomhash":"42740da1fa013c591cb58849193c67c5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1226195781,
-    "wof:lastmodified":1537636328,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185379,
     "wof:name":"Gemburu",
     "wof:parent_id":102072881,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.25636000000002,
+    106.25636,
     -2.53078,
-    106.25636000000002,
+    106.25636,
     -2.53078
 ],
-  "geometry": {"coordinates":[106.25636000000002,-2.53078],"type":"Point"}
+  "geometry": {"coordinates":[106.25636,-2.53078],"type":"Point"}
 }

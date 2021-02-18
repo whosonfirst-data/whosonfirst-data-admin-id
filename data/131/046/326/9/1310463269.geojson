@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672097,
-        1108796839
+        1108796839,
+        85672097
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8043521
     },
     "wof:country":"ID",
-    "wof:geomhash":"de200300395adaa2189b69fbfab1452a",
+    "wof:geomhash":"6c7828151f2e001a6aa557059b3685af",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1310463269,
-    "wof:lastmodified":1537635107,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613180775,
     "wof:name":"Kataniaatas",
     "wof:parent_id":1108796839,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    128.12228000000002,
+    128.12228,
     -3.06453,
-    128.12228000000002,
+    128.12228,
     -3.06453
 ],
-  "geometry": {"coordinates":[128.12228000000002,-3.06453],"type":"Point"}
+  "geometry": {"coordinates":[128.12227999999999,-3.06453],"type":"Point"}
 }

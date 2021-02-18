@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073471
+        102073471,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6592854
     },
     "wof:country":"ID",
-    "wof:geomhash":"11329d58a062239d9d02f7d1a5d11edd",
+    "wof:geomhash":"f6267f833df14131d2c905220487c753",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1209865823,
-    "wof:lastmodified":1537629747,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179606,
     "wof:name":"Asabri",
     "wof:parent_id":102073471,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.42638999999998,
+    107.42639,
     -6.54472,
-    107.42638999999998,
+    107.42639,
     -6.54472
 ],
-  "geometry": {"coordinates":[107.42638999999998,-6.54472],"type":"Point"}
+  "geometry": {"coordinates":[107.42639,-6.54472],"type":"Point"}
 }

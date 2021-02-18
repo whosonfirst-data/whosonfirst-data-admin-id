@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073265
+        102073265,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1999975
     },
     "wof:country":"ID",
-    "wof:geomhash":"15cfa5cbd1ed9b1fb3910a9079d439fe",
+    "wof:geomhash":"aeea5d7ae1cefed91a933aeb3c0dba2d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1259571849,
-    "wof:lastmodified":1536731905,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613184778,
     "wof:name":"Pondok Kulon",
     "wof:parent_id":102073265,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.45638999999998,
+    110.45639,
     -7.79417,
-    110.45638999999998,
+    110.45639,
     -7.79417
 ],
-  "geometry": {"coordinates":[110.45638999999998,-7.79417],"type":"Point"}
+  "geometry": {"coordinates":[110.45639,-7.79417],"type":"Point"}
 }

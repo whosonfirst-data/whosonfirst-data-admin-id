@@ -62,15 +62,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072947
+        102072947,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6406966
     },
     "wof:country":"ID",
-    "wof:geomhash":"1eb43ef75df60d66870e09fc6dec13fe",
+    "wof:geomhash":"4420912a5699bca79131c8c80bb725d1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,7 +81,14 @@
         }
     ],
     "wof:id":1226136775,
-    "wof:lastmodified":1564206979,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613186008,
     "wof:name":"Miren",
     "wof:parent_id":102072947,
     "wof:placetype":"locality",
@@ -91,10 +98,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.14943999999998,
+    111.14944,
     -7.77167,
-    111.14943999999998,
+    111.14944,
     -7.77167
 ],
-  "geometry": {"coordinates":[111.14943999999998,-7.77167],"type":"Point"}
+  "geometry": {"coordinates":[111.14944,-7.77167],"type":"Point"}
 }

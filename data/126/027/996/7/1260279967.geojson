@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072639
+        102072639,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6373468
     },
     "wof:country":"ID",
-    "wof:geomhash":"d29d32bd54cc0a1392b6f7c7eee43584",
+    "wof:geomhash":"b7a6a1355003a8f262c8642051a54120",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1260279967,
-    "wof:lastmodified":1537628400,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613180439,
     "wof:name":"Dengkol",
     "wof:parent_id":102072639,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.74611000000002,
+    109.74611,
     -7.48806,
-    109.74611000000002,
+    109.74611,
     -7.48806
 ],
-  "geometry": {"coordinates":[109.74611000000002,-7.48806],"type":"Point"}
+  "geometry": {"coordinates":[109.74611,-7.48806],"type":"Point"}
 }

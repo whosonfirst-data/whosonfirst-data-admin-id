@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072739
+        102072739,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6568009
     },
     "wof:country":"ID",
-    "wof:geomhash":"f65c255795a6809d3d64fd445d9cd629",
+    "wof:geomhash":"7e2545f9ba75b6756cebed88b9f9189e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1293833657,
-    "wof:lastmodified":1537629337,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175726,
     "wof:name":"Salawiru",
     "wof:parent_id":102072739,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.85611000000002,
+    107.85611,
     -6.61583,
-    107.85611000000002,
+    107.85611,
     -6.61583
 ],
-  "geometry": {"coordinates":[107.85611000000002,-6.61583],"type":"Point"}
+  "geometry": {"coordinates":[107.85611,-6.61583],"type":"Point"}
 }

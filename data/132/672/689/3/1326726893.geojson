@@ -34,15 +34,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072765
+        102072765,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1973148
     },
     "wof:country":"ID",
-    "wof:geomhash":"6b7383ec151944bb28c35f6f5129c89b",
+    "wof:geomhash":"2a4282c2bd8a22fea78d20da181ee85e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +53,14 @@
         }
     ],
     "wof:id":1326726893,
-    "wof:lastmodified":1537628108,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613172267,
     "wof:name":"Ngaglik",
     "wof:parent_id":102072765,
     "wof:placetype":"locality",
@@ -63,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.51111000000002,
+    110.51111,
     -7.34333,
-    110.51111000000002,
+    110.51111,
     -7.34333
 ],
-  "geometry": {"coordinates":[110.51111000000002,-7.34333],"type":"Point"}
+  "geometry": {"coordinates":[110.51111,-7.34333],"type":"Point"}
 }

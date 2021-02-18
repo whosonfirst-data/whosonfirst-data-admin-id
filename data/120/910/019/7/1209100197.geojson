@@ -34,7 +34,7 @@
         "gn:id":6257454
     },
     "wof:country":"ID",
-    "wof:geomhash":"19819133cd93c35383d21228f0ab91fb",
+    "wof:geomhash":"f2851538241f0f8593497708067636ed",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209100197,
-    "wof:lastmodified":1536297758,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179521,
     "wof:name":"Kajor",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     110.43889,
-    -7.491110000000001,
+    -7.49111,
     110.43889,
-    -7.491110000000001
+    -7.49111
 ],
   "geometry": {"coordinates":[110.43889,-7.49111],"type":"Point"}
 }

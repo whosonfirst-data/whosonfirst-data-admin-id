@@ -41,15 +41,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072983
+        102072983,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2010607
     },
     "wof:country":"ID",
-    "wof:geomhash":"7f500acfe9b78a7e248b17babeb8d159",
+    "wof:geomhash":"b19883ee014e0bd39770216cba71ede2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -60,7 +60,14 @@
         }
     ],
     "wof:id":1293804383,
-    "wof:lastmodified":1564179312,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613176696,
     "wof:name":"Badran",
     "wof:parent_id":102072983,
     "wof:placetype":"locality",
@@ -70,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.64943999999998,
+    110.64944,
     -7.52139,
-    110.64943999999998,
+    110.64944,
     -7.52139
 ],
-  "geometry": {"coordinates":[110.64943999999998,-7.52139],"type":"Point"}
+  "geometry": {"coordinates":[110.64944,-7.52139],"type":"Point"}
 }

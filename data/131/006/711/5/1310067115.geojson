@@ -33,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672097,
-        1108796837
+        1108796837,
+        85672097
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1647953
     },
     "wof:country":"ID",
-    "wof:geomhash":"2a52306f23c711fe566f94a103d54021",
+    "wof:geomhash":"67af00a8eccc9a9c3e7aca1fdadb7b0d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,7 +52,14 @@
         }
     ],
     "wof:id":1310067115,
-    "wof:lastmodified":1537627276,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181217,
     "wof:name":"Buburat",
     "wof:parent_id":1108796837,
     "wof:placetype":"locality",
@@ -62,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    131.26743000000002,
+    131.26743,
     -7.59429,
-    131.26743000000002,
+    131.26743,
     -7.59429
 ],
-  "geometry": {"coordinates":[131.26743000000002,-7.59429],"type":"Point"}
+  "geometry": {"coordinates":[131.26742999999999,-7.59429],"type":"Point"}
 }

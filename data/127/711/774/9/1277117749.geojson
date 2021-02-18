@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671995,
-        102073479
+        102073479,
+        85671995
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1961370
     },
     "wof:country":"ID",
-    "wof:geomhash":"f3a054f9557d18e4c3a8248e3d063b5f",
+    "wof:geomhash":"5de83027633e360b6f0a6c58be2766bf",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,7 +54,14 @@
         }
     ],
     "wof:id":1277117749,
-    "wof:lastmodified":1537627606,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178254,
     "wof:name":"Langgen",
     "wof:parent_id":102073479,
     "wof:placetype":"locality",
@@ -64,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.30561000000002,
+    106.30561,
     -5.98322,
-    106.30561000000002,
+    106.30561,
     -5.98322
 ],
-  "geometry": {"coordinates":[106.30561000000002,-5.98322],"type":"Point"}
+  "geometry": {"coordinates":[106.30561,-5.98322],"type":"Point"}
 }

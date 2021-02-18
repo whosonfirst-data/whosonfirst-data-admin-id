@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073529
+        102073529,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6588557
     },
     "wof:country":"ID",
-    "wof:geomhash":"4ca5a4627a8cfcb269c6a40d4b56f442",
+    "wof:geomhash":"77512ab92fd576390b47c8c4abd60d9f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1209765269,
-    "wof:lastmodified":1537629615,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178860,
     "wof:name":"Rorogan",
     "wof:parent_id":102073529,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.16861000000002,
+    107.16861,
     -6.89694,
-    107.16861000000002,
+    107.16861,
     -6.89694
 ],
-  "geometry": {"coordinates":[107.16861000000002,-6.89694],"type":"Point"}
+  "geometry": {"coordinates":[107.16861,-6.89694],"type":"Point"}
 }

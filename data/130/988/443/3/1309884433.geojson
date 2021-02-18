@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073189
+        102073189,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6371103
     },
     "wof:country":"ID",
-    "wof:geomhash":"07f8e906986fddbe07d642dafcd919ca",
+    "wof:geomhash":"c62bd4dfc8e3a84094196c891abd8d0a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1309884433,
-    "wof:lastmodified":1537628332,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613182530,
     "wof:name":"Ngandeande",
     "wof:parent_id":102073189,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.69138999999998,
+    110.69139,
     -8.14972,
-    110.69138999999998,
+    110.69139,
     -8.14972
 ],
-  "geometry": {"coordinates":[110.69138999999998,-8.14972],"type":"Point"}
+  "geometry": {"coordinates":[110.69139,-8.14972],"type":"Point"}
 }

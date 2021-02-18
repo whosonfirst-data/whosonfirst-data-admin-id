@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073169
+        102073169,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6563464
     },
     "wof:country":"ID",
-    "wof:geomhash":"7722cbd9e1bd09cb3362643fca654242",
+    "wof:geomhash":"b1132c36a089dae8d762ae8a91fd791d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1310301143,
-    "wof:lastmodified":1537629210,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181136,
     "wof:name":"Gilangangunung",
     "wof:parent_id":102073169,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.01888999999998,
+    110.01889,
     -7.22306,
-    110.01888999999998,
+    110.01889,
     -7.22306
 ],
-  "geometry": {"coordinates":[110.01888999999998,-7.22306],"type":"Point"}
+  "geometry": {"coordinates":[110.01889,-7.22306],"type":"Point"}
 }

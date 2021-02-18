@@ -36,15 +36,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072739
+        102072739,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1646406
     },
     "wof:country":"ID",
-    "wof:geomhash":"a327d50e71b1be23cb1e6ccf730688e6",
+    "wof:geomhash":"55c6058612bdfd1e032eccf5712d592b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -55,7 +55,14 @@
         }
     ],
     "wof:id":1226292681,
-    "wof:lastmodified":1537627192,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185514,
     "wof:name":"Cimasuk Satu",
     "wof:parent_id":102072739,
     "wof:placetype":"locality",
@@ -65,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.83138999999998,
+    107.83139,
     -6.875,
-    107.83138999999998,
+    107.83139,
     -6.875
 ],
-  "geometry": {"coordinates":[107.83138999999998,-6.875],"type":"Point"}
+  "geometry": {"coordinates":[107.83139,-6.875],"type":"Point"}
 }

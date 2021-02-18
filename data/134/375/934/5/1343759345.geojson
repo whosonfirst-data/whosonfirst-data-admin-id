@@ -80,15 +80,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102072775
+        102072775,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6410169
     },
     "wof:country":"ID",
-    "wof:geomhash":"0b647b8a61d0eedb5ce6948e5e04a994",
+    "wof:geomhash":"0208ca3214c883ace93932c987310bd8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -99,7 +99,14 @@
         }
     ],
     "wof:id":1343759345,
-    "wof:lastmodified":1564175475,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175220,
     "wof:name":"Jagir",
     "wof:parent_id":102072775,
     "wof:placetype":"locality",
@@ -109,10 +116,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.18361000000002,
+    111.18361,
     -7.47194,
-    111.18361000000002,
+    111.18361,
     -7.47194
 ],
-  "geometry": {"coordinates":[111.18361000000002,-7.47194],"type":"Point"}
+  "geometry": {"coordinates":[111.18361,-7.47194],"type":"Point"}
 }

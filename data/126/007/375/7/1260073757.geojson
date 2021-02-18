@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073469
+        102073469,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2012276
     },
     "wof:country":"ID",
-    "wof:geomhash":"1643272137ad6f3c27721ebe7de8f3e6",
+    "wof:geomhash":"3cbf5fe7c452a16bdfcdf7d6f900a6b1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1260073757,
-    "wof:lastmodified":1537001314,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613180365,
     "wof:name":"Ngaseman",
     "wof:parent_id":102073469,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.10056000000002,
+    110.10056,
     -7.84083,
-    110.10056000000002,
+    110.10056,
     -7.84083
 ],
-  "geometry": {"coordinates":[110.10056000000002,-7.84083],"type":"Point"}
+  "geometry": {"coordinates":[110.10056,-7.84083],"type":"Point"}
 }

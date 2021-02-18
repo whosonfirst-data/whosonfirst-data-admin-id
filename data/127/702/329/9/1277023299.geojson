@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073505
+        102073505,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6396636
     },
     "wof:country":"ID",
-    "wof:geomhash":"c90b123f94df182e087b4b5e1002f162",
+    "wof:geomhash":"6d0285945496b1ff7a6ac8052449d848",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1277023299,
-    "wof:lastmodified":1537628757,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177729,
     "wof:name":"Blokkavling",
     "wof:parent_id":102073505,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.43361000000002,
+    108.43361,
     -6.63861,
-    108.43361000000002,
+    108.43361,
     -6.63861
 ],
-  "geometry": {"coordinates":[108.43361000000002,-6.63861],"type":"Point"}
+  "geometry": {"coordinates":[108.43361,-6.63861],"type":"Point"}
 }

@@ -34,7 +34,7 @@
         "gn:id":6266419
     },
     "wof:country":"ID",
-    "wof:geomhash":"945ca3fe4b39080663dfed83d415d2fb",
+    "wof:geomhash":"55bf1facc27585784d7cc7834aa21b0b",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209211103,
-    "wof:lastmodified":1536294289,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179462,
     "wof:name":"Pengkol",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     110.89972,
-    -7.456110000000002,
+    -7.45611,
     110.89972,
-    -7.456110000000002
+    -7.45611
 ],
   "geometry": {"coordinates":[110.89972,-7.45611],"type":"Point"}
 }

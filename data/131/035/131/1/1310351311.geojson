@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072937
+        102072937,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6607211
     },
     "wof:country":"ID",
-    "wof:geomhash":"8feea964192b00930ccb0c89fa7540f7",
+    "wof:geomhash":"b25920ae72870bde0f220a58afd37a23",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1310351311,
-    "wof:lastmodified":1537630138,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181480,
     "wof:name":"Ciungjaya",
     "wof:parent_id":102072937,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.37888999999998,
+    107.37889,
     -6.24056,
-    107.37888999999998,
+    107.37889,
     -6.24056
 ],
-  "geometry": {"coordinates":[107.37888999999998,-6.24056],"type":"Point"}
+  "geometry": {"coordinates":[107.37889,-6.24056],"type":"Point"}
 }

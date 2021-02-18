@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073405
+        102073405,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2011639
     },
     "wof:country":"ID",
-    "wof:geomhash":"429fa1752da41a4ca7eded6fe43b6a13",
+    "wof:geomhash":"15f91f7bba87c32a934b037ad282075c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1276868269,
-    "wof:lastmodified":1537054371,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177005,
     "wof:name":"Bulurejo",
     "wof:parent_id":102073405,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.74611000000002,
+    110.74611,
     -7.60583,
-    110.74611000000002,
+    110.74611,
     -7.60583
 ],
-  "geometry": {"coordinates":[110.74611000000002,-7.60583],"type":"Point"}
+  "geometry": {"coordinates":[110.74611,-7.60583],"type":"Point"}
 }

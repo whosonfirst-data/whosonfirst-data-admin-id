@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672005,
-        102073327
+        102073327,
+        85672005
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8430991
     },
     "wof:country":"ID",
-    "wof:geomhash":"f765849024bd32260d863d86b24680b3",
+    "wof:geomhash":"31ea7d5699460dbf63412d2b9b8493ae",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1276421417,
-    "wof:lastmodified":1537636160,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177246,
     "wof:name":"Sotok",
     "wof:parent_id":102073327,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.46186000000002,
+    110.46186,
     0.75771,
-    110.46186000000002,
+    110.46186,
     0.75771
 ],
-  "geometry": {"coordinates":[110.46186000000002,0.75771],"type":"Point"}
+  "geometry": {"coordinates":[110.46186,0.75771],"type":"Point"}
 }

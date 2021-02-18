@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072855
+        102072855,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6601424
     },
     "wof:country":"ID",
-    "wof:geomhash":"19dfcd762e615a8394d7b795749e04f3",
+    "wof:geomhash":"dbe0a21630e512d31d0fe6121e78ec39",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1327294173,
-    "wof:lastmodified":1537629984,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613173568,
     "wof:name":"Kebonwaru",
     "wof:parent_id":102072855,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.77443999999998,
+    106.77444,
     -6.96194,
-    106.77443999999998,
+    106.77444,
     -6.96194
 ],
-  "geometry": {"coordinates":[106.77443999999998,-6.96194],"type":"Point"}
+  "geometry": {"coordinates":[106.77444,-6.96194],"type":"Point"}
 }

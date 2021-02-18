@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072947
+        102072947,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6407026
     },
     "wof:country":"ID",
-    "wof:geomhash":"a9bb28369a0fbec0b0edb6121ead7dc1",
+    "wof:geomhash":"45ee92ac5018dd271759c10109774ca5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1310698087,
-    "wof:lastmodified":1537628976,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181670,
     "wof:name":"Banar Kidul",
     "wof:parent_id":102072947,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.13611000000002,
+    111.13611,
     -7.78778,
-    111.13611000000002,
+    111.13611,
     -7.78778
 ],
-  "geometry": {"coordinates":[111.13611000000002,-7.78778],"type":"Point"}
+  "geometry": {"coordinates":[111.13611,-7.78778],"type":"Point"}
 }

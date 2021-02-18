@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073551
+        102073551,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6593662
     },
     "wof:country":"ID",
-    "wof:geomhash":"d7d01cac913740854065ad8c0adc50fb",
+    "wof:geomhash":"bca182c1788ab5bab2e13256c62dc10e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1293929765,
-    "wof:lastmodified":1537629772,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613176109,
     "wof:name":"Kalijeruk Utara",
     "wof:parent_id":102073551,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.12888999999998,
+    107.12889,
     -6.25778,
-    107.12888999999998,
+    107.12889,
     -6.25778
 ],
-  "geometry": {"coordinates":[107.12888999999998,-6.25778],"type":"Point"}
+  "geometry": {"coordinates":[107.12889,-6.25778],"type":"Point"}
 }

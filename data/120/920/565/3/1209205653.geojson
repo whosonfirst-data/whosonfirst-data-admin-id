@@ -37,7 +37,7 @@
         "gn:id":6408225
     },
     "wof:country":"ID",
-    "wof:geomhash":"d7124f5bf856f5c8746c16f023241c4c",
+    "wof:geomhash":"e11c203c2be5b72fca10fe8683233f89",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -45,7 +45,14 @@
         }
     ],
     "wof:id":1209205653,
-    "wof:lastmodified":1537629002,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179294,
     "wof:name":"Plosorejo",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -55,10 +62,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.27306000000002,
+    111.27306,
     -7.82889,
-    111.27306000000002,
+    111.27306,
     -7.82889
 ],
-  "geometry": {"coordinates":[111.27306000000002,-7.82889],"type":"Point"}
+  "geometry": {"coordinates":[111.27306,-7.82889],"type":"Point"}
 }

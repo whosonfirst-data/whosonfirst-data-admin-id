@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072709
+        102072709,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1972445
     },
     "wof:country":"ID",
-    "wof:geomhash":"6509930869ec476f8482f921e1488f6b",
+    "wof:geomhash":"492942a091c719fdeffaac8c0dd161b9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1310592175,
-    "wof:lastmodified":1536792268,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181527,
     "wof:name":"Popongan",
     "wof:parent_id":102072709,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.52443999999998,
+    110.52444,
     -7.26194,
-    110.52443999999998,
+    110.52444,
     -7.26194
 ],
-  "geometry": {"coordinates":[110.52443999999998,-7.26194],"type":"Point"}
+  "geometry": {"coordinates":[110.52444,-7.26194],"type":"Point"}
 }

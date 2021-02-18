@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072857
+        102072857,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6198838
     },
     "wof:country":"ID",
-    "wof:geomhash":"7e3c17f9ebf5e5bc6c10c7cd2380828a",
+    "wof:geomhash":"1f82234c3078354a3460186a1e7438e0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1209806545,
-    "wof:lastmodified":1536388352,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179389,
     "wof:name":"Brigasan Lor",
     "wof:parent_id":102072857,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.14943999999998,
+    110.14944,
     -7.43194,
-    110.14943999999998,
+    110.14944,
     -7.43194
 ],
-  "geometry": {"coordinates":[110.14943999999998,-7.43194],"type":"Point"}
+  "geometry": {"coordinates":[110.14944,-7.43194],"type":"Point"}
 }

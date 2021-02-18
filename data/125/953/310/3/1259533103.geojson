@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671995,
-        1108796785
+        1108796785,
+        85671995
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1959098
     },
     "wof:country":"ID",
-    "wof:geomhash":"d3ad028737bf68af5888ef55ca6726cb",
+    "wof:geomhash":"6a344b85cd7e3100b3a99e65d745d3d9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1259533103,
-    "wof:lastmodified":1536788019,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613184307,
     "wof:name":"Mumunggang",
     "wof:parent_id":1108796785,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.61388999999998,
+    106.61389,
     -6.18333,
-    106.61388999999998,
+    106.61389,
     -6.18333
 ],
-  "geometry": {"coordinates":[106.61388999999998,-6.18333],"type":"Point"}
+  "geometry": {"coordinates":[106.61389,-6.18333],"type":"Point"}
 }

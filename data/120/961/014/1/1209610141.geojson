@@ -34,7 +34,7 @@
         "gn:id":1999662
     },
     "wof:country":"ID",
-    "wof:geomhash":"1872240c24b7c607fa80e58068407eab",
+    "wof:geomhash":"f051f18d16d162160028b1ca23232ef7",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209610141,
-    "wof:lastmodified":1536281874,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178977,
     "wof:name":"Glondong",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     110.47333,
-    -7.7652800000000015,
+    -7.76528,
     110.47333,
-    -7.7652800000000015
+    -7.76528
 ],
   "geometry": {"coordinates":[110.47333,-7.76528],"type":"Point"}
 }

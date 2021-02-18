@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073295
+        102073295,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6567808
     },
     "wof:country":"ID",
-    "wof:geomhash":"9278246def1b053012397a309540e1f0",
+    "wof:geomhash":"e48f7e8bdcd61908fa10a360a6c50c3c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1225791245,
-    "wof:lastmodified":1537629330,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613186583,
     "wof:name":"Babakanrancaputri",
     "wof:parent_id":102073295,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.80306000000002,
+    107.80306,
     -6.52972,
-    107.80306000000002,
+    107.80306,
     -6.52972
 ],
-  "geometry": {"coordinates":[107.80306000000002,-6.52972],"type":"Point"}
+  "geometry": {"coordinates":[107.80306,-6.52972],"type":"Point"}
 }

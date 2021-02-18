@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073469
+        102073469,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6259979
     },
     "wof:country":"ID",
-    "wof:geomhash":"b6fbbc1514c0f04f306ece377176610b",
+    "wof:geomhash":"153e6f772a05679e78352b00ac73fe93",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1344145641,
-    "wof:lastmodified":1536752665,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613174174,
     "wof:name":"Tukharjo",
     "wof:parent_id":102073469,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.19861000000002,
+    110.19861,
     -7.69861,
-    110.19861000000002,
+    110.19861,
     -7.69861
 ],
-  "geometry": {"coordinates":[110.19861000000002,-7.69861],"type":"Point"}
+  "geometry": {"coordinates":[110.19861,-7.69861],"type":"Point"}
 }

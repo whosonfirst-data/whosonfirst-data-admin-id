@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073217
+        102073217,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6604851
     },
     "wof:country":"ID",
-    "wof:geomhash":"17ffb94247ec2acad374d1cb76aab845",
+    "wof:geomhash":"edc33b8503ce29d39e4580b2f6d9a63d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1343804155,
-    "wof:lastmodified":1537630051,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175156,
     "wof:name":"Sukabakti Wetan",
     "wof:parent_id":102073217,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.62111000000002,
+    106.62111,
     -6.5875,
-    106.62111000000002,
+    106.62111,
     -6.5875
 ],
-  "geometry": {"coordinates":[106.62111000000002,-6.5875],"type":"Point"}
+  "geometry": {"coordinates":[106.62111,-6.5875],"type":"Point"}
 }

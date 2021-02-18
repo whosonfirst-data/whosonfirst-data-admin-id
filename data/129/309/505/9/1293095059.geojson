@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072639
+        102072639,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6372306
     },
     "wof:country":"ID",
-    "wof:geomhash":"d9f8c6098fbfdbc8a20555abc8fdb7fe",
+    "wof:geomhash":"a925f74be55681547e37bd8f65998853",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1293095059,
-    "wof:lastmodified":1537628364,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175366,
     "wof:name":"Karangkamal",
     "wof:parent_id":102072639,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.58138999999998,
+    109.58139,
     -7.55528,
-    109.58138999999998,
+    109.58139,
     -7.55528
 ],
-  "geometry": {"coordinates":[109.58138999999998,-7.55528],"type":"Point"}
+  "geometry": {"coordinates":[109.58139,-7.55528],"type":"Point"}
 }

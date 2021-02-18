@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073529
+        102073529,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6590008
     },
     "wof:country":"ID",
-    "wof:geomhash":"5e5bd7ee8909bae39d8bd5137430fa96",
+    "wof:geomhash":"67c2681719bfde2de3f257e0c0cd9a82",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1343918047,
-    "wof:lastmodified":1537629662,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613173843,
     "wof:name":"Bougenville Dua",
     "wof:parent_id":102073529,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.04361000000002,
+    107.04361,
     -6.7125,
-    107.04361000000002,
+    107.04361,
     -6.7125
 ],
-  "geometry": {"coordinates":[107.04361000000002,-6.7125],"type":"Point"}
+  "geometry": {"coordinates":[107.04361,-6.7125],"type":"Point"}
 }

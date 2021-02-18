@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072921
+        102072921,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6379145
     },
     "wof:country":"ID",
-    "wof:geomhash":"3fa37c82db39b045cc0684b3a790406e",
+    "wof:geomhash":"e8660ee9f5d2deafcd757b9278775025",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1309899917,
-    "wof:lastmodified":1537628522,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613182493,
     "wof:name":"Kayuares",
     "wof:parent_id":102072921,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.38443999999998,
+    109.38444,
     -7.37444,
-    109.38443999999998,
+    109.38444,
     -7.37444
 ],
-  "geometry": {"coordinates":[109.38443999999998,-7.37444],"type":"Point"}
+  "geometry": {"coordinates":[109.38444,-7.37444],"type":"Point"}
 }

@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073265
+        102073265,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6265324
     },
     "wof:country":"ID",
-    "wof:geomhash":"e558c07dc9f6d21cb536540b7ca9f219",
+    "wof:geomhash":"2cfecf73ee2443f734f73d80a8967e31",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1310495161,
-    "wof:lastmodified":1536932587,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613180861,
     "wof:name":"Karang",
     "wof:parent_id":102073265,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.47693999999998,
+    110.47694,
     -7.71472,
-    110.47693999999998,
+    110.47694,
     -7.71472
 ],
-  "geometry": {"coordinates":[110.47693999999998,-7.71472],"type":"Point"}
+  "geometry": {"coordinates":[110.47694,-7.71472],"type":"Point"}
 }

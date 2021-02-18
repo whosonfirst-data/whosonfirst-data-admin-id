@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672009,
-        1108796811
+        1108796811,
+        85672009
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7862796
     },
     "wof:country":"ID",
-    "wof:geomhash":"d81ef9c563ecbe9e07e49a1290a70c59",
+    "wof:geomhash":"acfe6c4e9429288599b59b49e61227b1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1243427235,
-    "wof:lastmodified":1537634710,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613184138,
     "wof:name":"Podomoro",
     "wof:parent_id":1108796811,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    104.98456000000002,
+    104.98456,
     -5.3475,
-    104.98456000000002,
+    104.98456,
     -5.3475
 ],
-  "geometry": {"coordinates":[104.98456000000002,-5.3475],"type":"Point"}
+  "geometry": {"coordinates":[104.98456,-5.3475],"type":"Point"}
 }

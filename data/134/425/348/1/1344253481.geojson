@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072733
+        102072733,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6570314
     },
     "wof:country":"ID",
-    "wof:geomhash":"09a4b7ebea85556d499ba1b2fbf06044",
+    "wof:geomhash":"c9db4f95ae9ee74bed8ee470a3b3be3e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1344253481,
-    "wof:lastmodified":1537629386,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613174140,
     "wof:name":"Pojok",
     "wof:parent_id":102072733,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.00943999999998,
+    111.00944,
     -7.57278,
-    111.00943999999998,
+    111.00944,
     -7.57278
 ],
-  "geometry": {"coordinates":[111.00943999999998,-7.57278],"type":"Point"}
+  "geometry": {"coordinates":[111.00944,-7.57278],"type":"Point"}
 }

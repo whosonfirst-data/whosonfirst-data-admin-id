@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073119
+        102073119,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6389489
     },
     "wof:country":"ID",
-    "wof:geomhash":"4f3318cea32157f64cd7e5019f2b344c",
+    "wof:geomhash":"29f06c022264a0188387a6813997867c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1242768769,
-    "wof:lastmodified":1537628689,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183855,
     "wof:name":"Keseran Kidul",
     "wof:parent_id":102073119,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.05861000000002,
+    109.05861,
     -7.3325,
-    109.05861000000002,
+    109.05861,
     -7.3325
 ],
-  "geometry": {"coordinates":[109.05861000000002,-7.3325],"type":"Point"}
+  "geometry": {"coordinates":[109.05861,-7.3325],"type":"Point"}
 }

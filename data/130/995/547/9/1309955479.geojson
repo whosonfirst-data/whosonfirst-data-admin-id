@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072855
+        102072855,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6596437
     },
     "wof:country":"ID",
-    "wof:geomhash":"74bd55c9946c01700eec9008c15c56f5",
+    "wof:geomhash":"6576b25ca5e959d236614ec80b2f2be4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1309955479,
-    "wof:lastmodified":1537629851,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613182404,
     "wof:name":"Gintung",
     "wof:parent_id":102072855,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.82193999999998,
+    106.82194,
     -6.77472,
-    106.82193999999998,
+    106.82194,
     -6.77472
 ],
-  "geometry": {"coordinates":[106.82193999999998,-6.77472],"type":"Point"}
+  "geometry": {"coordinates":[106.82194,-6.77472],"type":"Point"}
 }

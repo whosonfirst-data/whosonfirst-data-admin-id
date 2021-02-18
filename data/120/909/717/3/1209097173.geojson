@@ -34,7 +34,7 @@
         "gn:id":2011358
     },
     "wof:country":"ID",
-    "wof:geomhash":"d58aad46f04dbff23202ce6f14b616f9",
+    "wof:geomhash":"142d8a3bbe5340081cdcb32a029d504d",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209097173,
-    "wof:lastmodified":1536297850,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178284,
     "wof:name":"Kemasan",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     110.68083,
-    -7.575830000000002,
+    -7.57583,
     110.68083,
-    -7.575830000000002
+    -7.57583
 ],
   "geometry": {"coordinates":[110.68083,-7.57583],"type":"Point"}
 }

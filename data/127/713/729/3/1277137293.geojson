@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073529
+        102073529,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6588216
     },
     "wof:country":"ID",
-    "wof:geomhash":"3b94e3e72d468cbfed943bc2d3b531ae",
+    "wof:geomhash":"dc25b5db9cbbd8776af886bd91c818a3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1277137293,
-    "wof:lastmodified":1537629603,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177663,
     "wof:name":"Harjasari",
     "wof:parent_id":102073529,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.05138999999998,
+    107.05139,
     -6.94111,
-    107.05138999999998,
+    107.05139,
     -6.94111
 ],
-  "geometry": {"coordinates":[107.05138999999998,-6.94111],"type":"Point"}
+  "geometry": {"coordinates":[107.05139,-6.94111],"type":"Point"}
 }

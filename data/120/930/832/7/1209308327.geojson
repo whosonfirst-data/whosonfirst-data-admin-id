@@ -34,7 +34,7 @@
         "gn:id":2012073
     },
     "wof:country":"ID",
-    "wof:geomhash":"921d15a4db7ed96e50f56c15c3fa6139",
+    "wof:geomhash":"618828513242306b30708c5646ef3e55",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209308327,
-    "wof:lastmodified":1536291115,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178478,
     "wof:name":"Bapangan",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     110.0175,
-    -7.845560000000001,
+    -7.84556,
     110.0175,
-    -7.845560000000001
+    -7.84556
 ],
   "geometry": {"coordinates":[110.0175,-7.84556],"type":"Point"}
 }

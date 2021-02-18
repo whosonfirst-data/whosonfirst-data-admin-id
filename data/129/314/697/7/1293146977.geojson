@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072739
+        102072739,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6582270
     },
     "wof:country":"ID",
-    "wof:geomhash":"5abe858b2a84d5072a3535cfdd036b49",
+    "wof:geomhash":"aa096a5eb183ce68ba8bfc4a5e4e8d4e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1293146977,
-    "wof:lastmodified":1537629495,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613176025,
     "wof:name":"Cicae",
     "wof:parent_id":102072739,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.85611000000002,
+    107.85611,
     -6.6875,
-    107.85611000000002,
+    107.85611,
     -6.6875
 ],
-  "geometry": {"coordinates":[107.85611000000002,-6.6875],"type":"Point"}
+  "geometry": {"coordinates":[107.85611,-6.6875],"type":"Point"}
 }

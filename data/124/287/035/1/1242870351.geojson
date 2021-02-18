@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072759
+        102072759,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6562081
     },
     "wof:country":"ID",
-    "wof:geomhash":"6e8614845d406f4390d5386ffd105abd",
+    "wof:geomhash":"29c519fbc93d41ee3beeda7b92c48054",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1242870351,
-    "wof:lastmodified":1537629175,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183052,
     "wof:name":"Majem",
     "wof:parent_id":102072759,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.28806000000002,
+    109.28806,
     -7.21583,
-    109.28806000000002,
+    109.28806,
     -7.21583
 ],
-  "geometry": {"coordinates":[109.28806000000002,-7.21583],"type":"Point"}
+  "geometry": {"coordinates":[109.28806,-7.21583],"type":"Point"}
 }

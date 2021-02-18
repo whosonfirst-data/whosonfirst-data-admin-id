@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102073017
+        102073017,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7526721
     },
     "wof:country":"ID",
-    "wof:geomhash":"f398d66c17b910ecb613f9711335d89e",
+    "wof:geomhash":"19df8c2fcbfdb0152315b62397acf92a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1260375753,
-    "wof:lastmodified":1537633807,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613180408,
     "wof:name":"Betek",
     "wof:parent_id":102073017,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    112.70886000000002,
+    112.70886,
     -8.14387,
-    112.70886000000002,
+    112.70886,
     -8.14387
 ],
-  "geometry": {"coordinates":[112.70886000000002,-8.14387],"type":"Point"}
+  "geometry": {"coordinates":[112.70886,-8.14387],"type":"Point"}
 }

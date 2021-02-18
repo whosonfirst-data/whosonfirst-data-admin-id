@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073551
+        102073551,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6606981
     },
     "wof:country":"ID",
-    "wof:geomhash":"030343aa0f024f85f876309713a738b7",
+    "wof:geomhash":"5ebe437300f236037ba84dfa9c0ae327",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,7 +54,14 @@
         }
     ],
     "wof:id":1343307929,
-    "wof:lastmodified":1564172048,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613173977,
     "wof:name":"Ampel",
     "wof:parent_id":102073551,
     "wof:placetype":"locality",
@@ -64,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.12111000000002,
+    107.12111,
     -6.16361,
-    107.12111000000002,
+    107.12111,
     -6.16361
 ],
-  "geometry": {"coordinates":[107.12111000000002,-6.16361],"type":"Point"}
+  "geometry": {"coordinates":[107.12111,-6.16361],"type":"Point"}
 }

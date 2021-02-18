@@ -34,7 +34,7 @@
         "gn:id":6200365
     },
     "wof:country":"ID",
-    "wof:geomhash":"49c08c4b17c1c1a0abe6ad3aceb1f64c",
+    "wof:geomhash":"0dc8f15de35bc99fe28f63a6f8abc35a",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209308379,
-    "wof:lastmodified":1536291114,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178492,
     "wof:name":"Mloyo",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     110.03361,
-    -7.255560000000001,
+    -7.25556,
     110.03361,
-    -7.255560000000001
+    -7.25556
 ],
   "geometry": {"coordinates":[110.03361,-7.25556],"type":"Point"}
 }

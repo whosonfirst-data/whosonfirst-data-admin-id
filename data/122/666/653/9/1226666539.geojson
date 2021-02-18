@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072857
+        102072857,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6261013
     },
     "wof:country":"ID",
-    "wof:geomhash":"f9323a4ed64df8b4cff5499410cb8b22",
+    "wof:geomhash":"acfc90475d857537f1a547a2b20d8792",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1226666539,
-    "wof:lastmodified":1536828618,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185774,
     "wof:name":"Krombangan",
     "wof:parent_id":102072857,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.21056000000002,
+    110.21056,
     -7.5575,
-    110.21056000000002,
+    110.21056,
     -7.5575
 ],
-  "geometry": {"coordinates":[110.21056000000002,-7.5575],"type":"Point"}
+  "geometry": {"coordinates":[110.21056,-7.5575],"type":"Point"}
 }

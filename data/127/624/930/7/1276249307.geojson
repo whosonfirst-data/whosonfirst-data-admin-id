@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073405
+        102073405,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1934219
     },
     "wof:country":"ID",
-    "wof:geomhash":"0e6970fe0687c735f405fd970f3792b4",
+    "wof:geomhash":"2818d405720822e63c72bb1ff785ad87",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1276249307,
-    "wof:lastmodified":1536890960,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177919,
     "wof:name":"Tanjungsari",
     "wof:parent_id":102073405,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.83693999999998,
+    110.83694,
     -7.66278,
-    110.83693999999998,
+    110.83694,
     -7.66278
 ],
-  "geometry": {"coordinates":[110.83693999999998,-7.66278],"type":"Point"}
+  "geometry": {"coordinates":[110.83694,-7.66278],"type":"Point"}
 }

@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072733
+        102072733,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1934965
     },
     "wof:country":"ID",
-    "wof:geomhash":"8c620d6705c8c61d71b438d1cbf728bf",
+    "wof:geomhash":"308ec9d35da88c78b017516306ddda68",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1225839083,
-    "wof:lastmodified":1537022320,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613186599,
     "wof:name":"Pungkuran",
     "wof:parent_id":102072733,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.97693999999998,
+    110.97694,
     -7.7,
-    110.97693999999998,
+    110.97694,
     -7.7
 ],
-  "geometry": {"coordinates":[110.97693999999998,-7.7],"type":"Point"}
+  "geometry": {"coordinates":[110.97694,-7.7],"type":"Point"}
 }

@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072983
+        102072983,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2010945
     },
     "wof:country":"ID",
-    "wof:geomhash":"8f7987828362255c9820732550d89525",
+    "wof:geomhash":"addbd83c07a8292e9c13034c0642f9aa",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1259804129,
-    "wof:lastmodified":1536893258,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185051,
     "wof:name":"Umbulsari",
     "wof:parent_id":102072983,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.67638999999998,
+    110.67639,
     -7.55528,
-    110.67638999999998,
+    110.67639,
     -7.55528
 ],
-  "geometry": {"coordinates":[110.67638999999998,-7.55528],"type":"Point"}
+  "geometry": {"coordinates":[110.67639,-7.55528],"type":"Point"}
 }

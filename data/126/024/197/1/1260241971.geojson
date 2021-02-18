@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072949
+        102072949,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1965748
     },
     "wof:country":"ID",
-    "wof:geomhash":"b0b845737933fef4139083c8b8f38adf",
+    "wof:geomhash":"46ddab357b01a4a356211c7811da785d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,7 +54,14 @@
         }
     ],
     "wof:id":1260241971,
-    "wof:lastmodified":1537627826,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613180184,
     "wof:name":"Cipakeum",
     "wof:parent_id":102072949,
     "wof:placetype":"locality",
@@ -64,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.67638999999998,
+    107.67639,
     -7.02944,
-    107.67638999999998,
+    107.67639,
     -7.02944
 ],
-  "geometry": {"coordinates":[107.67638999999998,-7.02944],"type":"Point"}
+  "geometry": {"coordinates":[107.67639,-7.02944],"type":"Point"}
 }

@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073471
+        102073471,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6593101
     },
     "wof:country":"ID",
-    "wof:geomhash":"15f4a403d14e7a443536d5b243921728",
+    "wof:geomhash":"c32bb125a8188f6cd52d0ae5297bea2d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1327080163,
-    "wof:lastmodified":1537629755,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613172073,
     "wof:name":"Cilumpang",
     "wof:parent_id":102073471,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.41443999999998,
+    107.41444,
     -6.62056,
-    107.41443999999998,
+    107.41444,
     -6.62056
 ],
-  "geometry": {"coordinates":[107.41443999999998,-6.62056],"type":"Point"}
+  "geometry": {"coordinates":[107.41444,-6.62056],"type":"Point"}
 }

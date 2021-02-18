@@ -34,15 +34,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671995,
-        102073479
+        102073479,
+        85671995
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1959741
     },
     "wof:country":"ID",
-    "wof:geomhash":"651c4be16556ecab7072b1cf3a077278",
+    "wof:geomhash":"6db078a9a323cbe4dec9994dab03e219",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +53,14 @@
         }
     ],
     "wof:id":1260125963,
-    "wof:lastmodified":1537627520,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613180239,
     "wof:name":"Binuangpetapan",
     "wof:parent_id":102073479,
     "wof:placetype":"locality",
@@ -63,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.33556000000002,
+    106.33556,
     -6.11611,
-    106.33556000000002,
+    106.33556,
     -6.11611
 ],
-  "geometry": {"coordinates":[106.33556000000002,-6.11611],"type":"Point"}
+  "geometry": {"coordinates":[106.33556,-6.11611],"type":"Point"}
 }

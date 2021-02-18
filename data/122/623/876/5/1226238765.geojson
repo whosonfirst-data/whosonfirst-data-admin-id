@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102073063
+        102073063,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1970827
     },
     "wof:country":"ID",
-    "wof:geomhash":"6504451b4792c9c30c7f4a867d10acd5",
+    "wof:geomhash":"495e0ecba379900df7d5f02dbccbbad9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1226238765,
-    "wof:lastmodified":1536944204,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613186148,
     "wof:name":"Sumbing",
     "wof:parent_id":102073063,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    112.80138999999998,
+    112.80139,
     -7.03972,
-    112.80138999999998,
+    112.80139,
     -7.03972
 ],
-  "geometry": {"coordinates":[112.80138999999998,-7.03972],"type":"Point"}
+  "geometry": {"coordinates":[112.80139,-7.03972],"type":"Point"}
 }

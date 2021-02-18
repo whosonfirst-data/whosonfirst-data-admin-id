@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073515
+        102073515,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6396197
     },
     "wof:country":"ID",
-    "wof:geomhash":"f06ebae0555568bb2f69044889efed1c",
+    "wof:geomhash":"8f1b4eb8e78eb287578016b6d4f388e9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1360231033,
-    "wof:lastmodified":1537628744,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181724,
     "wof:name":"Tengah",
     "wof:parent_id":102073515,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.27443999999998,
+    108.27444,
     -6.62556,
-    108.27443999999998,
+    108.27444,
     -6.62556
 ],
-  "geometry": {"coordinates":[108.27443999999998,-6.62556],"type":"Point"}
+  "geometry": {"coordinates":[108.27444,-6.62556],"type":"Point"}
 }

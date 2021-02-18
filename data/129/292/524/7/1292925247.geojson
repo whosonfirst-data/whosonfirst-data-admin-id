@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102073017
+        102073017,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1965676
     },
     "wof:country":"ID",
-    "wof:geomhash":"d6980e30a864309f03867ec5c2f77148",
+    "wof:geomhash":"be1c1f7d22121b0a2a038ed6e3cf43d5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1292925247,
-    "wof:lastmodified":1537627823,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175656,
     "wof:name":"Bringin",
     "wof:parent_id":102073017,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    112.74096000000002,
+    112.74096,
     -8.13707,
-    112.74096000000002,
+    112.74096,
     -8.13707
 ],
-  "geometry": {"coordinates":[112.74096000000002,-8.13707],"type":"Point"}
+  "geometry": {"coordinates":[112.74096,-8.13707],"type":"Point"}
 }

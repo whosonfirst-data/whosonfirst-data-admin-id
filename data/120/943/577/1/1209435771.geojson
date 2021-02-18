@@ -34,7 +34,7 @@
         "gn:id":6200500
     },
     "wof:country":"ID",
-    "wof:geomhash":"2875db85d84c4e969c48b9d2a8016567",
+    "wof:geomhash":"3a9de93d4d77fec7a46894bf5ee7884d",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209435771,
-    "wof:lastmodified":1536287110,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179549,
     "wof:name":"Paingan",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     110.23389,
-    -7.368889999999999,
+    -7.36889,
     110.23389,
-    -7.368889999999999
+    -7.36889
 ],
   "geometry": {"coordinates":[110.23389,-7.36889],"type":"Point"}
 }

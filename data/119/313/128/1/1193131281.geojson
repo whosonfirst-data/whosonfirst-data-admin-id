@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072639
+        102072639,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6369782
     },
     "wof:country":"ID",
-    "wof:geomhash":"d43a55657033c0d604aa4a87c453c556",
+    "wof:geomhash":"c71e313dbdefc9e4812f95333ac44b65",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1193131281,
-    "wof:lastmodified":1537628289,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179907,
     "wof:name":"Padurekso",
     "wof:parent_id":102072639,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.41306000000002,
+    109.41306,
     -7.73889,
-    109.41306000000002,
+    109.41306,
     -7.73889
 ],
-  "geometry": {"coordinates":[109.41306000000002,-7.73889],"type":"Point"}
+  "geometry": {"coordinates":[109.41306,-7.73889],"type":"Point"}
 }

@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073169
+        102073169,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6200799
     },
     "wof:country":"ID",
-    "wof:geomhash":"71972846e6ec10e08b7d4be6a9fada1c",
+    "wof:geomhash":"8223d735f2819d4a91d9266a6dd6a483",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1259403047,
-    "wof:lastmodified":1536973827,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613184623,
     "wof:name":"Bangunsari",
     "wof:parent_id":102073169,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.16443999999998,
+    110.16444,
     -7.30694,
-    110.16443999999998,
+    110.16444,
     -7.30694
 ],
-  "geometry": {"coordinates":[110.16443999999998,-7.30694],"type":"Point"}
+  "geometry": {"coordinates":[110.16444,-7.30694],"type":"Point"}
 }

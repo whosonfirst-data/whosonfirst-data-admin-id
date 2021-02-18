@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073469
+        102073469,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6259984
     },
     "wof:country":"ID",
-    "wof:geomhash":"d68a694aadb0285f8e4575f54a7cdf3a",
+    "wof:geomhash":"ffbd6aeb4af239cdd8443631e369ee48",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1226062997,
-    "wof:lastmodified":1536700625,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613186382,
     "wof:name":"Semak",
     "wof:parent_id":102073469,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.22556000000002,
+    110.22556,
     -7.69889,
-    110.22556000000002,
+    110.22556,
     -7.69889
 ],
-  "geometry": {"coordinates":[110.22556000000002,-7.69889],"type":"Point"}
+  "geometry": {"coordinates":[110.22556,-7.69889],"type":"Point"}
 }

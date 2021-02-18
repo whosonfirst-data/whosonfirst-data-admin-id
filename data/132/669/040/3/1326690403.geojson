@@ -53,15 +53,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072855
+        102072855,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6596565
     },
     "wof:country":"ID",
-    "wof:geomhash":"ada48ac5a3f9717d0e0633bc996f8bb8",
+    "wof:geomhash":"ebe00d6ed4a0c499bdaba05e3e857302",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -72,7 +72,14 @@
         }
     ],
     "wof:id":1326690403,
-    "wof:lastmodified":1564168133,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613172468,
     "wof:name":"Parigi",
     "wof:parent_id":102072855,
     "wof:placetype":"locality",
@@ -82,10 +89,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.80138999999998,
+    106.80139,
     -6.8375,
-    106.80138999999998,
+    106.80139,
     -6.8375
 ],
-  "geometry": {"coordinates":[106.80138999999998,-6.8375],"type":"Point"}
+  "geometry": {"coordinates":[106.80139,-6.8375],"type":"Point"}
 }

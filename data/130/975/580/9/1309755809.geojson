@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072739
+        102072739,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6583146
     },
     "wof:country":"ID",
-    "wof:geomhash":"b5bcec0dfa11ed7dba232bec3335f6b1",
+    "wof:geomhash":"da2d3d49d179fffe8c79b7fed012e527",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1309755809,
-    "wof:lastmodified":1537629519,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613182551,
     "wof:name":"Cikobet",
     "wof:parent_id":102072739,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.93361000000002,
+    107.93361,
     -6.92472,
-    107.93361000000002,
+    107.93361,
     -6.92472
 ],
-  "geometry": {"coordinates":[107.93361000000002,-6.92472],"type":"Point"}
+  "geometry": {"coordinates":[107.93361,-6.92472],"type":"Point"}
 }

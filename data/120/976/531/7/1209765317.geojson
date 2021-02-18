@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072949
+        102072949,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6584313
     },
     "wof:country":"ID",
-    "wof:geomhash":"e9b32137b31b0fadd5fadc7ffcfffdb5",
+    "wof:geomhash":"dcf526b3b501891c549315383325c641",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1209765317,
-    "wof:lastmodified":1537629555,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178868,
     "wof:name":"Babakan Cereme",
     "wof:parent_id":102072949,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.79361000000002,
+    107.79361,
     -6.97028,
-    107.79361000000002,
+    107.79361,
     -6.97028
 ],
-  "geometry": {"coordinates":[107.79361000000002,-6.97028],"type":"Point"}
+  "geometry": {"coordinates":[107.79361,-6.97028],"type":"Point"}
 }

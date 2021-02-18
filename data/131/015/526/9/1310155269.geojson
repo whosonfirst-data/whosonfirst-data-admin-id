@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073083
+        102073083,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1986706
     },
     "wof:country":"ID",
-    "wof:geomhash":"8147e64e7a525d291ca1ad01a0e397c2",
+    "wof:geomhash":"2d99bede6a973123399fec1425f5a3aa",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1310155269,
-    "wof:lastmodified":1536925588,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613180722,
     "wof:name":"Blokkawung",
     "wof:parent_id":102073083,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.86388999999998,
+    106.86389,
     -6.45417,
-    106.86388999999998,
+    106.86389,
     -6.45417
 ],
-  "geometry": {"coordinates":[106.86388999999998,-6.45417],"type":"Point"}
+  "geometry": {"coordinates":[106.86389,-6.45417],"type":"Point"}
 }

@@ -34,7 +34,7 @@
         "gn:id":1971230
     },
     "wof:country":"ID",
-    "wof:geomhash":"02ac0bc2e20833e44ad6a702bd10f6ee",
+    "wof:geomhash":"76fda8e00641ac780bc0abd675c0ef24",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209605381,
-    "wof:lastmodified":1536282029,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179116,
     "wof:name":"Bringin",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     112.90528,
-    -7.178610000000001,
+    -7.17861,
     112.90528,
-    -7.178610000000001
+    -7.17861
 ],
   "geometry": {"coordinates":[112.90528,-7.17861],"type":"Point"}
 }

@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        1108796793
+        1108796793,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6591796
     },
     "wof:country":"ID",
-    "wof:geomhash":"378047de7957f7b842261d68b42135aa",
+    "wof:geomhash":"c2aad447f48631f5a9e52e441cfb9aef",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1260334073,
-    "wof:lastmodified":1537629713,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613180645,
     "wof:name":"Ciparay Lebak",
     "wof:parent_id":1108796793,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.35193999999998,
+    107.35194,
     -6.94056,
-    107.35193999999998,
+    107.35194,
     -6.94056
 ],
-  "geometry": {"coordinates":[107.35193999999998,-6.94056],"type":"Point"}
+  "geometry": {"coordinates":[107.35194,-6.94056],"type":"Point"}
 }

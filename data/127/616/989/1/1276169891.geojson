@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073359
+        102073359,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1632764
     },
     "wof:country":"ID",
-    "wof:geomhash":"f4ae41fa1c0404b1b15df388033aa7b6",
+    "wof:geomhash":"e2e7717bc7f29f72ce0488ea6d7c91a0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1276169891,
-    "wof:lastmodified":1537626757,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177364,
     "wof:name":"Pangeureunan",
     "wof:parent_id":102073359,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.92638999999998,
+    107.92639,
     -6.99528,
-    107.92638999999998,
+    107.92639,
     -6.99528
 ],
-  "geometry": {"coordinates":[107.92638999999998,-6.99528],"type":"Point"}
+  "geometry": {"coordinates":[107.92639,-6.99528],"type":"Point"}
 }

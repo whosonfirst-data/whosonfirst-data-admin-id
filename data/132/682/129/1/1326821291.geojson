@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073265
+        102073265,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6258331
     },
     "wof:country":"ID",
-    "wof:geomhash":"c18b3ba0a727f4c3d3d9469ba5c589df",
+    "wof:geomhash":"98e6dc6aaffde001207df88890df41a1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1326821291,
-    "wof:lastmodified":1537061847,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613172988,
     "wof:name":"Kalongan",
     "wof:parent_id":102073265,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.37111000000002,
+    110.37111,
     -7.6925,
-    110.37111000000002,
+    110.37111,
     -7.6925
 ],
-  "geometry": {"coordinates":[110.37111000000002,-7.6925],"type":"Point"}
+  "geometry": {"coordinates":[110.37111,-7.6925],"type":"Point"}
 }

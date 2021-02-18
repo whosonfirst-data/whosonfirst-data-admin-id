@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672115,
-        102073195
+        102073195,
+        85672115
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1622453
     },
     "wof:country":"ID",
-    "wof:geomhash":"b80cad001515a0b70b836b0d173a498c",
+    "wof:geomhash":"7ab33df088716a36d9b363c7ae92bb7a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1344066735,
-    "wof:lastmodified":1536865105,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613174271,
     "wof:name":"Wab",
     "wof:parent_id":102073195,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    139.33333000000002,
+    139.33333,
     -7.23333,
-    139.33333000000002,
+    139.33333,
     -7.23333
 ],
-  "geometry": {"coordinates":[139.33333000000002,-7.23333],"type":"Point"}
+  "geometry": {"coordinates":[139.33332999999999,-7.23333],"type":"Point"}
 }

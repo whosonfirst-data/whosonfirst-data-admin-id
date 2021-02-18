@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072855
+        102072855,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6595787
     },
     "wof:country":"ID",
-    "wof:geomhash":"53df1edae126bc5ee6fdcb9ea7c41c50",
+    "wof:geomhash":"02aea90e8be083df6ba1d48ccda80e0a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1209966353,
-    "wof:lastmodified":1537629824,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178405,
     "wof:name":"Kawungluwuk",
     "wof:parent_id":102072855,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.89806000000002,
+    106.89806,
     -6.87944,
-    106.89806000000002,
+    106.89806,
     -6.87944
 ],
-  "geometry": {"coordinates":[106.89806000000002,-6.87944],"type":"Point"}
+  "geometry": {"coordinates":[106.89806,-6.87944],"type":"Point"}
 }

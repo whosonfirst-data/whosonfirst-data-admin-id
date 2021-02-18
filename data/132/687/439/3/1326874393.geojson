@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672115,
-        1108796879
+        1108796879,
+        85672115
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8526775
     },
     "wof:country":"ID",
-    "wof:geomhash":"d8b7033198ea4650d2a9ee8a8c66d513",
+    "wof:geomhash":"a838c1833da935273bb45721e4ed926f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1326874393,
-    "wof:lastmodified":1537636298,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613172436,
     "wof:name":"Anggai",
     "wof:parent_id":1108796879,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    140.26286000000002,
+    140.26286,
     -6.42529,
-    140.26286000000002,
+    140.26286,
     -6.42529
 ],
-  "geometry": {"coordinates":[140.26286000000002,-6.42529],"type":"Point"}
+  "geometry": {"coordinates":[140.26285999999999,-6.42529],"type":"Point"}
 }

@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072947
+        102072947,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6404634
     },
     "wof:country":"ID",
-    "wof:geomhash":"5105da352e06acebd1cb0dfa0713bee6",
+    "wof:geomhash":"10d493560ef6b29a0723ee4fe26334c2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1293774929,
-    "wof:lastmodified":1537628901,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175771,
     "wof:name":"Pacanganom Lor",
     "wof:parent_id":102072947,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.88611000000002,
+    110.88611,
     -8.04778,
-    110.88611000000002,
+    110.88611,
     -8.04778
 ],
-  "geometry": {"coordinates":[110.88611000000002,-8.04778],"type":"Point"}
+  "geometry": {"coordinates":[110.88611,-8.04778],"type":"Point"}
 }

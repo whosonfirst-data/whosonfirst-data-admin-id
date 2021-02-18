@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073187
+        102073187,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6566354
     },
     "wof:country":"ID",
-    "wof:geomhash":"25fe7f9f068ae75791e1cb3f5509bccb",
+    "wof:geomhash":"afe8e9822aae291c8836838eada4f446",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1292899839,
-    "wof:lastmodified":1537629289,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175619,
     "wof:name":"Kaliwatubumi Lor",
     "wof:parent_id":102073187,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.88611000000002,
+    109.88611,
     -7.70889,
-    109.88611000000002,
+    109.88611,
     -7.70889
 ],
-  "geometry": {"coordinates":[109.88611000000002,-7.70889],"type":"Point"}
+  "geometry": {"coordinates":[109.88611,-7.70889],"type":"Point"}
 }

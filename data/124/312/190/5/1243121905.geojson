@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671995,
-        102072687
+        102072687,
+        85671995
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6605731
     },
     "wof:country":"ID",
-    "wof:geomhash":"a8f2a4364638dba0b8a736dcf3224034",
+    "wof:geomhash":"b71acb6aeb53e33d4e8f51e2360f40dd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1243121905,
-    "wof:lastmodified":1537630085,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183396,
     "wof:name":"Tapos Tongah",
     "wof:parent_id":102072687,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.48111000000002,
+    106.48111,
     -6.29278,
-    106.48111000000002,
+    106.48111,
     -6.29278
 ],
-  "geometry": {"coordinates":[106.48111000000002,-6.29278],"type":"Point"}
+  "geometry": {"coordinates":[106.48111,-6.29278],"type":"Point"}
 }

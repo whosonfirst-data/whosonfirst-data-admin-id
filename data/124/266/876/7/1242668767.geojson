@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072921
+        102072921,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6370709
     },
     "wof:country":"ID",
-    "wof:geomhash":"f42086df44ff46b375c2ac38ef14e47d",
+    "wof:geomhash":"2255956118a484f80a0705dfc6c40fff",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1242668767,
-    "wof:lastmodified":1537628318,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183197,
     "wof:name":"Bangkongreang Kidul",
     "wof:parent_id":102072921,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.42638999999998,
+    109.42639,
     -7.40472,
-    109.42638999999998,
+    109.42639,
     -7.40472
 ],
-  "geometry": {"coordinates":[109.42638999999998,-7.40472],"type":"Point"}
+  "geometry": {"coordinates":[109.42639,-7.40472],"type":"Point"}
 }

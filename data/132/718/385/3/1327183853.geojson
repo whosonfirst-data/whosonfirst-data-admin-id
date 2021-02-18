@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072937
+        102072937,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6594647
     },
     "wof:country":"ID",
-    "wof:geomhash":"98479b995123d6d01a99a043fa863c5e",
+    "wof:geomhash":"88a5e081f8a19e6bceeb329410521f68",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1327183853,
-    "wof:lastmodified":1537629798,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613173616,
     "wof:name":"Pasirjengkol",
     "wof:parent_id":102072937,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.26111000000002,
+    107.26111,
     -6.29944,
-    107.26111000000002,
+    107.26111,
     -6.29944
 ],
-  "geometry": {"coordinates":[107.26111000000002,-6.29944],"type":"Point"}
+  "geometry": {"coordinates":[107.26111,-6.29944],"type":"Point"}
 }

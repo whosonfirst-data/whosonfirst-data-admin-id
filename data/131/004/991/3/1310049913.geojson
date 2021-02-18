@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672115,
-        102073195
+        102073195,
+        85672115
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8526090
     },
     "wof:country":"ID",
-    "wof:geomhash":"d003352ab01dea712a6047cea7fa19d8",
+    "wof:geomhash":"1c4ad3631eeae9418641284b08f74579",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1310049913,
-    "wof:lastmodified":1537636294,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181447,
     "wof:name":"Tsegere",
     "wof:parent_id":102073195,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    139.10631999999998,
+    139.10632,
     -6.28206,
-    139.10631999999998,
+    139.10632,
     -6.28206
 ],
-  "geometry": {"coordinates":[139.10631999999998,-6.28206],"type":"Point"}
+  "geometry": {"coordinates":[139.10632000000001,-6.28206],"type":"Point"}
 }

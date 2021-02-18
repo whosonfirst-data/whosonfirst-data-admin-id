@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672031,
-        102072791
+        102072791,
+        85672031
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8551047
     },
     "wof:country":"ID",
-    "wof:geomhash":"b0b238eb102516223e03eb6dd5093a5f",
+    "wof:geomhash":"ee41f178ff876ad06e93dc952790410f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1226422349,
-    "wof:lastmodified":1537636393,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185398,
     "wof:name":"Bapara",
     "wof:parent_id":102072791,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    116.17591000000002,
+    116.17591,
     -2.38025,
-    116.17591000000002,
+    116.17591,
     -2.38025
 ],
-  "geometry": {"coordinates":[116.17591000000002,-2.38025],"type":"Point"}
+  "geometry": {"coordinates":[116.17591,-2.38025],"type":"Point"}
 }

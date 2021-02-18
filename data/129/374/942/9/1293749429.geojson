@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672037,
-        102073179
+        102073179,
+        85672037
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1939319
     },
     "wof:country":"ID",
-    "wof:geomhash":"fd2cf80eb0c2ab6ebef682f3e59816ac",
+    "wof:geomhash":"30c596ca0176859a4d963961bdfa7f75",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1293749429,
-    "wof:lastmodified":1536906936,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613176721,
     "wof:name":"Amtahan",
     "wof:parent_id":102073179,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    124.62888999999998,
+    124.62889,
     -9.26361,
-    124.62888999999998,
+    124.62889,
     -9.26361
 ],
-  "geometry": {"coordinates":[124.62888999999998,-9.26361],"type":"Point"}
+  "geometry": {"coordinates":[124.62889,-9.26361],"type":"Point"}
 }

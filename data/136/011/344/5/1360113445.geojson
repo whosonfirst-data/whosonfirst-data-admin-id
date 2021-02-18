@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672067,
-        102072595
+        102072595,
+        85672067
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8531515
     },
     "wof:country":"ID",
-    "wof:geomhash":"49fd64642800873c5161cc6d88cfcde6",
+    "wof:geomhash":"b9cff36bc4ab93315c87858c77a6e317",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1360113445,
-    "wof:lastmodified":1537636355,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181976,
     "wof:name":"Mokoan",
     "wof:parent_id":102072595,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    133.93653999999998,
+    133.93654,
     -1.10254,
-    133.93653999999998,
+    133.93654,
     -1.10254
 ],
-  "geometry": {"coordinates":[133.93653999999998,-1.10254],"type":"Point"}
+  "geometry": {"coordinates":[133.93654000000001,-1.10254],"type":"Point"}
 }

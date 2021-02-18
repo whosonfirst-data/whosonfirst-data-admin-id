@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072709
+        102072709,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6257611
     },
     "wof:country":"ID",
-    "wof:geomhash":"19ea632515361090563cb0a394a7d2aa",
+    "wof:geomhash":"eda8543992d39e9e7fc700942fbe46a9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1327324915,
-    "wof:lastmodified":1536835048,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613172932,
     "wof:name":"Jurung",
     "wof:parent_id":102072709,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.36556000000002,
+    110.36556,
     -7.31972,
-    110.36556000000002,
+    110.36556,
     -7.31972
 ],
-  "geometry": {"coordinates":[110.36556000000002,-7.31972],"type":"Point"}
+  "geometry": {"coordinates":[110.36556,-7.31972],"type":"Point"}
 }

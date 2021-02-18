@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072587
+        102072587,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6381720
     },
     "wof:country":"ID",
-    "wof:geomhash":"e26f2350e82102aa3f9f04e81cd6d78d",
+    "wof:geomhash":"4ea17cb33930b8a50b8af4f6aa24cf28",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1310102133,
-    "wof:lastmodified":1537628553,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181380,
     "wof:name":"Majainangunung",
     "wof:parent_id":102072587,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.75943999999998,
+    109.75944,
     -7.46556,
-    109.75943999999998,
+    109.75944,
     -7.46556
 ],
-  "geometry": {"coordinates":[109.75943999999998,-7.46556],"type":"Point"}
+  "geometry": {"coordinates":[109.75944,-7.46556],"type":"Point"}
 }

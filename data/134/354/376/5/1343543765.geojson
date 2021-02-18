@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672009,
-        102072869
+        102072869,
+        85672009
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7666338
     },
     "wof:country":"ID",
-    "wof:geomhash":"2a562e1f9292076148579b491023c67b",
+    "wof:geomhash":"8289055d478484c3de753b05b1118293",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1343543765,
-    "wof:lastmodified":1537634209,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613173935,
     "wof:name":"Batusuluh",
     "wof:parent_id":102072869,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    105.31383999999998,
+    105.31384,
     -5.45324,
-    105.31383999999998,
+    105.31384,
     -5.45324
 ],
-  "geometry": {"coordinates":[105.31383999999998,-5.45324],"type":"Point"}
+  "geometry": {"coordinates":[105.31384,-5.45324],"type":"Point"}
 }

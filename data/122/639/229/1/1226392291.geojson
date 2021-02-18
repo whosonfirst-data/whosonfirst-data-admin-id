@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072739
+        102072739,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6582776
     },
     "wof:country":"ID",
-    "wof:geomhash":"4087136c0e935ca0ea71ea4019b88662",
+    "wof:geomhash":"91751a42c65d66e5fab821fe48f81146",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1226392291,
-    "wof:lastmodified":1537629509,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613186386,
     "wof:name":"Bantarawi",
     "wof:parent_id":102072739,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.10193999999998,
+    108.10194,
     -6.91444,
-    108.10193999999998,
+    108.10194,
     -6.91444
 ],
-  "geometry": {"coordinates":[108.10193999999998,-6.91444],"type":"Point"}
+  "geometry": {"coordinates":[108.10194,-6.91444],"type":"Point"}
 }

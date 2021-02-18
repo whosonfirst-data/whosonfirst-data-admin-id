@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072929
+        102072929,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6263868
     },
     "wof:country":"ID",
-    "wof:geomhash":"7c59efa9cbb664604748c1c5d4a505fe",
+    "wof:geomhash":"4aeaa00a87903a9f0fb7c8aef3f6aeaf",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1226743921,
-    "wof:lastmodified":1536718509,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185439,
     "wof:name":"Juranglempung",
     "wof:parent_id":102072929,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.97693999999998,
+    110.97694,
     -7.30694,
-    110.97693999999998,
+    110.97694,
     -7.30694
 ],
-  "geometry": {"coordinates":[110.97693999999998,-7.30694],"type":"Point"}
+  "geometry": {"coordinates":[110.97694,-7.30694],"type":"Point"}
 }

@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072937
+        102072937,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6595010
     },
     "wof:country":"ID",
-    "wof:geomhash":"8c5e3fd707d5fb29a1ca775d39f66957",
+    "wof:geomhash":"1fc5aff3a8f22c05b2012ab6c5708693",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1225890523,
-    "wof:lastmodified":1537629813,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185857,
     "wof:name":"Pagadungan",
     "wof:parent_id":102072937,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.24611000000002,
+    107.24611,
     -6.41306,
-    107.24611000000002,
+    107.24611,
     -6.41306
 ],
-  "geometry": {"coordinates":[107.24611000000002,-6.41306],"type":"Point"}
+  "geometry": {"coordinates":[107.24611,-6.41306],"type":"Point"}
 }

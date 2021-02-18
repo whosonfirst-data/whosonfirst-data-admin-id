@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672037,
-        102073179
+        102073179,
+        85672037
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1939045
     },
     "wof:country":"ID",
-    "wof:geomhash":"5c49b5d075c53d40a2c8f4c932dcc74d",
+    "wof:geomhash":"738788fe6b363502109b95e7b4b4f607",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1277152651,
-    "wof:lastmodified":1536666987,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177682,
     "wof:name":"Atolan",
     "wof:parent_id":102073179,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    124.60193999999998,
+    124.60194,
     -9.46722,
-    124.60193999999998,
+    124.60194,
     -9.46722
 ],
-  "geometry": {"coordinates":[124.60193999999998,-9.46722],"type":"Point"}
+  "geometry": {"coordinates":[124.60194,-9.46722],"type":"Point"}
 }

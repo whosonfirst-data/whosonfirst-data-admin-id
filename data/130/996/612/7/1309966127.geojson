@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671995,
-        1108796785
+        1108796785,
+        85671995
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1625557
     },
     "wof:country":"ID",
-    "wof:geomhash":"c91f6b67f3e851cc94e4ddb52cea7219",
+    "wof:geomhash":"68cb9564daa42326c0c9ec3ec1680afc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,7 +54,14 @@
         }
     ],
     "wof:id":1309966127,
-    "wof:lastmodified":1537626540,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613182154,
     "wof:name":"Tajur",
     "wof:parent_id":1108796785,
     "wof:placetype":"locality",
@@ -64,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.69138999999998,
+    106.69139,
     -6.23528,
-    106.69138999999998,
+    106.69139,
     -6.23528
 ],
-  "geometry": {"coordinates":[106.69138999999998,-6.23528],"type":"Point"}
+  "geometry": {"coordinates":[106.69139,-6.23528],"type":"Point"}
 }

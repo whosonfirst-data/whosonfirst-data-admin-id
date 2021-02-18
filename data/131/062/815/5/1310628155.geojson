@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672067,
-        102073049
+        102073049,
+        85672067
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1639636
     },
     "wof:country":"ID",
-    "wof:geomhash":"4dad2766d53e0cbabee97a6724300210",
+    "wof:geomhash":"ff8cd95fbd9281cfb901aefe4aaf0a00",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,7 +54,14 @@
         }
     ],
     "wof:id":1310628155,
-    "wof:lastmodified":1537626972,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613180930,
     "wof:name":"Konkonpine",
     "wof:parent_id":102073049,
     "wof:placetype":"locality",
@@ -64,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    132.25799999999998,
+    132.258,
     -2.7485,
-    132.25799999999998,
+    132.258,
     -2.7485
 ],
-  "geometry": {"coordinates":[132.25799999999998,-2.7485],"type":"Point"}
+  "geometry": {"coordinates":[132.25800000000001,-2.7485],"type":"Point"}
 }

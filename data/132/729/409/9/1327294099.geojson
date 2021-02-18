@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072855
+        102072855,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6603964
     },
     "wof:country":"ID",
-    "wof:geomhash":"8e69b76eb14d6269f12ef3784229bbf9",
+    "wof:geomhash":"87945e7d4ff7bc55acf7a87c4874dbec",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1327294099,
-    "wof:lastmodified":1537630019,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613173560,
     "wof:name":"Cikomeng",
     "wof:parent_id":102072855,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.69693999999998,
+    106.69694,
     -6.83278,
-    106.69693999999998,
+    106.69694,
     -6.83278
 ],
-  "geometry": {"coordinates":[106.69693999999998,-6.83278],"type":"Point"}
+  "geometry": {"coordinates":[106.69694,-6.83278],"type":"Point"}
 }

@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671995,
-        102073479
+        102073479,
+        85671995
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1990536
     },
     "wof:country":"ID",
-    "wof:geomhash":"7ee4b2139ba0e18ef122e01866ebb0e7",
+    "wof:geomhash":"402087a0483261ef0406972831c92ec7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1243323539,
-    "wof:lastmodified":1536982208,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183597,
     "wof:name":"Kadusirung",
     "wof:parent_id":102073479,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.27443999999998,
+    106.27444,
     -6.23389,
-    106.27443999999998,
+    106.27444,
     -6.23389
 ],
-  "geometry": {"coordinates":[106.27443999999998,-6.23389],"type":"Point"}
+  "geometry": {"coordinates":[106.27444,-6.23389],"type":"Point"}
 }

@@ -41,15 +41,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073083
+        102073083,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1986675
     },
     "wof:country":"ID",
-    "wof:geomhash":"87354633a4442ef39fb6fee10954f81e",
+    "wof:geomhash":"bfac5a639792cec1e390721c75f319a9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -60,7 +60,14 @@
         }
     ],
     "wof:id":1276291997,
-    "wof:lastmodified":1564181082,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177343,
     "wof:name":"Panjang",
     "wof:parent_id":102073083,
     "wof:placetype":"locality",
@@ -70,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.80861000000002,
+    106.80861,
     -6.44583,
-    106.80861000000002,
+    106.80861,
     -6.44583
 ],
-  "geometry": {"coordinates":[106.80861000000002,-6.44583],"type":"Point"}
+  "geometry": {"coordinates":[106.80861,-6.44583],"type":"Point"}
 }

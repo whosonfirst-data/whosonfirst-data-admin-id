@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072857
+        102072857,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6198874
     },
     "wof:country":"ID",
-    "wof:geomhash":"515aeede4b026abe7450743589f90060",
+    "wof:geomhash":"67eaf9872eec4e0e793cc12ed16c0bdc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1193131037,
-    "wof:lastmodified":1536375743,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179899,
     "wof:name":"Jonggangan",
     "wof:parent_id":102072857,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.13443999999998,
+    110.13444,
     -7.4825,
-    110.13443999999998,
+    110.13444,
     -7.4825
 ],
-  "geometry": {"coordinates":[110.13443999999998,-7.4825],"type":"Point"}
+  "geometry": {"coordinates":[110.13444,-7.4825],"type":"Point"}
 }

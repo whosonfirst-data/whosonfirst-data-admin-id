@@ -35,8 +35,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671977,
         102073415,
+        85671977,
         1108805993
     ],
     "wof:breaches":[],
@@ -44,7 +44,7 @@
         "gn:id":1626389
     },
     "wof:country":"ID",
-    "wof:geomhash":"28f64284cfa05648bbea5ed4a4a10df5",
+    "wof:geomhash":"a419b087d6e2124a1bb3bf13e8fdc124",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -62,7 +62,14 @@
         }
     ],
     "wof:id":1293524813,
-    "wof:lastmodified":1537626576,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175530,
     "wof:name":"Sujau",
     "wof:parent_id":102073415,
     "wof:placetype":"locality",
@@ -72,10 +79,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    116.82786000000002,
+    116.82786,
     3.96906,
-    116.82786000000002,
+    116.82786,
     3.96906
 ],
-  "geometry": {"coordinates":[116.82786000000002,3.96906],"type":"Point"}
+  "geometry": {"coordinates":[116.82786,3.96906],"type":"Point"}
 }

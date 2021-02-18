@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072947
+        102072947,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6256295
     },
     "wof:country":"ID",
-    "wof:geomhash":"26dbdf0552be3fda39c85c592071afa2",
+    "wof:geomhash":"caf889faca2bee30237f27dcafc8437f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1226036311,
-    "wof:lastmodified":1536738708,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185718,
     "wof:name":"Ngoro-oro",
     "wof:parent_id":102072947,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.89806000000002,
+    110.89806,
     -7.76583,
-    110.89806000000002,
+    110.89806,
     -7.76583
 ],
-  "geometry": {"coordinates":[110.89806000000002,-7.76583],"type":"Point"}
+  "geometry": {"coordinates":[110.89806,-7.76583],"type":"Point"}
 }

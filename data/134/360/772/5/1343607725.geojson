@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073471
+        102073471,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6583802
     },
     "wof:country":"ID",
-    "wof:geomhash":"48b2938a899ec0dcd2168c29d7a65351",
+    "wof:geomhash":"dee8ad32efc4233192951998ff4060ad",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1343607725,
-    "wof:lastmodified":1537629538,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613174836,
     "wof:name":"Sukarapih",
     "wof:parent_id":102073471,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.50388999999998,
+    107.50389,
     -6.71556,
-    107.50388999999998,
+    107.50389,
     -6.71556
 ],
-  "geometry": {"coordinates":[107.50388999999998,-6.71556],"type":"Point"}
+  "geometry": {"coordinates":[107.50389,-6.71556],"type":"Point"}
 }

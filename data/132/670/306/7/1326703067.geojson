@@ -36,15 +36,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672009,
-        102072927
+        102072927,
+        85672009
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8550550
     },
     "wof:country":"ID",
-    "wof:geomhash":"054c591fc0b5d05671af0eee8adb5a39",
+    "wof:geomhash":"f585240bd7ce60a787dfdfd06a7078a6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -55,7 +55,14 @@
         }
     ],
     "wof:id":1326703067,
-    "wof:lastmodified":1537636390,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613173128,
     "wof:name":"Umbulan Sepakat",
     "wof:parent_id":102072927,
     "wof:placetype":"locality",
@@ -65,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    105.50943999999998,
+    105.50944,
     -4.6487,
-    105.50943999999998,
+    105.50944,
     -4.6487
 ],
-  "geometry": {"coordinates":[105.50943999999998,-4.6487],"type":"Point"}
+  "geometry": {"coordinates":[105.50944,-4.6487],"type":"Point"}
 }

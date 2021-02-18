@@ -34,15 +34,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072983
+        102072983,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1973193
     },
     "wof:country":"ID",
-    "wof:geomhash":"77f0c7721a9eb17aa1dda6e77b63c663",
+    "wof:geomhash":"c15ca970b38338c3e0dd0589e2f56a42",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +53,14 @@
         }
     ],
     "wof:id":1360079167,
-    "wof:lastmodified":1537628110,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181868,
     "wof:name":"Gajihan",
     "wof:parent_id":102072983,
     "wof:placetype":"locality",
@@ -63,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.53943999999998,
+    110.53944,
     -7.49167,
-    110.53943999999998,
+    110.53944,
     -7.49167
 ],
-  "geometry": {"coordinates":[110.53943999999998,-7.49167],"type":"Point"}
+  "geometry": {"coordinates":[110.53944,-7.49167],"type":"Point"}
 }

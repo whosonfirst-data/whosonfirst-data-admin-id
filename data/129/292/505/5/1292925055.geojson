@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102072973
+        102072973,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6408482
     },
     "wof:country":"ID",
-    "wof:geomhash":"9ead7937e23148d49221947cad686a77",
+    "wof:geomhash":"34c0c87b8ba190276558456022784e00",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1292925055,
-    "wof:lastmodified":1537629010,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175637,
     "wof:name":"Alastuwo",
     "wof:parent_id":102072973,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.24611000000002,
+    111.24611,
     -7.71444,
-    111.24611000000002,
+    111.24611,
     -7.71444
 ],
-  "geometry": {"coordinates":[111.24611000000002,-7.71444],"type":"Point"}
+  "geometry": {"coordinates":[111.24611,-7.71444],"type":"Point"}
 }

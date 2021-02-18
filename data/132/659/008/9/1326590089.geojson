@@ -34,15 +34,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671995,
-        102072687
+        102072687,
+        85671995
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1959180
     },
     "wof:country":"ID",
-    "wof:geomhash":"0a3b753d6e895eaa43fe90449177eab6",
+    "wof:geomhash":"3322de7f25693cab0e84dc64bdfb9f16",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +53,14 @@
         }
     ],
     "wof:id":1326590089,
-    "wof:lastmodified":1537627491,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613172552,
     "wof:name":"Kawah",
     "wof:parent_id":102072687,
     "wof:placetype":"locality",
@@ -63,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.55306000000002,
+    106.55306,
     -6.03444,
-    106.55306000000002,
+    106.55306,
     -6.03444
 ],
-  "geometry": {"coordinates":[106.55306000000002,-6.03444],"type":"Point"}
+  "geometry": {"coordinates":[106.55306,-6.03444],"type":"Point"}
 }

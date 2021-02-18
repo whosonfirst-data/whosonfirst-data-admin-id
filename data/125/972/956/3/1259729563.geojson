@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671995,
-        1108796785
+        1108796785,
+        85671995
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1959101
     },
     "wof:country":"ID",
-    "wof:geomhash":"2cca212bb37e3de28d5fdf43c9373eb4",
+    "wof:geomhash":"9c4f5d34ea212617106350597a50266b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1259729563,
-    "wof:lastmodified":1537000022,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185160,
     "wof:name":"Labanbulan",
     "wof:parent_id":1108796785,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.61556000000002,
+    106.61556,
     -6.17222,
-    106.61556000000002,
+    106.61556,
     -6.17222
 ],
-  "geometry": {"coordinates":[106.61556000000002,-6.17222],"type":"Point"}
+  "geometry": {"coordinates":[106.61556,-6.17222],"type":"Point"}
 }

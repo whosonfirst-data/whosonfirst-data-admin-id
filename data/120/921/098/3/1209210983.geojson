@@ -34,7 +34,7 @@
         "gn:id":1934299
     },
     "wof:country":"ID",
-    "wof:geomhash":"bb00bbd980f8108bc798933bc0d60601",
+    "wof:geomhash":"c115199c6824cbb52bfd4f667551f181",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209210983,
-    "wof:lastmodified":1536294292,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179458,
     "wof:name":"Gabahan",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     110.8475,
-    -7.673610000000001,
+    -7.67361,
     110.8475,
-    -7.673610000000001
+    -7.67361
 ],
   "geometry": {"coordinates":[110.8475,-7.67361],"type":"Point"}
 }

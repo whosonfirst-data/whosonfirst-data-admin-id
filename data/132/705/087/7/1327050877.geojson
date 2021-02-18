@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072733
+        102072733,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1935703
     },
     "wof:country":"ID",
-    "wof:geomhash":"d8473fb33b72718121c663450b097dc5",
+    "wof:geomhash":"6d690fb8ba2d49143546df3dc002100a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1327050877,
-    "wof:lastmodified":1536734001,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613172866,
     "wof:name":"Karean",
     "wof:parent_id":102072733,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.95638999999998,
+    110.95639,
     -7.61306,
-    110.95638999999998,
+    110.95639,
     -7.61306
 ],
-  "geometry": {"coordinates":[110.95638999999998,-7.61306],"type":"Point"}
+  "geometry": {"coordinates":[110.95639,-7.61306],"type":"Point"}
 }

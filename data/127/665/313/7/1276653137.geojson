@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072715
+        102072715,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6390166
     },
     "wof:country":"ID",
-    "wof:geomhash":"f91f0a4a21044d8d528712d2eaf06bb3",
+    "wof:geomhash":"1075e399e6ba2143dd9c3aa691832966",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1276653137,
-    "wof:lastmodified":1537628708,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178158,
     "wof:name":"Cingkrang",
     "wof:parent_id":102072715,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.29361000000002,
+    109.29361,
     -7.40278,
-    109.29361000000002,
+    109.29361,
     -7.40278
 ],
-  "geometry": {"coordinates":[109.29361000000002,-7.40278],"type":"Point"}
+  "geometry": {"coordinates":[109.29361,-7.40278],"type":"Point"}
 }

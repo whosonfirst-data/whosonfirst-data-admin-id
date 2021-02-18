@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073233
+        102073233,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6259619
     },
     "wof:country":"ID",
-    "wof:geomhash":"49c169ee98e0f89797810c6412055587",
+    "wof:geomhash":"e59fca7d529eeef0501f3c7eef692773",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1326850869,
-    "wof:lastmodified":1537021027,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613173040,
     "wof:name":"Tegalmulyo",
     "wof:parent_id":102073233,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.49056000000002,
+    110.49056,
     -7.58472,
-    110.49056000000002,
+    110.49056,
     -7.58472
 ],
-  "geometry": {"coordinates":[110.49056000000002,-7.58472],"type":"Point"}
+  "geometry": {"coordinates":[110.49056,-7.58472],"type":"Point"}
 }

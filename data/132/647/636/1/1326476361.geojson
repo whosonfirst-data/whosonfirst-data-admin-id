@@ -34,15 +34,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072949
+        102072949,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1962570
     },
     "wof:country":"ID",
-    "wof:geomhash":"60616041539490655aabb97fb5faf486",
+    "wof:geomhash":"b33f19068d8a607827ef23255d96c7d0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +53,14 @@
         }
     ],
     "wof:id":1326476361,
-    "wof:lastmodified":1537627665,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613173075,
     "wof:name":"Cijotang",
     "wof:parent_id":102072949,
     "wof:placetype":"locality",
@@ -63,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.63611000000002,
+    107.63611,
     -6.8775,
-    107.63611000000002,
+    107.63611,
     -6.8775
 ],
-  "geometry": {"coordinates":[107.63611000000002,-6.8775],"type":"Point"}
+  "geometry": {"coordinates":[107.63611,-6.8775],"type":"Point"}
 }

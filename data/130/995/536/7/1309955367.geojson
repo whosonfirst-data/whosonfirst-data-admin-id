@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073193
+        102073193,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6402166
     },
     "wof:country":"ID",
-    "wof:geomhash":"f1d13992fdcff7aded88df40fda50a91",
+    "wof:geomhash":"749d0fb7ffaaea9783b34a583ec8c28e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1309955367,
-    "wof:lastmodified":1537628859,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613182400,
     "wof:name":"Lurah",
     "wof:parent_id":102073193,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.47556000000002,
+    108.47556,
     -6.515,
-    108.47556000000002,
+    108.47556,
     -6.515
 ],
-  "geometry": {"coordinates":[108.47556000000002,-6.515],"type":"Point"}
+  "geometry": {"coordinates":[108.47556,-6.515],"type":"Point"}
 }

@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073529
+        102073529,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6589031
     },
     "wof:country":"ID",
-    "wof:geomhash":"22489edc5fbc88feddb0e51ccfabc9e7",
+    "wof:geomhash":"92e3767f3ab288055ca7d1ed5cb9a862",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1226696277,
-    "wof:lastmodified":1537629632,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185619,
     "wof:name":"Sungareun",
     "wof:parent_id":102073529,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.11556000000002,
+    107.11556,
     -6.78,
-    107.11556000000002,
+    107.11556,
     -6.78
 ],
-  "geometry": {"coordinates":[107.11556000000002,-6.78],"type":"Point"}
+  "geometry": {"coordinates":[107.11556,-6.78],"type":"Point"}
 }

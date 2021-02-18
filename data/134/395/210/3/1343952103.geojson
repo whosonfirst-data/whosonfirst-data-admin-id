@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073233
+        102073233,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2008857
     },
     "wof:country":"ID",
-    "wof:geomhash":"41a41d98c41eda384141570b974d9825",
+    "wof:geomhash":"015c04a841f61c21de161c5b8e618722",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1343952103,
-    "wof:lastmodified":1537030783,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613174615,
     "wof:name":"Nanggulan",
     "wof:parent_id":102073233,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.73888999999998,
+    110.73889,
     -7.71806,
-    110.73888999999998,
+    110.73889,
     -7.71806
 ],
-  "geometry": {"coordinates":[110.73888999999998,-7.71806],"type":"Point"}
+  "geometry": {"coordinates":[110.73889,-7.71806],"type":"Point"}
 }

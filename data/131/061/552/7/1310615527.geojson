@@ -34,15 +34,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672115,
-        102072939
+        102072939,
+        85672115
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2082520
     },
     "wof:country":"ID",
-    "wof:geomhash":"a9a631580da228eed80498638d8746c0",
+    "wof:geomhash":"3a5bff78cc0b651cc7b04ae3cd4785e5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +53,14 @@
         }
     ],
     "wof:id":1310615527,
-    "wof:lastmodified":1537628277,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181494,
     "wof:name":"Nahu",
     "wof:parent_id":102072939,
     "wof:placetype":"locality",
@@ -63,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    140.41666999999998,
+    140.41667,
     -7.91667,
-    140.41666999999998,
+    140.41667,
     -7.91667
 ],
-  "geometry": {"coordinates":[140.41666999999998,-7.91667],"type":"Point"}
+  "geometry": {"coordinates":[140.41667000000001,-7.91667],"type":"Point"}
 }

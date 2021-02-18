@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072857
+        102072857,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6259258
     },
     "wof:country":"ID",
-    "wof:geomhash":"fe7af2bb218515736330de054b4cb23a",
+    "wof:geomhash":"ac150952fe5ed5e3855abd52a9f097c7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1259574421,
-    "wof:lastmodified":1536728336,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613184775,
     "wof:name":"Dukuhan",
     "wof:parent_id":102072857,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.36556000000002,
+    110.36556,
     -7.59944,
-    110.36556000000002,
+    110.36556,
     -7.59944
 ],
-  "geometry": {"coordinates":[110.36556000000002,-7.59944],"type":"Point"}
+  "geometry": {"coordinates":[110.36556,-7.59944],"type":"Point"}
 }

@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072983
+        102072983,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2009786
     },
     "wof:country":"ID",
-    "wof:geomhash":"d124f8b4225b058af9c0668f317c462d",
+    "wof:geomhash":"fb3682b3f72c97a67d3767cc434d6656",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1344177663,
-    "wof:lastmodified":1536706797,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613174898,
     "wof:name":"Sodong",
     "wof:parent_id":102072983,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.55306000000002,
+    110.55306,
     -7.57083,
-    110.55306000000002,
+    110.55306,
     -7.57083
 ],
-  "geometry": {"coordinates":[110.55306000000002,-7.57083],"type":"Point"}
+  "geometry": {"coordinates":[110.55306,-7.57083],"type":"Point"}
 }

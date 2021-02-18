@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073187
+        102073187,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6565742
     },
     "wof:country":"ID",
-    "wof:geomhash":"6bc4de2b0bfb208aa9fa81858275cf54",
+    "wof:geomhash":"a9af477be3a57d168968479ca97f6643",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1327021023,
-    "wof:lastmodified":1537629269,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613172872,
     "wof:name":"Kedungdono",
     "wof:parent_id":102073187,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.83693999999998,
+    109.83694,
     -7.66556,
-    109.83693999999998,
+    109.83694,
     -7.66556
 ],
-  "geometry": {"coordinates":[109.83693999999998,-7.66556],"type":"Point"}
+  "geometry": {"coordinates":[109.83694,-7.66556],"type":"Point"}
 }

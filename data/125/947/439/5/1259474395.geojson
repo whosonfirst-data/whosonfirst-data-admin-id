@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073265
+        102073265,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6258201
     },
     "wof:country":"ID",
-    "wof:geomhash":"b434573581e9fa1de9a758eb1f8e97ad",
+    "wof:geomhash":"4b9f098f6335f21bacef4fa75b23c0b5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1259474395,
-    "wof:lastmodified":1536870866,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613184641,
     "wof:name":"Watupecah",
     "wof:parent_id":102073265,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.30306000000002,
+    110.30306,
     -7.66833,
-    110.30306000000002,
+    110.30306,
     -7.66833
 ],
-  "geometry": {"coordinates":[110.30306000000002,-7.66833],"type":"Point"}
+  "geometry": {"coordinates":[110.30306,-7.66833],"type":"Point"}
 }

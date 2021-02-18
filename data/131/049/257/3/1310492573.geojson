@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072639
+        102072639,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6372096
     },
     "wof:country":"ID",
-    "wof:geomhash":"3b66a6af3436f65dbe6a3c2ec640468c",
+    "wof:geomhash":"b0ecda2d2e3ab1df434b0f63a8035ba3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1310492573,
-    "wof:lastmodified":1537628359,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613180853,
     "wof:name":"Semaji",
     "wof:parent_id":102072639,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.69138999999998,
+    109.69139,
     -7.7775,
-    109.69138999999998,
+    109.69139,
     -7.7775
 ],
-  "geometry": {"coordinates":[109.69138999999998,-7.7775],"type":"Point"}
+  "geometry": {"coordinates":[109.69139,-7.7775],"type":"Point"}
 }

@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072929
+        102072929,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6411456
     },
     "wof:country":"ID",
-    "wof:geomhash":"d19d90ea29ef406bb561437f94d12a27",
+    "wof:geomhash":"03b350a84c6c1db225e547bbc0e99f38",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1226666845,
-    "wof:lastmodified":1537629108,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185772,
     "wof:name":"Towo",
     "wof:parent_id":102072929,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.01888999999998,
+    111.01889,
     -7.2675,
-    111.01888999999998,
+    111.01889,
     -7.2675
 ],
-  "geometry": {"coordinates":[111.01888999999998,-7.2675],"type":"Point"}
+  "geometry": {"coordinates":[111.01889,-7.2675],"type":"Point"}
 }

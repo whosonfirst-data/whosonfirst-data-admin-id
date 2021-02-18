@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072947
+        102072947,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6406621
     },
     "wof:country":"ID",
-    "wof:geomhash":"c85f55bcd38cef27094e0df6eab59f45",
+    "wof:geomhash":"c98579a298c109cde49c496246a591bb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1343252959,
-    "wof:lastmodified":1537628968,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613174564,
     "wof:name":"Tambakmerang",
     "wof:parent_id":102072947,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.08138999999998,
+    111.08139,
     -7.78639,
-    111.08138999999998,
+    111.08139,
     -7.78639
 ],
-  "geometry": {"coordinates":[111.08138999999998,-7.78639],"type":"Point"}
+  "geometry": {"coordinates":[111.08139,-7.78639],"type":"Point"}
 }

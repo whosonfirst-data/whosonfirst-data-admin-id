@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072949
+        102072949,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1966154
     },
     "wof:country":"ID",
-    "wof:geomhash":"669688fe48aba42b2d061c9ea5954731",
+    "wof:geomhash":"5f9ee63d0602553baa707a3884dca2ac",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,7 +54,14 @@
         }
     ],
     "wof:id":1226699823,
-    "wof:lastmodified":1537627843,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185627,
     "wof:name":"Cideungkluk",
     "wof:parent_id":102072949,
     "wof:placetype":"locality",
@@ -64,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.57361000000002,
+    107.57361,
     -7.1075,
-    107.57361000000002,
+    107.57361,
     -7.1075
 ],
-  "geometry": {"coordinates":[107.57361000000002,-7.1075],"type":"Point"}
+  "geometry": {"coordinates":[107.57361,-7.1075],"type":"Point"}
 }

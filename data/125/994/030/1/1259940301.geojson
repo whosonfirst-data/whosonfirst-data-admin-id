@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072855
+        102072855,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6603325
     },
     "wof:country":"ID",
-    "wof:geomhash":"fdf1d78032db405cff0d37bbd081012b",
+    "wof:geomhash":"9aa180c5eb30a734b713a32c5fe96722",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1259940301,
-    "wof:lastmodified":1537629998,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613184925,
     "wof:name":"Pasirpanjang",
     "wof:parent_id":102072855,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.53943999999998,
+    106.53944,
     -6.92444,
-    106.53943999999998,
+    106.53944,
     -6.92444
 ],
-  "geometry": {"coordinates":[106.53943999999998,-6.92444],"type":"Point"}
+  "geometry": {"coordinates":[106.53944,-6.92444],"type":"Point"}
 }

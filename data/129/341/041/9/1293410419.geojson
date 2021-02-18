@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072733
+        102072733,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1935628
     },
     "wof:country":"ID",
-    "wof:geomhash":"95c98186c1eb2e5c3a25f4227bddcede",
+    "wof:geomhash":"0caed1bd6fa587a04eb52c7a9db3ef10",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1293410419,
-    "wof:lastmodified":1536898146,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175716,
     "wof:name":"Pelita",
     "wof:parent_id":102072733,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.97693999999998,
+    110.97694,
     -7.60639,
-    110.97693999999998,
+    110.97694,
     -7.60639
 ],
-  "geometry": {"coordinates":[110.97693999999998,-7.60639],"type":"Point"}
+  "geometry": {"coordinates":[110.97694,-7.60639],"type":"Point"}
 }

@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671995,
-        1108796785
+        1108796785,
+        85671995
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1990402
     },
     "wof:country":"ID",
-    "wof:geomhash":"253691ee03ead4237ec0e84f859c5fef",
+    "wof:geomhash":"6ab17f7dc7c6903345d79a690554f6a1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1293450153,
-    "wof:lastmodified":1536840011,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613176608,
     "wof:name":"Pisangan",
     "wof:parent_id":1108796785,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.73888999999998,
+    106.73889,
     -6.24472,
-    106.73888999999998,
+    106.73889,
     -6.24472
 ],
-  "geometry": {"coordinates":[106.73888999999998,-6.24472],"type":"Point"}
+  "geometry": {"coordinates":[106.73889,-6.24472],"type":"Point"}
 }

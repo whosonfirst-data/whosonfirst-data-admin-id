@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072949
+        102072949,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6599029
     },
     "wof:country":"ID",
-    "wof:geomhash":"33fc21bd3a0668b9f51de2e57953750d",
+    "wof:geomhash":"57178a931810d7b099d41b6a6ab99cc7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1225990689,
-    "wof:lastmodified":1537629948,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185917,
     "wof:name":"Bonjongtanjung Wetan",
     "wof:parent_id":102072949,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.57361000000002,
+    107.57361,
     -6.99167,
-    107.57361000000002,
+    107.57361,
     -6.99167
 ],
-  "geometry": {"coordinates":[107.57361000000002,-6.99167],"type":"Point"}
+  "geometry": {"coordinates":[107.57361,-6.99167],"type":"Point"}
 }

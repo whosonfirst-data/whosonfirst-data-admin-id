@@ -75,15 +75,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072949
+        102072949,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1965140
     },
     "wof:country":"ID",
-    "wof:geomhash":"187eef55fb93b8606565198a5dd3ef07",
+    "wof:geomhash":"01d760e79959821aa1fe51a4bd1086be",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -94,7 +94,14 @@
         }
     ],
     "wof:id":1242834919,
-    "wof:lastmodified":1564200347,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183789,
     "wof:name":"Ciputat",
     "wof:parent_id":102072949,
     "wof:placetype":"locality",
@@ -104,10 +111,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.67806000000002,
+    107.67806,
     -6.99083,
-    107.67806000000002,
+    107.67806,
     -6.99083
 ],
-  "geometry": {"coordinates":[107.67806000000002,-6.99083],"type":"Point"}
+  "geometry": {"coordinates":[107.67806,-6.99083],"type":"Point"}
 }

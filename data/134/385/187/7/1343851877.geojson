@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072921
+        102072921,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6379111
     },
     "wof:country":"ID",
-    "wof:geomhash":"1d69a83fbebafbc2249e8552d00f486a",
+    "wof:geomhash":"96d0d00e9cb79197282f20ea3bcf4276",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1343851877,
-    "wof:lastmodified":1537628520,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613174463,
     "wof:name":"Karangtengah Lor",
     "wof:parent_id":102072921,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.47693999999998,
+    109.47694,
     -7.36583,
-    109.47693999999998,
+    109.47694,
     -7.36583
 ],
-  "geometry": {"coordinates":[109.47693999999998,-7.36583],"type":"Point"}
+  "geometry": {"coordinates":[109.47694,-7.36583],"type":"Point"}
 }

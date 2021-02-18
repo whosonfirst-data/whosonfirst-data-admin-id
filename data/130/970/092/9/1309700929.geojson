@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073313
+        102073313,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2000341
     },
     "wof:country":"ID",
-    "wof:geomhash":"7880ed371820ecb5afd261aceaac8f2f",
+    "wof:geomhash":"cfd530f2cb54145e5eeb9eb09a902629",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1309700929,
-    "wof:lastmodified":1537079198,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613182258,
     "wof:name":"Pamotan Lor",
     "wof:parent_id":102073313,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.42806000000002,
+    110.42806,
     -7.85056,
-    110.42806000000002,
+    110.42806,
     -7.85056
 ],
-  "geometry": {"coordinates":[110.42806000000002,-7.85056],"type":"Point"}
+  "geometry": {"coordinates":[110.42806,-7.85056],"type":"Point"}
 }

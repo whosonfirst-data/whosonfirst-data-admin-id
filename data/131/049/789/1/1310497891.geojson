@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073153
+        102073153,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6370988
     },
     "wof:country":"ID",
-    "wof:geomhash":"1c03e2539e60f0d7dd0cf7907c800a94",
+    "wof:geomhash":"f09cffd9bf55a7331b3130231949faba",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1310497891,
-    "wof:lastmodified":1537628328,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613180878,
     "wof:name":"Curah",
     "wof:parent_id":102073153,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.44861000000002,
+    109.44861,
     -7.49806,
-    109.44861000000002,
+    109.44861,
     -7.49806
 ],
-  "geometry": {"coordinates":[109.44861000000002,-7.49806],"type":"Point"}
+  "geometry": {"coordinates":[109.44861,-7.49806],"type":"Point"}
 }

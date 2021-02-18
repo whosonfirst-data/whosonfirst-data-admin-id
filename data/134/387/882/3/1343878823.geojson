@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072947
+        102072947,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6406510
     },
     "wof:country":"ID",
-    "wof:geomhash":"77b00d9d65c1894b93dd2f457ce8c56d",
+    "wof:geomhash":"011c3acaecb06b434f2d3694d4862fa4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1343878823,
-    "wof:lastmodified":1537628963,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175149,
     "wof:name":"Gembol Kidul",
     "wof:parent_id":102072947,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.08693999999998,
+    111.08694,
     -7.81139,
-    111.08693999999998,
+    111.08694,
     -7.81139
 ],
-  "geometry": {"coordinates":[111.08693999999998,-7.81139],"type":"Point"}
+  "geometry": {"coordinates":[111.08694,-7.81139],"type":"Point"}
 }

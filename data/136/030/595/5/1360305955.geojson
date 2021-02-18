@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073119
+        102073119,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6391152
     },
     "wof:country":"ID",
-    "wof:geomhash":"9d4a16ad4f08254853d3ee79e59f0c8b",
+    "wof:geomhash":"2fc451652ff999f43b6e67a575a84567",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1360305955,
-    "wof:lastmodified":1537628740,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181893,
     "wof:name":"Igirtenjo",
     "wof:parent_id":102073119,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.07193999999998,
+    109.07194,
     -7.22194,
-    109.07193999999998,
+    109.07194,
     -7.22194
 ],
-  "geometry": {"coordinates":[109.07193999999998,-7.22194],"type":"Point"}
+  "geometry": {"coordinates":[109.07194,-7.22194],"type":"Point"}
 }

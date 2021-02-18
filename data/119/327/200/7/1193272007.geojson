@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072639
+        102072639,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6565969
     },
     "wof:country":"ID",
-    "wof:geomhash":"510da14555854051de85e5bc675d08f0",
+    "wof:geomhash":"4dd3f3fa3c03793d411a01f10990d003",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1193272007,
-    "wof:lastmodified":1537629278,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613180085,
     "wof:name":"Dukuhtengah",
     "wof:parent_id":102072639,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.76888999999998,
+    109.76889,
     -7.74306,
-    109.76888999999998,
+    109.76889,
     -7.74306
 ],
-  "geometry": {"coordinates":[109.76888999999998,-7.74306],"type":"Point"}
+  "geometry": {"coordinates":[109.76889,-7.74306],"type":"Point"}
 }

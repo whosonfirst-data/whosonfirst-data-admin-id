@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072715
+        102072715,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6385694
     },
     "wof:country":"ID",
-    "wof:geomhash":"a8adde3b67227de592eb9a4e1a4e8060",
+    "wof:geomhash":"9e5e8a22ef47b39dbeb6245cd1d5c12d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1209907227,
-    "wof:lastmodified":1537628585,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178561,
     "wof:name":"Kedunglegok",
     "wof:parent_id":102072715,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.10056000000002,
+    109.10056,
     -7.5275,
-    109.10056000000002,
+    109.10056,
     -7.5275
 ],
-  "geometry": {"coordinates":[109.10056000000002,-7.5275],"type":"Point"}
+  "geometry": {"coordinates":[109.10056,-7.5275],"type":"Point"}
 }

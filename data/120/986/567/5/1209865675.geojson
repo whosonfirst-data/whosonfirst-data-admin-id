@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671995,
-        102072687
+        102072687,
+        85671995
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1987071
     },
     "wof:country":"ID",
-    "wof:geomhash":"1b29629d521d7822c7b991d3e5a1b71a",
+    "wof:geomhash":"ba154e00c57de246fad57ca167ab0772",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1209865675,
-    "wof:lastmodified":1536379038,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179586,
     "wof:name":"Kampungsawahponcol",
     "wof:parent_id":102072687,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.74056000000002,
+    106.74056,
     -6.3,
-    106.74056000000002,
+    106.74056,
     -6.3
 ],
-  "geometry": {"coordinates":[106.74056000000002,-6.3],"type":"Point"}
+  "geometry": {"coordinates":[106.74056,-6.3],"type":"Point"}
 }

@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073187
+        102073187,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6566388
     },
     "wof:country":"ID",
-    "wof:geomhash":"387e0b23da7084de3c3ff305229bd7d7",
+    "wof:geomhash":"33b4c6c2d9f48e61dac89b5893023ad2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1310492883,
-    "wof:lastmodified":1537629290,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613180851,
     "wof:name":"Paduruso",
     "wof:parent_id":102073187,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.99611000000002,
+    109.99611,
     -7.70194,
-    109.99611000000002,
+    109.99611,
     -7.70194
 ],
-  "geometry": {"coordinates":[109.99611000000002,-7.70194],"type":"Point"}
+  "geometry": {"coordinates":[109.99611,-7.70194],"type":"Point"}
 }

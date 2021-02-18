@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072709
+        102072709,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6252733
     },
     "wof:country":"ID",
-    "wof:geomhash":"af6c83be7a54883449592c3e2460b13a",
+    "wof:geomhash":"9192b697be95d7d785df10433481216a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1226133763,
-    "wof:lastmodified":1537091814,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185997,
     "wof:name":"Dampyak",
     "wof:parent_id":102072709,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.53943999999998,
+    110.53944,
     -7.2875,
-    110.53943999999998,
+    110.53944,
     -7.2875
 ],
-  "geometry": {"coordinates":[110.53943999999998,-7.2875],"type":"Point"}
+  "geometry": {"coordinates":[110.53944,-7.2875],"type":"Point"}
 }

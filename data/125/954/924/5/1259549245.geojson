@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672037,
-        102073481
+        102073481,
+        85672037
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1947024
     },
     "wof:country":"ID",
-    "wof:geomhash":"a23378d165446c4c0833e0090d16a428",
+    "wof:geomhash":"b27d43a5a18fc4df9b421028d450c68b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1259549245,
-    "wof:lastmodified":1536764677,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613184276,
     "wof:name":"Alastasi",
     "wof:parent_id":102073481,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    124.96193999999998,
+    124.96194,
     -9.63417,
-    124.96193999999998,
+    124.96194,
     -9.63417
 ],
-  "geometry": {"coordinates":[124.96193999999998,-9.63417],"type":"Point"}
+  "geometry": {"coordinates":[124.96194,-9.63417],"type":"Point"}
 }

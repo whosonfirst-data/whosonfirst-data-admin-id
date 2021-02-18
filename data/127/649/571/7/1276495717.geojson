@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072739
+        102072739,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6582556
     },
     "wof:country":"ID",
-    "wof:geomhash":"d566f0d12248d4747d371ad3a02d7496",
+    "wof:geomhash":"59dedee60fc92d3881e14853cbbe463a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1276495717,
-    "wof:lastmodified":1537629503,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177842,
     "wof:name":"Citaleus",
     "wof:parent_id":102072739,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.92638999999998,
+    107.92639,
     -6.70361,
-    107.92638999999998,
+    107.92639,
     -6.70361
 ],
-  "geometry": {"coordinates":[107.92638999999998,-6.70361],"type":"Point"}
+  "geometry": {"coordinates":[107.92639,-6.70361],"type":"Point"}
 }

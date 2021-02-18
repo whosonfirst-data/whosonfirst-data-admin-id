@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072857
+        102072857,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6264120
     },
     "wof:country":"ID",
-    "wof:geomhash":"c818abdf7c0f7455f0ff21880b2bd997",
+    "wof:geomhash":"7dfafa04ff616c9871ce36538f541722",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1343782745,
-    "wof:lastmodified":1536779423,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613174538,
     "wof:name":"Somokerto Satu",
     "wof:parent_id":102072857,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.30306000000002,
+    110.30306,
     -7.63167,
-    110.30306000000002,
+    110.30306,
     -7.63167
 ],
-  "geometry": {"coordinates":[110.30306000000002,-7.63167],"type":"Point"}
+  "geometry": {"coordinates":[110.30306,-7.63167],"type":"Point"}
 }

@@ -34,7 +34,7 @@
         "gn:id":1935068
     },
     "wof:country":"ID",
-    "wof:geomhash":"c65e73700b3d9b5cea935e8892a8fdaf",
+    "wof:geomhash":"e40ba7afef235c78f1ec74467cb5362d",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209606169,
-    "wof:lastmodified":1536282005,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179106,
     "wof:name":"Juron",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     110.93194,
-    -7.720560000000001,
+    -7.72056,
     110.93194,
-    -7.720560000000001
+    -7.72056
 ],
   "geometry": {"coordinates":[110.93194,-7.72056],"type":"Point"}
 }

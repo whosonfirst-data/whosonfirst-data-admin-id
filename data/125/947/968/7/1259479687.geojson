@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073187
+        102073187,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6261647
     },
     "wof:country":"ID",
-    "wof:geomhash":"484167907d42c20d1ec6216cab3c9adb",
+    "wof:geomhash":"df062573cc3be44598ede33754fb02ff",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1259479687,
-    "wof:lastmodified":1536862909,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613184649,
     "wof:name":"Tambak Kulon",
     "wof:parent_id":102073187,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.02443999999998,
+    110.02444,
     -7.71194,
-    110.02443999999998,
+    110.02444,
     -7.71194
 ],
-  "geometry": {"coordinates":[110.02443999999998,-7.71194],"type":"Point"}
+  "geometry": {"coordinates":[110.02444,-7.71194],"type":"Point"}
 }

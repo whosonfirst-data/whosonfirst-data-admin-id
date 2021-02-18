@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073529
+        102073529,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6588662
     },
     "wof:country":"ID",
-    "wof:geomhash":"9f537597d40bfc6385bd81a0f69d1a6f",
+    "wof:geomhash":"32e05ff41cbf761de7b4c6ea8b946c23",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1260226833,
-    "wof:lastmodified":1537629619,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613180293,
     "wof:name":"Pasirmalang",
     "wof:parent_id":102073529,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.16306000000002,
+    107.16306,
     -6.91889,
-    107.16306000000002,
+    107.16306,
     -6.91889
 ],
-  "geometry": {"coordinates":[107.16306000000002,-6.91889],"type":"Point"}
+  "geometry": {"coordinates":[107.16306,-6.91889],"type":"Point"}
 }

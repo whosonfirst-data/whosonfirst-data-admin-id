@@ -41,15 +41,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072639
+        102072639,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1651628
     },
     "wof:country":"ID",
-    "wof:geomhash":"f99517892951f7db83953572c12d4c93",
+    "wof:geomhash":"63012554fdc394105068e6b91308205e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -60,7 +60,14 @@
         }
     ],
     "wof:id":1276437911,
-    "wof:lastmodified":1564180427,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177113,
     "wof:name":"Alian",
     "wof:parent_id":102072639,
     "wof:placetype":"locality",
@@ -70,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.70638999999998,
+    109.70639,
     -7.60417,
-    109.70638999999998,
+    109.70639,
     -7.60417
 ],
-  "geometry": {"coordinates":[109.70638999999998,-7.60417],"type":"Point"}
+  "geometry": {"coordinates":[109.70639,-7.60417],"type":"Point"}
 }

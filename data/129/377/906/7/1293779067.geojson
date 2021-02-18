@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102073223
+        102073223,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8418464
     },
     "wof:country":"ID",
-    "wof:geomhash":"9fc02522c96b251ffc19e2a541409100",
+    "wof:geomhash":"1b4c094f1faaa1206959991a617b2dcc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1293779067,
-    "wof:lastmodified":1537636061,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175748,
     "wof:name":"Kajisara",
     "wof:parent_id":102073223,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    115.50688999999998,
+    115.50689,
     -6.87792,
-    115.50688999999998,
+    115.50689,
     -6.87792
 ],
-  "geometry": {"coordinates":[115.50688999999998,-6.87792],"type":"Point"}
+  "geometry": {"coordinates":[115.50689,-6.87792],"type":"Point"}
 }

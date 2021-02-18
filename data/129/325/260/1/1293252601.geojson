@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072739
+        102072739,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6580737
     },
     "wof:country":"ID",
-    "wof:geomhash":"6ee547d37fe7d773ef8a847d13cde3b6",
+    "wof:geomhash":"be105796bb3f3e398c72eb5f42ad8c67",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1293252601,
-    "wof:lastmodified":1537629451,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613176074,
     "wof:name":"Kalipicung",
     "wof:parent_id":102072739,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.87111000000002,
+    107.87111,
     -6.80111,
-    107.87111000000002,
+    107.87111,
     -6.80111
 ],
-  "geometry": {"coordinates":[107.87111000000002,-6.80111],"type":"Point"}
+  "geometry": {"coordinates":[107.87111,-6.80111],"type":"Point"}
 }

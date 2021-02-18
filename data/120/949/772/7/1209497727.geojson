@@ -37,7 +37,7 @@
         "gn:id":8364242
     },
     "wof:country":"ID",
-    "wof:geomhash":"6fe6f91b92e91abd5becf8c5bfd4013c",
+    "wof:geomhash":"edf4e720dfab025954c7abb4d9d77b2a",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -45,7 +45,14 @@
         }
     ],
     "wof:id":1209497727,
-    "wof:lastmodified":1537635738,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178845,
     "wof:name":"Sidokerto",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -55,10 +62,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    104.95631000000002,
+    104.95631,
     -4.88118,
-    104.95631000000002,
+    104.95631,
     -4.88118
 ],
-  "geometry": {"coordinates":[104.95631000000002,-4.88118],"type":"Point"}
+  "geometry": {"coordinates":[104.95631,-4.88118],"type":"Point"}
 }

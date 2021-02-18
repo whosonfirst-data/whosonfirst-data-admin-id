@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072929
+        102072929,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6262973
     },
     "wof:country":"ID",
-    "wof:geomhash":"7e14ca0aeadbcd1ef857d2d183c6898d",
+    "wof:geomhash":"75e0985863508ad99f2e2ed85be032f5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1259803977,
-    "wof:lastmodified":1536893474,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185049,
     "wof:name":"Grasak",
     "wof:parent_id":102072929,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.83693999999998,
+    110.83694,
     -7.44139,
-    110.83693999999998,
+    110.83694,
     -7.44139
 ],
-  "geometry": {"coordinates":[110.83693999999998,-7.44139],"type":"Point"}
+  "geometry": {"coordinates":[110.83694,-7.44139],"type":"Point"}
 }

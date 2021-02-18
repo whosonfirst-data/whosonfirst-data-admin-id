@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073169
+        102073169,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6200374
     },
     "wof:country":"ID",
-    "wof:geomhash":"22ac9e9b0ada2bb765d30a54f98c4371",
+    "wof:geomhash":"9ef4e3f772936b04dd0eda3ea803d575",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1293780239,
-    "wof:lastmodified":1536860718,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175977,
     "wof:name":"Nglaruk",
     "wof:parent_id":102073169,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.05306000000002,
+    110.05306,
     -7.25444,
-    110.05306000000002,
+    110.05306,
     -7.25444
 ],
-  "geometry": {"coordinates":[110.05306000000002,-7.25444],"type":"Point"}
+  "geometry": {"coordinates":[110.05306,-7.25444],"type":"Point"}
 }

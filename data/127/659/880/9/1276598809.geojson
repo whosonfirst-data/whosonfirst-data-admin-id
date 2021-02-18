@@ -36,15 +36,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072949
+        102072949,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1963435
     },
     "wof:country":"ID",
-    "wof:geomhash":"4dbecbe68748eb2c7659fc7ca52eefc4",
+    "wof:geomhash":"96f1ffd450b87b8394f7c2b685bbff4f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -55,7 +55,14 @@
         }
     ],
     "wof:id":1276598809,
-    "wof:lastmodified":1537627712,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177532,
     "wof:name":"Cisirung",
     "wof:parent_id":102072949,
     "wof:placetype":"locality",
@@ -65,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.61388999999998,
+    107.61389,
     -6.97389,
-    107.61388999999998,
+    107.61389,
     -6.97389
 ],
-  "geometry": {"coordinates":[107.61388999999998,-6.97389],"type":"Point"}
+  "geometry": {"coordinates":[107.61389,-6.97389],"type":"Point"}
 }

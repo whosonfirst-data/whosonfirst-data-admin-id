@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072889
+        102072889,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6763320
     },
     "wof:country":"ID",
-    "wof:geomhash":"501af39bf3c0dddf5d261e2de2374dff",
+    "wof:geomhash":"b4ac83ee6145a0eab8f2f80220bd9cae",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1260100919,
-    "wof:lastmodified":1537631437,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613180536,
     "wof:name":"Ngasem",
     "wof:parent_id":102072889,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.70586000000002,
+    109.70586,
     -6.89456,
-    109.70586000000002,
+    109.70586,
     -6.89456
 ],
-  "geometry": {"coordinates":[109.70586000000002,-6.89456],"type":"Point"}
+  "geometry": {"coordinates":[109.70586,-6.89456],"type":"Point"}
 }

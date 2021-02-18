@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102073013
+        102073013,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6387101
     },
     "wof:country":"ID",
-    "wof:geomhash":"24dc8fe407a5605712cf148eaca2a671",
+    "wof:geomhash":"4a53e7484be0af804599a2a71c65152e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1293774263,
-    "wof:lastmodified":1537628629,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175763,
     "wof:name":"Perang",
     "wof:parent_id":102073013,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.28806000000002,
+    111.28806,
     -8.14556,
-    111.28806000000002,
+    111.28806,
     -8.14556
 ],
-  "geometry": {"coordinates":[111.28806000000002,-8.14556],"type":"Point"}
+  "geometry": {"coordinates":[111.28806,-8.14556],"type":"Point"}
 }

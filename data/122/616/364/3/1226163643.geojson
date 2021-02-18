@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072857
+        102072857,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6259423
     },
     "wof:country":"ID",
-    "wof:geomhash":"1fd78c33647682c9109b71f5820bd66e",
+    "wof:geomhash":"f78a3e7951b2975f848ead808fb15ce5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1226163643,
-    "wof:lastmodified":1537049876,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185532,
     "wof:name":"Ngomon Kidul",
     "wof:parent_id":102072857,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.25943999999998,
+    110.25944,
     -7.61806,
-    110.25943999999998,
+    110.25944,
     -7.61806
 ],
-  "geometry": {"coordinates":[110.25943999999998,-7.61806],"type":"Point"}
+  "geometry": {"coordinates":[110.25944,-7.61806],"type":"Point"}
 }

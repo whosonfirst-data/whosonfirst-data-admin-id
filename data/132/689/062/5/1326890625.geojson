@@ -34,15 +34,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671995,
-        102072687
+        102072687,
+        85671995
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1951602
     },
     "wof:country":"ID",
-    "wof:geomhash":"cdbed216445ea2fd8321922c04fbdcb3",
+    "wof:geomhash":"b192a814457d6e84f354ab30f764fd92",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +53,14 @@
         }
     ],
     "wof:id":1326890625,
-    "wof:lastmodified":1537627470,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613172384,
     "wof:name":"Nalagati",
     "wof:parent_id":102072687,
     "wof:placetype":"locality",
@@ -63,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.52306000000002,
+    106.52306,
     -6.255,
-    106.52306000000002,
+    106.52306,
     -6.255
 ],
-  "geometry": {"coordinates":[106.52306000000002,-6.255],"type":"Point"}
+  "geometry": {"coordinates":[106.52306,-6.255],"type":"Point"}
 }

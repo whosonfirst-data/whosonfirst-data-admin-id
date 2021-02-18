@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072983
+        102072983,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2009529
     },
     "wof:country":"ID",
-    "wof:geomhash":"9eca4fa557fd82e1b8f3d74c574b8708",
+    "wof:geomhash":"0d973af9967c9656f9ca60c0dc77115b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1310101927,
-    "wof:lastmodified":1537000914,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181367,
     "wof:name":"Surodadi",
     "wof:parent_id":102072983,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.60193999999998,
+    110.60194,
     -7.54333,
-    110.60193999999998,
+    110.60194,
     -7.54333
 ],
-  "geometry": {"coordinates":[110.60193999999998,-7.54333],"type":"Point"}
+  "geometry": {"coordinates":[110.60194,-7.54333],"type":"Point"}
 }

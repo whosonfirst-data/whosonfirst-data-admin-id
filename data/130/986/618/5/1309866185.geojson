@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073449
+        102073449,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6598736
     },
     "wof:country":"ID",
-    "wof:geomhash":"07f72ea2bb4e2f71fe74754cae6040a8",
+    "wof:geomhash":"8ba3c43ec8d59c41b23ec4de1ef12cdf",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1309866185,
-    "wof:lastmodified":1537629936,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613182575,
     "wof:name":"Jambangan",
     "wof:parent_id":102073449,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.55861000000002,
+    107.55861,
     -6.93722,
-    107.55861000000002,
+    107.55861,
     -6.93722
 ],
-  "geometry": {"coordinates":[107.55861000000002,-6.93722],"type":"Point"}
+  "geometry": {"coordinates":[107.55861,-6.93722],"type":"Point"}
 }

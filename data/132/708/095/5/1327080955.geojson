@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672085,
-        102072651
+        102072651,
+        85672085
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1644735
     },
     "wof:country":"ID",
-    "wof:geomhash":"bae078e8973cab1e3fa78b2966946619",
+    "wof:geomhash":"8d4fba44464a9f61fef008704ca6659c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1327080955,
-    "wof:lastmodified":1537627128,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613172079,
     "wof:name":"Fokalik",
     "wof:parent_id":102072651,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    125.86648999999998,
+    125.86649,
     -2.05891,
-    125.86648999999998,
+    125.86649,
     -2.05891
 ],
-  "geometry": {"coordinates":[125.86648999999998,-2.05891],"type":"Point"}
+  "geometry": {"coordinates":[125.86649,-2.05891],"type":"Point"}
 }

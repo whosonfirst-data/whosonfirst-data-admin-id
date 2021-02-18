@@ -34,7 +34,7 @@
         "gn:id":2009485
     },
     "wof:country":"ID",
-    "wof:geomhash":"99f3bceb109fe03781b680ee3e445c30",
+    "wof:geomhash":"9111e421719439fda635fdf8fd0e6ef3",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209435605,
-    "wof:lastmodified":1536287114,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179539,
     "wof:name":"Tampir",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -52,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.55306000000002,
-    -7.5380600000000015,
-    110.55306000000002,
-    -7.5380600000000015
+    110.55306,
+    -7.53806,
+    110.55306,
+    -7.53806
 ],
-  "geometry": {"coordinates":[110.55306000000002,-7.53806],"type":"Point"}
+  "geometry": {"coordinates":[110.55306,-7.53806],"type":"Point"}
 }

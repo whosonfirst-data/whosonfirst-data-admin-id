@@ -34,15 +34,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672115,
-        102072939
+        102072939,
+        85672115
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2082658
     },
     "wof:country":"ID",
-    "wof:geomhash":"43755d953386791ca3400cd9172f0259",
+    "wof:geomhash":"e6b51d1c1c7976002428c37f29f65523",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +53,14 @@
         }
     ],
     "wof:id":1310619311,
-    "wof:lastmodified":1537628281,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181491,
     "wof:name":"Daonaf-miraaf",
     "wof:parent_id":102072939,
     "wof:placetype":"locality",
@@ -63,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    140.91666999999995,
+    140.91667,
     -7.91667,
-    140.91666999999995,
+    140.91667,
     -7.91667
 ],
-  "geometry": {"coordinates":[140.91666999999995,-7.91667],"type":"Point"}
+  "geometry": {"coordinates":[140.91667000000001,-7.91667],"type":"Point"}
 }

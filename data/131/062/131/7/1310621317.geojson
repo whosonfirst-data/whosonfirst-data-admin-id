@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072857
+        102072857,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6199436
     },
     "wof:country":"ID",
-    "wof:geomhash":"dcdd07ea6dc908360902b53a6f6256d8",
+    "wof:geomhash":"c4cc6199ee0310d4d7805f0282ba0c21",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1310621317,
-    "wof:lastmodified":1536749787,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613180928,
     "wof:name":"Pongangan Dua",
     "wof:parent_id":102072857,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.24611000000002,
+    110.24611,
     -7.42667,
-    110.24611000000002,
+    110.24611,
     -7.42667
 ],
-  "geometry": {"coordinates":[110.24611000000002,-7.42667],"type":"Point"}
+  "geometry": {"coordinates":[110.24611,-7.42667],"type":"Point"}
 }

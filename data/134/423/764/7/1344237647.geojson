@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672005,
-        102073335
+        102073335,
+        85672005
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":9022010
     },
     "wof:country":"ID",
-    "wof:geomhash":"2fdfacfa2d09ebc3991d908e985af35d",
+    "wof:geomhash":"296008a087edb13f8111b54ae57b6a6f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1344237647,
-    "wof:lastmodified":1537636707,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613174243,
     "wof:name":"Seledok",
     "wof:parent_id":102073335,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.39728999999998,
+    109.39729,
     0.39619,
-    109.39728999999998,
+    109.39729,
     0.39619
 ],
-  "geometry": {"coordinates":[109.39728999999998,0.39619],"type":"Point"}
+  "geometry": {"coordinates":[109.39729,0.39619],"type":"Point"}
 }

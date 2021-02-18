@@ -200,15 +200,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072715
+        102072715,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6389842
     },
     "wof:country":"ID",
-    "wof:geomhash":"14612ba82cf8ee3ad96e418ecc7205a2",
+    "wof:geomhash":"37986c886c76a91a217439a28a91eb51",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -219,7 +219,14 @@
         }
     ],
     "wof:id":1226163711,
-    "wof:lastmodified":1564205512,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185533,
     "wof:name":"Baron",
     "wof:parent_id":102072715,
     "wof:placetype":"locality",
@@ -229,10 +236,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.16306000000002,
+    109.16306,
     -7.365,
-    109.16306000000002,
+    109.16306,
     -7.365
 ],
-  "geometry": {"coordinates":[109.16306000000002,-7.365],"type":"Point"}
+  "geometry": {"coordinates":[109.16306,-7.365],"type":"Point"}
 }

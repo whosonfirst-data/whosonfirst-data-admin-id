@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102073377
+        102073377,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6865410
     },
     "wof:country":"ID",
-    "wof:geomhash":"f2875266e7dd77ef90e1568262b4a5d3",
+    "wof:geomhash":"03c2db452d57e36ce1882f24fe6b6f31",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1309895885,
-    "wof:lastmodified":1537632435,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613182507,
     "wof:name":"Prembungan",
     "wof:parent_id":102073377,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.99396000000002,
+    111.99396,
     -7.1849,
-    111.99396000000002,
+    111.99396,
     -7.1849
 ],
-  "geometry": {"coordinates":[111.99396000000002,-7.1849],"type":"Point"}
+  "geometry": {"coordinates":[111.99396,-7.1849],"type":"Point"}
 }

@@ -34,7 +34,7 @@
         "gn:id":6255311
     },
     "wof:country":"ID",
-    "wof:geomhash":"dba591e19090f74b54959eb15eb5bcd3",
+    "wof:geomhash":"79ad07be536896d92ea0c39800ae37a9",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209409093,
-    "wof:lastmodified":1536287899,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178752,
     "wof:name":"Pule",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     110.79083,
-    -7.970280000000002,
+    -7.97028,
     110.79083,
-    -7.970280000000002
+    -7.97028
 ],
   "geometry": {"coordinates":[110.79083,-7.97028],"type":"Point"}
 }

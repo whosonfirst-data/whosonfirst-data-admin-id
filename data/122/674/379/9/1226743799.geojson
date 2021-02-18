@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073187
+        102073187,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6566384
     },
     "wof:country":"ID",
-    "wof:geomhash":"3a325fbbeab5d75454c16e5026d58f1e",
+    "wof:geomhash":"20e781ce0d086751410fa71ee5558c6c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1226743799,
-    "wof:lastmodified":1537629290,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185437,
     "wof:name":"Lingkungan Satu",
     "wof:parent_id":102073187,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.99611000000002,
+    109.99611,
     -7.69722,
-    109.99611000000002,
+    109.99611,
     -7.69722
 ],
-  "geometry": {"coordinates":[109.99611000000002,-7.69722],"type":"Point"}
+  "geometry": {"coordinates":[109.99611,-7.69722],"type":"Point"}
 }

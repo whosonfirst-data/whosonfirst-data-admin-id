@@ -49,7 +49,7 @@
         "gn:id":6404697
     },
     "wof:country":"ID",
-    "wof:geomhash":"0160d16db04636d5add30dffea9ef1b8",
+    "wof:geomhash":"b1eda67540c04a6cc979448925c710d8",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -57,7 +57,14 @@
         }
     ],
     "wof:id":1209026939,
-    "wof:lastmodified":1564186453,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179207,
     "wof:name":"Sumber",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -67,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.99056000000002,
+    110.99056,
     -8.06667,
-    110.99056000000002,
+    110.99056,
     -8.06667
 ],
-  "geometry": {"coordinates":[110.99056000000002,-8.06667],"type":"Point"}
+  "geometry": {"coordinates":[110.99056,-8.06667],"type":"Point"}
 }

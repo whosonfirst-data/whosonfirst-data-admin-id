@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        1108796793
+        1108796793,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6585475
     },
     "wof:country":"ID",
-    "wof:geomhash":"5faa504df5c1d7062e5025e151746e36",
+    "wof:geomhash":"d3e1cfa2a17d2c37a10e4519935e2694",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1293639059,
-    "wof:lastmodified":1537629592,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175567,
     "wof:name":"Gerang",
     "wof:parent_id":1108796793,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.48888999999998,
+    107.48889,
     -6.92833,
-    107.48888999999998,
+    107.48889,
     -6.92833
 ],
-  "geometry": {"coordinates":[107.48888999999998,-6.92833],"type":"Point"}
+  "geometry": {"coordinates":[107.48889,-6.92833],"type":"Point"}
 }

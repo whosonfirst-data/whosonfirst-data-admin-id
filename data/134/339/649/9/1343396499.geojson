@@ -32,8 +32,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671977,
         102073415,
+        85671977,
         1108805993
     ],
     "wof:breaches":[],
@@ -41,7 +41,7 @@
         "gn:id":8613284
     },
     "wof:country":"ID",
-    "wof:geomhash":"110bc824199cd559933d447d0bf1921b",
+    "wof:geomhash":"51dc348145a70ee0caa48b7dcf230f2b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -59,7 +59,14 @@
         }
     ],
     "wof:id":1343396499,
-    "wof:lastmodified":1537636511,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613173995,
     "wof:name":"Long Nawang",
     "wof:parent_id":102073415,
     "wof:placetype":"locality",
@@ -69,10 +76,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    115.67121000000002,
+    115.67121,
     3.91824,
-    115.67121000000002,
+    115.67121,
     3.91824
 ],
-  "geometry": {"coordinates":[115.67121000000002,3.91824],"type":"Point"}
+  "geometry": {"coordinates":[115.67121,3.91824],"type":"Point"}
 }

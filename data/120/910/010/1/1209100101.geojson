@@ -43,7 +43,7 @@
         "gn:id":6199271
     },
     "wof:country":"ID",
-    "wof:geomhash":"cb7937196aa3cd5092ec55ff2c351a04",
+    "wof:geomhash":"082e92091d2325036a9ec3db368f454c",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1209100101,
-    "wof:lastmodified":1564187366,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179521,
     "wof:name":"Setan",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.24611000000002,
+    110.24611,
     -7.44056,
-    110.24611000000002,
+    110.24611,
     -7.44056
 ],
-  "geometry": {"coordinates":[110.24611000000002,-7.44056],"type":"Point"}
+  "geometry": {"coordinates":[110.24611,-7.44056],"type":"Point"}
 }

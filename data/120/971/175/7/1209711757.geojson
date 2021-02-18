@@ -41,15 +41,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073153
+        102073153,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6381051
     },
     "wof:country":"ID",
-    "wof:geomhash":"2c612367d6dff4aff8b9edbe0e56517d",
+    "wof:geomhash":"d4040e87f48d94bf77853fc935d654ce",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -60,7 +60,14 @@
         }
     ],
     "wof:id":1209711757,
-    "wof:lastmodified":1564185351,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178821,
     "wof:name":"Wates",
     "wof:parent_id":102073153,
     "wof:placetype":"locality",
@@ -70,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.68361000000002,
+    109.68361,
     -7.25167,
-    109.68361000000002,
+    109.68361,
     -7.25167
 ],
-  "geometry": {"coordinates":[109.68361000000002,-7.25167],"type":"Point"}
+  "geometry": {"coordinates":[109.68361,-7.25167],"type":"Point"}
 }

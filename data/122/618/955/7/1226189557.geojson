@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672097,
-        1108796833
+        1108796833,
+        85672097
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1901692
     },
     "wof:country":"ID",
-    "wof:geomhash":"f1ca65a6967eacf871fb664ac8ac24cf",
+    "wof:geomhash":"931e6e824fe72241de63276375e67423",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1226189557,
-    "wof:lastmodified":1537013875,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185465,
     "wof:name":"Waraka",
     "wof:parent_id":1108796833,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    128.92193999999998,
+    128.92194,
     -3.19972,
-    128.92193999999998,
+    128.92194,
     -3.19972
 ],
-  "geometry": {"coordinates":[128.92193999999998,-3.19972],"type":"Point"}
+  "geometry": {"coordinates":[128.92194000000001,-3.19972],"type":"Point"}
 }

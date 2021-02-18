@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072983
+        102072983,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1972864
     },
     "wof:country":"ID",
-    "wof:geomhash":"99811a01f8ba8fd50c10178b1d6cc07c",
+    "wof:geomhash":"9629c222722bfc8518039f8c736e801c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1243475033,
-    "wof:lastmodified":1536764731,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183431,
     "wof:name":"Getaskrikil",
     "wof:parent_id":102072983,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.64943999999998,
+    110.64944,
     -7.26861,
-    110.64943999999998,
+    110.64944,
     -7.26861
 ],
-  "geometry": {"coordinates":[110.64943999999998,-7.26861],"type":"Point"}
+  "geometry": {"coordinates":[110.64944,-7.26861],"type":"Point"}
 }

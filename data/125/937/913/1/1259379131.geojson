@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073187
+        102073187,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6566477
     },
     "wof:country":"ID",
-    "wof:geomhash":"8f2d9af52599c2e09c967d77dd52bd2e",
+    "wof:geomhash":"111628813d5914caaf95744f9aa08f88",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1259379131,
-    "wof:lastmodified":1537629294,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613184382,
     "wof:name":"Bugel Lor",
     "wof:parent_id":102073187,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.93361000000002,
+    109.93361,
     -7.74139,
-    109.93361000000002,
+    109.93361,
     -7.74139
 ],
-  "geometry": {"coordinates":[109.93361000000002,-7.74139],"type":"Point"}
+  "geometry": {"coordinates":[109.93361,-7.74139],"type":"Point"}
 }

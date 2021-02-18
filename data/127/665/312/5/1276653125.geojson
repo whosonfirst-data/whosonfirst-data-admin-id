@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072639
+        102072639,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6376110
     },
     "wof:country":"ID",
-    "wof:geomhash":"e0e2d12d39358e556e1dabe31486e72e",
+    "wof:geomhash":"c187bb06fe519ecae0eac995a3123b41",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1276653125,
-    "wof:lastmodified":1537628453,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178157,
     "wof:name":"Wonoyoso",
     "wof:parent_id":102072639,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.80861000000002,
+    109.80861,
     -7.75722,
-    109.80861000000002,
+    109.80861,
     -7.75722
 ],
-  "geometry": {"coordinates":[109.80861000000002,-7.75722],"type":"Point"}
+  "geometry": {"coordinates":[109.80861,-7.75722],"type":"Point"}
 }

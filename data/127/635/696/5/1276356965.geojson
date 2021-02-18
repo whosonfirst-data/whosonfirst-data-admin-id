@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072947
+        102072947,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6406399
     },
     "wof:country":"ID",
-    "wof:geomhash":"c1dc4d11280a6f11c6840d8a37a5b33a",
+    "wof:geomhash":"d76297c1730bea6b0713a71929fc3a56",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1276356965,
-    "wof:lastmodified":1537628958,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177483,
     "wof:name":"Ngangsi Kulonkali",
     "wof:parent_id":102072947,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.08693999999998,
+    111.08694,
     -7.86278,
-    111.08693999999998,
+    111.08694,
     -7.86278
 ],
-  "geometry": {"coordinates":[111.08693999999998,-7.86278],"type":"Point"}
+  "geometry": {"coordinates":[111.08694,-7.86278],"type":"Point"}
 }

@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102072973
+        102072973,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6408150
     },
     "wof:country":"ID",
-    "wof:geomhash":"c4b3b9072f177a31a3a058191990b9c5",
+    "wof:geomhash":"c4322212755aaeb3fbf4edf75d9660d1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1242869115,
-    "wof:lastmodified":1537629000,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183092,
     "wof:name":"Nglopang Wetan",
     "wof:parent_id":102072973,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.33138999999998,
+    111.33139,
     -7.77944,
-    111.33138999999998,
+    111.33139,
     -7.77944
 ],
-  "geometry": {"coordinates":[111.33138999999998,-7.77944],"type":"Point"}
+  "geometry": {"coordinates":[111.33139,-7.77944],"type":"Point"}
 }

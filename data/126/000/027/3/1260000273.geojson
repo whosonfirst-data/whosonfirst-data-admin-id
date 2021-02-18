@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072715
+        102072715,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6385698
     },
     "wof:country":"ID",
-    "wof:geomhash":"bd953f69860a1983692287dd90507306",
+    "wof:geomhash":"4f3989aec246f7bfabd39823e36395e9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1260000273,
-    "wof:lastmodified":1537628585,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613180372,
     "wof:name":"Kutawinangun",
     "wof:parent_id":102072715,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.08138999999998,
+    109.08139,
     -7.52611,
-    109.08138999999998,
+    109.08139,
     -7.52611
 ],
-  "geometry": {"coordinates":[109.08138999999998,-7.52611],"type":"Point"}
+  "geometry": {"coordinates":[109.08139,-7.52611],"type":"Point"}
 }

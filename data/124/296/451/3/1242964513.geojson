@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072759
+        102072759,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6562220
     },
     "wof:country":"ID",
-    "wof:geomhash":"ce7ed3d3fd3bc992ce0ff59d64b1a731",
+    "wof:geomhash":"a5a4846fbff2d613289bd27d96d4032b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1242964513,
-    "wof:lastmodified":1537629178,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183964,
     "wof:name":"Margalangu",
     "wof:parent_id":102072759,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.41861000000002,
+    109.41861,
     -7.16194,
-    109.41861000000002,
+    109.41861,
     -7.16194
 ],
-  "geometry": {"coordinates":[109.41861000000002,-7.16194],"type":"Point"}
+  "geometry": {"coordinates":[109.41861,-7.16194],"type":"Point"}
 }

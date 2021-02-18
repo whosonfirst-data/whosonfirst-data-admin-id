@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073529
+        102073529,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6589240
     },
     "wof:country":"ID",
-    "wof:geomhash":"7a44e8f19e55363ba5eccd4d8313a2d4",
+    "wof:geomhash":"67912fa5f35202d48445b4d25cf5ed73",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1259543633,
-    "wof:lastmodified":1537629640,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613184270,
     "wof:name":"Cisarua Tengah",
     "wof:parent_id":102073529,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.10611000000002,
+    107.10611,
     -6.84056,
-    107.10611000000002,
+    107.10611,
     -6.84056
 ],
-  "geometry": {"coordinates":[107.10611000000002,-6.84056],"type":"Point"}
+  "geometry": {"coordinates":[107.10611,-6.84056],"type":"Point"}
 }

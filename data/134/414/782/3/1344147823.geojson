@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073187
+        102073187,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6566681
     },
     "wof:country":"ID",
-    "wof:geomhash":"11c84ed8c3eb44e4b76cd69fc6d7b5b0",
+    "wof:geomhash":"ddeae7b9838be7490fc47e1a3a888b69",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1344147823,
-    "wof:lastmodified":1537629302,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613174169,
     "wof:name":"Candi Wetan",
     "wof:parent_id":102073187,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.98111000000002,
+    109.98111,
     -7.74417,
-    109.98111000000002,
+    109.98111,
     -7.74417
 ],
-  "geometry": {"coordinates":[109.98111000000002,-7.74417],"type":"Point"}
+  "geometry": {"coordinates":[109.98111,-7.74417],"type":"Point"}
 }

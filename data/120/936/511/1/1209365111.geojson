@@ -34,7 +34,7 @@
         "gn:id":1645461
     },
     "wof:country":"ID",
-    "wof:geomhash":"6b88541a314ec2b0a86c0462bcadbb9a",
+    "wof:geomhash":"b23bf9ded3abfcf96da76fee7c4372d7",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209365111,
-    "wof:lastmodified":1536289300,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178300,
     "wof:name":"Dikitobo",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -52,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    127.42506000000002,
+    127.42506,
     0.73919,
-    127.42506000000002,
+    127.42506,
     0.73919
 ],
-  "geometry": {"coordinates":[127.42506000000002,0.73919],"type":"Point"}
+  "geometry": {"coordinates":[127.42506,0.73919],"type":"Point"}
 }

@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072733
+        102072733,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1935495
     },
     "wof:country":"ID",
-    "wof:geomhash":"357137c52b9a0ffe01fc18e41a8cce7b",
+    "wof:geomhash":"6bb4f0f212afceca1bffb718e4c153b7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1293585439,
-    "wof:lastmodified":1536645400,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613176262,
     "wof:name":"Josroyoindah",
     "wof:parent_id":102072733,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.89943999999998,
+    110.89944,
     -7.57361,
-    110.89943999999998,
+    110.89944,
     -7.57361
 ],
-  "geometry": {"coordinates":[110.89943999999998,-7.57361],"type":"Point"}
+  "geometry": {"coordinates":[110.89944,-7.57361],"type":"Point"}
 }

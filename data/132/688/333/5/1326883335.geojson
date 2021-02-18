@@ -41,15 +41,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672067,
-        102072725
+        102072725,
+        85672067
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":11427425
     },
     "wof:country":"ID",
-    "wof:geomhash":"11f714140d7f1b149ad9882cd002cb15",
+    "wof:geomhash":"af26f72381dfbbf1d744ddbabfc45240",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -60,7 +60,14 @@
         }
     ],
     "wof:id":1326883335,
-    "wof:lastmodified":1564167836,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613172354,
     "wof:name":"Kampong Baroe",
     "wof:parent_id":102072725,
     "wof:placetype":"locality",
@@ -70,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    131.33536999999998,
+    131.33537,
     -0.87407,
-    131.33536999999998,
+    131.33537,
     -0.87407
 ],
-  "geometry": {"coordinates":[131.33536999999998,-0.87407],"type":"Point"}
+  "geometry": {"coordinates":[131.33537000000001,-0.87407],"type":"Point"}
 }

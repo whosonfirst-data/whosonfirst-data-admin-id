@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072709
+        102072709,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6410710
     },
     "wof:country":"ID",
-    "wof:geomhash":"8b79dcd33705ac062ac38bd945f4be77",
+    "wof:geomhash":"0f0abba788f2078eef05579f7b2b70e5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1293585585,
-    "wof:lastmodified":1537629085,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613176252,
     "wof:name":"Jurangmelik",
     "wof:parent_id":102072709,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.39388999999998,
+    110.39389,
     -7.22472,
-    110.39388999999998,
+    110.39389,
     -7.22472
 ],
-  "geometry": {"coordinates":[110.39388999999998,-7.22472],"type":"Point"}
+  "geometry": {"coordinates":[110.39389,-7.22472],"type":"Point"}
 }

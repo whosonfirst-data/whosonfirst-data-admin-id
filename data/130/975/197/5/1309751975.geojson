@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072937
+        102072937,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6606761
     },
     "wof:country":"ID",
-    "wof:geomhash":"05f14c892216a73ca0c722c50a2fd815",
+    "wof:geomhash":"fe1c9ce1d8652af1f535aea37307b721",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,7 +54,14 @@
         }
     ],
     "wof:id":1309751975,
-    "wof:lastmodified":1537630122,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613182554,
     "wof:name":"Cengkeh Tiga",
     "wof:parent_id":102072937,
     "wof:placetype":"locality",
@@ -64,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.41443999999998,
+    107.41444,
     -6.3125,
-    107.41443999999998,
+    107.41444,
     -6.3125
 ],
-  "geometry": {"coordinates":[107.41443999999998,-6.3125],"type":"Point"}
+  "geometry": {"coordinates":[107.41444,-6.3125],"type":"Point"}
 }

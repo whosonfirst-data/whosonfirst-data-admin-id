@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072715
+        102072715,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6389857
     },
     "wof:country":"ID",
-    "wof:geomhash":"4d7e4c5c82fb7eb0d7d05f310a085b04",
+    "wof:geomhash":"65b73e12db8c77b927ba7a0e804e17c2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1242894587,
-    "wof:lastmodified":1537628700,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183063,
     "wof:name":"Karangpelem",
     "wof:parent_id":102072715,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.18361000000002,
+    109.18361,
     -7.35889,
-    109.18361000000002,
+    109.18361,
     -7.35889
 ],
-  "geometry": {"coordinates":[109.18361000000002,-7.35889],"type":"Point"}
+  "geometry": {"coordinates":[109.18361,-7.35889],"type":"Point"}
 }

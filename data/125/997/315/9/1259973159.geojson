@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073265
+        102073265,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2000044
     },
     "wof:country":"ID",
-    "wof:geomhash":"c58ae43e4b0ff41a58b8b180e5954f48",
+    "wof:geomhash":"3d92811815e46d67ca3b1a14427b04e3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1259973159,
-    "wof:lastmodified":1536649776,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613184434,
     "wof:name":"Karangmoncol",
     "wof:parent_id":102073265,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.42806000000002,
+    110.42806,
     -7.80639,
-    110.42806000000002,
+    110.42806,
     -7.80639
 ],
-  "geometry": {"coordinates":[110.42806000000002,-7.80639],"type":"Point"}
+  "geometry": {"coordinates":[110.42806,-7.80639],"type":"Point"}
 }

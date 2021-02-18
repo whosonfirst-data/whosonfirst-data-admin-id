@@ -33,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672097,
-        1108796827
+        1108796827,
+        85672097
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1644774
     },
     "wof:country":"ID",
-    "wof:geomhash":"28ad3b7556f24ba6c6171c34fff5d211",
+    "wof:geomhash":"42b8589a5e047e6578f23333f6ee670b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,7 +52,14 @@
         }
     ],
     "wof:id":1260127225,
-    "wof:lastmodified":1537627129,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613180232,
     "wof:name":"Feruni",
     "wof:parent_id":1108796827,
     "wof:placetype":"locality",
@@ -62,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    134.09738000000002,
+    134.09738,
     -6.56876,
-    134.09738000000002,
+    134.09738,
     -6.56876
 ],
-  "geometry": {"coordinates":[134.09738000000002,-6.56876],"type":"Point"}
+  "geometry": {"coordinates":[134.09737999999999,-6.56876],"type":"Point"}
 }

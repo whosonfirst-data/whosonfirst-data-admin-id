@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072855
+        102072855,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7845344
     },
     "wof:country":"ID",
-    "wof:geomhash":"440cd34aca2f7ebb07fab2971cfdb6c3",
+    "wof:geomhash":"48f10aa9b60c90ea799192ba5c7b1bec",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1209765273,
-    "wof:lastmodified":1537634497,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178861,
     "wof:name":"Cimahi Satu",
     "wof:parent_id":102072855,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.58393999999998,
+    106.58394,
     -7.3236,
-    106.58393999999998,
+    106.58394,
     -7.3236
 ],
-  "geometry": {"coordinates":[106.58393999999998,-7.3236],"type":"Point"}
+  "geometry": {"coordinates":[106.58394,-7.3236],"type":"Point"}
 }

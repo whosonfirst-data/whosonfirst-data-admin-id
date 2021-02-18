@@ -34,7 +34,7 @@
         "gn:id":6261562
     },
     "wof:country":"ID",
-    "wof:geomhash":"8a516ff684e40ae1ab780ad0188f35d1",
+    "wof:geomhash":"e8a8cdda5e77836cf1381236ec5ba99a",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209211189,
-    "wof:lastmodified":1536294286,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179461,
     "wof:name":"Ngadiboyo",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     110.11972,
-    -7.6802800000000016,
+    -7.68028,
     110.11972,
-    -7.6802800000000016
+    -7.68028
 ],
   "geometry": {"coordinates":[110.11972,-7.68028],"type":"Point"}
 }

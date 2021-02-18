@@ -143,7 +143,7 @@
         "gn:id":1629384
     },
     "wof:country":"ID",
-    "wof:geomhash":"eaf2c378d1d0fa8149dda92e053ad4f2",
+    "wof:geomhash":"94dc7cf139fce1633dbf7e27445795bc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -153,7 +153,14 @@
         }
     ],
     "wof:id":1242923829,
-    "wof:lastmodified":1564198470,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183170,
     "wof:name":"Ruta",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
@@ -163,10 +170,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    127.25296000000002,
+    127.25296,
     -0.33691,
-    127.25296000000002,
+    127.25296,
     -0.33691
 ],
-  "geometry": {"coordinates":[127.25296000000002,-0.33691],"type":"Point"}
+  "geometry": {"coordinates":[127.25296,-0.33691],"type":"Point"}
 }

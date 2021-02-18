@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073153
+        102073153,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6373177
     },
     "wof:country":"ID",
-    "wof:geomhash":"5aa646815e8821929cfc46026595b806",
+    "wof:geomhash":"8054e76fb9e0e49d3056bcfabb41265d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1310692523,
-    "wof:lastmodified":1537628389,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181673,
     "wof:name":"Gotongroyong",
     "wof:parent_id":102073153,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.69138999999998,
+    109.69139,
     -7.39222,
-    109.69138999999998,
+    109.69139,
     -7.39222
 ],
-  "geometry": {"coordinates":[109.69138999999998,-7.39222],"type":"Point"}
+  "geometry": {"coordinates":[109.69139,-7.39222],"type":"Point"}
 }

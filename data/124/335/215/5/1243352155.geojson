@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073313
+        102073313,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2002597
     },
     "wof:country":"ID",
-    "wof:geomhash":"08bdd94c69315469ce4f76ac91580fbe",
+    "wof:geomhash":"0adbe7721204ed21b32ba069521f8711",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1243352155,
-    "wof:lastmodified":1536942100,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183641,
     "wof:name":"Cepor",
     "wof:parent_id":102073313,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.33138999999998,
+    110.33139,
     -7.90611,
-    110.33138999999998,
+    110.33139,
     -7.90611
 ],
-  "geometry": {"coordinates":[110.33138999999998,-7.90611],"type":"Point"}
+  "geometry": {"coordinates":[110.33139,-7.90611],"type":"Point"}
 }

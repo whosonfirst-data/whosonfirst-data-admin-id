@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072949
+        102072949,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6598964
     },
     "wof:country":"ID",
-    "wof:geomhash":"cf10a5f6fb48de14974e9b4b5d3d61b8",
+    "wof:geomhash":"0bf12b452ce6bb479784443c1efeb33c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1310351201,
-    "wof:lastmodified":1537629946,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181476,
     "wof:name":"Bojongkalapa",
     "wof:parent_id":102072949,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.55306000000002,
+    107.55306,
     -6.96361,
-    107.55306000000002,
+    107.55306,
     -6.96361
 ],
-  "geometry": {"coordinates":[107.55306000000002,-6.96361],"type":"Point"}
+  "geometry": {"coordinates":[107.55306,-6.96361],"type":"Point"}
 }

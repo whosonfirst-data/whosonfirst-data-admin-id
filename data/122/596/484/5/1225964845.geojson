@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072929
+        102072929,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6409567
     },
     "wof:country":"ID",
-    "wof:geomhash":"2bb203079a3dd6d4ab441adfcc803e5e",
+    "wof:geomhash":"19baaab045ed3ddbc1db0e7c925dc5e8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1225964845,
-    "wof:lastmodified":1537629045,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185946,
     "wof:name":"Karang Wetan",
     "wof:parent_id":102072929,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.01888999999998,
+    111.01889,
     -7.40889,
-    111.01888999999998,
+    111.01889,
     -7.40889
 ],
-  "geometry": {"coordinates":[111.01888999999998,-7.40889],"type":"Point"}
+  "geometry": {"coordinates":[111.01889,-7.40889],"type":"Point"}
 }

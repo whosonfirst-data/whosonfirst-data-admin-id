@@ -34,15 +34,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073217
+        102073217,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1959605
     },
     "wof:country":"ID",
-    "wof:geomhash":"85a2fb3e44b02cb8b702a3267e565624",
+    "wof:geomhash":"2d06035bc97dc7e09690f9801b71cf92",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +53,14 @@
         }
     ],
     "wof:id":1259533041,
-    "wof:lastmodified":1537627512,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613184298,
     "wof:name":"Nanggewer Dua",
     "wof:parent_id":102073217,
     "wof:placetype":"locality",
@@ -63,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.94861000000002,
+    106.94861,
     -6.39722,
-    106.94861000000002,
+    106.94861,
     -6.39722
 ],
-  "geometry": {"coordinates":[106.94861000000002,-6.39722],"type":"Point"}
+  "geometry": {"coordinates":[106.94861,-6.39722],"type":"Point"}
 }

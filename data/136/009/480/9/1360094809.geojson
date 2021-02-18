@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672085,
-        1108796819
+        1108796819,
+        85672085
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1634999
     },
     "wof:country":"ID",
-    "wof:geomhash":"cdf34c3f8b7b6f21ebc57a38caff89be",
+    "wof:geomhash":"dcf09baf1479a07d0ea165920eed2423",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1360094809,
-    "wof:lastmodified":1536932286,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181889,
     "wof:name":"Moreala",
     "wof:parent_id":1108796819,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    128.52463999999998,
+    128.52464,
     0.34284,
-    128.52463999999998,
+    128.52464,
     0.34284
 ],
-  "geometry": {"coordinates":[128.52463999999998,0.34284],"type":"Point"}
+  "geometry": {"coordinates":[128.52464000000001,0.34284],"type":"Point"}
 }

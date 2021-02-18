@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073469
+        102073469,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2011219
     },
     "wof:country":"ID",
-    "wof:geomhash":"b0427fba8db06d52c1bfafd8598f67c4",
+    "wof:geomhash":"cc0ca479890277c53b23acd1571ef66d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1260170035,
-    "wof:lastmodified":1536865075,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613180515,
     "wof:name":"Patihan",
     "wof:parent_id":102073469,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.16443999999998,
+    110.16444,
     -7.75222,
-    110.16443999999998,
+    110.16444,
     -7.75222
 ],
-  "geometry": {"coordinates":[110.16443999999998,-7.75222],"type":"Point"}
+  "geometry": {"coordinates":[110.16444,-7.75222],"type":"Point"}
 }

@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672037,
-        102073481
+        102073481,
+        85672037
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1939776
     },
     "wof:country":"ID",
-    "wof:geomhash":"eed3dfcfc3d55f90e5acae326c027026",
+    "wof:geomhash":"0e64a1af1a7dafeb968a3bc096e549f7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1343637089,
-    "wof:lastmodified":1536987996,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613174074,
     "wof:name":"Latan",
     "wof:parent_id":102073481,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    124.95638999999998,
+    124.95639,
     -9.62028,
-    124.95638999999998,
+    124.95639,
     -9.62028
 ],
-  "geometry": {"coordinates":[124.95638999999998,-9.62028],"type":"Point"}
+  "geometry": {"coordinates":[124.95639,-9.62028],"type":"Point"}
 }

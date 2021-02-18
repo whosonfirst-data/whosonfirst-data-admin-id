@@ -68,15 +68,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073189
+        102073189,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6564644
     },
     "wof:country":"ID",
-    "wof:geomhash":"5aa1954f0eb76f9102f8f79b6a117dba",
+    "wof:geomhash":"cbe6eb0fe5c3d11b8da165285aff08a3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -87,7 +87,14 @@
         }
     ],
     "wof:id":1327008481,
-    "wof:lastmodified":1564167620,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613172243,
     "wof:name":"Corot",
     "wof:parent_id":102073189,
     "wof:placetype":"locality",
@@ -97,10 +104,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.50388999999998,
+    110.50389,
     -8.00611,
-    110.50388999999998,
+    110.50389,
     -8.00611
 ],
-  "geometry": {"coordinates":[110.50388999999998,-8.00611],"type":"Point"}
+  "geometry": {"coordinates":[110.50389,-8.00611],"type":"Point"}
 }

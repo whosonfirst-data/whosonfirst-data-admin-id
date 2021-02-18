@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072715
+        102072715,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6388425
     },
     "wof:country":"ID",
-    "wof:geomhash":"a3304228ccb08a22a633d563240b5f0b",
+    "wof:geomhash":"b98e9596ddec2756bc021a5b7b99bf50",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1343752861,
-    "wof:lastmodified":1537628668,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175206,
     "wof:name":"Kalibenda",
     "wof:parent_id":102072715,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.10056000000002,
+    109.10056,
     -7.40611,
-    109.10056000000002,
+    109.10056,
     -7.40611
 ],
-  "geometry": {"coordinates":[109.10056000000002,-7.40611],"type":"Point"}
+  "geometry": {"coordinates":[109.10056,-7.40611],"type":"Point"}
 }

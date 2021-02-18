@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073265
+        102073265,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1999610
     },
     "wof:country":"ID",
-    "wof:geomhash":"f84f2b78cedda8c4730e8afa622d807d",
+    "wof:geomhash":"a6f833ef40e800815ff601a420120af1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1292923635,
-    "wof:lastmodified":1536602728,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175638,
     "wof:name":"Mancasan",
     "wof:parent_id":102073265,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.45638999999998,
+    110.45639,
     -7.75556,
-    110.45638999999998,
+    110.45639,
     -7.75556
 ],
-  "geometry": {"coordinates":[110.45638999999998,-7.75556],"type":"Point"}
+  "geometry": {"coordinates":[110.45639,-7.75556],"type":"Point"}
 }

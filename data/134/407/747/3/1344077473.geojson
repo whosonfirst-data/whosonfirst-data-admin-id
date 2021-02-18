@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072947
+        102072947,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6404550
     },
     "wof:country":"ID",
-    "wof:geomhash":"81be8d18b129e4ae1968df11e7121b0f",
+    "wof:geomhash":"ff7451217504aebc8f0acc90ceef03dc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1344077473,
-    "wof:lastmodified":1537628898,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613174290,
     "wof:name":"Ngledok",
     "wof:parent_id":102072947,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.92806000000002,
+    110.92806,
     -8.00917,
-    110.92806000000002,
+    110.92806,
     -8.00917
 ],
-  "geometry": {"coordinates":[110.92806000000002,-8.00917],"type":"Point"}
+  "geometry": {"coordinates":[110.92806,-8.00917],"type":"Point"}
 }

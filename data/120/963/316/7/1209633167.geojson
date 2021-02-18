@@ -34,7 +34,7 @@
         "gn:id":1625449
     },
     "wof:country":"ID",
-    "wof:geomhash":"ae4a30a16cdb769f74e848ac71092edf",
+    "wof:geomhash":"c537c672e90a5670ad63c476b7ed71a9",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209633167,
-    "wof:lastmodified":1536281126,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178531,
     "wof:name":"Talasan",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     119.75,
-    -4.9833300000000005,
+    -4.98333,
     119.75,
-    -4.9833300000000005
+    -4.98333
 ],
   "geometry": {"coordinates":[119.75,-4.98333],"type":"Point"}
 }

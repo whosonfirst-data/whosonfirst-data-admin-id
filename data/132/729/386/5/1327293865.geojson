@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072739
+        102072739,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6582630
     },
     "wof:country":"ID",
-    "wof:geomhash":"4a100b005bdaf2de548fb7bbec93ba5c",
+    "wof:geomhash":"10b57f33211d3803d4861a815e8d5a83",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1327293865,
-    "wof:lastmodified":1537629505,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613173577,
     "wof:name":"Gunungoa",
     "wof:parent_id":102072739,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.91861000000002,
+    107.91861,
     -6.74083,
-    107.91861000000002,
+    107.91861,
     -6.74083
 ],
-  "geometry": {"coordinates":[107.91861000000002,-6.74083],"type":"Point"}
+  "geometry": {"coordinates":[107.91861,-6.74083],"type":"Point"}
 }

@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072855
+        102072855,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6596721
     },
     "wof:country":"ID",
-    "wof:geomhash":"c89e7518c4ee55106c749c0eb9dfcd5a",
+    "wof:geomhash":"ffac2409fa991b9d0030c999c1811f83",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1292947123,
-    "wof:lastmodified":1537629861,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175685,
     "wof:name":"Neglasari Dua",
     "wof:parent_id":102072855,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.89943999999998,
+    106.89944,
     -6.85639,
-    106.89943999999998,
+    106.89944,
     -6.85639
 ],
-  "geometry": {"coordinates":[106.89943999999998,-6.85639],"type":"Point"}
+  "geometry": {"coordinates":[106.89944,-6.85639],"type":"Point"}
 }

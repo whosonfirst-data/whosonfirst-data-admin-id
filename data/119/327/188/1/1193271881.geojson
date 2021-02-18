@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072929
+        102072929,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6263365
     },
     "wof:country":"ID",
-    "wof:geomhash":"54f5dd64ad20f97a36e04360283a06fd",
+    "wof:geomhash":"c3b5404433442f3283c925d79779df49",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1193271881,
-    "wof:lastmodified":1536369729,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613180081,
     "wof:name":"Sidorejo",
     "wof:parent_id":102072929,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.82193999999998,
+    110.82194,
     -7.3325,
-    110.82193999999998,
+    110.82194,
     -7.3325
 ],
-  "geometry": {"coordinates":[110.82193999999998,-7.3325],"type":"Point"}
+  "geometry": {"coordinates":[110.82194,-7.3325],"type":"Point"}
 }

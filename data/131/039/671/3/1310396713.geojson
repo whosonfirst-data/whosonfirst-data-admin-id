@@ -33,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072857
+        102072857,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1650081
     },
     "wof:country":"ID",
-    "wof:geomhash":"297de4f5c0ffb3160461736d1661ce5f",
+    "wof:geomhash":"7ae8866159767a0b9954ec6245055ecd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,7 +52,14 @@
         }
     ],
     "wof:id":1310396713,
-    "wof:lastmodified":1537627336,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181184,
     "wof:name":"Banyutemumpang",
     "wof:parent_id":102072857,
     "wof:placetype":"locality",
@@ -62,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.33556000000002,
+    110.33556,
     -7.53444,
-    110.33556000000002,
+    110.33556,
     -7.53444
 ],
-  "geometry": {"coordinates":[110.33556000000002,-7.53444],"type":"Point"}
+  "geometry": {"coordinates":[110.33556,-7.53444],"type":"Point"}
 }

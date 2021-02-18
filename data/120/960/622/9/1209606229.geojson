@@ -34,7 +34,7 @@
         "gn:id":2011679
     },
     "wof:country":"ID",
-    "wof:geomhash":"e94f9dda7be606484ec5fee917a117a6",
+    "wof:geomhash":"49ab71cf5a326d80564edb52477fb6fe",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209606229,
-    "wof:lastmodified":1536282003,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179119,
     "wof:name":"Miliran",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     110.68,
-    -7.616110000000001,
+    -7.61611,
     110.68,
-    -7.616110000000001
+    -7.61611
 ],
   "geometry": {"coordinates":[110.68000000000001,-7.61611],"type":"Point"}
 }

@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072733
+        102072733,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1935454
     },
     "wof:country":"ID",
-    "wof:geomhash":"9a0c5f77e5c052aa8c6cd7cbfdc4958f",
+    "wof:geomhash":"74d92482893d6806927b617a4d6bfbf3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1293092135,
-    "wof:lastmodified":1536858740,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175382,
     "wof:name":"Tegalbiru",
     "wof:parent_id":102072733,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.96193999999998,
+    110.96194,
     -7.58083,
-    110.96193999999998,
+    110.96194,
     -7.58083
 ],
-  "geometry": {"coordinates":[110.96193999999998,-7.58083],"type":"Point"}
+  "geometry": {"coordinates":[110.96194,-7.58083],"type":"Point"}
 }

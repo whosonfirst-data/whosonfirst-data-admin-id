@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073295
+        102073295,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6568364
     },
     "wof:country":"ID",
-    "wof:geomhash":"cfbc01779a7a6b4a8f6114ab1afb7b63",
+    "wof:geomhash":"8bcf9cf3e8994b805b7c620cfbc47f96",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1310660817,
-    "wof:lastmodified":1537629348,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181513,
     "wof:name":"Babakantarikkolot",
     "wof:parent_id":102073295,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.81638999999998,
+    107.81639,
     -6.38972,
-    107.81638999999998,
+    107.81639,
     -6.38972
 ],
-  "geometry": {"coordinates":[107.81638999999998,-6.38972],"type":"Point"}
+  "geometry": {"coordinates":[107.81639,-6.38972],"type":"Point"}
 }

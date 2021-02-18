@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072639
+        102072639,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6376239
     },
     "wof:country":"ID",
-    "wof:geomhash":"1777abce52605dab67b910459ff26e59",
+    "wof:geomhash":"b710d0f0b7d2a5e69742dcd7e0f7ac4b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1226533327,
-    "wof:lastmodified":1537628459,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613186443,
     "wof:name":"Lemahlanang",
     "wof:parent_id":102072639,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.77306000000002,
+    109.77306,
     -7.79139,
-    109.77306000000002,
+    109.77306,
     -7.79139
 ],
-  "geometry": {"coordinates":[109.77306000000002,-7.79139],"type":"Point"}
+  "geometry": {"coordinates":[109.77306,-7.79139],"type":"Point"}
 }

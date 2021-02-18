@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073529
+        102073529,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1963140
     },
     "wof:country":"ID",
-    "wof:geomhash":"ca06884d4df21054e63058ddbcb29f6a",
+    "wof:geomhash":"00b5a0188ca3d91fe5bb00b33dfe991c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1344106433,
-    "wof:lastmodified":1537627696,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613174905,
     "wof:name":"Nanggerang",
     "wof:parent_id":102073529,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.30138999999998,
+    107.30139,
     -6.87278,
-    107.30138999999998,
+    107.30139,
     -6.87278
 ],
-  "geometry": {"coordinates":[107.30138999999998,-6.87278],"type":"Point"}
+  "geometry": {"coordinates":[107.30139,-6.87278],"type":"Point"}
 }

@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072611
+        102072611,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1971844
     },
     "wof:country":"ID",
-    "wof:geomhash":"88ca9d9fa662d09f371886d9bf90e1af",
+    "wof:geomhash":"445f8ef620cb1e20083ff581226084a8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1310225717,
-    "wof:lastmodified":1536822276,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613180812,
     "wof:name":"Nguntal",
     "wof:parent_id":102072611,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.69138999999998,
+    110.69139,
     -7.03583,
-    110.69138999999998,
+    110.69139,
     -7.03583
 ],
-  "geometry": {"coordinates":[110.69138999999998,-7.03583],"type":"Point"}
+  "geometry": {"coordinates":[110.69139,-7.03583],"type":"Point"}
 }

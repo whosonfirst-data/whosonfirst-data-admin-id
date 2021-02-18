@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672097,
-        1108796833
+        1108796833,
+        85672097
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1901698
     },
     "wof:country":"ID",
-    "wof:geomhash":"e7f17974db8402b6e08fa155f333fc81",
+    "wof:geomhash":"65ca9536f035304b859e6825bdf6f8fe",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,7 +54,14 @@
         }
     ],
     "wof:id":1276186101,
-    "wof:lastmodified":1537627406,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177290,
     "wof:name":"Tamilau",
     "wof:parent_id":1108796833,
     "wof:placetype":"locality",
@@ -64,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    129.19943999999998,
+    129.19944,
     -3.38528,
-    129.19943999999998,
+    129.19944,
     -3.38528
 ],
-  "geometry": {"coordinates":[129.19943999999998,-3.38528],"type":"Point"}
+  "geometry": {"coordinates":[129.19944000000001,-3.38528],"type":"Point"}
 }

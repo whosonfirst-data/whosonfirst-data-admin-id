@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672097,
-        1108796843
+        1108796843,
+        85672097
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1637707
     },
     "wof:country":"ID",
-    "wof:geomhash":"17aa8eb88c8f16d6ec7c990eaef75506",
+    "wof:geomhash":"cefe856c662f370d73dcde829cecad0d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1344175183,
-    "wof:lastmodified":1536710343,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613174893,
     "wof:name":"Liliama",
     "wof:parent_id":1108796843,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    129.83333000000002,
+    129.83333,
     -3.33333,
-    129.83333000000002,
+    129.83333,
     -3.33333
 ],
-  "geometry": {"coordinates":[129.83333000000002,-3.33333],"type":"Point"}
+  "geometry": {"coordinates":[129.83332999999999,-3.33333],"type":"Point"}
 }

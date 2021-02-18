@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073295
+        102073295,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6567892
     },
     "wof:country":"ID",
-    "wof:geomhash":"33b2382484679fcede0993e08331b7c8",
+    "wof:geomhash":"09a789a16492a8e8ebc273b7c02119a4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1310264989,
-    "wof:lastmodified":1537629334,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181393,
     "wof:name":"Karangsari",
     "wof:parent_id":102073295,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.80861000000002,
+    107.80861,
     -6.56194,
-    107.80861000000002,
+    107.80861,
     -6.56194
 ],
-  "geometry": {"coordinates":[107.80861000000002,-6.56194],"type":"Point"}
+  "geometry": {"coordinates":[107.80861,-6.56194],"type":"Point"}
 }

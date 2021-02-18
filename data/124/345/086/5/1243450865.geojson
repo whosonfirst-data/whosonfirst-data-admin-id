@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073169
+        102073169,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6257635
     },
     "wof:country":"ID",
-    "wof:geomhash":"1883f9ae8761913a6ffdea7da58667d5",
+    "wof:geomhash":"bb4fe6c8202598dfe91f428a9d71c4e3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1243450865,
-    "wof:lastmodified":1536799278,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613184151,
     "wof:name":"Kewayuhan",
     "wof:parent_id":102073169,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.26888999999998,
+    110.26889,
     -7.35528,
-    110.26888999999998,
+    110.26889,
     -7.35528
 ],
-  "geometry": {"coordinates":[110.26888999999998,-7.35528],"type":"Point"}
+  "geometry": {"coordinates":[110.26889,-7.35528],"type":"Point"}
 }

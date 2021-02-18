@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102073373
+        102073373,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7083983
     },
     "wof:country":"ID",
-    "wof:geomhash":"db049026ba3c86384c3fcfefce080a2d",
+    "wof:geomhash":"11c6ab206eb2d00f1ed8bdc4a3c30f08",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1293091347,
-    "wof:lastmodified":1537633052,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175367,
     "wof:name":"Plongan",
     "wof:parent_id":102073373,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    114.23156000000002,
+    114.23156,
     -8.24157,
-    114.23156000000002,
+    114.23156,
     -8.24157
 ],
-  "geometry": {"coordinates":[114.23156000000002,-8.24157],"type":"Point"}
+  "geometry": {"coordinates":[114.23156,-8.24157],"type":"Point"}
 }

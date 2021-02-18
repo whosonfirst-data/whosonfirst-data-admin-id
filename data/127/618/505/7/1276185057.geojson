@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073529
+        102073529,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1632931
     },
     "wof:country":"ID",
-    "wof:geomhash":"4a0d555c304af360aa28b4065d4508df",
+    "wof:geomhash":"7efa688c0097569bac5ad7b7a6e305a4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1276185057,
-    "wof:lastmodified":1537626760,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177287,
     "wof:name":"Pamungguan",
     "wof:parent_id":102073529,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.90843999999998,
+    106.90844,
     -7.36169,
-    106.90843999999998,
+    106.90844,
     -7.36169
 ],
-  "geometry": {"coordinates":[106.90843999999998,-7.36169],"type":"Point"}
+  "geometry": {"coordinates":[106.90844,-7.36169],"type":"Point"}
 }

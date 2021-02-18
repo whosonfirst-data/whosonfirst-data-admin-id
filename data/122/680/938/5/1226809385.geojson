@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073217
+        102073217,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6597752
     },
     "wof:country":"ID",
-    "wof:geomhash":"01f615d90f0108776f0955735fd15887",
+    "wof:geomhash":"2508ab5c7aff7918282efcf2d1fceb27",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1226809385,
-    "wof:lastmodified":1537629899,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185407,
     "wof:name":"Cijujung Tengah",
     "wof:parent_id":102073217,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.83138999999998,
+    106.83139,
     -6.535,
-    106.83138999999998,
+    106.83139,
     -6.535
 ],
-  "geometry": {"coordinates":[106.83138999999998,-6.535],"type":"Point"}
+  "geometry": {"coordinates":[106.83139,-6.535],"type":"Point"}
 }

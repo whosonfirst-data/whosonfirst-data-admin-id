@@ -41,15 +41,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102073013
+        102073013,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6386554
     },
     "wof:country":"ID",
-    "wof:geomhash":"4e57e492534b6e48fff5f4509d21e045",
+    "wof:geomhash":"8eafdc99f5bc4b2b2c79d0daef79af75",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -60,7 +60,14 @@
         }
     ],
     "wof:id":1293384983,
-    "wof:lastmodified":1564175780,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175331,
     "wof:name":"Talun",
     "wof:parent_id":102073013,
     "wof:placetype":"locality",
@@ -70,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.24611000000002,
+    111.24611,
     -8.14361,
-    111.24611000000002,
+    111.24611,
     -8.14361
 ],
-  "geometry": {"coordinates":[111.24611000000002,-8.14361],"type":"Point"}
+  "geometry": {"coordinates":[111.24611,-8.14361],"type":"Point"}
 }

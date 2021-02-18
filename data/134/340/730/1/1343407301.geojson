@@ -44,15 +44,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073217
+        102073217,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1961154
     },
     "wof:country":"ID",
-    "wof:geomhash":"7bc5e6954cd70c0d7aa735ccff8f3057",
+    "wof:geomhash":"e5e3ebbd91e702711508ce18738455a2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -63,7 +63,14 @@
         }
     ],
     "wof:id":1343407301,
-    "wof:lastmodified":1564173546,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613174517,
     "wof:name":"Bodor",
     "wof:parent_id":102073217,
     "wof:placetype":"locality",
@@ -73,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.46056000000002,
+    106.46056,
     -6.41639,
-    106.46056000000002,
+    106.46056,
     -6.41639
 ],
-  "geometry": {"coordinates":[106.46056000000002,-6.41639],"type":"Point"}
+  "geometry": {"coordinates":[106.46056,-6.41639],"type":"Point"}
 }

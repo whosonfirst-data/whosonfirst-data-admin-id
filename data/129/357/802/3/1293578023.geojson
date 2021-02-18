@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073265
+        102073265,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6265236
     },
     "wof:country":"ID",
-    "wof:geomhash":"6e97a9e7c372b394d6037a43d0d3b919",
+    "wof:geomhash":"d8e88812becf9927b84dcd35088c5ad7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1293578023,
-    "wof:lastmodified":1536656706,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613176165,
     "wof:name":"Bronggang",
     "wof:parent_id":102073265,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.46193999999998,
+    110.46194,
     -7.6625,
-    110.46193999999998,
+    110.46194,
     -7.6625
 ],
-  "geometry": {"coordinates":[110.46193999999998,-7.6625],"type":"Point"}
+  "geometry": {"coordinates":[110.46194,-7.6625],"type":"Point"}
 }

@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671995,
-        102072687
+        102072687,
+        85671995
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1991116
     },
     "wof:country":"ID",
-    "wof:geomhash":"869a51b6d2ff01e469b38e1d93119e3f",
+    "wof:geomhash":"52455039ae12cdb1f2fb99bead2ccaa1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1243404125,
-    "wof:lastmodified":1536865322,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183417,
     "wof:name":"Kalapa Kaler",
     "wof:parent_id":102072687,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.47693999999998,
+    106.47694,
     -6.18694,
-    106.47693999999998,
+    106.47694,
     -6.18694
 ],
-  "geometry": {"coordinates":[106.47693999999998,-6.18694],"type":"Point"}
+  "geometry": {"coordinates":[106.47694,-6.18694],"type":"Point"}
 }

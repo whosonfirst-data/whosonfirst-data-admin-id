@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072587
+        102072587,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6567332
     },
     "wof:country":"ID",
-    "wof:geomhash":"d4e3c78c8c15118c07087640606bd48b",
+    "wof:geomhash":"f51ae5f0f5f7cef177ed2c75bd5c16fc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1343682451,
-    "wof:lastmodified":1537629318,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613174669,
     "wof:name":"Bakulan",
     "wof:parent_id":102072587,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.94861000000002,
+    109.94861,
     -7.41528,
-    109.94861000000002,
+    109.94861,
     -7.41528
 ],
-  "geometry": {"coordinates":[109.94861000000002,-7.41528],"type":"Point"}
+  "geometry": {"coordinates":[109.94861,-7.41528],"type":"Point"}
 }

@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072857
+        102072857,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6199248
     },
     "wof:country":"ID",
-    "wof:geomhash":"91288e5aed795442baefa4288a5be0c4",
+    "wof:geomhash":"cebe65da3469ad98f5ec0c0c570b4e44",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1243475015,
-    "wof:lastmodified":1536764757,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183436,
     "wof:name":"Glagah",
     "wof:parent_id":102072857,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.24056000000002,
+    110.24056,
     -7.4625,
-    110.24056000000002,
+    110.24056,
     -7.4625
 ],
-  "geometry": {"coordinates":[110.24056000000002,-7.4625],"type":"Point"}
+  "geometry": {"coordinates":[110.24056,-7.4625],"type":"Point"}
 }

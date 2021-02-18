@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073169
+        102073169,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6563616
     },
     "wof:country":"ID",
-    "wof:geomhash":"3e5e6eeceb026b4de88bad597ca99e92",
+    "wof:geomhash":"eb55c7fa7d12db469cf6d1cc79cc41d7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1276356769,
-    "wof:lastmodified":1537629215,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177479,
     "wof:name":"Tlogo",
     "wof:parent_id":102073169,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.03943999999998,
+    110.03944,
     -7.14028,
-    110.03943999999998,
+    110.03944,
     -7.14028
 ],
-  "geometry": {"coordinates":[110.03943999999998,-7.14028],"type":"Point"}
+  "geometry": {"coordinates":[110.03944,-7.14028],"type":"Point"}
 }

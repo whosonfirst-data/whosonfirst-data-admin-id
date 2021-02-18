@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072947
+        102072947,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6256472
     },
     "wof:country":"ID",
-    "wof:geomhash":"87d1186baac8c6c902bf394e59910983",
+    "wof:geomhash":"6bd19b4a3f66774c6d70439e88994f52",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1309996879,
-    "wof:lastmodified":1536655810,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613182190,
     "wof:name":"Gondang Tengah",
     "wof:parent_id":102072947,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.95638999999998,
+    110.95639,
     -7.79306,
-    110.95638999999998,
+    110.95639,
     -7.79306
 ],
-  "geometry": {"coordinates":[110.95638999999998,-7.79306],"type":"Point"}
+  "geometry": {"coordinates":[110.95639,-7.79306],"type":"Point"}
 }

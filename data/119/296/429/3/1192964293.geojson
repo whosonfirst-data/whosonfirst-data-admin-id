@@ -36,15 +36,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        1108796793
+        1108796793,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1949597
     },
     "wof:country":"ID",
-    "wof:geomhash":"c04398a499b354e00a8bcbf001a2443b",
+    "wof:geomhash":"f65056be6f57aa5dd11d205d89dd9c84",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -55,7 +55,14 @@
         }
     ],
     "wof:id":1192964293,
-    "wof:lastmodified":1537627460,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613180022,
     "wof:name":"Pamucatan",
     "wof:parent_id":1108796793,
     "wof:placetype":"locality",
@@ -65,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.45638999999998,
+    107.45639,
     -6.83167,
-    107.45638999999998,
+    107.45639,
     -6.83167
 ],
-  "geometry": {"coordinates":[107.45638999999998,-6.83167],"type":"Point"}
+  "geometry": {"coordinates":[107.45639,-6.83167],"type":"Point"}
 }

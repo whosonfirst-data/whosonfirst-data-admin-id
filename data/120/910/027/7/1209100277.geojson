@@ -34,7 +34,7 @@
         "gn:id":6201073
     },
     "wof:country":"ID",
-    "wof:geomhash":"e4c05f3f83f472fd8fdfe84be20a306e",
+    "wof:geomhash":"347e053eede3d7f52b508e9016307ecf",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209100277,
-    "wof:lastmodified":1536297756,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179518,
     "wof:name":"Mengor",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -52,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.24056000000002,
+    110.24056,
     -7.27278,
-    110.24056000000002,
+    110.24056,
     -7.27278
 ],
-  "geometry": {"coordinates":[110.24056000000002,-7.27278],"type":"Point"}
+  "geometry": {"coordinates":[110.24056,-7.27278],"type":"Point"}
 }

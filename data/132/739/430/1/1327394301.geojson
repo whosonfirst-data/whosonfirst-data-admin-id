@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072949
+        102072949,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6584332
     },
     "wof:country":"ID",
-    "wof:geomhash":"073d74ad4d8a51d482513712b1ebf44a",
+    "wof:geomhash":"ccca0b4810bc0cb316f0004a27c45b76",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1327394301,
-    "wof:lastmodified":1537629556,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613171999,
     "wof:name":"Kalurahan",
     "wof:parent_id":102072949,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.81638999999998,
+    107.81639,
     -6.97528,
-    107.81638999999998,
+    107.81639,
     -6.97528
 ],
-  "geometry": {"coordinates":[107.81638999999998,-6.97528],"type":"Point"}
+  "geometry": {"coordinates":[107.81639,-6.97528],"type":"Point"}
 }

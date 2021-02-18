@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072949
+        102072949,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6593442
     },
     "wof:country":"ID",
-    "wof:geomhash":"f96bc939cb4fd07e72363a405ba1c53b",
+    "wof:geomhash":"c85d886e600b3c50399498a4738ce802",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1343507417,
-    "wof:lastmodified":1537629766,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613174659,
     "wof:name":"Rancakamuning",
     "wof:parent_id":102072949,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.71193999999998,
+    107.71194,
     -6.97111,
-    107.71193999999998,
+    107.71194,
     -6.97111
 ],
-  "geometry": {"coordinates":[107.71193999999998,-6.97111],"type":"Point"}
+  "geometry": {"coordinates":[107.71194,-6.97111],"type":"Point"}
 }

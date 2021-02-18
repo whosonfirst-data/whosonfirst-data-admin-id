@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073217
+        102073217,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6604886
     },
     "wof:country":"ID",
-    "wof:geomhash":"dfab5a2b9ed85282e36966b046e0e5ea",
+    "wof:geomhash":"c56bdf97f971b62d31c83246da0676c1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1292947037,
-    "wof:lastmodified":1537630052,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175688,
     "wof:name":"Ciketug Lebak",
     "wof:parent_id":102073217,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.54361000000002,
+    106.54361,
     -6.59972,
-    106.54361000000002,
+    106.54361,
     -6.59972
 ],
-  "geometry": {"coordinates":[106.54361000000002,-6.59972],"type":"Point"}
+  "geometry": {"coordinates":[106.54361,-6.59972],"type":"Point"}
 }

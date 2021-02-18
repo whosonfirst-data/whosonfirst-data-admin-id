@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072715
+        102072715,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6375260
     },
     "wof:country":"ID",
-    "wof:geomhash":"2af6265a297a0e35dfb0fd653c950164",
+    "wof:geomhash":"3e6620a95f3bff953913416f8f247092",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1310296049,
-    "wof:lastmodified":1537628430,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181312,
     "wof:name":"Pasinggangan",
     "wof:parent_id":102072715,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.27443999999998,
+    109.27444,
     -7.53056,
-    109.27443999999998,
+    109.27444,
     -7.53056
 ],
-  "geometry": {"coordinates":[109.27443999999998,-7.53056],"type":"Point"}
+  "geometry": {"coordinates":[109.27444,-7.53056],"type":"Point"}
 }

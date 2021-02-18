@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072733
+        102072733,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6408710
     },
     "wof:country":"ID",
-    "wof:geomhash":"5f9254111ee7e4d5d41fe3d63f4dc5c4",
+    "wof:geomhash":"e76d67a13c45d4a94cabc657eb2cb47a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1276647299,
-    "wof:lastmodified":1537629017,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178051,
     "wof:name":"Sedongdong",
     "wof:parent_id":102072733,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.13443999999998,
+    111.13444,
     -7.56361,
-    111.13443999999998,
+    111.13444,
     -7.56361
 ],
-  "geometry": {"coordinates":[111.13443999999998,-7.56361],"type":"Point"}
+  "geometry": {"coordinates":[111.13444,-7.56361],"type":"Point"}
 }

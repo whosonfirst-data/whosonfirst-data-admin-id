@@ -74,15 +74,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102073013
+        102073013,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6387457
     },
     "wof:country":"ID",
-    "wof:geomhash":"1d5d87d9a34ee8a17144ee942b435bfe",
+    "wof:geomhash":"03e25f42d1384da09ec2b4873cd58585",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -93,7 +93,14 @@
         }
     ],
     "wof:id":1193122155,
-    "wof:lastmodified":1564188382,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179891,
     "wof:name":"Mojo",
     "wof:parent_id":102073013,
     "wof:placetype":"locality",
@@ -103,10 +110,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.31638999999998,
+    111.31639,
     -8.2225,
-    111.31638999999998,
+    111.31639,
     -8.2225
 ],
-  "geometry": {"coordinates":[111.31638999999998,-8.2225],"type":"Point"}
+  "geometry": {"coordinates":[111.31639,-8.2225],"type":"Point"}
 }

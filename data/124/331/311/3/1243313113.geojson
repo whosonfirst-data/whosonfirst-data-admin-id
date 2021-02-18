@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073551
+        102073551,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6599229
     },
     "wof:country":"ID",
-    "wof:geomhash":"23f9e9a692594278fffe928592faf45a",
+    "wof:geomhash":"b6100c1a0e0a77281a55ef95780c4fdc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1243313113,
-    "wof:lastmodified":1537629954,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613182864,
     "wof:name":"Sinarkompasindah",
     "wof:parent_id":102073551,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.07361000000002,
+    107.07361,
     -6.25694,
-    107.07361000000002,
+    107.07361,
     -6.25694
 ],
-  "geometry": {"coordinates":[107.07361000000002,-6.25694],"type":"Point"}
+  "geometry": {"coordinates":[107.07361,-6.25694],"type":"Point"}
 }

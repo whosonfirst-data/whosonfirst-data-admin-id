@@ -37,7 +37,7 @@
         "gn:id":6409297
     },
     "wof:country":"ID",
-    "wof:geomhash":"9769259b3755e593c6d86e16f52a7084",
+    "wof:geomhash":"f9ecdfe46c173420de7347b724826d16",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -45,7 +45,14 @@
         }
     ],
     "wof:id":1209600291,
-    "wof:lastmodified":1537629036,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179120,
     "wof:name":"Ngiju",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -55,10 +62,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.29361000000002,
+    111.29361,
     -7.5575,
-    111.29361000000002,
+    111.29361,
     -7.5575
 ],
-  "geometry": {"coordinates":[111.29361000000002,-7.5575],"type":"Point"}
+  "geometry": {"coordinates":[111.29361,-7.5575],"type":"Point"}
 }

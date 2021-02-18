@@ -34,7 +34,7 @@
         "gn:id":2009763
     },
     "wof:country":"ID",
-    "wof:geomhash":"0d86265cd3e9a880e509b1ea11513779",
+    "wof:geomhash":"f18da2599fb71908e8e6d0e337e0b61e",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209308671,
-    "wof:lastmodified":1536291105,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178479,
     "wof:name":"Doyomartan",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -52,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.52306000000002,
-    -7.574439999999999,
-    110.52306000000002,
-    -7.574439999999999
+    110.52306,
+    -7.57444,
+    110.52306,
+    -7.57444
 ],
-  "geometry": {"coordinates":[110.52306000000002,-7.57444],"type":"Point"}
+  "geometry": {"coordinates":[110.52306,-7.57444],"type":"Point"}
 }

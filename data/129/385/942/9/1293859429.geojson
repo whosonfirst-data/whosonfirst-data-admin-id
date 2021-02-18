@@ -59,15 +59,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672037,
-        102072751
+        102072751,
+        85672037
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8403440
     },
     "wof:country":"ID",
-    "wof:geomhash":"81a9511e369180a25d8e18cc5cd0c749",
+    "wof:geomhash":"34377f15b1adc865d90c1ed125bc848e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +78,14 @@
         }
     ],
     "wof:id":1293859429,
-    "wof:lastmodified":1564177442,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175924,
     "wof:name":"Tele",
     "wof:parent_id":102072751,
     "wof:placetype":"locality",
@@ -88,10 +95,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    124.47048999999998,
+    124.47049,
     -9.8219,
-    124.47048999999998,
+    124.47049,
     -9.8219
 ],
-  "geometry": {"coordinates":[124.47048999999998,-9.8219],"type":"Point"}
+  "geometry": {"coordinates":[124.47049,-9.8219],"type":"Point"}
 }

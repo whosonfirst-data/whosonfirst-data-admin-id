@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073295
+        102073295,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6567886
     },
     "wof:country":"ID",
-    "wof:geomhash":"7099cf4d84d9033054f3a9d0557fabcd",
+    "wof:geomhash":"a3bdc960ea852f2cec27900089f6fd52",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1259629449,
-    "wof:lastmodified":1537629334,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613184359,
     "wof:name":"Ciintang",
     "wof:parent_id":102073295,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.82193999999998,
+    107.82194,
     -6.55194,
-    107.82193999999998,
+    107.82194,
     -6.55194
 ],
-  "geometry": {"coordinates":[107.82193999999998,-6.55194],"type":"Point"}
+  "geometry": {"coordinates":[107.82194,-6.55194],"type":"Point"}
 }

@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672067,
-        102072635
+        102072635,
+        85672067
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":11428131
     },
     "wof:country":"ID",
-    "wof:geomhash":"9b3c13d1ceae2c0e1ee1a74f7f316c66",
+    "wof:geomhash":"fb486a0821b0d957862441b0f2d63854",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1326883325,
-    "wof:lastmodified":1536974838,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613172353,
     "wof:name":"Bagaraga",
     "wof:parent_id":102072635,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    132.14046000000002,
+    132.14046,
     -1.60345,
-    132.14046000000002,
+    132.14046,
     -1.60345
 ],
-  "geometry": {"coordinates":[132.14046000000002,-1.60345],"type":"Point"}
+  "geometry": {"coordinates":[132.14045999999999,-1.60345],"type":"Point"}
 }

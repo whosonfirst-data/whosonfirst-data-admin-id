@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073529
+        102073529,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1949713
     },
     "wof:country":"ID",
-    "wof:geomhash":"d26b9864d31d5e4231502c9bc8f321c0",
+    "wof:geomhash":"c89e1d713d958c68a1b9540732295326",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1293929621,
-    "wof:lastmodified":1537627465,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613176100,
     "wof:name":"Kiarapayung",
     "wof:parent_id":102073529,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.16443999999998,
+    107.16444,
     -6.67278,
-    107.16443999999998,
+    107.16444,
     -6.67278
 ],
-  "geometry": {"coordinates":[107.16443999999998,-6.67278],"type":"Point"}
+  "geometry": {"coordinates":[107.16444,-6.67278],"type":"Point"}
 }

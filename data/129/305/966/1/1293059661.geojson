@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672105,
-        102073047
+        102073047,
+        85672105
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8554217
     },
     "wof:country":"ID",
-    "wof:geomhash":"7ddc15e8ce80f07073f321d2c5061c03",
+    "wof:geomhash":"cb5e2f931f0a1c479cf97e94cc3b7318",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1293059661,
-    "wof:lastmodified":1537636409,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613176401,
     "wof:name":"Matandahi",
     "wof:parent_id":102073047,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    121.07061000000002,
+    121.07061,
     -3.18027,
-    121.07061000000002,
+    121.07061,
     -3.18027
 ],
-  "geometry": {"coordinates":[121.07061000000002,-3.18027],"type":"Point"}
+  "geometry": {"coordinates":[121.07061,-3.18027],"type":"Point"}
 }

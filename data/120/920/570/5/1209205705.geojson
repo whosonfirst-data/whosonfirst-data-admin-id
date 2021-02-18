@@ -34,7 +34,7 @@
         "gn:id":6263001
     },
     "wof:country":"ID",
-    "wof:geomhash":"4050c7e93d4130b1c1bbefc29e862f88",
+    "wof:geomhash":"645de09d0d9e5dd8cfca55484d267fde",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209205705,
-    "wof:lastmodified":1536294463,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179301,
     "wof:name":"Bogorame",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     110.83444,
-    -7.375560000000001,
+    -7.37556,
     110.83444,
-    -7.375560000000001
+    -7.37556
 ],
   "geometry": {"coordinates":[110.83444,-7.37556],"type":"Point"}
 }

@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072947
+        102072947,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6406645
     },
     "wof:country":"ID",
-    "wof:geomhash":"62811a386aaaf3e07983a3f41818d4d3",
+    "wof:geomhash":"02c515921d0daf7703a681102bfe51e0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1310522351,
-    "wof:lastmodified":1537628969,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181047,
     "wof:name":"Ngatma",
     "wof:parent_id":102072947,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.01111000000002,
+    111.01111,
     -7.78611,
-    111.01111000000002,
+    111.01111,
     -7.78611
 ],
-  "geometry": {"coordinates":[111.01111000000002,-7.78611],"type":"Point"}
+  "geometry": {"coordinates":[111.01111,-7.78611],"type":"Point"}
 }

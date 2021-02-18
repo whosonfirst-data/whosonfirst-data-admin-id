@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672019,
-        102073043
+        102073043,
+        85672019
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8529386
     },
     "wof:country":"ID",
-    "wof:geomhash":"27f9a87d595a3783df6ca2609562a7da",
+    "wof:geomhash":"a443c50448dc71037d8b795ce3a5580f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1309759445,
-    "wof:lastmodified":1537636325,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613182565,
     "wof:name":"Tengkalat",
     "wof:parent_id":102073043,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    105.97048999999998,
+    105.97049,
     -1.55695,
-    105.97048999999998,
+    105.97049,
     -1.55695
 ],
-  "geometry": {"coordinates":[105.97048999999998,-1.55695],"type":"Point"}
+  "geometry": {"coordinates":[105.97049,-1.55695],"type":"Point"}
 }

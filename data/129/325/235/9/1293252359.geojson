@@ -53,15 +53,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073515
+        102073515,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6398320
     },
     "wof:country":"ID",
-    "wof:geomhash":"12214d413c2f6435d7171011d0faa00d",
+    "wof:geomhash":"b5fc2e87f4d6f0d538e02946d35b9f62",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -72,7 +72,14 @@
         }
     ],
     "wof:id":1293252359,
-    "wof:lastmodified":1564177736,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613176073,
     "wof:name":"Radun",
     "wof:parent_id":102073515,
     "wof:placetype":"locality",
@@ -82,10 +89,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.31638999999998,
+    108.31639,
     -6.78944,
-    108.31638999999998,
+    108.31639,
     -6.78944
 ],
-  "geometry": {"coordinates":[108.31638999999998,-6.78944],"type":"Point"}
+  "geometry": {"coordinates":[108.31639,-6.78944],"type":"Point"}
 }

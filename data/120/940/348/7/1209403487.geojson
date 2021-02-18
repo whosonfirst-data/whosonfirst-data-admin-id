@@ -34,7 +34,7 @@
         "gn:id":6264403
     },
     "wof:country":"ID",
-    "wof:geomhash":"b0967075929f881368eb284517293e26",
+    "wof:geomhash":"ee9ca66712fef7d9647b028ae64d9880",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209403487,
-    "wof:lastmodified":1536288070,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178762,
     "wof:name":"Bendo",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     110.25694,
-    -7.653060000000001,
+    -7.65306,
     110.25694,
-    -7.653060000000001
+    -7.65306
 ],
   "geometry": {"coordinates":[110.25694,-7.65306],"type":"Point"}
 }

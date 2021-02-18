@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672037,
-        102073179
+        102073179,
+        85672037
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1939423
     },
     "wof:country":"ID",
-    "wof:geomhash":"7c8efde732419bafd1b3734542d96524",
+    "wof:geomhash":"18c1c1112574b64e848d5b713d67fb60",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1226305703,
-    "wof:lastmodified":1536846260,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613186366,
     "wof:name":"Manufui",
     "wof:parent_id":102073179,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    124.69693999999998,
+    124.69694,
     -9.37306,
-    124.69693999999998,
+    124.69694,
     -9.37306
 ],
-  "geometry": {"coordinates":[124.69693999999998,-9.37306],"type":"Point"}
+  "geometry": {"coordinates":[124.69694,-9.37306],"type":"Point"}
 }

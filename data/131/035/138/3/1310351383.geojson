@@ -47,15 +47,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072949
+        102072949,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1962033
     },
     "wof:country":"ID",
-    "wof:geomhash":"faf167f58518705af39a9418d7097cab",
+    "wof:geomhash":"42ed80fd20a9262f95a814479911d66b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -66,7 +66,14 @@
         }
     ],
     "wof:id":1310351383,
-    "wof:lastmodified":1564193507,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181481,
     "wof:name":"Kiara",
     "wof:parent_id":102072949,
     "wof:placetype":"locality",
@@ -76,10 +83,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.56638999999998,
+    107.56639,
     -7.20417,
-    107.56638999999998,
+    107.56639,
     -7.20417
 ],
-  "geometry": {"coordinates":[107.56638999999998,-7.20417],"type":"Point"}
+  "geometry": {"coordinates":[107.56639,-7.20417],"type":"Point"}
 }

@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073193
+        102073193,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6402412
     },
     "wof:country":"ID",
-    "wof:geomhash":"a9e2ce196084dcc9487835ecda87ffe8",
+    "wof:geomhash":"8f4a6badfc7ed76f1beac3acbff2609b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1343807635,
-    "wof:lastmodified":1537628867,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175152,
     "wof:name":"Kaliranca Satu",
     "wof:parent_id":102073193,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.16861000000002,
+    108.16861,
     -6.42111,
-    108.16861000000002,
+    108.16861,
     -6.42111
 ],
-  "geometry": {"coordinates":[108.16861000000002,-6.42111],"type":"Point"}
+  "geometry": {"coordinates":[108.16861,-6.42111],"type":"Point"}
 }

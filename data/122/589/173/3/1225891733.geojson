@@ -33,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672097,
-        1108796833
+        1108796833,
+        85672097
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1643163
     },
     "wof:country":"ID",
-    "wof:geomhash":"6ba4aba9b808f1cd2b58f816f894f478",
+    "wof:geomhash":"4bf78886497f4735a17a19dd427bcb96",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,7 +52,14 @@
         }
     ],
     "wof:id":1225891733,
-    "wof:lastmodified":1537627086,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185859,
     "wof:name":"Ilela",
     "wof:parent_id":1108796833,
     "wof:placetype":"locality",
@@ -62,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    129.58938999999998,
+    129.58939,
     -3.1609,
-    129.58938999999998,
+    129.58939,
     -3.1609
 ],
-  "geometry": {"coordinates":[129.58938999999998,-3.1609],"type":"Point"}
+  "geometry": {"coordinates":[129.58939000000001,-3.1609],"type":"Point"}
 }

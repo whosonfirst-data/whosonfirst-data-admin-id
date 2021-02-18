@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073471
+        102073471,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1949381
     },
     "wof:country":"ID",
-    "wof:geomhash":"97238a587f9e1f7b9e55e4efacbe2a82",
+    "wof:geomhash":"111abcf0fe0571a0e2abd5d8287476a2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1309855583,
-    "wof:lastmodified":1537627454,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613182309,
     "wof:name":"Ciseureuh",
     "wof:parent_id":102073471,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.57361000000002,
+    107.57361,
     -6.61389,
-    107.57361000000002,
+    107.57361,
     -6.61389
 ],
-  "geometry": {"coordinates":[107.57361000000002,-6.61389],"type":"Point"}
+  "geometry": {"coordinates":[107.57361,-6.61389],"type":"Point"}
 }

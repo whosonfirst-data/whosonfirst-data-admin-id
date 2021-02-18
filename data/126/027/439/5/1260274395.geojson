@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073169
+        102073169,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6200156
     },
     "wof:country":"ID",
-    "wof:geomhash":"1cf107159115c05e73defbe07abbbc00",
+    "wof:geomhash":"8d1549b1eea444ec6473b5c5b373888b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1260274395,
-    "wof:lastmodified":1536724522,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613180446,
     "wof:name":"Brangasan Satu",
     "wof:parent_id":102073169,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.06638999999998,
+    110.06639,
     -7.2975,
-    110.06638999999998,
+    110.06639,
     -7.2975
 ],
-  "geometry": {"coordinates":[110.06638999999998,-7.2975],"type":"Point"}
+  "geometry": {"coordinates":[110.06639,-7.2975],"type":"Point"}
 }

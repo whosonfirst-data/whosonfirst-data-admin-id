@@ -94,7 +94,7 @@
         "gn:id":2003050
     },
     "wof:country":"ID",
-    "wof:geomhash":"c57893a48373da4802872de90c691f3c",
+    "wof:geomhash":"dbf4f2a696c239f9ea6a496358a68d02",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -102,7 +102,14 @@
         }
     ],
     "wof:id":1209603885,
-    "wof:lastmodified":1564186236,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179133,
     "wof:name":"Paten",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -112,10 +119,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.36388999999998,
+    110.36389,
     -7.94611,
-    110.36388999999998,
+    110.36389,
     -7.94611
 ],
-  "geometry": {"coordinates":[110.36388999999998,-7.94611],"type":"Point"}
+  "geometry": {"coordinates":[110.36389,-7.94611],"type":"Point"}
 }

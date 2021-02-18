@@ -34,15 +34,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671995,
-        102073479
+        102073479,
+        85671995
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1960231
     },
     "wof:country":"ID",
-    "wof:geomhash":"943f9f8b54e40f5c25c6e16ddc6862fe",
+    "wof:geomhash":"7fd5204e09c23f1e3c20f93108c2324c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +53,14 @@
         }
     ],
     "wof:id":1259940211,
-    "wof:lastmodified":1537627546,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613184936,
     "wof:name":"Asem Tiga",
     "wof:parent_id":102073479,
     "wof:placetype":"locality",
@@ -63,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.25943999999998,
+    106.25944,
     -6.22667,
-    106.25943999999998,
+    106.25944,
     -6.22667
 ],
-  "geometry": {"coordinates":[106.25943999999998,-6.22667],"type":"Point"}
+  "geometry": {"coordinates":[106.25944,-6.22667],"type":"Point"}
 }

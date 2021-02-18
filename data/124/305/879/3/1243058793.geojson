@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072947
+        102072947,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6375580
     },
     "wof:country":"ID",
-    "wof:geomhash":"73252b34af80aa957250c4acadd10d51",
+    "wof:geomhash":"58f5b0f6470e5b7600d768e82d019e44",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1243058793,
-    "wof:lastmodified":1537628441,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183743,
     "wof:name":"Pule",
     "wof:parent_id":102072947,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.85611000000002,
+    110.85611,
     -8.14306,
-    110.85611000000002,
+    110.85611,
     -8.14306
 ],
-  "geometry": {"coordinates":[110.85611000000002,-8.14306],"type":"Point"}
+  "geometry": {"coordinates":[110.85611,-8.14306],"type":"Point"}
 }

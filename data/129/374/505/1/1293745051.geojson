@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672097,
-        1108796827
+        1108796827,
+        85672097
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1904333
     },
     "wof:country":"ID",
-    "wof:geomhash":"9c7a8f427ac71e01c6870e023dd34272",
+    "wof:geomhash":"5117b31271f27bfe5d906bb62702cf14",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1293745051,
-    "wof:lastmodified":1536913468,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613176703,
     "wof:name":"Gugua",
     "wof:parent_id":1108796827,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    134.48221999999998,
+    134.48222,
     -5.94028,
-    134.48221999999998,
+    134.48222,
     -5.94028
 ],
-  "geometry": {"coordinates":[134.48221999999998,-5.94028],"type":"Point"}
+  "geometry": {"coordinates":[134.48222000000001,-5.94028],"type":"Point"}
 }

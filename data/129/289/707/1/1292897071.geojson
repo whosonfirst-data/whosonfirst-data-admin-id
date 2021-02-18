@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073233
+        102073233,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2011723
     },
     "wof:country":"ID",
-    "wof:geomhash":"a1acee4b899255c12149f75bf1f1eef5",
+    "wof:geomhash":"3cf068c4f7b953d6c2eff0589d9c8be4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1292897071,
-    "wof:lastmodified":1536643524,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175613,
     "wof:name":"Kajen",
     "wof:parent_id":102073233,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.63443999999998,
+    110.63444,
     -7.61083,
-    110.63443999999998,
+    110.63444,
     -7.61083
 ],
-  "geometry": {"coordinates":[110.63443999999998,-7.61083],"type":"Point"}
+  "geometry": {"coordinates":[110.63444,-7.61083],"type":"Point"}
 }

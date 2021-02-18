@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073163
+        102073163,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6598465
     },
     "wof:country":"ID",
-    "wof:geomhash":"b7fec8d75c3400b36f1240a2f0dc398a",
+    "wof:geomhash":"fce9a8bdf8e74afda27a0291f39653d8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1243309729,
-    "wof:lastmodified":1537629925,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613182921,
     "wof:name":"Kebonsari",
     "wof:parent_id":102073163,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.53806000000002,
+    107.53806,
     -6.88972,
-    107.53806000000002,
+    107.53806,
     -6.88972
 ],
-  "geometry": {"coordinates":[107.53806000000002,-6.88972],"type":"Point"}
+  "geometry": {"coordinates":[107.53806,-6.88972],"type":"Point"}
 }

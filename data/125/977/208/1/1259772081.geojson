@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073189
+        102073189,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6371700
     },
     "wof:country":"ID",
-    "wof:geomhash":"f0994f7ca719f368b03a91f5bf5a3484",
+    "wof:geomhash":"af3c3c76cb75ce19cb855ff416472fc3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1259772081,
-    "wof:lastmodified":1537628351,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613184549,
     "wof:name":"Ngampiran",
     "wof:parent_id":102073189,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.77443999999998,
+    110.77444,
     -8.10528,
-    110.77443999999998,
+    110.77444,
     -8.10528
 ],
-  "geometry": {"coordinates":[110.77443999999998,-8.10528],"type":"Point"}
+  "geometry": {"coordinates":[110.77444,-8.10528],"type":"Point"}
 }

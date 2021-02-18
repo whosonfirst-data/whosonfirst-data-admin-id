@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073529
+        102073529,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6591695
     },
     "wof:country":"ID",
-    "wof:geomhash":"dbbc787e5e1422649c70ee68fb9521ae",
+    "wof:geomhash":"f20490943bf2b63e7a4adda47032510b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1259643623,
-    "wof:lastmodified":1537629710,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613184462,
     "wof:name":"Cisangkan",
     "wof:parent_id":102073529,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.27443999999998,
+    107.27444,
     -6.89778,
-    107.27443999999998,
+    107.27444,
     -6.89778
 ],
-  "geometry": {"coordinates":[107.27443999999998,-6.89778],"type":"Point"}
+  "geometry": {"coordinates":[107.27444,-6.89778],"type":"Point"}
 }

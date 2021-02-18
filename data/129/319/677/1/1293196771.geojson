@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102073157
+        102073157,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6829206
     },
     "wof:country":"ID",
-    "wof:geomhash":"cbeff5e47533970910c2ec994bd35c57",
+    "wof:geomhash":"2ad3ec41d5b3264ec8d360ac8e923645",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1293196771,
-    "wof:lastmodified":1537632077,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613176800,
     "wof:name":"Jumitro",
     "wof:parent_id":102073157,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    113.39688999999998,
+    113.39689,
     -7.85458,
-    113.39688999999998,
+    113.39689,
     -7.85458
 ],
-  "geometry": {"coordinates":[113.39688999999998,-7.85458],"type":"Point"}
+  "geometry": {"coordinates":[113.39689,-7.85458],"type":"Point"}
 }

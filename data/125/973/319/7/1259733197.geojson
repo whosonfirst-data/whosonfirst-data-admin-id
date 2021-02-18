@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073217
+        102073217,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6592676
     },
     "wof:country":"ID",
-    "wof:geomhash":"ece6956e923a29f224edab877fa7ebbb",
+    "wof:geomhash":"b27039150e471a908009aecdb7162333",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1259733197,
-    "wof:lastmodified":1537629742,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185027,
     "wof:name":"Babakankadu",
     "wof:parent_id":102073217,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.19693999999998,
+    107.19694,
     -6.61861,
-    107.19693999999998,
+    107.19694,
     -6.61861
 ],
-  "geometry": {"coordinates":[107.19693999999998,-6.61861],"type":"Point"}
+  "geometry": {"coordinates":[107.19694,-6.61861],"type":"Point"}
 }

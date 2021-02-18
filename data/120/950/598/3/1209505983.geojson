@@ -34,7 +34,7 @@
         "gn:id":6259246
     },
     "wof:country":"ID",
-    "wof:geomhash":"4661e27a611cac5ac7d3adf7c755fb7c",
+    "wof:geomhash":"acf141f03b8bf9aa39263241abf524af",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209505983,
-    "wof:lastmodified":1536285034,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178920,
     "wof:name":"Gabe Lor",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     110.34806,
-    -7.588889999999999,
+    -7.58889,
     110.34806,
-    -7.588889999999999
+    -7.58889
 ],
   "geometry": {"coordinates":[110.34806,-7.58889],"type":"Point"}
 }

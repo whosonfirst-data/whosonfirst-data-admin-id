@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073189
+        102073189,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6371516
     },
     "wof:country":"ID",
-    "wof:geomhash":"c7faec6799a8c024f6fa04ba15295923",
+    "wof:geomhash":"b68155aa8e2f9119fd25ce80d687b942",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1344235647,
-    "wof:lastmodified":1537628344,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613174248,
     "wof:name":"Jomblang Tengah",
     "wof:parent_id":102073189,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.75388999999998,
+    110.75389,
     -8.00944,
-    110.75388999999998,
+    110.75389,
     -8.00944
 ],
-  "geometry": {"coordinates":[110.75388999999998,-8.00944],"type":"Point"}
+  "geometry": {"coordinates":[110.75389,-8.00944],"type":"Point"}
 }

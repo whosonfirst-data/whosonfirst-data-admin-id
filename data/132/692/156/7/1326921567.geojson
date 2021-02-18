@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072857
+        102072857,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1640809
     },
     "wof:country":"ID",
-    "wof:geomhash":"2d918222c55e4a0e604859b45b770771",
+    "wof:geomhash":"f8cd51589290b0e99efd7f4e24c0fbed",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,7 +54,14 @@
         }
     ],
     "wof:id":1326921567,
-    "wof:lastmodified":1537627004,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613172569,
     "wof:name":"Kayuparing",
     "wof:parent_id":102072857,
     "wof:placetype":"locality",
@@ -64,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.28943999999998,
+    110.28944,
     -7.37806,
-    110.28943999999998,
+    110.28944,
     -7.37806
 ],
-  "geometry": {"coordinates":[110.28943999999998,-7.37806],"type":"Point"}
+  "geometry": {"coordinates":[110.28944,-7.37806],"type":"Point"}
 }

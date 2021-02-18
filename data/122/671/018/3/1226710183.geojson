@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072949
+        102072949,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1962181
     },
     "wof:country":"ID",
-    "wof:geomhash":"206f719f27d3eff05e55c775924ca6c1",
+    "wof:geomhash":"a38c8f830d8281b252721ba83c815a5b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1226710183,
-    "wof:lastmodified":1536767416,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613186088,
     "wof:name":"Tutugan",
     "wof:parent_id":102072949,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.71056000000002,
+    107.71056,
     -7.19444,
-    107.71056000000002,
+    107.71056,
     -7.19444
 ],
-  "geometry": {"coordinates":[107.71056000000002,-7.19444],"type":"Point"}
+  "geometry": {"coordinates":[107.71056,-7.19444],"type":"Point"}
 }

@@ -34,15 +34,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073217
+        102073217,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1960130
     },
     "wof:country":"ID",
-    "wof:geomhash":"84402912763b859170fc21dd8818637c",
+    "wof:geomhash":"b36b07a6ef11b14a7fd0986612fad9c9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +53,14 @@
         }
     ],
     "wof:id":1242834709,
-    "wof:lastmodified":1537627541,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183785,
     "wof:name":"Cibabi",
     "wof:parent_id":102073217,
     "wof:placetype":"locality",
@@ -63,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.99611000000002,
+    106.99611,
     -6.48917,
-    106.99611000000002,
+    106.99611,
     -6.48917
 ],
-  "geometry": {"coordinates":[106.99611000000002,-6.48917],"type":"Point"}
+  "geometry": {"coordinates":[106.99611,-6.48917],"type":"Point"}
 }

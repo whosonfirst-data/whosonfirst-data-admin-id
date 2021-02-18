@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073529
+        102073529,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6589251
     },
     "wof:country":"ID",
-    "wof:geomhash":"f94fbb725f13de2adf0e20374a94fb82",
+    "wof:geomhash":"9c009c59588f04e96e1870232eaf090e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1259629307,
-    "wof:lastmodified":1537629641,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613184344,
     "wof:name":"Rancagoong",
     "wof:parent_id":102073529,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.11556000000002,
+    107.11556,
     -6.84361,
-    107.11556000000002,
+    107.11556,
     -6.84361
 ],
-  "geometry": {"coordinates":[107.11556000000002,-6.84361],"type":"Point"}
+  "geometry": {"coordinates":[107.11556,-6.84361],"type":"Point"}
 }

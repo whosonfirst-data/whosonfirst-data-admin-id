@@ -34,7 +34,7 @@
         "gn:id":2007388
     },
     "wof:country":"ID",
-    "wof:geomhash":"02774c8930e454060116705fe2b91027",
+    "wof:geomhash":"d5cddda0c7ab0c238a15efe340b7c62c",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209435473,
-    "wof:lastmodified":1536287117,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179548,
     "wof:name":"Lusah Kidul",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     110.54833,
-    -7.7316699999999985,
+    -7.73167,
     110.54833,
-    -7.7316699999999985
+    -7.73167
 ],
   "geometry": {"coordinates":[110.54833000000001,-7.73167],"type":"Point"}
 }

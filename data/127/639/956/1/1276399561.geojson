@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073569
+        102073569,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6400673
     },
     "wof:country":"ID",
-    "wof:geomhash":"56ba72b225150ce7ee4186088678ff0d",
+    "wof:geomhash":"5b9297beed5663cd9a60305a78abd829",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1276399561,
-    "wof:lastmodified":1537628819,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178112,
     "wof:name":"Cilengek",
     "wof:parent_id":102073569,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.47693999999998,
+    108.47694,
     -6.92167,
-    108.47693999999998,
+    108.47694,
     -6.92167
 ],
-  "geometry": {"coordinates":[108.47693999999998,-6.92167],"type":"Point"}
+  "geometry": {"coordinates":[108.47694,-6.92167],"type":"Point"}
 }

@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672111,
-        102073015
+        102073015,
+        85672111
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6999445
     },
     "wof:country":"ID",
-    "wof:geomhash":"4c1ab2204f4c235c859bb870bd203731",
+    "wof:geomhash":"1da9edb1c878d3f97db3bfa9ece7c10b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1327093365,
-    "wof:lastmodified":1537632666,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613172107,
     "wof:name":"Simpang Dua",
     "wof:parent_id":102073015,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    122.23888999999998,
+    122.23889,
     -0.9167,
-    122.23888999999998,
+    122.23889,
     -0.9167
 ],
-  "geometry": {"coordinates":[122.23888999999998,-0.9167],"type":"Point"}
+  "geometry": {"coordinates":[122.23889,-0.9167],"type":"Point"}
 }

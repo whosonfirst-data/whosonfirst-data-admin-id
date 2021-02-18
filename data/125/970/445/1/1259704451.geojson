@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073169
+        102073169,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6563518
     },
     "wof:country":"ID",
-    "wof:geomhash":"471f7426cd4b5759770828a36c602587",
+    "wof:geomhash":"e2c7d2edeaa42eda4832096a553c41f4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1259704451,
-    "wof:lastmodified":1537629211,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613184597,
     "wof:name":"Gaden",
     "wof:parent_id":102073169,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.06638999999998,
+    110.06639,
     -7.23556,
-    110.06638999999998,
+    110.06639,
     -7.23556
 ],
-  "geometry": {"coordinates":[110.06638999999998,-7.23556],"type":"Point"}
+  "geometry": {"coordinates":[110.06639,-7.23556],"type":"Point"}
 }

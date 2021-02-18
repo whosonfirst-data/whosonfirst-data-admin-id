@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073193
+        102073193,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6404179
     },
     "wof:country":"ID",
-    "wof:geomhash":"a4871f44fd7d2e77dafd8ceb095e6eb2",
+    "wof:geomhash":"ffda7233c052148a117ec2c0ef5d9c5f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1292946843,
-    "wof:lastmodified":1537628886,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175691,
     "wof:name":"Panggang",
     "wof:parent_id":102073193,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.44138999999998,
+    108.44139,
     -6.46333,
-    108.44138999999998,
+    108.44139,
     -6.46333
 ],
-  "geometry": {"coordinates":[108.44138999999998,-6.46333],"type":"Point"}
+  "geometry": {"coordinates":[108.44139,-6.46333],"type":"Point"}
 }

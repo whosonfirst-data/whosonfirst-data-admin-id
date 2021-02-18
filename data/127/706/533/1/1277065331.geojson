@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073265
+        102073265,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2004566
     },
     "wof:country":"ID",
-    "wof:geomhash":"d656530c1191b59ec8a88b71825a7a1f",
+    "wof:geomhash":"62ca0fc6b826b4adaf0d62011408b0a5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1277065331,
-    "wof:lastmodified":1536792723,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613176918,
     "wof:name":"Salakan",
     "wof:parent_id":102073265,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.33556000000002,
+    110.33556,
     -7.75472,
-    110.33556000000002,
+    110.33556,
     -7.75472
 ],
-  "geometry": {"coordinates":[110.33556000000002,-7.75472],"type":"Point"}
+  "geometry": {"coordinates":[110.33556,-7.75472],"type":"Point"}
 }

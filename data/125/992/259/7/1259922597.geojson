@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672041,
-        102073379
+        102073379,
+        85672041
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6999309
     },
     "wof:country":"ID",
-    "wof:geomhash":"9fefc4d94afa59c20b97d1cd08270507",
+    "wof:geomhash":"ab2b3e7e60716e76665549a802b7b26c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1259922597,
-    "wof:lastmodified":1537632664,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613184820,
     "wof:name":"Binaternakmulya",
     "wof:parent_id":102073379,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    119.82061000000002,
+    119.82061,
     -3.73201,
-    119.82061000000002,
+    119.82061,
     -3.73201
 ],
-  "geometry": {"coordinates":[119.82061000000002,-3.73201],"type":"Point"}
+  "geometry": {"coordinates":[119.82061,-3.73201],"type":"Point"}
 }

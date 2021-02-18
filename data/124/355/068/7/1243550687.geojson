@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072857
+        102072857,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1964396
     },
     "wof:country":"ID",
-    "wof:geomhash":"6b33582813f7c9ce29297ba36094531a",
+    "wof:geomhash":"6a2a4fd78a0c685888fdb94ce05cf31c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1243550687,
-    "wof:lastmodified":1536655369,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183007,
     "wof:name":"Ngrangkah",
     "wof:parent_id":102072857,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.35056000000002,
+    110.35056,
     -7.47333,
-    110.35056000000002,
+    110.35056,
     -7.47333
 ],
-  "geometry": {"coordinates":[110.35056000000002,-7.47333],"type":"Point"}
+  "geometry": {"coordinates":[110.35056,-7.47333],"type":"Point"}
 }

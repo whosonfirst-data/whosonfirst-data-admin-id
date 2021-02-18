@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072947
+        102072947,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6406520
     },
     "wof:country":"ID",
-    "wof:geomhash":"4e8559425c65b4fda05da70937c37a24",
+    "wof:geomhash":"c8e23e6796ebe005f70c30ae8e82a6b9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1327324765,
-    "wof:lastmodified":1537628964,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613172923,
     "wof:name":"Senutan",
     "wof:parent_id":102072947,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.06638999999998,
+    111.06639,
     -7.80944,
-    111.06638999999998,
+    111.06639,
     -7.80944
 ],
-  "geometry": {"coordinates":[111.06638999999998,-7.80944],"type":"Point"}
+  "geometry": {"coordinates":[111.06639,-7.80944],"type":"Point"}
 }

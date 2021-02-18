@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072613
+        102072613,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7914551
     },
     "wof:country":"ID",
-    "wof:geomhash":"a7695efe876bbf6116e43d1d812d0d41",
+    "wof:geomhash":"3ed6708a24cae6433ae49d41632e5054",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1243414571,
-    "wof:lastmodified":1537634797,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183349,
     "wof:name":"Cipanggalang",
     "wof:parent_id":102072613,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.98841000000002,
+    107.98841,
     -7.5568,
-    107.98841000000002,
+    107.98841,
     -7.5568
 ],
-  "geometry": {"coordinates":[107.98841000000002,-7.5568],"type":"Point"}
+  "geometry": {"coordinates":[107.98841,-7.5568],"type":"Point"}
 }

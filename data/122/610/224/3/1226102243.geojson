@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671995,
-        102072687
+        102072687,
+        85671995
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6605668
     },
     "wof:country":"ID",
-    "wof:geomhash":"1dc6ac24ccb4eab96d4e7da37689031a",
+    "wof:geomhash":"703d8f9dbc5e81165c38ff1ae68bccb7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1226102243,
-    "wof:lastmodified":1537630082,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185325,
     "wof:name":"Cituren",
     "wof:parent_id":102072687,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.41443999999998,
+    106.41444,
     -6.26444,
-    106.41443999999998,
+    106.41444,
     -6.26444
 ],
-  "geometry": {"coordinates":[106.41443999999998,-6.26444],"type":"Point"}
+  "geometry": {"coordinates":[106.41444,-6.26444],"type":"Point"}
 }

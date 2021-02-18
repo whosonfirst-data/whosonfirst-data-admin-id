@@ -39,15 +39,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        1108796793
+        1108796793,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1963171
     },
     "wof:country":"ID",
-    "wof:geomhash":"6c8f6ed1c07c83a3365be40d0c413bc7",
+    "wof:geomhash":"b62539192b0c5a57bb18196eca4b40d5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -58,7 +58,14 @@
         }
     ],
     "wof:id":1259929951,
-    "wof:lastmodified":1564203360,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613184826,
     "wof:name":"Cisarua",
     "wof:parent_id":1108796793,
     "wof:placetype":"locality",
@@ -68,10 +75,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.30138999999998,
+    107.30139,
     -6.91861,
-    107.30138999999998,
+    107.30139,
     -6.91861
 ],
-  "geometry": {"coordinates":[107.30138999999998,-6.91861],"type":"Point"}
+  "geometry": {"coordinates":[107.30139,-6.91861],"type":"Point"}
 }

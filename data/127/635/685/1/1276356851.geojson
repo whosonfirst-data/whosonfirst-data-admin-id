@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072983
+        102072983,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1973383
     },
     "wof:country":"ID",
-    "wof:geomhash":"91407e0655e7f0d260953e9f0c9bf6cf",
+    "wof:geomhash":"c9b4c7b6b0a09603614b333dc332b8a1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1276356851,
-    "wof:lastmodified":1536746856,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177479,
     "wof:name":"Seretan",
     "wof:parent_id":102072983,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.71193999999998,
+    110.71194,
     -7.40194,
-    110.71193999999998,
+    110.71194,
     -7.40194
 ],
-  "geometry": {"coordinates":[110.71193999999998,-7.40194],"type":"Point"}
+  "geometry": {"coordinates":[110.71194,-7.40194],"type":"Point"}
 }

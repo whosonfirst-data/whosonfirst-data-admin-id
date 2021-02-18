@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672097,
-        1108796845
+        1108796845,
+        85672097
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1900075
     },
     "wof:country":"ID",
-    "wof:geomhash":"e2e006300ebb86c6aed2d06c6f9fea49",
+    "wof:geomhash":"f0054952f65220f3490c482a36f4ba1a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1309853225,
-    "wof:lastmodified":1537627398,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613182322,
     "wof:name":"Warkar",
     "wof:parent_id":1108796845,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    131.96823999999998,
+    131.96824,
     -5.34714,
-    131.96823999999998,
+    131.96824,
     -5.34714
 ],
-  "geometry": {"coordinates":[131.96823999999998,-5.34714],"type":"Point"}
+  "geometry": {"coordinates":[131.96824000000001,-5.34714],"type":"Point"}
 }

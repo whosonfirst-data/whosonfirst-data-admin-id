@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073233
+        102073233,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2008031
     },
     "wof:country":"ID",
-    "wof:geomhash":"0684da1b2d8dd7ef300205ba65683b1f",
+    "wof:geomhash":"cbecf02cd1f59805b72c85b60c4ad5e0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1243088239,
-    "wof:lastmodified":1536824028,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613182935,
     "wof:name":"Pekilen Kidul",
     "wof:parent_id":102073233,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.66306000000002,
+    110.66306,
     -7.64417,
-    110.66306000000002,
+    110.66306,
     -7.64417
 ],
-  "geometry": {"coordinates":[110.66306000000002,-7.64417],"type":"Point"}
+  "geometry": {"coordinates":[110.66306,-7.64417],"type":"Point"}
 }

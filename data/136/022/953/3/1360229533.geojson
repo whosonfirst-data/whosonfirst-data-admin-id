@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672019,
-        102073043
+        102073043,
+        85672019
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8764209
     },
     "wof:country":"ID",
-    "wof:geomhash":"5f2d2a8ad0f994f35543966330ecfa0f",
+    "wof:geomhash":"df88df082eb655a59ee8cc6c5d46e942",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1360229533,
-    "wof:lastmodified":1537636688,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181816,
     "wof:name":"Lokiufun",
     "wof:parent_id":102073043,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.07878999999998,
+    106.07879,
     -1.94383,
-    106.07878999999998,
+    106.07879,
     -1.94383
 ],
-  "geometry": {"coordinates":[106.07878999999998,-1.94383],"type":"Point"}
+  "geometry": {"coordinates":[106.07879,-1.94383],"type":"Point"}
 }

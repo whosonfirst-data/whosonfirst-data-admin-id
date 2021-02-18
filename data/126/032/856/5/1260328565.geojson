@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671995,
-        102073209
+        102073209,
+        85671995
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7787577
     },
     "wof:country":"ID",
-    "wof:geomhash":"7252ba9bdae22c26a77cea836319cc62",
+    "wof:geomhash":"d147bc67c1f7eafc3795eb222e7ac11e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1260328565,
-    "wof:lastmodified":1537634470,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613180601,
     "wof:name":"Asalmula",
     "wof:parent_id":102073209,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.02221000000002,
+    106.02221,
     -6.81116,
-    106.02221000000002,
+    106.02221,
     -6.81116
 ],
-  "geometry": {"coordinates":[106.02221000000002,-6.81116],"type":"Point"}
+  "geometry": {"coordinates":[106.02221,-6.81116],"type":"Point"}
 }

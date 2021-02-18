@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073193
+        102073193,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6568271
     },
     "wof:country":"ID",
-    "wof:geomhash":"e0950f8b4fe8aac779f67ee0717db688",
+    "wof:geomhash":"00f64fd1f0369cb5e88506f1d4e3cab4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1226302869,
-    "wof:lastmodified":1537629345,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613186350,
     "wof:name":"Gandamulya",
     "wof:parent_id":102073193,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.94861000000002,
+    107.94861,
     -6.465,
-    107.94861000000002,
+    107.94861,
     -6.465
 ],
-  "geometry": {"coordinates":[107.94861000000002,-6.465],"type":"Point"}
+  "geometry": {"coordinates":[107.94861,-6.465],"type":"Point"}
 }

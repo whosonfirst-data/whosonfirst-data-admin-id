@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072639
+        102072639,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6376692
     },
     "wof:country":"ID",
-    "wof:geomhash":"1fdc16d7465168563b1538d4725660eb",
+    "wof:geomhash":"2dd995338cfb2274ea9c197a488c7559",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1276464603,
-    "wof:lastmodified":1537628471,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177951,
     "wof:name":"Kembaran",
     "wof:parent_id":102072639,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.73111000000002,
+    109.73111,
     -7.68194,
-    109.73111000000002,
+    109.73111,
     -7.68194
 ],
-  "geometry": {"coordinates":[109.73111000000002,-7.68194],"type":"Point"}
+  "geometry": {"coordinates":[109.73111,-7.68194],"type":"Point"}
 }

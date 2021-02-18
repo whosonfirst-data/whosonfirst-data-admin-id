@@ -41,15 +41,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073193
+        102073193,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6569328
     },
     "wof:country":"ID",
-    "wof:geomhash":"7777d9b819fdfd9586679e2e14b00efe",
+    "wof:geomhash":"4a77f1e4e9bc74b9e9b678b9b2bb13b9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -60,7 +60,14 @@
         }
     ],
     "wof:id":1209962675,
-    "wof:lastmodified":1564184123,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178404,
     "wof:name":"Kongsi",
     "wof:parent_id":102073193,
     "wof:placetype":"locality",
@@ -70,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.01111000000002,
+    108.01111,
     -6.31139,
-    108.01111000000002,
+    108.01111,
     -6.31139
 ],
-  "geometry": {"coordinates":[108.01111000000002,-6.31139],"type":"Point"}
+  "geometry": {"coordinates":[108.01111,-6.31139],"type":"Point"}
 }

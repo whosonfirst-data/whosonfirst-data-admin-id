@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073515
+        102073515,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6398200
     },
     "wof:country":"ID",
-    "wof:geomhash":"24646f02d54de779dfaff20636a725cf",
+    "wof:geomhash":"b0ee7540eb556da4b6912b4d0b9e14df",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1293744035,
-    "wof:lastmodified":1537628785,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613176720,
     "wof:name":"Dukuh Kidul",
     "wof:parent_id":102073515,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.31638999999998,
+    108.31639,
     -6.7575,
-    108.31638999999998,
+    108.31639,
     -6.7575
 ],
-  "geometry": {"coordinates":[108.31638999999998,-6.7575],"type":"Point"}
+  "geometry": {"coordinates":[108.31639,-6.7575],"type":"Point"}
 }

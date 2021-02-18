@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102073157
+        102073157,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6829263
     },
     "wof:country":"ID",
-    "wof:geomhash":"6a6c19e519d9d30c0d07bdf40e54bf69",
+    "wof:geomhash":"9251e11ade21cfb887eb0bbf5ab96619",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1210011545,
-    "wof:lastmodified":1537632078,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179674,
     "wof:name":"Kemiri",
     "wof:parent_id":102073157,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    113.49741000000002,
+    113.49741,
     -7.79881,
-    113.49741000000002,
+    113.49741,
     -7.79881
 ],
-  "geometry": {"coordinates":[113.49741000000002,-7.79881],"type":"Point"}
+  "geometry": {"coordinates":[113.49741,-7.79881],"type":"Point"}
 }

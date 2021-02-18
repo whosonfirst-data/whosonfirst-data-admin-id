@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102073063
+        102073063,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6771531
     },
     "wof:country":"ID",
-    "wof:geomhash":"8823fe54943d3cd2d6da705ae1149342",
+    "wof:geomhash":"c43aae25b68420e761781529ff269b27",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1209901171,
-    "wof:lastmodified":1537631589,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178565,
     "wof:name":"Sumurbulu",
     "wof:parent_id":102073063,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    112.87718999999998,
+    112.87719,
     -7.00143,
-    112.87718999999998,
+    112.87719,
     -7.00143
 ],
-  "geometry": {"coordinates":[112.87718999999998,-7.00143],"type":"Point"}
+  "geometry": {"coordinates":[112.87719,-7.00143],"type":"Point"}
 }

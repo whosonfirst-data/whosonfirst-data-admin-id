@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072857
+        102072857,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6260619
     },
     "wof:country":"ID",
-    "wof:geomhash":"62fecb8644fbe86912486ba6fd320e54",
+    "wof:geomhash":"8b5b5eae21619a626966c02b90dfc51b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1343355391,
-    "wof:lastmodified":1536897780,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613174721,
     "wof:name":"Kemaran",
     "wof:parent_id":102072857,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.19138999999998,
+    110.19139,
     -7.54417,
-    110.19138999999998,
+    110.19139,
     -7.54417
 ],
-  "geometry": {"coordinates":[110.19138999999998,-7.54417],"type":"Point"}
+  "geometry": {"coordinates":[110.19139,-7.54417],"type":"Point"}
 }

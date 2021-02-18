@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073265
+        102073265,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6259674
     },
     "wof:country":"ID",
-    "wof:geomhash":"64ad48a1347f3f5e597a9f8621d3cc0d",
+    "wof:geomhash":"820eb1a93210bbb63e18ad2832655977",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1292996863,
-    "wof:lastmodified":1536996589,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613176497,
     "wof:name":"Tlatar",
     "wof:parent_id":102073265,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.37888999999998,
+    110.37889,
     -7.60778,
-    110.37888999999998,
+    110.37889,
     -7.60778
 ],
-  "geometry": {"coordinates":[110.37888999999998,-7.60778],"type":"Point"}
+  "geometry": {"coordinates":[110.37889,-7.60778],"type":"Point"}
 }

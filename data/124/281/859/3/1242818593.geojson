@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672115,
-        102073081
+        102073081,
+        85672115
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8433714
     },
     "wof:country":"ID",
-    "wof:geomhash":"44317741f12c3b6c3affcfdb5e3b88ae",
+    "wof:geomhash":"2b42c5bc3eee08565ae39481aa1b8c1f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1242818593,
-    "wof:lastmodified":1536716912,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183132,
     "wof:name":"Simboro",
     "wof:parent_id":102073081,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    140.49063999999998,
+    140.49064,
     -2.63606,
-    140.49063999999998,
+    140.49064,
     -2.63606
 ],
-  "geometry": {"coordinates":[140.49063999999998,-2.63606],"type":"Point"}
+  "geometry": {"coordinates":[140.49064000000001,-2.63606],"type":"Point"}
 }

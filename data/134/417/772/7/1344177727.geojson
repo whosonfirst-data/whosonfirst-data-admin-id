@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072929
+        102072929,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6570642
     },
     "wof:country":"ID",
-    "wof:geomhash":"a007510ad709eb8c270682ddfeba5d43",
+    "wof:geomhash":"b018a964decc47ec0c5de854cc265a87",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1344177727,
-    "wof:lastmodified":1537629400,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613174900,
     "wof:name":"Krikilan",
     "wof:parent_id":102072929,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.05138999999998,
+    111.05139,
     -7.50444,
-    111.05138999999998,
+    111.05139,
     -7.50444
 ],
-  "geometry": {"coordinates":[111.05138999999998,-7.50444],"type":"Point"}
+  "geometry": {"coordinates":[111.05139,-7.50444],"type":"Point"}
 }

@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072949
+        102072949,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1965871
     },
     "wof:country":"ID",
-    "wof:geomhash":"20c88ba44f69ba813291f0d6c9bff396",
+    "wof:geomhash":"2a59efe69ae19f8b9c950e73c34fb9cf",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1293743773,
-    "wof:lastmodified":1536915343,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613176711,
     "wof:name":"Pasirwangi",
     "wof:parent_id":102072949,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.61556000000002,
+    107.61556,
     -7.0475,
-    107.61556000000002,
+    107.61556,
     -7.0475
 ],
-  "geometry": {"coordinates":[107.61556000000002,-7.0475],"type":"Point"}
+  "geometry": {"coordinates":[107.61556,-7.0475],"type":"Point"}
 }

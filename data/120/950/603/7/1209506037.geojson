@@ -34,7 +34,7 @@
         "gn:id":1963878
     },
     "wof:country":"ID",
-    "wof:geomhash":"4daa909f3be2313a4d5bf009ed45b812",
+    "wof:geomhash":"dbc92b4b4f76d9934e17fcf2de3696ea",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209506037,
-    "wof:lastmodified":1536285032,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178910,
     "wof:name":"Kalisar",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     110.35361,
-    -7.393610000000002,
+    -7.39361,
     110.35361,
-    -7.393610000000002
+    -7.39361
 ],
   "geometry": {"coordinates":[110.35361,-7.39361],"type":"Point"}
 }

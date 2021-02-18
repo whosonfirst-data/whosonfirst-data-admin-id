@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672111,
-        102073015
+        102073015,
+        85672111
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1979866
     },
     "wof:country":"ID",
-    "wof:geomhash":"91555ad3a8c891576b67c640171be663",
+    "wof:geomhash":"3f1e25ef5303d9a3c8ebd49b3b6bfe67",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1259747443,
-    "wof:lastmodified":1536974670,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185047,
     "wof:name":"Oma",
     "wof:parent_id":102073015,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    123.05861000000002,
+    123.05861,
     -0.58611,
-    123.05861000000002,
+    123.05861,
     -0.58611
 ],
-  "geometry": {"coordinates":[123.05861000000002,-0.58611],"type":"Point"}
+  "geometry": {"coordinates":[123.05861,-0.58611],"type":"Point"}
 }

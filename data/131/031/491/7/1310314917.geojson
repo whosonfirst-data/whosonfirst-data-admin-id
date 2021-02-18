@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672067,
-        1108796867
+        1108796867,
+        85672067
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1628609
     },
     "wof:country":"ID",
-    "wof:geomhash":"f7d35da60bde121acbc272cdadb841f9",
+    "wof:geomhash":"1eafe5d2a483ca5713d02450ea0f10d6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,7 +54,14 @@
         }
     ],
     "wof:id":1310314917,
-    "wof:lastmodified":1537626629,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181039,
     "wof:name":"Sarebe",
     "wof:parent_id":1108796867,
     "wof:placetype":"locality",
@@ -64,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    133.83333000000002,
+    133.83333,
     -2.55,
-    133.83333000000002,
+    133.83333,
     -2.55
 ],
-  "geometry": {"coordinates":[133.83333000000002,-2.55],"type":"Point"}
+  "geometry": {"coordinates":[133.83332999999999,-2.55],"type":"Point"}
 }

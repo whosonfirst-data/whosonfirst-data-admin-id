@@ -45,15 +45,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072949
+        102072949,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1962878
     },
     "wof:country":"ID",
-    "wof:geomhash":"7ad699c4fc91ec5ad38757ad335f3a08",
+    "wof:geomhash":"9b2e18648799b4321eee006abaca8a63",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -64,7 +64,14 @@
         }
     ],
     "wof:id":1276817945,
-    "wof:lastmodified":1564180385,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177098,
     "wof:name":"Cibodas",
     "wof:parent_id":102072949,
     "wof:placetype":"locality",
@@ -74,10 +81,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.53806000000002,
+    107.53806,
     -6.91278,
-    107.53806000000002,
+    107.53806,
     -6.91278
 ],
-  "geometry": {"coordinates":[107.53806000000002,-6.91278],"type":"Point"}
+  "geometry": {"coordinates":[107.53806,-6.91278],"type":"Point"}
 }

@@ -37,7 +37,7 @@
         "gn:id":8391504
     },
     "wof:country":"ID",
-    "wof:geomhash":"bea5b630c7aa682691a67687e5cacb62",
+    "wof:geomhash":"d12c73f41e974c35a5c247ce4d3732be",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -45,7 +45,14 @@
         }
     ],
     "wof:id":1209481037,
-    "wof:lastmodified":1537635884,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178600,
     "wof:name":"Bisanu",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -55,10 +62,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    123.72426000000002,
+    123.72426,
     -10.30467,
-    123.72426000000002,
+    123.72426,
     -10.30467
 ],
-  "geometry": {"coordinates":[123.72426000000002,-10.30467],"type":"Point"}
+  "geometry": {"coordinates":[123.72426,-10.30467],"type":"Point"}
 }

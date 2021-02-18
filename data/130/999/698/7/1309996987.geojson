@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073405
+        102073405,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1934316
     },
     "wof:country":"ID",
-    "wof:geomhash":"bfc322fc0627a77c2efe3ebfb6fac98d",
+    "wof:geomhash":"42de8601e1521456a01faa64f0693603",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1309996987,
-    "wof:lastmodified":1536655655,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613182207,
     "wof:name":"Darmosari",
     "wof:parent_id":102073405,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.85056000000002,
+    110.85056,
     -7.68222,
-    110.85056000000002,
+    110.85056,
     -7.68222
 ],
-  "geometry": {"coordinates":[110.85056000000002,-7.68222],"type":"Point"}
+  "geometry": {"coordinates":[110.85056,-7.68222],"type":"Point"}
 }

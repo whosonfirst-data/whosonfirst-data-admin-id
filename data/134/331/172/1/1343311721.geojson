@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073083
+        102073083,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1987412
     },
     "wof:country":"ID",
-    "wof:geomhash":"217f0af65d8767f678aab79506b14fb6",
+    "wof:geomhash":"2ae90cebb8e1580c211ddd039930e468",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1343311721,
-    "wof:lastmodified":1536960988,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613173825,
     "wof:name":"Perumahan Kehakuman",
     "wof:parent_id":102073083,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.88443999999998,
+    106.88444,
     -6.38944,
-    106.88443999999998,
+    106.88444,
     -6.38944
 ],
-  "geometry": {"coordinates":[106.88443999999998,-6.38944],"type":"Point"}
+  "geometry": {"coordinates":[106.88444,-6.38944],"type":"Point"}
 }

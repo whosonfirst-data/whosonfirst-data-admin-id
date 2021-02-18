@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672115,
-        102073035
+        102073035,
+        85672115
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8531643
     },
     "wof:country":"ID",
-    "wof:geomhash":"8c8016a6d0b95bfe844286ae257141f6",
+    "wof:geomhash":"6ea24933f68951ddabb9ae12065dbc8c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1327187199,
-    "wof:lastmodified":1537033535,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613173630,
     "wof:name":"Boropere",
     "wof:parent_id":102073035,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    137.03356000000002,
+    137.03356,
     -2.22958,
-    137.03356000000002,
+    137.03356,
     -2.22958
 ],
-  "geometry": {"coordinates":[137.03356000000002,-2.22958],"type":"Point"}
+  "geometry": {"coordinates":[137.03355999999999,-2.22958],"type":"Point"}
 }

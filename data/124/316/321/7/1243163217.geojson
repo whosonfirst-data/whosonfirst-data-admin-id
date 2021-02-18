@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072929
+        102072929,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6409798
     },
     "wof:country":"ID",
-    "wof:geomhash":"4934750bc05e3bb89172045bb486521b",
+    "wof:geomhash":"cd4fdf38315967700d6e794fd3065cee",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1243163217,
-    "wof:lastmodified":1537629055,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613184132,
     "wof:name":"Purwokarto",
     "wof:parent_id":102072929,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.04361000000002,
+    111.04361,
     -7.4575,
-    111.04361000000002,
+    111.04361,
     -7.4575
 ],
-  "geometry": {"coordinates":[111.04361000000002,-7.4575],"type":"Point"}
+  "geometry": {"coordinates":[111.04361,-7.4575],"type":"Point"}
 }

@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073551
+        102073551,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6599352
     },
     "wof:country":"ID",
-    "wof:geomhash":"afa2ab54fd5d35f3d6bdf8c5e717dc87",
+    "wof:geomhash":"5d570400df2b92945863b5a799b2b771",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1260333989,
-    "wof:lastmodified":1537629959,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613180637,
     "wof:name":"Serangpasar",
     "wof:parent_id":102073551,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.00388999999998,
+    107.00389,
     -6.375,
-    107.00388999999998,
+    107.00389,
     -6.375
 ],
-  "geometry": {"coordinates":[107.00388999999998,-6.375],"type":"Point"}
+  "geometry": {"coordinates":[107.00389,-6.375],"type":"Point"}
 }

@@ -34,15 +34,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671995,
-        102072687
+        102072687,
+        85671995
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1959199
     },
     "wof:country":"ID",
-    "wof:geomhash":"aaeb081b26e338247fad7c405502b390",
+    "wof:geomhash":"59aecb012f0b01b18e3bbc8bda54d92b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +53,14 @@
         }
     ],
     "wof:id":1293150613,
-    "wof:lastmodified":1537627491,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175890,
     "wof:name":"Plonco",
     "wof:parent_id":102072687,
     "wof:placetype":"locality",
@@ -63,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.60056000000002,
+    106.60056,
     -6.08306,
-    106.60056000000002,
+    106.60056,
     -6.08306
 ],
-  "geometry": {"coordinates":[106.60056000000002,-6.08306],"type":"Point"}
+  "geometry": {"coordinates":[106.60056,-6.08306],"type":"Point"}
 }

@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073551
+        102073551,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6593723
     },
     "wof:country":"ID",
-    "wof:geomhash":"7bd4d64ee9cdb7efa99b452226b61159",
+    "wof:geomhash":"07459c21327003dd080fe9875c62883f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1293252629,
-    "wof:lastmodified":1537629775,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613176086,
     "wof:name":"Jitarikmenye",
     "wof:parent_id":102073551,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.19693999999998,
+    107.19694,
     -6.26667,
-    107.19693999999998,
+    107.19694,
     -6.26667
 ],
-  "geometry": {"coordinates":[107.19693999999998,-6.26667],"type":"Point"}
+  "geometry": {"coordinates":[107.19694,-6.26667],"type":"Point"}
 }

@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073313
+        102073313,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2003768
     },
     "wof:country":"ID",
-    "wof:geomhash":"646f6641b211a72c697aa788d98ee6af",
+    "wof:geomhash":"9aca6e9d3fb8f4379b451c688dea8bd8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1293677797,
-    "wof:lastmodified":1537009270,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613176287,
     "wof:name":"Maladan",
     "wof:parent_id":102073313,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.47693999999998,
+    110.47694,
     -7.89194,
-    110.47693999999998,
+    110.47694,
     -7.89194
 ],
-  "geometry": {"coordinates":[110.47693999999998,-7.89194],"type":"Point"}
+  "geometry": {"coordinates":[110.47694,-7.89194],"type":"Point"}
 }

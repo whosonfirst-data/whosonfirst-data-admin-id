@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073295
+        102073295,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6568417
     },
     "wof:country":"ID",
-    "wof:geomhash":"308c5bc714047a11503088c9901b123a",
+    "wof:geomhash":"fa47c904e603c9a6e4b5df0986a9f677",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1309672247,
-    "wof:lastmodified":1537629350,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613182435,
     "wof:name":"Banceuy",
     "wof:parent_id":102073295,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.82361000000002,
+    107.82361,
     -6.42278,
-    107.82361000000002,
+    107.82361,
     -6.42278
 ],
-  "geometry": {"coordinates":[107.82361000000002,-6.42278],"type":"Point"}
+  "geometry": {"coordinates":[107.82361,-6.42278],"type":"Point"}
 }

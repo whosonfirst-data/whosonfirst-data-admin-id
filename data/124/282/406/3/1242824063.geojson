@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072937
+        102072937,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6599844
     },
     "wof:country":"ID",
-    "wof:geomhash":"e4b8818b58f4c24de0c28c260f149e12",
+    "wof:geomhash":"0b173e02745416b51eda869f3eccdd14",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1242824063,
-    "wof:lastmodified":1537629976,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183874,
     "wof:name":"Babakanantay",
     "wof:parent_id":102072937,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.51888999999998,
+    107.51889,
     -6.36444,
-    107.51888999999998,
+    107.51889,
     -6.36444
 ],
-  "geometry": {"coordinates":[107.51888999999998,-6.36444],"type":"Point"}
+  "geometry": {"coordinates":[107.51889,-6.36444],"type":"Point"}
 }

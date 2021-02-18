@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073233
+        102073233,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2009837
     },
     "wof:country":"ID",
-    "wof:geomhash":"292b22c12a123317ff4968612235dc7d",
+    "wof:geomhash":"dec8d9cdbd472facf5608ac681d99a77",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1276432089,
-    "wof:lastmodified":1536645853,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177137,
     "wof:name":"Kirwon",
     "wof:parent_id":102073233,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.60611000000002,
+    110.60611,
     -7.57861,
-    110.60611000000002,
+    110.60611,
     -7.57861
 ],
-  "geometry": {"coordinates":[110.60611000000002,-7.57861],"type":"Point"}
+  "geometry": {"coordinates":[110.60611,-7.57861],"type":"Point"}
 }

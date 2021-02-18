@@ -41,15 +41,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073187
+        102073187,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6566951
     },
     "wof:country":"ID",
-    "wof:geomhash":"580e474faf057d8cb5f3185778736c9e",
+    "wof:geomhash":"31f8d878f3f2c1b8fa8017eb96265fd5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -60,7 +60,14 @@
         }
     ],
     "wof:id":1292997111,
-    "wof:lastmodified":1564178878,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613176523,
     "wof:name":"Banjaran",
     "wof:parent_id":102073187,
     "wof:placetype":"locality",
@@ -70,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.89388999999998,
+    109.89389,
     -7.5625,
-    109.89388999999998,
+    109.89389,
     -7.5625
 ],
-  "geometry": {"coordinates":[109.89388999999998,-7.5625],"type":"Point"}
+  "geometry": {"coordinates":[109.89389,-7.5625],"type":"Point"}
 }

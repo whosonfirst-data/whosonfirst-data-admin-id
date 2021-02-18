@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073469
+        102073469,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2009767
     },
     "wof:country":"ID",
-    "wof:geomhash":"0d065e48476e1d914088a52cf512e6b5",
+    "wof:geomhash":"26fae85484cab3d29e8518b90a2981f5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1276419185,
-    "wof:lastmodified":1536663687,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177944,
     "wof:name":"Pelemsewu",
     "wof:parent_id":102073469,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.12111000000002,
+    110.12111,
     -7.925,
-    110.12111000000002,
+    110.12111,
     -7.925
 ],
-  "geometry": {"coordinates":[110.12111000000002,-7.925],"type":"Point"}
+  "geometry": {"coordinates":[110.12111,-7.925],"type":"Point"}
 }

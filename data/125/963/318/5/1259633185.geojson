@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072855
+        102072855,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6603267
     },
     "wof:country":"ID",
-    "wof:geomhash":"62b0cc661b88114581e78ae5b4f1b38e",
+    "wof:geomhash":"63a4e358182a34a79f2f923bcc534984",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1259633185,
-    "wof:lastmodified":1537629996,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613184417,
     "wof:name":"Ciboja",
     "wof:parent_id":102072855,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.52443999999998,
+    106.52444,
     -6.89917,
-    106.52443999999998,
+    106.52444,
     -6.89917
 ],
-  "geometry": {"coordinates":[106.52443999999998,-6.89917],"type":"Point"}
+  "geometry": {"coordinates":[106.52444,-6.89917],"type":"Point"}
 }

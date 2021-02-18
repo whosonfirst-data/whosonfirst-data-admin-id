@@ -34,7 +34,7 @@
         "gn:id":6259543
     },
     "wof:country":"ID",
-    "wof:geomhash":"cf75a955e57a778cd386256227c1c597",
+    "wof:geomhash":"41022e98f524e92fea1c3e040ce52122",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209335075,
-    "wof:lastmodified":1536290250,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179231,
     "wof:name":"Dadapan",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     110.38028,
-    -7.531389999999999,
+    -7.53139,
     110.38028,
-    -7.531389999999999
+    -7.53139
 ],
   "geometry": {"coordinates":[110.38028,-7.53139],"type":"Point"}
 }

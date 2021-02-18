@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073515
+        102073515,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6401377
     },
     "wof:country":"ID",
-    "wof:geomhash":"8019bf5ca6b1285e306af4f02337a51e",
+    "wof:geomhash":"216b9acbe8e82f7e00155de44e52e7a7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1226605009,
-    "wof:lastmodified":1537628840,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185671,
     "wof:name":"Mertasela",
     "wof:parent_id":102073515,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.37888999999998,
+    108.37889,
     -6.80722,
-    108.37888999999998,
+    108.37889,
     -6.80722
 ],
-  "geometry": {"coordinates":[108.37888999999998,-6.80722],"type":"Point"}
+  "geometry": {"coordinates":[108.37889,-6.80722],"type":"Point"}
 }

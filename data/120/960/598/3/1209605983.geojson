@@ -34,7 +34,7 @@
         "gn:id":6256596
     },
     "wof:country":"ID",
-    "wof:geomhash":"5e181d21902f3d1dcad2a9eb74d74943",
+    "wof:geomhash":"2f856005b1885a957ef077f35be91487",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209605983,
-    "wof:lastmodified":1536282010,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179117,
     "wof:name":"Ngantup",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     110.96444,
-    -7.821110000000001,
+    -7.82111,
     110.96444,
-    -7.821110000000001
+    -7.82111
 ],
   "geometry": {"coordinates":[110.96444,-7.82111],"type":"Point"}
 }

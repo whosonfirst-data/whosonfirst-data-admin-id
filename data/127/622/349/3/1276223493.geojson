@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073405
+        102073405,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2010789
     },
     "wof:country":"ID",
-    "wof:geomhash":"3562c902e1e671bcfb3db45a999340b9",
+    "wof:geomhash":"0c248200df5258557f15324a5c540fda",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1276223493,
-    "wof:lastmodified":1536926771,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177793,
     "wof:name":"Kalangan",
     "wof:parent_id":102073405,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.71193999999998,
+    110.71194,
     -7.53722,
-    110.71193999999998,
+    110.71194,
     -7.53722
 ],
-  "geometry": {"coordinates":[110.71193999999998,-7.53722],"type":"Point"}
+  "geometry": {"coordinates":[110.71194,-7.53722],"type":"Point"}
 }

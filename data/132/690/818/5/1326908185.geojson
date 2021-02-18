@@ -44,15 +44,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672005,
-        102072839
+        102072839,
+        85672005
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":9947365
     },
     "wof:country":"ID",
-    "wof:geomhash":"f949cc7695484fd4bd7c2104e177d7b5",
+    "wof:geomhash":"7b801e875689155bc295511f9b3e2a05",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -63,7 +63,14 @@
         }
     ],
     "wof:id":1326908185,
-    "wof:lastmodified":1564170329,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613173266,
     "wof:name":"Tapah",
     "wof:parent_id":102072839,
     "wof:placetype":"locality",
@@ -73,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.24056000000002,
+    110.24056,
     -2.53667,
-    110.24056000000002,
+    110.24056,
     -2.53667
 ],
-  "geometry": {"coordinates":[110.24056000000002,-2.53667],"type":"Point"}
+  "geometry": {"coordinates":[110.24056,-2.53667],"type":"Point"}
 }

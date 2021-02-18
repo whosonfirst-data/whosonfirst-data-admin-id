@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073417
+        102073417,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6561778
     },
     "wof:country":"ID",
-    "wof:geomhash":"8ce986cbfde283f84ad7db68c38436a5",
+    "wof:geomhash":"c880df635db67990e0eef2954394ff40",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1260203919,
-    "wof:lastmodified":1537629166,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613180427,
     "wof:name":"Lengkong",
     "wof:parent_id":102073417,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.16306000000002,
+    109.16306,
     -7.14,
-    109.16306000000002,
+    109.16306,
     -7.14
 ],
-  "geometry": {"coordinates":[109.16306000000002,-7.14],"type":"Point"}
+  "geometry": {"coordinates":[109.16306,-7.14],"type":"Point"}
 }

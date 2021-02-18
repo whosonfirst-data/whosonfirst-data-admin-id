@@ -37,7 +37,7 @@
         "gn:id":6373511
     },
     "wof:country":"ID",
-    "wof:geomhash":"669fc587ac8670157d34f622412345d5",
+    "wof:geomhash":"ee9511d35e95a166742a64f9c5deed8a",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -45,7 +45,14 @@
         }
     ],
     "wof:id":1209506199,
-    "wof:lastmodified":1537628400,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178905,
     "wof:name":"Pejaten",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -55,10 +62,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.16306000000002,
+    109.16306,
     -7.63222,
-    109.16306000000002,
+    109.16306,
     -7.63222
 ],
-  "geometry": {"coordinates":[109.16306000000002,-7.63222],"type":"Point"}
+  "geometry": {"coordinates":[109.16306,-7.63222],"type":"Point"}
 }

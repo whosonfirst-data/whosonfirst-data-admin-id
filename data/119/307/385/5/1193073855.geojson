@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        1108796793
+        1108796793,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1965059
     },
     "wof:country":"ID",
-    "wof:geomhash":"b47b031160834fa1cb64625c52917134",
+    "wof:geomhash":"4b056aaa9b25a3b3f2af99d0ab02bc44",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1193073855,
-    "wof:lastmodified":1537627792,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179713,
     "wof:name":"Parakankopo",
     "wof:parent_id":1108796793,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.39943999999998,
+    107.39944,
     -6.81083,
-    107.39943999999998,
+    107.39944,
     -6.81083
 ],
-  "geometry": {"coordinates":[107.39943999999998,-6.81083],"type":"Point"}
+  "geometry": {"coordinates":[107.39944,-6.81083],"type":"Point"}
 }

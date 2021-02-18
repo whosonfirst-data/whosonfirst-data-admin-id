@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072819
+        102072819,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7688462
     },
     "wof:country":"ID",
-    "wof:geomhash":"162d83b4e26ec3a5a4cd7c95eaec3325",
+    "wof:geomhash":"67453cb66e9860e5927dc9ca4fd709f1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1226743903,
-    "wof:lastmodified":1537634252,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185429,
     "wof:name":"Kalenaren",
     "wof:parent_id":102072819,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.78513999999998,
+    108.78514,
     -7.58,
-    108.78513999999998,
+    108.78514,
     -7.58
 ],
-  "geometry": {"coordinates":[108.78513999999998,-7.58],"type":"Point"}
+  "geometry": {"coordinates":[108.78514,-7.58],"type":"Point"}
 }

@@ -34,7 +34,7 @@
         "gn:id":1988221
     },
     "wof:country":"ID",
-    "wof:geomhash":"abe77bdec1c3d55e364a973540397192",
+    "wof:geomhash":"051f38a15c577d2958fec10a791d21ef",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209564901,
-    "wof:lastmodified":1536283275,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179140,
     "wof:name":"Tajur",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     106.51861,
-    -6.285830000000002,
+    -6.28583,
     106.51861,
-    -6.285830000000002
+    -6.28583
 ],
   "geometry": {"coordinates":[106.51861,-6.28583],"type":"Point"}
 }

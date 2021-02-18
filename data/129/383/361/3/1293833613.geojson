@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073529
+        102073529,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6579147
     },
     "wof:country":"ID",
-    "wof:geomhash":"bd1913012c7b72449218f975f2c2cc99",
+    "wof:geomhash":"41260fc26aece6b9951b697850f7fdd6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1293833613,
-    "wof:lastmodified":1537629414,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175737,
     "wof:name":"Tiparnyelap",
     "wof:parent_id":102073529,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.18361000000002,
+    107.18361,
     -6.80361,
-    107.18361000000002,
+    107.18361,
     -6.80361
 ],
-  "geometry": {"coordinates":[107.18361000000002,-6.80361],"type":"Point"}
+  "geometry": {"coordinates":[107.18361,-6.80361],"type":"Point"}
 }

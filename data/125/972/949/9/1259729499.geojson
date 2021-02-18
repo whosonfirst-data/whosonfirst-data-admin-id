@@ -101,15 +101,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671995,
-        102072687
+        102072687,
+        85671995
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6605695
     },
     "wof:country":"ID",
-    "wof:geomhash":"1c91977db0c00f1410619947feaec5de",
+    "wof:geomhash":"82a4b48ab4d11806a2cd1536d46f5419",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -120,7 +120,14 @@
         }
     ],
     "wof:id":1259729499,
-    "wof:lastmodified":1564204364,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185157,
     "wof:name":"Kendal",
     "wof:parent_id":102072687,
     "wof:placetype":"locality",
@@ -130,10 +137,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.47693999999998,
+    106.47694,
     -6.27722,
-    106.47693999999998,
+    106.47694,
     -6.27722
 ],
-  "geometry": {"coordinates":[106.47693999999998,-6.27722],"type":"Point"}
+  "geometry": {"coordinates":[106.47694,-6.27722],"type":"Point"}
 }

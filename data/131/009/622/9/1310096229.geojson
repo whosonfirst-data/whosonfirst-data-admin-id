@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072857
+        102072857,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6257250
     },
     "wof:country":"ID",
-    "wof:geomhash":"c46593dbeeb9e32b9bd525406fd0ea7b",
+    "wof:geomhash":"a8951614bacc6e899c7aae3412771890",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1310096229,
-    "wof:lastmodified":1537009193,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181004,
     "wof:name":"Klabaran",
     "wof:parent_id":102072857,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.39388999999998,
+    110.39389,
     -7.40583,
-    110.39388999999998,
+    110.39389,
     -7.40583
 ],
-  "geometry": {"coordinates":[110.39388999999998,-7.40583],"type":"Point"}
+  "geometry": {"coordinates":[110.39389,-7.40583],"type":"Point"}
 }

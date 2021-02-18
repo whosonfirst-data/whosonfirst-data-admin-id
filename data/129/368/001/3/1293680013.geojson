@@ -41,15 +41,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072921
+        102072921,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6379159
     },
     "wof:country":"ID",
-    "wof:geomhash":"02cdd21d0c6a329b978c51a4eb7fcb76",
+    "wof:geomhash":"066d6e47e513e144d67fe66f918eb562",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -60,7 +60,14 @@
         }
     ],
     "wof:id":1293680013,
-    "wof:lastmodified":1564177926,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613176144,
     "wof:name":"Beji",
     "wof:parent_id":102072921,
     "wof:placetype":"locality",
@@ -70,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.42806000000002,
+    109.42806,
     -7.37472,
-    109.42806000000002,
+    109.42806,
     -7.37472
 ],
-  "geometry": {"coordinates":[109.42806000000002,-7.37472],"type":"Point"}
+  "geometry": {"coordinates":[109.42806,-7.37472],"type":"Point"}
 }

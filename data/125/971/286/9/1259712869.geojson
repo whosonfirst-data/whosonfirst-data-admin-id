@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672067,
-        1108796861
+        1108796861,
+        85672067
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8552163
     },
     "wof:country":"ID",
-    "wof:geomhash":"db49f73b78d26502df781a12d86bc658",
+    "wof:geomhash":"6cf62ceb1ddf67e554a55c4567c721ef",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1259712869,
-    "wof:lastmodified":1537636395,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613184668,
     "wof:name":"Situbur",
     "wof:parent_id":1108796861,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    132.46063999999998,
+    132.46064,
     -1.56034,
-    132.46063999999998,
+    132.46064,
     -1.56034
 ],
-  "geometry": {"coordinates":[132.46063999999998,-1.56034],"type":"Point"}
+  "geometry": {"coordinates":[132.46064000000001,-1.56034],"type":"Point"}
 }

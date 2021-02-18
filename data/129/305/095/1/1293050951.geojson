@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072949
+        102072949,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1985330
     },
     "wof:country":"ID",
-    "wof:geomhash":"c45d2450a85ca4b3e9c950c906a3c2e9",
+    "wof:geomhash":"773dfc0d6683656bf3150eb201e34084",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1293050951,
-    "wof:lastmodified":1536920274,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613176411,
     "wof:name":"Cilangla",
     "wof:parent_id":102072949,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.56638999999998,
+    107.56639,
     -7.12444,
-    107.56638999999998,
+    107.56639,
     -7.12444
 ],
-  "geometry": {"coordinates":[107.56638999999998,-7.12444],"type":"Point"}
+  "geometry": {"coordinates":[107.56639,-7.12444],"type":"Point"}
 }

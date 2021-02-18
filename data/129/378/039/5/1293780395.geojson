@@ -152,15 +152,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072857
+        102072857,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1964631
     },
     "wof:country":"ID",
-    "wof:geomhash":"62b79c39445479d7c6c104de8de557b4",
+    "wof:geomhash":"eb7683c30af4824d839c36772d232af8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -171,7 +171,14 @@
         }
     ],
     "wof:id":1293780395,
-    "wof:lastmodified":1564177600,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175982,
     "wof:name":"Malang",
     "wof:parent_id":102072857,
     "wof:placetype":"locality",
@@ -181,10 +188,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.41443999999998,
+    110.41444,
     -7.48361,
-    110.41443999999998,
+    110.41444,
     -7.48361
 ],
-  "geometry": {"coordinates":[110.41443999999998,-7.48361],"type":"Point"}
+  "geometry": {"coordinates":[110.41444,-7.48361],"type":"Point"}
 }

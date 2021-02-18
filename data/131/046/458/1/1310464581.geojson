@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672037,
-        102073331
+        102073331,
+        85672037
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8391549
     },
     "wof:country":"ID",
-    "wof:geomhash":"051d6fc9db6fc528055d8feb70e6d7a4",
+    "wof:geomhash":"1ab1bcba799b44de6f91f2754518e6d2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1310464581,
-    "wof:lastmodified":1537635884,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613180769,
     "wof:name":"Tot'oe",
     "wof:parent_id":102073331,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    123.70416000000002,
+    123.70416,
     -10.32255,
-    123.70416000000002,
+    123.70416,
     -10.32255
 ],
-  "geometry": {"coordinates":[123.70416000000002,-10.32255],"type":"Point"}
+  "geometry": {"coordinates":[123.70416,-10.32255],"type":"Point"}
 }

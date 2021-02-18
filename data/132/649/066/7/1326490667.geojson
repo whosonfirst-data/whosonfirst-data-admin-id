@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073295
+        102073295,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6567877
     },
     "wof:country":"ID",
-    "wof:geomhash":"d508af7bb5d1a3b5023a3b7c0fca5e6f",
+    "wof:geomhash":"54ba12fa598ab9584cf1569a4d815648",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1326490667,
-    "wof:lastmodified":1537629333,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613173027,
     "wof:name":"Babakancileuweung",
     "wof:parent_id":102073295,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.78943999999998,
+    107.78944,
     -6.55333,
-    107.78943999999998,
+    107.78944,
     -6.55333
 ],
-  "geometry": {"coordinates":[107.78943999999998,-6.55333],"type":"Point"}
+  "geometry": {"coordinates":[107.78944,-6.55333],"type":"Point"}
 }

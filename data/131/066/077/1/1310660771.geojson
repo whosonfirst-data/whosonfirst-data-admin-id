@@ -34,15 +34,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671995,
-        102073479
+        102073479,
+        85671995
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1646624
     },
     "wof:country":"ID",
-    "wof:geomhash":"5293348526cb634e05880657ac5984b9",
+    "wof:geomhash":"d0696b188c124a6f41164182b7f62076",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +53,14 @@
         }
     ],
     "wof:id":1310660771,
-    "wof:lastmodified":1537627206,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181502,
     "wof:name":"Cikeusal",
     "wof:parent_id":102073479,
     "wof:placetype":"locality",
@@ -63,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.25388999999998,
+    106.25389,
     -6.21861,
-    106.25388999999998,
+    106.25389,
     -6.21861
 ],
-  "geometry": {"coordinates":[106.25388999999998,-6.21861],"type":"Point"}
+  "geometry": {"coordinates":[106.25389,-6.21861],"type":"Point"}
 }

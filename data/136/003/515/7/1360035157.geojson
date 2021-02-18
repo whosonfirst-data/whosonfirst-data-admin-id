@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072981
+        102072981,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6596268
     },
     "wof:country":"ID",
-    "wof:geomhash":"3865bdb290754086f0baee48708383f4",
+    "wof:geomhash":"00de11020f8e60d5a3eb248c0ba570af",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1360035157,
-    "wof:lastmodified":1537629845,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613182083,
     "wof:name":"Cicadaskaler",
     "wof:parent_id":102072981,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.91861000000002,
+    106.91861,
     -6.96389,
-    106.91861000000002,
+    106.91861,
     -6.96389
 ],
-  "geometry": {"coordinates":[106.91861000000002,-6.96389],"type":"Point"}
+  "geometry": {"coordinates":[106.91861,-6.96389],"type":"Point"}
 }

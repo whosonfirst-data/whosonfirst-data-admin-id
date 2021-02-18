@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073153
+        102073153,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6381161
     },
     "wof:country":"ID",
-    "wof:geomhash":"bb03bdb8d4096151b3cb57543651b85d",
+    "wof:geomhash":"2510b0bf083dcc80d0787bf39d6d06f0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1259779781,
-    "wof:lastmodified":1537628537,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613184532,
     "wof:name":"Kesimpar",
     "wof:parent_id":102073153,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.71193999999998,
+    109.71194,
     -7.29861,
-    109.71193999999998,
+    109.71194,
     -7.29861
 ],
-  "geometry": {"coordinates":[109.71193999999998,-7.29861],"type":"Point"}
+  "geometry": {"coordinates":[109.71194,-7.29861],"type":"Point"}
 }

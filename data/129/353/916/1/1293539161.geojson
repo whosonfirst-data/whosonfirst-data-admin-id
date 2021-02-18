@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073569
+        102073569,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6401402
     },
     "wof:country":"ID",
-    "wof:geomhash":"89e8e628f118a8c1c0c9feca7927ace9",
+    "wof:geomhash":"66cdbae00990cc2ffa58215cefc39056",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1293539161,
-    "wof:lastmodified":1537628840,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175461,
     "wof:name":"Secatuhu",
     "wof:parent_id":102073569,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.44138999999998,
+    108.44139,
     -6.83472,
-    108.44138999999998,
+    108.44139,
     -6.83472
 ],
-  "geometry": {"coordinates":[108.44138999999998,-6.83472],"type":"Point"}
+  "geometry": {"coordinates":[108.44139,-6.83472],"type":"Point"}
 }

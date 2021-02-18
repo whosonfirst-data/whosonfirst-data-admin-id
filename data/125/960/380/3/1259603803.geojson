@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072929
+        102072929,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6263910
     },
     "wof:country":"ID",
-    "wof:geomhash":"38a5525c289dbedc5e54ed729e01621d",
+    "wof:geomhash":"926b946c36ceb2364c351dabdc3c54dc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1259603803,
-    "wof:lastmodified":1536685560,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613184913,
     "wof:name":"Bener",
     "wof:parent_id":102072929,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.98888999999998,
+    110.98889,
     -7.35028,
-    110.98888999999998,
+    110.98889,
     -7.35028
 ],
-  "geometry": {"coordinates":[110.98888999999998,-7.35028],"type":"Point"}
+  "geometry": {"coordinates":[110.98889,-7.35028],"type":"Point"}
 }

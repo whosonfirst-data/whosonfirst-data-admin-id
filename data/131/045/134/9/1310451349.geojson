@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073193
+        102073193,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6568094
     },
     "wof:country":"ID",
-    "wof:geomhash":"7ded18ebaf0619a38c154c5dc0c905e0",
+    "wof:geomhash":"bfb5c71005561609159602373405e001",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1310451349,
-    "wof:lastmodified":1537629340,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181231,
     "wof:name":"Bantarwaruwesel",
     "wof:parent_id":102073193,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.89943999999998,
+    107.89944,
     -6.55917,
-    107.89943999999998,
+    107.89944,
     -6.55917
 ],
-  "geometry": {"coordinates":[107.89943999999998,-6.55917],"type":"Point"}
+  "geometry": {"coordinates":[107.89944,-6.55917],"type":"Point"}
 }

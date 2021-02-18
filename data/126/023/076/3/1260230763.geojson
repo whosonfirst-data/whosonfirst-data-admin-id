@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073295
+        102073295,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6567955
     },
     "wof:country":"ID",
-    "wof:geomhash":"37bc4bf1cd3285f2b44f13d4947e6a3e",
+    "wof:geomhash":"4148bf0b0864844251a1d12eae30c6fa",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1260230763,
-    "wof:lastmodified":1537629336,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613180197,
     "wof:name":"Sariasih",
     "wof:parent_id":102073295,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.83693999999998,
+    107.83694,
     -6.59361,
-    107.83693999999998,
+    107.83694,
     -6.59361
 ],
-  "geometry": {"coordinates":[107.83693999999998,-6.59361],"type":"Point"}
+  "geometry": {"coordinates":[107.83694,-6.59361],"type":"Point"}
 }

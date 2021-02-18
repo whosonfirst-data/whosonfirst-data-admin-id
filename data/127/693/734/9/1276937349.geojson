@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073449
+        102073449,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1963461
     },
     "wof:country":"ID",
-    "wof:geomhash":"1ce131283bda0eb7caf1c5a921e4696f",
+    "wof:geomhash":"aa3a8053c81f65a08bacb95368b87627",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,7 +54,14 @@
         }
     ],
     "wof:id":1276937349,
-    "wof:lastmodified":1537627713,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177459,
     "wof:name":"Cipagalo",
     "wof:parent_id":102073449,
     "wof:placetype":"locality",
@@ -64,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.64943999999998,
+    107.64944,
     -6.94972,
-    107.64943999999998,
+    107.64944,
     -6.94972
 ],
-  "geometry": {"coordinates":[107.64943999999998,-6.94972],"type":"Point"}
+  "geometry": {"coordinates":[107.64944,-6.94972],"type":"Point"}
 }

@@ -70,7 +70,7 @@
         "gn:id":6408865
     },
     "wof:country":"ID",
-    "wof:geomhash":"512a280e683ae3e9d6718d30adc794d8",
+    "wof:geomhash":"18bc02ce756123166e3886478349107f",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -78,7 +78,14 @@
         }
     ],
     "wof:id":1209605543,
-    "wof:lastmodified":1564186195,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179118,
     "wof:name":"Sono",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -88,10 +95,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.35611000000002,
+    111.35611,
     -7.63639,
-    111.35611000000002,
+    111.35611,
     -7.63639
 ],
-  "geometry": {"coordinates":[111.35611000000002,-7.63639],"type":"Point"}
+  "geometry": {"coordinates":[111.35611,-7.63639],"type":"Point"}
 }

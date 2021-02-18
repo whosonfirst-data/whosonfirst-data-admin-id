@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073529
+        102073529,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1646628
     },
     "wof:country":"ID",
-    "wof:geomhash":"2a563803cb3329415cfd51fab8231e3b",
+    "wof:geomhash":"5397fd6ca2fd6d54978982b2965be57e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,7 +54,14 @@
         }
     ],
     "wof:id":1310462047,
-    "wof:lastmodified":1537627206,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613180759,
     "wof:name":"Cikendi",
     "wof:parent_id":102073529,
     "wof:placetype":"locality",
@@ -64,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.14943999999998,
+    107.14944,
     -6.68222,
-    107.14943999999998,
+    107.14944,
     -6.68222
 ],
-  "geometry": {"coordinates":[107.14943999999998,-6.68222],"type":"Point"}
+  "geometry": {"coordinates":[107.14944,-6.68222],"type":"Point"}
 }

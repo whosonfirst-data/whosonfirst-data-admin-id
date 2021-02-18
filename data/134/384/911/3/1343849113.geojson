@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072639
+        102072639,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6376946
     },
     "wof:country":"ID",
-    "wof:geomhash":"ff4e54d8f6145e93b2a540eb91a37db1",
+    "wof:geomhash":"e9c28065fd6f1ee9e87c63893597c10e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1343849113,
-    "wof:lastmodified":1537628481,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613174435,
     "wof:name":"Kuwangsan Lor",
     "wof:parent_id":102072639,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.70638999999998,
+    109.70639,
     -7.7375,
-    109.70638999999998,
+    109.70639,
     -7.7375
 ],
-  "geometry": {"coordinates":[109.70638999999998,-7.7375],"type":"Point"}
+  "geometry": {"coordinates":[109.70639,-7.7375],"type":"Point"}
 }

@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073295
+        102073295,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6581664
     },
     "wof:country":"ID",
-    "wof:geomhash":"94cbd1616ec9a14f8adeb52674508318",
+    "wof:geomhash":"d23c3f2ea200c40ed08174eb4a31f632",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1225805401,
-    "wof:lastmodified":1537629480,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185891,
     "wof:name":"Ciwarangga",
     "wof:parent_id":102073295,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.71193999999998,
+    107.71194,
     -6.71611,
-    107.71193999999998,
+    107.71194,
     -6.71611
 ],
-  "geometry": {"coordinates":[107.71193999999998,-6.71611],"type":"Point"}
+  "geometry": {"coordinates":[107.71194,-6.71611],"type":"Point"}
 }

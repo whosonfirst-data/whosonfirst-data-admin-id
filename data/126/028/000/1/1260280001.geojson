@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073405
+        102073405,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2011320
     },
     "wof:country":"ID",
-    "wof:geomhash":"e0d4fc77be565079252f6234f2dc827c",
+    "wof:geomhash":"eac55e8dac96717c4a02433ae0c3c98a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1260280001,
-    "wof:lastmodified":1536716974,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613180527,
     "wof:name":"Kerten",
     "wof:parent_id":102073405,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.74611000000002,
+    110.74611,
     -7.58306,
-    110.74611000000002,
+    110.74611,
     -7.58306
 ],
-  "geometry": {"coordinates":[110.74611000000002,-7.58306],"type":"Point"}
+  "geometry": {"coordinates":[110.74611,-7.58306],"type":"Point"}
 }

@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672009,
-        102072927
+        102072927,
+        85672009
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7666775
     },
     "wof:country":"ID",
-    "wof:geomhash":"7bfa288918e5160187cfaebccb5dd58e",
+    "wof:geomhash":"233a918b642af1649fe910ccfdf53537",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1193251277,
-    "wof:lastmodified":1537634223,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179953,
     "wof:name":"Gunungsugihbaru",
     "wof:parent_id":102072927,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    105.17853999999998,
+    105.17854,
     -5.12485,
-    105.17853999999998,
+    105.17854,
     -5.12485
 ],
-  "geometry": {"coordinates":[105.17853999999998,-5.12485],"type":"Point"}
+  "geometry": {"coordinates":[105.17854,-5.12485],"type":"Point"}
 }

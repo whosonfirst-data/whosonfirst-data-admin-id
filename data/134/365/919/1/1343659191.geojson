@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102073013
+        102073013,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6405584
     },
     "wof:country":"ID",
-    "wof:geomhash":"f7ccde3f293c7f61fc74012ddbbfc5bf",
+    "wof:geomhash":"ba71b92ea27163473cd0d8acac2044bf",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1343659191,
-    "wof:lastmodified":1537628932,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613173890,
     "wof:name":"Clumpring",
     "wof:parent_id":102073013,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.35193999999998,
+    111.35194,
     -8.04194,
-    111.35193999999998,
+    111.35194,
     -8.04194
 ],
-  "geometry": {"coordinates":[111.35193999999998,-8.04194],"type":"Point"}
+  "geometry": {"coordinates":[111.35194,-8.04194],"type":"Point"}
 }

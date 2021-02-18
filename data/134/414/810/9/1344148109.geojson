@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072857
+        102072857,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6199415
     },
     "wof:country":"ID",
-    "wof:geomhash":"8e06191fd2172e1f47acfc7b3894031d",
+    "wof:geomhash":"b3f61be0b991e59d8dd9753f92f0a551",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1344148109,
-    "wof:lastmodified":1536749013,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613174164,
     "wof:name":"Silandu",
     "wof:parent_id":102072857,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.18361000000002,
+    110.18361,
     -7.38389,
-    110.18361000000002,
+    110.18361,
     -7.38389
 ],
-  "geometry": {"coordinates":[110.18361000000002,-7.38389],"type":"Point"}
+  "geometry": {"coordinates":[110.18361,-7.38389],"type":"Point"}
 }

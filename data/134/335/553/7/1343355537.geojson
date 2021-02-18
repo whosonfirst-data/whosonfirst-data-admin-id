@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072709
+        102072709,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1972526
     },
     "wof:country":"ID",
-    "wof:geomhash":"e0e990383d87494ad9dce247f75899d1",
+    "wof:geomhash":"86958acec557b6a96f1736c17da61796",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1343355537,
-    "wof:lastmodified":1536897569,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613174725,
     "wof:name":"Nglembu",
     "wof:parent_id":102072709,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.61556000000002,
+    110.61556,
     -7.27444,
-    110.61556000000002,
+    110.61556,
     -7.27444
 ],
-  "geometry": {"coordinates":[110.61556000000002,-7.27444],"type":"Point"}
+  "geometry": {"coordinates":[110.61556,-7.27444],"type":"Point"}
 }

@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073193
+        102073193,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6404175
     },
     "wof:country":"ID",
-    "wof:geomhash":"f49836e2617ebd1753db72fa300bb120",
+    "wof:geomhash":"e7f9e3c2069d5ffda9847e04cc8681d0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1309751995,
-    "wof:lastmodified":1537628886,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613182555,
     "wof:name":"Cinde",
     "wof:parent_id":102073193,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.44693999999998,
+    108.44694,
     -6.46889,
-    108.44693999999998,
+    108.44694,
     -6.46889
 ],
-  "geometry": {"coordinates":[108.44693999999998,-6.46889],"type":"Point"}
+  "geometry": {"coordinates":[108.44694,-6.46889],"type":"Point"}
 }

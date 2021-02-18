@@ -46,15 +46,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672085,
-        102073503
+        102073503,
+        85672085
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1643828
     },
     "wof:country":"ID",
-    "wof:geomhash":"03294b94ca39cb2ffe4dc7d87cfcb5fa",
+    "wof:geomhash":"ee747daa4407a7f2a2834393eb278ff3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +65,14 @@
         }
     ],
     "wof:id":1310015641,
-    "wof:lastmodified":1564192530,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181159,
     "wof:name":"Gorua",
     "wof:parent_id":102073503,
     "wof:placetype":"locality",
@@ -75,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    127.98111000000002,
+    127.98111,
     1.76369,
-    127.98111000000002,
+    127.98111,
     1.76369
 ],
-  "geometry": {"coordinates":[127.98111000000002,1.76369],"type":"Point"}
+  "geometry": {"coordinates":[127.98111,1.76369],"type":"Point"}
 }

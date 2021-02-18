@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672115,
-        102073195
+        102073195,
+        85672115
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1644067
     },
     "wof:country":"ID",
-    "wof:geomhash":"2c7a3cadc1986455d84bcf0d7a42a7a1",
+    "wof:geomhash":"04716b7c341f6547434ec4f6fe8b04e7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,7 +54,14 @@
         }
     ],
     "wof:id":1259994045,
-    "wof:lastmodified":1537627111,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613184504,
     "wof:name":"Gimikya",
     "wof:parent_id":102073195,
     "wof:placetype":"locality",
@@ -64,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    139.58333000000002,
+    139.58333,
     -7.08333,
-    139.58333000000002,
+    139.58333,
     -7.08333
 ],
-  "geometry": {"coordinates":[139.58333000000002,-7.08333],"type":"Point"}
+  "geometry": {"coordinates":[139.58332999999999,-7.08333],"type":"Point"}
 }

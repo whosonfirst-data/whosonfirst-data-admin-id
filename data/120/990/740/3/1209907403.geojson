@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073405
+        102073405,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1936290
     },
     "wof:country":"ID",
-    "wof:geomhash":"20252d28315aa46fced1a6e4a612795d",
+    "wof:geomhash":"461413f043cdf96a8e9fbd53cdef7690",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1209907403,
-    "wof:lastmodified":1536382470,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178562,
     "wof:name":"Trangsan",
     "wof:parent_id":102073405,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.85056000000002,
+    110.85056,
     -7.67111,
-    110.85056000000002,
+    110.85056,
     -7.67111
 ],
-  "geometry": {"coordinates":[110.85056000000002,-7.67111],"type":"Point"}
+  "geometry": {"coordinates":[110.85056,-7.67111],"type":"Point"}
 }

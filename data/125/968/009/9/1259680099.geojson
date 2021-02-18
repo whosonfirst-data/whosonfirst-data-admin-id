@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073169
+        102073169,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6200963
     },
     "wof:country":"ID",
-    "wof:geomhash":"62deabd283a2982c2fa5f93afbd3c527",
+    "wof:geomhash":"a2869f5cda008d457d4fb32da73e1f97",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1259680099,
-    "wof:lastmodified":1537068915,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613184786,
     "wof:name":"Sambung",
     "wof:parent_id":102073169,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.13443999999998,
+    110.13444,
     -7.26056,
-    110.13443999999998,
+    110.13444,
     -7.26056
 ],
-  "geometry": {"coordinates":[110.13443999999998,-7.26056],"type":"Point"}
+  "geometry": {"coordinates":[110.13444,-7.26056],"type":"Point"}
 }

@@ -38,15 +38,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073265
+        102073265,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6265112
     },
     "wof:country":"ID",
-    "wof:geomhash":"0cf3f594ca79150262bcd7737a46337b",
+    "wof:geomhash":"1c55d22d1d32b35a612c7bc96227f223",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -57,7 +57,14 @@
         }
     ],
     "wof:id":1309706171,
-    "wof:lastmodified":1564195797,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613182236,
     "wof:name":"Karangnongko",
     "wof:parent_id":102073265,
     "wof:placetype":"locality",
@@ -67,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.44693999999998,
+    110.44694,
     -7.66167,
-    110.44693999999998,
+    110.44694,
     -7.66167
 ],
-  "geometry": {"coordinates":[110.44693999999998,-7.66167],"type":"Point"}
+  "geometry": {"coordinates":[110.44694,-7.66167],"type":"Point"}
 }

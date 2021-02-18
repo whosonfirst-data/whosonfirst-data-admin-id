@@ -34,7 +34,7 @@
         "gn:id":2007103
     },
     "wof:country":"ID",
-    "wof:geomhash":"674b606fab1dda1784ac738b20c0942d",
+    "wof:geomhash":"c30994e9183c67613ff12381942f9c8e",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209405653,
-    "wof:lastmodified":1536288004,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178769,
     "wof:name":"Tegalyoso",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     110.54083,
-    -7.713610000000001,
+    -7.71361,
     110.54083,
-    -7.713610000000001
+    -7.71361
 ],
   "geometry": {"coordinates":[110.54083,-7.71361],"type":"Point"}
 }

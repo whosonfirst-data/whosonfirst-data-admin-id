@@ -34,7 +34,7 @@
         "gn:id":6260192
     },
     "wof:country":"ID",
-    "wof:geomhash":"e20d8473f63295273fadf4e0cba90024",
+    "wof:geomhash":"1a71c3b2a19de84b2caea421daf64171",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209097479,
-    "wof:lastmodified":1536297841,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178272,
     "wof:name":"Sirendeng",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     110.02,
-    -7.5011100000000015,
+    -7.50111,
     110.02,
-    -7.5011100000000015
+    -7.50111
 ],
   "geometry": {"coordinates":[110.02,-7.50111],"type":"Point"}
 }

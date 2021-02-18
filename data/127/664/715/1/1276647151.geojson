@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073233
+        102073233,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2008760
     },
     "wof:country":"ID",
-    "wof:geomhash":"0a77c9fa3df39f44c304d749de0e73dc",
+    "wof:geomhash":"114a40ab21c043501be036d87494f2bc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1276647151,
-    "wof:lastmodified":1536854226,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178040,
     "wof:name":"Mangunan Kidul",
     "wof:parent_id":102073233,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.63443999999998,
+    110.63444,
     -7.7125,
-    110.63443999999998,
+    110.63444,
     -7.7125
 ],
-  "geometry": {"coordinates":[110.63443999999998,-7.7125],"type":"Point"}
+  "geometry": {"coordinates":[110.63444,-7.7125],"type":"Point"}
 }

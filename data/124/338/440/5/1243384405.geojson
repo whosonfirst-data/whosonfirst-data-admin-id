@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072929
+        102072929,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6409834
     },
     "wof:country":"ID",
-    "wof:geomhash":"c830556a7a91f0017a3f3b3011a7e733",
+    "wof:geomhash":"9ad245e250a834045033dd4d8fea948a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1243384405,
-    "wof:lastmodified":1537629056,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613182831,
     "wof:name":"Gambroh",
     "wof:parent_id":102072929,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.04361000000002,
+    111.04361,
     -7.45972,
-    111.04361000000002,
+    111.04361,
     -7.45972
 ],
-  "geometry": {"coordinates":[111.04361000000002,-7.45972],"type":"Point"}
+  "geometry": {"coordinates":[111.04361,-7.45972],"type":"Point"}
 }

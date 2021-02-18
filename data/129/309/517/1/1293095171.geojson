@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073153
+        102073153,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6381263
     },
     "wof:country":"ID",
-    "wof:geomhash":"882d4363cb8df625ed41c4fef30872a4",
+    "wof:geomhash":"4ebeebd5f95f0e4f49cf85554db2ed33",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1293095171,
-    "wof:lastmodified":1537628541,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175372,
     "wof:name":"Semampir",
     "wof:parent_id":102073153,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.67806000000002,
+    109.67806,
     -7.33556,
-    109.67806000000002,
+    109.67806,
     -7.33556
 ],
-  "geometry": {"coordinates":[109.67806000000002,-7.33556],"type":"Point"}
+  "geometry": {"coordinates":[109.67806,-7.33556],"type":"Point"}
 }

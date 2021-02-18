@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073405
+        102073405,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1934998
     },
     "wof:country":"ID",
-    "wof:geomhash":"ce16d41e521e3018281694b1fdaac0c1",
+    "wof:geomhash":"28c5e416948676f6766ca509f6ea8627",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1309899809,
-    "wof:lastmodified":1536795797,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613182523,
     "wof:name":"Pondokrejo",
     "wof:parent_id":102073405,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.88443999999998,
+    110.88444,
     -7.705,
-    110.88443999999998,
+    110.88444,
     -7.705
 ],
-  "geometry": {"coordinates":[110.88443999999998,-7.705],"type":"Point"}
+  "geometry": {"coordinates":[110.88444,-7.705],"type":"Point"}
 }

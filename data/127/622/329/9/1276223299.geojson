@@ -53,15 +53,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072929
+        102072929,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6262980
     },
     "wof:country":"ID",
-    "wof:geomhash":"439095a5078f29c359d2fa2262b2ff66",
+    "wof:geomhash":"b11d12852a54480f06fa9864151f8ef8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -72,7 +72,14 @@
         }
     ],
     "wof:id":1276223299,
-    "wof:lastmodified":1564182351,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177801,
     "wof:name":"Grogol",
     "wof:parent_id":102072929,
     "wof:placetype":"locality",
@@ -82,10 +89,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.83693999999998,
+    110.83694,
     -7.41861,
-    110.83693999999998,
+    110.83694,
     -7.41861
 ],
-  "geometry": {"coordinates":[110.83693999999998,-7.41861],"type":"Point"}
+  "geometry": {"coordinates":[110.83694,-7.41861],"type":"Point"}
 }

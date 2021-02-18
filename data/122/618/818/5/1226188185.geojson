@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072937
+        102072937,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6601562
     },
     "wof:country":"ID",
-    "wof:geomhash":"ef762c1aba0ac74456790aee393a29d0",
+    "wof:geomhash":"423ac99450fe3c9cb5cb42b58f2628da",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1226188185,
-    "wof:lastmodified":1537629988,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185465,
     "wof:name":"Kertamulya",
     "wof:parent_id":102072937,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.50943999999998,
+    107.50944,
     -6.38222,
-    107.50943999999998,
+    107.50944,
     -6.38222
 ],
-  "geometry": {"coordinates":[107.50943999999998,-6.38222],"type":"Point"}
+  "geometry": {"coordinates":[107.50944,-6.38222],"type":"Point"}
 }

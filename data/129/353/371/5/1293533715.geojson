@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672115,
-        102072957
+        102072957,
+        85672115
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8531159
     },
     "wof:country":"ID",
-    "wof:geomhash":"b5ac5403f3dabd4cae34cb72ee2ccedb",
+    "wof:geomhash":"464d3640b5a695a9924507e0b0d2e894",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1293533715,
-    "wof:lastmodified":1537636343,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175453,
     "wof:name":"Amisira",
     "wof:parent_id":102072957,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    138.60299999999998,
+    138.603,
     -1.9593,
-    138.60299999999998,
+    138.603,
     -1.9593
 ],
-  "geometry": {"coordinates":[138.60299999999998,-1.9593],"type":"Point"}
+  "geometry": {"coordinates":[138.60300000000001,-1.9593],"type":"Point"}
 }

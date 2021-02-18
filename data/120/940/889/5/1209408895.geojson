@@ -37,7 +37,7 @@
         "gn:id":6405043
     },
     "wof:country":"ID",
-    "wof:geomhash":"2a66da7bf5c0612ec490e899adddbabb",
+    "wof:geomhash":"cb9d88a03dbb38ce81d4184129a96ac8",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -45,7 +45,14 @@
         }
     ],
     "wof:id":1209408895,
-    "wof:lastmodified":1537628913,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178756,
     "wof:name":"Melaran",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -55,10 +62,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.91306000000002,
+    109.91306,
     -7.34639,
-    109.91306000000002,
+    109.91306,
     -7.34639
 ],
-  "geometry": {"coordinates":[109.91306000000002,-7.34639],"type":"Point"}
+  "geometry": {"coordinates":[109.91306,-7.34639],"type":"Point"}
 }

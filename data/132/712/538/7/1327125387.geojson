@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073187
+        102073187,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6261569
     },
     "wof:country":"ID",
-    "wof:geomhash":"23a6ce161088fc817fcadb787c7c67ec",
+    "wof:geomhash":"1c5245532b0dfa4572eb94b877fa37d3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1327125387,
-    "wof:lastmodified":1536624269,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613172808,
     "wof:name":"Panggulan",
     "wof:parent_id":102073187,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.05861000000002,
+    110.05861,
     -7.68917,
-    110.05861000000002,
+    110.05861,
     -7.68917
 ],
-  "geometry": {"coordinates":[110.05861000000002,-7.68917],"type":"Point"}
+  "geometry": {"coordinates":[110.05861,-7.68917],"type":"Point"}
 }

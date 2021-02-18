@@ -37,15 +37,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672009,
-        1108796809
+        1108796809,
+        85672009
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1644364
     },
     "wof:country":"ID",
-    "wof:geomhash":"e18b907e5ff61de031c0374449665b40",
+    "wof:geomhash":"62164a8a4e5209156401e69f8c612563",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -56,7 +56,14 @@
         }
     ],
     "wof:id":1344229797,
-    "wof:lastmodified":1537627117,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613174124,
     "wof:name":"Gebangudik",
     "wof:parent_id":1108796809,
     "wof:placetype":"locality",
@@ -66,10 +73,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    105.23033999999998,
+    105.23034,
     -5.56478,
-    105.23033999999998,
+    105.23034,
     -5.56478
 ],
-  "geometry": {"coordinates":[105.23033999999998,-5.56478],"type":"Point"}
+  "geometry": {"coordinates":[105.23034,-5.56478],"type":"Point"}
 }

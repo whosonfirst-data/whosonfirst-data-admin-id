@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672067,
-        1108796863
+        1108796863,
+        85672067
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1900818
     },
     "wof:country":"ID",
-    "wof:geomhash":"1c4becd1b43902d2faab9760b511ded3",
+    "wof:geomhash":"b0e3f435eb36e91b69861e5e8d27720a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1242714723,
-    "wof:lastmodified":1536864848,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183907,
     "wof:name":"Majet",
     "wof:parent_id":1108796863,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    129.91693999999998,
+    129.91694,
     -0.4475,
-    129.91693999999998,
+    129.91694,
     -0.4475
 ],
-  "geometry": {"coordinates":[129.91693999999998,-0.4475],"type":"Point"}
+  "geometry": {"coordinates":[129.91694000000001,-0.4475],"type":"Point"}
 }

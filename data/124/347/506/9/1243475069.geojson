@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072733
+        102072733,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1935379
     },
     "wof:country":"ID",
-    "wof:geomhash":"8d7c0c97cf23c08e15eb56a8d5e40f0c",
+    "wof:geomhash":"75120c77141488dd02cbfa50bb0a1e85",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1243475069,
-    "wof:lastmodified":1536764681,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183436,
     "wof:name":"Pentukrejo",
     "wof:parent_id":102072733,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.94693999999998,
+    110.94694,
     -7.55361,
-    110.94693999999998,
+    110.94694,
     -7.55361
 ],
-  "geometry": {"coordinates":[110.94693999999998,-7.55361],"type":"Point"}
+  "geometry": {"coordinates":[110.94694,-7.55361],"type":"Point"}
 }

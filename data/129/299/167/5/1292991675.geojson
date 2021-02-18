@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073405
+        102073405,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2010674
     },
     "wof:country":"ID",
-    "wof:geomhash":"2ebf389f8c71520e0c1faa1aec039eac",
+    "wof:geomhash":"158e98c7a3fd51f11fc5e098ace5afe1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1292991675,
-    "wof:lastmodified":1537004075,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613176495,
     "wof:name":"Prambegan",
     "wof:parent_id":102073405,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.74056000000002,
+    110.74056,
     -7.5325,
-    110.74056000000002,
+    110.74056,
     -7.5325
 ],
-  "geometry": {"coordinates":[110.74056000000002,-7.5325],"type":"Point"}
+  "geometry": {"coordinates":[110.74056,-7.5325],"type":"Point"}
 }

@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072857
+        102072857,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6199322
     },
     "wof:country":"ID",
-    "wof:geomhash":"4920c134dd565643f460feec50f56a64",
+    "wof:geomhash":"b8163e04a77666e8e1c0361050f98d1c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1310096389,
-    "wof:lastmodified":1537008969,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181011,
     "wof:name":"Kaligaleh",
     "wof:parent_id":102072857,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.22556000000002,
+    110.22556,
     -7.41722,
-    110.22556000000002,
+    110.22556,
     -7.41722
 ],
-  "geometry": {"coordinates":[110.22556000000002,-7.41722],"type":"Point"}
+  "geometry": {"coordinates":[110.22556,-7.41722],"type":"Point"}
 }

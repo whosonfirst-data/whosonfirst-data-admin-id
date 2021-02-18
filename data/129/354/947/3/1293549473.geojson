@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671995,
-        102073479
+        102073479,
+        85671995
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1960009
     },
     "wof:country":"ID",
-    "wof:geomhash":"6277e38ce258ad67d70eb1f94d34118f",
+    "wof:geomhash":"8a12cd7d24c857dfdf7787ede4275737",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1293549473,
-    "wof:lastmodified":1536698164,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175429,
     "wof:name":"Gegunung",
     "wof:parent_id":102073479,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.36556000000002,
+    106.36556,
     -6.12917,
-    106.36556000000002,
+    106.36556,
     -6.12917
 ],
-  "geometry": {"coordinates":[106.36556000000002,-6.12917],"type":"Point"}
+  "geometry": {"coordinates":[106.36556,-6.12917],"type":"Point"}
 }

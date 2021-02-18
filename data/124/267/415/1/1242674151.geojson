@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073405
+        102073405,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6256078
     },
     "wof:country":"ID",
-    "wof:geomhash":"28d79ef076b8da3363daec87d6ab09f7",
+    "wof:geomhash":"d37bdcf5b7225e62b64130ed5bdadc70",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1242674151,
-    "wof:lastmodified":1536925455,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183249,
     "wof:name":"Minikerep",
     "wof:parent_id":102073405,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.83138999999998,
+    110.83139,
     -7.78028,
-    110.83138999999998,
+    110.83139,
     -7.78028
 ],
-  "geometry": {"coordinates":[110.83138999999998,-7.78028],"type":"Point"}
+  "geometry": {"coordinates":[110.83139,-7.78028],"type":"Point"}
 }

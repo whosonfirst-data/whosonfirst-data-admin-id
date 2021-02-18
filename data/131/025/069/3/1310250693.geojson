@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073471
+        102073471,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6594190
     },
     "wof:country":"ID",
-    "wof:geomhash":"aa2b8a14a952b40566424366b647909e",
+    "wof:geomhash":"ad168b0e5fa73135be0492d5077e4926",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1310250693,
-    "wof:lastmodified":1537629791,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613180836,
     "wof:name":"Dangdeur Dua",
     "wof:parent_id":102073471,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.46056000000002,
+    107.46056,
     -6.46889,
-    107.46056000000002,
+    107.46056,
     -6.46889
 ],
-  "geometry": {"coordinates":[107.46056000000002,-6.46889],"type":"Point"}
+  "geometry": {"coordinates":[107.46056,-6.46889],"type":"Point"}
 }

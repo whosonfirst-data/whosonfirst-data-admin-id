@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072949
+        102072949,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1985860
     },
     "wof:country":"ID",
-    "wof:geomhash":"ac673bf5c5549af16d73cb80f328494a",
+    "wof:geomhash":"99fc61fcc2a73dba2389693795227e8b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1292947085,
-    "wof:lastmodified":1537066110,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175678,
     "wof:name":"Mekarsari",
     "wof:parent_id":102072949,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.63611000000002,
+    107.63611,
     -7.00306,
-    107.63611000000002,
+    107.63611,
     -7.00306
 ],
-  "geometry": {"coordinates":[107.63611000000002,-7.00306],"type":"Point"}
+  "geometry": {"coordinates":[107.63611,-7.00306],"type":"Point"}
 }

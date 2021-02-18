@@ -37,7 +37,7 @@
         "gn:id":6589329
     },
     "wof:country":"ID",
-    "wof:geomhash":"31cb30e8d76e25db249ac4676634b5d4",
+    "wof:geomhash":"f84879257f8f3148d80068545523bfd9",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -45,7 +45,14 @@
         }
     ],
     "wof:id":1209374923,
-    "wof:lastmodified":1537629644,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178519,
     "wof:name":"Dangdeur",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -55,10 +62,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.10611000000002,
+    107.10611,
     -6.86361,
-    107.10611000000002,
+    107.10611,
     -6.86361
 ],
-  "geometry": {"coordinates":[107.10611000000002,-6.86361],"type":"Point"}
+  "geometry": {"coordinates":[107.10611,-6.86361],"type":"Point"}
 }

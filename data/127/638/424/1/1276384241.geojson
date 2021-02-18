@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072949
+        102072949,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6598972
     },
     "wof:country":"ID",
-    "wof:geomhash":"c3b63dd7f28eb5c489dfefc4bc601153",
+    "wof:geomhash":"635c7f00a1f2ac0151ca59ca228befae",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1276384241,
-    "wof:lastmodified":1537629946,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178216,
     "wof:name":"Cicukangmekar",
     "wof:parent_id":102072949,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.55861000000002,
+    107.55861,
     -6.97917,
-    107.55861000000002,
+    107.55861,
     -6.97917
 ],
-  "geometry": {"coordinates":[107.55861000000002,-6.97917],"type":"Point"}
+  "geometry": {"coordinates":[107.55861,-6.97917],"type":"Point"}
 }

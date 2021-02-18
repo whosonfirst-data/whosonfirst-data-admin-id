@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102073013
+        102073013,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6405282
     },
     "wof:country":"ID",
-    "wof:geomhash":"9e1ff0d5f2731047d6a636b38db10914",
+    "wof:geomhash":"9d2ba3eac3d20cb343afd239d55f5a38",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1343955185,
-    "wof:lastmodified":1537628922,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613174619,
     "wof:name":"Pageran",
     "wof:parent_id":102073013,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.24056000000002,
+    111.24056,
     -8.03417,
-    111.24056000000002,
+    111.24056,
     -8.03417
 ],
-  "geometry": {"coordinates":[111.24056000000002,-8.03417],"type":"Point"}
+  "geometry": {"coordinates":[111.24056,-8.03417],"type":"Point"}
 }

@@ -38,15 +38,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072709
+        102072709,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6257775
     },
     "wof:country":"ID",
-    "wof:geomhash":"38c081a7940e253248b33d559e944022",
+    "wof:geomhash":"e1ff70b3bc42861c77fe79703bcc3892",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -57,7 +57,14 @@
         }
     ],
     "wof:id":1243450563,
-    "wof:lastmodified":1564201449,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613184155,
     "wof:name":"Baan",
     "wof:parent_id":102072709,
     "wof:placetype":"locality",
@@ -67,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.44138999999998,
+    110.44139,
     -7.26194,
-    110.44138999999998,
+    110.44139,
     -7.26194
 ],
-  "geometry": {"coordinates":[110.44138999999998,-7.26194],"type":"Point"}
+  "geometry": {"coordinates":[110.44139,-7.26194],"type":"Point"}
 }

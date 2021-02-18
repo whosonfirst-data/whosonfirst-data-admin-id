@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072949
+        102072949,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1966037
     },
     "wof:country":"ID",
-    "wof:geomhash":"e54e20adb3ed7e374c875738c91d026f",
+    "wof:geomhash":"c7e9837f8781a91ccf4c0f92d45af933",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,7 +54,14 @@
         }
     ],
     "wof:id":1276925975,
-    "wof:lastmodified":1537627839,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177560,
     "wof:name":"Rumacaang",
     "wof:parent_id":102072949,
     "wof:placetype":"locality",
@@ -64,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.74056000000002,
+    107.74056,
     -7.07056,
-    107.74056000000002,
+    107.74056,
     -7.07056
 ],
-  "geometry": {"coordinates":[107.74056000000002,-7.07056],"type":"Point"}
+  "geometry": {"coordinates":[107.74056,-7.07056],"type":"Point"}
 }

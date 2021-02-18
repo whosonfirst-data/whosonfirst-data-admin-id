@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072937
+        102072937,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6594717
     },
     "wof:country":"ID",
-    "wof:geomhash":"449dba92990a3d7ad0ab635403f20b2d",
+    "wof:geomhash":"fdc26c923ed6fd73301a14352f03b38d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1243500403,
-    "wof:lastmodified":1537629801,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183540,
     "wof:name":"Wagir",
     "wof:parent_id":102072937,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.35611000000002,
+    107.35611,
     -6.32167,
-    107.35611000000002,
+    107.35611,
     -6.32167
 ],
-  "geometry": {"coordinates":[107.35611000000002,-6.32167],"type":"Point"}
+  "geometry": {"coordinates":[107.35611,-6.32167],"type":"Point"}
 }

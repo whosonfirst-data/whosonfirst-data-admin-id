@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672009,
-        102072615
+        102072615,
+        85672009
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7667269
     },
     "wof:country":"ID",
-    "wof:geomhash":"09989fdc2a769445403608d5d2340b8d",
+    "wof:geomhash":"fbe9847abf165b4706a7acb37be48496",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1326512719,
-    "wof:lastmodified":1537634243,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613172460,
     "wof:name":"Plangkawati",
     "wof:parent_id":102072615,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    105.70293999999998,
+    105.70294,
     -5.1469,
-    105.70293999999998,
+    105.70294,
     -5.1469
 ],
-  "geometry": {"coordinates":[105.70293999999998,-5.1469],"type":"Point"}
+  "geometry": {"coordinates":[105.70294,-5.1469],"type":"Point"}
 }

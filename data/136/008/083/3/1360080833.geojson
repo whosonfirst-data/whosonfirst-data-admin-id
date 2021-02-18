@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073265
+        102073265,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6264966
     },
     "wof:country":"ID",
-    "wof:geomhash":"3e3601d109fdb5f71fc5c73c0d3bbd0b",
+    "wof:geomhash":"b117910fd2d21745254638b7804f9a28",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1360080833,
-    "wof:lastmodified":1536951983,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181904,
     "wof:name":"Tegalsari",
     "wof:parent_id":102073265,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.42638999999998,
+    110.42639,
     -7.73361,
-    110.42638999999998,
+    110.42639,
     -7.73361
 ],
-  "geometry": {"coordinates":[110.42638999999998,-7.73361],"type":"Point"}
+  "geometry": {"coordinates":[110.42639,-7.73361],"type":"Point"}
 }

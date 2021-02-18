@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072715
+        102072715,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6385644
     },
     "wof:country":"ID",
-    "wof:geomhash":"9935e1f1edde061ce3f82c7b60a14959",
+    "wof:geomhash":"09eb3b2d98c20a1fc9adcd8fe8414204",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1326523969,
-    "wof:lastmodified":1537628583,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613173226,
     "wof:name":"Muncu",
     "wof:parent_id":102072715,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.11388999999998,
+    109.11389,
     -7.50056,
-    109.11388999999998,
+    109.11389,
     -7.50056
 ],
-  "geometry": {"coordinates":[109.11388999999998,-7.50056],"type":"Point"}
+  "geometry": {"coordinates":[109.11389,-7.50056],"type":"Point"}
 }

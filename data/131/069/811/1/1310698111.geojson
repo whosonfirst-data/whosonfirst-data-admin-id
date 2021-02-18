@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072857
+        102072857,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1963892
     },
     "wof:country":"ID",
-    "wof:geomhash":"f8b570becb77687a1643c2b3c4f68020",
+    "wof:geomhash":"ff386b42d3b579a10904d81dcef1a33f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1310698111,
-    "wof:lastmodified":1536637978,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181646,
     "wof:name":"Sumberagung",
     "wof:parent_id":102072857,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.25388999999998,
+    110.25389,
     -7.39889,
-    110.25388999999998,
+    110.25389,
     -7.39889
 ],
-  "geometry": {"coordinates":[110.25388999999998,-7.39889],"type":"Point"}
+  "geometry": {"coordinates":[110.25389,-7.39889],"type":"Point"}
 }

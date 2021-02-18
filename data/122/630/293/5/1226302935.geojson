@@ -34,15 +34,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671995,
-        102072687
+        102072687,
+        85671995
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1987218
     },
     "wof:country":"ID",
-    "wof:geomhash":"a4c3fcfc7fe608c209d803f79ee8d0c1",
+    "wof:geomhash":"1a3fef5754831054871b99f990b7328c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +53,14 @@
         }
     ],
     "wof:id":1226302935,
-    "wof:lastmodified":1537628245,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613186352,
     "wof:name":"Serpong Dua",
     "wof:parent_id":102072687,
     "wof:placetype":"locality",
@@ -63,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.66861000000002,
+    106.66861,
     -6.31694,
-    106.66861000000002,
+    106.66861,
     -6.31694
 ],
-  "geometry": {"coordinates":[106.66861000000002,-6.31694],"type":"Point"}
+  "geometry": {"coordinates":[106.66861,-6.31694],"type":"Point"}
 }

@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        1108796793
+        1108796793,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6585054
     },
     "wof:country":"ID",
-    "wof:geomhash":"72f6e34e7a06f22c662ebe4e17ac46e6",
+    "wof:geomhash":"60e3dfb5f991d1441a544fe4bfa0eff4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1242727419,
-    "wof:lastmodified":1537629579,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183109,
     "wof:name":"Cadasgorowong",
     "wof:parent_id":1108796793,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.44861000000002,
+    107.44861,
     -6.80222,
-    107.44861000000002,
+    107.44861,
     -6.80222
 ],
-  "geometry": {"coordinates":[107.44861000000002,-6.80222],"type":"Point"}
+  "geometry": {"coordinates":[107.44861,-6.80222],"type":"Point"}
 }

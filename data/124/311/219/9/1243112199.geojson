@@ -53,15 +53,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672115,
-        1108796879
+        1108796879,
+        85672115
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8527497
     },
     "wof:country":"ID",
-    "wof:geomhash":"ef15df3923eb74829171456216389f63",
+    "wof:geomhash":"d8e5635f06faa8ccf6b1a08db9899682",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -72,7 +72,14 @@
         }
     ],
     "wof:id":1243112199,
-    "wof:lastmodified":1564201216,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613184080,
     "wof:name":"Amka",
     "wof:parent_id":1108796879,
     "wof:placetype":"locality",
@@ -82,10 +89,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    140.69661000000002,
+    140.69661,
     -5.88162,
-    140.69661000000002,
+    140.69661,
     -5.88162
 ],
-  "geometry": {"coordinates":[140.69661000000002,-5.88162],"type":"Point"}
+  "geometry": {"coordinates":[140.69660999999999,-5.88162],"type":"Point"}
 }

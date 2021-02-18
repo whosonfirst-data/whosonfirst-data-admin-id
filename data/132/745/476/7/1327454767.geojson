@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073233
+        102073233,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2008853
     },
     "wof:country":"ID",
-    "wof:geomhash":"1c254b21f675df8de0e9e74fffeed5c9",
+    "wof:geomhash":"db18044d204664b703c2dcd014ac0ea5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1327454767,
-    "wof:lastmodified":1536648213,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613173517,
     "wof:name":"Wonomulyo",
     "wof:parent_id":102073233,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.74611000000002,
+    110.74611,
     -7.72361,
-    110.74611000000002,
+    110.74611,
     -7.72361
 ],
-  "geometry": {"coordinates":[110.74611000000002,-7.72361],"type":"Point"}
+  "geometry": {"coordinates":[110.74611,-7.72361],"type":"Point"}
 }

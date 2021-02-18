@@ -80,8 +80,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672111,
-        102073413
+        102073413,
+        85672111
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -99,7 +99,14 @@
         }
     ],
     "wof:id":1225803943,
-    "wof:lastmodified":1564206601,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185887,
     "wof:name":"Mongo",
     "wof:parent_id":102073413,
     "wof:placetype":"locality",

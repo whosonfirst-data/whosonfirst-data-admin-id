@@ -34,15 +34,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672037,
-        102073331
+        102073331,
+        85672037
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1947246
     },
     "wof:country":"ID",
-    "wof:geomhash":"ba7e5107ac896f71cba730eb31a28eb3",
+    "wof:geomhash":"b5ce3102d8addeb013699f16e8b3686d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +53,14 @@
         }
     ],
     "wof:id":1209881989,
-    "wof:lastmodified":1537627444,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179533,
     "wof:name":"Oemolo",
     "wof:parent_id":102073331,
     "wof:placetype":"locality",
@@ -63,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    123.83556000000002,
+    123.83556,
     -9.58667,
-    123.83556000000002,
+    123.83556,
     -9.58667
 ],
-  "geometry": {"coordinates":[123.83556000000002,-9.58667],"type":"Point"}
+  "geometry": {"coordinates":[123.83556,-9.58667],"type":"Point"}
 }

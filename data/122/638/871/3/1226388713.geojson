@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072855
+        102072855,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6588285
     },
     "wof:country":"ID",
-    "wof:geomhash":"2d18d1a9e2b0762232f0eb01503e2a69",
+    "wof:geomhash":"9b783a8595c7b425bd2a9a592b603cb4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1226388713,
-    "wof:lastmodified":1537629606,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613186495,
     "wof:name":"Nangela",
     "wof:parent_id":102072855,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.04361000000002,
+    107.04361,
     -6.95722,
-    107.04361000000002,
+    107.04361,
     -6.95722
 ],
-  "geometry": {"coordinates":[107.04361000000002,-6.95722],"type":"Point"}
+  "geometry": {"coordinates":[107.04361,-6.95722],"type":"Point"}
 }

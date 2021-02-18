@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073529
+        102073529,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6588366
     },
     "wof:country":"ID",
-    "wof:geomhash":"f45504853dcc5a5863635d9dc00fc1f3",
+    "wof:geomhash":"edb52cff0ece10a0bd86d477eaa73fb4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1243014191,
-    "wof:lastmodified":1537629609,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613182956,
     "wof:name":"Cigorolong",
     "wof:parent_id":102073529,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.10193999999998,
+    107.10194,
     -6.97056,
-    107.10193999999998,
+    107.10194,
     -6.97056
 ],
-  "geometry": {"coordinates":[107.10193999999998,-6.97056],"type":"Point"}
+  "geometry": {"coordinates":[107.10194,-6.97056],"type":"Point"}
 }

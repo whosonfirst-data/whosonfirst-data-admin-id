@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102072775
+        102072775,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6408658
     },
     "wof:country":"ID",
-    "wof:geomhash":"978648ac9ae84d9cf27b755fa6188295",
+    "wof:geomhash":"e844f2679e4288cf06c003de4dce4e25",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1310596567,
-    "wof:lastmodified":1537629015,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181528,
     "wof:name":"Bejen",
     "wof:parent_id":102072775,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.16306000000002,
+    111.16306,
     -7.55,
-    111.16306000000002,
+    111.16306,
     -7.55
 ],
-  "geometry": {"coordinates":[111.16306000000002,-7.55],"type":"Point"}
+  "geometry": {"coordinates":[111.16306,-7.55],"type":"Point"}
 }

@@ -34,7 +34,7 @@
         "gn:id":6259332
     },
     "wof:country":"ID",
-    "wof:geomhash":"362210addce2034de90c5dc7390c1335",
+    "wof:geomhash":"05b19f90dcec272ba43c5a60bb025d8f",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209305717,
-    "wof:lastmodified":1536291204,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178495,
     "wof:name":"Gunungsari",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     110.28472,
-    -7.6005600000000015,
+    -7.60056,
     110.28472,
-    -7.6005600000000015
+    -7.60056
 ],
   "geometry": {"coordinates":[110.28471999999999,-7.60056],"type":"Point"}
 }

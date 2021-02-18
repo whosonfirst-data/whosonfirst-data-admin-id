@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672115,
-        102073423
+        102073423,
+        85672115
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8520117
     },
     "wof:country":"ID",
-    "wof:geomhash":"d2144c69991a1627bedde04da2b21893",
+    "wof:geomhash":"6649b8c6695aece06c0457d38dee5ad7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1193195857,
-    "wof:lastmodified":1537636292,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613180134,
     "wof:name":"Uwus",
     "wof:parent_id":102073423,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    138.09901000000002,
+    138.09901,
     -5.65756,
-    138.09901000000002,
+    138.09901,
     -5.65756
 ],
-  "geometry": {"coordinates":[138.09901000000002,-5.65756],"type":"Point"}
+  "geometry": {"coordinates":[138.09900999999999,-5.65756],"type":"Point"}
 }

@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072715
+        102072715,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6389571
     },
     "wof:country":"ID",
-    "wof:geomhash":"4a165ec3dbfd333765f8a4fd7fb1910b",
+    "wof:geomhash":"f11f9365a4f2c4178f3bdc58869141ce",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1327454769,
-    "wof:lastmodified":1537628692,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613173517,
     "wof:name":"Kalimanggis",
     "wof:parent_id":102072715,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.05306000000002,
+    109.05306,
     -7.36722,
-    109.05306000000002,
+    109.05306,
     -7.36722
 ],
-  "geometry": {"coordinates":[109.05306000000002,-7.36722],"type":"Point"}
+  "geometry": {"coordinates":[109.05306,-7.36722],"type":"Point"}
 }

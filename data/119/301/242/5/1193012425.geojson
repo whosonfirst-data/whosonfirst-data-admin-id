@@ -33,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072857
+        102072857,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1963622
     },
     "wof:country":"ID",
-    "wof:geomhash":"e75d1f90ea7d06eb0541c36465a05617",
+    "wof:geomhash":"4ef29d83dfbb42d8e0bb964c95786117",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,7 +52,14 @@
         }
     ],
     "wof:id":1193012425,
-    "wof:lastmodified":1537627722,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179801,
     "wof:name":"Watupenganten",
     "wof:parent_id":102072857,
     "wof:placetype":"locality",
@@ -62,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.35193999999998,
+    110.35194,
     -7.37083,
-    110.35193999999998,
+    110.35194,
     -7.37083
 ],
-  "geometry": {"coordinates":[110.35193999999998,-7.37083],"type":"Point"}
+  "geometry": {"coordinates":[110.35194,-7.37083],"type":"Point"}
 }

@@ -34,7 +34,7 @@
         "gn:id":6264050
     },
     "wof:country":"ID",
-    "wof:geomhash":"02cf61617eca07e436483f7489289b94",
+    "wof:geomhash":"a4fbe391be58cd523b9793f4bdd8c51e",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209205689,
-    "wof:lastmodified":1536294464,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179286,
     "wof:name":"Caruban",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     110.25556,
-    -7.638610000000001,
+    -7.63861,
     110.25556,
-    -7.638610000000001
+    -7.63861
 ],
   "geometry": {"coordinates":[110.25556,-7.63861],"type":"Point"}
 }

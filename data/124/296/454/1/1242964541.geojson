@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072765
+        102072765,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6257837
     },
     "wof:country":"ID",
-    "wof:geomhash":"e17b0296d5ccde02c04551905a6de87e",
+    "wof:geomhash":"825dce28c051adf6fbc46951d95fb149",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1242964541,
-    "wof:lastmodified":1537002624,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183951,
     "wof:name":"Dliko",
     "wof:parent_id":102072765,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.48111000000002,
+    110.48111,
     -7.30556,
-    110.48111000000002,
+    110.48111,
     -7.30556
 ],
-  "geometry": {"coordinates":[110.48111000000002,-7.30556],"type":"Point"}
+  "geometry": {"coordinates":[110.48111,-7.30556],"type":"Point"}
 }

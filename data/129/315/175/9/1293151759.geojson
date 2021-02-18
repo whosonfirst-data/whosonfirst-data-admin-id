@@ -45,15 +45,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672097,
-        1108796843
+        1108796843,
+        85672097
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1622557
     },
     "wof:country":"ID",
-    "wof:geomhash":"2ceece619e8ff3028450d8e0d961bbf1",
+    "wof:geomhash":"8f30e6e225875f1c7d184ce3304328c6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -64,7 +64,14 @@
         }
     ],
     "wof:id":1293151759,
-    "wof:lastmodified":1564177339,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175885,
     "wof:name":"Uta",
     "wof:parent_id":1108796843,
     "wof:placetype":"locality",
@@ -74,10 +81,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    131.62891000000002,
+    131.62891,
     -4.44859,
-    131.62891000000002,
+    131.62891,
     -4.44859
 ],
-  "geometry": {"coordinates":[131.62891000000002,-4.44859],"type":"Point"}
+  "geometry": {"coordinates":[131.62890999999999,-4.44859],"type":"Point"}
 }

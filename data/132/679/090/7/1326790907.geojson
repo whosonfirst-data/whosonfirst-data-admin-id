@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073471
+        102073471,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6592969
     },
     "wof:country":"ID",
-    "wof:geomhash":"472f5422be8523199904b06caf239800",
+    "wof:geomhash":"f06e828a3decbfeab4a1d92477cc37c9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1326790907,
-    "wof:lastmodified":1537629751,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613173112,
     "wof:name":"Dusun Dua",
     "wof:parent_id":102073471,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.42806000000002,
+    107.42806,
     -6.58,
-    107.42806000000002,
+    107.42806,
     -6.58
 ],
-  "geometry": {"coordinates":[107.42806000000002,-6.58],"type":"Point"}
+  "geometry": {"coordinates":[107.42806,-6.58],"type":"Point"}
 }

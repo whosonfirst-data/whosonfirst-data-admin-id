@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073193
+        102073193,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6401789
     },
     "wof:country":"ID",
-    "wof:geomhash":"778f732a8eadc58d004fde92498eef12",
+    "wof:geomhash":"39140cf341ba07861e465882d8f4c9af",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1225904573,
-    "wof:lastmodified":1537628850,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185937,
     "wof:name":"Dusun Satu",
     "wof:parent_id":102073193,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.21056000000002,
+    108.21056,
     -6.5125,
-    108.21056000000002,
+    108.21056,
     -6.5125
 ],
-  "geometry": {"coordinates":[108.21056000000002,-6.5125],"type":"Point"}
+  "geometry": {"coordinates":[108.21056,-6.5125],"type":"Point"}
 }

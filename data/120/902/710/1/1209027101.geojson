@@ -37,7 +37,7 @@
         "gn:id":6567318
     },
     "wof:country":"ID",
-    "wof:geomhash":"62531e3c9784086ff704e3dc3381cd99",
+    "wof:geomhash":"9d51f5d6f1e7adbc437c86f9ac16da95",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -45,7 +45,14 @@
         }
     ],
     "wof:id":1209027101,
-    "wof:lastmodified":1537629317,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179220,
     "wof:name":"Kratowijaya",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -55,10 +62,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.88611000000002,
+    109.88611,
     -7.41167,
-    109.88611000000002,
+    109.88611,
     -7.41167
 ],
-  "geometry": {"coordinates":[109.88611000000002,-7.41167],"type":"Point"}
+  "geometry": {"coordinates":[109.88611,-7.41167],"type":"Point"}
 }

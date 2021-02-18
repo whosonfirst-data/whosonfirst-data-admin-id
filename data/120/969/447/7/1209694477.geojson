@@ -34,7 +34,7 @@
         "gn:id":2009706
     },
     "wof:country":"ID",
-    "wof:geomhash":"18ef13085eb70b6f11f113e6882109b6",
+    "wof:geomhash":"016fe4c65535458c2e904a62662317dc",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209694477,
-    "wof:lastmodified":1536279124,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179162,
     "wof:name":"Bujidan",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     110.11139,
-    -7.885560000000001,
+    -7.88556,
     110.11139,
-    -7.885560000000001
+    -7.88556
 ],
   "geometry": {"coordinates":[110.11139,-7.88556],"type":"Point"}
 }

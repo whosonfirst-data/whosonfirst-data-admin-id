@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671995,
-        102072687
+        102072687,
+        85671995
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1960112
     },
     "wof:country":"ID",
-    "wof:geomhash":"20ecd3156f8a4e3fc229c3873bddf286",
+    "wof:geomhash":"16e244a686e700a423ea4c00baec030d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1293744039,
-    "wof:lastmodified":1536914956,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613176720,
     "wof:name":"Kaliasin",
     "wof:parent_id":102072687,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.43876000000002,
+    106.43876,
     -6.15469,
-    106.43876000000002,
+    106.43876,
     -6.15469
 ],
-  "geometry": {"coordinates":[106.43876000000002,-6.15469],"type":"Point"}
+  "geometry": {"coordinates":[106.43876,-6.15469],"type":"Point"}
 }

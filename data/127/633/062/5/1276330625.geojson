@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072715
+        102072715,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6388827
     },
     "wof:country":"ID",
-    "wof:geomhash":"c9b2e811b6ace503d68dcfe9f126041d",
+    "wof:geomhash":"32fe887c4afea5addaa59e2ac6f891d6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1276330625,
-    "wof:lastmodified":1537628679,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177367,
     "wof:name":"Karangkemiri",
     "wof:parent_id":102072715,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.18361000000002,
+    109.18361,
     -7.41722,
-    109.18361000000002,
+    109.18361,
     -7.41722
 ],
-  "geometry": {"coordinates":[109.18361000000002,-7.41722],"type":"Point"}
+  "geometry": {"coordinates":[109.18361,-7.41722],"type":"Point"}
 }

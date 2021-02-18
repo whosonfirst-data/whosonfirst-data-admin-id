@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671995,
-        1108796785
+        1108796785,
+        85671995
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1988543
     },
     "wof:country":"ID",
-    "wof:geomhash":"396897182d78cf51cb366e4ce68a5c79",
+    "wof:geomhash":"f6b14963c6c0b8ff523a43330a2e85c0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1243514513,
-    "wof:lastmodified":1536707795,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183673,
     "wof:name":"Cipetepinggirrawa",
     "wof:parent_id":1108796785,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.66443999999998,
+    106.66444,
     -6.20333,
-    106.66443999999998,
+    106.66444,
     -6.20333
 ],
-  "geometry": {"coordinates":[106.66443999999998,-6.20333],"type":"Point"}
+  "geometry": {"coordinates":[106.66444,-6.20333],"type":"Point"}
 }

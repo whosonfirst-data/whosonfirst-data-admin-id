@@ -89,15 +89,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672081,
-        102073137
+        102073137,
+        85672081
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1639157
     },
     "wof:country":"ID",
-    "wof:geomhash":"a24541a443551b3b73dc061f4ef3229a",
+    "wof:geomhash":"df5ce863d79b820285b9199f562e2d38",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -108,7 +108,14 @@
         }
     ],
     "wof:id":1259512567,
-    "wof:lastmodified":1564203752,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613184957,
     "wof:name":"Kuma",
     "wof:parent_id":102073137,
     "wof:placetype":"locality",
@@ -118,10 +125,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    125.57746000000002,
+    125.57746,
     3.57467,
-    125.57746000000002,
+    125.57746,
     3.57467
 ],
-  "geometry": {"coordinates":[125.57746000000002,3.57467],"type":"Point"}
+  "geometry": {"coordinates":[125.57746,3.57467],"type":"Point"}
 }

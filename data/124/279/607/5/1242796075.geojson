@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672097,
-        1108796843
+        1108796843,
+        85672097
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1640575
     },
     "wof:country":"ID",
-    "wof:geomhash":"a4525d83759dee73bae2724cb02aebe5",
+    "wof:geomhash":"b170e30b7be20fcaa547a457de982572",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1242796075,
-    "wof:lastmodified":1536748804,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183831,
     "wof:name":"Kefing",
     "wof:parent_id":1108796843,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    130.83333000000002,
+    130.83333,
     -3.86667,
-    130.83333000000002,
+    130.83333,
     -3.86667
 ],
-  "geometry": {"coordinates":[130.83333000000002,-3.86667],"type":"Point"}
+  "geometry": {"coordinates":[130.83332999999999,-3.86667],"type":"Point"}
 }

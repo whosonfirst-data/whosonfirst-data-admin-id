@@ -44,15 +44,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072857
+        102072857,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6256948
     },
     "wof:country":"ID",
-    "wof:geomhash":"9666db8ec7e906d892cde83d122f95ae",
+    "wof:geomhash":"d40818eeb9b12fc0db7323aec8acf4a4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -63,7 +63,14 @@
         }
     ],
     "wof:id":1259774567,
-    "wof:lastmodified":1564202614,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613184547,
     "wof:name":"Tosari",
     "wof:parent_id":102072857,
     "wof:placetype":"locality",
@@ -73,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.30861000000002,
+    110.30861,
     -7.45111,
-    110.30861000000002,
+    110.30861,
     -7.45111
 ],
-  "geometry": {"coordinates":[110.30861000000002,-7.45111],"type":"Point"}
+  "geometry": {"coordinates":[110.30861,-7.45111],"type":"Point"}
 }

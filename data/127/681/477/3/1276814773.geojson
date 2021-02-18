@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672085,
-        102072885
+        102072885,
+        85672085
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":11242734
     },
     "wof:country":"ID",
-    "wof:geomhash":"fd9fee7ef1e570f5c6a3219581ea5000",
+    "wof:geomhash":"88eebbba2b87b4107030618dd1bc8e01",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1276814773,
-    "wof:lastmodified":1536629131,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177089,
     "wof:name":"Kusubibi",
     "wof:parent_id":102072885,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    127.33308999999998,
+    127.33309,
     -0.39623,
-    127.33308999999998,
+    127.33309,
     -0.39623
 ],
-  "geometry": {"coordinates":[127.33308999999998,-0.39623],"type":"Point"}
+  "geometry": {"coordinates":[127.33309,-0.39623],"type":"Point"}
 }

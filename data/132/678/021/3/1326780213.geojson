@@ -41,15 +41,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073529
+        102073529,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6590339
     },
     "wof:country":"ID",
-    "wof:geomhash":"4d9a08b6e7855015431d6f05a5d3e9c3",
+    "wof:geomhash":"3f06289b7b5163b03b1c1e891fa0ec5f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -60,7 +60,14 @@
         }
     ],
     "wof:id":1326780213,
-    "wof:lastmodified":1564169885,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613173094,
     "wof:name":"Cipari",
     "wof:parent_id":102073529,
     "wof:placetype":"locality",
@@ -70,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.22693999999998,
+    107.22694,
     -6.65861,
-    107.22693999999998,
+    107.22694,
     -6.65861
 ],
-  "geometry": {"coordinates":[107.22693999999998,-6.65861],"type":"Point"}
+  "geometry": {"coordinates":[107.22694,-6.65861],"type":"Point"}
 }

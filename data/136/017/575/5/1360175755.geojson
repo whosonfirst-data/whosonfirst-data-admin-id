@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073233
+        102073233,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2003536
     },
     "wof:country":"ID",
-    "wof:geomhash":"b57b33dc7390621a0a257ff81a7c048e",
+    "wof:geomhash":"71a490f2ea61d39c5f6b483d1502e8cc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1360175755,
-    "wof:lastmodified":1536814231,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613182008,
     "wof:name":"Sutan",
     "wof:parent_id":102073233,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.64806000000002,
+    110.64806,
     -7.76917,
-    110.64806000000002,
+    110.64806,
     -7.76917
 ],
-  "geometry": {"coordinates":[110.64806000000002,-7.76917],"type":"Point"}
+  "geometry": {"coordinates":[110.64806,-7.76917],"type":"Point"}
 }

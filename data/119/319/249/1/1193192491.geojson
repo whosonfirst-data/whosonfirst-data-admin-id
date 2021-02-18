@@ -122,15 +122,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072937
+        102072937,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1650929
     },
     "wof:country":"ID",
-    "wof:geomhash":"f16301c0c512ff5907900b7e99874c63",
+    "wof:geomhash":"c4dd2cafb89fc3aabf95e888e77a6385",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -141,7 +141,14 @@
         }
     ],
     "wof:id":1193192491,
-    "wof:lastmodified":1564189105,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613180128,
     "wof:name":"Badami",
     "wof:parent_id":102072937,
     "wof:placetype":"locality",
@@ -151,10 +158,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.26888999999998,
+    107.26889,
     -6.34194,
-    107.26888999999998,
+    107.26889,
     -6.34194
 ],
-  "geometry": {"coordinates":[107.26888999999998,-6.34194],"type":"Point"}
+  "geometry": {"coordinates":[107.26889,-6.34194],"type":"Point"}
 }

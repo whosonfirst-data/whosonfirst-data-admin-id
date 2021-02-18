@@ -37,7 +37,7 @@
         "gn:id":6566040
     },
     "wof:country":"ID",
-    "wof:geomhash":"7ef9a33bc9b4411cc7cfbbf275df2bf9",
+    "wof:geomhash":"81f6f7620771d028e158570622ad09c4",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -45,7 +45,14 @@
         }
     ],
     "wof:id":1209205693,
-    "wof:lastmodified":1537629281,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179283,
     "wof:name":"Wandasari",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -55,10 +62,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.85056000000002,
+    109.85056,
     -7.73389,
-    109.85056000000002,
+    109.85056,
     -7.73389
 ],
-  "geometry": {"coordinates":[109.85056000000002,-7.73389],"type":"Point"}
+  "geometry": {"coordinates":[109.85056,-7.73389],"type":"Point"}
 }

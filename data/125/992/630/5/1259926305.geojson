@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073193
+        102073193,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6403884
     },
     "wof:country":"ID",
-    "wof:geomhash":"af118e0b3582773eb3fa2163630e1e81",
+    "wof:geomhash":"36578eb532d9ec4441a4c3dbca3150e9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1259926305,
-    "wof:lastmodified":1537628876,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613184832,
     "wof:name":"Tegalbedug",
     "wof:parent_id":102073193,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.25388999999998,
+    108.25389,
     -6.445,
-    108.25388999999998,
+    108.25389,
     -6.445
 ],
-  "geometry": {"coordinates":[108.25388999999998,-6.445],"type":"Point"}
+  "geometry": {"coordinates":[108.25389,-6.445],"type":"Point"}
 }

@@ -35,8 +35,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672085,
         1108796817,
+        85672085,
         85672097
     ],
     "wof:breaches":[],
@@ -44,7 +44,7 @@
         "gn:id":8042878
     },
     "wof:country":"ID",
-    "wof:geomhash":"8a35b4ff726a4dc0ee9c72021b267997",
+    "wof:geomhash":"f815e6d01e8713af23b49c2c2cbfc814",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -62,7 +62,14 @@
         }
     ],
     "wof:id":1243324897,
-    "wof:lastmodified":1537635101,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183613,
     "wof:name":"Wanawatnangan",
     "wof:parent_id":1108796817,
     "wof:placetype":"locality",
@@ -72,10 +79,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    126.91013999999998,
+    126.91014,
     -3.68303,
-    126.91013999999998,
+    126.91014,
     -3.68303
 ],
-  "geometry": {"coordinates":[126.91013999999998,-3.68303],"type":"Point"}
+  "geometry": {"coordinates":[126.91014,-3.68303],"type":"Point"}
 }

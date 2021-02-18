@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672041,
-        102073441
+        102073441,
+        85672041
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6743413
     },
     "wof:country":"ID",
-    "wof:geomhash":"5ab1a97884300937485e67021a21dcab",
+    "wof:geomhash":"813c1ff02d9b21826e654ccfc937aad8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1343399519,
-    "wof:lastmodified":1537631134,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613173995,
     "wof:name":"Toralia",
     "wof:parent_id":102073441,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    120.14813999999998,
+    120.14814,
     -5.52825,
-    120.14813999999998,
+    120.14814,
     -5.52825
 ],
-  "geometry": {"coordinates":[120.14813999999998,-5.52825],"type":"Point"}
+  "geometry": {"coordinates":[120.14814,-5.52825],"type":"Point"}
 }

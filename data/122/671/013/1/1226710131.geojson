@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        1108796793
+        1108796793,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6583565
     },
     "wof:country":"ID",
-    "wof:geomhash":"8ac57f8192d7bba88e896bbce0d52746",
+    "wof:geomhash":"44aee000e9f45572bcf56a4c60ec4b2c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1226710131,
-    "wof:lastmodified":1537629531,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613186078,
     "wof:name":"Rancabogo",
     "wof:parent_id":1108796793,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.51111000000002,
+    107.51111,
     -6.86861,
-    107.51111000000002,
+    107.51111,
     -6.86861
 ],
-  "geometry": {"coordinates":[107.51111000000002,-6.86861],"type":"Point"}
+  "geometry": {"coordinates":[107.51111,-6.86861],"type":"Point"}
 }

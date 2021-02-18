@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073313
+        102073313,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2004358
     },
     "wof:country":"ID",
-    "wof:geomhash":"e8d7258fa1c711f412e2dfc07b37f5a9",
+    "wof:geomhash":"6f21a55f331d8122631fd071cf267c10",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1276784173,
-    "wof:lastmodified":1536671849,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177892,
     "wof:name":"Kanigoro",
     "wof:parent_id":102073313,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.43361000000002,
+    110.43361,
     -7.94361,
-    110.43361000000002,
+    110.43361,
     -7.94361
 ],
-  "geometry": {"coordinates":[110.43361000000002,-7.94361],"type":"Point"}
+  "geometry": {"coordinates":[110.43361,-7.94361],"type":"Point"}
 }

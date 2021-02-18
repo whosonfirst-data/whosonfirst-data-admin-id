@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072929
+        102072929,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6411544
     },
     "wof:country":"ID",
-    "wof:geomhash":"64ce72549403c4ae3d3c065abbef4ef8",
+    "wof:geomhash":"abbf0c0e6ed946e3b8e9430fb4f71375",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1327227707,
-    "wof:lastmodified":1537629112,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613172684,
     "wof:name":"Gentong",
     "wof:parent_id":102072929,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.01111000000002,
+    111.01111,
     -7.31944,
-    111.01111000000002,
+    111.01111,
     -7.31944
 ],
-  "geometry": {"coordinates":[111.01111000000002,-7.31944],"type":"Point"}
+  "geometry": {"coordinates":[111.01111,-7.31944],"type":"Point"}
 }

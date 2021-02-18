@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072639
+        102072639,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6373466
     },
     "wof:country":"ID",
-    "wof:geomhash":"8f25901a367ef73ba010b1aae455a856",
+    "wof:geomhash":"1d67e9bce79551945504dc685ff87a44",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1344147915,
-    "wof:lastmodified":1537628399,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613174162,
     "wof:name":"Kewarasan",
     "wof:parent_id":102072639,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.73111000000002,
+    109.73111,
     -7.49139,
-    109.73111000000002,
+    109.73111,
     -7.49139
 ],
-  "geometry": {"coordinates":[109.73111000000002,-7.49139],"type":"Point"}
+  "geometry": {"coordinates":[109.73111,-7.49139],"type":"Point"}
 }

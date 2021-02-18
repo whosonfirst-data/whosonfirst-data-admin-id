@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072947
+        102072947,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6405955
     },
     "wof:country":"ID",
-    "wof:geomhash":"cfa6eaff881e8c2f8c9a092b6760dab2",
+    "wof:geomhash":"cfc3de767b7dc23b21802a2d0d159bf9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1243088303,
-    "wof:lastmodified":1537628945,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613182938,
     "wof:name":"Pagah",
     "wof:parent_id":102072947,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.07193999999998,
+    111.07194,
     -7.93944,
-    111.07193999999998,
+    111.07194,
     -7.93944
 ],
-  "geometry": {"coordinates":[111.07193999999998,-7.93944],"type":"Point"}
+  "geometry": {"coordinates":[111.07194,-7.93944],"type":"Point"}
 }

@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672009,
-        1108796809
+        1108796809,
+        85672009
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7665840
     },
     "wof:country":"ID",
-    "wof:geomhash":"9646b083d37ccac91a81ece90ab06811",
+    "wof:geomhash":"ba984c3fe337f8a5b7e80e9e0345d8ec",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1259453119,
-    "wof:lastmodified":1537634193,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185090,
     "wof:name":"Cibalong",
     "wof:parent_id":1108796809,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    105.08471000000002,
+    105.08471,
     -5.58779,
-    105.08471000000002,
+    105.08471,
     -5.58779
 ],
-  "geometry": {"coordinates":[105.08471000000002,-5.58779],"type":"Point"}
+  "geometry": {"coordinates":[105.08471,-5.58779],"type":"Point"}
 }

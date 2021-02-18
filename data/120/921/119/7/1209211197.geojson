@@ -34,7 +34,7 @@
         "gn:id":2006505
     },
     "wof:country":"ID",
-    "wof:geomhash":"a4d727a2f8fc699c0677c9c292981820",
+    "wof:geomhash":"fa1161bf88d362f99009419b196011d3",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209211197,
-    "wof:lastmodified":1536294286,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179462,
     "wof:name":"Banarejo",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -52,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.58556000000002,
-    -7.6638899999999985,
-    110.58556000000002,
-    -7.6638899999999985
+    110.58556,
+    -7.66389,
+    110.58556,
+    -7.66389
 ],
-  "geometry": {"coordinates":[110.58556000000002,-7.66389],"type":"Point"}
+  "geometry": {"coordinates":[110.58556,-7.66389],"type":"Point"}
 }

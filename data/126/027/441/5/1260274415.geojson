@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072947
+        102072947,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6405876
     },
     "wof:country":"ID",
-    "wof:geomhash":"dab909d207e398f8481ced7c52f20984",
+    "wof:geomhash":"85d3f3bcef6051528b3c851ec2efa448",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1260274415,
-    "wof:lastmodified":1537628942,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613180443,
     "wof:name":"Sawit Lor",
     "wof:parent_id":102072947,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.10611000000002,
+    111.10611,
     -7.89056,
-    111.10611000000002,
+    111.10611,
     -7.89056
 ],
-  "geometry": {"coordinates":[111.10611000000002,-7.89056],"type":"Point"}
+  "geometry": {"coordinates":[111.10611,-7.89056],"type":"Point"}
 }

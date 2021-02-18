@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072733
+        102072733,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1935359
     },
     "wof:country":"ID",
-    "wof:geomhash":"fe9001f138c54b28b0937644f5f83ed2",
+    "wof:geomhash":"b16ab13e36fcdeacb238cb11cc566c38",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1260172441,
-    "wof:lastmodified":1536861763,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613180496,
     "wof:name":"Gulunan",
     "wof:parent_id":102072733,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.98111000000002,
+    110.98111,
     -7.54694,
-    110.98111000000002,
+    110.98111,
     -7.54694
 ],
-  "geometry": {"coordinates":[110.98111000000002,-7.54694],"type":"Point"}
+  "geometry": {"coordinates":[110.98111,-7.54694],"type":"Point"}
 }

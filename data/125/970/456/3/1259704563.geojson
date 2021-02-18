@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072983
+        102072983,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6411191
     },
     "wof:country":"ID",
-    "wof:geomhash":"266322e1890be8b68332514ba6c6f18d",
+    "wof:geomhash":"90836a059dac5f0e1ae8c68b22d59508",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,7 +54,14 @@
         }
     ],
     "wof:id":1259704563,
-    "wof:lastmodified":1564202776,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613184598,
     "wof:name":"Tarup",
     "wof:parent_id":102072983,
     "wof:placetype":"locality",
@@ -64,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.80861000000002,
+    110.80861,
     -7.23639,
-    110.80861000000002,
+    110.80861,
     -7.23639
 ],
-  "geometry": {"coordinates":[110.80861000000002,-7.23639],"type":"Point"}
+  "geometry": {"coordinates":[110.80861,-7.23639],"type":"Point"}
 }

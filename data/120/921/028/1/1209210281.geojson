@@ -34,7 +34,7 @@
         "gn:id":1972181
     },
     "wof:country":"ID",
-    "wof:geomhash":"c5b143a91925ca74cf0e4ebe6a1bbd91",
+    "wof:geomhash":"200ea10422c807ab355b27c89e5d2013",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209210281,
-    "wof:lastmodified":1536294314,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179468,
     "wof:name":"Lesanpuro",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     112.66722,
-    -7.993060000000002,
+    -7.99306,
     112.66722,
-    -7.993060000000002
+    -7.99306
 ],
   "geometry": {"coordinates":[112.66722,-7.99306],"type":"Point"}
 }

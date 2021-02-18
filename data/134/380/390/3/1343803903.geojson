@@ -59,15 +59,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073505
+        102073505,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6397094
     },
     "wof:country":"ID",
-    "wof:geomhash":"1b49d2c7b9fb89cd137d451f08892584",
+    "wof:geomhash":"b1d59341985bf6309eb2a3120f2e0756",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +78,14 @@
         }
     ],
     "wof:id":1343803903,
-    "wof:lastmodified":1564175288,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175155,
     "wof:name":"Tripel",
     "wof:parent_id":102073505,
     "wof:placetype":"locality",
@@ -88,10 +95,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.42638999999998,
+    108.42639,
     -6.74361,
-    108.42638999999998,
+    108.42639,
     -6.74361
 ],
-  "geometry": {"coordinates":[108.42638999999998,-6.74361],"type":"Point"}
+  "geometry": {"coordinates":[108.42639,-6.74361],"type":"Point"}
 }

@@ -34,15 +34,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671995,
-        1108796785
+        1108796785,
+        85671995
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1959109
     },
     "wof:country":"ID",
-    "wof:geomhash":"8bb892cf618ded252ef553150732d2f1",
+    "wof:geomhash":"acc11204fe3f525532c6568ad48bbed6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +53,14 @@
         }
     ],
     "wof:id":1326740249,
-    "wof:lastmodified":1537627488,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613172416,
     "wof:name":"Pabuaran Tiga",
     "wof:parent_id":1108796785,
     "wof:placetype":"locality",
@@ -63,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.64388999999998,
+    106.64389,
     -6.19778,
-    106.64388999999998,
+    106.64389,
     -6.19778
 ],
-  "geometry": {"coordinates":[106.64388999999998,-6.19778],"type":"Point"}
+  "geometry": {"coordinates":[106.64389,-6.19778],"type":"Point"}
 }

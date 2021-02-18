@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102072775
+        102072775,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6410471
     },
     "wof:country":"ID",
-    "wof:geomhash":"b5bae0de13254516f0d66deb46799ad5",
+    "wof:geomhash":"d2c9b35014811c799f49de7a6a76ce1d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1310201519,
-    "wof:lastmodified":1537629078,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181249,
     "wof:name":"Pelosorejo",
     "wof:parent_id":102072775,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.30306000000002,
+    111.30306,
     -7.42333,
-    111.30306000000002,
+    111.30306,
     -7.42333
 ],
-  "geometry": {"coordinates":[111.30306000000002,-7.42333],"type":"Point"}
+  "geometry": {"coordinates":[111.30306,-7.42333],"type":"Point"}
 }

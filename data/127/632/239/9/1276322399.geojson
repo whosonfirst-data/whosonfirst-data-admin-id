@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073265
+        102073265,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2011930
     },
     "wof:country":"ID",
-    "wof:geomhash":"60c63d045a5a987abcb56954a28c83c0",
+    "wof:geomhash":"35e6e42e36edc2851c36601299852902",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1276322399,
-    "wof:lastmodified":1536793692,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177526,
     "wof:name":"Betakan",
     "wof:parent_id":102073265,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.23888999999998,
+    110.23889,
     -7.78667,
-    110.23888999999998,
+    110.23889,
     -7.78667
 ],
-  "geometry": {"coordinates":[110.23888999999998,-7.78667],"type":"Point"}
+  "geometry": {"coordinates":[110.23889,-7.78667],"type":"Point"}
 }

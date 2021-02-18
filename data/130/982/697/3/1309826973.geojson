@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072857
+        102072857,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6260845
     },
     "wof:country":"ID",
-    "wof:geomhash":"e76739df40769bad4a53d484a9e0c4c2",
+    "wof:geomhash":"9318d03f390056f9d62278cfd55078c3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1309826973,
-    "wof:lastmodified":1536900699,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613182349,
     "wof:name":"Ganjuran Satu",
     "wof:parent_id":102072857,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.20638999999998,
+    110.20639,
     -7.61722,
-    110.20638999999998,
+    110.20639,
     -7.61722
 ],
-  "geometry": {"coordinates":[110.20638999999998,-7.61722],"type":"Point"}
+  "geometry": {"coordinates":[110.20639,-7.61722],"type":"Point"}
 }

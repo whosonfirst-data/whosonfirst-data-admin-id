@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073295
+        102073295,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6582342
     },
     "wof:country":"ID",
-    "wof:geomhash":"1cb90686cd2a6c550a2f1aa1094edd8a",
+    "wof:geomhash":"c3ced86ad90daa4c15b45b1cefe97a0e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1209776111,
-    "wof:lastmodified":1537629497,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178616,
     "wof:name":"Panyesogan",
     "wof:parent_id":102073295,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.81638999999998,
+    107.81639,
     -6.7175,
-    107.81638999999998,
+    107.81639,
     -6.7175
 ],
-  "geometry": {"coordinates":[107.81638999999998,-6.7175],"type":"Point"}
+  "geometry": {"coordinates":[107.81639,-6.7175],"type":"Point"}
 }

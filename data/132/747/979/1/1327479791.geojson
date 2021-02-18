@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073217
+        102073217,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6589878
     },
     "wof:country":"ID",
-    "wof:geomhash":"06fbc645d2e8e23ee96bfcdf03697606",
+    "wof:geomhash":"4fe3744e886adc0835fb5d25ba10fe1a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1327479791,
-    "wof:lastmodified":1537629657,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613172755,
     "wof:name":"Gombonglega Wetan",
     "wof:parent_id":102073217,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.03806000000002,
+    107.03806,
     -6.65889,
-    107.03806000000002,
+    107.03806,
     -6.65889
 ],
-  "geometry": {"coordinates":[107.03806000000002,-6.65889],"type":"Point"}
+  "geometry": {"coordinates":[107.03806,-6.65889],"type":"Point"}
 }

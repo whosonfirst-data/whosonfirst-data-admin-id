@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102073063
+        102073063,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6771482
     },
     "wof:country":"ID",
-    "wof:geomhash":"1b05e02d68ab4eaf40ef33a1c0c452f9",
+    "wof:geomhash":"688a4ad6d28f5e1483e260f7f8d359b6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1343480387,
-    "wof:lastmodified":1537631588,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613174377,
     "wof:name":"Jatilebar",
     "wof:parent_id":102073063,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    112.99448999999998,
+    112.99449,
     -7.12153,
-    112.99448999999998,
+    112.99449,
     -7.12153
 ],
-  "geometry": {"coordinates":[112.99448999999998,-7.12153],"type":"Point"}
+  "geometry": {"coordinates":[112.99449,-7.12153],"type":"Point"}
 }

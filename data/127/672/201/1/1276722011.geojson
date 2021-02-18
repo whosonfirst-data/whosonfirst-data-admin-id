@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072937
+        102072937,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6594760
     },
     "wof:country":"ID",
-    "wof:geomhash":"2e00e60db6796195bdcd3bf82e27c894",
+    "wof:geomhash":"1fc03ceadedd9a9fa9489278f2d774c5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1276722011,
-    "wof:lastmodified":1537629803,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177054,
     "wof:name":"Saptamarga",
     "wof:parent_id":102072937,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.30306000000002,
+    107.30306,
     -6.33889,
-    107.30306000000002,
+    107.30306,
     -6.33889
 ],
-  "geometry": {"coordinates":[107.30306000000002,-6.33889],"type":"Point"}
+  "geometry": {"coordinates":[107.30306,-6.33889],"type":"Point"}
 }

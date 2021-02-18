@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072739
+        102072739,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6582793
     },
     "wof:country":"ID",
-    "wof:geomhash":"9e40689561a5079570cbb94a7899f04e",
+    "wof:geomhash":"0d4e33ed0e433d50dbcaf6d7dfd27f37",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1293539221,
-    "wof:lastmodified":1537629510,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175453,
     "wof:name":"Kaum Tengah",
     "wof:parent_id":102072739,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.07193999999998,
+    108.07194,
     -6.92056,
-    108.07193999999998,
+    108.07194,
     -6.92056
 ],
-  "geometry": {"coordinates":[108.07193999999998,-6.92056],"type":"Point"}
+  "geometry": {"coordinates":[108.07194,-6.92056],"type":"Point"}
 }

@@ -34,7 +34,7 @@
         "gn:id":2006663
     },
     "wof:country":"ID",
-    "wof:geomhash":"744649dc2c9c7088cfe20b4e439bfafc",
+    "wof:geomhash":"9de8828b3c0beda45fedde5df4633ff2",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209405917,
-    "wof:lastmodified":1536287997,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178770,
     "wof:name":"Geneng",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     110.56139,
-    -7.681389999999999,
+    -7.68139,
     110.56139,
-    -7.681389999999999
+    -7.68139
 ],
   "geometry": {"coordinates":[110.56139,-7.68139],"type":"Point"}
 }

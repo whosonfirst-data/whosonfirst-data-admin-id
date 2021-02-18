@@ -34,7 +34,7 @@
         "gn:id":6252470
     },
     "wof:country":"ID",
-    "wof:geomhash":"4aa1ece6551965c1c5af33e7b0558f8b",
+    "wof:geomhash":"be9b535b78547941d0b8b698fb6cc61c",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209435677,
-    "wof:lastmodified":1536287112,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179540,
     "wof:name":"Krajan",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     110.55944,
-    -7.385280000000002,
+    -7.38528,
     110.55944,
-    -7.385280000000002
+    -7.38528
 ],
   "geometry": {"coordinates":[110.55944,-7.38528],"type":"Point"}
 }

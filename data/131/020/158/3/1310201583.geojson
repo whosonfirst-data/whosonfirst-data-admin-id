@@ -34,15 +34,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102073017
+        102073017,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1972167
     },
     "wof:country":"ID",
-    "wof:geomhash":"bfcd980c0dd20545820a4b522244bd6e",
+    "wof:geomhash":"0be51deb38692a935c6ea7a904fe5346",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +53,14 @@
         }
     ],
     "wof:id":1310201583,
-    "wof:lastmodified":1537628070,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181248,
     "wof:name":"Cemorokandang",
     "wof:parent_id":102073017,
     "wof:placetype":"locality",
@@ -63,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    112.69861000000002,
+    112.69861,
     -7.99111,
-    112.69861000000002,
+    112.69861,
     -7.99111
 ],
-  "geometry": {"coordinates":[112.69861000000002,-7.99111],"type":"Point"}
+  "geometry": {"coordinates":[112.69861,-7.99111],"type":"Point"}
 }

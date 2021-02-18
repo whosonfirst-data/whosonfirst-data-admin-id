@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672037,
-        102073481
+        102073481,
+        85672037
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1937117
     },
     "wof:country":"ID",
-    "wof:geomhash":"d2d519f70a41606bbd9e40c18516a252",
+    "wof:geomhash":"0529efaba0a569c90bd12c614ffe8073",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1193099821,
-    "wof:lastmodified":1536384570,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179761,
     "wof:name":"Haukase",
     "wof:parent_id":102073481,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    124.88443999999998,
+    124.88444,
     -9.48528,
-    124.88443999999998,
+    124.88444,
     -9.48528
 ],
-  "geometry": {"coordinates":[124.88443999999998,-9.48528],"type":"Point"}
+  "geometry": {"coordinates":[124.88444,-9.48528],"type":"Point"}
 }

@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672067,
-        102073049
+        102073049,
+        85672067
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1641505
     },
     "wof:country":"ID",
-    "wof:geomhash":"bcaf7092752075816fdbf371439d2d2d",
+    "wof:geomhash":"c4f4a34d31b5b0ea0416fd79d5565324",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1327144199,
-    "wof:lastmodified":1537093643,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613172736,
     "wof:name":"Kanggening",
     "wof:parent_id":102073049,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    132.33333000000002,
+    132.33333,
     -2.78333,
-    132.33333000000002,
+    132.33333,
     -2.78333
 ],
-  "geometry": {"coordinates":[132.33333000000002,-2.78333],"type":"Point"}
+  "geometry": {"coordinates":[132.33332999999999,-2.78333],"type":"Point"}
 }

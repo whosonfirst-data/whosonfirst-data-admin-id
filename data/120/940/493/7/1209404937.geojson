@@ -34,7 +34,7 @@
         "gn:id":1971143
     },
     "wof:country":"ID",
-    "wof:geomhash":"d951ea3844ffe888ead14dacf205c3b4",
+    "wof:geomhash":"fb538e640bf7599d895d62632c42d154",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209404937,
-    "wof:lastmodified":1536288025,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178773,
     "wof:name":"Antatar",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     112.87417,
-    -7.108060000000001,
+    -7.10806,
     112.87417,
-    -7.108060000000001
+    -7.10806
 ],
   "geometry": {"coordinates":[112.87417000000001,-7.10806],"type":"Point"}
 }

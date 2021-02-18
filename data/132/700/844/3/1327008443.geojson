@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073265
+        102073265,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6264580
     },
     "wof:country":"ID",
-    "wof:geomhash":"96e2bea755e26f418e5443277282bfe0",
+    "wof:geomhash":"1a6e55553a12a0920affddaa0b5ac2ec",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1327008443,
-    "wof:lastmodified":1536795360,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613172237,
     "wof:name":"Pajangan",
     "wof:parent_id":102073265,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.36556000000002,
+    110.36556,
     -7.71528,
-    110.36556000000002,
+    110.36556,
     -7.71528
 ],
-  "geometry": {"coordinates":[110.36556000000002,-7.71528],"type":"Point"}
+  "geometry": {"coordinates":[110.36556,-7.71528],"type":"Point"}
 }

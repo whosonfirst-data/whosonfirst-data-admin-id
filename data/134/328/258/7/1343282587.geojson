@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072947
+        102072947,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6255231
     },
     "wof:country":"ID",
-    "wof:geomhash":"0a4f0748b6ac93fbf5d3b81b4ace27c7",
+    "wof:geomhash":"a73ba4cc658b74c1e16d50460ce94467",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1343282587,
-    "wof:lastmodified":1537002264,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175189,
     "wof:name":"Mandean",
     "wof:parent_id":102072947,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.83138999999998,
+    110.83139,
     -7.99833,
-    110.83138999999998,
+    110.83139,
     -7.99833
 ],
-  "geometry": {"coordinates":[110.83138999999998,-7.99833],"type":"Point"}
+  "geometry": {"coordinates":[110.83139,-7.99833],"type":"Point"}
 }

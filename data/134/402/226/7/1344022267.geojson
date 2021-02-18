@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672111,
-        102073015
+        102073015,
+        85672111
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1978174
     },
     "wof:country":"ID",
-    "wof:geomhash":"c8a7106e38bd544944eab89c9d691a37",
+    "wof:geomhash":"6da99f2e4b100d778e725248ffe082cf",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1344022267,
-    "wof:lastmodified":1536931619,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175021,
     "wof:name":"Bonebalantak",
     "wof:parent_id":102073015,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    122.46056000000002,
+    122.46056,
     -1.35944,
-    122.46056000000002,
+    122.46056,
     -1.35944
 ],
-  "geometry": {"coordinates":[122.46056000000002,-1.35944],"type":"Point"}
+  "geometry": {"coordinates":[122.46056,-1.35944],"type":"Point"}
 }

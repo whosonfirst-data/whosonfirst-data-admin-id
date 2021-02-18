@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073359
+        102073359,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7848169
     },
     "wof:country":"ID",
-    "wof:geomhash":"5990eab231e1cf83404b95782e23c2f4",
+    "wof:geomhash":"55084583b3629fb2f39b950e967ca78b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1276506995,
-    "wof:lastmodified":1537634561,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177637,
     "wof:name":"Walahar",
     "wof:parent_id":102073359,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.85486000000002,
+    107.85486,
     -7.67958,
-    107.85486000000002,
+    107.85486,
     -7.67958
 ],
-  "geometry": {"coordinates":[107.85486000000002,-7.67958],"type":"Point"}
+  "geometry": {"coordinates":[107.85486,-7.67958],"type":"Point"}
 }

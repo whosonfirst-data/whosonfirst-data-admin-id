@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073551
+        102073551,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1644366
     },
     "wof:country":"ID",
-    "wof:geomhash":"62ff4887af7f6909730250c3b7e8dc39",
+    "wof:geomhash":"7893f50458b3ed8ec8bd45e21aa0eb2c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,7 +54,14 @@
         }
     ],
     "wof:id":1243132377,
-    "wof:lastmodified":1537627117,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183459,
     "wof:name":"Gebangmalang Dua",
     "wof:parent_id":102073551,
     "wof:placetype":"locality",
@@ -64,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.11388999999998,
+    107.11389,
     -6.41806,
-    107.11388999999998,
+    107.11389,
     -6.41806
 ],
-  "geometry": {"coordinates":[107.11388999999998,-6.41806],"type":"Point"}
+  "geometry": {"coordinates":[107.11389,-6.41806],"type":"Point"}
 }

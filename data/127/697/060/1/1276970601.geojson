@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072611
+        102072611,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6561415
     },
     "wof:country":"ID",
-    "wof:geomhash":"8dcf9551d3c9ad88dba47992c73decd1",
+    "wof:geomhash":"e7ec3732fb1f70697db7e960912f46fd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1276970601,
-    "wof:lastmodified":1537629154,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178076,
     "wof:name":"Centong",
     "wof:parent_id":102072611,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.23111000000002,
+    111.23111,
     -7.12917,
-    111.23111000000002,
+    111.23111,
     -7.12917
 ],
-  "geometry": {"coordinates":[111.23111000000002,-7.12917],"type":"Point"}
+  "geometry": {"coordinates":[111.23111,-7.12917],"type":"Point"}
 }

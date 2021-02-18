@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072947
+        102072947,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6407270
     },
     "wof:country":"ID",
-    "wof:geomhash":"c2c3a4d31532cda801e11954df9c5fe3",
+    "wof:geomhash":"d6b8beb6e7a770bb58e8c097d17d9a0b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1259779665,
-    "wof:lastmodified":1537628986,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613184536,
     "wof:name":"Wotglinggang Wetan",
     "wof:parent_id":102072947,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.23888999999998,
+    111.23889,
     -7.84472,
-    111.23888999999998,
+    111.23889,
     -7.84472
 ],
-  "geometry": {"coordinates":[111.23888999999998,-7.84472],"type":"Point"}
+  "geometry": {"coordinates":[111.23889,-7.84472],"type":"Point"}
 }

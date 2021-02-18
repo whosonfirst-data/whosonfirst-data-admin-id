@@ -36,15 +36,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671995,
-        102072687
+        102072687,
+        85671995
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1960725
     },
     "wof:country":"ID",
-    "wof:geomhash":"0639d9cf5aae79f97ecafc325abd3601",
+    "wof:geomhash":"19d29b6131bf0b568318947f0f47549f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -55,7 +55,14 @@
         }
     ],
     "wof:id":1326876243,
-    "wof:lastmodified":1537627573,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613172445,
     "wof:name":"Tangkele",
     "wof:parent_id":102072687,
     "wof:placetype":"locality",
@@ -65,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.39943999999998,
+    106.39944,
     -6.29583,
-    106.39943999999998,
+    106.39944,
     -6.29583
 ],
-  "geometry": {"coordinates":[106.39943999999998,-6.29583],"type":"Point"}
+  "geometry": {"coordinates":[106.39944,-6.29583],"type":"Point"}
 }

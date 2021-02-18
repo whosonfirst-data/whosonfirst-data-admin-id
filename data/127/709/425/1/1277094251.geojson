@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073189
+        102073189,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6564851
     },
     "wof:country":"ID",
-    "wof:geomhash":"c2e0f3f1187ef3cf6ec56103b0a06fcb",
+    "wof:geomhash":"f91de994d7c2b9f0bc91c76d90b44a83",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1277094251,
-    "wof:lastmodified":1537629244,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613176957,
     "wof:name":"Wuluh",
     "wof:parent_id":102073189,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.54361000000002,
+    110.54361,
     -8.07667,
-    110.54361000000002,
+    110.54361,
     -8.07667
 ],
-  "geometry": {"coordinates":[110.54361000000002,-8.07667],"type":"Point"}
+  "geometry": {"coordinates":[110.54361,-8.07667],"type":"Point"}
 }

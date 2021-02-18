@@ -36,15 +36,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671995,
-        102072687
+        102072687,
+        85671995
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1646515
     },
     "wof:country":"ID",
-    "wof:geomhash":"c84ad50f7a54e976bf7305bc62129f68",
+    "wof:geomhash":"17815574c9348196ea2167467609f37d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -55,7 +55,14 @@
         }
     ],
     "wof:id":1276378921,
-    "wof:lastmodified":1537627199,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178088,
     "wof:name":"Cileduk 1",
     "wof:parent_id":102072687,
     "wof:placetype":"locality",
@@ -65,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.66861000000002,
+    106.66861,
     -6.26417,
-    106.66861000000002,
+    106.66861,
     -6.26417
 ],
-  "geometry": {"coordinates":[106.66861000000002,-6.26417],"type":"Point"}
+  "geometry": {"coordinates":[106.66861,-6.26417],"type":"Point"}
 }

@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072947
+        102072947,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6255233
     },
     "wof:country":"ID",
-    "wof:geomhash":"f1befaf06166055f11cf226c186388e3",
+    "wof:geomhash":"6c49ba8e10e2a326464d6223a3907a04",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1326851021,
-    "wof:lastmodified":1537020824,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613173033,
     "wof:name":"Lanang",
     "wof:parent_id":102072947,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.86388999999998,
+    110.86389,
     -7.99667,
-    110.86388999999998,
+    110.86389,
     -7.99667
 ],
-  "geometry": {"coordinates":[110.86388999999998,-7.99667],"type":"Point"}
+  "geometry": {"coordinates":[110.86389,-7.99667],"type":"Point"}
 }

@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073187
+        102073187,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6565828
     },
     "wof:country":"ID",
-    "wof:geomhash":"66911a3bb4265b0f7f30ac44a4116abb",
+    "wof:geomhash":"d12c1eaa9259a9fce77e389445e0fd7c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1259379231,
-    "wof:lastmodified":1537629272,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613184380,
     "wof:name":"Pakuwon",
     "wof:parent_id":102073187,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.83138999999998,
+    109.83139,
     -7.69611,
-    109.83138999999998,
+    109.83139,
     -7.69611
 ],
-  "geometry": {"coordinates":[109.83138999999998,-7.69611],"type":"Point"}
+  "geometry": {"coordinates":[109.83139,-7.69611],"type":"Point"}
 }

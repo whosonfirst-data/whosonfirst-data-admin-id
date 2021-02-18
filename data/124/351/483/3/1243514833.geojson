@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073411
+        102073411,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6597019
     },
     "wof:country":"ID",
-    "wof:geomhash":"76bbdbd02e1e43a1a2c5e1095fb0c642",
+    "wof:geomhash":"e2e17f4a9283e84b6d6cb9e4f07f9318",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1243514833,
-    "wof:lastmodified":1537629871,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183661,
     "wof:name":"Rancamaya Tengah",
     "wof:parent_id":102073411,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.83138999999998,
+    106.83139,
     -6.67111,
-    106.83138999999998,
+    106.83139,
     -6.67111
 ],
-  "geometry": {"coordinates":[106.83138999999998,-6.67111],"type":"Point"}
+  "geometry": {"coordinates":[106.83139,-6.67111],"type":"Point"}
 }

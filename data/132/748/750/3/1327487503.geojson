@@ -41,15 +41,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671995,
-        102073209
+        102073209,
+        85671995
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7787755
     },
     "wof:country":"ID",
-    "wof:geomhash":"446a7e3f142c373aea5a95f2f3e9d389",
+    "wof:geomhash":"751642fe4a89c082cd46f20ced03ccb7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -60,7 +60,14 @@
         }
     ],
     "wof:id":1327487503,
-    "wof:lastmodified":1564169194,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613172842,
     "wof:name":"Neglasari",
     "wof:parent_id":102073209,
     "wof:placetype":"locality",
@@ -70,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.06338999999998,
+    106.06339,
     -6.7611,
-    106.06338999999998,
+    106.06339,
     -6.7611
 ],
-  "geometry": {"coordinates":[106.06338999999998,-6.7611],"type":"Point"}
+  "geometry": {"coordinates":[106.06339,-6.7611],"type":"Point"}
 }

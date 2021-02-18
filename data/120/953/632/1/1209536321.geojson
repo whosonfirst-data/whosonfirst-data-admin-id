@@ -34,7 +34,7 @@
         "gn:id":6252855
     },
     "wof:country":"ID",
-    "wof:geomhash":"e21c46e2f9cb5885f61a14bb4ccf6a6e",
+    "wof:geomhash":"d185bc16ae023c0ee119d4ea6719eac4",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209536321,
-    "wof:lastmodified":1536284130,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178351,
     "wof:name":"Kalisari",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     110.52611,
-    -7.436669999999999,
+    -7.43667,
     110.52611,
-    -7.436669999999999
+    -7.43667
 ],
   "geometry": {"coordinates":[110.52611,-7.43667],"type":"Point"}
 }

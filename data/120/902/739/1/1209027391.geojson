@@ -34,7 +34,7 @@
         "gn:id":6258990
     },
     "wof:country":"ID",
-    "wof:geomhash":"74dc13a843ca03c5bdc9873ad1f01246",
+    "wof:geomhash":"e166b2ab21fd2164f311bc941da6d69b",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209027391,
-    "wof:lastmodified":1536299954,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179204,
     "wof:name":"Bendan",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     110.32167,
-    -7.556669999999999,
+    -7.55667,
     110.32167,
-    -7.556669999999999
+    -7.55667
 ],
   "geometry": {"coordinates":[110.32167,-7.55667],"type":"Point"}
 }

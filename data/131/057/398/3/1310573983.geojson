@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672009,
-        1108796811
+        1108796811,
+        85672009
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7666447
     },
     "wof:country":"ID",
-    "wof:geomhash":"8db3f69f938abf6974c4f2d8e3cd6e74",
+    "wof:geomhash":"bcf5c9c1268525df591c9e5827036198",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1310573983,
-    "wof:lastmodified":1537634212,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181556,
     "wof:name":"Wonokriyo",
     "wof:parent_id":1108796811,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    105.05438999999998,
+    105.05439,
     -5.37195,
-    105.05438999999998,
+    105.05439,
     -5.37195
 ],
-  "geometry": {"coordinates":[105.05438999999998,-5.37195],"type":"Point"}
+  "geometry": {"coordinates":[105.05439,-5.37195],"type":"Point"}
 }

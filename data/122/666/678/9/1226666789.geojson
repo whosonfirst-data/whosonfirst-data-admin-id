@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072709
+        102072709,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1972562
     },
     "wof:country":"ID",
-    "wof:geomhash":"9ddbed045b65b538533a0d5a590394dc",
+    "wof:geomhash":"25c57a7607611ff60b92a18628fa3c98",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1226666789,
-    "wof:lastmodified":1537628082,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185770,
     "wof:name":"Krandon",
     "wof:parent_id":102072709,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.51888999999998,
+    110.51889,
     -7.22472,
-    110.51888999999998,
+    110.51889,
     -7.22472
 ],
-  "geometry": {"coordinates":[110.51888999999998,-7.22472],"type":"Point"}
+  "geometry": {"coordinates":[110.51889,-7.22472],"type":"Point"}
 }

@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073313
+        102073313,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2003245
     },
     "wof:country":"ID",
-    "wof:geomhash":"5887dedff683f185a3b31a70b06d8ad5",
+    "wof:geomhash":"60ce4e3c3c7be6458e6a25dc644de5ca",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1209894757,
-    "wof:lastmodified":1536389128,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179398,
     "wof:name":"Cubung",
     "wof:parent_id":102073313,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.25943999999998,
+    110.25944,
     -7.98389,
-    110.25943999999998,
+    110.25944,
     -7.98389
 ],
-  "geometry": {"coordinates":[110.25943999999998,-7.98389],"type":"Point"}
+  "geometry": {"coordinates":[110.25944,-7.98389],"type":"Point"}
 }

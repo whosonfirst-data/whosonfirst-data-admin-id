@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072855
+        102072855,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6601353
     },
     "wof:country":"ID",
-    "wof:geomhash":"1dcdf87086f24bd2e627e8e189f83e47",
+    "wof:geomhash":"fc0958e5b6bb187b2378ef3826b99842",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1276399327,
-    "wof:lastmodified":1537629981,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178111,
     "wof:name":"Wangun",
     "wof:parent_id":102072855,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.78943999999998,
+    106.78944,
     -6.91167,
-    106.78943999999998,
+    106.78944,
     -6.91167
 ],
-  "geometry": {"coordinates":[106.78943999999998,-6.91167],"type":"Point"}
+  "geometry": {"coordinates":[106.78944,-6.91167],"type":"Point"}
 }

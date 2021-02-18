@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102073397
+        102073397,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1906312
     },
     "wof:country":"ID",
-    "wof:geomhash":"f857c73a742a2d7d74981e9f3a355f9c",
+    "wof:geomhash":"31363b31a6504afbe0661ffeeea69cd7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1292925355,
-    "wof:lastmodified":1536600136,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175638,
     "wof:name":"Bagongsabrangan",
     "wof:parent_id":102073397,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    112.75943999999998,
+    112.75944,
     -7.27861,
-    112.75943999999998,
+    112.75944,
     -7.27861
 ],
-  "geometry": {"coordinates":[112.75943999999998,-7.27861],"type":"Point"}
+  "geometry": {"coordinates":[112.75944,-7.27861],"type":"Point"}
 }

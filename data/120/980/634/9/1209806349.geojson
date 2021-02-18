@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072647
+        102072647,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6562395
     },
     "wof:country":"ID",
-    "wof:geomhash":"d942834a2e16c82627ac162ed105d22a",
+    "wof:geomhash":"20e5d3c1fe429db956744317afe2efd4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1209806349,
-    "wof:lastmodified":1537629182,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179372,
     "wof:name":"Sapan",
     "wof:parent_id":102072647,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.51888999999998,
+    109.51889,
     -7.135,
-    109.51888999999998,
+    109.51889,
     -7.135
 ],
-  "geometry": {"coordinates":[109.51888999999998,-7.135],"type":"Point"}
+  "geometry": {"coordinates":[109.51889,-7.135],"type":"Point"}
 }

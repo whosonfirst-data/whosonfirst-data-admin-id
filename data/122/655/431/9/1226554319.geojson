@@ -34,15 +34,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672115,
-        102072939
+        102072939,
+        85672115
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2082703
     },
     "wof:country":"ID",
-    "wof:geomhash":"c7c22cd109de5b7bbd20a299a346ce36",
+    "wof:geomhash":"0b34bfaac9eff558cf203272a1e5159d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +53,14 @@
         }
     ],
     "wof:id":1226554319,
-    "wof:lastmodified":1537628282,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613186269,
     "wof:name":"Aruke",
     "wof:parent_id":102072939,
     "wof:placetype":"locality",
@@ -63,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    140.16666999999998,
+    140.16667,
     -7.95,
-    140.16666999999998,
+    140.16667,
     -7.95
 ],
-  "geometry": {"coordinates":[140.16666999999998,-7.95],"type":"Point"}
+  "geometry": {"coordinates":[140.16667000000001,-7.95],"type":"Point"}
 }

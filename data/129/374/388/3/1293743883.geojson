@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073515
+        102073515,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6397316
     },
     "wof:country":"ID",
-    "wof:geomhash":"9b02cea0e263a27c3129bc5251cf4767",
+    "wof:geomhash":"f07501b1ae9afd83c1dd2499d1f8a64c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1293743883,
-    "wof:lastmodified":1537628780,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613176724,
     "wof:name":"Karapyak",
     "wof:parent_id":102073515,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.19693999999998,
+    108.19694,
     -6.81917,
-    108.19693999999998,
+    108.19694,
     -6.81917
 ],
-  "geometry": {"coordinates":[108.19693999999998,-6.81917],"type":"Point"}
+  "geometry": {"coordinates":[108.19694,-6.81917],"type":"Point"}
 }

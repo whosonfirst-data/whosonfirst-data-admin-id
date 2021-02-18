@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072855
+        102072855,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6596150
     },
     "wof:country":"ID",
-    "wof:geomhash":"278e515239e6da8b2a80ece6b4dcea78",
+    "wof:geomhash":"1e119011db3edf184c296ff0a52beaf3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1343510907,
-    "wof:lastmodified":1537629840,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613174749,
     "wof:name":"Perum",
     "wof:parent_id":102072855,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.88443999999998,
+    106.88444,
     -6.92944,
-    106.88443999999998,
+    106.88444,
     -6.92944
 ],
-  "geometry": {"coordinates":[106.88443999999998,-6.92944],"type":"Point"}
+  "geometry": {"coordinates":[106.88444,-6.92944],"type":"Point"}
 }

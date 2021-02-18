@@ -34,15 +34,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672097,
-        1108796843
+        1108796843,
+        85672097
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1651770
     },
     "wof:country":"ID",
-    "wof:geomhash":"7b36014292e9128ef8a84247bce74d1a",
+    "wof:geomhash":"0a0315291deacf8f616e98c27ae77e02",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +53,14 @@
         }
     ],
     "wof:id":1293897849,
-    "wof:lastmodified":1537627385,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613176600,
     "wof:name":"Air Kasar",
     "wof:parent_id":1108796843,
     "wof:placetype":"locality",
@@ -63,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    130.83333000000002,
+    130.83333,
     -3.55,
-    130.83333000000002,
+    130.83333,
     -3.55
 ],
-  "geometry": {"coordinates":[130.83333000000002,-3.55],"type":"Point"}
+  "geometry": {"coordinates":[130.83332999999999,-3.55],"type":"Point"}
 }

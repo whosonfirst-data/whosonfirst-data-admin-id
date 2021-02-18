@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672037,
-        102072803
+        102072803,
+        85672037
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7609585
     },
     "wof:country":"ID",
-    "wof:geomhash":"207e1354108a7430da052550ff3b1a60",
+    "wof:geomhash":"18a34499dae84fb58310981e5bee9d7d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1276939991,
-    "wof:lastmodified":1537634126,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177452,
     "wof:name":"Paakang",
     "wof:parent_id":102072803,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    120.63958999999998,
+    120.63959,
     -9.89124,
-    120.63958999999998,
+    120.63959,
     -9.89124
 ],
-  "geometry": {"coordinates":[120.63958999999998,-9.89124],"type":"Point"}
+  "geometry": {"coordinates":[120.63959,-9.89124],"type":"Point"}
 }

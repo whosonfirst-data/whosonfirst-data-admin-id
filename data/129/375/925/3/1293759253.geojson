@@ -185,15 +185,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672037,
-        102073331
+        102073331,
+        85672037
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1947197
     },
     "wof:country":"ID",
-    "wof:geomhash":"1e52ea7d744ec9592c39c063278c531c",
+    "wof:geomhash":"668f8b776db3b0b7f667b0152c60c136",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -204,7 +204,14 @@
         }
     ],
     "wof:id":1293759253,
-    "wof:lastmodified":1564179677,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613176828,
     "wof:name":"Poti",
     "wof:parent_id":102073331,
     "wof:placetype":"locality",
@@ -214,10 +221,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    123.77306000000002,
+    123.77306,
     -9.55306,
-    123.77306000000002,
+    123.77306,
     -9.55306
 ],
-  "geometry": {"coordinates":[123.77306000000002,-9.55306],"type":"Point"}
+  "geometry": {"coordinates":[123.77306,-9.55306],"type":"Point"}
 }

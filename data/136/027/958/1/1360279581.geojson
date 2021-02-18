@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073405
+        102073405,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2010834
     },
     "wof:country":"ID",
-    "wof:geomhash":"38d072b500584acf103f597984eec741",
+    "wof:geomhash":"7fcb45473993e027bef0326aa9129995",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1360279581,
-    "wof:lastmodified":1536665130,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181950,
     "wof:name":"Wirocanan",
     "wof:parent_id":102073405,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.72693999999998,
+    110.72694,
     -7.5475,
-    110.72693999999998,
+    110.72694,
     -7.5475
 ],
-  "geometry": {"coordinates":[110.72693999999998,-7.5475],"type":"Point"}
+  "geometry": {"coordinates":[110.72694,-7.5475],"type":"Point"}
 }

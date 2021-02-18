@@ -34,15 +34,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672115,
-        102072957
+        102072957,
+        85672115
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1633915
     },
     "wof:country":"ID",
-    "wof:geomhash":"caf1b453b2cfc57568a61887a2c2b0aa",
+    "wof:geomhash":"ca948c53a8d16c3662bc45ba00c04cb3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +53,14 @@
         }
     ],
     "wof:id":1360198995,
-    "wof:lastmodified":1537626793,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613182054,
     "wof:name":"Niugi",
     "wof:parent_id":102072957,
     "wof:placetype":"locality",
@@ -63,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    138.58333000000002,
+    138.58333,
     -1.86667,
-    138.58333000000002,
+    138.58333,
     -1.86667
 ],
-  "geometry": {"coordinates":[138.58333000000002,-1.86667],"type":"Point"}
+  "geometry": {"coordinates":[138.58332999999999,-1.86667],"type":"Point"}
 }

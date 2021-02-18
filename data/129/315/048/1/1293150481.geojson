@@ -36,15 +36,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073551
+        102073551,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1964593
     },
     "wof:country":"ID",
-    "wof:geomhash":"0d88a1d27b1de073d680fe218a8904d7",
+    "wof:geomhash":"9dbafb4bd162f8ce6aa93f8ab9c5e2cb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -55,7 +55,14 @@
         }
     ],
     "wof:id":1293150481,
-    "wof:lastmodified":1537627769,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175878,
     "wof:name":"Pulokecil",
     "wof:parent_id":102073551,
     "wof:placetype":"locality",
@@ -65,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.24056000000002,
+    107.24056,
     -6.19722,
-    107.24056000000002,
+    107.24056,
     -6.19722
 ],
-  "geometry": {"coordinates":[107.24056000000002,-6.19722],"type":"Point"}
+  "geometry": {"coordinates":[107.24056,-6.19722],"type":"Point"}
 }

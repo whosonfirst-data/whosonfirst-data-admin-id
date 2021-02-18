@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672115,
-        1108796871
+        1108796871,
+        85672115
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7649302
     },
     "wof:country":"ID",
-    "wof:geomhash":"be3470d4fb534ad3fcfe684386942bb4",
+    "wof:geomhash":"17aee0512ed326a0175ed5d98162eb79",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1327078525,
-    "wof:lastmodified":1537634175,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613172230,
     "wof:name":"Wasribo",
     "wof:parent_id":1108796871,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    136.60128999999998,
+    136.60129,
     -1.22486,
-    136.60128999999998,
+    136.60129,
     -1.22486
 ],
-  "geometry": {"coordinates":[136.60128999999998,-1.22486],"type":"Point"}
+  "geometry": {"coordinates":[136.60129000000001,-1.22486],"type":"Point"}
 }

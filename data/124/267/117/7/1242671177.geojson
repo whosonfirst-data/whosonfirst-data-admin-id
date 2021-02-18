@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073265
+        102073265,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6265309
     },
     "wof:country":"ID",
-    "wof:geomhash":"30f3e6514af6f4720efdf68e2a283261",
+    "wof:geomhash":"c056b6ecc27d98e3f4ccdb0bf125369f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1242671177,
-    "wof:lastmodified":1536929727,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183256,
     "wof:name":"Jerukan",
     "wof:parent_id":102073265,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.47556000000002,
+    110.47556,
     -7.70028,
-    110.47556000000002,
+    110.47556,
     -7.70028
 ],
-  "geometry": {"coordinates":[110.47556000000002,-7.70028],"type":"Point"}
+  "geometry": {"coordinates":[110.47556,-7.70028],"type":"Point"}
 }

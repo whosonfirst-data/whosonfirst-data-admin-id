@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072733
+        102072733,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1935597
     },
     "wof:country":"ID",
-    "wof:geomhash":"192693b81d39a7d2fd09f349d7c46ffd",
+    "wof:geomhash":"d31eb652fa7dd5fd9f7cb7ec561c6e1b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1343949259,
-    "wof:lastmodified":1537034726,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613174803,
     "wof:name":"Jungkepermai",
     "wof:parent_id":102072733,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.93361000000002,
+    110.93361,
     -7.59889,
-    110.93361000000002,
+    110.93361,
     -7.59889
 ],
-  "geometry": {"coordinates":[110.93361000000002,-7.59889],"type":"Point"}
+  "geometry": {"coordinates":[110.93361,-7.59889],"type":"Point"}
 }

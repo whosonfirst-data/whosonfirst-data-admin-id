@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672111,
-        102073447
+        102073447,
+        85672111
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1629034
     },
     "wof:country":"ID",
-    "wof:geomhash":"5136a49941c35da30033b07ed6bb0002",
+    "wof:geomhash":"ebd6e076ffcb9998fef6ad4a4c3b4998",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,7 +54,14 @@
         }
     ],
     "wof:id":1226106509,
-    "wof:lastmodified":1537626639,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185321,
     "wof:name":"Salumpaga",
     "wof:parent_id":102073447,
     "wof:placetype":"locality",
@@ -64,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    120.98841000000002,
+    120.98841,
     1.33864,
-    120.98841000000002,
+    120.98841,
     1.33864
 ],
-  "geometry": {"coordinates":[120.98841000000002,1.33864],"type":"Point"}
+  "geometry": {"coordinates":[120.98841,1.33864],"type":"Point"}
 }

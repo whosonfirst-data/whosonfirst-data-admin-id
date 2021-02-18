@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671995,
-        1108796785
+        1108796785,
+        85671995
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1990435
     },
     "wof:country":"ID",
-    "wof:geomhash":"3775a7f7bc26feb7d89843220526cb72",
+    "wof:geomhash":"7d8f4a554c096aa8d1cc1fd60f37ccc9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1209962597,
-    "wof:lastmodified":1536371897,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178402,
     "wof:name":"Kampungpulo",
     "wof:parent_id":1108796785,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.69861000000002,
+    106.69861,
     -6.22167,
-    106.69861000000002,
+    106.69861,
     -6.22167
 ],
-  "geometry": {"coordinates":[106.69861000000002,-6.22167],"type":"Point"}
+  "geometry": {"coordinates":[106.69861,-6.22167],"type":"Point"}
 }

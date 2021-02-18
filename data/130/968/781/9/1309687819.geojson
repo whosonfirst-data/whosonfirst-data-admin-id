@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672037,
-        102073481
+        102073481,
+        85672037
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1937159
     },
     "wof:country":"ID",
-    "wof:geomhash":"b98aa2987833075e8c9225ba6be82e84",
+    "wof:geomhash":"5f48769004b1c4e57de2bc26780f5b16",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1309687819,
-    "wof:lastmodified":1536601098,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613182382,
     "wof:name":"Kolouman",
     "wof:parent_id":102073481,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    124.97556000000002,
+    124.97556,
     -9.42806,
-    124.97556000000002,
+    124.97556,
     -9.42806
 ],
-  "geometry": {"coordinates":[124.97556000000002,-9.42806],"type":"Point"}
+  "geometry": {"coordinates":[124.97556,-9.42806],"type":"Point"}
 }

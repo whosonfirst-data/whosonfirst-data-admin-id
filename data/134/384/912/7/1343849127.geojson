@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072611
+        102072611,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6410959
     },
     "wof:country":"ID",
-    "wof:geomhash":"830a46f42eefa2a31ce575cd12e8399d",
+    "wof:geomhash":"286ae8a1d9408c1032089aa1fadfa769",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1343849127,
-    "wof:lastmodified":1537629090,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613174422,
     "wof:name":"Lorejo",
     "wof:parent_id":102072611,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.76888999999998,
+    110.76889,
     -7.12861,
-    110.76888999999998,
+    110.76889,
     -7.12861
 ],
-  "geometry": {"coordinates":[110.76888999999998,-7.12861],"type":"Point"}
+  "geometry": {"coordinates":[110.76889,-7.12861],"type":"Point"}
 }

@@ -32,7 +32,7 @@
         "gn:id":1974236
     },
     "wof:country":"ID",
-    "wof:geomhash":"cec62c32f3d14aec385b6110f037fe9d",
+    "wof:geomhash":"0d51d5146aac81dabcbc69e0d2029529",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1360243345,
-    "wof:lastmodified":1536717819,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181715,
     "wof:name":"Matasi",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
@@ -52,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    122.62111000000002,
+    122.62111,
     -3.96028,
-    122.62111000000002,
+    122.62111,
     -3.96028
 ],
-  "geometry": {"coordinates":[122.62111000000002,-3.96028],"type":"Point"}
+  "geometry": {"coordinates":[122.62111,-3.96028],"type":"Point"}
 }

@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672037,
-        102072751
+        102072751,
+        85672037
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1940505
     },
     "wof:country":"ID",
-    "wof:geomhash":"a3fe18f9a1949fe68693c621d287b1a3",
+    "wof:geomhash":"1b0827ebbd81c282d29e4e73628c1fda",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1310280589,
-    "wof:lastmodified":1536743624,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181365,
     "wof:name":"Oeupun",
     "wof:parent_id":102072751,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    124.80861000000002,
+    124.80861,
     -9.68389,
-    124.80861000000002,
+    124.80861,
     -9.68389
 ],
-  "geometry": {"coordinates":[124.80861000000002,-9.68389],"type":"Point"}
+  "geometry": {"coordinates":[124.80861,-9.68389],"type":"Point"}
 }

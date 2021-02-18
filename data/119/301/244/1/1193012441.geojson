@@ -33,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072857
+        102072857,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1963967
     },
     "wof:country":"ID",
-    "wof:geomhash":"78a35d2e93bd0a112d30c6847346f56e",
+    "wof:geomhash":"1ce28740a84539ddbc7f37e3ab48d801",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,7 +52,14 @@
         }
     ],
     "wof:id":1193012441,
-    "wof:lastmodified":1537627738,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179802,
     "wof:name":"Pucanggunung",
     "wof:parent_id":102072857,
     "wof:placetype":"locality",
@@ -62,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.26111000000002,
+    110.26111,
     -7.41444,
-    110.26111000000002,
+    110.26111,
     -7.41444
 ],
-  "geometry": {"coordinates":[110.26111000000002,-7.41444],"type":"Point"}
+  "geometry": {"coordinates":[110.26111,-7.41444],"type":"Point"}
 }

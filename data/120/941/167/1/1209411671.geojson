@@ -34,7 +34,7 @@
         "gn:id":1970121
     },
     "wof:country":"ID",
-    "wof:geomhash":"3a165c529a02d6dac64877d6ac846fdc",
+    "wof:geomhash":"3df48eb93d432c99549370a06916cc38",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209411671,
-    "wof:lastmodified":1536287818,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178706,
     "wof:name":"Sukodono",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     112.64639,
-    -7.151389999999999,
+    -7.15139,
     112.64639,
-    -7.151389999999999
+    -7.15139
 ],
   "geometry": {"coordinates":[112.64639,-7.15139],"type":"Point"}
 }

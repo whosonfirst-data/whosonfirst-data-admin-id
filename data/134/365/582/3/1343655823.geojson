@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072857
+        102072857,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6260392
     },
     "wof:country":"ID",
-    "wof:geomhash":"dd52ddf25e5299a3b01f2b2f152fee5b",
+    "wof:geomhash":"0af74d7766818d74488ddca691c8dfd9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1343655823,
-    "wof:lastmodified":1536961621,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613173888,
     "wof:name":"Macanan",
     "wof:parent_id":102072857,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.16306000000002,
+    110.16306,
     -7.58167,
-    110.16306000000002,
+    110.16306,
     -7.58167
 ],
-  "geometry": {"coordinates":[110.16306000000002,-7.58167],"type":"Point"}
+  "geometry": {"coordinates":[110.16306,-7.58167],"type":"Point"}
 }

@@ -34,7 +34,7 @@
         "gn:id":6256095
     },
     "wof:country":"ID",
-    "wof:geomhash":"bb7e0790c4d1bbfef0ab6124f4ee141a",
+    "wof:geomhash":"b3efd592629ba7510a8756a6bf9f7312",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209211247,
-    "wof:lastmodified":1536294285,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179472,
     "wof:name":"Pringapus",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     110.84,
-    -7.806389999999999,
+    -7.80639,
     110.84,
-    -7.806389999999999
+    -7.80639
 ],
   "geometry": {"coordinates":[110.84,-7.80639],"type":"Point"}
 }

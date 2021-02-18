@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073193
+        102073193,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6403976
     },
     "wof:country":"ID",
-    "wof:geomhash":"af99b3a70552937e9e5ab06b14333630",
+    "wof:geomhash":"cbbbfabc827fa4f41e5748440a74f7bd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1309855291,
-    "wof:lastmodified":1537628880,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613182321,
     "wof:name":"Cilengkong",
     "wof:parent_id":102073193,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.30861000000002,
+    108.30861,
     -6.49722,
-    108.30861000000002,
+    108.30861,
     -6.49722
 ],
-  "geometry": {"coordinates":[108.30861000000002,-6.49722],"type":"Point"}
+  "geometry": {"coordinates":[108.30861,-6.49722],"type":"Point"}
 }

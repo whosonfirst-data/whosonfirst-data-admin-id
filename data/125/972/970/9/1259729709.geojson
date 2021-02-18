@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073529
+        102073529,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6579262
     },
     "wof:country":"ID",
-    "wof:geomhash":"1f9476cea6da3d982d8cc5309a0e6b38",
+    "wof:geomhash":"9471ef95d99580976b15185145bb308f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1259729709,
-    "wof:lastmodified":1537629419,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185156,
     "wof:name":"Loji",
     "wof:parent_id":102073529,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.13611000000002,
+    107.13611,
     -6.82583,
-    107.13611000000002,
+    107.13611,
     -6.82583
 ],
-  "geometry": {"coordinates":[107.13611000000002,-6.82583],"type":"Point"}
+  "geometry": {"coordinates":[107.13611,-6.82583],"type":"Point"}
 }

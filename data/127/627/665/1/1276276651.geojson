@@ -47,15 +47,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        1108796793
+        1108796793,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1962472
     },
     "wof:country":"ID",
-    "wof:geomhash":"fecdb02014c5457cdf525f840a9334f8",
+    "wof:geomhash":"b0e807f35c9dd24c584540554eae173c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -66,7 +66,14 @@
         }
     ],
     "wof:id":1276276651,
-    "wof:lastmodified":1564181013,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177319,
     "wof:name":"Cinangka",
     "wof:parent_id":1108796793,
     "wof:placetype":"locality",
@@ -76,10 +83,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.36556000000002,
+    107.36556,
     -6.94806,
-    107.36556000000002,
+    107.36556,
     -6.94806
 ],
-  "geometry": {"coordinates":[107.36556000000002,-6.94806],"type":"Point"}
+  "geometry": {"coordinates":[107.36556,-6.94806],"type":"Point"}
 }

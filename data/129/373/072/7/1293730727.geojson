@@ -50,15 +50,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672085,
-        102072885
+        102072885,
+        85672085
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1624598
     },
     "wof:country":"ID",
-    "wof:geomhash":"6c83730c220121842c7258c6e5822d45",
+    "wof:geomhash":"fa6a3251fd257037c88b8add5747d654",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -69,7 +69,14 @@
         }
     ],
     "wof:id":1293730727,
-    "wof:lastmodified":1564179188,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613176650,
     "wof:name":"Tawa",
     "wof:parent_id":102072885,
     "wof:placetype":"locality",
@@ -79,10 +86,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    128.06963000000002,
+    128.06963,
     -0.71758,
-    128.06963000000002,
+    128.06963,
     -0.71758
 ],
-  "geometry": {"coordinates":[128.06963000000002,-0.71758],"type":"Point"}
+  "geometry": {"coordinates":[128.06962999999999,-0.71758],"type":"Point"}
 }

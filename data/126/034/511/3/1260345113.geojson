@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672105,
-        102073461
+        102073461,
+        85672105
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1974220
     },
     "wof:country":"ID",
-    "wof:geomhash":"cd00d19756b51bf97a8601702428171b",
+    "wof:geomhash":"db4b51149387be279a8c22416c3f3fda",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1260345113,
-    "wof:lastmodified":1536627876,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613180627,
     "wof:name":"Rapabinopaka",
     "wof:parent_id":102073461,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    122.53943999999998,
+    122.53944,
     -3.9025,
-    122.53943999999998,
+    122.53944,
     -3.9025
 ],
-  "geometry": {"coordinates":[122.53943999999998,-3.9025],"type":"Point"}
+  "geometry": {"coordinates":[122.53944,-3.9025],"type":"Point"}
 }

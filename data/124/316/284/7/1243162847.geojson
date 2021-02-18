@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072819
+        102072819,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6374005
     },
     "wof:country":"ID",
-    "wof:geomhash":"17ed5ebe4fb8b00a8a67ffaf2bf7916a",
+    "wof:geomhash":"5e39ca6b13fc3eaf860d269a4c4fedde",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1243162847,
-    "wof:lastmodified":1537628416,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613184117,
     "wof:name":"Gununglaban",
     "wof:parent_id":102072819,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.23111000000002,
+    109.23111,
     -7.58944,
-    109.23111000000002,
+    109.23111,
     -7.58944
 ],
-  "geometry": {"coordinates":[109.23111000000002,-7.58944],"type":"Point"}
+  "geometry": {"coordinates":[109.23111,-7.58944],"type":"Point"}
 }

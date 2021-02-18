@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073233
+        102073233,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2007306
     },
     "wof:country":"ID",
-    "wof:geomhash":"fcbbdd0a44aa2b175f0440de2790939b",
+    "wof:geomhash":"51765e002c0631ca5a1e31b9b1c9e8b4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1259704511,
-    "wof:lastmodified":1537035298,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613184598,
     "wof:name":"Karangdukuh",
     "wof:parent_id":102073233,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.57361000000002,
+    110.57361,
     -7.72139,
-    110.57361000000002,
+    110.57361,
     -7.72139
 ],
-  "geometry": {"coordinates":[110.57361000000002,-7.72139],"type":"Point"}
+  "geometry": {"coordinates":[110.57361,-7.72139],"type":"Point"}
 }

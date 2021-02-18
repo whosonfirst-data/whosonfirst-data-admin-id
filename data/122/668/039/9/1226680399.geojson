@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672067,
-        1108796861
+        1108796861,
+        85672067
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":11467831
     },
     "wof:country":"ID",
-    "wof:geomhash":"a4304a5e2f71b12ebd55a2e5561114af",
+    "wof:geomhash":"5bb4d0d4c629ffcc7199d8566c718b5c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1226680399,
-    "wof:lastmodified":1536809198,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185788,
     "wof:name":"Itaro",
     "wof:parent_id":1108796861,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    132.16553000000002,
+    132.16553,
     -1.49946,
-    132.16553000000002,
+    132.16553,
     -1.49946
 ],
-  "geometry": {"coordinates":[132.16553000000002,-1.49946],"type":"Point"}
+  "geometry": {"coordinates":[132.16552999999999,-1.49946],"type":"Point"}
 }

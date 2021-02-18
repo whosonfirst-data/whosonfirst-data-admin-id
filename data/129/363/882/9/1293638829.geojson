@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073193
+        102073193,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1624475
     },
     "wof:country":"ID",
-    "wof:geomhash":"09496e2b1fa826f7090b7131b136be01",
+    "wof:geomhash":"608a31d91153e60b7aaa116a5f6a671a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,7 +54,14 @@
         }
     ],
     "wof:id":1293638829,
-    "wof:lastmodified":1537626495,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175570,
     "wof:name":"Harendongparean",
     "wof:parent_id":102073193,
     "wof:placetype":"locality",
@@ -64,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.01888999999998,
+    108.01889,
     -6.57389,
-    108.01888999999998,
+    108.01889,
     -6.57389
 ],
-  "geometry": {"coordinates":[108.01888999999998,-6.57389],"type":"Point"}
+  "geometry": {"coordinates":[108.01889,-6.57389],"type":"Point"}
 }

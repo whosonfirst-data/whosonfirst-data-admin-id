@@ -44,15 +44,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072739
+        102072739,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6580309
     },
     "wof:country":"ID",
-    "wof:geomhash":"cdd1e1a1a4a3a6d5e98a90de638f3d5d",
+    "wof:geomhash":"0e017b5a340c0160d4375c021a8d91d7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -63,7 +63,14 @@
         }
     ],
     "wof:id":1242626983,
-    "wof:lastmodified":1564200787,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183938,
     "wof:name":"Amri",
     "wof:parent_id":102072739,
     "wof:placetype":"locality",
@@ -73,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.05138999999998,
+    108.05139,
     -6.73722,
-    108.05138999999998,
+    108.05139,
     -6.73722
 ],
-  "geometry": {"coordinates":[108.05138999999998,-6.73722],"type":"Point"}
+  "geometry": {"coordinates":[108.05139,-6.73722],"type":"Point"}
 }

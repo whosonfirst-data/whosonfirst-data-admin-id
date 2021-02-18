@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672009,
-        102072927
+        102072927,
+        85672009
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1952010
     },
     "wof:country":"ID",
-    "wof:geomhash":"c7229c7c9b5495a433342b6668f1fc31",
+    "wof:geomhash":"0cad0ce237b2995a665e289c1d7d72f7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,7 +54,14 @@
         }
     ],
     "wof:id":1242660139,
-    "wof:lastmodified":1537627477,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183184,
     "wof:name":"Bumiaji",
     "wof:parent_id":102072927,
     "wof:placetype":"locality",
@@ -64,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    105.05946000000002,
+    105.05946,
     -5.00757,
-    105.05946000000002,
+    105.05946,
     -5.00757
 ],
-  "geometry": {"coordinates":[105.05946000000002,-5.00757],"type":"Point"}
+  "geometry": {"coordinates":[105.05946,-5.00757],"type":"Point"}
 }

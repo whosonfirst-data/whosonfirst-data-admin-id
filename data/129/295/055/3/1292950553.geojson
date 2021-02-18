@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073529
+        102073529,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6588659
     },
     "wof:country":"ID",
-    "wof:geomhash":"f74e65c081821068d6f7b89eba40f353",
+    "wof:geomhash":"f919bf92dd4e1746773aca619864dbd5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1292950553,
-    "wof:lastmodified":1537629619,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175664,
     "wof:name":"Tegalcaang",
     "wof:parent_id":102073529,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.16861000000002,
+    107.16861,
     -6.91639,
-    107.16861000000002,
+    107.16861,
     -6.91639
 ],
-  "geometry": {"coordinates":[107.16861000000002,-6.91639],"type":"Point"}
+  "geometry": {"coordinates":[107.16861,-6.91639],"type":"Point"}
 }

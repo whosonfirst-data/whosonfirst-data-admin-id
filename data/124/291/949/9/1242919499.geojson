@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073295
+        102073295,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6582183
     },
     "wof:country":"ID",
-    "wof:geomhash":"c7d01c1a08dad0250fbf74007d6b1532",
+    "wof:geomhash":"038bc8a3f136cad60b34aec6c3684775",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1242919499,
-    "wof:lastmodified":1537629493,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183978,
     "wof:name":"Ciangsana Hilir",
     "wof:parent_id":102073295,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.75943999999998,
+    107.75944,
     -6.63111,
-    107.75943999999998,
+    107.75944,
     -6.63111
 ],
-  "geometry": {"coordinates":[107.75943999999998,-6.63111],"type":"Point"}
+  "geometry": {"coordinates":[107.75944,-6.63111],"type":"Point"}
 }

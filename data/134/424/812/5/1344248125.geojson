@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073233
+        102073233,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2011732
     },
     "wof:country":"ID",
-    "wof:geomhash":"3a9b12bfdc978c90ef42f79225868a9f",
+    "wof:geomhash":"d636d79d03e61e29ce99f81bd79e813c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1344248125,
-    "wof:lastmodified":1536601641,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613174233,
     "wof:name":"Tombol",
     "wof:parent_id":102073233,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.62888999999998,
+    110.62889,
     -7.61167,
-    110.62888999999998,
+    110.62889,
     -7.61167
 ],
-  "geometry": {"coordinates":[110.62888999999998,-7.61167],"type":"Point"}
+  "geometry": {"coordinates":[110.62889,-7.61167],"type":"Point"}
 }

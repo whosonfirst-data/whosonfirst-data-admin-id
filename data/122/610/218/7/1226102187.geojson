@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073505
+        102073505,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6401121
     },
     "wof:country":"ID",
-    "wof:geomhash":"8c20200a2d0713bb69a65dd0105aef3f",
+    "wof:geomhash":"2581394d5b69d627210464dddb5f427b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1226102187,
-    "wof:lastmodified":1537628831,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185314,
     "wof:name":"Mukedin",
     "wof:parent_id":102073505,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.47556000000002,
+    108.47556,
     -6.75889,
-    108.47556000000002,
+    108.47556,
     -6.75889
 ],
-  "geometry": {"coordinates":[108.47556000000002,-6.75889],"type":"Point"}
+  "geometry": {"coordinates":[108.47556,-6.75889],"type":"Point"}
 }

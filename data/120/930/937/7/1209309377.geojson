@@ -34,7 +34,7 @@
         "gn:id":1999419
     },
     "wof:country":"ID",
-    "wof:geomhash":"6fa52cdd3812016b9dda7d0d23fb6b51",
+    "wof:geomhash":"e16457c0d41e088ae57efe8ac09bfcf2",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209309377,
-    "wof:lastmodified":1536291082,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178472,
     "wof:name":"Gembyong",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     110.53583,
-    -7.828060000000002,
+    -7.82806,
     110.53583,
-    -7.828060000000002
+    -7.82806
 ],
   "geometry": {"coordinates":[110.53583,-7.82806],"type":"Point"}
 }

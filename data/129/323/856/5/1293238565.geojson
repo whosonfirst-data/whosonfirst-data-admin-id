@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072949
+        102072949,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6593422
     },
     "wof:country":"ID",
-    "wof:geomhash":"29db7a1726c1c0b180b32d5f186f03aa",
+    "wof:geomhash":"fea43522b4624370d77a9ddba90a8e8a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1293238565,
-    "wof:lastmodified":1537629765,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175868,
     "wof:name":"Jajaway",
     "wof:parent_id":102072949,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.74056000000002,
+    107.74056,
     -6.96417,
-    107.74056000000002,
+    107.74056,
     -6.96417
 ],
-  "geometry": {"coordinates":[107.74056000000002,-6.96417],"type":"Point"}
+  "geometry": {"coordinates":[107.74056,-6.96417],"type":"Point"}
 }

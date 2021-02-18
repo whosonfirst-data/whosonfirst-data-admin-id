@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072907
+        102072907,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1933600
     },
     "wof:country":"ID",
-    "wof:geomhash":"94fe21bfa325139f09ebbef4ed0b57c5",
+    "wof:geomhash":"47fb18cb7bb88e7cef7c66838cab12bd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1310399767,
-    "wof:lastmodified":1537066628,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181178,
     "wof:name":"Premulung",
     "wof:parent_id":102072907,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.78943999999998,
+    110.78944,
     -7.56583,
-    110.78943999999998,
+    110.78944,
     -7.56583
 ],
-  "geometry": {"coordinates":[110.78943999999998,-7.56583],"type":"Point"}
+  "geometry": {"coordinates":[110.78944,-7.56583],"type":"Point"}
 }

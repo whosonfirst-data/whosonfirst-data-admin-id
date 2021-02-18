@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672037,
-        102073481
+        102073481,
+        85672037
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1940569
     },
     "wof:country":"ID",
-    "wof:geomhash":"c066ea1a72f781dbd1e10d85a3f042a7",
+    "wof:geomhash":"eb6b858f37bdcea8bd267d29ca439be0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1277142659,
-    "wof:lastmodified":1536681337,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177674,
     "wof:name":"Leofoun",
     "wof:parent_id":102073481,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    124.87111000000002,
+    124.87111,
     -9.67444,
-    124.87111000000002,
+    124.87111,
     -9.67444
 ],
-  "geometry": {"coordinates":[124.87111000000002,-9.67444],"type":"Point"}
+  "geometry": {"coordinates":[124.87111,-9.67444],"type":"Point"}
 }

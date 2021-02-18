@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073187
+        102073187,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6565126
     },
     "wof:country":"ID",
-    "wof:geomhash":"ec5023cf99af4cbd64baf2275377be2f",
+    "wof:geomhash":"b89dba8d591198af8bd4113f2c4d8619",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1310096527,
-    "wof:lastmodified":1537629249,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181007,
     "wof:name":"Dukuh Kulon",
     "wof:parent_id":102073187,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.97556000000002,
+    109.97556,
     -7.75528,
-    109.97556000000002,
+    109.97556,
     -7.75528
 ],
-  "geometry": {"coordinates":[109.97556000000002,-7.75528],"type":"Point"}
+  "geometry": {"coordinates":[109.97556,-7.75528],"type":"Point"}
 }

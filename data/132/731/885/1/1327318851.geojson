@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102073013
+        102073013,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6375943
     },
     "wof:country":"ID",
-    "wof:geomhash":"0437885ee7f4752472d04b857f6ce9ce",
+    "wof:geomhash":"b271c1eb8a4655d84224780f263b1928",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1327318851,
-    "wof:lastmodified":1537628450,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613172161,
     "wof:name":"Krajan Wetan",
     "wof:parent_id":102073013,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.93361000000002,
+    110.93361,
     -8.19222,
-    110.93361000000002,
+    110.93361,
     -8.19222
 ],
-  "geometry": {"coordinates":[110.93361000000002,-8.19222],"type":"Point"}
+  "geometry": {"coordinates":[110.93361,-8.19222],"type":"Point"}
 }

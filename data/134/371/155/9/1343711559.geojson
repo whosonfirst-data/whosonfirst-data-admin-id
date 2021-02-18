@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671995,
-        102073479
+        102073479,
+        85671995
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1989823
     },
     "wof:country":"ID",
-    "wof:geomhash":"782a6e5ffe52ff62e4c4818afc88d43e",
+    "wof:geomhash":"000c0553f583558dfe073f5104e39180",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1343711559,
-    "wof:lastmodified":1536880832,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613174484,
     "wof:name":"Tegaljaya",
     "wof:parent_id":102073479,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.27443999999998,
+    106.27444,
     -6.13222,
-    106.27443999999998,
+    106.27444,
     -6.13222
 ],
-  "geometry": {"coordinates":[106.27443999999998,-6.13222],"type":"Point"}
+  "geometry": {"coordinates":[106.27444,-6.13222],"type":"Point"}
 }

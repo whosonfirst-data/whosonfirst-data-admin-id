@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672115,
-        1108796879
+        1108796879,
+        85672115
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1641416
     },
     "wof:country":"ID",
-    "wof:geomhash":"aab5764baa751eb290154c363f3df5de",
+    "wof:geomhash":"bf0d9103e6c0bc7053c0cb167e0f0753",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1243472525,
-    "wof:lastmodified":1536768412,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183441,
     "wof:name":"Kapian",
     "wof:parent_id":1108796879,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    139.91666999999998,
+    139.91667,
     -6.28333,
-    139.91666999999998,
+    139.91667,
     -6.28333
 ],
-  "geometry": {"coordinates":[139.91666999999998,-6.28333],"type":"Point"}
+  "geometry": {"coordinates":[139.91667000000001,-6.28333],"type":"Point"}
 }

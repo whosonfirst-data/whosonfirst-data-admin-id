@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672037,
-        102073355
+        102073355,
+        85672037
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8389539
     },
     "wof:country":"ID",
-    "wof:geomhash":"5367b26d2d8c8cb8f698713bcba0a528",
+    "wof:geomhash":"f24ecc683f7cf111cb99d1c949cddfcf",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1260354913,
-    "wof:lastmodified":1537635859,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613180609,
     "wof:name":"Baeoen",
     "wof:parent_id":102073355,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    123.39636000000002,
+    123.39636,
     -10.62664,
-    123.39636000000002,
+    123.39636,
     -10.62664
 ],
-  "geometry": {"coordinates":[123.39636000000002,-10.62664],"type":"Point"}
+  "geometry": {"coordinates":[123.39636,-10.62664],"type":"Point"}
 }

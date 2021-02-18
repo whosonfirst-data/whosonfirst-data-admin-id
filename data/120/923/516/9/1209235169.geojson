@@ -37,7 +37,7 @@
         "gn:id":6561318
     },
     "wof:country":"ID",
-    "wof:geomhash":"9b25f20916f25d9d6851eeaa8adbaa05",
+    "wof:geomhash":"cbf0b5980aae5e8176d81437498b67c7",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -45,7 +45,14 @@
         }
     ],
     "wof:id":1209235169,
-    "wof:lastmodified":1537629151,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178746,
     "wof:name":"Ngrandu",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -55,10 +62,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.12111000000002,
+    111.12111,
     -7.19083,
-    111.12111000000002,
+    111.12111,
     -7.19083
 ],
-  "geometry": {"coordinates":[111.12111000000002,-7.19083],"type":"Point"}
+  "geometry": {"coordinates":[111.12111,-7.19083],"type":"Point"}
 }

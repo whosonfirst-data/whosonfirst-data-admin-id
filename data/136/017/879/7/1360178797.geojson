@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073169
+        102073169,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6200385
     },
     "wof:country":"ID",
-    "wof:geomhash":"54383622509100dc0fa75e439f769d5c",
+    "wof:geomhash":"73d1a82a6fc6bc07b1dd1d441c9aec2c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1360178797,
-    "wof:lastmodified":1536810059,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613182012,
     "wof:name":"Kroyong",
     "wof:parent_id":102073169,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.11388999999998,
+    110.11389,
     -7.26361,
-    110.11388999999998,
+    110.11389,
     -7.26361
 ],
-  "geometry": {"coordinates":[110.11388999999998,-7.26361],"type":"Point"}
+  "geometry": {"coordinates":[110.11389,-7.26361],"type":"Point"}
 }

@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072857
+        102072857,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6258692
     },
     "wof:country":"ID",
-    "wof:geomhash":"5fe4a761035be18d3495ab3f66e020cf",
+    "wof:geomhash":"6f3398dc03618430a9205f9b96697bec",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1343752699,
-    "wof:lastmodified":1536821290,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175211,
     "wof:name":"Nglancar",
     "wof:parent_id":102072857,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.28806000000002,
+    110.28806,
     -7.50611,
-    110.28806000000002,
+    110.28806,
     -7.50611
 ],
-  "geometry": {"coordinates":[110.28806000000002,-7.50611],"type":"Point"}
+  "geometry": {"coordinates":[110.28806,-7.50611],"type":"Point"}
 }

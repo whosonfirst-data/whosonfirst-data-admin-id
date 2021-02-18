@@ -170,15 +170,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672115,
-        102072955
+        102072955,
+        85672115
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1643875
     },
     "wof:country":"ID",
-    "wof:geomhash":"b1f6cb738d7063e4c9bb6b360d0b3586",
+    "wof:geomhash":"0bda2b65d5407dfcab57c33c11fdef55",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -189,7 +189,14 @@
         }
     ],
     "wof:id":1310015621,
-    "wof:lastmodified":1564192534,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181160,
     "wof:name":"Goni",
     "wof:parent_id":102072955,
     "wof:placetype":"locality",
@@ -199,10 +206,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    134.66666999999998,
+    134.66667,
     -2.88333,
-    134.66666999999998,
+    134.66667,
     -2.88333
 ],
-  "geometry": {"coordinates":[134.66666999999998,-2.88333],"type":"Point"}
+  "geometry": {"coordinates":[134.66667000000001,-2.88333],"type":"Point"}
 }

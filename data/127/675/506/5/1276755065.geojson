@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073405
+        102073405,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1934121
     },
     "wof:country":"ID",
-    "wof:geomhash":"7e7331bd049643b9df22f1f3c417cab5",
+    "wof:geomhash":"cd24db0734c28975a52cf8db7d118f07",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1276755065,
-    "wof:lastmodified":1536711132,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177071,
     "wof:name":"Bendomalangan",
     "wof:parent_id":102073405,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.85611000000002,
+    110.85611,
     -7.64194,
-    110.85611000000002,
+    110.85611,
     -7.64194
 ],
-  "geometry": {"coordinates":[110.85611000000002,-7.64194],"type":"Point"}
+  "geometry": {"coordinates":[110.85611,-7.64194],"type":"Point"}
 }

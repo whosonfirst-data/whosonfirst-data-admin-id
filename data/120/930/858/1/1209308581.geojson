@@ -43,7 +43,7 @@
         "gn:id":6570664
     },
     "wof:country":"ID",
-    "wof:geomhash":"62d2dcfb33d846d988860f64202d1088",
+    "wof:geomhash":"5de3b972bb9ac741a075897bd2ce2c54",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1209308581,
-    "wof:lastmodified":1564184337,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178479,
     "wof:name":"Ledok",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.08556000000002,
+    111.08556,
     -7.5125,
-    111.08556000000002,
+    111.08556,
     -7.5125
 ],
-  "geometry": {"coordinates":[111.08556000000002,-7.5125],"type":"Point"}
+  "geometry": {"coordinates":[111.08556,-7.5125],"type":"Point"}
 }

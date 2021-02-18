@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073471
+        102073471,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6584656
     },
     "wof:country":"ID",
-    "wof:geomhash":"6996f51f15aa963db51aa45d3649a973",
+    "wof:geomhash":"6dd88d120c5bae4961bfffd2779ecd3f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,7 +54,14 @@
         }
     ],
     "wof:id":1292961281,
-    "wof:lastmodified":1537629566,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613176457,
     "wof:name":"Cibogopeuntas Satu",
     "wof:parent_id":102073471,
     "wof:placetype":"locality",
@@ -64,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.38443999999998,
+    107.38444,
     -6.65167,
-    107.38443999999998,
+    107.38444,
     -6.65167
 ],
-  "geometry": {"coordinates":[107.38443999999998,-6.65167],"type":"Point"}
+  "geometry": {"coordinates":[107.38444,-6.65167],"type":"Point"}
 }

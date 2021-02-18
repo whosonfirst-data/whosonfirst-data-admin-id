@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672115,
-        102072959
+        102072959,
+        85672115
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2082390
     },
     "wof:country":"ID",
-    "wof:geomhash":"1c3903cdeb3db8c47643cee084da3eb9",
+    "wof:geomhash":"88b1ef78509629d93f88e751ebab8b74",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1343614475,
-    "wof:lastmodified":1537020558,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613174592,
     "wof:name":"Wembi",
     "wof:parent_id":102072959,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    140.91666999999995,
+    140.91667,
     -2.98333,
-    140.91666999999995,
+    140.91667,
     -2.98333
 ],
-  "geometry": {"coordinates":[140.91666999999995,-2.98333],"type":"Point"}
+  "geometry": {"coordinates":[140.91667000000001,-2.98333],"type":"Point"}
 }

@@ -37,7 +37,7 @@
         "gn:id":6389065
     },
     "wof:country":"ID",
-    "wof:geomhash":"bdb409301120371224d8a91ed7bec268",
+    "wof:geomhash":"ccc7f52571aaae60c32edca35a2196b4",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -45,7 +45,14 @@
         }
     ],
     "wof:id":1209126559,
-    "wof:lastmodified":1537628688,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178737,
     "wof:name":"Tambangan",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -55,10 +62,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.22556000000002,
+    109.22556,
     -7.49417,
-    109.22556000000002,
+    109.22556,
     -7.49417
 ],
-  "geometry": {"coordinates":[109.22556000000002,-7.49417],"type":"Point"}
+  "geometry": {"coordinates":[109.22556,-7.49417],"type":"Point"}
 }

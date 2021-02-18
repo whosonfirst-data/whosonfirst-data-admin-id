@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102073377
+        102073377,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6865274
     },
     "wof:country":"ID",
-    "wof:geomhash":"0ef4ea74e48abc5ac56bf6a45ddec3c2",
+    "wof:geomhash":"9a7877436769b057614dd78944cc5244",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1360275775,
-    "wof:lastmodified":1537632430,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181965,
     "wof:name":"Duyungan",
     "wof:parent_id":102073377,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.95378999999998,
+    111.95379,
     -7.24242,
-    111.95378999999998,
+    111.95379,
     -7.24242
 ],
-  "geometry": {"coordinates":[111.95378999999998,-7.24242],"type":"Point"}
+  "geometry": {"coordinates":[111.95379,-7.24242],"type":"Point"}
 }

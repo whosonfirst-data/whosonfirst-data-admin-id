@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672067,
-        1108796861
+        1108796861,
+        85672067
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":11428125
     },
     "wof:country":"ID",
-    "wof:geomhash":"78fe69f84433d0d638be61a43f6f4695",
+    "wof:geomhash":"ace0a0b726d0591ef6178635cfd47c6e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1192971337,
-    "wof:lastmodified":1536377977,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613180032,
     "wof:name":"Djitmao",
     "wof:parent_id":1108796861,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    132.31486999999998,
+    132.31487,
     -1.30366,
-    132.31486999999998,
+    132.31487,
     -1.30366
 ],
-  "geometry": {"coordinates":[132.31486999999998,-1.30366],"type":"Point"}
+  "geometry": {"coordinates":[132.31487000000001,-1.30366],"type":"Point"}
 }

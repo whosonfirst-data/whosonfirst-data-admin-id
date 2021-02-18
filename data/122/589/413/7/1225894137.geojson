@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072739
+        102072739,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6582943
     },
     "wof:country":"ID",
-    "wof:geomhash":"301695b0b329989bc6ba5370868c456b",
+    "wof:geomhash":"39ac402bd6023ded0eb950fc7b8430f9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1225894137,
-    "wof:lastmodified":1537629514,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185851,
     "wof:name":"Cicadas",
     "wof:parent_id":102072739,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.05861000000002,
+    108.05861,
     -6.98056,
-    108.05861000000002,
+    108.05861,
     -6.98056
 ],
-  "geometry": {"coordinates":[108.05861000000002,-6.98056],"type":"Point"}
+  "geometry": {"coordinates":[108.05861,-6.98056],"type":"Point"}
 }

@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073405
+        102073405,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2011477
     },
     "wof:country":"ID",
-    "wof:geomhash":"30c02c14a1462181d33d1788774149cd",
+    "wof:geomhash":"499ccf16146cff1b7687b7acfc207925",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1293386407,
-    "wof:lastmodified":1536933526,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175342,
     "wof:name":"Blimbing",
     "wof:parent_id":102073405,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.73888999999998,
+    110.73889,
     -7.58972,
-    110.73888999999998,
+    110.73889,
     -7.58972
 ],
-  "geometry": {"coordinates":[110.73888999999998,-7.58972],"type":"Point"}
+  "geometry": {"coordinates":[110.73889,-7.58972],"type":"Point"}
 }

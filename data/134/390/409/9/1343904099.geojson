@@ -36,15 +36,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073529
+        102073529,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1964475
     },
     "wof:country":"ID",
-    "wof:geomhash":"8673a32c92c10023f0c4929acf14e402",
+    "wof:geomhash":"6b3a1d37cc0c9e39dd1bd65f77a038ea",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -55,7 +55,14 @@
         }
     ],
     "wof:id":1343904099,
-    "wof:lastmodified":1537627762,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613174101,
     "wof:name":"Rawagede",
     "wof:parent_id":102073529,
     "wof:placetype":"locality",
@@ -65,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.29361000000002,
+    107.29361,
     -6.79556,
-    107.29361000000002,
+    107.29361,
     -6.79556
 ],
-  "geometry": {"coordinates":[107.29361000000002,-6.79556],"type":"Point"}
+  "geometry": {"coordinates":[107.29361,-6.79556],"type":"Point"}
 }

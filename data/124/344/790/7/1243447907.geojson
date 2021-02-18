@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073313
+        102073313,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2003181
     },
     "wof:country":"ID",
-    "wof:geomhash":"fd252e4ae5c2ac3a4f5036d64573ddbd",
+    "wof:geomhash":"d7c5e6bb0f0440a5602aff97deeae90b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1243447907,
-    "wof:lastmodified":1536803363,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613184216,
     "wof:name":"Pentung",
     "wof:parent_id":102073313,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.35193999999998,
+    110.35194,
     -7.96722,
-    110.35193999999998,
+    110.35194,
     -7.96722
 ],
-  "geometry": {"coordinates":[110.35193999999998,-7.96722],"type":"Point"}
+  "geometry": {"coordinates":[110.35194,-7.96722],"type":"Point"}
 }

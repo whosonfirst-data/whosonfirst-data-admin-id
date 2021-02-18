@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073217
+        102073217,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6604460
     },
     "wof:country":"ID",
-    "wof:geomhash":"0e684689cded27cc63f143e8175df2bc",
+    "wof:geomhash":"002f95776c1b31555246be8b0c10ab9a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,7 +54,14 @@
         }
     ],
     "wof:id":1259343123,
-    "wof:lastmodified":1564203783,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613184968,
     "wof:name":"Jagapati",
     "wof:parent_id":102073217,
     "wof:placetype":"locality",
@@ -64,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.69693999999998,
+    106.69694,
     -6.66222,
-    106.69693999999998,
+    106.69694,
     -6.66222
 ],
-  "geometry": {"coordinates":[106.69693999999998,-6.66222],"type":"Point"}
+  "geometry": {"coordinates":[106.69694,-6.66222],"type":"Point"}
 }

@@ -33,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672045,
-        102072975
+        102072975,
+        85672045
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1638849
     },
     "wof:country":"ID",
-    "wof:geomhash":"5fa5b50c667183effafce1b640981707",
+    "wof:geomhash":"40ec9ab7d74da8cccf0da6a8b344b2d1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,7 +52,14 @@
         }
     ],
     "wof:id":1293418617,
-    "wof:lastmodified":1537626944,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175718,
     "wof:name":"Labulabuang",
     "wof:parent_id":102072975,
     "wof:placetype":"locality",
@@ -62,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    118.82361000000002,
+    118.82361,
     -3.16222,
-    118.82361000000002,
+    118.82361,
     -3.16222
 ],
-  "geometry": {"coordinates":[118.82361000000002,-3.16222],"type":"Point"}
+  "geometry": {"coordinates":[118.82361,-3.16222],"type":"Point"}
 }

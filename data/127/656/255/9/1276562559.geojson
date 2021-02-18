@@ -36,15 +36,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672097,
-        1108796827
+        1108796827,
+        85672097
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1642327
     },
     "wof:country":"ID",
-    "wof:geomhash":"63cde79ff61c28f026076ee65dd2fe76",
+    "wof:geomhash":"3e8f19feea9cb15ae3f9a3cc7e8d95b2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -55,7 +55,14 @@
         }
     ],
     "wof:id":1276562559,
-    "wof:lastmodified":1537627055,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177403,
     "wof:name":"Juring",
     "wof:parent_id":1108796827,
     "wof:placetype":"locality",
@@ -65,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    134.33333000000002,
+    134.33333,
     -6.43333,
-    134.33333000000002,
+    134.33333,
     -6.43333
 ],
-  "geometry": {"coordinates":[134.33333000000002,-6.43333],"type":"Point"}
+  "geometry": {"coordinates":[134.33332999999999,-6.43333],"type":"Point"}
 }

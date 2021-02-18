@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672009,
-        102072927
+        102072927,
+        85672009
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7666881
     },
     "wof:country":"ID",
-    "wof:geomhash":"79a8858fc0c1388fe1fb29f18c357097",
+    "wof:geomhash":"beaafe1ad62c10fbc870f9550f18cdbf",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,7 +54,14 @@
         }
     ],
     "wof:id":1209886077,
-    "wof:lastmodified":1537634227,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179536,
     "wof:name":"Adirejo Satu",
     "wof:parent_id":102072927,
     "wof:placetype":"locality",
@@ -64,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    105.24866000000002,
+    105.24866,
     -5.13933,
-    105.24866000000002,
+    105.24866,
     -5.13933
 ],
-  "geometry": {"coordinates":[105.24866000000002,-5.13933],"type":"Point"}
+  "geometry": {"coordinates":[105.24866,-5.13933],"type":"Point"}
 }

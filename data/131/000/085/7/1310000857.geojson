@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073469
+        102073469,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2011833
     },
     "wof:country":"ID",
-    "wof:geomhash":"8387578c7a8c0a72b5bc506f4e05dfe9",
+    "wof:geomhash":"9924e74880f5bb58e7cb7a271c245402",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1310000857,
-    "wof:lastmodified":1536649782,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613180979,
     "wof:name":"Jati Kidul",
     "wof:parent_id":102073469,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.21056000000002,
+    110.21056,
     -7.775,
-    110.21056000000002,
+    110.21056,
     -7.775
 ],
-  "geometry": {"coordinates":[110.21056000000002,-7.775],"type":"Point"}
+  "geometry": {"coordinates":[110.21056,-7.775],"type":"Point"}
 }

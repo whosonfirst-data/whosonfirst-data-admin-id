@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073217
+        102073217,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6598006
     },
     "wof:country":"ID",
-    "wof:geomhash":"598d40691b34c8d46e245fd6e75de59c",
+    "wof:geomhash":"6271d838b668d390ce04ae5eec246001",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1309966015,
-    "wof:lastmodified":1537629911,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613182157,
     "wof:name":"Darampit",
     "wof:parent_id":102073217,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.77443999999998,
+    106.77444,
     -6.6075,
-    106.77443999999998,
+    106.77444,
     -6.6075
 ],
-  "geometry": {"coordinates":[106.77443999999998,-6.6075],"type":"Point"}
+  "geometry": {"coordinates":[106.77444,-6.6075],"type":"Point"}
 }

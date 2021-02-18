@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672097,
-        1108796829
+        1108796829,
+        85672097
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8043772
     },
     "wof:country":"ID",
-    "wof:geomhash":"9a4dbcca992cb44159ce99a08893a2b8",
+    "wof:geomhash":"3852d44abf6897feb4770e2262a04707",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1343808967,
-    "wof:lastmodified":1537635108,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175171,
     "wof:name":"Waitatiri",
     "wof:parent_id":1108796829,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    128.27566000000002,
+    128.27566,
     -3.61634,
-    128.27566000000002,
+    128.27566,
     -3.61634
 ],
-  "geometry": {"coordinates":[128.27566000000002,-3.61634],"type":"Point"}
+  "geometry": {"coordinates":[128.27565999999999,-3.61634],"type":"Point"}
 }

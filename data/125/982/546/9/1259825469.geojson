@@ -34,15 +34,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073217
+        102073217,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1961340
     },
     "wof:country":"ID",
-    "wof:geomhash":"27818daac47dc277beefa597ac722711",
+    "wof:geomhash":"361becbe19dd9c923dfe91d694e85f65",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +53,14 @@
         }
     ],
     "wof:id":1259825469,
-    "wof:lastmodified":1537627605,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613184733,
     "wof:name":"Legoknyenang",
     "wof:parent_id":102073217,
     "wof:placetype":"locality",
@@ -63,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.63611000000002,
+    106.63611,
     -6.36861,
-    106.63611000000002,
+    106.63611,
     -6.36861
 ],
-  "geometry": {"coordinates":[106.63611000000002,-6.36861],"type":"Point"}
+  "geometry": {"coordinates":[106.63611,-6.36861],"type":"Point"}
 }

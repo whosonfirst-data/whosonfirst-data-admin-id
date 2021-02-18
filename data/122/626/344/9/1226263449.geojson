@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072639
+        102072639,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6369882
     },
     "wof:country":"ID",
-    "wof:geomhash":"4432f9544fb4728c6bef967e9b529847",
+    "wof:geomhash":"e0c74ee7c7d3af5f6586d1336daf3283",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1226263449,
-    "wof:lastmodified":1537628292,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185389,
     "wof:name":"Gunungwaru",
     "wof:parent_id":102072639,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.48888999999998,
+    109.48889,
     -7.65028,
-    109.48888999999998,
+    109.48889,
     -7.65028
 ],
-  "geometry": {"coordinates":[109.48888999999998,-7.65028],"type":"Point"}
+  "geometry": {"coordinates":[109.48889,-7.65028],"type":"Point"}
 }

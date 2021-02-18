@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072709
+        102072709,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6410777
     },
     "wof:country":"ID",
-    "wof:geomhash":"8e992c6e8f218a0b9ac021b9803d7002",
+    "wof:geomhash":"e024107e8002487dca83128196bdffba",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1259674629,
-    "wof:lastmodified":1537629087,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613184878,
     "wof:name":"Krangkeng",
     "wof:parent_id":102072709,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.61388999999998,
+    110.61389,
     -7.24694,
-    110.61388999999998,
+    110.61389,
     -7.24694
 ],
-  "geometry": {"coordinates":[110.61388999999998,-7.24694],"type":"Point"}
+  "geometry": {"coordinates":[110.61389,-7.24694],"type":"Point"}
 }

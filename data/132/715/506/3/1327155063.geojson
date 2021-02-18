@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072587
+        102072587,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6567246
     },
     "wof:country":"ID",
-    "wof:geomhash":"792be96375a29a3292f03ac9d622edfb",
+    "wof:geomhash":"2c5dcf832e9c713be105fbc6d4856639",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1327155063,
-    "wof:lastmodified":1537629315,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613172790,
     "wof:name":"Sijambusari",
     "wof:parent_id":102072587,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.96056000000002,
+    109.96056,
     -7.38861,
-    109.96056000000002,
+    109.96056,
     -7.38861
 ],
-  "geometry": {"coordinates":[109.96056000000002,-7.38861],"type":"Point"}
+  "geometry": {"coordinates":[109.96056,-7.38861],"type":"Point"}
 }

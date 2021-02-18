@@ -34,7 +34,7 @@
         "gn:id":2008541
     },
     "wof:country":"ID",
-    "wof:geomhash":"924a8c009361a1987beffbaa9fc717a7",
+    "wof:geomhash":"bfd355ca179134fbbf8582a858fad226",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209435649,
-    "wof:lastmodified":1536287113,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179544,
     "wof:name":"Buluwangi",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     110.64972,
-    -7.691389999999998,
+    -7.69139,
     110.64972,
-    -7.691389999999998
+    -7.69139
 ],
   "geometry": {"coordinates":[110.64972,-7.69139],"type":"Point"}
 }

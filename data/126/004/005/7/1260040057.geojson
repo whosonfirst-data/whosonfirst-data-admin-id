@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072949
+        102072949,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6584483
     },
     "wof:country":"ID",
-    "wof:geomhash":"3047b1d33544b68871a75ca9514d1bc9",
+    "wof:geomhash":"9f107e5e938b1758341bfaa6d865ef91",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1260040057,
-    "wof:lastmodified":1537629561,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613180594,
     "wof:name":"Cagak",
     "wof:parent_id":102072949,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.78806000000002,
+    107.78806,
     -6.99056,
-    107.78806000000002,
+    107.78806,
     -6.99056
 ],
-  "geometry": {"coordinates":[107.78806000000002,-6.99056],"type":"Point"}
+  "geometry": {"coordinates":[107.78806,-6.99056],"type":"Point"}
 }

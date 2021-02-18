@@ -34,15 +34,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073233
+        102073233,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1629205
     },
     "wof:country":"ID",
-    "wof:geomhash":"a01592ebcac909d2f14ae6c48428a0c3",
+    "wof:geomhash":"9d74aba8d18e2abf5b379413c351558d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +53,14 @@
         }
     ],
     "wof:id":1343352725,
-    "wof:lastmodified":1537626644,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613174714,
     "wof:name":"Sajen",
     "wof:parent_id":102073233,
     "wof:placetype":"locality",
@@ -63,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.69693999999998,
+    110.69694,
     -7.73306,
-    110.69693999999998,
+    110.69694,
     -7.73306
 ],
-  "geometry": {"coordinates":[110.69693999999998,-7.73306],"type":"Point"}
+  "geometry": {"coordinates":[110.69694,-7.73306],"type":"Point"}
 }

@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072855
+        102072855,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1646906
     },
     "wof:country":"ID",
-    "wof:geomhash":"01e674ace664e5439ac4244a4bce491f",
+    "wof:geomhash":"c10205467ab258007842246bc6ae6ff5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,7 +54,14 @@
         }
     ],
     "wof:id":1226809351,
-    "wof:lastmodified":1537627228,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185416,
     "wof:name":"Cicareuh",
     "wof:parent_id":102072855,
     "wof:placetype":"locality",
@@ -64,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.70638999999998,
+    106.70639,
     -6.89,
-    106.70638999999998,
+    106.70639,
     -6.89
 ],
-  "geometry": {"coordinates":[106.70638999999998,-6.89],"type":"Point"}
+  "geometry": {"coordinates":[106.70639,-6.89],"type":"Point"}
 }

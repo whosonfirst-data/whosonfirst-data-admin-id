@@ -50,15 +50,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073449
+        102073449,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6599153
     },
     "wof:country":"ID",
-    "wof:geomhash":"b28627498b44d399fe9a5b9c741afc69",
+    "wof:geomhash":"8cd002f2c55689f691e940f424be0da6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -69,7 +69,14 @@
         }
     ],
     "wof:id":1343807639,
-    "wof:lastmodified":1564175279,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175152,
     "wof:name":"Tanjung",
     "wof:parent_id":102073449,
     "wof:placetype":"locality",
@@ -79,10 +86,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.58556000000002,
+    107.58556,
     -6.92972,
-    107.58556000000002,
+    107.58556,
     -6.92972
 ],
-  "geometry": {"coordinates":[107.58556000000002,-6.92972],"type":"Point"}
+  "geometry": {"coordinates":[107.58556,-6.92972],"type":"Point"}
 }

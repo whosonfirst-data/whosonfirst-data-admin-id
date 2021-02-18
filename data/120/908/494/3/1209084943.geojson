@@ -34,7 +34,7 @@
         "gn:id":2003121
     },
     "wof:country":"ID",
-    "wof:geomhash":"7533d3b39f84b133e0357d32fbb01c98",
+    "wof:geomhash":"7b2fbf68d6ecbf09103077a70928faea",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209084943,
-    "wof:lastmodified":1536298218,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178501,
     "wof:name":"Kenteng",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     110.25722,
-    -7.9558300000000015,
+    -7.95583,
     110.25722,
-    -7.9558300000000015
+    -7.95583
 ],
   "geometry": {"coordinates":[110.25722,-7.95583],"type":"Point"}
 }

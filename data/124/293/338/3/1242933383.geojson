@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072621
+        102072621,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1988153
     },
     "wof:country":"ID",
-    "wof:geomhash":"1fa7b3fd4fa6211eef4692c1ab79e2f6",
+    "wof:geomhash":"6030d7acc67c91d2e4c013321aee2f46",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1242933383,
-    "wof:lastmodified":1537046463,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183265,
     "wof:name":"Cikiwul",
     "wof:parent_id":102072621,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.97693999999998,
+    106.97694,
     -6.34778,
-    106.97693999999998,
+    106.97694,
     -6.34778
 ],
-  "geometry": {"coordinates":[106.97693999999998,-6.34778],"type":"Point"}
+  "geometry": {"coordinates":[106.97694,-6.34778],"type":"Point"}
 }

@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073349
+        102073349,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6198810
     },
     "wof:country":"ID",
-    "wof:geomhash":"662acf759ee41c7085233652e5202c70",
+    "wof:geomhash":"abece725aa96d9b03b9b554ee6303079",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1310597353,
-    "wof:lastmodified":1536784970,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181539,
     "wof:name":"Bojong Timur",
     "wof:parent_id":102073349,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.21056000000002,
+    110.21056,
     -7.49306,
-    110.21056000000002,
+    110.21056,
     -7.49306
 ],
-  "geometry": {"coordinates":[110.21056000000002,-7.49306],"type":"Point"}
+  "geometry": {"coordinates":[110.21056,-7.49306],"type":"Point"}
 }

@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073515
+        102073515,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6399971
     },
     "wof:country":"ID",
-    "wof:geomhash":"a02358272fa02bb97d0c30e7bd8eaa30",
+    "wof:geomhash":"a1dee4da714dcf8138f68ab4caae8a7e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1327380245,
-    "wof:lastmodified":1537628815,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613172170,
     "wof:name":"Parakan",
     "wof:parent_id":102073515,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.27443999999998,
+    108.27444,
     -6.98417,
-    108.27443999999998,
+    108.27444,
     -6.98417
 ],
-  "geometry": {"coordinates":[108.27443999999998,-6.98417],"type":"Point"}
+  "geometry": {"coordinates":[108.27444,-6.98417],"type":"Point"}
 }

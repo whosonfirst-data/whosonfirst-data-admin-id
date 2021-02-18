@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072947
+        102072947,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6255210
     },
     "wof:country":"ID",
-    "wof:geomhash":"4d3168bcf04d0f820ee000394e6ad07d",
+    "wof:geomhash":"626a652876428b13cff693dece89921a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1276973761,
-    "wof:lastmodified":1536915948,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178065,
     "wof:name":"Nglengkong",
     "wof:parent_id":102072947,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.86388999999998,
+    110.86389,
     -7.955,
-    110.86388999999998,
+    110.86389,
     -7.955
 ],
-  "geometry": {"coordinates":[110.86388999999998,-7.955],"type":"Point"}
+  "geometry": {"coordinates":[110.86389,-7.955],"type":"Point"}
 }

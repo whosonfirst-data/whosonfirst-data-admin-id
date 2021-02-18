@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102073013
+        102073013,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6386667
     },
     "wof:country":"ID",
-    "wof:geomhash":"02ae7015a5b06a9d4e39b74e0fc10b2c",
+    "wof:geomhash":"4d7366d049491f1a69f3d86d27841fa4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1309697279,
-    "wof:lastmodified":1537628615,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613182462,
     "wof:name":"Ngendro",
     "wof:parent_id":102073013,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.21193999999998,
+    111.21194,
     -8.20083,
-    111.21193999999998,
+    111.21194,
     -8.20083
 ],
-  "geometry": {"coordinates":[111.21193999999998,-8.20083],"type":"Point"}
+  "geometry": {"coordinates":[111.21194,-8.20083],"type":"Point"}
 }

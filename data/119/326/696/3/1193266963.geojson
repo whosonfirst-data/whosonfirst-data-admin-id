@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073265
+        102073265,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2000066
     },
     "wof:country":"ID",
-    "wof:geomhash":"1addbd4d215822dc6d98f0b568279538",
+    "wof:geomhash":"d9224a8beb1cc375caf1c8cee70b58f9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1193266963,
-    "wof:lastmodified":1536374824,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613180152,
     "wof:name":"Ngeburan",
     "wof:parent_id":102073265,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.49611000000002,
+    110.49611,
     -7.8025,
-    110.49611000000002,
+    110.49611,
     -7.8025
 ],
-  "geometry": {"coordinates":[110.49611000000002,-7.8025],"type":"Point"}
+  "geometry": {"coordinates":[110.49611,-7.8025],"type":"Point"}
 }

@@ -36,7 +36,7 @@
         "gn:id":1633817
     },
     "wof:country":"ID",
-    "wof:geomhash":"c71e5eefaa6c3c6e05651645240ccf28",
+    "wof:geomhash":"5fec04519a15ed39eef4cd391eb23f8d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -46,7 +46,14 @@
         }
     ],
     "wof:id":1226570101,
-    "wof:lastmodified":1537626790,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185794,
     "wof:name":"Nunu",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
@@ -56,10 +63,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    119.28806000000002,
+    119.28806,
     -1.69167,
-    119.28806000000002,
+    119.28806,
     -1.69167
 ],
-  "geometry": {"coordinates":[119.28806000000002,-1.69167],"type":"Point"}
+  "geometry": {"coordinates":[119.28806,-1.69167],"type":"Point"}
 }

@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072947
+        102072947,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6255469
     },
     "wof:country":"ID",
-    "wof:geomhash":"eb194c285964bfe2bb4b49505d9185ba",
+    "wof:geomhash":"c2f1bf2b1aedf952ee37c2ad11bb89a2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1326726865,
-    "wof:lastmodified":1536703845,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613172263,
     "wof:name":"Melikan",
     "wof:parent_id":102072947,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.94693999999998,
+    110.94694,
     -7.89722,
-    110.94693999999998,
+    110.94694,
     -7.89722
 ],
-  "geometry": {"coordinates":[110.94693999999998,-7.89722],"type":"Point"}
+  "geometry": {"coordinates":[110.94694,-7.89722],"type":"Point"}
 }

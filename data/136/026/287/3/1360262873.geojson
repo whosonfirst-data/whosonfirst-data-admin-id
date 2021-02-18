@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672005,
-        102072839
+        102072839,
+        85672005
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1627491
     },
     "wof:country":"ID",
-    "wof:geomhash":"f46d12900705694e0a235f9a93444abc",
+    "wof:geomhash":"066c8fc5563f80f823b7a1e84562b398",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1360262873,
-    "wof:lastmodified":1537626603,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613182043,
     "wof:name":"Serengka",
     "wof:parent_id":102072839,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.70546000000002,
+    110.70546,
     -1.77858,
-    110.70546000000002,
+    110.70546,
     -1.77858
 ],
-  "geometry": {"coordinates":[110.70546000000002,-1.77858],"type":"Point"}
+  "geometry": {"coordinates":[110.70546,-1.77858],"type":"Point"}
 }

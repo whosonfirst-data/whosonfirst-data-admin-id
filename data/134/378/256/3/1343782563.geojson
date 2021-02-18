@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073483
+        102073483,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2007627
     },
     "wof:country":"ID",
-    "wof:geomhash":"bb8d9ffcb853eb30ca8e9a711a976f75",
+    "wof:geomhash":"0589a12c8d9a8ae9db699a1f88cfc939",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1343782563,
-    "wof:lastmodified":1536779674,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613174542,
     "wof:name":"Kadilayar",
     "wof:parent_id":102073483,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.58556000000002,
+    110.58556,
     -7.74222,
-    110.58556000000002,
+    110.58556,
     -7.74222
 ],
-  "geometry": {"coordinates":[110.58556000000002,-7.74222],"type":"Point"}
+  "geometry": {"coordinates":[110.58556,-7.74222],"type":"Point"}
 }

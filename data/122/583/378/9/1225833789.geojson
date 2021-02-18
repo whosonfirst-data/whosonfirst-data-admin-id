@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073265
+        102073265,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1999866
     },
     "wof:country":"ID",
-    "wof:geomhash":"37177bfb09566e0453cba97363ff686d",
+    "wof:geomhash":"f1884b2e1f1f2e919526a50cc1d91972",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1225833789,
-    "wof:lastmodified":1537029640,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613186610,
     "wof:name":"Ambarukmo",
     "wof:parent_id":102073265,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.39943999999998,
+    110.39944,
     -7.78306,
-    110.39943999999998,
+    110.39944,
     -7.78306
 ],
-  "geometry": {"coordinates":[110.39943999999998,-7.78306],"type":"Point"}
+  "geometry": {"coordinates":[110.39944,-7.78306],"type":"Point"}
 }

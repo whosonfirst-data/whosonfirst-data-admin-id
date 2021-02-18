@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073153
+        102073153,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6380893
     },
     "wof:country":"ID",
-    "wof:geomhash":"7ce7f8ac4006d718392884d8edf78eaa",
+    "wof:geomhash":"3ad7df5e834a169651ade63acd7e9097",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1309899919,
-    "wof:lastmodified":1537628531,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613182493,
     "wof:name":"Sicina",
     "wof:parent_id":102073153,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.58693999999998,
+    109.58694,
     -7.35139,
-    109.58693999999998,
+    109.58694,
     -7.35139
 ],
-  "geometry": {"coordinates":[109.58693999999998,-7.35139],"type":"Point"}
+  "geometry": {"coordinates":[109.58694,-7.35139],"type":"Point"}
 }

@@ -34,15 +34,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102072849
+        102072849,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1970173
     },
     "wof:country":"ID",
-    "wof:geomhash":"aa879a530ca59092847b8c430fccc9fc",
+    "wof:geomhash":"b0d8dbd896489ea2703af34e27419eed",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +53,14 @@
         }
     ],
     "wof:id":1225830019,
-    "wof:lastmodified":1537627978,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613186607,
     "wof:name":"Kawis-anyar",
     "wof:parent_id":102072849,
     "wof:placetype":"locality",
@@ -63,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    112.63611000000002,
+    112.63611,
     -7.16917,
-    112.63611000000002,
+    112.63611,
     -7.16917
 ],
-  "geometry": {"coordinates":[112.63611000000002,-7.16917],"type":"Point"}
+  "geometry": {"coordinates":[112.63611,-7.16917],"type":"Point"}
 }

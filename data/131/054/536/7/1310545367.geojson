@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672115,
-        102073507
+        102073507,
+        85672115
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":11468070
     },
     "wof:country":"ID",
-    "wof:geomhash":"b0d91843a4d3c8fc57770aded6da0e1b",
+    "wof:geomhash":"ef72612f3fa873310ac717f33d6a7e72",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1310545367,
-    "wof:lastmodified":1536858183,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613180944,
     "wof:name":"Aroepa",
     "wof:parent_id":102073507,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    136.49208000000002,
+    136.49208,
     -3.85895,
-    136.49208000000002,
+    136.49208,
     -3.85895
 ],
-  "geometry": {"coordinates":[136.49208000000002,-3.85895],"type":"Point"}
+  "geometry": {"coordinates":[136.49207999999999,-3.85895],"type":"Point"}
 }

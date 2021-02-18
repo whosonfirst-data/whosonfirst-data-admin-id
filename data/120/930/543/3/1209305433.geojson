@@ -34,7 +34,7 @@
         "gn:id":2010635
     },
     "wof:country":"ID",
-    "wof:geomhash":"9d9bfaaeb88fed3a23c0449b9fc795a5",
+    "wof:geomhash":"47025645247a4de4e509a17ab164efc9",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209305433,
-    "wof:lastmodified":1536291212,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178481,
     "wof:name":"Karangkepuh",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -52,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.68361000000002,
-    -7.5183300000000015,
-    110.68361000000002,
-    -7.5183300000000015
+    110.68361,
+    -7.51833,
+    110.68361,
+    -7.51833
 ],
-  "geometry": {"coordinates":[110.68361000000002,-7.51833],"type":"Point"}
+  "geometry": {"coordinates":[110.68361,-7.51833],"type":"Point"}
 }

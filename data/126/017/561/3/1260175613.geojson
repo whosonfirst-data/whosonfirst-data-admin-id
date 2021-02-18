@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072733
+        102072733,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1935649
     },
     "wof:country":"ID",
-    "wof:geomhash":"175abb0f265b7e850b69c470820e956f",
+    "wof:geomhash":"e8facd5945ac11566b0dc1572fa20888",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1260175613,
-    "wof:lastmodified":1536857565,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613180494,
     "wof:name":"Lalunggeneng",
     "wof:parent_id":102072733,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.92806000000002,
+    110.92806,
     -7.60722,
-    110.92806000000002,
+    110.92806,
     -7.60722
 ],
-  "geometry": {"coordinates":[110.92806000000002,-7.60722],"type":"Point"}
+  "geometry": {"coordinates":[110.92806,-7.60722],"type":"Point"}
 }

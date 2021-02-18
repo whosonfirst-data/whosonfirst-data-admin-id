@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073417
+        102073417,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6390952
     },
     "wof:country":"ID",
-    "wof:geomhash":"6b3917b04ac5c86314664b779db1c507",
+    "wof:geomhash":"dc1b23aa41700ab12c47f732d7e70836",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1259379133,
-    "wof:lastmodified":1537628732,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613184382,
     "wof:name":"Carusmeong",
     "wof:parent_id":102073417,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.11556000000002,
+    109.11556,
     -7.14083,
-    109.11556000000002,
+    109.11556,
     -7.14083
 ],
-  "geometry": {"coordinates":[109.11556000000002,-7.14083],"type":"Point"}
+  "geometry": {"coordinates":[109.11556,-7.14083],"type":"Point"}
 }

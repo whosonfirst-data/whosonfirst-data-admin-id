@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072715
+        102072715,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6375446
     },
     "wof:country":"ID",
-    "wof:geomhash":"a89fee52f2beb724598a81d3621ed93d",
+    "wof:geomhash":"a6e222f935c4743f95692f22ca1317d5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1243061753,
-    "wof:lastmodified":1537628437,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613182976,
     "wof:name":"Keciples",
     "wof:parent_id":102072715,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.36388999999998,
+    109.36389,
     -7.60889,
-    109.36388999999998,
+    109.36389,
     -7.60889
 ],
-  "geometry": {"coordinates":[109.36388999999998,-7.60889],"type":"Point"}
+  "geometry": {"coordinates":[109.36389,-7.60889],"type":"Point"}
 }

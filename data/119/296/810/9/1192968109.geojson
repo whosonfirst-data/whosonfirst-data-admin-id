@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073217
+        102073217,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6604959
     },
     "wof:country":"ID",
-    "wof:geomhash":"c108ea1ff2e51ff85b2011457540536b",
+    "wof:geomhash":"a6242136d5709be8b9d3f2e19b41cb27",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1192968109,
-    "wof:lastmodified":1537630055,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613180009,
     "wof:name":"Cibitung",
     "wof:parent_id":102073217,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.53943999999998,
+    106.53944,
     -6.615,
-    106.53943999999998,
+    106.53944,
     -6.615
 ],
-  "geometry": {"coordinates":[106.53943999999998,-6.615],"type":"Point"}
+  "geometry": {"coordinates":[106.53944,-6.615],"type":"Point"}
 }

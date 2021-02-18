@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102072973
+        102072973,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6408937
     },
     "wof:country":"ID",
-    "wof:geomhash":"6c277f6869d9edb887710e79c019782c",
+    "wof:geomhash":"544981bb385cf96ab5b24eaac561c862",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1343955057,
-    "wof:lastmodified":1537629024,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613174613,
     "wof:name":"Klatak",
     "wof:parent_id":102072973,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.26888999999998,
+    111.26889,
     -7.65694,
-    111.26888999999998,
+    111.26889,
     -7.65694
 ],
-  "geometry": {"coordinates":[111.26888999999998,-7.65694],"type":"Point"}
+  "geometry": {"coordinates":[111.26889,-7.65694],"type":"Point"}
 }

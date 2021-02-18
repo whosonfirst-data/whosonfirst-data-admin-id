@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102073017
+        102073017,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1965771
     },
     "wof:country":"ID",
-    "wof:geomhash":"4d9a33ce6b7aea38b9ca490377d01a96",
+    "wof:geomhash":"047dd0c1a68994658751877f019dec97",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1360070221,
-    "wof:lastmodified":1536966900,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181843,
     "wof:name":"Wonolopo",
     "wof:parent_id":102073017,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    112.55138999999998,
+    112.55139,
     -8.25278,
-    112.55138999999998,
+    112.55139,
     -8.25278
 ],
-  "geometry": {"coordinates":[112.55138999999998,-8.25278],"type":"Point"}
+  "geometry": {"coordinates":[112.55139,-8.25278],"type":"Point"}
 }

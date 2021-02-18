@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102072973
+        102072973,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6408844
     },
     "wof:country":"ID",
-    "wof:geomhash":"514a891805ee0f1645a3bdc70e1b4cc8",
+    "wof:geomhash":"0a5cbcb85704481b3315d6970b9fa9c2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1276533197,
-    "wof:lastmodified":1537629020,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178192,
     "wof:name":"Banteran",
     "wof:parent_id":102072973,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.26111000000002,
+    111.26111,
     -7.63333,
-    111.26111000000002,
+    111.26111,
     -7.63333
 ],
-  "geometry": {"coordinates":[111.26111000000002,-7.63333],"type":"Point"}
+  "geometry": {"coordinates":[111.26111,-7.63333],"type":"Point"}
 }

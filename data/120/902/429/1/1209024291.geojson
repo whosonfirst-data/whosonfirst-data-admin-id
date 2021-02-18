@@ -34,7 +34,7 @@
         "gn:id":6264871
     },
     "wof:country":"ID",
-    "wof:geomhash":"87011cb65efb982cbc261284e26cb2b9",
+    "wof:geomhash":"fee4b142dd230666a4c14a9f501229e0",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209024291,
-    "wof:lastmodified":1536300050,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179216,
     "wof:name":"Krawitan",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     110.41111,
-    -7.680560000000002,
+    -7.68056,
     110.41111,
-    -7.680560000000002
+    -7.68056
 ],
   "geometry": {"coordinates":[110.41110999999999,-7.68056],"type":"Point"}
 }

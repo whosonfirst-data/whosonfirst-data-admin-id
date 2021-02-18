@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073295
+        102073295,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6581644
     },
     "wof:country":"ID",
-    "wof:geomhash":"f3772bf90090289e7eb749839271083b",
+    "wof:geomhash":"89abe92e07d5e1a1297f8ecf1fc3618d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1293160951,
-    "wof:lastmodified":1537629479,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613176587,
     "wof:name":"Cicarik",
     "wof:parent_id":102073295,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.69138999999998,
+    107.69139,
     -6.70722,
-    107.69138999999998,
+    107.69139,
     -6.70722
 ],
-  "geometry": {"coordinates":[107.69138999999998,-6.70722],"type":"Point"}
+  "geometry": {"coordinates":[107.69139,-6.70722],"type":"Point"}
 }

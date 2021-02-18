@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102073013
+        102073013,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6386465
     },
     "wof:country":"ID",
-    "wof:geomhash":"c152bba35b2401336050257c10954774",
+    "wof:geomhash":"926d1f9035f4087e824ea0d376242fc5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1327019951,
-    "wof:lastmodified":1537628608,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613171987,
     "wof:name":"Kangkung",
     "wof:parent_id":102073013,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.30861000000002,
+    111.30861,
     -8.25056,
-    111.30861000000002,
+    111.30861,
     -8.25056
 ],
-  "geometry": {"coordinates":[111.30861000000002,-8.25056],"type":"Point"}
+  "geometry": {"coordinates":[111.30861,-8.25056],"type":"Point"}
 }

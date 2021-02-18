@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073217
+        102073217,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1961345
     },
     "wof:country":"ID",
-    "wof:geomhash":"7372c80cf696ed286ae1b09b02271f52",
+    "wof:geomhash":"6dac0c7738acbc54d1e71f1dcbcbb525",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1226605397,
-    "wof:lastmodified":1536916602,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185669,
     "wof:name":"Alastua",
     "wof:parent_id":102073217,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.69693999999998,
+    106.69694,
     -6.38139,
-    106.69693999999998,
+    106.69694,
     -6.38139
 ],
-  "geometry": {"coordinates":[106.69693999999998,-6.38139],"type":"Point"}
+  "geometry": {"coordinates":[106.69694,-6.38139],"type":"Point"}
 }

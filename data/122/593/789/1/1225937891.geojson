@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073233
+        102073233,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1934172
     },
     "wof:country":"ID",
-    "wof:geomhash":"781f0c92dc08a835b0ab708a8c0c4659",
+    "wof:geomhash":"8cc8b0b6925eca35f845bdd2728956d6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1225937891,
-    "wof:lastmodified":1536880004,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185222,
     "wof:name":"Pudakrejo",
     "wof:parent_id":102073233,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.75388999999998,
+    110.75389,
     -7.64639,
-    110.75388999999998,
+    110.75389,
     -7.64639
 ],
-  "geometry": {"coordinates":[110.75388999999998,-7.64639],"type":"Point"}
+  "geometry": {"coordinates":[110.75389,-7.64639],"type":"Point"}
 }

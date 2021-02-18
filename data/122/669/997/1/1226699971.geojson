@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073569
+        102073569,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6400846
     },
     "wof:country":"ID",
-    "wof:geomhash":"30ee164d2b054d01932be1d9c3b40812",
+    "wof:geomhash":"3f1ff4cc947c61309bf6fdae55cc0fac",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1226699971,
-    "wof:lastmodified":1537628825,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185616,
     "wof:name":"Lebakburang",
     "wof:parent_id":102073569,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.49056000000002,
+    108.49056,
     -6.995,
-    108.49056000000002,
+    108.49056,
     -6.995
 ],
-  "geometry": {"coordinates":[108.49056000000002,-6.995],"type":"Point"}
+  "geometry": {"coordinates":[108.49056,-6.995],"type":"Point"}
 }

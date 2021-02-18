@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672111,
-        102073015
+        102073015,
+        85672111
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1968707
     },
     "wof:country":"ID",
-    "wof:geomhash":"b9843b761df6494a138a17e4e28cf4f5",
+    "wof:geomhash":"a9a4c096ad82085dc36cb8a9b5d35e84",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1226411445,
-    "wof:lastmodified":1536695258,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613186184,
     "wof:name":"Argakencana",
     "wof:parent_id":102073015,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    122.36388999999998,
+    122.36389,
     -1.40333,
-    122.36388999999998,
+    122.36389,
     -1.40333
 ],
-  "geometry": {"coordinates":[122.36388999999998,-1.40333],"type":"Point"}
+  "geometry": {"coordinates":[122.36389,-1.40333],"type":"Point"}
 }

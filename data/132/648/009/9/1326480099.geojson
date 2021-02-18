@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073217
+        102073217,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6605259
     },
     "wof:country":"ID",
-    "wof:geomhash":"42934dcfa60eb8bcad48d5b4e1fd9efe",
+    "wof:geomhash":"1453c50e7e72064eac9ff0331db96aa7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1326480099,
-    "wof:lastmodified":1537630066,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613173170,
     "wof:name":"Bojonggaleuh",
     "wof:parent_id":102073217,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.66861000000002,
+    106.66861,
     -6.56222,
-    106.66861000000002,
+    106.66861,
     -6.56222
 ],
-  "geometry": {"coordinates":[106.66861000000002,-6.56222],"type":"Point"}
+  "geometry": {"coordinates":[106.66861,-6.56222],"type":"Point"}
 }

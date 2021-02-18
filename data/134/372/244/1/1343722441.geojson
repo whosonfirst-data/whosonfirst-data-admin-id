@@ -38,15 +38,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671995,
-        102072687
+        102072687,
+        85671995
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1634694
     },
     "wof:country":"ID",
-    "wof:geomhash":"a76ed429fbf7dea0fa6f031aa2822421",
+    "wof:geomhash":"3361f55da4461c2de8ceef93a199e838",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -57,7 +57,14 @@
         }
     ],
     "wof:id":1343722441,
-    "wof:lastmodified":1537626821,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175262,
     "wof:name":"Munjul",
     "wof:parent_id":102072687,
     "wof:placetype":"locality",
@@ -67,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.44861000000002,
+    106.44861,
     -6.29444,
-    106.44861000000002,
+    106.44861,
     -6.29444
 ],
-  "geometry": {"coordinates":[106.44861000000002,-6.29444],"type":"Point"}
+  "geometry": {"coordinates":[106.44861,-6.29444],"type":"Point"}
 }

@@ -33,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672085,
-        102073457
+        102073457,
+        85672085
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1632076
     },
     "wof:country":"ID",
-    "wof:geomhash":"8ad1a87d9c7b1baf2805693aa2d3c6f0",
+    "wof:geomhash":"46d09a11bec5bb824668e4ae9c317bad",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,7 +52,14 @@
         }
     ],
     "wof:id":1343904781,
-    "wof:lastmodified":1537626732,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613174096,
     "wof:name":"Pasirputih",
     "wof:parent_id":102073457,
     "wof:placetype":"locality",
@@ -62,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    126.36178999999998,
+    126.36179,
     1.32349,
-    126.36178999999998,
+    126.36179,
     1.32349
 ],
-  "geometry": {"coordinates":[126.36178999999998,1.32349],"type":"Point"}
+  "geometry": {"coordinates":[126.36179,1.32349],"type":"Point"}
 }

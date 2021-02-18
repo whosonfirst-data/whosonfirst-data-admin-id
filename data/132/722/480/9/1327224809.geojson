@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073189
+        102073189,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6256265
     },
     "wof:country":"ID",
-    "wof:geomhash":"39dbfbb0f08f16bc8ecc41d6caa89b98",
+    "wof:geomhash":"769b16b2e35f758912683678738c1319",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1327224809,
-    "wof:lastmodified":1536979948,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613172692,
     "wof:name":"Pokgondo",
     "wof:parent_id":102073189,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.76111000000002,
+    110.76111,
     -7.86417,
-    110.76111000000002,
+    110.76111,
     -7.86417
 ],
-  "geometry": {"coordinates":[110.76111000000002,-7.86417],"type":"Point"}
+  "geometry": {"coordinates":[110.76111,-7.86417],"type":"Point"}
 }

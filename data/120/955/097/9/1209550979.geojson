@@ -34,7 +34,7 @@
         "gn:id":1980957
     },
     "wof:country":"ID",
-    "wof:geomhash":"11b8c7283c0816edaa1d0b5fd8bba57b",
+    "wof:geomhash":"a0d32041be706bd485c3d38190866f00",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209550979,
-    "wof:lastmodified":1536283696,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178595,
     "wof:name":"Mongkonai",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -52,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    124.29361000000002,
+    124.29361,
     0.73111,
-    124.29361000000002,
+    124.29361,
     0.73111
 ],
-  "geometry": {"coordinates":[124.29361000000002,0.73111],"type":"Point"}
+  "geometry": {"coordinates":[124.29361,0.73111],"type":"Point"}
 }

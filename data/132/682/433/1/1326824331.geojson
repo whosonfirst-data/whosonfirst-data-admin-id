@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073111
+        102073111,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1971724
     },
     "wof:country":"ID",
-    "wof:geomhash":"19d3fc8d4e18332ca89c20bdf9b838d6",
+    "wof:geomhash":"23fedce22c149568ff290684af1f4418",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1326824331,
-    "wof:lastmodified":1537057674,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613173001,
     "wof:name":"Aluran",
     "wof:parent_id":102073111,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.53943999999998,
+    110.53944,
     -7.00111,
-    110.53943999999998,
+    110.53944,
     -7.00111
 ],
-  "geometry": {"coordinates":[110.53943999999998,-7.00111],"type":"Point"}
+  "geometry": {"coordinates":[110.53944,-7.00111],"type":"Point"}
 }

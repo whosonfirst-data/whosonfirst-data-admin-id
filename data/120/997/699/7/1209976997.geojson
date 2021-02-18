@@ -44,15 +44,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073193
+        102073193,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6403820
     },
     "wof:country":"ID",
-    "wof:geomhash":"fae87ec7a09924e83d0aefd20afe5bf1",
+    "wof:geomhash":"01906fa748dfef0c9778d6ebd0735a10",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -63,7 +63,14 @@
         }
     ],
     "wof:id":1209976997,
-    "wof:lastmodified":1564184541,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178550,
     "wof:name":"Larangan",
     "wof:parent_id":102073193,
     "wof:placetype":"locality",
@@ -73,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.25943999999998,
+    108.25944,
     -6.40889,
-    108.25943999999998,
+    108.25944,
     -6.40889
 ],
-  "geometry": {"coordinates":[108.25943999999998,-6.40889],"type":"Point"}
+  "geometry": {"coordinates":[108.25944,-6.40889],"type":"Point"}
 }

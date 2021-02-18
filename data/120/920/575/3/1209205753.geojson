@@ -34,7 +34,7 @@
         "gn:id":6199915
     },
     "wof:country":"ID",
-    "wof:geomhash":"ce331ad6ca4bf9e2b9ac9fd2016cfedc",
+    "wof:geomhash":"b3cf87ae73d5ead152bb33ba8f792ca1",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209205753,
-    "wof:lastmodified":1536294462,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179291,
     "wof:name":"Dampit",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -52,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.11556000000002,
-    -7.4127800000000015,
-    110.11556000000002,
-    -7.4127800000000015
+    110.11556,
+    -7.41278,
+    110.11556,
+    -7.41278
 ],
-  "geometry": {"coordinates":[110.11556000000002,-7.41278],"type":"Point"}
+  "geometry": {"coordinates":[110.11556,-7.41278],"type":"Point"}
 }

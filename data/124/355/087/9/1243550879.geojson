@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072639
+        102072639,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6370412
     },
     "wof:country":"ID",
-    "wof:geomhash":"dcbc8b38c13a958527ed50702e2f24ef",
+    "wof:geomhash":"8fd8ce459ea99c7d8d1b1d8581cf7252",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1243550879,
-    "wof:lastmodified":1537628309,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183003,
     "wof:name":"Rawapanggang",
     "wof:parent_id":102072639,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.48111000000002,
+    109.48111,
     -7.59389,
-    109.48111000000002,
+    109.48111,
     -7.59389
 ],
-  "geometry": {"coordinates":[109.48111000000002,-7.59389],"type":"Point"}
+  "geometry": {"coordinates":[109.48111,-7.59389],"type":"Point"}
 }

@@ -89,15 +89,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072709
+        102072709,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6252449
     },
     "wof:country":"ID",
-    "wof:geomhash":"a2fd289bc32f0a5308c3b8a1ffcc5c23",
+    "wof:geomhash":"a4c7280635b664f1cf42dadffeb321fd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -108,7 +108,14 @@
         }
     ],
     "wof:id":1327130437,
-    "wof:lastmodified":1564168863,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613172727,
     "wof:name":"Mega",
     "wof:parent_id":102072709,
     "wof:placetype":"locality",
@@ -118,10 +125,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.56638999999998,
+    110.56639,
     -7.36361,
-    110.56638999999998,
+    110.56639,
     -7.36361
 ],
-  "geometry": {"coordinates":[110.56638999999998,-7.36361],"type":"Point"}
+  "geometry": {"coordinates":[110.56639,-7.36361],"type":"Point"}
 }

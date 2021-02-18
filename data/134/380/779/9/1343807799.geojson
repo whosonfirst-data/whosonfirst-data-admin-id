@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073295
+        102073295,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6567887
     },
     "wof:country":"ID",
-    "wof:geomhash":"834d2da82567704faeb892f2714f455c",
+    "wof:geomhash":"f4b937a2dacc9a170e9899bb17819f22",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1343807799,
-    "wof:lastmodified":1537629334,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175163,
     "wof:name":"Babakanbalong",
     "wof:parent_id":102073295,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.80138999999998,
+    107.80139,
     -6.55556,
-    107.80138999999998,
+    107.80139,
     -6.55556
 ],
-  "geometry": {"coordinates":[107.80138999999998,-6.55556],"type":"Point"}
+  "geometry": {"coordinates":[107.80139,-6.55556],"type":"Point"}
 }

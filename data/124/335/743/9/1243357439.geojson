@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073169
+        102073169,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6200432
     },
     "wof:country":"ID",
-    "wof:geomhash":"9b9befdca6d3ee515a13c666fb56bf73",
+    "wof:geomhash":"d8edb850498bfc5c8a1332cd8236bf02",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1243357439,
-    "wof:lastmodified":1536934675,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183646,
     "wof:name":"Sisir",
     "wof:parent_id":102073169,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.16306000000002,
+    110.16306,
     -7.37306,
-    110.16306000000002,
+    110.16306,
     -7.37306
 ],
-  "geometry": {"coordinates":[110.16306000000002,-7.37306],"type":"Point"}
+  "geometry": {"coordinates":[110.16306,-7.37306],"type":"Point"}
 }

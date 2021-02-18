@@ -34,15 +34,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671995,
-        102073209
+        102073209,
+        85671995
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1960959
     },
     "wof:country":"ID",
-    "wof:geomhash":"4617f487d184e57b599ca805ebf64a9b",
+    "wof:geomhash":"b8de70cee0c8e685f8e2f28c18a51606",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +53,14 @@
         }
     ],
     "wof:id":1326780329,
-    "wof:lastmodified":1537627587,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613173095,
     "wof:name":"Buyut",
     "wof:parent_id":102073209,
     "wof:placetype":"locality",
@@ -63,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.35611000000002,
+    106.35611,
     -6.38833,
-    106.35611000000002,
+    106.35611,
     -6.38833
 ],
-  "geometry": {"coordinates":[106.35611000000002,-6.38833],"type":"Point"}
+  "geometry": {"coordinates":[106.35611,-6.38833],"type":"Point"}
 }

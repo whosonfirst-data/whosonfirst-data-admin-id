@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072611
+        102072611,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6561492
     },
     "wof:country":"ID",
-    "wof:geomhash":"ee772e7b5b960dfaa468dde5a47ac03a",
+    "wof:geomhash":"208ab13f33b68060acf76204f184e870",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1243445539,
-    "wof:lastmodified":1537629157,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613184232,
     "wof:name":"Ngrenjeng",
     "wof:parent_id":102072611,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.19861000000002,
+    111.19861,
     -7.18028,
-    111.19861000000002,
+    111.19861,
     -7.18028
 ],
-  "geometry": {"coordinates":[111.19861000000002,-7.18028],"type":"Point"}
+  "geometry": {"coordinates":[111.19861,-7.18028],"type":"Point"}
 }

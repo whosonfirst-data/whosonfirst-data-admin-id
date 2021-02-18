@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073217
+        102073217,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6605440
     },
     "wof:country":"ID",
-    "wof:geomhash":"d83312507e1c9d794560d743eccc1f3d",
+    "wof:geomhash":"4b280068f31910b0ad17730cadbbc5d7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1360231081,
-    "wof:lastmodified":1537630074,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181740,
     "wof:name":"Cisauk Markui",
     "wof:parent_id":102073217,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.66306000000002,
+    106.66306,
     -6.5975,
-    106.66306000000002,
+    106.66306,
     -6.5975
 ],
-  "geometry": {"coordinates":[106.66306000000002,-6.5975],"type":"Point"}
+  "geometry": {"coordinates":[106.66306,-6.5975],"type":"Point"}
 }

@@ -131,15 +131,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072639
+        102072639,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6386318
     },
     "wof:country":"ID",
-    "wof:geomhash":"168f0a2f1314f7ba344d2b5918eefd88",
+    "wof:geomhash":"37760f2ab45635add9e6d46b91763ac9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -150,7 +150,14 @@
         }
     ],
     "wof:id":1310096519,
-    "wof:lastmodified":1564192121,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613180997,
     "wof:name":"Salak",
     "wof:parent_id":102072639,
     "wof:placetype":"locality",
@@ -160,10 +167,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.58556000000002,
+    109.58556,
     -7.72444,
-    109.58556000000002,
+    109.58556,
     -7.72444
 ],
-  "geometry": {"coordinates":[109.58556000000002,-7.72444],"type":"Point"}
+  "geometry": {"coordinates":[109.58556,-7.72444],"type":"Point"}
 }

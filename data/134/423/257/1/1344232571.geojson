@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672037,
-        102073355
+        102073355,
+        85672037
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8389535
     },
     "wof:country":"ID",
-    "wof:geomhash":"fe16064fb2c2c8010f51f5f92ca91e3c",
+    "wof:geomhash":"f9cd84c8e7635543e1ae221eb027eb01",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1344232571,
-    "wof:lastmodified":1537635859,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613174244,
     "wof:name":"Duile",
     "wof:parent_id":102073355,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    123.40236000000002,
+    123.40236,
     -10.67362,
-    123.40236000000002,
+    123.40236,
     -10.67362
 ],
-  "geometry": {"coordinates":[123.40236000000002,-10.67362],"type":"Point"}
+  "geometry": {"coordinates":[123.40236,-10.67362],"type":"Point"}
 }

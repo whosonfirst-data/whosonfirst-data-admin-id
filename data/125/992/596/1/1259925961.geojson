@@ -41,15 +41,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072855
+        102072855,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6595977
     },
     "wof:country":"ID",
-    "wof:geomhash":"1e92fbf8bada06cdb53c64c5582c3141",
+    "wof:geomhash":"bae06cf84059415f5c75d7e0a3737269",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -60,7 +60,14 @@
         }
     ],
     "wof:id":1259925961,
-    "wof:lastmodified":1564203367,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613184828,
     "wof:name":"Citeureup",
     "wof:parent_id":102072855,
     "wof:placetype":"locality",
@@ -70,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.98111000000002,
+    106.98111,
     -6.92111,
-    106.98111000000002,
+    106.98111,
     -6.92111
 ],
-  "geometry": {"coordinates":[106.98111000000002,-6.92111],"type":"Point"}
+  "geometry": {"coordinates":[106.98111,-6.92111],"type":"Point"}
 }

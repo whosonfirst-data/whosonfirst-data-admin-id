@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072949
+        102072949,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1986224
     },
     "wof:country":"ID",
-    "wof:geomhash":"07a98e3ee7b292063a5d51df4284b107",
+    "wof:geomhash":"616259d9947f1b49af350b7d5b810a20",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1259629277,
-    "wof:lastmodified":1536648422,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613184357,
     "wof:name":"Cipadalilah",
     "wof:parent_id":102072949,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.69693999999998,
+    107.69694,
     -7.10583,
-    107.69693999999998,
+    107.69694,
     -7.10583
 ],
-  "geometry": {"coordinates":[107.69693999999998,-7.10583],"type":"Point"}
+  "geometry": {"coordinates":[107.69694,-7.10583],"type":"Point"}
 }

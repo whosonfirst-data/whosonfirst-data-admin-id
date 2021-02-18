@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072929
+        102072929,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6570129
     },
     "wof:country":"ID",
-    "wof:geomhash":"9602deff5660d94b1e5bfb62bb03fea3",
+    "wof:geomhash":"7bce821c0da276526416cd6a0dc7bd28",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1243284239,
-    "wof:lastmodified":1537629379,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613184158,
     "wof:name":"Segong",
     "wof:parent_id":102072929,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.03943999999998,
+    111.03944,
     -7.51611,
-    111.03943999999998,
+    111.03944,
     -7.51611
 ],
-  "geometry": {"coordinates":[111.03943999999998,-7.51611],"type":"Point"}
+  "geometry": {"coordinates":[111.03944,-7.51611],"type":"Point"}
 }

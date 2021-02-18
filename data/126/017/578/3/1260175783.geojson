@@ -74,15 +74,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073233
+        102073233,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1936328
     },
     "wof:country":"ID",
-    "wof:geomhash":"ee95c77f4db156b3003587dfd045d9d9",
+    "wof:geomhash":"091cc4de0f1bfc63ca5dcec076f0ab11",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -93,7 +93,14 @@
         }
     ],
     "wof:id":1260175783,
-    "wof:lastmodified":1564190624,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613180522,
     "wof:name":"Pare",
     "wof:parent_id":102073233,
     "wof:placetype":"locality",
@@ -103,10 +110,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.75388999999998,
+    110.75389,
     -7.64194,
-    110.75388999999998,
+    110.75389,
     -7.64194
 ],
-  "geometry": {"coordinates":[110.75388999999998,-7.64194],"type":"Point"}
+  "geometry": {"coordinates":[110.75389,-7.64194],"type":"Point"}
 }

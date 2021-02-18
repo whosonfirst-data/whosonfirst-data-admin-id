@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072639
+        102072639,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6371818
     },
     "wof:country":"ID",
-    "wof:geomhash":"6547fa00a6fac5b687e6c51ec109fdb7",
+    "wof:geomhash":"7b7ba8a768a9ae7c4da0cd6fe67f3f51",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1293221075,
-    "wof:lastmodified":1537628354,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613176060,
     "wof:name":"Plesung",
     "wof:parent_id":102072639,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.56638999999998,
+    109.56639,
     -7.765,
-    109.56638999999998,
+    109.56639,
     -7.765
 ],
-  "geometry": {"coordinates":[109.56638999999998,-7.765],"type":"Point"}
+  "geometry": {"coordinates":[109.56639,-7.765],"type":"Point"}
 }

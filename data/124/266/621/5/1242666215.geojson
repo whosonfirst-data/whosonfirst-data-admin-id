@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073189
+        102073189,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6371452
     },
     "wof:country":"ID",
-    "wof:geomhash":"9d927fd9e600581252ba5e2cc482de8b",
+    "wof:geomhash":"3d74edab3100b569eb299729551ce3d3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1242666215,
-    "wof:lastmodified":1537628342,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183183,
     "wof:name":"Gondang",
     "wof:parent_id":102073189,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.67806000000002,
+    110.67806,
     -8.115,
-    110.67806000000002,
+    110.67806,
     -8.115
 ],
-  "geometry": {"coordinates":[110.67806000000002,-8.115],"type":"Point"}
+  "geometry": {"coordinates":[110.67806,-8.115],"type":"Point"}
 }

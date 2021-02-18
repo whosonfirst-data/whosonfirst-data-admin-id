@@ -34,7 +34,7 @@
         "gn:id":2003906
     },
     "wof:country":"ID",
-    "wof:geomhash":"f98c5ccbd7d46e495dcf30b6e6702a81",
+    "wof:geomhash":"f6fd1e543815259ef8e48ef85abc0f28",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209126673,
-    "wof:lastmodified":1536296936,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178732,
     "wof:name":"Pugeran",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     110.72889,
-    -7.7705600000000015,
+    -7.77056,
     110.72889,
-    -7.7705600000000015
+    -7.77056
 ],
   "geometry": {"coordinates":[110.72889000000001,-7.77056],"type":"Point"}
 }

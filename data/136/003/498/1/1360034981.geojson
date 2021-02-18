@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671995,
-        102073209
+        102073209,
+        85671995
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1961284
     },
     "wof:country":"ID",
-    "wof:geomhash":"e923f4d7a701f7f744f92e8b73e4660f",
+    "wof:geomhash":"3fdb5bd9335ddc880e8c7164426dfba3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,7 +54,14 @@
         }
     ],
     "wof:id":1360034981,
-    "wof:lastmodified":1564195282,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613182068,
     "wof:name":"Roke",
     "wof:parent_id":102073209,
     "wof:placetype":"locality",
@@ -64,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.28806000000002,
+    106.28806,
     -6.47694,
-    106.28806000000002,
+    106.28806,
     -6.47694
 ],
-  "geometry": {"coordinates":[106.28806000000002,-6.47694],"type":"Point"}
+  "geometry": {"coordinates":[106.28806,-6.47694],"type":"Point"}
 }

@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072639
+        102072639,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6372334
     },
     "wof:country":"ID",
-    "wof:geomhash":"73f690c22cab03efa5f0ac0e514f4efe",
+    "wof:geomhash":"ab78759d62bac3ec04dfcaa676c9b096",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1276539715,
-    "wof:lastmodified":1537628365,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178181,
     "wof:name":"Sibelet",
     "wof:parent_id":102072639,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.61388999999998,
+    109.61389,
     -7.53389,
-    109.61388999999998,
+    109.61389,
     -7.53389
 ],
-  "geometry": {"coordinates":[109.61388999999998,-7.53389],"type":"Point"}
+  "geometry": {"coordinates":[109.61389,-7.53389],"type":"Point"}
 }

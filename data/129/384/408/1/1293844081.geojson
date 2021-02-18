@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073295
+        102073295,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6595524
     },
     "wof:country":"ID",
-    "wof:geomhash":"d39be4b9f38b4af6e1c1b513517bfb69",
+    "wof:geomhash":"ded99e7f67a77ffd67fca3b366ea5ecb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1293844081,
-    "wof:lastmodified":1537629818,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175826,
     "wof:name":"Babakanjaya",
     "wof:parent_id":102073295,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.71056000000002,
+    107.71056,
     -6.32667,
-    107.71056000000002,
+    107.71056,
     -6.32667
 ],
-  "geometry": {"coordinates":[107.71056000000002,-6.32667],"type":"Point"}
+  "geometry": {"coordinates":[107.71056,-6.32667],"type":"Point"}
 }

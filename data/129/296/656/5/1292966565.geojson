@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672037,
-        102073481
+        102073481,
+        85672037
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1940453
     },
     "wof:country":"ID",
-    "wof:geomhash":"03cf51a4353045d7467167b0c883cf57",
+    "wof:geomhash":"8560f0f474bed11cbfda878006d232fe",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1292966565,
-    "wof:lastmodified":1537039405,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613176449,
     "wof:name":"Laensukabi",
     "wof:parent_id":102073481,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    124.85193999999998,
+    124.85194,
     -9.69306,
-    124.85193999999998,
+    124.85194,
     -9.69306
 ],
-  "geometry": {"coordinates":[124.85193999999998,-9.69306],"type":"Point"}
+  "geometry": {"coordinates":[124.85194,-9.69306],"type":"Point"}
 }

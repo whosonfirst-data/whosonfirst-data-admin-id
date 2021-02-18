@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072715
+        102072715,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6388288
     },
     "wof:country":"ID",
-    "wof:geomhash":"37d071bbd42cd7b235e55b227160fc28",
+    "wof:geomhash":"822379bc00f6592b40f013233c66d6ac",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1326450963,
-    "wof:lastmodified":1537628663,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613172364,
     "wof:name":"Kesemek",
     "wof:parent_id":102072715,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.05953999999998,
+    109.05954,
     -7.38881,
-    109.05953999999998,
+    109.05954,
     -7.38881
 ],
-  "geometry": {"coordinates":[109.05953999999998,-7.38881],"type":"Point"}
+  "geometry": {"coordinates":[109.05954,-7.38881],"type":"Point"}
 }

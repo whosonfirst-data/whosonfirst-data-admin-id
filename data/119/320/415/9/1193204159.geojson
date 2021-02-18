@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672115,
-        102072957
+        102072957,
+        85672115
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8531677
     },
     "wof:country":"ID",
-    "wof:geomhash":"35231c03b5d084bace8e7d2cc62daa8e",
+    "wof:geomhash":"7558961cf20d470702ee6dc29c6ffd7d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1193204159,
-    "wof:lastmodified":1536369567,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613180057,
     "wof:name":"Wamiate",
     "wof:parent_id":102072957,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    138.54533999999998,
+    138.54534,
     -1.8541,
-    138.54533999999998,
+    138.54534,
     -1.8541
 ],
-  "geometry": {"coordinates":[138.54533999999998,-1.8541],"type":"Point"}
+  "geometry": {"coordinates":[138.54534000000001,-1.8541],"type":"Point"}
 }

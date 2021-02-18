@@ -53,15 +53,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073471
+        102073471,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6591174
     },
     "wof:country":"ID",
-    "wof:geomhash":"f34bd74e9746ae54c4b8f523cfb7e8a6",
+    "wof:geomhash":"1d56a11f57ac1ab254cc951736db10ef",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -72,7 +72,14 @@
         }
     ],
     "wof:id":1343804079,
-    "wof:lastmodified":1564175298,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175158,
     "wof:name":"Cibinong",
     "wof:parent_id":102073471,
     "wof:placetype":"locality",
@@ -82,10 +89,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.36388999999998,
+    107.36389,
     -6.64222,
-    107.36388999999998,
+    107.36389,
     -6.64222
 ],
-  "geometry": {"coordinates":[107.36388999999998,-6.64222],"type":"Point"}
+  "geometry": {"coordinates":[107.36389,-6.64222],"type":"Point"}
 }

@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672019,
-        102073043
+        102073043,
+        85672019
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8763951
     },
     "wof:country":"ID",
-    "wof:geomhash":"f31c8760f9a09571db942ade5d75b3b8",
+    "wof:geomhash":"3530281be1e0d8b01048f14821b7bac9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1242918147,
-    "wof:lastmodified":1537636687,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183984,
     "wof:name":"Rabengperakokasau",
     "wof:parent_id":102073043,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    105.78206000000002,
+    105.78206,
     -1.6448,
-    105.78206000000002,
+    105.78206,
     -1.6448
 ],
-  "geometry": {"coordinates":[105.78206000000002,-1.6448],"type":"Point"}
+  "geometry": {"coordinates":[105.78206,-1.6448],"type":"Point"}
 }

@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672005,
-        102073335
+        102073335,
+        85672005
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8430901
     },
     "wof:country":"ID",
-    "wof:geomhash":"d8544ba7f9973796f903430bc79ddafc",
+    "wof:geomhash":"7b32efc91d1d47381b664f03cefaee9e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1193117921,
-    "wof:lastmodified":1537636158,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613180092,
     "wof:name":"Tumahi",
     "wof:parent_id":102073335,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.66443999999998,
+    109.66444,
     0.31897,
-    109.66443999999998,
+    109.66444,
     0.31897
 ],
-  "geometry": {"coordinates":[109.66443999999998,0.31897],"type":"Point"}
+  "geometry": {"coordinates":[109.66444,0.31897],"type":"Point"}
 }

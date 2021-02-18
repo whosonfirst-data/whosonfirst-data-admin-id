@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073119
+        102073119,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6387843
     },
     "wof:country":"ID",
-    "wof:geomhash":"e70eaf81946f0d82b108142a78d61d0d",
+    "wof:geomhash":"66db6362d9d184e8cdef491da3190ff4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1243254837,
-    "wof:lastmodified":1537628653,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183500,
     "wof:name":"Cimerak Lama",
     "wof:parent_id":102073119,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.94861000000002,
+    108.94861,
     -7.26833,
-    108.94861000000002,
+    108.94861,
     -7.26833
 ],
-  "geometry": {"coordinates":[108.94861000000002,-7.26833],"type":"Point"}
+  "geometry": {"coordinates":[108.94861,-7.26833],"type":"Point"}
 }

@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073193
+        102073193,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6402452
     },
     "wof:country":"ID",
-    "wof:geomhash":"ef57fe1c88885c55731d2e11e5dc93fd",
+    "wof:geomhash":"6a441bd0b488ce54ccacb76f17f79f29",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1293439369,
-    "wof:lastmodified":1537628868,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613176874,
     "wof:name":"Dusun Lima",
     "wof:parent_id":102073193,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.17638999999998,
+    108.17639,
     -6.49833,
-    108.17638999999998,
+    108.17639,
     -6.49833
 ],
-  "geometry": {"coordinates":[108.17638999999998,-6.49833],"type":"Point"}
+  "geometry": {"coordinates":[108.17639,-6.49833],"type":"Point"}
 }

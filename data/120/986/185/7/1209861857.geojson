@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073217
+        102073217,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6605096
     },
     "wof:country":"ID",
-    "wof:geomhash":"b5d0d8ca0487c728bea03dc4352ef3f0",
+    "wof:geomhash":"4733fd868e0eaca128024bdd209dee57",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1209861857,
-    "wof:lastmodified":1537630058,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179610,
     "wof:name":"Hulurawa",
     "wof:parent_id":102073217,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.73888999999998,
+    106.73889,
     -6.525,
-    106.73888999999998,
+    106.73889,
     -6.525
 ],
-  "geometry": {"coordinates":[106.73888999999998,-6.525],"type":"Point"}
+  "geometry": {"coordinates":[106.73889,-6.525],"type":"Point"}
 }

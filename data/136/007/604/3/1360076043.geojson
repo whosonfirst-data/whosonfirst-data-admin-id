@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073205
+        102073205,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6563042
     },
     "wof:country":"ID",
-    "wof:geomhash":"ece9c4cafeb9a4b047015c3a0daf0aa2",
+    "wof:geomhash":"cd76e9aff6408e7a8eeffa30f82ce2f3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1360076043,
-    "wof:lastmodified":1537629199,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181847,
     "wof:name":"Kebaturan",
     "wof:parent_id":102073205,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.93361000000002,
+    109.93361,
     -7.13556,
-    109.93361000000002,
+    109.93361,
     -7.13556
 ],
-  "geometry": {"coordinates":[109.93361000000002,-7.13556],"type":"Point"}
+  "geometry": {"coordinates":[109.93361,-7.13556],"type":"Point"}
 }

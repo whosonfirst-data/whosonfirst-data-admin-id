@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102073377
+        102073377,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6864578
     },
     "wof:country":"ID",
-    "wof:geomhash":"930a42c9f3f38dc69806eecefd0f0503",
+    "wof:geomhash":"852f1c28302c0b3d9e420d47645883b8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1243167123,
-    "wof:lastmodified":1537632424,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613184114,
     "wof:name":"Kiteran",
     "wof:parent_id":102073377,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.77821000000002,
+    111.77821,
     -7.17971,
-    111.77821000000002,
+    111.77821,
     -7.17971
 ],
-  "geometry": {"coordinates":[111.77821000000002,-7.17971],"type":"Point"}
+  "geometry": {"coordinates":[111.77821,-7.17971],"type":"Point"}
 }

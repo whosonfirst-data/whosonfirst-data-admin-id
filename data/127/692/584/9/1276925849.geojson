@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073193
+        102073193,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6404407
     },
     "wof:country":"ID",
-    "wof:geomhash":"c2865720fc9063ebee6864eb67976b74",
+    "wof:geomhash":"f1c01d711dc679c17ac35bade6b7efd8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1276925849,
-    "wof:lastmodified":1537628894,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177569,
     "wof:name":"Petol",
     "wof:parent_id":102073193,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.27306000000002,
+    108.27306,
     -6.36361,
-    108.27306000000002,
+    108.27306,
     -6.36361
 ],
-  "geometry": {"coordinates":[108.27306000000002,-6.36361],"type":"Point"}
+  "geometry": {"coordinates":[108.27306,-6.36361],"type":"Point"}
 }

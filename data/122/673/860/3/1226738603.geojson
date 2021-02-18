@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073189
+        102073189,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6371212
     },
     "wof:country":"ID",
-    "wof:geomhash":"7552965497773af5a9b5a86ec7e713a5",
+    "wof:geomhash":"fd2caa9af25277a2995aff40caedeeab",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1226738603,
-    "wof:lastmodified":1537628334,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185455,
     "wof:name":"Gombang",
     "wof:parent_id":102073189,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.70638999999998,
+    110.70639,
     -8.01389,
-    110.70638999999998,
+    110.70639,
     -8.01389
 ],
-  "geometry": {"coordinates":[110.70638999999998,-8.01389],"type":"Point"}
+  "geometry": {"coordinates":[110.70639,-8.01389],"type":"Point"}
 }

@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072983
+        102072983,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6253032
     },
     "wof:country":"ID",
-    "wof:geomhash":"ba968e8421bf1bd8bcf109e3b710ae7f",
+    "wof:geomhash":"6dc486836b58fc3e4340aa69912bc3e5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1293609957,
-    "wof:lastmodified":1536607857,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613176324,
     "wof:name":"Kadirejo",
     "wof:parent_id":102072983,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.55138999999998,
+    110.55139,
     -7.45889,
-    110.55138999999998,
+    110.55139,
     -7.45889
 ],
-  "geometry": {"coordinates":[110.55138999999998,-7.45889],"type":"Point"}
+  "geometry": {"coordinates":[110.55139,-7.45889],"type":"Point"}
 }

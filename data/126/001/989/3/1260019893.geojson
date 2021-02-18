@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672115,
-        102072939
+        102072939,
+        85672115
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8425530
     },
     "wof:country":"ID",
-    "wof:geomhash":"345b9166a78b6f3713cae74b36765f72",
+    "wof:geomhash":"7296adc4182a34279de7f0a586ed236f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1260019893,
-    "wof:lastmodified":1537636150,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613180416,
     "wof:name":"Kurkari",
     "wof:parent_id":102072939,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    140.90426000000005,
+    140.90426,
     -8.8715,
-    140.90426000000005,
+    140.90426,
     -8.8715
 ],
-  "geometry": {"coordinates":[140.90426000000005,-8.8715],"type":"Point"}
+  "geometry": {"coordinates":[140.90425999999999,-8.8715],"type":"Point"}
 }

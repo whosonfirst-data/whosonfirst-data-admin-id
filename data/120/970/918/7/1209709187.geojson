@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073313
+        102073313,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2000230
     },
     "wof:country":"ID",
-    "wof:geomhash":"c41fd01d299ce608a6360adf495b37e3",
+    "wof:geomhash":"4c6a1daa78f3db3811fadd077089f10d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1209709187,
-    "wof:lastmodified":1536391468,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178668,
     "wof:name":"Besalen",
     "wof:parent_id":102073313,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.41443999999998,
+    110.41444,
     -7.83306,
-    110.41443999999998,
+    110.41444,
     -7.83306
 ],
-  "geometry": {"coordinates":[110.41443999999998,-7.83306],"type":"Point"}
+  "geometry": {"coordinates":[110.41444,-7.83306],"type":"Point"}
 }

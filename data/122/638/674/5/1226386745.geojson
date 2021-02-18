@@ -33,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672115,
-        102073195
+        102073195,
+        85672115
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1625241
     },
     "wof:country":"ID",
-    "wof:geomhash":"a5abcd9281023f39c630ed19b19f01c6",
+    "wof:geomhash":"bc6fd008066fadf867e783f382686901",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,7 +52,14 @@
         }
     ],
     "wof:id":1226386745,
-    "wof:lastmodified":1537626528,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613186486,
     "wof:name":"Tamenuen",
     "wof:parent_id":102073195,
     "wof:placetype":"locality",
@@ -62,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    139.81011999999998,
+    139.81012,
     -6.46909,
-    139.81011999999998,
+    139.81012,
     -6.46909
 ],
-  "geometry": {"coordinates":[139.81011999999998,-6.46909],"type":"Point"}
+  "geometry": {"coordinates":[139.81012000000001,-6.46909],"type":"Point"}
 }

@@ -34,15 +34,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672115,
-        102073195
+        102073195,
+        85672115
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1643288
     },
     "wof:country":"ID",
-    "wof:geomhash":"7af73f84b2b7535b3f9480fab17a9b31",
+    "wof:geomhash":"42436a459f5d904d2f2725c8bc403491",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +53,14 @@
         }
     ],
     "wof:id":1276700185,
-    "wof:lastmodified":1537627089,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177966,
     "wof:name":"Homlikya",
     "wof:parent_id":102073195,
     "wof:placetype":"locality",
@@ -63,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    139.60321000000002,
+    139.60321,
     -7.03394,
-    139.60321000000002,
+    139.60321,
     -7.03394
 ],
-  "geometry": {"coordinates":[139.60321000000002,-7.03394],"type":"Point"}
+  "geometry": {"coordinates":[139.60320999999999,-7.03394],"type":"Point"}
 }

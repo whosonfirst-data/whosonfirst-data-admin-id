@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073551
+        102073551,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6593667
     },
     "wof:country":"ID",
-    "wof:geomhash":"57305edece137ad38400be23311b7db1",
+    "wof:geomhash":"ff3de38fa6fe9f3cfe5b2e38bfc5355c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1259432445,
-    "wof:lastmodified":1537629772,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185123,
     "wof:name":"Kaum Utara",
     "wof:parent_id":102073551,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.14388999999998,
+    107.14389,
     -6.25667,
-    107.14388999999998,
+    107.14389,
     -6.25667
 ],
-  "geometry": {"coordinates":[107.14388999999998,-6.25667],"type":"Point"}
+  "geometry": {"coordinates":[107.14389,-6.25667],"type":"Point"}
 }

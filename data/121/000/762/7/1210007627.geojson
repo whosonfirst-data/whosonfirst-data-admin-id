@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072921
+        102072921,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6390850
     },
     "wof:country":"ID",
-    "wof:geomhash":"116166af24736824792c1e6f2b48b050",
+    "wof:geomhash":"8fabd0dd59e902b310efccec64112110",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1210007627,
-    "wof:lastmodified":1537628731,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179645,
     "wof:name":"Sabrang",
     "wof:parent_id":102072921,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.33556000000002,
+    109.33556,
     -7.36917,
-    109.33556000000002,
+    109.33556,
     -7.36917
 ],
-  "geometry": {"coordinates":[109.33556000000002,-7.36917],"type":"Point"}
+  "geometry": {"coordinates":[109.33556,-7.36917],"type":"Point"}
 }

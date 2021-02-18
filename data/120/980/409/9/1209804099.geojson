@@ -38,15 +38,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073265
+        102073265,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6265237
     },
     "wof:country":"ID",
-    "wof:geomhash":"bdeabc6b085db4d0be25aaa86375e89b",
+    "wof:geomhash":"4fbb4e711a50a0e601265124ea26c101",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -57,7 +57,14 @@
         }
     ],
     "wof:id":1209804099,
-    "wof:lastmodified":1564186943,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179375,
     "wof:name":"Suruh",
     "wof:parent_id":102073265,
     "wof:placetype":"locality",
@@ -67,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.46193999999998,
+    110.46194,
     -7.66139,
-    110.46193999999998,
+    110.46194,
     -7.66139
 ],
-  "geometry": {"coordinates":[110.46193999999998,-7.66139],"type":"Point"}
+  "geometry": {"coordinates":[110.46194,-7.66139],"type":"Point"}
 }

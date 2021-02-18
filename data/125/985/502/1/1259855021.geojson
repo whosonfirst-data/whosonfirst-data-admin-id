@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672037,
-        102072803
+        102072803,
+        85672037
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7609668
     },
     "wof:country":"ID",
-    "wof:geomhash":"7df92477959aff838d4a0163e5e4ac60",
+    "wof:geomhash":"6cffdfd992ed6baea0ea325ecfd08b03",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,7 +54,14 @@
         }
     ],
     "wof:id":1259855021,
-    "wof:lastmodified":1537634129,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613184670,
     "wof:name":"Hurundima",
     "wof:parent_id":102072803,
     "wof:placetype":"locality",
@@ -64,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    120.68831000000002,
+    120.68831,
     -9.94303,
-    120.68831000000002,
+    120.68831,
     -9.94303
 ],
-  "geometry": {"coordinates":[120.68831000000002,-9.94303],"type":"Point"}
+  "geometry": {"coordinates":[120.68831,-9.94303],"type":"Point"}
 }

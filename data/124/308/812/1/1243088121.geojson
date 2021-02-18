@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072715
+        102072715,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6388569
     },
     "wof:country":"ID",
-    "wof:geomhash":"5cc6c5e9b3d39588bef52bd99893510b",
+    "wof:geomhash":"89ebf19473058dde4b23bed75d6ed969",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1243088121,
-    "wof:lastmodified":1537628672,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613182935,
     "wof:name":"Cirahab",
     "wof:parent_id":102072715,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.03806000000002,
+    109.03806,
     -7.49083,
-    109.03806000000002,
+    109.03806,
     -7.49083
 ],
-  "geometry": {"coordinates":[109.03806000000002,-7.49083],"type":"Point"}
+  "geometry": {"coordinates":[109.03806,-7.49083],"type":"Point"}
 }

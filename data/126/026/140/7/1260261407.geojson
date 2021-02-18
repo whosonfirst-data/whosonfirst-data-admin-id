@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073189
+        102073189,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6564907
     },
     "wof:country":"ID",
-    "wof:geomhash":"3673f52d9429d21286108f89e6273f20",
+    "wof:geomhash":"fc2f7fc53db88093062c1075593819be",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1260261407,
-    "wof:lastmodified":1537629246,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613180554,
     "wof:name":"Ngalangalangsari",
     "wof:parent_id":102073189,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.55306000000002,
+    110.55306,
     -8.09861,
-    110.55306000000002,
+    110.55306,
     -8.09861
 ],
-  "geometry": {"coordinates":[110.55306000000002,-8.09861],"type":"Point"}
+  "geometry": {"coordinates":[110.55306,-8.09861],"type":"Point"}
 }

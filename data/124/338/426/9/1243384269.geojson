@@ -36,15 +36,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072983
+        102072983,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1972605
     },
     "wof:country":"ID",
-    "wof:geomhash":"8d626d82e980fd011b2588f3c6b42a8f",
+    "wof:geomhash":"f39de72028cc44bdc00f4b1b468554b6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -55,7 +55,14 @@
         }
     ],
     "wof:id":1243384269,
-    "wof:lastmodified":1537628084,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613182836,
     "wof:name":"Cerme",
     "wof:parent_id":102072983,
     "wof:placetype":"locality",
@@ -65,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.73111000000002,
+    110.73111,
     -7.16944,
-    110.73111000000002,
+    110.73111,
     -7.16944
 ],
-  "geometry": {"coordinates":[110.73111000000002,-7.16944],"type":"Point"}
+  "geometry": {"coordinates":[110.73111,-7.16944],"type":"Point"}
 }

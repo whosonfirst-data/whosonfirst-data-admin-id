@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102072849
+        102072849,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1970127
     },
     "wof:country":"ID",
-    "wof:geomhash":"3656b68451298e02e58603fb7f78e152",
+    "wof:geomhash":"955709a7537ff70cb3c42a0e22e0ccd3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1243057991,
-    "wof:lastmodified":1536867300,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183730,
     "wof:name":"Karangturi",
     "wof:parent_id":102072849,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    112.64943999999998,
+    112.64944,
     -7.15222,
-    112.64943999999998,
+    112.64944,
     -7.15222
 ],
-  "geometry": {"coordinates":[112.64943999999998,-7.15222],"type":"Point"}
+  "geometry": {"coordinates":[112.64944,-7.15222],"type":"Point"}
 }

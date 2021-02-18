@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072611
+        102072611,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6561495
     },
     "wof:country":"ID",
-    "wof:geomhash":"7231af25e7ffe8bc3f5ccf259e2315b5",
+    "wof:geomhash":"4898bbf8c7bd92273e872f6ffa61666a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1259604019,
-    "wof:lastmodified":1537629158,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613184905,
     "wof:name":"Taraman",
     "wof:parent_id":102072611,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.21056000000002,
+    111.21056,
     -7.18278,
-    111.21056000000002,
+    111.21056,
     -7.18278
 ],
-  "geometry": {"coordinates":[111.21056000000002,-7.18278],"type":"Point"}
+  "geometry": {"coordinates":[111.21056,-7.18278],"type":"Point"}
 }

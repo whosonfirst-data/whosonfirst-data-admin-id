@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073169
+        102073169,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6257544
     },
     "wof:country":"ID",
-    "wof:geomhash":"58f6531d8a60427cb49016b60f30886c",
+    "wof:geomhash":"76fc91b511b60649cb4dc8ac05df94ab",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1259479625,
-    "wof:lastmodified":1536862996,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613184633,
     "wof:name":"Ngrotog Satu",
     "wof:parent_id":102073169,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.28943999999998,
+    110.28944,
     -7.30833,
-    110.28943999999998,
+    110.28944,
     -7.30833
 ],
-  "geometry": {"coordinates":[110.28943999999998,-7.30833],"type":"Point"}
+  "geometry": {"coordinates":[110.28944,-7.30833],"type":"Point"}
 }

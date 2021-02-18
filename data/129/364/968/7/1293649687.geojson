@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072855
+        102072855,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6595876
     },
     "wof:country":"ID",
-    "wof:geomhash":"a3bd6b07ea965c2cb12aba7b81a18445",
+    "wof:geomhash":"5c892177fe788be15ead15eafa2df323",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1293649687,
-    "wof:lastmodified":1537629828,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175587,
     "wof:name":"Citoe",
     "wof:parent_id":102072855,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.97556000000002,
+    106.97556,
     -6.89944,
-    106.97556000000002,
+    106.97556,
     -6.89944
 ],
-  "geometry": {"coordinates":[106.97556000000002,-6.89944],"type":"Point"}
+  "geometry": {"coordinates":[106.97556,-6.89944],"type":"Point"}
 }

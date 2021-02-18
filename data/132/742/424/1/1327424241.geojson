@@ -34,15 +34,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102073063
+        102073063,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1970955
     },
     "wof:country":"ID",
-    "wof:geomhash":"d182a047f4936f909b8f3458dd484611",
+    "wof:geomhash":"d8e008618efa1c3b63c4bd7d17183045",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +53,14 @@
         }
     ],
     "wof:id":1327424241,
-    "wof:lastmodified":1537628012,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613173492,
     "wof:name":"Londuwak Dua",
     "wof:parent_id":102073063,
     "wof:placetype":"locality",
@@ -63,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    112.97556000000002,
+    112.97556,
     -7.08222,
-    112.97556000000002,
+    112.97556,
     -7.08222
 ],
-  "geometry": {"coordinates":[112.97556000000002,-7.08222],"type":"Point"}
+  "geometry": {"coordinates":[112.97556,-7.08222],"type":"Point"}
 }

@@ -34,15 +34,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671995,
-        102073479
+        102073479,
+        85671995
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1626321
     },
     "wof:country":"ID",
-    "wof:geomhash":"42e922391af9755ff5048cc4f09b6fc0",
+    "wof:geomhash":"0fc94426014b6907e6a3ac2373528397",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +53,14 @@
         }
     ],
     "wof:id":1226605215,
-    "wof:lastmodified":1537626573,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185664,
     "wof:name":"Sukaraja",
     "wof:parent_id":102073479,
     "wof:placetype":"locality",
@@ -63,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.28806000000002,
+    106.28806,
     -6.19972,
-    106.28806000000002,
+    106.28806,
     -6.19972
 ],
-  "geometry": {"coordinates":[106.28806000000002,-6.19972],"type":"Point"}
+  "geometry": {"coordinates":[106.28806,-6.19972],"type":"Point"}
 }

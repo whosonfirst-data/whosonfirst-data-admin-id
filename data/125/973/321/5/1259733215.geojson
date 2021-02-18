@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072739
+        102072739,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1634340
     },
     "wof:country":"ID",
-    "wof:geomhash":"eb9792a26a0468849e907f1f759bc29f",
+    "wof:geomhash":"8b3541945160122bf53ad34274c123c7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1259733215,
-    "wof:lastmodified":1537626804,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185028,
     "wof:name":"Narimbang",
     "wof:parent_id":102072739,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.98888999999998,
+    107.98889,
     -6.75111,
-    107.98888999999998,
+    107.98889,
     -6.75111
 ],
-  "geometry": {"coordinates":[107.98888999999998,-6.75111],"type":"Point"}
+  "geometry": {"coordinates":[107.98889,-6.75111],"type":"Point"}
 }

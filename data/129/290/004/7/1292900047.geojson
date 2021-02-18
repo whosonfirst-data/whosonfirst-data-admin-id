@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072857
+        102072857,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1964384
     },
     "wof:country":"ID",
-    "wof:geomhash":"8470614735f0e3988d551bc63951ede4",
+    "wof:geomhash":"b41c904961d9fc9fea5e01b99c34b5b4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1292900047,
-    "wof:lastmodified":1536638839,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613176479,
     "wof:name":"Suwanting",
     "wof:parent_id":102072857,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.39806000000002,
+    110.39806,
     -7.47361,
-    110.39806000000002,
+    110.39806,
     -7.47361
 ],
-  "geometry": {"coordinates":[110.39806000000002,-7.47361],"type":"Point"}
+  "geometry": {"coordinates":[110.39806,-7.47361],"type":"Point"}
 }

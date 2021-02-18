@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073417
+        102073417,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6561782
     },
     "wof:country":"ID",
-    "wof:geomhash":"abfcaf87753f2ba4d5478dccd43439c7",
+    "wof:geomhash":"14df7c6e7b2d336f7b1d5010c0bb71b4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1243284437,
-    "wof:lastmodified":1537629167,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613184162,
     "wof:name":"Taswan",
     "wof:parent_id":102073417,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.14943999999998,
+    109.14944,
     -7.14111,
-    109.14943999999998,
+    109.14944,
     -7.14111
 ],
-  "geometry": {"coordinates":[109.14943999999998,-7.14111],"type":"Point"}
+  "geometry": {"coordinates":[109.14944,-7.14111],"type":"Point"}
 }

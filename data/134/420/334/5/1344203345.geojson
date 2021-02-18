@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671995,
-        1108796785
+        1108796785,
+        85671995
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1989853
     },
     "wof:country":"ID",
-    "wof:geomhash":"12618a9990ab81284ca83f1e30d50172",
+    "wof:geomhash":"896860afd9b31d129d533d47fb61c922",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1344203345,
-    "wof:lastmodified":1536669472,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613174982,
     "wof:name":"Buaranmekarsari",
     "wof:parent_id":1108796785,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.64388999999998,
+    106.64389,
     -6.185,
-    106.64388999999998,
+    106.64389,
     -6.185
 ],
-  "geometry": {"coordinates":[106.64388999999998,-6.185],"type":"Point"}
+  "geometry": {"coordinates":[106.64389,-6.185],"type":"Point"}
 }

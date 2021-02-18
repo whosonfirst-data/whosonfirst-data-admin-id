@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072983
+        102072983,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2010052
     },
     "wof:country":"ID",
-    "wof:geomhash":"36cbdce4e3f03abf0b53bdc585c9aaa5",
+    "wof:geomhash":"5d395ffe137c822f8c45e15d0c23b81c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1343253101,
-    "wof:lastmodified":1537043779,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613174588,
     "wof:name":"Jonjang",
     "wof:parent_id":102072983,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.50943999999998,
+    110.50944,
     -7.59417,
-    110.50943999999998,
+    110.50944,
     -7.59417
 ],
-  "geometry": {"coordinates":[110.50943999999998,-7.59417],"type":"Point"}
+  "geometry": {"coordinates":[110.50944,-7.59417],"type":"Point"}
 }

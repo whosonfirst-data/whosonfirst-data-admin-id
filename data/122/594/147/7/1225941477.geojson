@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102073013
+        102073013,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6375875
     },
     "wof:country":"ID",
-    "wof:geomhash":"0a421a4511b0fe32633a78892e2ba213",
+    "wof:geomhash":"32a2fc8872d6f5877315f13a0f1df9af",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1225941477,
-    "wof:lastmodified":1537628448,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185193,
     "wof:name":"Sengon",
     "wof:parent_id":102073013,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.99611000000002,
+    110.99611,
     -8.16167,
-    110.99611000000002,
+    110.99611,
     -8.16167
 ],
-  "geometry": {"coordinates":[110.99611000000002,-8.16167],"type":"Point"}
+  "geometry": {"coordinates":[110.99611,-8.16167],"type":"Point"}
 }

@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073187
+        102073187,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6567005
     },
     "wof:country":"ID",
-    "wof:geomhash":"0b1fda4471f8fbb585df0d77fef68009",
+    "wof:geomhash":"ca59e842a05dc2ec2e74c8fa9d9437c6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1327454671,
-    "wof:lastmodified":1537629310,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613173529,
     "wof:name":"Keniten",
     "wof:parent_id":102073187,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.91306000000002,
+    109.91306,
     -7.58083,
-    109.91306000000002,
+    109.91306,
     -7.58083
 ],
-  "geometry": {"coordinates":[109.91306000000002,-7.58083],"type":"Point"}
+  "geometry": {"coordinates":[109.91306,-7.58083],"type":"Point"}
 }

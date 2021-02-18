@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072947
+        102072947,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6255194
     },
     "wof:country":"ID",
-    "wof:geomhash":"b2d03826ce6d07a35648f52fcfc51c96",
+    "wof:geomhash":"3f23c145c3eb860a3717bcc7ee414cc8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1276758579,
-    "wof:lastmodified":1536706292,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177064,
     "wof:name":"Sindukerto",
     "wof:parent_id":102072947,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.83556000000002,
+    110.83556,
     -7.98667,
-    110.83556000000002,
+    110.83556,
     -7.98667
 ],
-  "geometry": {"coordinates":[110.83556000000002,-7.98667],"type":"Point"}
+  "geometry": {"coordinates":[110.83556,-7.98667],"type":"Point"}
 }

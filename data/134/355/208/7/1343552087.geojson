@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073187
+        102073187,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6566453
     },
     "wof:country":"ID",
-    "wof:geomhash":"85acdeed1ce2a2b661bbee072b1e66a5",
+    "wof:geomhash":"919ee4b1f8ab97c61d7845677f9d5d06",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1343552087,
-    "wof:lastmodified":1537629293,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613174054,
     "wof:name":"Blimbingan",
     "wof:parent_id":102073187,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.91306000000002,
+    109.91306,
     -7.72472,
-    109.91306000000002,
+    109.91306,
     -7.72472
 ],
-  "geometry": {"coordinates":[109.91306000000002,-7.72472],"type":"Point"}
+  "geometry": {"coordinates":[109.91306,-7.72472],"type":"Point"}
 }

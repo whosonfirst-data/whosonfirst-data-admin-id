@@ -44,15 +44,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072759
+        102072759,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6561955
     },
     "wof:country":"ID",
-    "wof:geomhash":"d8426e4f41059bb3f58936682dd03724",
+    "wof:geomhash":"33fe5fb3a35c1ca1c23517c77de7f911",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -63,7 +63,14 @@
         }
     ],
     "wof:id":1327130471,
-    "wof:lastmodified":1564168846,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613172722,
     "wof:name":"Barong",
     "wof:parent_id":102072759,
     "wof:placetype":"locality",
@@ -73,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.35611000000002,
+    109.35611,
     -7.15639,
-    109.35611000000002,
+    109.35611,
     -7.15639
 ],
-  "geometry": {"coordinates":[109.35611000000002,-7.15639],"type":"Point"}
+  "geometry": {"coordinates":[109.35611,-7.15639],"type":"Point"}
 }

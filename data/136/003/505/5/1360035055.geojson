@@ -53,15 +53,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073529
+        102073529,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6590120
     },
     "wof:country":"ID",
-    "wof:geomhash":"6fa2488d46178582109e2b2346d962f2",
+    "wof:geomhash":"ab9447991fad7b742d3796d627e680f2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -72,7 +72,14 @@
         }
     ],
     "wof:id":1360035055,
-    "wof:lastmodified":1564195258,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613182059,
     "wof:name":"Warung",
     "wof:parent_id":102073529,
     "wof:placetype":"locality",
@@ -82,10 +89,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.19861000000002,
+    107.19861,
     -6.69111,
-    107.19861000000002,
+    107.19861,
     -6.69111
 ],
-  "geometry": {"coordinates":[107.19861000000002,-6.69111],"type":"Point"}
+  "geometry": {"coordinates":[107.19861,-6.69111],"type":"Point"}
 }

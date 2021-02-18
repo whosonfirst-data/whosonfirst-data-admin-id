@@ -34,7 +34,7 @@
         "gn:id":6258687
     },
     "wof:country":"ID",
-    "wof:geomhash":"bf4fe520b9d754e60188749ef87290b3",
+    "wof:geomhash":"90c5cfb38741b686d6fc96d33c7b0b77",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209335225,
-    "wof:lastmodified":1536290245,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179233,
     "wof:name":"Tirip",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     110.26833,
-    -7.5011100000000015,
+    -7.50111,
     110.26833,
-    -7.5011100000000015
+    -7.50111
 ],
   "geometry": {"coordinates":[110.26833000000001,-7.50111],"type":"Point"}
 }

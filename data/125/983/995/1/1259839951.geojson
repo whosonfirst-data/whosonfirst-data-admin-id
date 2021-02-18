@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671995,
-        102072687
+        102072687,
+        85671995
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1960023
     },
     "wof:country":"ID",
-    "wof:geomhash":"6eeb440c662aaf78e5a9e8ee9047fc76",
+    "wof:geomhash":"2798286844e7b543f1b97a455fca6c44",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,7 +54,14 @@
         }
     ],
     "wof:id":1259839951,
-    "wof:lastmodified":1537627536,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613184565,
     "wof:name":"Kedung",
     "wof:parent_id":102072687,
     "wof:placetype":"locality",
@@ -64,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.36556000000002,
+    106.36556,
     -6.11944,
-    106.36556000000002,
+    106.36556,
     -6.11944
 ],
-  "geometry": {"coordinates":[106.36556000000002,-6.11944],"type":"Point"}
+  "geometry": {"coordinates":[106.36556,-6.11944],"type":"Point"}
 }

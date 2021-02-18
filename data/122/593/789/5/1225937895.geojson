@@ -34,15 +34,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072709
+        102072709,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1964766
     },
     "wof:country":"ID",
-    "wof:geomhash":"b16b7f650bccbeb2c8d53a53e784c824",
+    "wof:geomhash":"dfd76281863ec47f6efe0121e53082ce",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +53,14 @@
         }
     ],
     "wof:id":1225937895,
-    "wof:lastmodified":1537627778,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185222,
     "wof:name":"Lonjong",
     "wof:parent_id":102072709,
     "wof:placetype":"locality",
@@ -63,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.38443999999998,
+    110.38444,
     -7.26028,
-    110.38443999999998,
+    110.38444,
     -7.26028
 ],
-  "geometry": {"coordinates":[110.38443999999998,-7.26028],"type":"Point"}
+  "geometry": {"coordinates":[110.38444,-7.26028],"type":"Point"}
 }

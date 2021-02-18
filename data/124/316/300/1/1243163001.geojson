@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072819
+        102072819,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6375110
     },
     "wof:country":"ID",
-    "wof:geomhash":"57d3dd3fe29f36445ce668ee9d172a69",
+    "wof:geomhash":"ff8322ef0af4c3e51f548bba143138ee",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1243163001,
-    "wof:lastmodified":1537628427,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613184097,
     "wof:name":"Mujur",
     "wof:parent_id":102072819,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.26111000000002,
+    109.26111,
     -7.60972,
-    109.26111000000002,
+    109.26111,
     -7.60972
 ],
-  "geometry": {"coordinates":[109.26111000000002,-7.60972],"type":"Point"}
+  "geometry": {"coordinates":[109.26111,-7.60972],"type":"Point"}
 }

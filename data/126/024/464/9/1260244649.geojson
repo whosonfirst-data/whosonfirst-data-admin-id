@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672037,
-        102073179
+        102073179,
+        85672037
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1938556
     },
     "wof:country":"ID",
-    "wof:geomhash":"8165d6c9e0ec13d663fe016117d74c2d",
+    "wof:geomhash":"153d59d8fa606cdaf07569c920b5a762",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1260244649,
-    "wof:lastmodified":1536764983,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613180175,
     "wof:name":"Oeneu",
     "wof:parent_id":102073179,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    124.83693999999998,
+    124.83694,
     -9.26111,
-    124.83693999999998,
+    124.83694,
     -9.26111
 ],
-  "geometry": {"coordinates":[124.83693999999998,-9.26111],"type":"Point"}
+  "geometry": {"coordinates":[124.83694,-9.26111],"type":"Point"}
 }

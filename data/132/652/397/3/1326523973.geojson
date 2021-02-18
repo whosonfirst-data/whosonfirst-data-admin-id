@@ -38,15 +38,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073117
+        102073117,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6388853
     },
     "wof:country":"ID",
-    "wof:geomhash":"d5365133bb633c2d8aa7ae0b67a3c976",
+    "wof:geomhash":"bc015d01152a4c5f059df573da7d92cb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -57,7 +57,14 @@
         }
     ],
     "wof:id":1326523973,
-    "wof:lastmodified":1564170234,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613173228,
     "wof:name":"Pagedangan",
     "wof:parent_id":102073117,
     "wof:placetype":"locality",
@@ -67,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.21056000000002,
+    109.21056,
     -7.4225,
-    109.21056000000002,
+    109.21056,
     -7.4225
 ],
-  "geometry": {"coordinates":[109.21056000000002,-7.4225],"type":"Point"}
+  "geometry": {"coordinates":[109.21056,-7.4225],"type":"Point"}
 }

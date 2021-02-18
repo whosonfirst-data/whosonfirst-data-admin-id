@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072937
+        102072937,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6606791
     },
     "wof:country":"ID",
-    "wof:geomhash":"ae8d6f50622518269e1ba797b9925916",
+    "wof:geomhash":"0ee7c3f95091577e9bedc81fa424c541",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1293340091,
-    "wof:lastmodified":1537630124,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613176338,
     "wof:name":"Sembang Ilon",
     "wof:parent_id":102072937,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.39943999999998,
+    107.39944,
     -6.32139,
-    107.39943999999998,
+    107.39944,
     -6.32139
 ],
-  "geometry": {"coordinates":[107.39943999999998,-6.32139],"type":"Point"}
+  "geometry": {"coordinates":[107.39944,-6.32139],"type":"Point"}
 }

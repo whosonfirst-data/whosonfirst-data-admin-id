@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672103,
-        102073575
+        102073575,
+        85672103
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6984553
     },
     "wof:country":"ID",
-    "wof:geomhash":"2032325dd5d7de3023fda7e64ab28dbb",
+    "wof:geomhash":"8fa9889f131ed8356aab136e5b2a20f5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1260043419,
-    "wof:lastmodified":1537632646,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613180584,
     "wof:name":"Hijrah",
     "wof:parent_id":102073575,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    116.91483999999998,
+    116.91484,
     -8.79087,
-    116.91483999999998,
+    116.91484,
     -8.79087
 ],
-  "geometry": {"coordinates":[116.91483999999998,-8.79087],"type":"Point"}
+  "geometry": {"coordinates":[116.91484,-8.79087],"type":"Point"}
 }

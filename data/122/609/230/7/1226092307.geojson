@@ -33,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672085,
-        102073503
+        102073503,
+        85672085
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1634159
     },
     "wof:country":"ID",
-    "wof:geomhash":"5b219097e1c7ff5d2b144716733b1f4f",
+    "wof:geomhash":"3c89c5da859e6b96253eb1862ee27ca2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,7 +52,14 @@
         }
     ],
     "wof:id":1226092307,
-    "wof:lastmodified":1537626798,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613186537,
     "wof:name":"Ngajama",
     "wof:parent_id":102073503,
     "wof:placetype":"locality",
@@ -62,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    127.83771000000002,
+    127.83771,
     2.08601,
-    127.83771000000002,
+    127.83771,
     2.08601
 ],
-  "geometry": {"coordinates":[127.83771000000002,2.08601],"type":"Point"}
+  "geometry": {"coordinates":[127.83771,2.08601],"type":"Point"}
 }

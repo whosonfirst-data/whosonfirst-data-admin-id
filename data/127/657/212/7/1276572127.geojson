@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073233
+        102073233,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2009102
     },
     "wof:country":"ID",
-    "wof:geomhash":"5dc1d65aaa8015f9562f6e69b3d5de78",
+    "wof:geomhash":"6277136b44bd5b55d03ca43bb8d1eca3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1276572127,
-    "wof:lastmodified":1536956344,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177615,
     "wof:name":"Mardirejo",
     "wof:parent_id":102073233,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.66861000000002,
+    110.66861,
     -7.74417,
-    110.66861000000002,
+    110.66861,
     -7.74417
 ],
-  "geometry": {"coordinates":[110.66861000000002,-7.74417],"type":"Point"}
+  "geometry": {"coordinates":[110.66861,-7.74417],"type":"Point"}
 }

@@ -34,15 +34,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671995,
-        102073479
+        102073479,
+        85671995
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1640105
     },
     "wof:country":"ID",
-    "wof:geomhash":"55fdf72cc95c74bde58d188ca091fe24",
+    "wof:geomhash":"9317bca150c8700c4cca84638de4e8b6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +53,14 @@
         }
     ],
     "wof:id":1293639035,
-    "wof:lastmodified":1537626984,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175565,
     "wof:name":"Keleben",
     "wof:parent_id":102073479,
     "wof:placetype":"locality",
@@ -63,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.30138999999998,
+    106.30139,
     -6.03222,
-    106.30138999999998,
+    106.30139,
     -6.03222
 ],
-  "geometry": {"coordinates":[106.30138999999998,-6.03222],"type":"Point"}
+  "geometry": {"coordinates":[106.30139,-6.03222],"type":"Point"}
 }

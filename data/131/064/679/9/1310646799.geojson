@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        1108796793
+        1108796793,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6584952
     },
     "wof:country":"ID",
-    "wof:geomhash":"0a9eb8992ff45b270668b1fa532f5aaa",
+    "wof:geomhash":"85bed7a96083f1a16ec89d73e59c6906",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1310646799,
-    "wof:lastmodified":1537629577,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181093,
     "wof:name":"Cintaasih",
     "wof:parent_id":1108796793,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.38443999999998,
+    107.38444,
     -6.76417,
-    107.38443999999998,
+    107.38444,
     -6.76417
 ],
-  "geometry": {"coordinates":[107.38443999999998,-6.76417],"type":"Point"}
+  "geometry": {"coordinates":[107.38444,-6.76417],"type":"Point"}
 }

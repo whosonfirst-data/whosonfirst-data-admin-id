@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073529
+        102073529,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6579053
     },
     "wof:country":"ID",
-    "wof:geomhash":"e026db1a7e3b290b501de391d7b13bd6",
+    "wof:geomhash":"8ad4f904cc2c802f2c035eb06d3236b0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1344007759,
-    "wof:lastmodified":1537629410,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613174326,
     "wof:name":"Cisirih Hilir",
     "wof:parent_id":102073529,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.22556000000002,
+    107.22556,
     -6.79083,
-    107.22556000000002,
+    107.22556,
     -6.79083
 ],
-  "geometry": {"coordinates":[107.22556000000002,-6.79083],"type":"Point"}
+  "geometry": {"coordinates":[107.22556,-6.79083],"type":"Point"}
 }

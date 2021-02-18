@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073529
+        102073529,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6589112
     },
     "wof:country":"ID",
-    "wof:geomhash":"5c0ec6a2e30534bc2a184500d287cf3c",
+    "wof:geomhash":"072686c41e57ee988a2f94e0676f027a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1293150545,
-    "wof:lastmodified":1537629635,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175882,
     "wof:name":"Kedunggirang Kaler",
     "wof:parent_id":102073529,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.10611000000002,
+    107.10611,
     -6.80472,
-    107.10611000000002,
+    107.10611,
     -6.80472
 ],
-  "geometry": {"coordinates":[107.10611000000002,-6.80472],"type":"Point"}
+  "geometry": {"coordinates":[107.10611,-6.80472],"type":"Point"}
 }

@@ -34,7 +34,7 @@
         "gn:id":1971133
     },
     "wof:country":"ID",
-    "wof:geomhash":"9c9a7835b77fa7f608e1df6ea500a919",
+    "wof:geomhash":"adc4aae88a42221b7a029a0c156ff5bb",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209304821,
-    "wof:lastmodified":1536291232,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178473,
     "wof:name":"Karangleman",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     112.82444,
-    -7.096939999999999,
+    -7.09694,
     112.82444,
-    -7.096939999999999
+    -7.09694
 ],
   "geometry": {"coordinates":[112.82444,-7.09694],"type":"Point"}
 }

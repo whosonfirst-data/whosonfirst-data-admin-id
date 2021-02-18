@@ -92,15 +92,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672115,
-        102073081
+        102073081,
+        85672115
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1650559
     },
     "wof:country":"ID",
-    "wof:geomhash":"75d5412981e70d853e9f37e7c8f21644",
+    "wof:geomhash":"69206494dbe95b551d1d12ebb29cac0b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -111,7 +111,14 @@
         }
     ],
     "wof:id":1327286975,
-    "wof:lastmodified":1564170895,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613173471,
     "wof:name":"Bale",
     "wof:parent_id":102073081,
     "wof:placetype":"locality",
@@ -121,10 +128,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    139.93200000000002,
+    139.932,
     -2.6114,
-    139.93200000000002,
+    139.932,
     -2.6114
 ],
-  "geometry": {"coordinates":[139.93200000000002,-2.6114],"type":"Point"}
+  "geometry": {"coordinates":[139.93199999999999,-2.6114],"type":"Point"}
 }

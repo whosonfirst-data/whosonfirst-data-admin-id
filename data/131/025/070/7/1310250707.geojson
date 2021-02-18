@@ -50,15 +50,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073569
+        102073569,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6400744
     },
     "wof:country":"ID",
-    "wof:geomhash":"e1767a0723f19d958f8703f106892e6c",
+    "wof:geomhash":"421d25b75706c1a8cbfc6471949cf468",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -69,7 +69,14 @@
         }
     ],
     "wof:id":1310250707,
-    "wof:lastmodified":1564191480,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613180816,
     "wof:name":"Dago",
     "wof:parent_id":102073569,
     "wof:placetype":"locality",
@@ -79,10 +86,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.48888999999998,
+    108.48889,
     -6.96639,
-    108.48888999999998,
+    108.48889,
     -6.96639
 ],
-  "geometry": {"coordinates":[108.48888999999998,-6.96639],"type":"Point"}
+  "geometry": {"coordinates":[108.48889,-6.96639],"type":"Point"}
 }

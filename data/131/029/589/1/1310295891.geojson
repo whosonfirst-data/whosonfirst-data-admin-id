@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073405
+        102073405,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1934514
     },
     "wof:country":"ID",
-    "wof:geomhash":"58a62f5493313d3611eb9334c7d02350",
+    "wof:geomhash":"9b74cf6b9243536df8aa904b6aa72f1d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1310295891,
-    "wof:lastmodified":1536722174,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181316,
     "wof:name":"Plumpung",
     "wof:parent_id":102073405,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.86556000000002,
+    110.86556,
     -7.70278,
-    110.86556000000002,
+    110.86556,
     -7.70278
 ],
-  "geometry": {"coordinates":[110.86556000000002,-7.70278],"type":"Point"}
+  "geometry": {"coordinates":[110.86556,-7.70278],"type":"Point"}
 }

@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072809
+        102072809,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6563681
     },
     "wof:country":"ID",
-    "wof:geomhash":"dd1202a909d746753be33c0b2b527a87",
+    "wof:geomhash":"88833345b1d95defec1a30b65680c6e4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1277067711,
-    "wof:lastmodified":1537629216,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613176927,
     "wof:name":"Kaliputih",
     "wof:parent_id":102072809,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.19693999999998,
+    110.19694,
     -7.13806,
-    110.19693999999998,
+    110.19694,
     -7.13806
 ],
-  "geometry": {"coordinates":[110.19693999999998,-7.13806],"type":"Point"}
+  "geometry": {"coordinates":[110.19694,-7.13806],"type":"Point"}
 }

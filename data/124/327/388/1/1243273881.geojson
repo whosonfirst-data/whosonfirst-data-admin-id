@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672067,
-        1108796863
+        1108796863,
+        85672067
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1642443
     },
     "wof:country":"ID",
-    "wof:geomhash":"477c0bac65120d4be1116f72769243d4",
+    "wof:geomhash":"4ba13a6fb17751df1501d911e7f2faf3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,7 +54,14 @@
         }
     ],
     "wof:id":1243273881,
-    "wof:lastmodified":1537627060,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613184075,
     "wof:name":"Jodlo",
     "wof:parent_id":1108796863,
     "wof:placetype":"locality",
@@ -64,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    130.83333000000002,
+    130.83333,
     -0.86667,
-    130.83333000000002,
+    130.83333,
     -0.86667
 ],
-  "geometry": {"coordinates":[130.83333000000002,-0.86667],"type":"Point"}
+  "geometry": {"coordinates":[130.83332999999999,-0.86667],"type":"Point"}
 }

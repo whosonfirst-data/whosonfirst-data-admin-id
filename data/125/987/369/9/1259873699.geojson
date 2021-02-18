@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072983
+        102072983,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6262586
     },
     "wof:country":"ID",
-    "wof:geomhash":"650c8d93e2fba405fd39617018da6fbb",
+    "wof:geomhash":"af6166a93a64372bbcec16f3083c649a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1259873699,
-    "wof:lastmodified":1536793607,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613184997,
     "wof:name":"Magersari Kulon",
     "wof:parent_id":102072983,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.76111000000002,
+    110.76111,
     -7.37861,
-    110.76111000000002,
+    110.76111,
     -7.37861
 ],
-  "geometry": {"coordinates":[110.76111000000002,-7.37861],"type":"Point"}
+  "geometry": {"coordinates":[110.76111,-7.37861],"type":"Point"}
 }

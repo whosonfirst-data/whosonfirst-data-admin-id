@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073189
+        102073189,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2003785
     },
     "wof:country":"ID",
-    "wof:geomhash":"9a70f206c18d3e446357006e55ea8d54",
+    "wof:geomhash":"a19103d88033a9f988743b38b9ab4cbb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1242656187,
-    "wof:lastmodified":1536950895,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183990,
     "wof:name":"Prengguk",
     "wof:parent_id":102073189,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.63443999999998,
+    110.63444,
     -7.80194,
-    110.63443999999998,
+    110.63444,
     -7.80194
 ],
-  "geometry": {"coordinates":[110.63443999999998,-7.80194],"type":"Point"}
+  "geometry": {"coordinates":[110.63444,-7.80194],"type":"Point"}
 }

@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072937
+        102072937,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6606588
     },
     "wof:country":"ID",
-    "wof:geomhash":"58bc5f4e12aa13972794d985943b7759",
+    "wof:geomhash":"6c9d3447ce3ef9a69b40b55cfb6a3808",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1259729705,
-    "wof:lastmodified":1537630116,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185156,
     "wof:name":"Tangenjarak",
     "wof:parent_id":102072937,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.33693999999998,
+    107.33694,
     -5.96833,
-    107.33693999999998,
+    107.33694,
     -5.96833
 ],
-  "geometry": {"coordinates":[107.33693999999998,-5.96833],"type":"Point"}
+  "geometry": {"coordinates":[107.33694,-5.96833],"type":"Point"}
 }

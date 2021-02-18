@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073515
+        102073515,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6401564
     },
     "wof:country":"ID",
-    "wof:geomhash":"c46c9832ae6cd4902b017e9bc1a4d3b1",
+    "wof:geomhash":"50dd0fd38820e0f999f84646a5a199bf",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1276399723,
-    "wof:lastmodified":1537628844,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178118,
     "wof:name":"Cimencal",
     "wof:parent_id":102073515,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.12888999999998,
+    108.12889,
     -6.64333,
-    108.12888999999998,
+    108.12889,
     -6.64333
 ],
-  "geometry": {"coordinates":[108.12888999999998,-6.64333],"type":"Point"}
+  "geometry": {"coordinates":[108.12889,-6.64333],"type":"Point"}
 }

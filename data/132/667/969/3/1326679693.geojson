@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073083
+        102073083,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1987453
     },
     "wof:country":"ID",
-    "wof:geomhash":"a1a7f8e56db615b3e90e0bdb07840f70",
+    "wof:geomhash":"18a5260171da1fee176a00504d772090",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1326679693,
-    "wof:lastmodified":1536772243,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613172527,
     "wof:name":"Patinggi",
     "wof:parent_id":102073083,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.89388999999998,
+    106.89389,
     -6.42056,
-    106.89388999999998,
+    106.89389,
     -6.42056
 ],
-  "geometry": {"coordinates":[106.89388999999998,-6.42056],"type":"Point"}
+  "geometry": {"coordinates":[106.89389,-6.42056],"type":"Point"}
 }

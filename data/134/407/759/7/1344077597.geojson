@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072819
+        102072819,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6373612
     },
     "wof:country":"ID",
-    "wof:geomhash":"57641991ecd7190cbc00b491bb66fd57",
+    "wof:geomhash":"e6ab481d3c89b437ab6a32e7a16f93e2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1344077597,
-    "wof:lastmodified":1537628404,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613174295,
     "wof:name":"Penempen",
     "wof:parent_id":102072819,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.16443999999998,
+    109.16444,
     -7.66417,
-    109.16443999999998,
+    109.16444,
     -7.66417
 ],
-  "geometry": {"coordinates":[109.16443999999998,-7.66417],"type":"Point"}
+  "geometry": {"coordinates":[109.16444,-7.66417],"type":"Point"}
 }

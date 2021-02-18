@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072739
+        102072739,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6580811
     },
     "wof:country":"ID",
-    "wof:geomhash":"68eba23b7dcebd55d5a19aeb59276aaf",
+    "wof:geomhash":"ed1605f6f70628900b4019c52a43df17",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1344018171,
-    "wof:lastmodified":1537629453,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613174254,
     "wof:name":"Legor",
     "wof:parent_id":102072739,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.85056000000002,
+    107.85056,
     -6.85,
-    107.85056000000002,
+    107.85056,
     -6.85
 ],
-  "geometry": {"coordinates":[107.85056000000002,-6.85],"type":"Point"}
+  "geometry": {"coordinates":[107.85056,-6.85],"type":"Point"}
 }

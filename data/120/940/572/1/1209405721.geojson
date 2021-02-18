@@ -34,7 +34,7 @@
         "gn:id":6200664
     },
     "wof:country":"ID",
-    "wof:geomhash":"446f9d273646fe56929bd8b6d3c630ea",
+    "wof:geomhash":"37c319e37b71f014c54587234b898a03",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209405721,
-    "wof:lastmodified":1536288003,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178763,
     "wof:name":"Jurang",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     110.12528,
-    -7.309439999999999,
+    -7.30944,
     110.12528,
-    -7.309439999999999
+    -7.30944
 ],
   "geometry": {"coordinates":[110.12528,-7.30944],"type":"Point"}
 }

@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073233
+        102073233,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1934159
     },
     "wof:country":"ID",
-    "wof:geomhash":"f0ee10a587782600200dcb303a9f96e9",
+    "wof:geomhash":"4faf19d403c93b2c2673e4ffcaa18cc0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1327154795,
-    "wof:lastmodified":1537078530,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613172789,
     "wof:name":"Tegalmojo",
     "wof:parent_id":102073233,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.76111000000002,
+    110.76111,
     -7.64417,
-    110.76111000000002,
+    110.76111,
     -7.64417
 ],
-  "geometry": {"coordinates":[110.76111000000002,-7.64417],"type":"Point"}
+  "geometry": {"coordinates":[110.76111,-7.64417],"type":"Point"}
 }

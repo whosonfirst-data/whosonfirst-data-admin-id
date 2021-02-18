@@ -38,15 +38,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072733
+        102072733,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1934811
     },
     "wof:country":"ID",
-    "wof:geomhash":"df3b392919fccfcf0d5f2acf98bae146",
+    "wof:geomhash":"dfaa09b99d528ffd1d229cb111b033c6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -57,7 +57,14 @@
         }
     ],
     "wof:id":1276755133,
-    "wof:lastmodified":1564180342,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177083,
     "wof:name":"Ledok",
     "wof:parent_id":102072733,
     "wof:placetype":"locality",
@@ -67,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.97693999999998,
+    110.97694,
     -7.64306,
-    110.97693999999998,
+    110.97694,
     -7.64306
 ],
-  "geometry": {"coordinates":[110.97693999999998,-7.64306],"type":"Point"}
+  "geometry": {"coordinates":[110.97694,-7.64306],"type":"Point"}
 }

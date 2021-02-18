@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073313
+        102073313,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2004360
     },
     "wof:country":"ID",
-    "wof:geomhash":"5f987e12cb388e474a6e383ce3123eb7",
+    "wof:geomhash":"89795e0fcefc9e702c7b97b8cb731ac8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1343846863,
-    "wof:lastmodified":1536686235,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613174415,
     "wof:name":"Dlingo Satu",
     "wof:parent_id":102073313,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.46193999999998,
+    110.46194,
     -7.94667,
-    110.46193999999998,
+    110.46194,
     -7.94667
 ],
-  "geometry": {"coordinates":[110.46193999999998,-7.94667],"type":"Point"}
+  "geometry": {"coordinates":[110.46194,-7.94667],"type":"Point"}
 }

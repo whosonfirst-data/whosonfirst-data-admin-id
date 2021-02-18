@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102072973
+        102072973,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6408904
     },
     "wof:country":"ID",
-    "wof:geomhash":"033b307ad656fd0b84ee7c8f7d15f88b",
+    "wof:geomhash":"37ebd9db5990e1c963fd01d3cb57b0a6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1327024895,
-    "wof:lastmodified":1537629022,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613172899,
     "wof:name":"Bandar Barat",
     "wof:parent_id":102072973,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.36388999999998,
+    111.36389,
     -7.64694,
-    111.36388999999998,
+    111.36389,
     -7.64694
 ],
-  "geometry": {"coordinates":[111.36388999999998,-7.64694],"type":"Point"}
+  "geometry": {"coordinates":[111.36389,-7.64694],"type":"Point"}
 }

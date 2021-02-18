@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073217
+        102073217,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6592584
     },
     "wof:country":"ID",
-    "wof:geomhash":"ce7f92004cd8e214a4d2469f517d3838",
+    "wof:geomhash":"2d9bd11468f47675152eafc1cbc229d9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1192978613,
-    "wof:lastmodified":1537629739,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613180038,
     "wof:name":"Kadongdong",
     "wof:parent_id":102073217,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.14388999999998,
+    107.14389,
     -6.56694,
-    107.14388999999998,
+    107.14389,
     -6.56694
 ],
-  "geometry": {"coordinates":[107.14388999999998,-6.56694],"type":"Point"}
+  "geometry": {"coordinates":[107.14389,-6.56694],"type":"Point"}
 }

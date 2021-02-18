@@ -41,15 +41,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073217
+        102073217,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1960175
     },
     "wof:country":"ID",
-    "wof:geomhash":"b95434b94011f31c3182e84a849dd160",
+    "wof:geomhash":"44a8fe543f936cec09709dcccfdb8150",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -60,7 +60,14 @@
         }
     ],
     "wof:id":1310462363,
-    "wof:lastmodified":1564191340,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613180770,
     "wof:name":"Geber",
     "wof:parent_id":102073217,
     "wof:placetype":"locality",
@@ -70,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.88611000000002,
+    106.88611,
     -6.48639,
-    106.88611000000002,
+    106.88611,
     -6.48639
 ],
-  "geometry": {"coordinates":[106.88611000000002,-6.48639],"type":"Point"}
+  "geometry": {"coordinates":[106.88611,-6.48639],"type":"Point"}
 }

@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073515
+        102073515,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6399928
     },
     "wof:country":"ID",
-    "wof:geomhash":"46040e1cbf7e3bacc775f60129e941d0",
+    "wof:geomhash":"7946ec540d1747d0e8c5b6d73770caee",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1293929799,
-    "wof:lastmodified":1537628814,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613176107,
     "wof:name":"Pasanggrahan",
     "wof:parent_id":102073515,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.32361000000002,
+    108.32361,
     -6.97694,
-    108.32361000000002,
+    108.32361,
     -6.97694
 ],
-  "geometry": {"coordinates":[108.32361000000002,-6.97694],"type":"Point"}
+  "geometry": {"coordinates":[108.32361,-6.97694],"type":"Point"}
 }

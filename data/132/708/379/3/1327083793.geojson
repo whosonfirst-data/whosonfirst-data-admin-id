@@ -34,15 +34,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072949
+        102072949,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1966057
     },
     "wof:country":"ID",
-    "wof:geomhash":"5195bd1b514dff7b2a7734f137288b41",
+    "wof:geomhash":"fbb6af60c5e4b552b8658a88431f53ee",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +53,14 @@
         }
     ],
     "wof:id":1327083793,
-    "wof:lastmodified":1537627840,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613172059,
     "wof:name":"Cikawao",
     "wof:parent_id":102072949,
     "wof:placetype":"locality",
@@ -63,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.74056000000002,
+    107.74056,
     -7.08611,
-    107.74056000000002,
+    107.74056,
     -7.08611
 ],
-  "geometry": {"coordinates":[107.74056000000002,-7.08611],"type":"Point"}
+  "geometry": {"coordinates":[107.74056,-7.08611],"type":"Point"}
 }

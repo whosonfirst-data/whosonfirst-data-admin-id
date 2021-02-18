@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072947
+        102072947,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6375572
     },
     "wof:country":"ID",
-    "wof:geomhash":"7fe0e5f2a79a1fc59623bbbdf1fe0f80",
+    "wof:geomhash":"08e899d73fbc4c8531bfa411c15e313d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1276249431,
-    "wof:lastmodified":1537628440,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177931,
     "wof:name":"Lumujing",
     "wof:parent_id":102072947,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.82361000000002,
+    110.82361,
     -8.14972,
-    110.82361000000002,
+    110.82361,
     -8.14972
 ],
-  "geometry": {"coordinates":[110.82361000000002,-8.14972],"type":"Point"}
+  "geometry": {"coordinates":[110.82361,-8.14972],"type":"Point"}
 }

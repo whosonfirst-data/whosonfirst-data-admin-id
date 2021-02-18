@@ -33,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072983
+        102072983,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1973585
     },
     "wof:country":"ID",
-    "wof:geomhash":"405d6d3234d27796d6cd7ee7d5a94092",
+    "wof:geomhash":"6241c3b5a3999e060d4f8ba54d338965",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,7 +52,14 @@
         }
     ],
     "wof:id":1226163499,
-    "wof:lastmodified":1537628130,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185533,
     "wof:name":"Pancuran",
     "wof:parent_id":102072983,
     "wof:placetype":"locality",
@@ -62,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.63611000000002,
+    110.63611,
     -7.43444,
-    110.63611000000002,
+    110.63611,
     -7.43444
 ],
-  "geometry": {"coordinates":[110.63611000000002,-7.43444],"type":"Point"}
+  "geometry": {"coordinates":[110.63611,-7.43444],"type":"Point"}
 }

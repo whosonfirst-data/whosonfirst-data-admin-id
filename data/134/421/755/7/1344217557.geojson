@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671995,
-        102073479
+        102073479,
+        85671995
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1990069
     },
     "wof:country":"ID",
-    "wof:geomhash":"ef3a77c08f40e35b1b62f3091fb68547",
+    "wof:geomhash":"c74c826120d34a561136ebb3e76fcb12",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1344217557,
-    "wof:lastmodified":1536648755,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613174869,
     "wof:name":"Citawamesjid",
     "wof:parent_id":102073479,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.33138999999998,
+    106.33139,
     -6.16917,
-    106.33138999999998,
+    106.33139,
     -6.16917
 ],
-  "geometry": {"coordinates":[106.33138999999998,-6.16917],"type":"Point"}
+  "geometry": {"coordinates":[106.33139,-6.16917],"type":"Point"}
 }

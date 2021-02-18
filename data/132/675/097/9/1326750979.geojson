@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073265
+        102073265,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6258048
     },
     "wof:country":"ID",
-    "wof:geomhash":"e810db32a90c58c75be38c689bf6dca6",
+    "wof:geomhash":"dd80e2098a573509b8db7464a18d7eb8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1326750979,
-    "wof:lastmodified":1536668712,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613172325,
     "wof:name":"Panggung",
     "wof:parent_id":102073265,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.32361000000002,
+    110.32361,
     -7.64944,
-    110.32361000000002,
+    110.32361,
     -7.64944
 ],
-  "geometry": {"coordinates":[110.32361000000002,-7.64944],"type":"Point"}
+  "geometry": {"coordinates":[110.32361,-7.64944],"type":"Point"}
 }

@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073295
+        102073295,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6581834
     },
     "wof:country":"ID",
-    "wof:geomhash":"3a9e7a48b525b7d5361fde458f3497ab",
+    "wof:geomhash":"1b38671f5c43dd4fe2bc8c7a4f06cd51",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1276817863,
-    "wof:lastmodified":1537629484,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177109,
     "wof:name":"Cihuni",
     "wof:parent_id":102073295,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.56638999999998,
+    107.56639,
     -6.53639,
-    107.56638999999998,
+    107.56639,
     -6.53639
 ],
-  "geometry": {"coordinates":[107.56638999999998,-6.53639],"type":"Point"}
+  "geometry": {"coordinates":[107.56639,-6.53639],"type":"Point"}
 }

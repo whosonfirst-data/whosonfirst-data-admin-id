@@ -47,15 +47,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073313
+        102073313,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2005260
     },
     "wof:country":"ID",
-    "wof:geomhash":"afae56f1b1d7a2097cb0a50cbf47e3de",
+    "wof:geomhash":"a0632dc0967f0d722c53ae462bc4e504",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -66,7 +66,14 @@
         }
     ],
     "wof:id":1327123005,
-    "wof:lastmodified":1564169066,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613172795,
     "wof:name":"Tegal",
     "wof:parent_id":102073313,
     "wof:placetype":"locality",
@@ -76,10 +83,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.30861000000002,
+    110.30861,
     -7.83917,
-    110.30861000000002,
+    110.30861,
     -7.83917
 ],
-  "geometry": {"coordinates":[110.30861000000002,-7.83917],"type":"Point"}
+  "geometry": {"coordinates":[110.30861,-7.83917],"type":"Point"}
 }

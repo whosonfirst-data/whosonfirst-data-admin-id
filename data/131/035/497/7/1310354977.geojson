@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072739
+        102072739,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6583967
     },
     "wof:country":"ID",
-    "wof:geomhash":"1107d4b227b3c605cd21f3e5f66526a1",
+    "wof:geomhash":"93147a63d1cac0310d6372e252863e68",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1310354977,
-    "wof:lastmodified":1537629541,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181471,
     "wof:name":"Lebakgede",
     "wof:parent_id":102072739,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.80861000000002,
+    107.80861,
     -6.88361,
-    107.80861000000002,
+    107.80861,
     -6.88361
 ],
-  "geometry": {"coordinates":[107.80861000000002,-6.88361],"type":"Point"}
+  "geometry": {"coordinates":[107.80861,-6.88361],"type":"Point"}
 }

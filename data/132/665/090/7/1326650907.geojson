@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072707
+        102072707,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8060172
     },
     "wof:country":"ID",
-    "wof:geomhash":"0ed8081b7a87f9de4b1b7662c25d1862",
+    "wof:geomhash":"052c9098bbfed37a0869d3769c6bd74c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1326650907,
-    "wof:lastmodified":1537635279,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613173361,
     "wof:name":"Krajan Ngagel",
     "wof:parent_id":102072707,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.03806000000002,
+    111.03806,
     -6.48686,
-    111.03806000000002,
+    111.03806,
     -6.48686
 ],
-  "geometry": {"coordinates":[111.03806000000002,-6.48686],"type":"Point"}
+  "geometry": {"coordinates":[111.03806,-6.48686],"type":"Point"}
 }

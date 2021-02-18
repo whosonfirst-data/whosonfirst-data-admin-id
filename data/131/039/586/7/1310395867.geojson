@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102073063
+        102073063,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1971169
     },
     "wof:country":"ID",
-    "wof:geomhash":"195b285d77431d537b3da770aed260a8",
+    "wof:geomhash":"2ff791bf417c0afb63067c0a6456aefb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1310395867,
-    "wof:lastmodified":1537072057,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181176,
     "wof:name":"Nongburung",
     "wof:parent_id":102073063,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    112.91443999999998,
+    112.91444,
     -7.06,
-    112.91443999999998,
+    112.91444,
     -7.06
 ],
-  "geometry": {"coordinates":[112.91443999999998,-7.06],"type":"Point"}
+  "geometry": {"coordinates":[112.91444,-7.06],"type":"Point"}
 }

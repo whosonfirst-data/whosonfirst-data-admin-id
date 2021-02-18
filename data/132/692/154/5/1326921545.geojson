@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073405
+        102073405,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1934377
     },
     "wof:country":"ID",
-    "wof:geomhash":"35699a0b954b15fb28ab7457bd13bb80",
+    "wof:geomhash":"d62696428fa5a761b2aa669a72644403",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1326921545,
-    "wof:lastmodified":1536920877,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613172583,
     "wof:name":"Bangsri Gede",
     "wof:parent_id":102073405,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.78806000000002,
+    110.78806,
     -7.68722,
-    110.78806000000002,
+    110.78806,
     -7.68722
 ],
-  "geometry": {"coordinates":[110.78806000000002,-7.68722],"type":"Point"}
+  "geometry": {"coordinates":[110.78806,-7.68722],"type":"Point"}
 }

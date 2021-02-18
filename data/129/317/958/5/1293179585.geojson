@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073265
+        102073265,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6264483
     },
     "wof:country":"ID",
-    "wof:geomhash":"24a72598d2a1ab41c9296e3ed34f8934",
+    "wof:geomhash":"f234d8d7163c9b71006ee90e03268d9d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1293179585,
-    "wof:lastmodified":1536734235,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613176766,
     "wof:name":"Jodak Wetan",
     "wof:parent_id":102073265,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.33556000000002,
+    110.33556,
     -7.72417,
-    110.33556000000002,
+    110.33556,
     -7.72417
 ],
-  "geometry": {"coordinates":[110.33556000000002,-7.72417],"type":"Point"}
+  "geometry": {"coordinates":[110.33556,-7.72417],"type":"Point"}
 }

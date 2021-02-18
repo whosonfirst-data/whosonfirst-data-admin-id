@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102073063
+        102073063,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6771490
     },
     "wof:country":"ID",
-    "wof:geomhash":"bea6d7458509c22b5e73b3621db02a31",
+    "wof:geomhash":"f6f0655a537a4e4aa82931c6b10bbd49",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1344241829,
-    "wof:lastmodified":1537631588,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613174241,
     "wof:name":"Timursumber",
     "wof:parent_id":102073063,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    112.96271000000002,
+    112.96271,
     -7.10816,
-    112.96271000000002,
+    112.96271,
     -7.10816
 ],
-  "geometry": {"coordinates":[112.96271000000002,-7.10816],"type":"Point"}
+  "geometry": {"coordinates":[112.96271,-7.10816],"type":"Point"}
 }

@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102072775
+        102072775,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6561168
     },
     "wof:country":"ID",
-    "wof:geomhash":"44ae8f4acd51418a965d37508ed4695f",
+    "wof:geomhash":"3464bd645f0e945eff9a5824fd010e1e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1293282409,
-    "wof:lastmodified":1537629146,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613176750,
     "wof:name":"Ngrancang",
     "wof:parent_id":102072775,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.16306000000002,
+    111.16306,
     -7.37111,
-    111.16306000000002,
+    111.16306,
     -7.37111
 ],
-  "geometry": {"coordinates":[111.16306000000002,-7.37111],"type":"Point"}
+  "geometry": {"coordinates":[111.16306,-7.37111],"type":"Point"}
 }

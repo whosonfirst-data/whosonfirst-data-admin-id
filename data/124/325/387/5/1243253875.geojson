@@ -551,8 +551,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102073487
+        102073487,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -570,7 +570,14 @@
         }
     ],
     "wof:id":1243253875,
-    "wof:lastmodified":1564199547,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183521,
     "wof:name":"Bangkok",
     "wof:parent_id":102073487,
     "wof:placetype":"locality",

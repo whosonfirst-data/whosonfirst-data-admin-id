@@ -34,15 +34,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671995,
-        102073479
+        102073479,
+        85671995
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1960728
     },
     "wof:country":"ID",
-    "wof:geomhash":"5c380bcc906793771450f5b4224f9381",
+    "wof:geomhash":"948cd89e72fb8ab65936ef8b8086fe12",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +53,14 @@
         }
     ],
     "wof:id":1310650615,
-    "wof:lastmodified":1537627573,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613180916,
     "wof:name":"Pabuwaran Sembilan",
     "wof:parent_id":102073479,
     "wof:placetype":"locality",
@@ -63,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.37888999999998,
+    106.37889,
     -6.28917,
-    106.37888999999998,
+    106.37889,
     -6.28917
 ],
-  "geometry": {"coordinates":[106.37888999999998,-6.28917],"type":"Point"}
+  "geometry": {"coordinates":[106.37889,-6.28917],"type":"Point"}
 }

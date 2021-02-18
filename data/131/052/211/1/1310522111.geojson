@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073189
+        102073189,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6255982
     },
     "wof:country":"ID",
-    "wof:geomhash":"2aa2eb1fc90058f1981b60fcef43f05f",
+    "wof:geomhash":"7388bc901be7ffbb8c5a832dbc178b7f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1310522111,
-    "wof:lastmodified":1536892674,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181044,
     "wof:name":"Padas",
     "wof:parent_id":102073189,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.75388999999998,
+    110.75389,
     -7.83444,
-    110.75388999999998,
+    110.75389,
     -7.83444
 ],
-  "geometry": {"coordinates":[110.75388999999998,-7.83444],"type":"Point"}
+  "geometry": {"coordinates":[110.75389,-7.83444],"type":"Point"}
 }

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"108.199999958,4.21698935843,108.199999958,4.21698935843",
+    "geom:bbox":"108.2,4.216989,108.2,4.216989",
     "geom:latitude":4.216989,
     "geom:longitude":108.2,
     "iso:country":"ID",
@@ -117,7 +117,7 @@
     "wof:concordances":{},
     "wof:country":"ID",
     "wof:created":1499130756,
-    "wof:geomhash":"e9f7530e272b11ba710b5ebae8e44d49",
+    "wof:geomhash":"5af71015d25afad87040af3ab2d71112",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -127,7 +127,14 @@
         }
     ],
     "wof:id":1141907669,
-    "wof:lastmodified":1508889537,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613186628,
     "wof:name":"Telukbutun",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
@@ -137,10 +144,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.19999995832808,
-    4.21698935843182,
-    108.19999995832808,
-    4.21698935843182
+    108.2,
+    4.216989,
+    108.2,
+    4.216989
 ],
-  "geometry": {"coordinates":[108.19999995832808,4.21698935843182],"type":"Point"}
+  "geometry": {"coordinates":[108.2,4.216989],"type":"Point"}
 }

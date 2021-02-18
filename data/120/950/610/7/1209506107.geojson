@@ -34,7 +34,7 @@
         "gn:id":2008841
     },
     "wof:country":"ID",
-    "wof:geomhash":"0daa90ca87be418b459bd424c8816d70",
+    "wof:geomhash":"9bbfd857f97f5d664a47a0d71929a750",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209506107,
-    "wof:lastmodified":1536285030,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178904,
     "wof:name":"Jalin Wetan",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -52,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.74056000000002,
+    110.74056,
     -7.71639,
-    110.74056000000002,
+    110.74056,
     -7.71639
 ],
-  "geometry": {"coordinates":[110.74056000000002,-7.71639],"type":"Point"}
+  "geometry": {"coordinates":[110.74056,-7.71639],"type":"Point"}
 }

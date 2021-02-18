@@ -34,15 +34,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072709
+        102072709,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1962330
     },
     "wof:country":"ID",
-    "wof:geomhash":"30c06224e8c1e32c961980fb593b9408",
+    "wof:geomhash":"9877e47cbe8694feeb81ae40228d12f4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +53,14 @@
         }
     ],
     "wof:id":1242571503,
-    "wof:lastmodified":1537627654,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183137,
     "wof:name":"Kalirejo",
     "wof:parent_id":102072709,
     "wof:placetype":"locality",
@@ -63,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.42638999999998,
+    110.42639,
     -7.13722,
-    110.42638999999998,
+    110.42639,
     -7.13722
 ],
-  "geometry": {"coordinates":[110.42638999999998,-7.13722],"type":"Point"}
+  "geometry": {"coordinates":[110.42639,-7.13722],"type":"Point"}
 }

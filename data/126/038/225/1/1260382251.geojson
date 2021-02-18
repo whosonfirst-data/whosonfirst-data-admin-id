@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072709
+        102072709,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6257735
     },
     "wof:country":"ID",
-    "wof:geomhash":"8cec315124ff0add8e2e701895c5d948",
+    "wof:geomhash":"8a2cc1ffe64742ffeef80a88d50d28b4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1260382251,
-    "wof:lastmodified":1537073606,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613180325,
     "wof:name":"Bugisan",
     "wof:parent_id":102072709,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.41306000000002,
+    110.41306,
     -7.26833,
-    110.41306000000002,
+    110.41306,
     -7.26833
 ],
-  "geometry": {"coordinates":[110.41306000000002,-7.26833],"type":"Point"}
+  "geometry": {"coordinates":[110.41306,-7.26833],"type":"Point"}
 }

@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672067,
-        102073049
+        102073049,
+        85672067
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1648043
     },
     "wof:country":"ID",
-    "wof:geomhash":"1f93bfbedd44a8b1c1da441240f38d6d",
+    "wof:geomhash":"843d44c6e3ed5b7331d2bfb5df404183",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1210026155,
-    "wof:lastmodified":1536390635,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179704,
     "wof:name":"Brongkendik",
     "wof:parent_id":102073049,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    132.33333000000002,
+    132.33333,
     -2.93333,
-    132.33333000000002,
+    132.33333,
     -2.93333
 ],
-  "geometry": {"coordinates":[132.33333000000002,-2.93333],"type":"Point"}
+  "geometry": {"coordinates":[132.33332999999999,-2.93333],"type":"Point"}
 }

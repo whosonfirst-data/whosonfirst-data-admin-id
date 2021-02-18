@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073217
+        102073217,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1986960
     },
     "wof:country":"ID",
-    "wof:geomhash":"4d8aa638c8e1d9504c8bec7d9de169f3",
+    "wof:geomhash":"009b9eabd5ca8f24a54f749869ffcbc4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1326590389,
-    "wof:lastmodified":1536900349,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613172549,
     "wof:name":"Gudangdinamit",
     "wof:parent_id":102073217,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.93361000000002,
+    106.93361,
     -6.49889,
-    106.93361000000002,
+    106.93361,
     -6.49889
 ],
-  "geometry": {"coordinates":[106.93361000000002,-6.49889],"type":"Point"}
+  "geometry": {"coordinates":[106.93361,-6.49889],"type":"Point"}
 }

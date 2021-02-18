@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102073013
+        102073013,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6387023
     },
     "wof:country":"ID",
-    "wof:geomhash":"80c2bda4646eca92be39cad2978d0943",
+    "wof:geomhash":"ee0c319f1d0b955b62aab22df9aa210a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1343451121,
-    "wof:lastmodified":1537628626,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175128,
     "wof:name":"Dadapan",
     "wof:parent_id":102073013,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.30138999999998,
+    111.30139,
     -8.12861,
-    111.30138999999998,
+    111.30139,
     -8.12861
 ],
-  "geometry": {"coordinates":[111.30138999999998,-8.12861],"type":"Point"}
+  "geometry": {"coordinates":[111.30139,-8.12861],"type":"Point"}
 }

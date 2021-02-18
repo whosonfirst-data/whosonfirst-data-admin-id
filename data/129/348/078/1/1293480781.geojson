@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072819
+        102072819,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6387588
     },
     "wof:country":"ID",
-    "wof:geomhash":"e0c70fdcf54919418293c76b402780c5",
+    "wof:geomhash":"3000009619e42eb68970765795d296c5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1293480781,
-    "wof:lastmodified":1537628645,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175780,
     "wof:name":"Binangun Barat",
     "wof:parent_id":102072819,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.89943999999998,
+    108.89944,
     -7.38722,
-    108.89943999999998,
+    108.89944,
     -7.38722
 ],
-  "geometry": {"coordinates":[108.89943999999998,-7.38722],"type":"Point"}
+  "geometry": {"coordinates":[108.89944,-7.38722],"type":"Point"}
 }

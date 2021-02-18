@@ -34,15 +34,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672115,
-        1108796879
+        1108796879,
+        85672115
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2082423
     },
     "wof:country":"ID",
-    "wof:geomhash":"a40d2dc9ac30e323a124d142bd4f7203",
+    "wof:geomhash":"b71068d981da73bfb71d687dd5fc722e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +53,14 @@
         }
     ],
     "wof:id":1226061093,
-    "wof:lastmodified":1537628273,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613186375,
     "wof:name":"Teyokoh",
     "wof:parent_id":1108796879,
     "wof:placetype":"locality",
@@ -63,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    140.16666999999998,
+    140.16667,
     -6.26667,
-    140.16666999999998,
+    140.16667,
     -6.26667
 ],
-  "geometry": {"coordinates":[140.16666999999998,-6.26667],"type":"Point"}
+  "geometry": {"coordinates":[140.16667000000001,-6.26667],"type":"Point"}
 }

@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073193
+        102073193,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6569379
     },
     "wof:country":"ID",
-    "wof:geomhash":"a79f3229ed170ca075be2ad4196116cf",
+    "wof:geomhash":"5b7280e32fed5de7692f80654c7752ec",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1326490609,
-    "wof:lastmodified":1537629377,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613173030,
     "wof:name":"Rancamaung Satu",
     "wof:parent_id":102073193,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.10056000000002,
+    108.10056,
     -6.35083,
-    108.10056000000002,
+    108.10056,
     -6.35083
 ],
-  "geometry": {"coordinates":[108.10056000000002,-6.35083],"type":"Point"}
+  "geometry": {"coordinates":[108.10056,-6.35083],"type":"Point"}
 }

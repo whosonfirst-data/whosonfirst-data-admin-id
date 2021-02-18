@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072929
+        102072929,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6409752
     },
     "wof:country":"ID",
-    "wof:geomhash":"aaf02014e8f90a61b73a945796590eac",
+    "wof:geomhash":"83bed8fec9bd67616bd1218f4ba33613",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1242771565,
-    "wof:lastmodified":1537629053,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183804,
     "wof:name":"Ngablak",
     "wof:parent_id":102072929,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.02306000000002,
+    111.02306,
     -7.44333,
-    111.02306000000002,
+    111.02306,
     -7.44333
 ],
-  "geometry": {"coordinates":[111.02306000000002,-7.44333],"type":"Point"}
+  "geometry": {"coordinates":[111.02306,-7.44333],"type":"Point"}
 }

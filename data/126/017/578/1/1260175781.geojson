@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072709
+        102072709,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6410646
     },
     "wof:country":"ID",
-    "wof:geomhash":"f0210876a8b346ae2d0cf589a5a9b7af",
+    "wof:geomhash":"00c2957b97fce6d958bf1977d715f58a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1260175781,
-    "wof:lastmodified":1537629083,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613180522,
     "wof:name":"Pabatan",
     "wof:parent_id":102072709,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.38611000000002,
+    110.38611,
     -7.14833,
-    110.38611000000002,
+    110.38611,
     -7.14833
 ],
-  "geometry": {"coordinates":[110.38611000000002,-7.14833],"type":"Point"}
+  "geometry": {"coordinates":[110.38611,-7.14833],"type":"Point"}
 }

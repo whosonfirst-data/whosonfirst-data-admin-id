@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073529
+        102073529,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6579542
     },
     "wof:country":"ID",
-    "wof:geomhash":"6911b51451f47cccaeb366f7a20c108e",
+    "wof:geomhash":"a53b1699e2ed1345663bf7a5893da847",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1327493487,
-    "wof:lastmodified":1537629431,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613172773,
     "wof:name":"Bojongsari",
     "wof:parent_id":102073529,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.20638999999998,
+    107.20639,
     -6.85722,
-    107.20638999999998,
+    107.20639,
     -6.85722
 ],
-  "geometry": {"coordinates":[107.20638999999998,-6.85722],"type":"Point"}
+  "geometry": {"coordinates":[107.20639,-6.85722],"type":"Point"}
 }

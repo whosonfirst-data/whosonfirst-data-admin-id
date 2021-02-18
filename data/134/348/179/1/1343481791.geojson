@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072947
+        102072947,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6256328
     },
     "wof:country":"ID",
-    "wof:geomhash":"ccc33d5b7bd5c28837ec1d7da7c22452",
+    "wof:geomhash":"1bab7aa4730c19b190808793c1c57fba",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1343481791,
-    "wof:lastmodified":1536715716,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613174390,
     "wof:name":"Kaliancar",
     "wof:parent_id":102072947,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.89806000000002,
+    110.89806,
     -7.78389,
-    110.89806000000002,
+    110.89806,
     -7.78389
 ],
-  "geometry": {"coordinates":[110.89806000000002,-7.78389],"type":"Point"}
+  "geometry": {"coordinates":[110.89806,-7.78389],"type":"Point"}
 }

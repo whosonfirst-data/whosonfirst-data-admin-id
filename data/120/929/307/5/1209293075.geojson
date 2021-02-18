@@ -34,7 +34,7 @@
         "gn:id":6264803
     },
     "wof:country":"ID",
-    "wof:geomhash":"315a2d5bb225511742819c5247685747",
+    "wof:geomhash":"5299bee32027337541d0e9a158c14afe",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209293075,
-    "wof:lastmodified":1536291626,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179267,
     "wof:name":"Penen",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     110.40111,
-    -7.697780000000002,
+    -7.69778,
     110.40111,
-    -7.697780000000002
+    -7.69778
 ],
   "geometry": {"coordinates":[110.40111,-7.69778],"type":"Point"}
 }

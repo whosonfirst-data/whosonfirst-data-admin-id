@@ -46,7 +46,7 @@
         "gn:id":2002541
     },
     "wof:country":"ID",
-    "wof:geomhash":"0e357e03b79f0a3c44e355896460fe99",
+    "wof:geomhash":"dfe9841dc4050b5eb5944fefa73eaf65",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -54,7 +54,14 @@
         }
     ],
     "wof:id":1209610093,
-    "wof:lastmodified":1564185803,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178977,
     "wof:name":"Manding",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -64,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.35056000000002,
+    110.35056,
     -7.895,
-    110.35056000000002,
+    110.35056,
     -7.895
 ],
-  "geometry": {"coordinates":[110.35056000000002,-7.895],"type":"Point"}
+  "geometry": {"coordinates":[110.35056,-7.895],"type":"Point"}
 }

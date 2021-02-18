@@ -37,7 +37,7 @@
         "gn:id":6584435
     },
     "wof:country":"ID",
-    "wof:geomhash":"3d519f22d9fe3597b744baf6076623b1",
+    "wof:geomhash":"fbc648d740742cd52356b231cf97a920",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -45,7 +45,14 @@
         }
     ],
     "wof:id":1209055961,
-    "wof:lastmodified":1537629560,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179192,
     "wof:name":"Bojongsalam",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -55,10 +62,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.80306000000002,
+    107.80306,
     -6.98667,
-    107.80306000000002,
+    107.80306,
     -6.98667
 ],
-  "geometry": {"coordinates":[107.80306000000002,-6.98667],"type":"Point"}
+  "geometry": {"coordinates":[107.80306,-6.98667],"type":"Point"}
 }

@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073217
+        102073217,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6597369
     },
     "wof:country":"ID",
-    "wof:geomhash":"dfb5140d639396d81d7ff2a1f268f02c",
+    "wof:geomhash":"c481d329f0e44f8fa7092b9a7840ac07",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1276602569,
-    "wof:lastmodified":1537629884,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177422,
     "wof:name":"Cibogo",
     "wof:parent_id":102073217,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.87888999999998,
+    106.87889,
     -6.65472,
-    106.87888999999998,
+    106.87889,
     -6.65472
 ],
-  "geometry": {"coordinates":[106.87888999999998,-6.65472],"type":"Point"}
+  "geometry": {"coordinates":[106.87889,-6.65472],"type":"Point"}
 }

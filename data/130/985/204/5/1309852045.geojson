@@ -89,15 +89,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073551
+        102073551,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1964387
     },
     "wof:country":"ID",
-    "wof:geomhash":"3634167ff2d63a5381d35c203d226336",
+    "wof:geomhash":"478c21db5eba526d4b2416d74782a5db",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -108,7 +108,14 @@
         }
     ],
     "wof:id":1309852045,
-    "wof:lastmodified":1564196041,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613182315,
     "wof:name":"Gandu",
     "wof:parent_id":102073551,
     "wof:placetype":"locality",
@@ -118,10 +125,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.18361000000002,
+    107.18361,
     -6.165,
-    107.18361000000002,
+    107.18361,
     -6.165
 ],
-  "geometry": {"coordinates":[107.18361000000002,-6.165],"type":"Point"}
+  "geometry": {"coordinates":[107.18361,-6.165],"type":"Point"}
 }

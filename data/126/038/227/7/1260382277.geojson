@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072715
+        102072715,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6375310
     },
     "wof:country":"ID",
-    "wof:geomhash":"52ad0e5c0d7e365b85c7d1b942838176",
+    "wof:geomhash":"71a11dbbb5ac0ccac20f2ab1d67e4db8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1260382277,
-    "wof:lastmodified":1537628432,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613180310,
     "wof:name":"Cibuk",
     "wof:parent_id":102072715,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.28943999999998,
+    109.28944,
     -7.55778,
-    109.28943999999998,
+    109.28944,
     -7.55778
 ],
-  "geometry": {"coordinates":[109.28943999999998,-7.55778],"type":"Point"}
+  "geometry": {"coordinates":[109.28944,-7.55778],"type":"Point"}
 }

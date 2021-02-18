@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073083
+        102073083,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1986797
     },
     "wof:country":"ID",
-    "wof:geomhash":"30994c3877321916bb36909ef296cc3d",
+    "wof:geomhash":"4e9a4933990d35f2c77fc7c3fb748dbb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1243600413,
-    "wof:lastmodified":1537077510,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183684,
     "wof:name":"Grogol Sebrang",
     "wof:parent_id":102073083,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.78806000000002,
+    106.78806,
     -6.38222,
-    106.78806000000002,
+    106.78806,
     -6.38222
 ],
-  "geometry": {"coordinates":[106.78806000000002,-6.38222],"type":"Point"}
+  "geometry": {"coordinates":[106.78806,-6.38222],"type":"Point"}
 }

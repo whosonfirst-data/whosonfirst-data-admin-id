@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072947
+        102072947,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6406954
     },
     "wof:country":"ID",
-    "wof:geomhash":"5cc68c7011e0ddb96a808a53e6773c07",
+    "wof:geomhash":"efb9c812db0766bc0e691424ce55c0df",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1242993667,
-    "wof:lastmodified":1537628973,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613184048,
     "wof:name":"Ploso",
     "wof:parent_id":102072947,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.21056000000002,
+    111.21056,
     -7.76583,
-    111.21056000000002,
+    111.21056,
     -7.76583
 ],
-  "geometry": {"coordinates":[111.21056000000002,-7.76583],"type":"Point"}
+  "geometry": {"coordinates":[111.21056,-7.76583],"type":"Point"}
 }

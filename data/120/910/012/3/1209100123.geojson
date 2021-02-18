@@ -34,7 +34,7 @@
         "gn:id":6199998
     },
     "wof:country":"ID",
-    "wof:geomhash":"78cc6e4f9961878fb0d1a7f0b510e658",
+    "wof:geomhash":"f2b5effbbaeca8772b3132501a6c28cc",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209100123,
-    "wof:lastmodified":1536297760,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179510,
     "wof:name":"Kalianggrung",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -52,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.03806000000002,
+    110.03806,
     -7.33472,
-    110.03806000000002,
+    110.03806,
     -7.33472
 ],
-  "geometry": {"coordinates":[110.03806000000002,-7.33472],"type":"Point"}
+  "geometry": {"coordinates":[110.03806,-7.33472],"type":"Point"}
 }

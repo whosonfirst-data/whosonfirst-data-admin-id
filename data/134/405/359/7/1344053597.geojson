@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072857
+        102072857,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6260909
     },
     "wof:country":"ID",
-    "wof:geomhash":"ae5cf1d48aca580e879d365df69a86dc",
+    "wof:geomhash":"fda8bd3ce498f8fbf0b7844134fc3b2c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1344053597,
-    "wof:lastmodified":1536885026,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175006,
     "wof:name":"Podosoko Dua",
     "wof:parent_id":102072857,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.24611000000002,
+    110.24611,
     -7.52194,
-    110.24611000000002,
+    110.24611,
     -7.52194
 ],
-  "geometry": {"coordinates":[110.24611000000002,-7.52194],"type":"Point"}
+  "geometry": {"coordinates":[110.24611,-7.52194],"type":"Point"}
 }

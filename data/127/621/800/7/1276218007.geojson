@@ -44,15 +44,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072709
+        102072709,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6257711
     },
     "wof:country":"ID",
-    "wof:geomhash":"0f67d2bf2965f3504ee8e7f1bc764619",
+    "wof:geomhash":"ed3621fe1dffdb977a046ad16f65bafc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -63,7 +63,14 @@
         }
     ],
     "wof:id":1276218007,
-    "wof:lastmodified":1564180696,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177207,
     "wof:name":"Kerep",
     "wof:parent_id":102072709,
     "wof:placetype":"locality",
@@ -73,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.39943999999998,
+    110.39944,
     -7.25528,
-    110.39943999999998,
+    110.39944,
     -7.25528
 ],
-  "geometry": {"coordinates":[110.39943999999998,-7.25528],"type":"Point"}
+  "geometry": {"coordinates":[110.39944,-7.25528],"type":"Point"}
 }

@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072733
+        102072733,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6570540
     },
     "wof:country":"ID",
-    "wof:geomhash":"f5909e3f75762c5ccaa7513e68001886",
+    "wof:geomhash":"084b791aed8b8278a12d8a1c2659247b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1209706657,
-    "wof:lastmodified":1537629395,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178665,
     "wof:name":"Sekarsari",
     "wof:parent_id":102072733,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.11388999999998,
+    111.11389,
     -7.60944,
-    111.11388999999998,
+    111.11389,
     -7.60944
 ],
-  "geometry": {"coordinates":[111.11388999999998,-7.60944],"type":"Point"}
+  "geometry": {"coordinates":[111.11389,-7.60944],"type":"Point"}
 }

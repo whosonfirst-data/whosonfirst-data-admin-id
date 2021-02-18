@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672009,
-        1108796809
+        1108796809,
+        85672009
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7666135
     },
     "wof:country":"ID",
-    "wof:geomhash":"9c04534f30a566790f4ca38fa1fcdacb",
+    "wof:geomhash":"0ce4d87caa47e5aad32aea0094547326",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1243142115,
-    "wof:lastmodified":1537634203,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183464,
     "wof:name":"Sindangayu",
     "wof:parent_id":1108796809,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    105.57193999999998,
+    105.57194,
     -5.52526,
-    105.57193999999998,
+    105.57194,
     -5.52526
 ],
-  "geometry": {"coordinates":[105.57193999999998,-5.52526],"type":"Point"}
+  "geometry": {"coordinates":[105.57194,-5.52526],"type":"Point"}
 }

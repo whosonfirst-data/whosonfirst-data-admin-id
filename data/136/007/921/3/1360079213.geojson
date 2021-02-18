@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072983
+        102072983,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6263293
     },
     "wof:country":"ID",
-    "wof:geomhash":"c01ba96bff74d2237d52e714fca32f84",
+    "wof:geomhash":"bc65d7bdd945e20396b8bfd103564448",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1360079213,
-    "wof:lastmodified":1536954276,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181870,
     "wof:name":"Grinjingan",
     "wof:parent_id":102072983,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.79361000000002,
+    110.79361,
     -7.31111,
-    110.79361000000002,
+    110.79361,
     -7.31111
 ],
-  "geometry": {"coordinates":[110.79361000000002,-7.31111],"type":"Point"}
+  "geometry": {"coordinates":[110.79361,-7.31111],"type":"Point"}
 }

@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072639
+        102072639,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6376720
     },
     "wof:country":"ID",
-    "wof:geomhash":"201f3434b33628f8e62d15d30632a5ec",
+    "wof:geomhash":"2594ffc65b705bc799fbbf03a30b1f4d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1310497927,
-    "wof:lastmodified":1537628472,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613180866,
     "wof:name":"Kedungbener",
     "wof:parent_id":102072639,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.69138999999998,
+    109.69139,
     -7.69056,
-    109.69138999999998,
+    109.69139,
     -7.69056
 ],
-  "geometry": {"coordinates":[109.69138999999998,-7.69056],"type":"Point"}
+  "geometry": {"coordinates":[109.69139,-7.69056],"type":"Point"}
 }

@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073505
+        102073505,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6396797
     },
     "wof:country":"ID",
-    "wof:geomhash":"54baea87fce2f677c1cd7a13abab7d01",
+    "wof:geomhash":"caafef45caee664b1c647a7de229f469",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1310051489,
-    "wof:lastmodified":1537628763,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181605,
     "wof:name":"Ciawi",
     "wof:parent_id":102073505,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.44138999999998,
+    108.44139,
     -6.69833,
-    108.44138999999998,
+    108.44139,
     -6.69833
 ],
-  "geometry": {"coordinates":[108.44138999999998,-6.69833],"type":"Point"}
+  "geometry": {"coordinates":[108.44139,-6.69833],"type":"Point"}
 }

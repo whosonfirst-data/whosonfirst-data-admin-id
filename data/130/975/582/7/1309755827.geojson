@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073217
+        102073217,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6604871
     },
     "wof:country":"ID",
-    "wof:geomhash":"b73d9b57c957cbcb178f8d7c1a304190",
+    "wof:geomhash":"ed7e097db5b4c0cb742fcb362e7f2135",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1309755827,
-    "wof:lastmodified":1537630051,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613182562,
     "wof:name":"Cimaniis Dua",
     "wof:parent_id":102073217,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.58138999999998,
+    106.58139,
     -6.60222,
-    106.58138999999998,
+    106.58139,
     -6.60222
 ],
-  "geometry": {"coordinates":[106.58138999999998,-6.60222],"type":"Point"}
+  "geometry": {"coordinates":[106.58139,-6.60222],"type":"Point"}
 }

@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072639
+        102072639,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6372461
     },
     "wof:country":"ID",
-    "wof:geomhash":"f1188b4d3b8d238a8434c45c7055c2f3",
+    "wof:geomhash":"177577e30ec03ab03c1b0f3f334aaca6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1309826929,
-    "wof:lastmodified":1537628368,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613182341,
     "wof:name":"Pejaten",
     "wof:parent_id":102072639,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.53943999999998,
+    109.53944,
     -7.58528,
-    109.53943999999998,
+    109.53944,
     -7.58528
 ],
-  "geometry": {"coordinates":[109.53943999999998,-7.58528],"type":"Point"}
+  "geometry": {"coordinates":[109.53944,-7.58528],"type":"Point"}
 }

@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072947
+        102072947,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6405863
     },
     "wof:country":"ID",
-    "wof:geomhash":"20d1f655f1edede585d3bbd6827dd6b6",
+    "wof:geomhash":"96f20170c1ced5ea3ea6d9587890625c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1343381933,
-    "wof:lastmodified":1537628941,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613173793,
     "wof:name":"Tekil Lor",
     "wof:parent_id":102072947,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.03806000000002,
+    111.03806,
     -7.90028,
-    111.03806000000002,
+    111.03806,
     -7.90028
 ],
-  "geometry": {"coordinates":[111.03806000000002,-7.90028],"type":"Point"}
+  "geometry": {"coordinates":[111.03806,-7.90028],"type":"Point"}
 }

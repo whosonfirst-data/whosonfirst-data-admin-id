@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        1108796793
+        1108796793,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1961349
     },
     "wof:country":"ID",
-    "wof:geomhash":"c6203f8c5d26b5828a4c312804f55f25",
+    "wof:geomhash":"e8d2e0bc7bf5a472a89bbfabb4ef42e5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1326675939,
-    "wof:lastmodified":1537627605,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613172511,
     "wof:name":"Barukai",
     "wof:parent_id":1108796793,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.55861000000002,
+    107.55861,
     -6.81278,
-    107.55861000000002,
+    107.55861,
     -6.81278
 ],
-  "geometry": {"coordinates":[107.55861000000002,-6.81278],"type":"Point"}
+  "geometry": {"coordinates":[107.55861,-6.81278],"type":"Point"}
 }

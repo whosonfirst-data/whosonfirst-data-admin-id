@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072929
+        102072929,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6266213
     },
     "wof:country":"ID",
-    "wof:geomhash":"d9ce9702f1085b402167e57c76d54e00",
+    "wof:geomhash":"80f4d293d1edadf080c772743ba0c10d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1242698307,
-    "wof:lastmodified":1536889550,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183326,
     "wof:name":"Bendunganasem",
     "wof:parent_id":102072929,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.91861000000002,
+    110.91861,
     -7.41806,
-    110.91861000000002,
+    110.91861,
     -7.41806
 ],
-  "geometry": {"coordinates":[110.91861000000002,-7.41806],"type":"Point"}
+  "geometry": {"coordinates":[110.91861,-7.41806],"type":"Point"}
 }

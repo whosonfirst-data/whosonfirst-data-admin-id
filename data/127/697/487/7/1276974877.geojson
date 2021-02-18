@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073265
+        102073265,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6265032
     },
     "wof:country":"ID",
-    "wof:geomhash":"cd1741811dcf712f54b082f98156e644",
+    "wof:geomhash":"4b7186b5cd54e555a69d379a2da285c3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1276974877,
-    "wof:lastmodified":1564183138,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178070,
     "wof:name":"Balangan",
     "wof:parent_id":102073265,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.43361000000002,
+    110.43361,
     -7.6625,
-    110.43361000000002,
+    110.43361,
     -7.6625
 ],
-  "geometry": {"coordinates":[110.43361000000002,-7.6625],"type":"Point"}
+  "geometry": {"coordinates":[110.43361,-7.6625],"type":"Point"}
 }

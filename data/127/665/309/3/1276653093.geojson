@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072715
+        102072715,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6388829
     },
     "wof:country":"ID",
-    "wof:geomhash":"73b69c2d3004d9c04a3ac57f9a998481",
+    "wof:geomhash":"41f83a6094fe9f58216cb50b61c25e3e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1276653093,
-    "wof:lastmodified":1537628679,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178150,
     "wof:name":"Pasir Wetan",
     "wof:parent_id":102072715,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.20638999999998,
+    109.20639,
     -7.41111,
-    109.20638999999998,
+    109.20639,
     -7.41111
 ],
-  "geometry": {"coordinates":[109.20638999999998,-7.41111],"type":"Point"}
+  "geometry": {"coordinates":[109.20639,-7.41111],"type":"Point"}
 }

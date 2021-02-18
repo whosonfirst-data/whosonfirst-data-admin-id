@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072855
+        102072855,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6603549
     },
     "wof:country":"ID",
-    "wof:geomhash":"28b35efba6195d4d4dd2a463184d9520",
+    "wof:geomhash":"046be5e833105a132ac43c8c71925d1d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1209776125,
-    "wof:lastmodified":1537630005,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178625,
     "wof:name":"Bumisari",
     "wof:parent_id":102072855,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.66861000000002,
+    106.66861,
     -6.91667,
-    106.66861000000002,
+    106.66861,
     -6.91667
 ],
-  "geometry": {"coordinates":[106.66861000000002,-6.91667],"type":"Point"}
+  "geometry": {"coordinates":[106.66861,-6.91667],"type":"Point"}
 }

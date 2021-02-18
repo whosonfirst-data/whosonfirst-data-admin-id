@@ -36,15 +36,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672085,
-        1108796819
+        1108796819,
+        85672085
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1628221
     },
     "wof:country":"ID",
-    "wof:geomhash":"7175b81d40c028f49e9e8f29e33bc8ba",
+    "wof:geomhash":"389ff505415168b1f6c2ab839730722c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -55,7 +55,14 @@
         }
     ],
     "wof:id":1277035935,
-    "wof:lastmodified":1537626621,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177731,
     "wof:name":"Sagea",
     "wof:parent_id":1108796819,
     "wof:placetype":"locality",
@@ -65,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    128.09748000000002,
+    128.09748,
     0.46361,
-    128.09748000000002,
+    128.09748,
     0.46361
 ],
-  "geometry": {"coordinates":[128.09748000000002,0.46361],"type":"Point"}
+  "geometry": {"coordinates":[128.09747999999999,0.46361],"type":"Point"}
 }

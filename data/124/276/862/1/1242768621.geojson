@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072983
+        102072983,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2009424
     },
     "wof:country":"ID",
-    "wof:geomhash":"f7bdac974e4f3be8e7c3a0e0798a81cf",
+    "wof:geomhash":"b047da5445bd37a9438dabf51d3d7ec2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,7 +54,14 @@
         }
     ],
     "wof:id":1242768621,
-    "wof:lastmodified":1564200549,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183858,
     "wof:name":"Seru",
     "wof:parent_id":102072983,
     "wof:placetype":"locality",
@@ -64,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.56638999999998,
+    110.56639,
     -7.525,
-    110.56638999999998,
+    110.56639,
     -7.525
 ],
-  "geometry": {"coordinates":[110.56638999999998,-7.525],"type":"Point"}
+  "geometry": {"coordinates":[110.56639,-7.525],"type":"Point"}
 }

@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073233
+        102073233,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2011545
     },
     "wof:country":"ID",
-    "wof:geomhash":"0fee322ef2d347aaf69c123ce86b747b",
+    "wof:geomhash":"851620e7a98076bf02f1e2551f0dddee",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1293121713,
-    "wof:lastmodified":1536816678,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175913,
     "wof:name":"Sidowayah",
     "wof:parent_id":102073233,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.66443999999998,
+    110.66444,
     -7.59333,
-    110.66443999999998,
+    110.66444,
     -7.59333
 ],
-  "geometry": {"coordinates":[110.66443999999998,-7.59333],"type":"Point"}
+  "geometry": {"coordinates":[110.66444,-7.59333],"type":"Point"}
 }

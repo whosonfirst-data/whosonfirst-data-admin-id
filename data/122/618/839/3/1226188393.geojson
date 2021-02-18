@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672001,
-        102072667
+        102072667,
+        85672001
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1960420
     },
     "wof:country":"ID",
-    "wof:geomhash":"ef792544fff2bfbbafb0d47083314637",
+    "wof:geomhash":"8567b12090b178edc013de4fcb2e4bb3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1226188393,
-    "wof:lastmodified":1537015541,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185480,
     "wof:name":"Pedurenan Tiga",
     "wof:parent_id":102072667,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.81638999999998,
+    106.81639,
     -6.27139,
-    106.81638999999998,
+    106.81639,
     -6.27139
 ],
-  "geometry": {"coordinates":[106.81638999999998,-6.27139],"type":"Point"}
+  "geometry": {"coordinates":[106.81639,-6.27139],"type":"Point"}
 }

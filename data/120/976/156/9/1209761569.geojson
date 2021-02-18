@@ -36,15 +36,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671995,
-        102072687
+        102072687,
+        85671995
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1648378
     },
     "wof:country":"ID",
-    "wof:geomhash":"744318d4a01f7e311c4499c572ac817e",
+    "wof:geomhash":"f821af4c7c834c0b69b8dc12b0efe127",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -55,7 +55,14 @@
         }
     ],
     "wof:id":1209761569,
-    "wof:lastmodified":1537627290,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178856,
     "wof:name":"Bencongan",
     "wof:parent_id":102072687,
     "wof:placetype":"locality",
@@ -65,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.60611000000002,
+    106.60611,
     -6.22,
-    106.60611000000002,
+    106.60611,
     -6.22
 ],
-  "geometry": {"coordinates":[106.60611000000002,-6.22],"type":"Point"}
+  "geometry": {"coordinates":[106.60611,-6.22],"type":"Point"}
 }

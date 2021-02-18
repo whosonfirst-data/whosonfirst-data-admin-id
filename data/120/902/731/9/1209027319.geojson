@@ -67,7 +67,7 @@
         "gn:id":6253241
     },
     "wof:country":"ID",
-    "wof:geomhash":"12358b265d9c9c2d645736d3319a7e72",
+    "wof:geomhash":"8c16e12e753a311575f920adb56b479f",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -75,7 +75,14 @@
         }
     ],
     "wof:id":1209027319,
-    "wof:lastmodified":1564186448,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179206,
     "wof:name":"Tempel",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -85,10 +92,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.74056000000002,
+    110.74056,
     -7.38944,
-    110.74056000000002,
+    110.74056,
     -7.38944
 ],
-  "geometry": {"coordinates":[110.74056000000002,-7.38944],"type":"Point"}
+  "geometry": {"coordinates":[110.74056,-7.38944],"type":"Point"}
 }

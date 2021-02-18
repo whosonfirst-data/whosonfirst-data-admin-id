@@ -37,7 +37,7 @@
         "gn:id":6567472
     },
     "wof:country":"ID",
-    "wof:geomhash":"eb33a0de59dee55cce3962bb51d15145",
+    "wof:geomhash":"519d5ae2d4b152f5094b15b5cb59fc7b",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -45,7 +45,14 @@
         }
     ],
     "wof:id":1209635929,
-    "wof:lastmodified":1537629323,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178522,
     "wof:name":"Beran Lor",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -55,10 +62,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.99611000000002,
+    109.99611,
     -7.49667,
-    109.99611000000002,
+    109.99611,
     -7.49667
 ],
-  "geometry": {"coordinates":[109.99611000000002,-7.49667],"type":"Point"}
+  "geometry": {"coordinates":[109.99611,-7.49667],"type":"Point"}
 }

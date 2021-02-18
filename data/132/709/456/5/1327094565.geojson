@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073529
+        102073529,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6588785
     },
     "wof:country":"ID",
-    "wof:geomhash":"a215f512b50ff02e1b851413fd2d7ea3",
+    "wof:geomhash":"01d0db26ab0c70b857fc15fca47f7abe",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1327094565,
-    "wof:lastmodified":1537629624,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613172138,
     "wof:name":"Pilekan",
     "wof:parent_id":102073529,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.14806000000002,
+    107.14806,
     -6.96917,
-    107.14806000000002,
+    107.14806,
     -6.96917
 ],
-  "geometry": {"coordinates":[107.14806000000002,-6.96917],"type":"Point"}
+  "geometry": {"coordinates":[107.14806,-6.96917],"type":"Point"}
 }

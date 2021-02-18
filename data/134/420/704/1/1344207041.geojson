@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073529
+        102073529,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6579398
     },
     "wof:country":"ID",
-    "wof:geomhash":"4a26062df9117deb257da4f8a363a472",
+    "wof:geomhash":"e6b72c3856228dec7e514fc7e7d6ef24",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1344207041,
-    "wof:lastmodified":1537629425,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613174982,
     "wof:name":"Tugusukamaju",
     "wof:parent_id":102073529,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.14806000000002,
+    107.14806,
     -6.83528,
-    107.14806000000002,
+    107.14806,
     -6.83528
 ],
-  "geometry": {"coordinates":[107.14806000000002,-6.83528],"type":"Point"}
+  "geometry": {"coordinates":[107.14806,-6.83528],"type":"Point"}
 }

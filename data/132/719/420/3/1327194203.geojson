@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073551
+        102073551,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6591365
     },
     "wof:country":"ID",
-    "wof:geomhash":"66c418bbffd0088375366ae2bdded781",
+    "wof:geomhash":"6d9c3e6f06b35864921e976ca1301db9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1327194203,
-    "wof:lastmodified":1537629696,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613173422,
     "wof:name":"Sadang Barat",
     "wof:parent_id":102073551,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.01111000000002,
+    107.01111,
     -6.38056,
-    107.01111000000002,
+    107.01111,
     -6.38056
 ],
-  "geometry": {"coordinates":[107.01111000000002,-6.38056],"type":"Point"}
+  "geometry": {"coordinates":[107.01111,-6.38056],"type":"Point"}
 }

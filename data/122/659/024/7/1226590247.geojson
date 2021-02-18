@@ -44,15 +44,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073295
+        102073295,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6569055
     },
     "wof:country":"ID",
-    "wof:geomhash":"4d96017bc0cc736f37724638ea31b080",
+    "wof:geomhash":"13751077a3fef30319d0f8a6188cc1ed",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -63,7 +63,14 @@
         }
     ],
     "wof:id":1226590247,
-    "wof:lastmodified":1564206155,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185742,
     "wof:name":"Pulo",
     "wof:parent_id":102073295,
     "wof:placetype":"locality",
@@ -73,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.82193999999998,
+    107.82194,
     -6.24417,
-    107.82193999999998,
+    107.82194,
     -6.24417
 ],
-  "geometry": {"coordinates":[107.82193999999998,-6.24417],"type":"Point"}
+  "geometry": {"coordinates":[107.82194,-6.24417],"type":"Point"}
 }

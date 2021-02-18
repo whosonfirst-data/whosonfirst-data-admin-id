@@ -34,15 +34,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672067,
-        102073049
+        102073049,
+        85672067
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1635563
     },
     "wof:country":"ID",
-    "wof:geomhash":"110276f76e7e3336b32000de6850bb7c",
+    "wof:geomhash":"ba2cad97172ac90ec74d57e8d4e1b2cf",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +53,14 @@
         }
     ],
     "wof:id":1226052379,
-    "wof:lastmodified":1537626851,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185604,
     "wof:name":"Mendopma",
     "wof:parent_id":102073049,
     "wof:placetype":"locality",
@@ -63,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    132.33333000000002,
+    132.33333,
     -2.9,
-    132.33333000000002,
+    132.33333,
     -2.9
 ],
-  "geometry": {"coordinates":[132.33333000000002,-2.9],"type":"Point"}
+  "geometry": {"coordinates":[132.33332999999999,-2.9],"type":"Point"}
 }

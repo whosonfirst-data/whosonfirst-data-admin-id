@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672115,
-        102072939
+        102072939,
+        85672115
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2082548
     },
     "wof:country":"ID",
-    "wof:geomhash":"97ebfa8b51ce30b823d2f98ba76be01a",
+    "wof:geomhash":"c63954e1453d3f66d3c7779ecf96ffa5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1293108479,
-    "wof:lastmodified":1536835364,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613176773,
     "wof:name":"Manirka",
     "wof:parent_id":102072939,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    140.33333000000002,
+    140.33333,
     -7.75,
-    140.33333000000002,
+    140.33333,
     -7.75
 ],
-  "geometry": {"coordinates":[140.33333000000002,-7.75],"type":"Point"}
+  "geometry": {"coordinates":[140.33332999999999,-7.75],"type":"Point"}
 }

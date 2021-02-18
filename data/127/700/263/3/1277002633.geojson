@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072857
+        102072857,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6260201
     },
     "wof:country":"ID",
-    "wof:geomhash":"244abe576d45131e9297d05ed1f183d3",
+    "wof:geomhash":"d31d1c26afc6152034226fc497dc1288",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1277002633,
-    "wof:lastmodified":1536875795,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613176997,
     "wof:name":"Bantengan",
     "wof:parent_id":102072857,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.10193999999998,
+    110.10194,
     -7.53056,
-    110.10193999999998,
+    110.10194,
     -7.53056
 ],
-  "geometry": {"coordinates":[110.10193999999998,-7.53056],"type":"Point"}
+  "geometry": {"coordinates":[110.10194,-7.53056],"type":"Point"}
 }

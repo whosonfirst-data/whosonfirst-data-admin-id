@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        1108796793
+        1108796793,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6584809
     },
     "wof:country":"ID",
-    "wof:geomhash":"9351bab2eef22d1871ad6190e2f86db3",
+    "wof:geomhash":"ea2882e95ad43738d942fef41073d368",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1243132413,
-    "wof:lastmodified":1537629572,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183454,
     "wof:name":"Ciparanje",
     "wof:parent_id":1108796793,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.42638999999998,
+    107.42639,
     -6.72889,
-    107.42638999999998,
+    107.42639,
     -6.72889
 ],
-  "geometry": {"coordinates":[107.42638999999998,-6.72889],"type":"Point"}
+  "geometry": {"coordinates":[107.42639,-6.72889],"type":"Point"}
 }

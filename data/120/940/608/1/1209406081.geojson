@@ -34,7 +34,7 @@
         "gn:id":2006138
     },
     "wof:country":"ID",
-    "wof:geomhash":"73a2423b644f1150c0f54530ffe1114f",
+    "wof:geomhash":"457313ad9714c190591e15b9ab6de46b",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209406081,
-    "wof:lastmodified":1536287992,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178774,
     "wof:name":"Karang Kulon",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -52,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.52306000000002,
+    110.52306,
     -7.62944,
-    110.52306000000002,
+    110.52306,
     -7.62944
 ],
-  "geometry": {"coordinates":[110.52306000000002,-7.62944],"type":"Point"}
+  "geometry": {"coordinates":[110.52306,-7.62944],"type":"Point"}
 }

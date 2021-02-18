@@ -59,15 +59,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102073157
+        102073157,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6829127
     },
     "wof:country":"ID",
-    "wof:geomhash":"16d8910dfde579eff40315f4a96eadc5",
+    "wof:geomhash":"14505da6adf1b88d0b9c6c5b703a565b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +78,14 @@
         }
     ],
     "wof:id":1276748411,
-    "wof:lastmodified":1564180874,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177270,
     "wof:name":"Berek",
     "wof:parent_id":102073157,
     "wof:placetype":"locality",
@@ -88,10 +95,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    113.42513999999998,
+    113.42514,
     -7.83786,
-    113.42513999999998,
+    113.42514,
     -7.83786
 ],
-  "geometry": {"coordinates":[113.42513999999998,-7.83786],"type":"Point"}
+  "geometry": {"coordinates":[113.42514,-7.83786],"type":"Point"}
 }

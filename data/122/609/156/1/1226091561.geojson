@@ -41,15 +41,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073295
+        102073295,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6581640
     },
     "wof:country":"ID",
-    "wof:geomhash":"938af52c7dab6dd8f7fb881d59f5d365",
+    "wof:geomhash":"7bb2d801559af5beab2cb2255e263e4b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -60,7 +60,14 @@
         }
     ],
     "wof:id":1226091561,
-    "wof:lastmodified":1564208596,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613186523,
     "wof:name":"Benteng",
     "wof:parent_id":102073295,
     "wof:placetype":"locality",
@@ -70,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.71193999999998,
+    107.71194,
     -6.70333,
-    107.71193999999998,
+    107.71194,
     -6.70333
 ],
-  "geometry": {"coordinates":[107.71193999999998,-6.70333],"type":"Point"}
+  "geometry": {"coordinates":[107.71194,-6.70333],"type":"Point"}
 }

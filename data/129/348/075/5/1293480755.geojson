@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072715
+        102072715,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6370461
     },
     "wof:country":"ID",
-    "wof:geomhash":"98a6400eae0c691016527aeb579c8754",
+    "wof:geomhash":"283c2f1704b4b0e743d57a3928305022",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1293480755,
-    "wof:lastmodified":1537628311,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175791,
     "wof:name":"Rawacacing",
     "wof:parent_id":102072715,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.42638999999998,
+    109.42639,
     -7.60361,
-    109.42638999999998,
+    109.42639,
     -7.60361
 ],
-  "geometry": {"coordinates":[109.42638999999998,-7.60361],"type":"Point"}
+  "geometry": {"coordinates":[109.42639,-7.60361],"type":"Point"}
 }

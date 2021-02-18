@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672097,
-        1108796837
+        1108796837,
+        85672097
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1634160
     },
     "wof:country":"ID",
-    "wof:geomhash":"69e6484c108e4e61fbc86df1268990cc",
+    "wof:geomhash":"6d66626ca8ccff4a3fbcc5124b625d51",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1327081555,
-    "wof:lastmodified":1537626798,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613172065,
     "wof:name":"Ngaiwar",
     "wof:parent_id":1108796837,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    131.56041000000002,
+    131.56041,
     -7.64689,
-    131.56041000000002,
+    131.56041,
     -7.64689
 ],
-  "geometry": {"coordinates":[131.56041000000002,-7.64689],"type":"Point"}
+  "geometry": {"coordinates":[131.56040999999999,-7.64689],"type":"Point"}
 }

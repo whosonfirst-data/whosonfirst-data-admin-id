@@ -34,7 +34,7 @@
         "gn:id":6266019
     },
     "wof:country":"ID",
-    "wof:geomhash":"234da41fc7eb5f414ce2480e636ceb8e",
+    "wof:geomhash":"b0cfd0f72bbd4af73dea4031d60ed08a",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209211035,
-    "wof:lastmodified":1536294291,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179454,
     "wof:name":"Modok",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     110.97611,
-    -7.378610000000001,
+    -7.37861,
     110.97611,
-    -7.378610000000001
+    -7.37861
 ],
   "geometry": {"coordinates":[110.97611000000001,-7.37861],"type":"Point"}
 }

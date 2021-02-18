@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072709
+        102072709,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6563952
     },
     "wof:country":"ID",
-    "wof:geomhash":"01fea59deebdab012584e57994bdcb21",
+    "wof:geomhash":"f94ac0f3ed67444738d1445506962e7d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1209836269,
-    "wof:lastmodified":1537629225,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178634,
     "wof:name":"Kemuning",
     "wof:parent_id":102072709,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.29361000000002,
+    110.29361,
     -7.21028,
-    110.29361000000002,
+    110.29361,
     -7.21028
 ],
-  "geometry": {"coordinates":[110.29361000000002,-7.21028],"type":"Point"}
+  "geometry": {"coordinates":[110.29361,-7.21028],"type":"Point"}
 }

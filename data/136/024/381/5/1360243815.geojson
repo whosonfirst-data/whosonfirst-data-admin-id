@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672111,
-        102073435
+        102073435,
+        85672111
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1980072
     },
     "wof:country":"ID",
-    "wof:geomhash":"a5235aa30cc988e0a69ef98fb528e430",
+    "wof:geomhash":"1ea67a238cf0c365e7af54ae4fb4aebf",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1360243815,
-    "wof:lastmodified":1536717129,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181722,
     "wof:name":"Lalongbatango",
     "wof:parent_id":102073435,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    123.17638999999998,
+    123.17639,
     -1.33972,
-    123.17638999999998,
+    123.17639,
     -1.33972
 ],
-  "geometry": {"coordinates":[123.17638999999998,-1.33972],"type":"Point"}
+  "geometry": {"coordinates":[123.17639,-1.33972],"type":"Point"}
 }

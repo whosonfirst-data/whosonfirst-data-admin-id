@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073265
+        102073265,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6260115
     },
     "wof:country":"ID",
-    "wof:geomhash":"144d12e54a3ae05fc90d7102c577425d",
+    "wof:geomhash":"05b3ee495c7387c8346e4882b65a5c6e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1293582785,
-    "wof:lastmodified":1536649504,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613176269,
     "wof:name":"Banaran",
     "wof:parent_id":102073265,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.23888999999998,
+    110.23889,
     -7.73361,
-    110.23888999999998,
+    110.23889,
     -7.73361
 ],
-  "geometry": {"coordinates":[110.23888999999998,-7.73361],"type":"Point"}
+  "geometry": {"coordinates":[110.23889,-7.73361],"type":"Point"}
 }

@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073529
+        102073529,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6579572
     },
     "wof:country":"ID",
-    "wof:geomhash":"fc7225af21d1096834c77c69f500a301",
+    "wof:geomhash":"5ff11078e76a73aa90dba04f33174e75",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1259428757,
-    "wof:lastmodified":1537629432,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185066,
     "wof:name":"Pasirgede",
     "wof:parent_id":102073529,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.21056000000002,
+    107.21056,
     -6.85972,
-    107.21056000000002,
+    107.21056,
     -6.85972
 ],
-  "geometry": {"coordinates":[107.21056000000002,-6.85972],"type":"Point"}
+  "geometry": {"coordinates":[107.21056,-6.85972],"type":"Point"}
 }

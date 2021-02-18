@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073469
+        102073469,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2010364
     },
     "wof:country":"ID",
-    "wof:geomhash":"0cc9eb79a9fa860655c262e6cc18e2ec",
+    "wof:geomhash":"a28ae7a1d5beff37c89b6595a34d3353",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1343350237,
-    "wof:lastmodified":1536905522,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613174712,
     "wof:name":"Samiranan",
     "wof:parent_id":102073469,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.20638999999998,
+    110.20639,
     -7.96167,
-    110.20638999999998,
+    110.20639,
     -7.96167
 ],
-  "geometry": {"coordinates":[110.20638999999998,-7.96167],"type":"Point"}
+  "geometry": {"coordinates":[110.20639,-7.96167],"type":"Point"}
 }

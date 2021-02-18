@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072715
+        102072715,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6390378
     },
     "wof:country":"ID",
-    "wof:geomhash":"117dccc8e3fe65959ba76c546a22ed77",
+    "wof:geomhash":"b12ee857e7ce04528f85f2b28d22f116",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1276647493,
-    "wof:lastmodified":1537628716,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178040,
     "wof:name":"Balaidesa",
     "wof:parent_id":102072715,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.27306000000002,
+    109.27306,
     -7.46861,
-    109.27306000000002,
+    109.27306,
     -7.46861
 ],
-  "geometry": {"coordinates":[109.27306000000002,-7.46861],"type":"Point"}
+  "geometry": {"coordinates":[109.27306,-7.46861],"type":"Point"}
 }

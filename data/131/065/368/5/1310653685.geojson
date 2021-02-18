@@ -34,15 +34,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672115,
-        102072939
+        102072939,
+        85672115
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2082522
     },
     "wof:country":"ID",
-    "wof:geomhash":"12e3c2ea2df0c1f0157466b763ddf040",
+    "wof:geomhash":"488cb58f479825049cd175d676efa966",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +53,14 @@
         }
     ],
     "wof:id":1310653685,
-    "wof:lastmodified":1537628277,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613180911,
     "wof:name":"Muting",
     "wof:parent_id":102072939,
     "wof:placetype":"locality",
@@ -63,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    140.33333000000002,
+    140.33333,
     -7.38333,
-    140.33333000000002,
+    140.33333,
     -7.38333
 ],
-  "geometry": {"coordinates":[140.33333000000002,-7.38333],"type":"Point"}
+  "geometry": {"coordinates":[140.33332999999999,-7.38333],"type":"Point"}
 }

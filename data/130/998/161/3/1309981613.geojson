@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672037,
-        102073179
+        102073179,
+        85672037
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1939029
     },
     "wof:country":"ID",
-    "wof:geomhash":"0920654d69543a87b1b57674ea77d982",
+    "wof:geomhash":"7879cf0a48844bc01dc737486c8837c6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1309981613,
-    "wof:lastmodified":1536677797,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613182125,
     "wof:name":"Huekin",
     "wof:parent_id":102073179,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    124.58138999999998,
+    124.58139,
     -9.49778,
-    124.58138999999998,
+    124.58139,
     -9.49778
 ],
-  "geometry": {"coordinates":[124.58138999999998,-9.49778],"type":"Point"}
+  "geometry": {"coordinates":[124.58139,-9.49778],"type":"Point"}
 }

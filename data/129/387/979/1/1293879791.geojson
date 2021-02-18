@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072947
+        102072947,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6255186
     },
     "wof:country":"ID",
-    "wof:geomhash":"03eef0fd310ec5478518b43ed6909b5b",
+    "wof:geomhash":"0e01edb6af80068b07df8f971808500e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1293879791,
-    "wof:lastmodified":1536719067,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613176671,
     "wof:name":"Buntalan Kulon",
     "wof:parent_id":102072947,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.86388999999998,
+    110.86389,
     -7.98,
-    110.86388999999998,
+    110.86389,
     -7.98
 ],
-  "geometry": {"coordinates":[110.86388999999998,-7.98],"type":"Point"}
+  "geometry": {"coordinates":[110.86389,-7.98],"type":"Point"}
 }

@@ -41,15 +41,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672037,
-        102072751
+        102072751,
+        85672037
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1940486
     },
     "wof:country":"ID",
-    "wof:geomhash":"07e9d3a3cfbec4f897901e16ffc04a8c",
+    "wof:geomhash":"e9c041f56595cbdc410c6dd1247ab05c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -60,7 +60,14 @@
         }
     ],
     "wof:id":1310563965,
-    "wof:lastmodified":1564193948,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181620,
     "wof:name":"Bonan",
     "wof:parent_id":102072751,
     "wof:placetype":"locality",
@@ -70,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    124.76111000000002,
+    124.76111,
     -9.66222,
-    124.76111000000002,
+    124.76111,
     -9.66222
 ],
-  "geometry": {"coordinates":[124.76111000000002,-9.66222],"type":"Point"}
+  "geometry": {"coordinates":[124.76111,-9.66222],"type":"Point"}
 }

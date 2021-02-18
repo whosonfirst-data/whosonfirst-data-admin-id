@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073233
+        102073233,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2009056
     },
     "wof:country":"ID",
-    "wof:geomhash":"3ecb8c38d50342296b440f28b6608314",
+    "wof:geomhash":"6b3a7532f867aa2bcc0380acd084d46b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1360079187,
-    "wof:lastmodified":1536954311,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181869,
     "wof:name":"Tegalganten",
     "wof:parent_id":102073233,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.67806000000002,
+    110.67806,
     -7.73583,
-    110.67806000000002,
+    110.67806,
     -7.73583
 ],
-  "geometry": {"coordinates":[110.67806000000002,-7.73583],"type":"Point"}
+  "geometry": {"coordinates":[110.67806,-7.73583],"type":"Point"}
 }

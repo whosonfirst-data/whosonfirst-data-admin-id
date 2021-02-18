@@ -34,15 +34,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        1108796793
+        1108796793,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1961470
     },
     "wof:country":"ID",
-    "wof:geomhash":"1b20021f6df520028f0d5b8fcabc8e5a",
+    "wof:geomhash":"177e6bfa9dd652b391fb28393376574a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +53,14 @@
         }
     ],
     "wof:id":1276170051,
-    "wof:lastmodified":1537627612,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177188,
     "wof:name":"Cikole-hilir",
     "wof:parent_id":1108796793,
     "wof:placetype":"locality",
@@ -63,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.64806000000002,
+    107.64806,
     -6.80778,
-    107.64806000000002,
+    107.64806,
     -6.80778
 ],
-  "geometry": {"coordinates":[107.64806000000002,-6.80778],"type":"Point"}
+  "geometry": {"coordinates":[107.64806,-6.80778],"type":"Point"}
 }

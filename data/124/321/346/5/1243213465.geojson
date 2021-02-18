@@ -34,15 +34,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671995,
-        102072687
+        102072687,
+        85671995
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1959758
     },
     "wof:country":"ID",
-    "wof:geomhash":"16811cf583ff2f0f6f673141d599c051",
+    "wof:geomhash":"b28e3367f67dd880a66e9719e66eda28",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +53,14 @@
         }
     ],
     "wof:id":1243213465,
-    "wof:lastmodified":1537627521,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613184202,
     "wof:name":"Polo Tengah",
     "wof:parent_id":102072687,
     "wof:placetype":"locality",
@@ -63,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.38443999999998,
+    106.38444,
     -6.05333,
-    106.38443999999998,
+    106.38444,
     -6.05333
 ],
-  "geometry": {"coordinates":[106.38443999999998,-6.05333],"type":"Point"}
+  "geometry": {"coordinates":[106.38444,-6.05333],"type":"Point"}
 }

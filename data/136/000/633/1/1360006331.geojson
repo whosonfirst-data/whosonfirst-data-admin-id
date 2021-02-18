@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072715
+        102072715,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6387619
     },
     "wof:country":"ID",
-    "wof:geomhash":"c248c3b26bdd95633ebb54ab35e31cb2",
+    "wof:geomhash":"7402180d805ffef099f3f8b6dac3d241",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1360006331,
-    "wof:lastmodified":1537628646,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181875,
     "wof:name":"Dawuhan",
     "wof:parent_id":102072715,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.99611000000002,
+    108.99611,
     -7.42278,
-    108.99611000000002,
+    108.99611,
     -7.42278
 ],
-  "geometry": {"coordinates":[108.99611000000002,-7.42278],"type":"Point"}
+  "geometry": {"coordinates":[108.99611,-7.42278],"type":"Point"}
 }

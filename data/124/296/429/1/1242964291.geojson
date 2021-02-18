@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072921
+        102072921,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6390301
     },
     "wof:country":"ID",
-    "wof:geomhash":"919edd840a10ff6eb5738dd1f26bba6b",
+    "wof:geomhash":"10fe2002ebdcff2d2e87b621e0793b12",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1242964291,
-    "wof:lastmodified":1537628713,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183962,
     "wof:name":"Gandekan",
     "wof:parent_id":102072921,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.36388999999998,
+    109.36389,
     -7.45389,
-    109.36388999999998,
+    109.36389,
     -7.45389
 ],
-  "geometry": {"coordinates":[109.36388999999998,-7.45389],"type":"Point"}
+  "geometry": {"coordinates":[109.36389,-7.45389],"type":"Point"}
 }

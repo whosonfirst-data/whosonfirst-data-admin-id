@@ -92,15 +92,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072733
+        102072733,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1935521
     },
     "wof:country":"ID",
-    "wof:geomhash":"8a9ae145c8223c87825a68a6604e02c4",
+    "wof:geomhash":"cf2f09017d7bfc3761afe80e9abe7685",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -111,7 +111,14 @@
         }
     ],
     "wof:id":1309799879,
-    "wof:lastmodified":1564195977,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613182294,
     "wof:name":"Buran",
     "wof:parent_id":102072733,
     "wof:placetype":"locality",
@@ -121,10 +128,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.92806000000002,
+    110.92806,
     -7.57667,
-    110.92806000000002,
+    110.92806,
     -7.57667
 ],
-  "geometry": {"coordinates":[110.92806000000002,-7.57667],"type":"Point"}
+  "geometry": {"coordinates":[110.92806,-7.57667],"type":"Point"}
 }

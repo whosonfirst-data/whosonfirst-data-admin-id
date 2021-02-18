@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073265
+        102073265,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1999551
     },
     "wof:country":"ID",
-    "wof:geomhash":"6aa11a3c7e0a1eab415c726159406778",
+    "wof:geomhash":"1e7adbbc01b8dcd44991f371b8561611",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1309690861,
-    "wof:lastmodified":1537093640,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613182459,
     "wof:name":"Manggung",
     "wof:parent_id":102073265,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.38611000000002,
+    110.38611,
     -7.755,
-    110.38611000000002,
+    110.38611,
     -7.755
 ],
-  "geometry": {"coordinates":[110.38611000000002,-7.755],"type":"Point"}
+  "geometry": {"coordinates":[110.38611,-7.755],"type":"Point"}
 }

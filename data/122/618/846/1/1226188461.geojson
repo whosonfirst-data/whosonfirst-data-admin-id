@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073193
+        102073193,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6402468
     },
     "wof:country":"ID",
-    "wof:geomhash":"aeca10a1b17b7ef83de84c453a50b11a",
+    "wof:geomhash":"73522344612a942a6fa841a0b6dba2f8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1226188461,
-    "wof:lastmodified":1537628869,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185475,
     "wof:name":"Lunggadung",
     "wof:parent_id":102073193,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.18361000000002,
+    108.18361,
     -6.47167,
-    108.18361000000002,
+    108.18361,
     -6.47167
 ],
-  "geometry": {"coordinates":[108.18361000000002,-6.47167],"type":"Point"}
+  "geometry": {"coordinates":[108.18361,-6.47167],"type":"Point"}
 }

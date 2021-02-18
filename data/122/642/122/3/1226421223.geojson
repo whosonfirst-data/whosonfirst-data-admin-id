@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073189
+        102073189,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6564594
     },
     "wof:country":"ID",
-    "wof:geomhash":"72d582f919c8a3c8b3cef81fa9724788",
+    "wof:geomhash":"cd821f21012b6858854745ac9f0c55d4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1226421223,
-    "wof:lastmodified":1537629236,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185405,
     "wof:name":"Bendolo",
     "wof:parent_id":102073189,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.48888999999998,
+    110.48889,
     -8.09361,
-    110.48888999999998,
+    110.48889,
     -8.09361
 ],
-  "geometry": {"coordinates":[110.48888999999998,-8.09361],"type":"Point"}
+  "geometry": {"coordinates":[110.48889,-8.09361],"type":"Point"}
 }

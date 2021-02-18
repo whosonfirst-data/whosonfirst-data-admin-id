@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102073013
+        102073013,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6384170
     },
     "wof:country":"ID",
-    "wof:geomhash":"34b7888f738f8093d49f7b8ab9332142",
+    "wof:geomhash":"688927f470f855bc965adcc7705861e8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1225835393,
-    "wof:lastmodified":1537628574,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613186613,
     "wof:name":"Pakel",
     "wof:parent_id":102073013,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.05306000000002,
+    111.05306,
     -8.21889,
-    111.05306000000002,
+    111.05306,
     -8.21889
 ],
-  "geometry": {"coordinates":[111.05306000000002,-8.21889],"type":"Point"}
+  "geometry": {"coordinates":[111.05306,-8.21889],"type":"Point"}
 }

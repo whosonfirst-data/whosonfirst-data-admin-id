@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073217
+        102073217,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6597856
     },
     "wof:country":"ID",
-    "wof:geomhash":"97cd7e3e2963f46cd0d9f1852d306c6a",
+    "wof:geomhash":"aaf24539c2584255bea25b45fb91c979",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1277023557,
-    "wof:lastmodified":1537629904,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177717,
     "wof:name":"Pasirmaung",
     "wof:parent_id":102073217,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.85193999999998,
+    106.85194,
     -6.56444,
-    106.85193999999998,
+    106.85194,
     -6.56444
 ],
-  "geometry": {"coordinates":[106.85193999999998,-6.56444],"type":"Point"}
+  "geometry": {"coordinates":[106.85194,-6.56444],"type":"Point"}
 }

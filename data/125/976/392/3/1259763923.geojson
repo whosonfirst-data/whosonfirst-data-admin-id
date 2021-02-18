@@ -110,15 +110,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672005,
-        102073323
+        102073323,
+        85672005
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1623571
     },
     "wof:country":"ID",
-    "wof:geomhash":"dad6d38840bf24e760c181c822f4fffd",
+    "wof:geomhash":"d3b2ca8f1cf60b22de9e7fa717e507ac",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -129,7 +129,14 @@
         }
     ],
     "wof:id":1259763923,
-    "wof:lastmodified":1564203106,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613184739,
     "wof:name":"Toho",
     "wof:parent_id":102073323,
     "wof:placetype":"locality",
@@ -139,10 +146,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.22001000000002,
+    109.22001,
     0.41795,
-    109.22001000000002,
+    109.22001,
     0.41795
 ],
-  "geometry": {"coordinates":[109.22001000000002,0.41795],"type":"Point"}
+  "geometry": {"coordinates":[109.22001,0.41795],"type":"Point"}
 }

@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671995,
-        102073479
+        102073479,
+        85671995
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1989474
     },
     "wof:country":"ID",
-    "wof:geomhash":"88939f7c3d24a4b94b3c5c246688bc61",
+    "wof:geomhash":"234dff66e94bf5224221aeb1ad3d727f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1242627153,
-    "wof:lastmodified":1536991743,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183928,
     "wof:name":"Bojongelo",
     "wof:parent_id":102073479,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.35193999999998,
+    106.35194,
     -6.09417,
-    106.35193999999998,
+    106.35194,
     -6.09417
 ],
-  "geometry": {"coordinates":[106.35193999999998,-6.09417],"type":"Point"}
+  "geometry": {"coordinates":[106.35194,-6.09417],"type":"Point"}
 }

@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        1108796793
+        1108796793,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1963083
     },
     "wof:country":"ID",
-    "wof:geomhash":"203e55aa53a98213b6d0060483552987",
+    "wof:geomhash":"2daffef400afb7730c88d3857f955825",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1293833665,
-    "wof:lastmodified":1537627693,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175738,
     "wof:name":"Lebaksiuh",
     "wof:parent_id":1108796793,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.37888999999998,
+    107.37889,
     -6.87333,
-    107.37888999999998,
+    107.37889,
     -6.87333
 ],
-  "geometry": {"coordinates":[107.37888999999998,-6.87333],"type":"Point"}
+  "geometry": {"coordinates":[107.37889,-6.87333],"type":"Point"}
 }

@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072611
+        102072611,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6411298
     },
     "wof:country":"ID",
-    "wof:geomhash":"364af0affb89de6497e7f997557dfed9",
+    "wof:geomhash":"fe06493ac1a867c0468deeefe7c27d4b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1225934727,
-    "wof:lastmodified":1537629103,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185211,
     "wof:name":"Turi Lor",
     "wof:parent_id":102072611,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.99056000000002,
+    110.99056,
     -7.16861,
-    110.99056000000002,
+    110.99056,
     -7.16861
 ],
-  "geometry": {"coordinates":[110.99056000000002,-7.16861],"type":"Point"}
+  "geometry": {"coordinates":[110.99056,-7.16861],"type":"Point"}
 }

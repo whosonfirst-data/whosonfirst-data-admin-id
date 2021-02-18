@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073471
+        102073471,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6592850
     },
     "wof:country":"ID",
-    "wof:geomhash":"2ef86d4af0627a99fb767afceb184395",
+    "wof:geomhash":"188e1bf284abe420b372b51b3af5287c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1276722019,
-    "wof:lastmodified":1537629746,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177054,
     "wof:name":"Gunungbatu Dua",
     "wof:parent_id":102073471,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.39388999999998,
+    107.39389,
     -6.54333,
-    107.39388999999998,
+    107.39389,
     -6.54333
 ],
-  "geometry": {"coordinates":[107.39388999999998,-6.54333],"type":"Point"}
+  "geometry": {"coordinates":[107.39389,-6.54333],"type":"Point"}
 }

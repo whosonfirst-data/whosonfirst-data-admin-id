@@ -34,7 +34,7 @@
         "gn:id":6255242
     },
     "wof:country":"ID",
-    "wof:geomhash":"93a83b97116f0efdba076595030ecbc7",
+    "wof:geomhash":"c74a4e754bdb266a625506cb41635486",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209694445,
-    "wof:lastmodified":1536279125,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179166,
     "wof:name":"Salam",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     110.755,
-    -7.973330000000002,
+    -7.97333,
     110.755,
-    -7.973330000000002
+    -7.97333
 ],
   "geometry": {"coordinates":[110.755,-7.97333],"type":"Point"}
 }

@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672037,
-        102073481
+        102073481,
+        85672037
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1938149
     },
     "wof:country":"ID",
-    "wof:geomhash":"a68f7edb14b883f506cd99d3429aedd3",
+    "wof:geomhash":"922ec2c46bf32ec41a4916c44db70002",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1326796439,
-    "wof:lastmodified":1537097027,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613173105,
     "wof:name":"Fatubesi",
     "wof:parent_id":102073481,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    124.85193999999998,
+    124.85194,
     -9.4975,
-    124.85193999999998,
+    124.85194,
     -9.4975
 ],
-  "geometry": {"coordinates":[124.85193999999998,-9.4975],"type":"Point"}
+  "geometry": {"coordinates":[124.85194,-9.4975],"type":"Point"}
 }

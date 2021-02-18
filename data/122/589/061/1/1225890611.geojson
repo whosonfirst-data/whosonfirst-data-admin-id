@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073295
+        102073295,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6568443
     },
     "wof:country":"ID",
-    "wof:geomhash":"19534a215dbf6db62e666f0150916126",
+    "wof:geomhash":"332382c6b811afcc1d8530b978013c88",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1225890611,
-    "wof:lastmodified":1537629351,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185868,
     "wof:name":"Babakankosambi",
     "wof:parent_id":102073295,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.86556000000002,
+    107.86556,
     -6.43944,
-    107.86556000000002,
+    107.86556,
     -6.43944
 ],
-  "geometry": {"coordinates":[107.86556000000002,-6.43944],"type":"Point"}
+  "geometry": {"coordinates":[107.86556,-6.43944],"type":"Point"}
 }

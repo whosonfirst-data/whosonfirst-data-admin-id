@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072709
+        102072709,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6563959
     },
     "wof:country":"ID",
-    "wof:geomhash":"9594eccc0b2e761fc587122767275656",
+    "wof:geomhash":"9f840b3b60a12627d670c72c2e5037e3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1343481703,
-    "wof:lastmodified":1537629225,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613174389,
     "wof:name":"Kaligung",
     "wof:parent_id":102072709,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.37111000000002,
+    110.37111,
     -7.20806,
-    110.37111000000002,
+    110.37111,
     -7.20806
 ],
-  "geometry": {"coordinates":[110.37111000000002,-7.20806],"type":"Point"}
+  "geometry": {"coordinates":[110.37111,-7.20806],"type":"Point"}
 }

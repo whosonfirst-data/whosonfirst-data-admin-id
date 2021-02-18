@@ -34,15 +34,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072949
+        102072949,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1966224
     },
     "wof:country":"ID",
-    "wof:geomhash":"cd9db3d5bd6f81d2818bb8375ecdb14f",
+    "wof:geomhash":"704eb42c37d5b7a9e758d339e1dfa0bd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +53,14 @@
         }
     ],
     "wof:id":1309766543,
-    "wof:lastmodified":1537627845,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613182372,
     "wof:name":"Cinanggela",
     "wof:parent_id":102072949,
     "wof:placetype":"locality",
@@ -63,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.68361000000002,
+    107.68361,
     -7.1225,
-    107.68361000000002,
+    107.68361,
     -7.1225
 ],
-  "geometry": {"coordinates":[107.68361000000002,-7.1225],"type":"Point"}
+  "geometry": {"coordinates":[107.68361,-7.1225],"type":"Point"}
 }

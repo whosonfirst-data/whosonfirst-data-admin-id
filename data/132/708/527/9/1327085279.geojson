@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672097,
-        1108796843
+        1108796843,
+        85672097
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1621513
     },
     "wof:country":"ID",
-    "wof:geomhash":"e71fcffafd57379329eb554b99df6046",
+    "wof:geomhash":"49a602f79dbed01b4a25dc17cd81b177",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1327085279,
-    "wof:lastmodified":1536684312,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613172061,
     "wof:name":"Wisalen",
     "wof:parent_id":1108796843,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    131.23993000000002,
+    131.23993,
     -4.04236,
-    131.23993000000002,
+    131.23993,
     -4.04236
 ],
-  "geometry": {"coordinates":[131.23993000000002,-4.04236],"type":"Point"}
+  "geometry": {"coordinates":[131.23992999999999,-4.04236],"type":"Point"}
 }

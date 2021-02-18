@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102073201
+        102073201,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1972043
     },
     "wof:country":"ID",
-    "wof:geomhash":"b7bbb682d5236fbe89f6509f330d9be8",
+    "wof:geomhash":"13bd959409a6a3ae08502396a2961c81",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1343854653,
-    "wof:lastmodified":1536675000,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613174462,
     "wof:name":"Banjak",
     "wof:parent_id":102073201,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    112.51111000000002,
+    112.51111,
     -7.85667,
-    112.51111000000002,
+    112.51111,
     -7.85667
 ],
-  "geometry": {"coordinates":[112.51111000000002,-7.85667],"type":"Point"}
+  "geometry": {"coordinates":[112.51111,-7.85667],"type":"Point"}
 }

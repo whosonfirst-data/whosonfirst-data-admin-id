@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073405
+        102073405,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2010814
     },
     "wof:country":"ID",
-    "wof:geomhash":"7976cb83d683be1bf77e06c476c75099",
+    "wof:geomhash":"db2997b9bfed8731c0b1c8a97808703e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1243058991,
-    "wof:lastmodified":1536865839,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183751,
     "wof:name":"Klagen",
     "wof:parent_id":102073405,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.74056000000002,
+    110.74056,
     -7.53778,
-    110.74056000000002,
+    110.74056,
     -7.53778
 ],
-  "geometry": {"coordinates":[110.74056000000002,-7.53778],"type":"Point"}
+  "geometry": {"coordinates":[110.74056,-7.53778],"type":"Point"}
 }

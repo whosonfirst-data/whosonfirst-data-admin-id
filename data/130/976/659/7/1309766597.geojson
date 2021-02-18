@@ -34,15 +34,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671995,
-        102072687
+        102072687,
+        85671995
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1959216
     },
     "wof:country":"ID",
-    "wof:geomhash":"9419c2b67307b8d0dac581abc012f28f",
+    "wof:geomhash":"6b81ca626832cebcb4a405c1aa1fb75f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +53,14 @@
         }
     ],
     "wof:id":1309766597,
-    "wof:lastmodified":1537627492,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613182363,
     "wof:name":"Pisangankresek",
     "wof:parent_id":102072687,
     "wof:placetype":"locality",
@@ -63,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.58556000000002,
+    106.58556,
     -6.09917,
-    106.58556000000002,
+    106.58556,
     -6.09917
 ],
-  "geometry": {"coordinates":[106.58556000000002,-6.09917],"type":"Point"}
+  "geometry": {"coordinates":[106.58556,-6.09917],"type":"Point"}
 }

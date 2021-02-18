@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672009,
-        1108796809
+        1108796809,
+        85672009
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7667070
     },
     "wof:country":"ID",
-    "wof:geomhash":"d12c0bc6df778e60ad1c168a079a54bd",
+    "wof:geomhash":"685501a673a77891bed5874d0de3009d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1226720069,
-    "wof:lastmodified":1537634235,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185245,
     "wof:name":"Periangan",
     "wof:parent_id":1108796809,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    105.26921000000002,
+    105.26921,
     -5.27483,
-    105.26921000000002,
+    105.26921,
     -5.27483
 ],
-  "geometry": {"coordinates":[105.26921000000002,-5.27483],"type":"Point"}
+  "geometry": {"coordinates":[105.26921,-5.27483],"type":"Point"}
 }

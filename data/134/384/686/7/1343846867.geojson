@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073313
+        102073313,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2003702
     },
     "wof:country":"ID",
-    "wof:geomhash":"5776cedb93021cef70e12d16f7c0da87",
+    "wof:geomhash":"564fe6dde2e1ea012ac14f0d89b857d6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1343846867,
-    "wof:lastmodified":1536686229,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613174414,
     "wof:name":"Kedungpring",
     "wof:parent_id":102073313,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.42806000000002,
+    110.42806,
     -7.87722,
-    110.42806000000002,
+    110.42806,
     -7.87722
 ],
-  "geometry": {"coordinates":[110.42806000000002,-7.87722],"type":"Point"}
+  "geometry": {"coordinates":[110.42806,-7.87722],"type":"Point"}
 }

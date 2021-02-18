@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073153
+        102073153,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6381462
     },
     "wof:country":"ID",
-    "wof:geomhash":"250cd0279a9a36816bde7e17d14f1b9a",
+    "wof:geomhash":"9af1da6d68fe98ec103319c7e49d984b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1344147925,
-    "wof:lastmodified":1537628545,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613174176,
     "wof:name":"Limbangan",
     "wof:parent_id":102073153,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.76111000000002,
+    109.76111,
     -7.38083,
-    109.76111000000002,
+    109.76111,
     -7.38083
 ],
-  "geometry": {"coordinates":[109.76111000000002,-7.38083],"type":"Point"}
+  "geometry": {"coordinates":[109.76111,-7.38083],"type":"Point"}
 }

@@ -34,15 +34,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671995,
-        102073479
+        102073479,
+        85671995
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1959504
     },
     "wof:country":"ID",
-    "wof:geomhash":"7de61d2e5e5e6890733b1a8bc1395ea9",
+    "wof:geomhash":"1e5cf4641bf6fa391b8608e17c589791",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +53,14 @@
         }
     ],
     "wof:id":1276291721,
-    "wof:lastmodified":1537627506,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177339,
     "wof:name":"Cailat",
     "wof:parent_id":102073479,
     "wof:placetype":"locality",
@@ -63,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.30306000000002,
+    106.30306,
     -6.10361,
-    106.30306000000002,
+    106.30306,
     -6.10361
 ],
-  "geometry": {"coordinates":[106.30306000000002,-6.10361],"type":"Point"}
+  "geometry": {"coordinates":[106.30306,-6.10361],"type":"Point"}
 }

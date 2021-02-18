@@ -50,15 +50,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073529
+        102073529,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6579331
     },
     "wof:country":"ID",
-    "wof:geomhash":"944b66ec8ad284d9f1525911283add74",
+    "wof:geomhash":"be3b90f76921657f50a5c446ad3b1935",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -69,7 +69,14 @@
         }
     ],
     "wof:id":1226087835,
-    "wof:lastmodified":1564208003,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613186333,
     "wof:name":"Huma",
     "wof:parent_id":102073529,
     "wof:placetype":"locality",
@@ -79,10 +86,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.21056000000002,
+    107.21056,
     -6.82667,
-    107.21056000000002,
+    107.21056,
     -6.82667
 ],
-  "geometry": {"coordinates":[107.21056000000002,-6.82667],"type":"Point"}
+  "geometry": {"coordinates":[107.21056,-6.82667],"type":"Point"}
 }

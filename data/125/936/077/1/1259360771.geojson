@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672005,
-        102073335
+        102073335,
+        85672005
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":9021991
     },
     "wof:country":"ID",
-    "wof:geomhash":"fbcc12305beddc4e9f2663c858db9a62",
+    "wof:geomhash":"35a06f67f154ff4365de0168ab4c7d74",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1259360771,
-    "wof:lastmodified":1537636706,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613184257,
     "wof:name":"Paning",
     "wof:parent_id":102073335,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.33216000000002,
+    109.33216,
     0.33713,
-    109.33216000000002,
+    109.33216,
     0.33713
 ],
-  "geometry": {"coordinates":[109.33216000000002,0.33713],"type":"Point"}
+  "geometry": {"coordinates":[109.33216,0.33713],"type":"Point"}
 }

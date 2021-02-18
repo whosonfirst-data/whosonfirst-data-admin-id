@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072937
+        102072937,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6599724
     },
     "wof:country":"ID",
-    "wof:geomhash":"c17579ea55b5db1d9eb2849058f39605",
+    "wof:geomhash":"7a70ea7793058a0573c1b7780b39267a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1276937373,
-    "wof:lastmodified":1537629971,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177450,
     "wof:name":"Maleber Kulon",
     "wof:parent_id":102072937,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.54361000000002,
+    107.54361,
     -6.28056,
-    107.54361000000002,
+    107.54361,
     -6.28056
 ],
-  "geometry": {"coordinates":[107.54361000000002,-6.28056],"type":"Point"}
+  "geometry": {"coordinates":[107.54361,-6.28056],"type":"Point"}
 }

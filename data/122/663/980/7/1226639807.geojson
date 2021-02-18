@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072857
+        102072857,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6199126
     },
     "wof:country":"ID",
-    "wof:geomhash":"d9b5e7acc4aab9b667bb5acdefe9ce4f",
+    "wof:geomhash":"f0c6019f579b34082e39d86932accc71",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1226639807,
-    "wof:lastmodified":1536866735,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613186321,
     "wof:name":"Sanggrahan",
     "wof:parent_id":102072857,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.24611000000002,
+    110.24611,
     -7.46056,
-    110.24611000000002,
+    110.24611,
     -7.46056
 ],
-  "geometry": {"coordinates":[110.24611000000002,-7.46056],"type":"Point"}
+  "geometry": {"coordinates":[110.24611,-7.46056],"type":"Point"}
 }

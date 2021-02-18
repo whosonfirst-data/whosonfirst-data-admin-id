@@ -74,15 +74,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072639
+        102072639,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6386141
     },
     "wof:country":"ID",
-    "wof:geomhash":"7e3588fc680358c63f93a8b330f91b78",
+    "wof:geomhash":"8b7ad187f97cac2a3d154bcf38963493",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -93,7 +93,14 @@
         }
     ],
     "wof:id":1343878729,
-    "wof:lastmodified":1564175251,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175142,
     "wof:name":"Ori",
     "wof:parent_id":102072639,
     "wof:placetype":"locality",
@@ -103,10 +110,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.52443999999998,
+    109.52444,
     -7.66111,
-    109.52443999999998,
+    109.52444,
     -7.66111
 ],
-  "geometry": {"coordinates":[109.52443999999998,-7.66111],"type":"Point"}
+  "geometry": {"coordinates":[109.52444,-7.66111],"type":"Point"}
 }

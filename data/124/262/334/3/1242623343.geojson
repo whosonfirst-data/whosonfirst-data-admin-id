@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671995,
-        1108796785
+        1108796785,
+        85671995
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1989952
     },
     "wof:country":"ID",
-    "wof:geomhash":"09998a67a014f411273be0a0a23bd58b",
+    "wof:geomhash":"4a4952c6466af91c5b1976a06a7cfc45",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1242623343,
-    "wof:lastmodified":1536997170,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183934,
     "wof:name":"Cipetesasak",
     "wof:parent_id":1108796785,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.66443999999998,
+    106.66444,
     -6.21111,
-    106.66443999999998,
+    106.66444,
     -6.21111
 ],
-  "geometry": {"coordinates":[106.66443999999998,-6.21111],"type":"Point"}
+  "geometry": {"coordinates":[106.66444,-6.21111],"type":"Point"}
 }

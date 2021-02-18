@@ -34,7 +34,7 @@
         "gn:id":6252614
     },
     "wof:country":"ID",
-    "wof:geomhash":"5f09e9672455dca7352b823a95d1f1b2",
+    "wof:geomhash":"f6564f3992a653dae0edf66c82d5cb3e",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209100253,
-    "wof:lastmodified":1536297756,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179511,
     "wof:name":"Druju",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     110.52361,
-    -7.338889999999999,
+    -7.33889,
     110.52361,
-    -7.338889999999999
+    -7.33889
 ],
   "geometry": {"coordinates":[110.52361000000001,-7.33889],"type":"Point"}
 }

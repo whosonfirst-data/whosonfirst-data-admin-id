@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073193
+        102073193,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6568306
     },
     "wof:country":"ID",
-    "wof:geomhash":"8de58c54e00ba0e8828e25db0ced6696",
+    "wof:geomhash":"4d781fd5f492b7f479e8e7055bca9edd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1293933107,
-    "wof:lastmodified":1537629347,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613176315,
     "wof:name":"Babakanwagir",
     "wof:parent_id":102073193,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.97693999999998,
+    107.97694,
     -6.48472,
-    107.97693999999998,
+    107.97694,
     -6.48472
 ],
-  "geometry": {"coordinates":[107.97693999999998,-6.48472],"type":"Point"}
+  "geometry": {"coordinates":[107.97694,-6.48472],"type":"Point"}
 }

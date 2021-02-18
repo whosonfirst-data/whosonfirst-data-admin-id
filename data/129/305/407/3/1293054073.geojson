@@ -44,15 +44,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672115,
-        102073423
+        102073423,
+        85672115
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8520063
     },
     "wof:country":"ID",
-    "wof:geomhash":"51ddbef947440a28f027e5b37233e537",
+    "wof:geomhash":"966bc8d75109f7a54c2e024a0d7b97a3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -63,7 +63,14 @@
         }
     ],
     "wof:id":1293054073,
-    "wof:lastmodified":1564178568,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613176397,
     "wof:name":"Erma",
     "wof:parent_id":102073423,
     "wof:placetype":"locality",
@@ -73,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    138.34266000000002,
+    138.34266,
     -5.10885,
-    138.34266000000002,
+    138.34266,
     -5.10885
 ],
-  "geometry": {"coordinates":[138.34266000000002,-5.10885],"type":"Point"}
+  "geometry": {"coordinates":[138.34266,-5.10885],"type":"Point"}
 }

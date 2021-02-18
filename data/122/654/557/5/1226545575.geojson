@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672001,
-        102073493
+        102073493,
+        85672001
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1992885
     },
     "wof:country":"ID",
-    "wof:geomhash":"d1ea2f5eec8e31feea5b7fd596467204",
+    "wof:geomhash":"364451c7f0ab7056819ca33e323e969a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1226545575,
-    "wof:lastmodified":1536997488,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613186459,
     "wof:name":"Kayujati",
     "wof:parent_id":102073493,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.88443999999998,
+    106.88444,
     -6.19028,
-    106.88443999999998,
+    106.88444,
     -6.19028
 ],
-  "geometry": {"coordinates":[106.88443999999998,-6.19028],"type":"Point"}
+  "geometry": {"coordinates":[106.88444,-6.19028],"type":"Point"}
 }

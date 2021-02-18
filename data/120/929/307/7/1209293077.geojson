@@ -34,7 +34,7 @@
         "gn:id":2004351
     },
     "wof:country":"ID",
-    "wof:geomhash":"06e1aded1d65889ce4508d3b31ad6be5",
+    "wof:geomhash":"1c6467292fd9b6128f51698671f7c26c",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209293077,
-    "wof:lastmodified":1536291626,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179266,
     "wof:name":"Dengklik",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     110.65167,
-    -7.868889999999999,
+    -7.86889,
     110.65167,
-    -7.868889999999999
+    -7.86889
 ],
   "geometry": {"coordinates":[110.65167,-7.86889],"type":"Point"}
 }

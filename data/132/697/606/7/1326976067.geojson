@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072855
+        102072855,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6604061
     },
     "wof:country":"ID",
-    "wof:geomhash":"adaebc8573322a0d9d1ab0be803c455d",
+    "wof:geomhash":"4bde2602473ef7dd6fbdbc9883d62819",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1326976067,
-    "wof:lastmodified":1537630023,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613173296,
     "wof:name":"Tayasa",
     "wof:parent_id":102072855,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.74056000000002,
+    106.74056,
     -6.86111,
-    106.74056000000002,
+    106.74056,
     -6.86111
 ],
-  "geometry": {"coordinates":[106.74056000000002,-6.86111],"type":"Point"}
+  "geometry": {"coordinates":[106.74056,-6.86111],"type":"Point"}
 }

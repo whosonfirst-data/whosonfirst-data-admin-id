@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072937
+        102072937,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6606723
     },
     "wof:country":"ID",
-    "wof:geomhash":"bf489bedbc5d75c6d0561927cebd0297",
+    "wof:geomhash":"22156a2905aef8f1b098cebea3f43547",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,7 +54,14 @@
         }
     ],
     "wof:id":1276813911,
-    "wof:lastmodified":1537630121,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177085,
     "wof:name":"Linggarsari Satu",
     "wof:parent_id":102072937,
     "wof:placetype":"locality",
@@ -64,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.43361000000002,
+    107.43361,
     -6.29333,
-    107.43361000000002,
+    107.43361,
     -6.29333
 ],
-  "geometry": {"coordinates":[107.43361000000002,-6.29333],"type":"Point"}
+  "geometry": {"coordinates":[107.43361,-6.29333],"type":"Point"}
 }

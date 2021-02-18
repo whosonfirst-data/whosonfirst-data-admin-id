@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072715
+        102072715,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6373763
     },
     "wof:country":"ID",
-    "wof:geomhash":"e13a4895702270eb24468843185a7edc",
+    "wof:geomhash":"c497bd7b6d7f221a9e7daafe885f858e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1260071283,
-    "wof:lastmodified":1537628407,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613180350,
     "wof:name":"Bogem",
     "wof:parent_id":102072715,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.23111000000002,
+    109.23111,
     -7.50083,
-    109.23111000000002,
+    109.23111,
     -7.50083
 ],
-  "geometry": {"coordinates":[109.23111000000002,-7.50083],"type":"Point"}
+  "geometry": {"coordinates":[109.23111,-7.50083],"type":"Point"}
 }

@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671995,
-        102072687
+        102072687,
+        85671995
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6605763
     },
     "wof:country":"ID",
-    "wof:geomhash":"60dd6c88603a130af38dc7f804498a11",
+    "wof:geomhash":"83f4556ca57385d6bdd680a71a56246b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1310451365,
-    "wof:lastmodified":1536994348,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181237,
     "wof:name":"Cipcundeuy",
     "wof:parent_id":102072687,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.49611000000002,
+    106.49611,
     -6.31444,
-    106.49611000000002,
+    106.49611,
     -6.31444
 ],
-  "geometry": {"coordinates":[106.49611000000002,-6.31444],"type":"Point"}
+  "geometry": {"coordinates":[106.49611,-6.31444],"type":"Point"}
 }

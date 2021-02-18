@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671995,
-        102072687
+        102072687,
+        85671995
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6605730
     },
     "wof:country":"ID",
-    "wof:geomhash":"f5ac720aee227278b03f7e37634cd13a",
+    "wof:geomhash":"7022f337359f21a282b999928d727911",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1360034887,
-    "wof:lastmodified":1537630085,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613182077,
     "wof:name":"Tapos Kidul",
     "wof:parent_id":102072687,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.48111000000002,
+    106.48111,
     -6.29667,
-    106.48111000000002,
+    106.48111,
     -6.29667
 ],
-  "geometry": {"coordinates":[106.48111000000002,-6.29667],"type":"Point"}
+  "geometry": {"coordinates":[106.48111,-6.29667],"type":"Point"}
 }

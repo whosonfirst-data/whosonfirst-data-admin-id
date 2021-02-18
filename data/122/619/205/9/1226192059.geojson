@@ -58,15 +58,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073217
+        102073217,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1961972
     },
     "wof:country":"ID",
-    "wof:geomhash":"55678692e692cbc1c9d7ad1cb1027916",
+    "wof:geomhash":"46ff39e693e666abd72ab5fb16e10363",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +77,14 @@
         }
     ],
     "wof:id":1226192059,
-    "wof:lastmodified":1564204977,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185368,
     "wof:name":"Cipayung",
     "wof:parent_id":102073217,
     "wof:placetype":"locality",
@@ -87,10 +94,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.63443999999998,
+    106.63444,
     -6.48472,
-    106.63443999999998,
+    106.63444,
     -6.48472
 ],
-  "geometry": {"coordinates":[106.63443999999998,-6.48472],"type":"Point"}
+  "geometry": {"coordinates":[106.63444,-6.48472],"type":"Point"}
 }

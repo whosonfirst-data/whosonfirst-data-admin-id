@@ -44,15 +44,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672067,
-        1108796865
+        1108796865,
+        85672067
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1639626
     },
     "wof:country":"ID",
-    "wof:geomhash":"ea50815041e191bd02122d358cf9fe1c",
+    "wof:geomhash":"57e0031a4f781d7837207f91b04db308",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -63,7 +63,14 @@
         }
     ],
     "wof:id":1225958717,
-    "wof:lastmodified":1564204600,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185239,
     "wof:name":"Kwoor",
     "wof:parent_id":1108796865,
     "wof:placetype":"locality",
@@ -73,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    132.33333000000002,
+    132.33333,
     -0.38333,
-    132.33333000000002,
+    132.33333,
     -0.38333
 ],
-  "geometry": {"coordinates":[132.33333000000002,-0.38333],"type":"Point"}
+  "geometry": {"coordinates":[132.33332999999999,-0.38333],"type":"Point"}
 }

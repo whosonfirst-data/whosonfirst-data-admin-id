@@ -34,7 +34,7 @@
         "gn:id":1951422
     },
     "wof:country":"ID",
-    "wof:geomhash":"511f4ef3ae5bee2ab99ce74e6f83417a",
+    "wof:geomhash":"8378f89fc51bbfc8c303b6b79541f7b1",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209164033,
-    "wof:lastmodified":1536295807,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179264,
     "wof:name":"Sito",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -52,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.97556000000002,
-    -6.948060000000001,
-    106.97556000000002,
-    -6.948060000000001
+    106.97556,
+    -6.94806,
+    106.97556,
+    -6.94806
 ],
-  "geometry": {"coordinates":[106.97556000000002,-6.94806],"type":"Point"}
+  "geometry": {"coordinates":[106.97556,-6.94806],"type":"Point"}
 }

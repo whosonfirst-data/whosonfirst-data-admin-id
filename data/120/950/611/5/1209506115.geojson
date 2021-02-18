@@ -34,7 +34,7 @@
         "gn:id":6256821
     },
     "wof:country":"ID",
-    "wof:geomhash":"3d0d8d95ab76a3cb0ece53c2f08e6e6e",
+    "wof:geomhash":"3c25e84faa395b3b978ce59084d32f33",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209506115,
-    "wof:lastmodified":1536285030,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178908,
     "wof:name":"Sangar",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     110.30194,
-    -7.407780000000002,
+    -7.40778,
     110.30194,
-    -7.407780000000002
+    -7.40778
 ],
   "geometry": {"coordinates":[110.30194,-7.40778],"type":"Point"}
 }

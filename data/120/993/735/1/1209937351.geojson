@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072709
+        102072709,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6257881
     },
     "wof:country":"ID",
-    "wof:geomhash":"bbd5a6ed3a9c0f1d8e1231946c812d2b",
+    "wof:geomhash":"5c3a20935b9e958a0517ac9c5bed5d54",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1209937351,
-    "wof:lastmodified":1536390050,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179061,
     "wof:name":"Babadan",
     "wof:parent_id":102072709,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.44138999999998,
+    110.44139,
     -7.34556,
-    110.44138999999998,
+    110.44139,
     -7.34556
 ],
-  "geometry": {"coordinates":[110.44138999999998,-7.34556],"type":"Point"}
+  "geometry": {"coordinates":[110.44139,-7.34556],"type":"Point"}
 }

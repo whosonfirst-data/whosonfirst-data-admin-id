@@ -38,15 +38,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672115,
-        1108796893
+        1108796893,
+        85672115
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":11012573
     },
     "wof:country":"ID",
-    "wof:geomhash":"c8c5b2f0244c861e6a74d96d6c79f5d8",
+    "wof:geomhash":"85251a424647f8a06e7eefe093383348",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -57,7 +57,14 @@
         }
     ],
     "wof:id":1326670007,
-    "wof:lastmodified":1564168273,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613172517,
     "wof:name":"Kenyam",
     "wof:parent_id":1108796893,
     "wof:placetype":"locality",
@@ -67,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    138.38416999999998,
+    138.38417,
     -4.59972,
-    138.38416999999998,
+    138.38417,
     -4.59972
 ],
-  "geometry": {"coordinates":[138.38416999999998,-4.59972],"type":"Point"}
+  "geometry": {"coordinates":[138.38417000000001,-4.59972],"type":"Point"}
 }

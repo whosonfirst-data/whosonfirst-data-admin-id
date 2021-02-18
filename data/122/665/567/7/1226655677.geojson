@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672115,
-        102073035
+        102073035,
+        85672115
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1628412
     },
     "wof:country":"ID",
-    "wof:geomhash":"12855590c68a51e734d2a59e4b108307",
+    "wof:geomhash":"2ff1fd2fe315429845b5ec500ed4678f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,7 +54,14 @@
         }
     ],
     "wof:id":1226655677,
-    "wof:lastmodified":1537626624,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613186422,
     "wof:name":"Sayati",
     "wof:parent_id":102073035,
     "wof:placetype":"locality",
@@ -64,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    136.58333000000002,
+    136.58333,
     -2.28333,
-    136.58333000000002,
+    136.58333,
     -2.28333
 ],
-  "geometry": {"coordinates":[136.58333000000002,-2.28333],"type":"Point"}
+  "geometry": {"coordinates":[136.58332999999999,-2.28333],"type":"Point"}
 }

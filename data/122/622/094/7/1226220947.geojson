@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073313
+        102073313,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2002859
     },
     "wof:country":"ID",
-    "wof:geomhash":"8cbecd78b8f95785d3ae1c668357235a",
+    "wof:geomhash":"ff6afe68e75c0c4bb9f654f01a068595",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1226220947,
-    "wof:lastmodified":1536969154,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613186030,
     "wof:name":"Mranggen",
     "wof:parent_id":102073313,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.37111000000002,
+    110.37111,
     -7.92583,
-    110.37111000000002,
+    110.37111,
     -7.92583
 ],
-  "geometry": {"coordinates":[110.37111000000002,-7.92583],"type":"Point"}
+  "geometry": {"coordinates":[110.37111,-7.92583],"type":"Point"}
 }

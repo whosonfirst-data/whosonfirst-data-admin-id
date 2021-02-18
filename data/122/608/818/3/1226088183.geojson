@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073529
+        102073529,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6579083
     },
     "wof:country":"ID",
-    "wof:geomhash":"3b40025bb3c4128b62139ae410848e60",
+    "wof:geomhash":"c8c0a9c126b32aabdd9558f46a069b80",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,7 +54,14 @@
         }
     ],
     "wof:id":1226088183,
-    "wof:lastmodified":1564207988,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613186329,
     "wof:name":"Jalancagak",
     "wof:parent_id":102073529,
     "wof:placetype":"locality",
@@ -64,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.19138999999998,
+    107.19139,
     -6.7975,
-    107.19138999999998,
+    107.19139,
     -6.7975
 ],
-  "geometry": {"coordinates":[107.19138999999998,-6.7975],"type":"Point"}
+  "geometry": {"coordinates":[107.19139,-6.7975],"type":"Point"}
 }

@@ -137,15 +137,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073313
+        102073313,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2002312
     },
     "wof:country":"ID",
-    "wof:geomhash":"23245388162e8919640b4020fea211c8",
+    "wof:geomhash":"27a34e8f88d12aec00a3b33aa75ad11b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -156,7 +156,14 @@
         }
     ],
     "wof:id":1327451735,
-    "wof:lastmodified":1564171035,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613173522,
     "wof:name":"Menden",
     "wof:parent_id":102073313,
     "wof:placetype":"locality",
@@ -166,10 +173,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.32361000000002,
+    110.32361,
     -7.8825,
-    110.32361000000002,
+    110.32361,
     -7.8825
 ],
-  "geometry": {"coordinates":[110.32361000000002,-7.8825],"type":"Point"}
+  "geometry": {"coordinates":[110.32361,-7.8825],"type":"Point"}
 }

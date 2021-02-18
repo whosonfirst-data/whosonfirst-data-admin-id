@@ -37,7 +37,7 @@
         "gn:id":7667020
     },
     "wof:country":"ID",
-    "wof:geomhash":"c2dcc91e0bb58a01188714daee700dca",
+    "wof:geomhash":"ff996e8286c170767879936d0deef366",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -45,7 +45,14 @@
         }
     ],
     "wof:id":1209685801,
-    "wof:lastmodified":1537634233,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178958,
     "wof:name":"Sidodadi",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -55,10 +62,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    105.37326000000002,
+    105.37326,
     -5.09734,
-    105.37326000000002,
+    105.37326,
     -5.09734
 ],
-  "geometry": {"coordinates":[105.37326000000002,-5.09734],"type":"Point"}
+  "geometry": {"coordinates":[105.37326,-5.09734],"type":"Point"}
 }

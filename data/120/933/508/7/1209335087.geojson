@@ -34,7 +34,7 @@
         "gn:id":6252483
     },
     "wof:country":"ID",
-    "wof:geomhash":"29cb0e569669b3aa496d2944f5fc6f9d",
+    "wof:geomhash":"aacd9f80f11e5fedd2f8880470b45d8f",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209335087,
-    "wof:lastmodified":1536290250,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179230,
     "wof:name":"Plaur",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     110.60889,
-    -7.390560000000002,
+    -7.39056,
     110.60889,
-    -7.390560000000002
+    -7.39056
 ],
   "geometry": {"coordinates":[110.60889,-7.39056],"type":"Point"}
 }

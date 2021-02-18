@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072733
+        102072733,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1935303
     },
     "wof:country":"ID",
-    "wof:geomhash":"62cd821da8577890581c5215dba782fa",
+    "wof:geomhash":"e06dd349cea7ca260875a4993418574b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1226436427,
-    "wof:lastmodified":1536659040,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185280,
     "wof:name":"Joso",
     "wof:parent_id":102072733,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.93361000000002,
+    110.93361,
     -7.53528,
-    110.93361000000002,
+    110.93361,
     -7.53528
 ],
-  "geometry": {"coordinates":[110.93361000000002,-7.53528],"type":"Point"}
+  "geometry": {"coordinates":[110.93361,-7.53528],"type":"Point"}
 }

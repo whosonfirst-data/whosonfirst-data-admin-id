@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073169
+        102073169,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6257535
     },
     "wof:country":"ID",
-    "wof:geomhash":"de6cac1d7f7ba41515dee95c5a2a40ce",
+    "wof:geomhash":"d9acfa3d84b6f8813ebd2db25f43b1c0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1242673851,
-    "wof:lastmodified":1536925871,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183255,
     "wof:name":"Demangan",
     "wof:parent_id":102073169,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.32361000000002,
+    110.32361,
     -7.32583,
-    110.32361000000002,
+    110.32361,
     -7.32583
 ],
-  "geometry": {"coordinates":[110.32361000000002,-7.32583],"type":"Point"}
+  "geometry": {"coordinates":[110.32361,-7.32583],"type":"Point"}
 }

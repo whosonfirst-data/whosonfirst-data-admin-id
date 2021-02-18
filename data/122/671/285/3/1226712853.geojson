@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672037,
-        102073481
+        102073481,
+        85672037
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1943781
     },
     "wof:country":"ID",
-    "wof:geomhash":"37abed93e9774c067c3e6622b57f1242",
+    "wof:geomhash":"739545ef62a74aa122108e3826ecab06",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1226712853,
-    "wof:lastmodified":1536763430,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613186090,
     "wof:name":"Luankobo",
     "wof:parent_id":102073481,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    125.03943999999998,
+    125.03944,
     -9.38667,
-    125.03943999999998,
+    125.03944,
     -9.38667
 ],
-  "geometry": {"coordinates":[125.03943999999998,-9.38667],"type":"Point"}
+  "geometry": {"coordinates":[125.03944,-9.38667],"type":"Point"}
 }

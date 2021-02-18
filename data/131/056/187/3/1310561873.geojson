@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073295
+        102073295,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6568803
     },
     "wof:country":"ID",
-    "wof:geomhash":"b934e518631314d14f2c65f091229fd8",
+    "wof:geomhash":"9b28789b1c768a97387f65e89a63f28c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1310561873,
-    "wof:lastmodified":1537629363,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181628,
     "wof:name":"Tegalpanjang Satu",
     "wof:parent_id":102073295,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.76111000000002,
+    107.76111,
     -6.35583,
-    107.76111000000002,
+    107.76111,
     -6.35583
 ],
-  "geometry": {"coordinates":[107.76111000000002,-6.35583],"type":"Point"}
+  "geometry": {"coordinates":[107.76111,-6.35583],"type":"Point"}
 }

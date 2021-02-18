@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072947
+        102072947,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6375670
     },
     "wof:country":"ID",
-    "wof:geomhash":"fa04bf0406b844302379a79fd9629335",
+    "wof:geomhash":"0755d2e80d01d0ac4d5112aa9d8f05db",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1292897039,
-    "wof:lastmodified":1537628443,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175624,
     "wof:name":"Manggu",
     "wof:parent_id":102072947,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.87111000000002,
+    110.87111,
     -8.17028,
-    110.87111000000002,
+    110.87111,
     -8.17028
 ],
-  "geometry": {"coordinates":[110.87111000000002,-8.17028],"type":"Point"}
+  "geometry": {"coordinates":[110.87111,-8.17028],"type":"Point"}
 }

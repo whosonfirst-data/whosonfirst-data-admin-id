@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072739
+        102072739,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6582625
     },
     "wof:country":"ID",
-    "wof:geomhash":"9b041750d0a24ed35815090f0376559a",
+    "wof:geomhash":"a4951fe9f8c80686ae8148dd368a0934",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1326880103,
-    "wof:lastmodified":1537629505,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613172356,
     "wof:name":"Cigalumpit",
     "wof:parent_id":102072739,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.89806000000002,
+    107.89806,
     -6.74472,
-    107.89806000000002,
+    107.89806,
     -6.74472
 ],
-  "geometry": {"coordinates":[107.89806000000002,-6.74472],"type":"Point"}
+  "geometry": {"coordinates":[107.89806,-6.74472],"type":"Point"}
 }

@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072921
+        102072921,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6370681
     },
     "wof:country":"ID",
-    "wof:geomhash":"aff78036178a12fc52e0c8f967e53768",
+    "wof:geomhash":"5a37dcb9fef3fce66b5719a9b852a672",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1327330167,
-    "wof:lastmodified":1537628317,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613172916,
     "wof:name":"Linggarsari",
     "wof:parent_id":102072921,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.44861000000002,
+    109.44861,
     -7.3975,
-    109.44861000000002,
+    109.44861,
     -7.3975
 ],
-  "geometry": {"coordinates":[109.44861000000002,-7.3975],"type":"Point"}
+  "geometry": {"coordinates":[109.44861,-7.3975],"type":"Point"}
 }

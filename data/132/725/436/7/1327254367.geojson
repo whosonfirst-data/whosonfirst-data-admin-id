@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072857
+        102072857,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6258749
     },
     "wof:country":"ID",
-    "wof:geomhash":"d0c3a55dda356f020e09dd80ae705231",
+    "wof:geomhash":"552ea88baeea724bbf55cb598e594585",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1327254367,
-    "wof:lastmodified":1536938672,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613172706,
     "wof:name":"Semarangen",
     "wof:parent_id":102072857,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.25388999999998,
+    110.25389,
     -7.52222,
-    110.25388999999998,
+    110.25389,
     -7.52222
 ],
-  "geometry": {"coordinates":[110.25388999999998,-7.52222],"type":"Point"}
+  "geometry": {"coordinates":[110.25389,-7.52222],"type":"Point"}
 }

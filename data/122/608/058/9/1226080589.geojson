@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        1108805993,
-        102072657
+        102072657,
+        1108805993
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1637283
     },
     "wof:country":"ID",
-    "wof:geomhash":"54897ef22289d41fb7206f7be6b94309",
+    "wof:geomhash":"b23e0020c127b0f175ac76c068a7d130",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,7 +54,14 @@
         }
     ],
     "wof:id":1226080589,
-    "wof:lastmodified":1537626900,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613186340,
     "wof:name":"Long Pelban",
     "wof:parent_id":102072657,
     "wof:placetype":"locality",
@@ -64,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    116.66476000000002,
+    116.66476,
     2.80623,
-    116.66476000000002,
+    116.66476,
     2.80623
 ],
-  "geometry": {"coordinates":[116.66476000000002,2.80623],"type":"Point"}
+  "geometry": {"coordinates":[116.66476,2.80623],"type":"Point"}
 }

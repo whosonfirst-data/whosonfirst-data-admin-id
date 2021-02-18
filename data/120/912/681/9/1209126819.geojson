@@ -34,7 +34,7 @@
         "gn:id":2008329
     },
     "wof:country":"ID",
-    "wof:geomhash":"d588a7af5757e3b2ef22a2a0c3618db0",
+    "wof:geomhash":"712c2891922276734890dfa1050fee18",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209126819,
-    "wof:lastmodified":1536296931,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178728,
     "wof:name":"Blora",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -52,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.72556000000002,
-    -7.6722199999999985,
-    110.72556000000002,
-    -7.6722199999999985
+    110.72556,
+    -7.67222,
+    110.72556,
+    -7.67222
 ],
-  "geometry": {"coordinates":[110.72556000000002,-7.67222],"type":"Point"}
+  "geometry": {"coordinates":[110.72556,-7.67222],"type":"Point"}
 }

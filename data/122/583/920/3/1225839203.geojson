@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072639
+        102072639,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6377357
     },
     "wof:country":"ID",
-    "wof:geomhash":"b4fac242813c8b5aabb741253050ca6b",
+    "wof:geomhash":"285d07fa2e7ed69b822db52322c3cb56",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1225839203,
-    "wof:lastmodified":1537628487,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613186625,
     "wof:name":"Karangpontang",
     "wof:parent_id":102072639,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.64943999999998,
+    109.64944,
     -7.54389,
-    109.64943999999998,
+    109.64944,
     -7.54389
 ],
-  "geometry": {"coordinates":[109.64943999999998,-7.54389],"type":"Point"}
+  "geometry": {"coordinates":[109.64944,-7.54389],"type":"Point"}
 }

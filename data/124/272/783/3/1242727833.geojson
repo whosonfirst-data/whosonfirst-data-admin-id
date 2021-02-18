@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072855
+        102072855,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6601404
     },
     "wof:country":"ID",
-    "wof:geomhash":"14a2753b1cfa186375ec2f83dda590ce",
+    "wof:geomhash":"b1bb3ed87be397729e4b4af00dd3a628",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1242727833,
-    "wof:lastmodified":1537629983,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183107,
     "wof:name":"Selagombong",
     "wof:parent_id":102072855,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.85193999999998,
+    106.85194,
     -6.935,
-    106.85193999999998,
+    106.85194,
     -6.935
 ],
-  "geometry": {"coordinates":[106.85193999999998,-6.935],"type":"Point"}
+  "geometry": {"coordinates":[106.85194,-6.935],"type":"Point"}
 }

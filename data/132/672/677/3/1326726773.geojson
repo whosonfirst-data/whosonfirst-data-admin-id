@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072647
+        102072647,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6763137
     },
     "wof:country":"ID",
-    "wof:geomhash":"54a41ada975d24c59808ce3326028e19",
+    "wof:geomhash":"f87ad4396f8c93f9dc0685718608998e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1326726773,
-    "wof:lastmodified":1537631429,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613172297,
     "wof:name":"Surobrajan",
     "wof:parent_id":102072647,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.65066000000002,
+    109.65066,
     -6.9409,
-    109.65066000000002,
+    109.65066,
     -6.9409
 ],
-  "geometry": {"coordinates":[109.65066000000002,-6.9409],"type":"Point"}
+  "geometry": {"coordinates":[109.65066,-6.9409],"type":"Point"}
 }

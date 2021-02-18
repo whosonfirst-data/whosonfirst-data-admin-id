@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073233
+        102073233,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2007368
     },
     "wof:country":"ID",
-    "wof:geomhash":"e45272c21466b9f220277567f5627dad",
+    "wof:geomhash":"35538f8a86688722b028b547df77e5c3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1327227793,
-    "wof:lastmodified":1536975744,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613172685,
     "wof:name":"Sidomulyo",
     "wof:parent_id":102073233,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.52306000000002,
+    110.52306,
     -7.72917,
-    110.52306000000002,
+    110.52306,
     -7.72917
 ],
-  "geometry": {"coordinates":[110.52306000000002,-7.72917],"type":"Point"}
+  "geometry": {"coordinates":[110.52306,-7.72917],"type":"Point"}
 }

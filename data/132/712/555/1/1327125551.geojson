@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073187
+        102073187,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6566436
     },
     "wof:country":"ID",
-    "wof:geomhash":"c402d29907be9146c83d74d213526d8b",
+    "wof:geomhash":"9124f6bdb76333f6f4167f1f8b3fcd7c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1327125551,
-    "wof:lastmodified":1537629292,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613172807,
     "wof:name":"Jenjuran Lor",
     "wof:parent_id":102073187,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.97556000000002,
+    109.97556,
     -7.71,
-    109.97556000000002,
+    109.97556,
     -7.71
 ],
-  "geometry": {"coordinates":[109.97556000000002,-7.71],"type":"Point"}
+  "geometry": {"coordinates":[109.97556,-7.71],"type":"Point"}
 }

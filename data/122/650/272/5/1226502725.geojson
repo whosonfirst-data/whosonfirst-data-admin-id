@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671995,
-        102072687
+        102072687,
+        85671995
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6605721
     },
     "wof:country":"ID",
-    "wof:geomhash":"99f3d0ff67e508f9a3bb9381b6311461",
+    "wof:geomhash":"042bc750513fe6c1c429204c9d5b5d5e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1226502725,
-    "wof:lastmodified":1537630085,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185800,
     "wof:name":"Pasirpuyuh",
     "wof:parent_id":102072687,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.44693999999998,
+    106.44694,
     -6.28972,
-    106.44693999999998,
+    106.44694,
     -6.28972
 ],
-  "geometry": {"coordinates":[106.44693999999998,-6.28972],"type":"Point"}
+  "geometry": {"coordinates":[106.44694,-6.28972],"type":"Point"}
 }

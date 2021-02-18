@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072983
+        102072983,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2009881
     },
     "wof:country":"ID",
-    "wof:geomhash":"eaae34358563836ce0505b9fe812b25a",
+    "wof:geomhash":"a65b010f0833de1d3f6caf89d2f901f7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1276973827,
-    "wof:lastmodified":1536915848,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178065,
     "wof:name":"Duren",
     "wof:parent_id":102072983,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.50388999999998,
+    110.50389,
     -7.58667,
-    110.50388999999998,
+    110.50389,
     -7.58667
 ],
-  "geometry": {"coordinates":[110.50388999999998,-7.58667],"type":"Point"}
+  "geometry": {"coordinates":[110.50389,-7.58667],"type":"Point"}
 }

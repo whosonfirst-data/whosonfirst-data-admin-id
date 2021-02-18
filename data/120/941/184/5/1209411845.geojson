@@ -37,7 +37,7 @@
         "gn:id":6864662
     },
     "wof:country":"ID",
-    "wof:geomhash":"2efdaa6f98617c7bd676c1cc8ec68e6f",
+    "wof:geomhash":"59b929076fdccc0d2570c9bd6c3b6e9f",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -45,7 +45,14 @@
         }
     ],
     "wof:id":1209411845,
-    "wof:lastmodified":1537632427,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178713,
     "wof:name":"Tapelan",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -55,10 +62,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.87366000000002,
+    111.87366,
     -7.19956,
-    111.87366000000002,
+    111.87366,
     -7.19956
 ],
-  "geometry": {"coordinates":[111.87366000000002,-7.19956],"type":"Point"}
+  "geometry": {"coordinates":[111.87366,-7.19956],"type":"Point"}
 }

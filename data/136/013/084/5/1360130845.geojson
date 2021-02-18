@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073193
+        102073193,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6401914
     },
     "wof:country":"ID",
-    "wof:geomhash":"d0bd9291d3bbe31064d57538622c6e6a",
+    "wof:geomhash":"0cc71436da3de1ee02337dfca6496b46",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1360130845,
-    "wof:lastmodified":1537628852,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181772,
     "wof:name":"Blok Desa",
     "wof:parent_id":102073193,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.33556000000002,
+    108.33556,
     -6.51028,
-    108.33556000000002,
+    108.33556,
     -6.51028
 ],
-  "geometry": {"coordinates":[108.33556000000002,-6.51028],"type":"Point"}
+  "geometry": {"coordinates":[108.33556,-6.51028],"type":"Point"}
 }

@@ -37,7 +37,7 @@
         "gn:id":7666080
     },
     "wof:country":"ID",
-    "wof:geomhash":"5e7dc71ca0338040fdb22ff479b94f7a",
+    "wof:geomhash":"09dbb132b36e1457f2e0a2f393723a4d",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -45,7 +45,14 @@
         }
     ],
     "wof:id":1209184161,
-    "wof:lastmodified":1537634201,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179328,
     "wof:name":"Agamjaya",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -55,10 +62,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    105.56116000000002,
+    105.56116,
     -5.64046,
-    105.56116000000002,
+    105.56116,
     -5.64046
 ],
-  "geometry": {"coordinates":[105.56116000000002,-5.64046],"type":"Point"}
+  "geometry": {"coordinates":[105.56116,-5.64046],"type":"Point"}
 }

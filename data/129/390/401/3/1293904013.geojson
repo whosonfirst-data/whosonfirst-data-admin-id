@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073169
+        102073169,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6200631
     },
     "wof:country":"ID",
-    "wof:geomhash":"c86ca7341df3ee3687a7810d07ec0f96",
+    "wof:geomhash":"aac4a6b0984df7ac6fbcc45b6eb875b7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1293904013,
-    "wof:lastmodified":1536683766,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175603,
     "wof:name":"Teseh",
     "wof:parent_id":102073169,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.12888999999998,
+    110.12889,
     -7.33028,
-    110.12888999999998,
+    110.12889,
     -7.33028
 ],
-  "geometry": {"coordinates":[110.12888999999998,-7.33028],"type":"Point"}
+  "geometry": {"coordinates":[110.12889,-7.33028],"type":"Point"}
 }

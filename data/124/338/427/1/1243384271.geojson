@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072857
+        102072857,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6259402
     },
     "wof:country":"ID",
-    "wof:geomhash":"759dbf81170649a1dbddfc9ed0785cff",
+    "wof:geomhash":"09d7c54e3bbae13a48c2fd6d634c8cc3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1243384271,
-    "wof:lastmodified":1536895078,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613182838,
     "wof:name":"Seloboro",
     "wof:parent_id":102072857,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.28806000000002,
+    110.28806,
     -7.61028,
-    110.28806000000002,
+    110.28806,
     -7.61028
 ],
-  "geometry": {"coordinates":[110.28806000000002,-7.61028],"type":"Point"}
+  "geometry": {"coordinates":[110.28806,-7.61028],"type":"Point"}
 }

@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672097,
-        1108796833
+        1108796833,
+        85672097
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8042961
     },
     "wof:country":"ID",
-    "wof:geomhash":"a848ebe466996bb4227100d751a87002",
+    "wof:geomhash":"d0345c694ea78eb6b7220390f5bd47be",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1276281777,
-    "wof:lastmodified":1537635103,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177172,
     "wof:name":"Wasu",
     "wof:parent_id":1108796833,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    128.49298000000002,
+    128.49298,
     -3.61837,
-    128.49298000000002,
+    128.49298,
     -3.61837
 ],
-  "geometry": {"coordinates":[128.49298000000002,-3.61837],"type":"Point"}
+  "geometry": {"coordinates":[128.49297999999999,-3.61837],"type":"Point"}
 }

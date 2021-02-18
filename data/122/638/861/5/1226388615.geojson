@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671995,
-        102072687
+        102072687,
+        85671995
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1990885
     },
     "wof:country":"ID",
-    "wof:geomhash":"2360dae9b6c535cccf2ee62c45ac2e4f",
+    "wof:geomhash":"751aa906b184998c6f01a273c8e9173c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1226388615,
-    "wof:lastmodified":1536728242,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613186488,
     "wof:name":"Bendungan",
     "wof:parent_id":102072687,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.55861000000002,
+    106.55861,
     -6.11333,
-    106.55861000000002,
+    106.55861,
     -6.11333
 ],
-  "geometry": {"coordinates":[106.55861000000002,-6.11333],"type":"Point"}
+  "geometry": {"coordinates":[106.55861,-6.11333],"type":"Point"}
 }

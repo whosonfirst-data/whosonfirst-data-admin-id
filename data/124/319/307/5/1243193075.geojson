@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072733
+        102072733,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1933377
     },
     "wof:country":"ID",
-    "wof:geomhash":"6ab00f74d8efe941dfdd54608f8866be",
+    "wof:geomhash":"6e5a2856feb7bd8cdfe95eeb758f236a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1243193075,
-    "wof:lastmodified":1536673854,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613184175,
     "wof:name":"Ingasrejo",
     "wof:parent_id":102072733,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.86556000000002,
+    110.86556,
     -7.53528,
-    110.86556000000002,
+    110.86556,
     -7.53528
 ],
-  "geometry": {"coordinates":[110.86556000000002,-7.53528],"type":"Point"}
+  "geometry": {"coordinates":[110.86556,-7.53528],"type":"Point"}
 }

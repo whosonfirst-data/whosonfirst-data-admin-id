@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073313
+        102073313,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2003038
     },
     "wof:country":"ID",
-    "wof:geomhash":"80176a41dc7d6a1bd9bf3d2d685a76eb",
+    "wof:geomhash":"ed5896e9642e8d0c0650d2f926cf4984",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1243165639,
-    "wof:lastmodified":1536713765,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613184116,
     "wof:name":"Monggang",
     "wof:parent_id":102073313,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.33693999999998,
+    110.33694,
     -7.94778,
-    110.33693999999998,
+    110.33694,
     -7.94778
 ],
-  "geometry": {"coordinates":[110.33693999999998,-7.94778],"type":"Point"}
+  "geometry": {"coordinates":[110.33694,-7.94778],"type":"Point"}
 }

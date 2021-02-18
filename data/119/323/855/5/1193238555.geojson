@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073471
+        102073471,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6592781
     },
     "wof:country":"ID",
-    "wof:geomhash":"8ccafdd03b4235d6c9d9afec45d81708",
+    "wof:geomhash":"dfd0a74b11abb802385f62cd783ad20f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1193238555,
-    "wof:lastmodified":1537629744,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179858,
     "wof:name":"Warnasari",
     "wof:parent_id":102073471,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.44861000000002,
+    107.44861,
     -6.52167,
-    107.44861000000002,
+    107.44861,
     -6.52167
 ],
-  "geometry": {"coordinates":[107.44861000000002,-6.52167],"type":"Point"}
+  "geometry": {"coordinates":[107.44861,-6.52167],"type":"Point"}
 }

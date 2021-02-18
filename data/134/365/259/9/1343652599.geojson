@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072733
+        102072733,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6560282
     },
     "wof:country":"ID",
-    "wof:geomhash":"fb466f85a8b12042eddad7dbda69703d",
+    "wof:geomhash":"8999c8fec92f3fcc9b6f0d8ed1f3af1d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1343652599,
-    "wof:lastmodified":1537629128,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613173867,
     "wof:name":"Sidewi",
     "wof:parent_id":102072733,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.04361000000002,
+    111.04361,
     -7.65139,
-    111.04361000000002,
+    111.04361,
     -7.65139
 ],
-  "geometry": {"coordinates":[111.04361000000002,-7.65139],"type":"Point"}
+  "geometry": {"coordinates":[111.04361,-7.65139],"type":"Point"}
 }

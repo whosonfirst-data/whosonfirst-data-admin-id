@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073313
+        102073313,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2002600
     },
     "wof:country":"ID",
-    "wof:geomhash":"8919e75e278ba77a6e1eddfbb5e688f8",
+    "wof:geomhash":"546c994c96a508ab2c3d5c057b982b59",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1209934333,
-    "wof:lastmodified":1536391336,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179063,
     "wof:name":"Sumuran",
     "wof:parent_id":102073313,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.32193999999998,
+    110.32194,
     -7.90111,
-    110.32193999999998,
+    110.32194,
     -7.90111
 ],
-  "geometry": {"coordinates":[110.32193999999998,-7.90111],"type":"Point"}
+  "geometry": {"coordinates":[110.32194,-7.90111],"type":"Point"}
 }

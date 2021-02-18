@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073217
+        102073217,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6604394
     },
     "wof:country":"ID",
-    "wof:geomhash":"de4e571ae98960646ebaa93520524aac",
+    "wof:geomhash":"86bc74ccbbb9f1f31dae2792e2c172a4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1276384105,
-    "wof:lastmodified":1537630034,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178224,
     "wof:name":"Legogleumeung",
     "wof:parent_id":102073217,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.67638999999998,
+    106.67639,
     -6.64417,
-    106.67638999999998,
+    106.67639,
     -6.64417
 ],
-  "geometry": {"coordinates":[106.67638999999998,-6.64417],"type":"Point"}
+  "geometry": {"coordinates":[106.67639,-6.64417],"type":"Point"}
 }

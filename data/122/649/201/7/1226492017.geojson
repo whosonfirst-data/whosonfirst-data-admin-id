@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072739
+        102072739,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6581455
     },
     "wof:country":"ID",
-    "wof:geomhash":"21f985043520a79c8279b9407c601b63",
+    "wof:geomhash":"caa9dd5887d6eb9376db88a1dae8b52f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1226492017,
-    "wof:lastmodified":1537629474,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613186069,
     "wof:name":"Cikondang",
     "wof:parent_id":102072739,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.94861000000002,
+    107.94861,
     -6.86806,
-    107.94861000000002,
+    107.94861,
     -6.86806
 ],
-  "geometry": {"coordinates":[107.94861000000002,-6.86806],"type":"Point"}
+  "geometry": {"coordinates":[107.94861,-6.86806],"type":"Point"}
 }

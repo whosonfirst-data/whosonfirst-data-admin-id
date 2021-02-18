@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073083
+        102073083,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1959638
     },
     "wof:country":"ID",
-    "wof:geomhash":"a45212f033758499eb64b65352054107",
+    "wof:geomhash":"ab037cfeed5e82b8f2104652cadf8391",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1326976125,
-    "wof:lastmodified":1536840644,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613173295,
     "wof:name":"Kampungsitu",
     "wof:parent_id":102073083,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.88443999999998,
+    106.88444,
     -6.41,
-    106.88443999999998,
+    106.88444,
     -6.41
 ],
-  "geometry": {"coordinates":[106.88443999999998,-6.41],"type":"Point"}
+  "geometry": {"coordinates":[106.88444,-6.41],"type":"Point"}
 }

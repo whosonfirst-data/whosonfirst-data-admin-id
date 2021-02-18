@@ -34,7 +34,7 @@
         "gn:id":6200791
     },
     "wof:country":"ID",
-    "wof:geomhash":"0ce56c213b09d5321805bb6b3fc05c7c",
+    "wof:geomhash":"6082c9bc37c85ff9dbedd175c27e6e63",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209409081,
-    "wof:lastmodified":1536287899,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178755,
     "wof:name":"Semondo",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     110.13306,
-    -7.305560000000002,
+    -7.30556,
     110.13306,
-    -7.305560000000002
+    -7.30556
 ],
   "geometry": {"coordinates":[110.13306,-7.30556],"type":"Point"}
 }

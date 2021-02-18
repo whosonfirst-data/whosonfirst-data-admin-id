@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072715
+        102072715,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6388485
     },
     "wof:country":"ID",
-    "wof:geomhash":"14e2527f3cdd6767578098f05cbbfcfc",
+    "wof:geomhash":"88df110a76e5579f1682a08adc9dfa06",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1259680205,
-    "wof:lastmodified":1537628670,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613184790,
     "wof:name":"Guwalangu",
     "wof:parent_id":102072715,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.08138999999998,
+    109.08139,
     -7.43528,
-    109.08138999999998,
+    109.08139,
     -7.43528
 ],
-  "geometry": {"coordinates":[109.08138999999998,-7.43528],"type":"Point"}
+  "geometry": {"coordinates":[109.08139,-7.43528],"type":"Point"}
 }

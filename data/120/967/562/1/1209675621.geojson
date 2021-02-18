@@ -46,7 +46,7 @@
         "gn:id":1960378
     },
     "wof:country":"ID",
-    "wof:geomhash":"63bff067e19161901bb8e765566609b8",
+    "wof:geomhash":"06b4ea51ff1b6d7898e59b7a2693183c",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -54,7 +54,14 @@
         }
     ],
     "wof:id":1209675621,
-    "wof:lastmodified":1564186093,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179081,
     "wof:name":"Kuya",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -64,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.39806000000002,
+    106.39806,
     -6.19,
-    106.39806000000002,
+    106.39806,
     -6.19
 ],
-  "geometry": {"coordinates":[106.39806000000002,-6.19],"type":"Point"}
+  "geometry": {"coordinates":[106.39806,-6.19],"type":"Point"}
 }

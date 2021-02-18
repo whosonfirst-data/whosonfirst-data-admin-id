@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102073157
+        102073157,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6829275
     },
     "wof:country":"ID",
-    "wof:geomhash":"a7f91c56ea9d7952a03a9137d692746c",
+    "wof:geomhash":"6ae0648b51c3804bced49dded73d00a7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1243539415,
-    "wof:lastmodified":1537632079,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613182896,
     "wof:name":"Klompangan",
     "wof:parent_id":102073157,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    113.39773999999998,
+    113.39774,
     -7.79842,
-    113.39773999999998,
+    113.39774,
     -7.79842
 ],
-  "geometry": {"coordinates":[113.39773999999998,-7.79842],"type":"Point"}
+  "geometry": {"coordinates":[113.39774,-7.79842],"type":"Point"}
 }

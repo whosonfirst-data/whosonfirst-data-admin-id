@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073469
+        102073469,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2011641
     },
     "wof:country":"ID",
-    "wof:geomhash":"353e805f8da6323dc2e76fc8dd8c6006",
+    "wof:geomhash":"c60df6cdeb022676ef0a4ec4660c5db9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1343750549,
-    "wof:lastmodified":1536824297,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175207,
     "wof:name":"Bongkol",
     "wof:parent_id":102073469,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.19861000000002,
+    110.19861,
     -7.79778,
-    110.19861000000002,
+    110.19861,
     -7.79778
 ],
-  "geometry": {"coordinates":[110.19861000000002,-7.79778],"type":"Point"}
+  "geometry": {"coordinates":[110.19861,-7.79778],"type":"Point"}
 }

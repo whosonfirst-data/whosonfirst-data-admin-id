@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073469
+        102073469,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2012135
     },
     "wof:country":"ID",
-    "wof:geomhash":"ff92365249ecca39a12701356cc94403",
+    "wof:geomhash":"a7cdf2da9e4b454152068d98c6d6dc6d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1276537425,
-    "wof:lastmodified":1537001742,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178193,
     "wof:name":"Panginan",
     "wof:parent_id":102073469,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.04361000000002,
+    110.04361,
     -7.8725,
-    110.04361000000002,
+    110.04361,
     -7.8725
 ],
-  "geometry": {"coordinates":[110.04361000000002,-7.8725],"type":"Point"}
+  "geometry": {"coordinates":[110.04361,-7.8725],"type":"Point"}
 }

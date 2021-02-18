@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072733
+        102072733,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1934916
     },
     "wof:country":"ID",
-    "wof:geomhash":"4249743decb090a4210dfb567bb1d4c0",
+    "wof:geomhash":"a9d3407052bb695be2746bb8d454ca18",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1242894311,
-    "wof:lastmodified":1536604496,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183059,
     "wof:name":"Jaten",
     "wof:parent_id":102072733,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.97556000000002,
+    110.97556,
     -7.68028,
-    110.97556000000002,
+    110.97556,
     -7.68028
 ],
-  "geometry": {"coordinates":[110.97556000000002,-7.68028],"type":"Point"}
+  "geometry": {"coordinates":[110.97556,-7.68028],"type":"Point"}
 }

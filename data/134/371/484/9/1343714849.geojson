@@ -33,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672115,
-        102072939
+        102072939,
+        85672115
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2082401
     },
     "wof:country":"ID",
-    "wof:geomhash":"d944145e1138828df7d0622c4e9ef334",
+    "wof:geomhash":"d9e2dd58132c13e68cd4880a230b8c26",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,7 +52,14 @@
         }
     ],
     "wof:id":1343714849,
-    "wof:lastmodified":1537628272,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613174477,
     "wof:name":"Wariek",
     "wof:parent_id":102072939,
     "wof:placetype":"locality",
@@ -62,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    140.68743999999998,
+    140.68744,
     -8.33761,
-    140.68743999999998,
+    140.68744,
     -8.33761
 ],
-  "geometry": {"coordinates":[140.68743999999998,-8.33761],"type":"Point"}
+  "geometry": {"coordinates":[140.68744000000001,-8.33761],"type":"Point"}
 }

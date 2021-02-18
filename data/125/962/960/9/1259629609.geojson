@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073569
+        102073569,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6401254
     },
     "wof:country":"ID",
-    "wof:geomhash":"19fed74c1d6b65d5e6977d9e3fa20a2f",
+    "wof:geomhash":"87ccc37f33affa402ec2d173dbe51c6f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1259629609,
-    "wof:lastmodified":1537628836,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613184353,
     "wof:name":"Karyaraharja",
     "wof:parent_id":102073569,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.46193999999998,
+    108.46194,
     -6.80417,
-    108.46193999999998,
+    108.46194,
     -6.80417
 ],
-  "geometry": {"coordinates":[108.46193999999998,-6.80417],"type":"Point"}
+  "geometry": {"coordinates":[108.46194,-6.80417],"type":"Point"}
 }

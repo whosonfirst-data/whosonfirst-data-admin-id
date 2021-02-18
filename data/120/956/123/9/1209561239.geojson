@@ -34,7 +34,7 @@
         "gn:id":1992342
     },
     "wof:country":"ID",
-    "wof:geomhash":"0f36834fa85a137e335e05f51a43b0a5",
+    "wof:geomhash":"265b3ffc27348296a6922e396105e339",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209561239,
-    "wof:lastmodified":1536283384,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179156,
     "wof:name":"Sinday",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -52,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.30861000000002,
+    106.30861,
     -6.41667,
-    106.30861000000002,
+    106.30861,
     -6.41667
 ],
-  "geometry": {"coordinates":[106.30861000000002,-6.41667],"type":"Point"}
+  "geometry": {"coordinates":[106.30861,-6.41667],"type":"Point"}
 }

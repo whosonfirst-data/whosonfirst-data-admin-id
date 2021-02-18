@@ -37,7 +37,7 @@
         "gn:id":6597922
     },
     "wof:country":"ID",
-    "wof:geomhash":"24eb2cf864c6ee91eaf0f15e22c56ec8",
+    "wof:geomhash":"e260055fae66f186b0855982e93bbc06",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -45,7 +45,14 @@
         }
     ],
     "wof:id":1209665049,
-    "wof:lastmodified":1537629907,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178987,
     "wof:name":"Bantarjati Kaum",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -55,10 +62,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.80306000000002,
+    106.80306,
     -6.5775,
-    106.80306000000002,
+    106.80306,
     -6.5775
 ],
-  "geometry": {"coordinates":[106.80306000000002,-6.5775],"type":"Point"}
+  "geometry": {"coordinates":[106.80306,-6.5775],"type":"Point"}
 }

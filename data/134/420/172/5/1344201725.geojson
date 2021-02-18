@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672115,
-        102073423
+        102073423,
+        85672115
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8520196
     },
     "wof:country":"ID",
-    "wof:geomhash":"b0ce46646dd576afea8e7b30f900fd27",
+    "wof:geomhash":"53a8e23e22bbf1db37bb7b0e9edca707",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1344201725,
-    "wof:lastmodified":1536671753,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613174978,
     "wof:name":"Bapiem",
     "wof:parent_id":102073423,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    138.66966000000002,
+    138.66966,
     -5.79282,
-    138.66966000000002,
+    138.66966,
     -5.79282
 ],
-  "geometry": {"coordinates":[138.66966000000002,-5.79282],"type":"Point"}
+  "geometry": {"coordinates":[138.66965999999999,-5.79282],"type":"Point"}
 }

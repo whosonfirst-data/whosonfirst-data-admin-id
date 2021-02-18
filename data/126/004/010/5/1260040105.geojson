@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073505
+        102073505,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6396680
     },
     "wof:country":"ID",
-    "wof:geomhash":"b30f922800ec0dc8534715d690767c7d",
+    "wof:geomhash":"3f5eb0ee97d7fd08ce1bde5f75104dce",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1260040105,
-    "wof:lastmodified":1537628759,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613180590,
     "wof:name":"Bentuk Kulon",
     "wof:parent_id":102073505,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.38611000000002,
+    108.38611,
     -6.66417,
-    108.38611000000002,
+    108.38611,
     -6.66417
 ],
-  "geometry": {"coordinates":[108.38611000000002,-6.66417],"type":"Point"}
+  "geometry": {"coordinates":[108.38611,-6.66417],"type":"Point"}
 }

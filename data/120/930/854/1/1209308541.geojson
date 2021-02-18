@@ -34,7 +34,7 @@
         "gn:id":1964093
     },
     "wof:country":"ID",
-    "wof:geomhash":"dd2024dcdca6eaba82eda724c570334a",
+    "wof:geomhash":"c430e4dadda49188b58659c80bcdadaf",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209308541,
-    "wof:lastmodified":1536291109,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178492,
     "wof:name":"Genikan",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -52,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.41306000000002,
+    110.41306,
     -7.4275,
-    110.41306000000002,
+    110.41306,
     -7.4275
 ],
-  "geometry": {"coordinates":[110.41306000000002,-7.4275],"type":"Point"}
+  "geometry": {"coordinates":[110.41306,-7.4275],"type":"Point"}
 }

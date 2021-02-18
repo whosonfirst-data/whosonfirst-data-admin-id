@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672067,
-        102073049
+        102073049,
+        85672067
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1625208
     },
     "wof:country":"ID",
-    "wof:geomhash":"d90f0720a866cf5bbf156b2f80cdc570",
+    "wof:geomhash":"9276bb71721cc463f531ca13c15938a6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1327044535,
-    "wof:lastmodified":1536742637,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613172969,
     "wof:name":"Tampogde",
     "wof:parent_id":102073049,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    132.33333000000002,
+    132.33333,
     -2.73333,
-    132.33333000000002,
+    132.33333,
     -2.73333
 ],
-  "geometry": {"coordinates":[132.33333000000002,-2.73333],"type":"Point"}
+  "geometry": {"coordinates":[132.33332999999999,-2.73333],"type":"Point"}
 }

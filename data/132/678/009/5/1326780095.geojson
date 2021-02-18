@@ -36,15 +36,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072937
+        102072937,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1961257
     },
     "wof:country":"ID",
-    "wof:geomhash":"da7ad003cf5b2abf7a0f83904775a2b6",
+    "wof:geomhash":"57d0ed7133b8c98a7441452098367176",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -55,7 +55,14 @@
         }
     ],
     "wof:id":1326780095,
-    "wof:lastmodified":1537627602,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613173086,
     "wof:name":"Babakan Satu",
     "wof:parent_id":102072937,
     "wof:placetype":"locality",
@@ -65,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.24056000000002,
+    107.24056,
     -6.04444,
-    107.24056000000002,
+    107.24056,
     -6.04444
 ],
-  "geometry": {"coordinates":[107.24056000000002,-6.04444],"type":"Point"}
+  "geometry": {"coordinates":[107.24056,-6.04444],"type":"Point"}
 }

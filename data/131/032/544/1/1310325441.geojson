@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072819
+        102072819,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6378633
     },
     "wof:country":"ID",
-    "wof:geomhash":"b52a7f7c07e85a97687bad0fb46342ba",
+    "wof:geomhash":"e2a57df4b8d28900a73da771c65c6a56",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1310325441,
-    "wof:lastmodified":1537628505,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181459,
     "wof:name":"Saliwangi",
     "wof:parent_id":102072819,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.03943999999998,
+    109.03944,
     -7.67,
-    109.03943999999998,
+    109.03944,
     -7.67
 ],
-  "geometry": {"coordinates":[109.03943999999998,-7.67],"type":"Point"}
+  "geometry": {"coordinates":[109.03944,-7.67],"type":"Point"}
 }

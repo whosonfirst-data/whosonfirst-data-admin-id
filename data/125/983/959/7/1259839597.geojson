@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671995,
-        102072687
+        102072687,
+        85671995
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1988195
     },
     "wof:country":"ID",
-    "wof:geomhash":"4d3199c598b7ecfb2f6c3948597f9714",
+    "wof:geomhash":"5eede5ed65f25a1c3b142bbc77c8a183",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1259839597,
-    "wof:lastmodified":1536841462,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613184566,
     "wof:name":"Tarisi Kidul",
     "wof:parent_id":102072687,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.51888999999998,
+    106.51889,
     -6.26778,
-    106.51888999999998,
+    106.51889,
     -6.26778
 ],
-  "geometry": {"coordinates":[106.51888999999998,-6.26778],"type":"Point"}
+  "geometry": {"coordinates":[106.51889,-6.26778],"type":"Point"}
 }

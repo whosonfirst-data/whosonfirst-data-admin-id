@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073187
+        102073187,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6566403
     },
     "wof:country":"ID",
-    "wof:geomhash":"b725d4588ebe3f18b0ed1b935c5a426b",
+    "wof:geomhash":"2ec234fedbb11cf483c9ed6a75fc44eb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1276223773,
-    "wof:lastmodified":1537629291,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177792,
     "wof:name":"Girirejo Timur",
     "wof:parent_id":102073187,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.91443999999998,
+    109.91444,
     -7.71389,
-    109.91443999999998,
+    109.91444,
     -7.71389
 ],
-  "geometry": {"coordinates":[109.91443999999998,-7.71389],"type":"Point"}
+  "geometry": {"coordinates":[109.91444,-7.71389],"type":"Point"}
 }

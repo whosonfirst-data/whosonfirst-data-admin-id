@@ -38,15 +38,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072983
+        102072983,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1973515
     },
     "wof:country":"ID",
-    "wof:geomhash":"97a160c7162cf8af9140c005b81c6d40",
+    "wof:geomhash":"023d190f4bd888fc604058c0deba6e9c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -57,7 +57,14 @@
         }
     ],
     "wof:id":1293683043,
-    "wof:lastmodified":1564177937,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613176148,
     "wof:name":"Gulon",
     "wof:parent_id":102072983,
     "wof:placetype":"locality",
@@ -67,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.67806000000002,
+    110.67806,
     -7.39667,
-    110.67806000000002,
+    110.67806,
     -7.39667
 ],
-  "geometry": {"coordinates":[110.67806000000002,-7.39667],"type":"Point"}
+  "geometry": {"coordinates":[110.67806,-7.39667],"type":"Point"}
 }

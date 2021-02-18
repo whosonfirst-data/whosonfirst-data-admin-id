@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672009,
-        1108796809
+        1108796809,
+        85672009
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7666011
     },
     "wof:country":"ID",
-    "wof:geomhash":"7bf14a5f130b24c99fd5bb7e4cf33dc6",
+    "wof:geomhash":"2fe831cc8e88b59013059dd7110f2e63",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,7 +54,14 @@
         }
     ],
     "wof:id":1292983453,
-    "wof:lastmodified":1537634199,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613176442,
     "wof:name":"Kuripan",
     "wof:parent_id":1108796809,
     "wof:placetype":"locality",
@@ -64,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    105.65921000000002,
+    105.65921,
     -5.73492,
-    105.65921000000002,
+    105.65921,
     -5.73492
 ],
-  "geometry": {"coordinates":[105.65921000000002,-5.73492],"type":"Point"}
+  "geometry": {"coordinates":[105.65921,-5.73492],"type":"Point"}
 }

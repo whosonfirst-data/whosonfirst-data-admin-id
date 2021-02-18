@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072855
+        102072855,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6596657
     },
     "wof:country":"ID",
-    "wof:geomhash":"5fd08c5d5d62425c215e0b83ba0fb6ca",
+    "wof:geomhash":"5814c1e8ce6e6b9ebbe5483976dc7d33",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1242637707,
-    "wof:lastmodified":1537629860,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613184025,
     "wof:name":"Batubelah",
     "wof:parent_id":102072855,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.81638999999998,
+    106.81639,
     -6.8125,
-    106.81638999999998,
+    106.81639,
     -6.8125
 ],
-  "geometry": {"coordinates":[106.81638999999998,-6.8125],"type":"Point"}
+  "geometry": {"coordinates":[106.81639,-6.8125],"type":"Point"}
 }

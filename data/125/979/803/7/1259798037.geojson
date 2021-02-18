@@ -103,15 +103,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672115,
-        102072939
+        102072939,
+        85672115
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2082561
     },
     "wof:country":"ID",
-    "wof:geomhash":"6df6d9452fd960396c341977cf3f7def",
+    "wof:geomhash":"6bbdcd0a59ce287561c837cd446505e6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -122,7 +122,14 @@
         }
     ],
     "wof:id":1259798037,
-    "wof:lastmodified":1564202789,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613184602,
     "wof:name":"Kuna",
     "wof:parent_id":102072939,
     "wof:placetype":"locality",
@@ -132,10 +139,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    140.08333000000002,
+    140.08333,
     -7.2,
-    140.08333000000002,
+    140.08333,
     -7.2
 ],
-  "geometry": {"coordinates":[140.08333000000002,-7.2],"type":"Point"}
+  "geometry": {"coordinates":[140.08332999999999,-7.2],"type":"Point"}
 }

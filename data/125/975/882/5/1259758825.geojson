@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672037,
-        102073481
+        102073481,
+        85672037
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1937228
     },
     "wof:country":"ID",
-    "wof:geomhash":"d02cb2c210ca5fea8a86cb37c7f7dbd2",
+    "wof:geomhash":"c5e5e7dce90f477d8f8cb7e7e237d041",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1259758825,
-    "wof:lastmodified":1536958666,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185146,
     "wof:name":"Oekabiti",
     "wof:parent_id":102073481,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    124.88443999999998,
+    124.88444,
     -9.42917,
-    124.88443999999998,
+    124.88444,
     -9.42917
 ],
-  "geometry": {"coordinates":[124.88443999999998,-9.42917],"type":"Point"}
+  "geometry": {"coordinates":[124.88444,-9.42917],"type":"Point"}
 }

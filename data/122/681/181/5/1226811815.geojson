@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672037,
-        102072803
+        102072803,
+        85672037
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7569121
     },
     "wof:country":"ID",
-    "wof:geomhash":"a09756c91d15538cfc1719b877ba637a",
+    "wof:geomhash":"ab975d37399367be8aa368e716cf1713",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1226811815,
-    "wof:lastmodified":1537633987,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185266,
     "wof:name":"Laiuti",
     "wof:parent_id":102072803,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    120.54106000000002,
+    120.54106,
     -9.97238,
-    120.54106000000002,
+    120.54106,
     -9.97238
 ],
-  "geometry": {"coordinates":[120.54106000000002,-9.97238],"type":"Point"}
+  "geometry": {"coordinates":[120.54106,-9.97238],"type":"Point"}
 }

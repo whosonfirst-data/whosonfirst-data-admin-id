@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072855
+        102072855,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6595928
     },
     "wof:country":"ID",
-    "wof:geomhash":"4bee2b9e6f041ca98509956a73641b39",
+    "wof:geomhash":"de33fa5ff3f45ce1f63228ff8b325a79",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1277035021,
-    "wof:lastmodified":1537629831,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177731,
     "wof:name":"Cicadas Kaler",
     "wof:parent_id":102072855,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.89806000000002,
+    106.89806,
     -6.88417,
-    106.89806000000002,
+    106.89806,
     -6.88417
 ],
-  "geometry": {"coordinates":[106.89806000000002,-6.88417],"type":"Point"}
+  "geometry": {"coordinates":[106.89806,-6.88417],"type":"Point"}
 }

@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072949
+        102072949,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6593525
     },
     "wof:country":"ID",
-    "wof:geomhash":"eba5556a7e6a8506513c411579e93cf3",
+    "wof:geomhash":"484a3a474280b6411d8dfb9a62dc45b6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1344106591,
-    "wof:lastmodified":1537629769,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613174914,
     "wof:name":"Bunisari",
     "wof:parent_id":102072949,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.69693999999998,
+    107.69694,
     -6.88944,
-    107.69693999999998,
+    107.69694,
     -6.88944
 ],
-  "geometry": {"coordinates":[107.69693999999998,-6.88944],"type":"Point"}
+  "geometry": {"coordinates":[107.69694,-6.88944],"type":"Point"}
 }

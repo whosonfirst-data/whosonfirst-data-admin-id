@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671995,
-        102072687
+        102072687,
+        85671995
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1985938
     },
     "wof:country":"ID",
-    "wof:geomhash":"4a09fbcb85c89a74a15cac6c3f2cf984",
+    "wof:geomhash":"6164f97932887eab4b4bc9105ec1f507",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1309755865,
-    "wof:lastmodified":1537002430,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613182550,
     "wof:name":"Encle",
     "wof:parent_id":102072687,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.57193999999998,
+    106.57194,
     -6.14389,
-    106.57193999999998,
+    106.57194,
     -6.14389
 ],
-  "geometry": {"coordinates":[106.57193999999998,-6.14389],"type":"Point"}
+  "geometry": {"coordinates":[106.57194,-6.14389],"type":"Point"}
 }

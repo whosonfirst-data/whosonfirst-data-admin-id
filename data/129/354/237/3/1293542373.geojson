@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672115,
-        102073195
+        102073195,
+        85672115
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8526620
     },
     "wof:country":"ID",
-    "wof:geomhash":"3a586cf120cf9266ac066a37a5e255f6",
+    "wof:geomhash":"55dd5e134afbd46f5b2135f65eada286",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1293542373,
-    "wof:lastmodified":1537636296,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175436,
     "wof:name":"Kotiak",
     "wof:parent_id":102073195,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    139.61261000000002,
+    139.61261,
     -6.39235,
-    139.61261000000002,
+    139.61261,
     -6.39235
 ],
-  "geometry": {"coordinates":[139.61261000000002,-6.39235],"type":"Point"}
+  "geometry": {"coordinates":[139.61260999999999,-6.39235],"type":"Point"}
 }

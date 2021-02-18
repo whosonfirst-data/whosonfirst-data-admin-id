@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073233
+        102073233,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2007136
     },
     "wof:country":"ID",
-    "wof:geomhash":"5e7dc168181edadaad93e30301d7bc27",
+    "wof:geomhash":"a03fe775d21794508cdd0d32d20fb137",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1293313247,
-    "wof:lastmodified":1537036732,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175392,
     "wof:name":"Samiran Kulon",
     "wof:parent_id":102073233,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.56638999999998,
+    110.56639,
     -7.71111,
-    110.56638999999998,
+    110.56639,
     -7.71111
 ],
-  "geometry": {"coordinates":[110.56638999999998,-7.71111],"type":"Point"}
+  "geometry": {"coordinates":[110.56639,-7.71111],"type":"Point"}
 }

@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072855
+        102072855,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6603570
     },
     "wof:country":"ID",
-    "wof:geomhash":"0cdd7b9099a700bf79437fc2535f5ea3",
+    "wof:geomhash":"c81b8f3cee7110faeea03d626e4605f8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1243132411,
-    "wof:lastmodified":1537630006,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183454,
     "wof:name":"Kampungbaru",
     "wof:parent_id":102072855,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.63611000000002,
+    106.63611,
     -6.945,
-    106.63611000000002,
+    106.63611,
     -6.945
 ],
-  "geometry": {"coordinates":[106.63611000000002,-6.945],"type":"Point"}
+  "geometry": {"coordinates":[106.63611,-6.945],"type":"Point"}
 }

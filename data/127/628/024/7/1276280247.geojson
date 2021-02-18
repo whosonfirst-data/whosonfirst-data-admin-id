@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073529
+        102073529,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6579310
     },
     "wof:country":"ID",
-    "wof:geomhash":"09556b5f5a3c8d0d70dd9c355d6d9fb5",
+    "wof:geomhash":"96bf24932fa598531c79f94b887e3523",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1276280247,
-    "wof:lastmodified":1537629421,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177155,
     "wof:name":"Pasirpeucang",
     "wof:parent_id":102073529,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.22556000000002,
+    107.22556,
     -6.82139,
-    107.22556000000002,
+    107.22556,
     -6.82139
 ],
-  "geometry": {"coordinates":[107.22556000000002,-6.82139],"type":"Point"}
+  "geometry": {"coordinates":[107.22556,-6.82139],"type":"Point"}
 }

@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072937
+        102072937,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6592445
     },
     "wof:country":"ID",
-    "wof:geomhash":"5fa1b68883bbcdfda7185df3c0d17a8b",
+    "wof:geomhash":"e9b8ca27d7ee4ff881493d7948a973c4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1327080253,
-    "wof:lastmodified":1537629734,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613172044,
     "wof:name":"Cipeuteuy Satu",
     "wof:parent_id":102072937,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.16861000000002,
+    107.16861,
     -6.51,
-    107.16861000000002,
+    107.16861,
     -6.51
 ],
-  "geometry": {"coordinates":[107.16861000000002,-6.51],"type":"Point"}
+  "geometry": {"coordinates":[107.16861,-6.51],"type":"Point"}
 }

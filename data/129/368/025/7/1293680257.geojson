@@ -47,15 +47,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073187
+        102073187,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6565388
     },
     "wof:country":"ID",
-    "wof:geomhash":"b5e18fc5a2652f59743cc026eba2a2dd",
+    "wof:geomhash":"6d27ce0560ffab757ddcd7b0db17c194",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -66,7 +66,14 @@
         }
     ],
     "wof:id":1293680257,
-    "wof:lastmodified":1564177921,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613176142,
     "wof:name":"Jombang",
     "wof:parent_id":102073187,
     "wof:placetype":"locality",
@@ -76,10 +83,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.96056000000002,
+    109.96056,
     -7.81667,
-    109.96056000000002,
+    109.96056,
     -7.81667
 ],
-  "geometry": {"coordinates":[109.96056000000002,-7.81667],"type":"Point"}
+  "geometry": {"coordinates":[109.96056,-7.81667],"type":"Point"}
 }

@@ -47,15 +47,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073529
+        102073529,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6590296
     },
     "wof:country":"ID",
-    "wof:geomhash":"6e71e55fa960af1c009dd001836a3210",
+    "wof:geomhash":"fc716f7f0ebe7e6c3a643621a09ad921",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -66,7 +66,14 @@
         }
     ],
     "wof:id":1343407283,
-    "wof:lastmodified":1564173582,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613174530,
     "wof:name":"Kubang",
     "wof:parent_id":102073529,
     "wof:placetype":"locality",
@@ -76,10 +83,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.18361000000002,
+    107.18361,
     -6.74028,
-    107.18361000000002,
+    107.18361,
     -6.74028
 ],
-  "geometry": {"coordinates":[107.18361000000002,-6.74028],"type":"Point"}
+  "geometry": {"coordinates":[107.18361,-6.74028],"type":"Point"}
 }

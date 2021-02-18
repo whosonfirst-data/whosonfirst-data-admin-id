@@ -34,15 +34,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073217
+        102073217,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1961935
     },
     "wof:country":"ID",
-    "wof:geomhash":"64898cd49a5d5e5f86f1147115cf3b90",
+    "wof:geomhash":"b245b0d98ec033741d948b624956bafb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +53,14 @@
         }
     ],
     "wof:id":1226590021,
-    "wof:lastmodified":1537627637,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185759,
     "wof:name":"Karekhel",
     "wof:parent_id":102073217,
     "wof:placetype":"locality",
@@ -63,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.60056000000002,
+    106.60056,
     -6.39833,
-    106.60056000000002,
+    106.60056,
     -6.39833
 ],
-  "geometry": {"coordinates":[106.60056000000002,-6.39833],"type":"Point"}
+  "geometry": {"coordinates":[106.60056,-6.39833],"type":"Point"}
 }

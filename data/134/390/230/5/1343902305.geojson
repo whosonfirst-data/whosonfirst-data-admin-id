@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672115,
-        102073081
+        102073081,
+        85672115
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2082645
     },
     "wof:country":"ID",
-    "wof:geomhash":"9a948d020d0582c196f16443fa9d0445",
+    "wof:geomhash":"b8b36013b292fbce9b844ea41abfba67",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1343902305,
-    "wof:lastmodified":1536603141,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613174114,
     "wof:name":"Dondaie",
     "wof:parent_id":102073081,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    140.41666999999998,
+    140.41667,
     -2.58333,
-    140.41666999999998,
+    140.41667,
     -2.58333
 ],
-  "geometry": {"coordinates":[140.41666999999998,-2.58333],"type":"Point"}
+  "geometry": {"coordinates":[140.41667000000001,-2.58333],"type":"Point"}
 }

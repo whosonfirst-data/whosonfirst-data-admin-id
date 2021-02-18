@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073505
+        102073505,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6402244
     },
     "wof:country":"ID",
-    "wof:geomhash":"92a9c812e07d5294b8428569e8254e71",
+    "wof:geomhash":"64cb46747d5f331c2141340add1b3b98",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1343507457,
-    "wof:lastmodified":1537628862,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613174666,
     "wof:name":"Warsiki",
     "wof:parent_id":102073505,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.46056000000002,
+    108.46056,
     -6.58056,
-    108.46056000000002,
+    108.46056,
     -6.58056
 ],
-  "geometry": {"coordinates":[108.46056000000002,-6.58056],"type":"Point"}
+  "geometry": {"coordinates":[108.46056,-6.58056],"type":"Point"}
 }

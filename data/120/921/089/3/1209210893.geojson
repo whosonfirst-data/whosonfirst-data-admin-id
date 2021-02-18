@@ -34,7 +34,7 @@
         "gn:id":1999643
     },
     "wof:country":"ID",
-    "wof:geomhash":"7e66a38fd4954e741b161a296a920f94",
+    "wof:geomhash":"d1ce31cb1a10456596ee220b4cd886d3",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209210893,
-    "wof:lastmodified":1536294295,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179465,
     "wof:name":"Gempol",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     110.49222,
-    -7.758889999999999,
+    -7.75889,
     110.49222,
-    -7.758889999999999
+    -7.75889
 ],
   "geometry": {"coordinates":[110.49222,-7.75889],"type":"Point"}
 }

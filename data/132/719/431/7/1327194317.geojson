@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073217
+        102073217,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6591528
     },
     "wof:country":"ID",
-    "wof:geomhash":"c6a10e6e4129c1b7f14c562698b4bd5a",
+    "wof:geomhash":"de2560e9ccf16b468b8f2ef25eecdc4d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1327194317,
-    "wof:lastmodified":1537629704,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613173414,
     "wof:name":"Rawabogo Wetan",
     "wof:parent_id":102073217,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.10056000000002,
+    107.10056,
     -6.46167,
-    107.10056000000002,
+    107.10056,
     -6.46167
 ],
-  "geometry": {"coordinates":[107.10056000000002,-6.46167],"type":"Point"}
+  "geometry": {"coordinates":[107.10056,-6.46167],"type":"Point"}
 }

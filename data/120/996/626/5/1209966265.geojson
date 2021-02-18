@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073471
+        102073471,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1632715
     },
     "wof:country":"ID",
-    "wof:geomhash":"f9f58d5e7d1563e654061cba5493a789",
+    "wof:geomhash":"e8dc5ec79d8685a8358b8a4ca4ea225f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,7 +54,14 @@
         }
     ],
     "wof:id":1209966265,
-    "wof:lastmodified":1537626755,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178398,
     "wof:name":"Pangkalan Satu",
     "wof:parent_id":102073471,
     "wof:placetype":"locality",
@@ -64,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.52443999999998,
+    107.52444,
     -6.54583,
-    107.52443999999998,
+    107.52444,
     -6.54583
 ],
-  "geometry": {"coordinates":[107.52443999999998,-6.54583],"type":"Point"}
+  "geometry": {"coordinates":[107.52444,-6.54583],"type":"Point"}
 }

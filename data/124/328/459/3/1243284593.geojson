@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073405
+        102073405,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1933925
     },
     "wof:country":"ID",
-    "wof:geomhash":"cfa63db80aaf655689d631832c2b6c26",
+    "wof:geomhash":"c9c35b17bd15c7c2e62a755b3a366150",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1243284593,
-    "wof:lastmodified":1537037332,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613184166,
     "wof:name":"Slemben",
     "wof:parent_id":102073405,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.76888999999998,
+    110.76889,
     -7.59528,
-    110.76888999999998,
+    110.76889,
     -7.59528
 ],
-  "geometry": {"coordinates":[110.76888999999998,-7.59528],"type":"Point"}
+  "geometry": {"coordinates":[110.76889,-7.59528],"type":"Point"}
 }

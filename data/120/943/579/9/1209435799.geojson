@@ -49,7 +49,7 @@
         "gn:id":6374247
     },
     "wof:country":"ID",
-    "wof:geomhash":"df4b025095187a9148afce0952603b0b",
+    "wof:geomhash":"ba258997a25cf844e03c5e37ab821ef6",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -57,7 +57,14 @@
         }
     ],
     "wof:id":1209435799,
-    "wof:lastmodified":1564187446,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179548,
     "wof:name":"Larangan",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -67,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.30306000000002,
+    109.30306,
     -7.66667,
-    109.30306000000002,
+    109.30306,
     -7.66667
 ],
-  "geometry": {"coordinates":[109.30306000000002,-7.66667],"type":"Point"}
+  "geometry": {"coordinates":[109.30306,-7.66667],"type":"Point"}
 }

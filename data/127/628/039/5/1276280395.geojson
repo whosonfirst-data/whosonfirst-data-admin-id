@@ -56,15 +56,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073193
+        102073193,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6403998
     },
     "wof:country":"ID",
-    "wof:geomhash":"1fb04fcf9cbab3ea44fe1f9793e7b838",
+    "wof:geomhash":"826df297ba5fe78367bdc67006e3015f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -75,7 +75,14 @@
         }
     ],
     "wof:id":1276280395,
-    "wof:lastmodified":1564180565,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177161,
     "wof:name":"Desa",
     "wof:parent_id":102073193,
     "wof:placetype":"locality",
@@ -85,10 +92,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.30306000000002,
+    108.30306,
     -6.47667,
-    108.30306000000002,
+    108.30306,
     -6.47667
 ],
-  "geometry": {"coordinates":[108.30306000000002,-6.47667],"type":"Point"}
+  "geometry": {"coordinates":[108.30306,-6.47667],"type":"Point"}
 }

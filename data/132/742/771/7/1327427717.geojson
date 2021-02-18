@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072921
+        102072921,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6390804
     },
     "wof:country":"ID",
-    "wof:geomhash":"f1045f87bb239091c472add65b5f1d42",
+    "wof:geomhash":"44162047124dbc90747102acba36a42b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1327427717,
-    "wof:lastmodified":1537628729,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613173497,
     "wof:name":"Karangbolong",
     "wof:parent_id":102072921,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.35193999999998,
+    109.35194,
     -7.35806,
-    109.35193999999998,
+    109.35194,
     -7.35806
 ],
-  "geometry": {"coordinates":[109.35193999999998,-7.35806],"type":"Point"}
+  "geometry": {"coordinates":[109.35194,-7.35806],"type":"Point"}
 }

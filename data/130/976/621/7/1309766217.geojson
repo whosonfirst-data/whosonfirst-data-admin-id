@@ -44,15 +44,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073193
+        102073193,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6402404
     },
     "wof:country":"ID",
-    "wof:geomhash":"bb6ed1066f2bf3734034b589caf68dff",
+    "wof:geomhash":"abbc07410442e867bed84f37a7cf745d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -63,7 +63,14 @@
         }
     ],
     "wof:id":1309766217,
-    "wof:lastmodified":1564196160,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613182355,
     "wof:name":"Karanganyar",
     "wof:parent_id":102073193,
     "wof:placetype":"locality",
@@ -73,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.24611000000002,
+    108.24611,
     -6.41167,
-    108.24611000000002,
+    108.24611,
     -6.41167
 ],
-  "geometry": {"coordinates":[108.24611000000002,-6.41167],"type":"Point"}
+  "geometry": {"coordinates":[108.24611,-6.41167],"type":"Point"}
 }

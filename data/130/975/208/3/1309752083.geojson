@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073471
+        102073471,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1949295
     },
     "wof:country":"ID",
-    "wof:geomhash":"5c93dd7ce57aad7d05913d0ca88c7669",
+    "wof:geomhash":"9b224a92f06b7ce2d3c78651c7e02343",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,7 +54,14 @@
         }
     ],
     "wof:id":1309752083,
-    "wof:lastmodified":1537627452,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613182561,
     "wof:name":"Cilampahan",
     "wof:parent_id":102073471,
     "wof:placetype":"locality",
@@ -64,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.42806000000002,
+    107.42806,
     -6.595,
-    107.42806000000002,
+    107.42806,
     -6.595
 ],
-  "geometry": {"coordinates":[107.42806000000002,-6.595],"type":"Point"}
+  "geometry": {"coordinates":[107.42806,-6.595],"type":"Point"}
 }

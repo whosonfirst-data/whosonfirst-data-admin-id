@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102073123
+        102073123,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8333646
     },
     "wof:country":"ID",
-    "wof:geomhash":"e2c4103acf37169e28d2a149dd1bd5f6",
+    "wof:geomhash":"82caff98f2c91a9deaf046f90d3cb3c9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1210001629,
-    "wof:lastmodified":1537635638,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179654,
     "wof:name":"Kwanyar",
     "wof:parent_id":102073123,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    113.52658999999998,
+    113.52659,
     -7.19994,
-    113.52658999999998,
+    113.52659,
     -7.19994
 ],
-  "geometry": {"coordinates":[113.52658999999998,-7.19994],"type":"Point"}
+  "geometry": {"coordinates":[113.52659,-7.19994],"type":"Point"}
 }

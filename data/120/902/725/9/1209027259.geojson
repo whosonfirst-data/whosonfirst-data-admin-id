@@ -37,7 +37,7 @@
         "gn:id":6565609
     },
     "wof:country":"ID",
-    "wof:geomhash":"efdc4e47bc056e5a8a7d8ac8b76894c1",
+    "wof:geomhash":"e70ab1445464b580948e9c39b8597c5e",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -45,7 +45,14 @@
         }
     ],
     "wof:id":1209027259,
-    "wof:lastmodified":1537629264,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179208,
     "wof:name":"Kelapagading",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -55,10 +62,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.76111000000002,
+    109.76111,
     -7.64472,
-    109.76111000000002,
+    109.76111,
     -7.64472
 ],
-  "geometry": {"coordinates":[109.76111000000002,-7.64472],"type":"Point"}
+  "geometry": {"coordinates":[109.76111,-7.64472],"type":"Point"}
 }

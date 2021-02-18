@@ -34,7 +34,7 @@
         "gn:id":1985937
     },
     "wof:country":"ID",
-    "wof:geomhash":"1c7eb1b7878ed74efc106aa1d888acc6",
+    "wof:geomhash":"5b0cfa09753b08872c50f27be632d87a",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209174529,
-    "wof:lastmodified":1536295469,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179483,
     "wof:name":"Singalugu",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     107.62556,
-    -7.0380600000000015,
+    -7.03806,
     107.62556,
-    -7.0380600000000015
+    -7.03806
 ],
   "geometry": {"coordinates":[107.62555999999999,-7.03806],"type":"Point"}
 }

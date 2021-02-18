@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073529
+        102073529,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6579184
     },
     "wof:country":"ID",
-    "wof:geomhash":"5fe4eb9ed46ad4637141292bc9efdaf2",
+    "wof:geomhash":"47f1bc315f7aebea5d88f834ddbed123",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1326990319,
-    "wof:lastmodified":1537629416,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613173208,
     "wof:name":"Selajambe Wetan",
     "wof:parent_id":102073529,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.23888999999998,
+    107.23889,
     -6.81111,
-    107.23888999999998,
+    107.23889,
     -6.81111
 ],
-  "geometry": {"coordinates":[107.23888999999998,-6.81111],"type":"Point"}
+  "geometry": {"coordinates":[107.23889,-6.81111],"type":"Point"}
 }

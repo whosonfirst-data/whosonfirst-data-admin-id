@@ -34,15 +34,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672067,
-        102073049
+        102073049,
+        85672067
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1636099
     },
     "wof:country":"ID",
-    "wof:geomhash":"effc676d2f3357890870c50c07e55f6a",
+    "wof:geomhash":"0efba015aa0c0d1ed2ab120927509647",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +53,14 @@
         }
     ],
     "wof:id":1276888139,
-    "wof:lastmodified":1537626865,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177148,
     "wof:name":"Mariar",
     "wof:parent_id":102073049,
     "wof:placetype":"locality",
@@ -63,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    132.83333000000002,
+    132.83333,
     -2.8,
-    132.83333000000002,
+    132.83333,
     -2.8
 ],
-  "geometry": {"coordinates":[132.83333000000002,-2.8],"type":"Point"}
+  "geometry": {"coordinates":[132.83332999999999,-2.8],"type":"Point"}
 }

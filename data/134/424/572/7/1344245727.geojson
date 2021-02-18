@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073189
+        102073189,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2004988
     },
     "wof:country":"ID",
-    "wof:geomhash":"8b3750e0baf00f3eab7fb68dfe6c0201",
+    "wof:geomhash":"d2f7945a01f148864806e7aad1af6d13",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1344245727,
-    "wof:lastmodified":1536605261,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613174227,
     "wof:name":"Gedaren Satu",
     "wof:parent_id":102073189,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.72556000000002,
+    110.72556,
     -7.97444,
-    110.72556000000002,
+    110.72556,
     -7.97444
 ],
-  "geometry": {"coordinates":[110.72556000000002,-7.97444],"type":"Point"}
+  "geometry": {"coordinates":[110.72556,-7.97444],"type":"Point"}
 }

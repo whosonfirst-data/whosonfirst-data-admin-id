@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072715
+        102072715,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6369736
     },
     "wof:country":"ID",
-    "wof:geomhash":"ab61627340dd34849ccfd49ed8f6cdd6",
+    "wof:geomhash":"25563b6d04307566af6d9cf64c346835",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1226436197,
-    "wof:lastmodified":1537628288,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185280,
     "wof:name":"Kaliwaduk",
     "wof:parent_id":102072715,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.37888999999998,
+    109.37889,
     -7.65556,
-    109.37888999999998,
+    109.37889,
     -7.65556
 ],
-  "geometry": {"coordinates":[109.37888999999998,-7.65556],"type":"Point"}
+  "geometry": {"coordinates":[109.37889,-7.65556],"type":"Point"}
 }

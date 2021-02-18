@@ -34,7 +34,7 @@
         "gn:id":2005166
     },
     "wof:country":"ID",
-    "wof:geomhash":"96f017e820fa401d080fa48c1a5f3c3f",
+    "wof:geomhash":"b72ae3a5f559a2cfa36837bc52872303",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209603925,
-    "wof:lastmodified":1536282075,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179114,
     "wof:name":"Napan",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -52,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.35611000000002,
-    -7.813060000000001,
-    110.35611000000002,
-    -7.813060000000001
+    110.35611,
+    -7.81306,
+    110.35611,
+    -7.81306
 ],
-  "geometry": {"coordinates":[110.35611000000002,-7.81306],"type":"Point"}
+  "geometry": {"coordinates":[110.35611,-7.81306],"type":"Point"}
 }

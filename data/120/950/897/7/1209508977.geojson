@@ -34,7 +34,7 @@
         "gn:id":1933558
     },
     "wof:country":"ID",
-    "wof:geomhash":"f5b374d392e538cd8a3af8a095faeddc",
+    "wof:geomhash":"85497648a185f5e9a0bdca3b8ae92406",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209508977,
-    "wof:lastmodified":1536284942,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178926,
     "wof:name":"Dergan",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -52,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.76111000000002,
-    -7.553610000000001,
-    110.76111000000002,
-    -7.553610000000001
+    110.76111,
+    -7.55361,
+    110.76111,
+    -7.55361
 ],
-  "geometry": {"coordinates":[110.76111000000002,-7.55361],"type":"Point"}
+  "geometry": {"coordinates":[110.76111,-7.55361],"type":"Point"}
 }

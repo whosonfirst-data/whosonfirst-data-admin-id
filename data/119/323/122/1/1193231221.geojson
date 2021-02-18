@@ -34,15 +34,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672115,
-        102072939
+        102072939,
+        85672115
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2082613
     },
     "wof:country":"ID",
-    "wof:geomhash":"856f9d1a0f25df1afe295375a055a8c8",
+    "wof:geomhash":"3244d5acba500a208836855abd5773b5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +53,14 @@
         }
     ],
     "wof:id":1193231221,
-    "wof:lastmodified":1537628280,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179860,
     "wof:name":"Iakiyu",
     "wof:parent_id":102072939,
     "wof:placetype":"locality",
@@ -63,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    140.99518999999995,
+    140.99519,
     -8.64624,
-    140.99518999999995,
+    140.99519,
     -8.64624
 ],
-  "geometry": {"coordinates":[140.99518999999995,-8.64624],"type":"Point"}
+  "geometry": {"coordinates":[140.99519000000001,-8.64624],"type":"Point"}
 }

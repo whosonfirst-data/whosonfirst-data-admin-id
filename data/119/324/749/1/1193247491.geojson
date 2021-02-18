@@ -36,15 +36,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672111,
-        102073435
+        102073435,
+        85672111
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1980217
     },
     "wof:country":"ID",
-    "wof:geomhash":"be94778243757da9c2c198a43f0cea32",
+    "wof:geomhash":"44b1bdd8e0e3f47b293896916b97fe66",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -55,7 +55,14 @@
         }
     ],
     "wof:id":1193247491,
-    "wof:lastmodified":1537628225,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179833,
     "wof:name":"Pulau Labobo Pauno",
     "wof:parent_id":102073435,
     "wof:placetype":"locality",
@@ -65,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    123.25388999999998,
+    123.25389,
     -1.80583,
-    123.25388999999998,
+    123.25389,
     -1.80583
 ],
-  "geometry": {"coordinates":[123.25388999999998,-1.80583],"type":"Point"}
+  "geometry": {"coordinates":[123.25389,-1.80583],"type":"Point"}
 }

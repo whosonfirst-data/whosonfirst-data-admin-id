@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072983
+        102072983,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6253352
     },
     "wof:country":"ID",
-    "wof:geomhash":"2a8c9e16195969b91ceda6ea422002c5",
+    "wof:geomhash":"16cffebfb10813ecd245892bccc274fb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1277067755,
-    "wof:lastmodified":1536789611,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613176940,
     "wof:name":"Jatirejo",
     "wof:parent_id":102072983,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.63611000000002,
+    110.63611,
     -7.43778,
-    110.63611000000002,
+    110.63611,
     -7.43778
 ],
-  "geometry": {"coordinates":[110.63611000000002,-7.43778],"type":"Point"}
+  "geometry": {"coordinates":[110.63611,-7.43778],"type":"Point"}
 }

@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072981
+        102072981,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6596180
     },
     "wof:country":"ID",
-    "wof:geomhash":"0f5e78f7cd61ce4602be7dff8f84c3fc",
+    "wof:geomhash":"6222ff9adedbaffaed271ce392c1739a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1327283963,
-    "wof:lastmodified":1537629841,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613173452,
     "wof:name":"Sudajaya",
     "wof:parent_id":102072981,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.93361000000002,
+    106.93361,
     -6.95333,
-    106.93361000000002,
+    106.93361,
     -6.95333
 ],
-  "geometry": {"coordinates":[106.93361000000002,-6.95333],"type":"Point"}
+  "geometry": {"coordinates":[106.93361,-6.95333],"type":"Point"}
 }

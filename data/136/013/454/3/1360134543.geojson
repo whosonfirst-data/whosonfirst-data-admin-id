@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072949
+        102072949,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1986072
     },
     "wof:country":"ID",
-    "wof:geomhash":"d8fe14ce87c73925f07b798307a2331e",
+    "wof:geomhash":"020d32258d806892de0d1822650aff3b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1360134543,
-    "wof:lastmodified":1536873482,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181780,
     "wof:name":"Sukaasih",
     "wof:parent_id":102072949,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.73888999999998,
+    107.73889,
     -7.0625,
-    107.73888999999998,
+    107.73889,
     -7.0625
 ],
-  "geometry": {"coordinates":[107.73888999999998,-7.0625],"type":"Point"}
+  "geometry": {"coordinates":[107.73889,-7.0625],"type":"Point"}
 }

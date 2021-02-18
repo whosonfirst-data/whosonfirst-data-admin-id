@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073313
+        102073313,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2005349
     },
     "wof:country":"ID",
-    "wof:geomhash":"8842cfdb6f2bd2a6755898673c1e7c75",
+    "wof:geomhash":"29fc3aa54c5e13a17794af11c80b95d9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1343556485,
-    "wof:lastmodified":1536604667,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613174052,
     "wof:name":"Tegaldowo",
     "wof:parent_id":102073313,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.32361000000002,
+    110.32361,
     -7.86306,
-    110.32361000000002,
+    110.32361,
     -7.86306
 ],
-  "geometry": {"coordinates":[110.32361000000002,-7.86306],"type":"Point"}
+  "geometry": {"coordinates":[110.32361,-7.86306],"type":"Point"}
 }

@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072857
+        102072857,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6256754
     },
     "wof:country":"ID",
-    "wof:geomhash":"0a1c86acffbae4b98bd476e96cc212cb",
+    "wof:geomhash":"ef4614680bf5f36c2297d6d2dda472ef",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1360305877,
-    "wof:lastmodified":1536625245,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181897,
     "wof:name":"Sumberagung Dua",
     "wof:parent_id":102072857,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.25388999999998,
+    110.25389,
     -7.40111,
-    110.25388999999998,
+    110.25389,
     -7.40111
 ],
-  "geometry": {"coordinates":[110.25388999999998,-7.40111],"type":"Point"}
+  "geometry": {"coordinates":[110.25389,-7.40111],"type":"Point"}
 }

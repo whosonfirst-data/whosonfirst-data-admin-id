@@ -35,8 +35,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672085,
         1108796815,
+        85672085,
         85672097
     ],
     "wof:breaches":[],
@@ -44,7 +44,7 @@
         "gn:id":8042820
     },
     "wof:country":"ID",
-    "wof:geomhash":"a71933b8d89d3d7042c19aa87587f6a3",
+    "wof:geomhash":"00bcedb91d1fbe60030c12f07424362f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -62,7 +62,14 @@
         }
     ],
     "wof:id":1276615349,
-    "wof:lastmodified":1537635098,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177575,
     "wof:name":"Wamangi",
     "wof:parent_id":1108796815,
     "wof:placetype":"locality",
@@ -72,10 +79,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    126.45078999999998,
+    126.45079,
     -3.08485,
-    126.45078999999998,
+    126.45079,
     -3.08485
 ],
-  "geometry": {"coordinates":[126.45078999999998,-3.08485],"type":"Point"}
+  "geometry": {"coordinates":[126.45079,-3.08485],"type":"Point"}
 }

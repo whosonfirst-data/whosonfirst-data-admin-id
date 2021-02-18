@@ -34,15 +34,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072949
+        102072949,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1965694
     },
     "wof:country":"ID",
-    "wof:geomhash":"7d57925ef920e6e47653414661f4d5e5",
+    "wof:geomhash":"583c1618653611ba88000d611fc6b851",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +53,14 @@
         }
     ],
     "wof:id":1327283651,
-    "wof:lastmodified":1537627824,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613173451,
     "wof:name":"Koyod",
     "wof:parent_id":102072949,
     "wof:placetype":"locality",
@@ -63,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.72556000000002,
+    107.72556,
     -7.01556,
-    107.72556000000002,
+    107.72556,
     -7.01556
 ],
-  "geometry": {"coordinates":[107.72556000000002,-7.01556],"type":"Point"}
+  "geometry": {"coordinates":[107.72556,-7.01556],"type":"Point"}
 }

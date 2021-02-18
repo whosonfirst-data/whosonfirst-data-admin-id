@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073551
+        102073551,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1964269
     },
     "wof:country":"ID",
-    "wof:geomhash":"1c0ef8dde23291dc0c08c22c30900527",
+    "wof:geomhash":"263a587ebd894613d127ec5a187567ce",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,7 +54,14 @@
         }
     ],
     "wof:id":1276388071,
-    "wof:lastmodified":1537627752,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178227,
     "wof:name":"Pulogelatik",
     "wof:parent_id":102073551,
     "wof:placetype":"locality",
@@ -64,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.16861000000002,
+    107.16861,
     -6.0975,
-    107.16861000000002,
+    107.16861,
     -6.0975
 ],
-  "geometry": {"coordinates":[107.16861000000002,-6.0975],"type":"Point"}
+  "geometry": {"coordinates":[107.16861,-6.0975],"type":"Point"}
 }

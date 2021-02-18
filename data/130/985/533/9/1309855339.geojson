@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073529
+        102073529,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6592245
     },
     "wof:country":"ID",
-    "wof:geomhash":"ac2bd50465df361340936e0e928f28e4",
+    "wof:geomhash":"b16957ee492040d0396834b24eaf2a0c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1309855339,
-    "wof:lastmodified":1537629727,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613182309,
     "wof:name":"Jangari",
     "wof:parent_id":102073529,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.26111000000002,
+    107.26111,
     -6.75111,
-    107.26111000000002,
+    107.26111,
     -6.75111
 ],
-  "geometry": {"coordinates":[107.26111000000002,-6.75111],"type":"Point"}
+  "geometry": {"coordinates":[107.26111,-6.75111],"type":"Point"}
 }

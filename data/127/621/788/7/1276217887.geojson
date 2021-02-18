@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073187
+        102073187,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6376327
     },
     "wof:country":"ID",
-    "wof:geomhash":"0c753a5233abe7340d0786df5304cedc",
+    "wof:geomhash":"ff85a2e6f483d067468af00883d777d7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1276217887,
-    "wof:lastmodified":1537628462,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177210,
     "wof:name":"Gadingpasar Dua",
     "wof:parent_id":102073187,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.86388999999998,
+    109.86389,
     -7.81944,
-    109.86388999999998,
+    109.86389,
     -7.81944
 ],
-  "geometry": {"coordinates":[109.86388999999998,-7.81944],"type":"Point"}
+  "geometry": {"coordinates":[109.86389,-7.81944],"type":"Point"}
 }

@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672067,
-        102073049
+        102073049,
+        85672067
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1649060
     },
     "wof:country":"ID",
-    "wof:geomhash":"00b5744d4bc42654ba791d7f483eeb4d",
+    "wof:geomhash":"95ac983103e239aa42181e83f824fb5b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1293302495,
-    "wof:lastmodified":1537051444,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175472,
     "wof:name":"Beranden Fak Fak",
     "wof:parent_id":102073049,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    132.41666999999998,
+    132.41667,
     -3.0,
-    132.41666999999998,
+    132.41667,
     -3.0
 ],
-  "geometry": {"coordinates":[132.41666999999998,-3.0],"type":"Point"}
+  "geometry": {"coordinates":[132.41667000000001,-3.0],"type":"Point"}
 }

@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073551
+        102073551,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6606073
     },
     "wof:country":"ID",
-    "wof:geomhash":"782b150ef63f5b428aee35771f4b1df6",
+    "wof:geomhash":"1cfea89855844ec6fa45299290681408",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1309766415,
-    "wof:lastmodified":1537630097,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613182370,
     "wof:name":"Bojong",
     "wof:parent_id":102073551,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.08693999999998,
+    107.08694,
     -6.09306,
-    107.08693999999998,
+    107.08694,
     -6.09306
 ],
-  "geometry": {"coordinates":[107.08693999999998,-6.09306],"type":"Point"}
+  "geometry": {"coordinates":[107.08694,-6.09306],"type":"Point"}
 }

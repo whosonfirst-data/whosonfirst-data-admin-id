@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672105,
-        1108796941
+        1108796941,
+        85672105
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1899972
     },
     "wof:country":"ID",
-    "wof:geomhash":"418a7c5341c6bb1311fb345209f92b90",
+    "wof:geomhash":"605b52a9cfd424e9fd4fabd8aff5c460",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1276827555,
-    "wof:lastmodified":1537627396,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177808,
     "wof:name":"Lembobajo",
     "wof:parent_id":1108796941,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    122.31638999999998,
+    122.31639,
     -3.72056,
-    122.31638999999998,
+    122.31639,
     -3.72056
 ],
-  "geometry": {"coordinates":[122.31638999999998,-3.72056],"type":"Point"}
+  "geometry": {"coordinates":[122.31639,-3.72056],"type":"Point"}
 }

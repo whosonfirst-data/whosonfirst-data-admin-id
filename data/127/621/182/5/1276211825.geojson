@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102072973
+        102072973,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6408143
     },
     "wof:country":"ID",
-    "wof:geomhash":"358ccb9a72b60ce7985366b171278589",
+    "wof:geomhash":"9a74d3f091cefda5e56af55a7633651e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1276211825,
-    "wof:lastmodified":1537629000,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177215,
     "wof:name":"Jenggrik",
     "wof:parent_id":102072973,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.32361000000002,
+    111.32361,
     -7.78611,
-    111.32361000000002,
+    111.32361,
     -7.78611
 ],
-  "geometry": {"coordinates":[111.32361000000002,-7.78611],"type":"Point"}
+  "geometry": {"coordinates":[111.32361,-7.78611],"type":"Point"}
 }

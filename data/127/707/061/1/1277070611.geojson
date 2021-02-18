@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072639
+        102072639,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6372208
     },
     "wof:country":"ID",
-    "wof:geomhash":"2b25275d659f9bb277e40b1b42165893",
+    "wof:geomhash":"b22145f856d78ac85694eacd04bf5da2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1277070611,
-    "wof:lastmodified":1537628362,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613176983,
     "wof:name":"Kedungtrenggiling",
     "wof:parent_id":102072639,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.62111000000002,
+    109.62111,
     -7.52861,
-    109.62111000000002,
+    109.62111,
     -7.52861
 ],
-  "geometry": {"coordinates":[109.62111000000002,-7.52861],"type":"Point"}
+  "geometry": {"coordinates":[109.62111,-7.52861],"type":"Point"}
 }

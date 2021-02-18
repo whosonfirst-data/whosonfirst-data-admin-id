@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073265
+        102073265,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2000061
     },
     "wof:country":"ID",
-    "wof:geomhash":"5423de675f99ef342c3d9688c115f6da",
+    "wof:geomhash":"a0f583ab2318e2a517f88156114d88d5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1327212373,
-    "wof:lastmodified":1536997851,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613173438,
     "wof:name":"Beloran",
     "wof:parent_id":102073265,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.48111000000002,
+    110.48111,
     -7.80139,
-    110.48111000000002,
+    110.48111,
     -7.80139
 ],
-  "geometry": {"coordinates":[110.48111000000002,-7.80139],"type":"Point"}
+  "geometry": {"coordinates":[110.48111,-7.80139],"type":"Point"}
 }

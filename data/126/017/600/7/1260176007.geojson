@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073153
+        102073153,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6370916
     },
     "wof:country":"ID",
-    "wof:geomhash":"94b297d2f67dd5376ece9d0f195fb6e8",
+    "wof:geomhash":"92786b0cf080877a2ce8ad54bcb2ef61",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1260176007,
-    "wof:lastmodified":1537628325,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613180520,
     "wof:name":"Pagak",
     "wof:parent_id":102073153,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.46056000000002,
+    109.46056,
     -7.47778,
-    109.46056000000002,
+    109.46056,
     -7.47778
 ],
-  "geometry": {"coordinates":[109.46056000000002,-7.47778],"type":"Point"}
+  "geometry": {"coordinates":[109.46056,-7.47778],"type":"Point"}
 }

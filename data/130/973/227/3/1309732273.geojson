@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072639
+        102072639,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6386419
     },
     "wof:country":"ID",
-    "wof:geomhash":"8f1b3d0bfb055052ad29c37211a4cede",
+    "wof:geomhash":"877535e7c9f3b180e7c19956140a6590",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1309732273,
-    "wof:lastmodified":1537628608,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613182473,
     "wof:name":"Beningan",
     "wof:parent_id":102072639,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.60611000000002,
+    109.60611,
     -7.7475,
-    109.60611000000002,
+    109.60611,
     -7.7475
 ],
-  "geometry": {"coordinates":[109.60611000000002,-7.7475],"type":"Point"}
+  "geometry": {"coordinates":[109.60611,-7.7475],"type":"Point"}
 }

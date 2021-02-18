@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072639
+        102072639,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6372514
     },
     "wof:country":"ID",
-    "wof:geomhash":"d3780ad7e70501e630f93036fb19fd27",
+    "wof:geomhash":"d8a07edfead0433d9e73957a9c858c7f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1259680265,
-    "wof:lastmodified":1537628370,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613184792,
     "wof:name":"Kepadangan",
     "wof:parent_id":102072639,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.55138999999998,
+    109.55139,
     -7.60611,
-    109.55138999999998,
+    109.55139,
     -7.60611
 ],
-  "geometry": {"coordinates":[109.55138999999998,-7.60611],"type":"Point"}
+  "geometry": {"coordinates":[109.55139,-7.60611],"type":"Point"}
 }

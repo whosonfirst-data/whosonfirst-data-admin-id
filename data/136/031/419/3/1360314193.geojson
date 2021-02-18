@@ -38,15 +38,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672081,
-        1108796945
+        1108796945,
+        85672081
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1635911
     },
     "wof:country":"ID",
-    "wof:geomhash":"e5af6e752f3c6ae1505e2778927818b0",
+    "wof:geomhash":"831822a13920bc9e90466f6384cff160",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -57,7 +57,14 @@
         }
     ],
     "wof:id":1360314193,
-    "wof:lastmodified":1537626861,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181891,
     "wof:name":"Mataendoh",
     "wof:parent_id":1108796945,
     "wof:placetype":"locality",
@@ -67,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    124.24396000000002,
+    124.24396,
     0.40898,
-    124.24396000000002,
+    124.24396,
     0.40898
 ],
-  "geometry": {"coordinates":[124.24396000000002,0.40898],"type":"Point"}
+  "geometry": {"coordinates":[124.24396,0.40898],"type":"Point"}
 }

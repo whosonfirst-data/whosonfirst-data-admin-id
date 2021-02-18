@@ -34,15 +34,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672067,
-        102072595
+        102072595,
+        85672067
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1633865
     },
     "wof:country":"ID",
-    "wof:geomhash":"6cce1f957ad71f80a523cf91b22e6c92",
+    "wof:geomhash":"6fb09566e64625e5539f4b51a5478f10",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +53,14 @@
         }
     ],
     "wof:id":1193146813,
-    "wof:lastmodified":1537626791,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179917,
     "wof:name":"Nouwsto",
     "wof:parent_id":102072595,
     "wof:placetype":"locality",
@@ -63,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    133.91666999999998,
+    133.91667,
     -1.46667,
-    133.91666999999998,
+    133.91667,
     -1.46667
 ],
-  "geometry": {"coordinates":[133.91666999999998,-1.46667],"type":"Point"}
+  "geometry": {"coordinates":[133.91667000000001,-1.46667],"type":"Point"}
 }

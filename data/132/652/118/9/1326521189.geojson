@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072733
+        102072733,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1934960
     },
     "wof:country":"ID",
-    "wof:geomhash":"6e05e9fd74baced1ecfa63952fe23021",
+    "wof:geomhash":"fe5e0000e254fa617b74708d19a7bcf2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1326521189,
-    "wof:lastmodified":1536999252,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613173242,
     "wof:name":"Pulegede",
     "wof:parent_id":102072733,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.99611000000002,
+    110.99611,
     -7.69,
-    110.99611000000002,
+    110.99611,
     -7.69
 ],
-  "geometry": {"coordinates":[110.99611000000002,-7.69],"type":"Point"}
+  "geometry": {"coordinates":[110.99611,-7.69],"type":"Point"}
 }

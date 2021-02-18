@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073313
+        102073313,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2002827
     },
     "wof:country":"ID",
-    "wof:geomhash":"94a59d484ae296bd6e363537508a413e",
+    "wof:geomhash":"c1b16dbd4d0a63583c93b2fc17102b85",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1276204865,
-    "wof:lastmodified":1536951414,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177327,
     "wof:name":"Jogodayoh",
     "wof:parent_id":102073313,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.32193999999998,
+    110.32194,
     -7.92611,
-    110.32193999999998,
+    110.32194,
     -7.92611
 ],
-  "geometry": {"coordinates":[110.32193999999998,-7.92611],"type":"Point"}
+  "geometry": {"coordinates":[110.32194,-7.92611],"type":"Point"}
 }

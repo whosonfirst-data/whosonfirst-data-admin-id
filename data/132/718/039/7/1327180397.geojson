@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073569
+        102073569,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6401310
     },
     "wof:country":"ID",
-    "wof:geomhash":"15bd36f3f6a5865ce55ffd17d897f330",
+    "wof:geomhash":"9ac2410a9c64d76aec1cfa32f3731868",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1327180397,
-    "wof:lastmodified":1537628838,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613173614,
     "wof:name":"Binalestari",
     "wof:parent_id":102073569,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.42638999999998,
+    108.42639,
     -6.795,
-    108.42638999999998,
+    108.42639,
     -6.795
 ],
-  "geometry": {"coordinates":[108.42638999999998,-6.795],"type":"Point"}
+  "geometry": {"coordinates":[108.42639,-6.795],"type":"Point"}
 }

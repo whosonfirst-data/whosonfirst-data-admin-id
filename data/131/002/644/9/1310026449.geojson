@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072983
+        102072983,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2010756
     },
     "wof:country":"ID",
-    "wof:geomhash":"788479df028af09dd1ece09df12ed660",
+    "wof:geomhash":"86f449400e8ad6f5bdf6cb4d09728e82",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1310026449,
-    "wof:lastmodified":1536610548,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181609,
     "wof:name":"Beresan",
     "wof:parent_id":102072983,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.66443999999998,
+    110.66444,
     -7.53667,
-    110.66443999999998,
+    110.66444,
     -7.53667
 ],
-  "geometry": {"coordinates":[110.66443999999998,-7.53667],"type":"Point"}
+  "geometry": {"coordinates":[110.66444,-7.53667],"type":"Point"}
 }

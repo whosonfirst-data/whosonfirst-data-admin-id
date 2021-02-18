@@ -34,7 +34,7 @@
         "gn:id":2012043
     },
     "wof:country":"ID",
-    "wof:geomhash":"f63c7eb3853f024639c47fd7d62dc8b7",
+    "wof:geomhash":"94e28ae4ae4bbfe2055c892bb6cf99fc",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209305635,
-    "wof:lastmodified":1536291206,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178484,
     "wof:name":"Karangbolong",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     110.0125,
-    -7.786110000000001,
+    -7.78611,
     110.0125,
-    -7.786110000000001
+    -7.78611
 ],
   "geometry": {"coordinates":[110.0125,-7.78611],"type":"Point"}
 }

@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072639
+        102072639,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6386231
     },
     "wof:country":"ID",
-    "wof:geomhash":"3453a1d16dd612b0f5e94f858a135bbd",
+    "wof:geomhash":"a9288b47343144dcb4ce3aed1f16d14c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1309732529,
-    "wof:lastmodified":1537628600,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613182483,
     "wof:name":"Sugihwaras Utara",
     "wof:parent_id":102072639,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.54361000000002,
+    109.54361,
     -7.69028,
-    109.54361000000002,
+    109.54361,
     -7.69028
 ],
-  "geometry": {"coordinates":[109.54361000000002,-7.69028],"type":"Point"}
+  "geometry": {"coordinates":[109.54361,-7.69028],"type":"Point"}
 }

@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072733
+        102072733,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1934955
     },
     "wof:country":"ID",
-    "wof:geomhash":"8bc8ecd5e26d58e8c6099e21e8090323",
+    "wof:geomhash":"1c202e26a5cf7569c0ee77a1140f912c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1242698531,
-    "wof:lastmodified":1536889224,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183325,
     "wof:name":"Kwangsan Wetan",
     "wof:parent_id":102072733,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.96056000000002,
+    110.96056,
     -7.69,
-    110.96056000000002,
+    110.96056,
     -7.69
 ],
-  "geometry": {"coordinates":[110.96056000000002,-7.69],"type":"Point"}
+  "geometry": {"coordinates":[110.96056,-7.69],"type":"Point"}
 }

@@ -36,15 +36,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        1108796793
+        1108796793,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1961977
     },
     "wof:country":"ID",
-    "wof:geomhash":"97470d4463d35d3014fc70ce02d844b0",
+    "wof:geomhash":"638488377bf619d09965f825bcd06039",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -55,7 +55,14 @@
         }
     ],
     "wof:id":1327483435,
-    "wof:lastmodified":1537627639,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613172849,
     "wof:name":"Cibedug",
     "wof:parent_id":1108796793,
     "wof:placetype":"locality",
@@ -65,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.39388999999998,
+    107.39389,
     -6.9875,
-    107.39388999999998,
+    107.39389,
     -6.9875
 ],
-  "geometry": {"coordinates":[107.39388999999998,-6.9875],"type":"Point"}
+  "geometry": {"coordinates":[107.39389,-6.9875],"type":"Point"}
 }

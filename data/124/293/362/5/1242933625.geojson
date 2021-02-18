@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073449
+        102073449,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6593603
     },
     "wof:country":"ID",
-    "wof:geomhash":"cb2f97e4256272567569d4596185462c",
+    "wof:geomhash":"c2a5191d6770a33923523fe85ade5b12",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1242933625,
-    "wof:lastmodified":1537629771,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183266,
     "wof:name":"Ciseupan",
     "wof:parent_id":102073449,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.71056000000002,
+    107.71056,
     -6.89944,
-    107.71056000000002,
+    107.71056,
     -6.89944
 ],
-  "geometry": {"coordinates":[107.71056000000002,-6.89944],"type":"Point"}
+  "geometry": {"coordinates":[107.71056,-6.89944],"type":"Point"}
 }

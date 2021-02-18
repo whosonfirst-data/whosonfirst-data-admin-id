@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072715
+        102072715,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6390163
     },
     "wof:country":"ID",
-    "wof:geomhash":"342ea4bec1eed1e546189949dc653e25",
+    "wof:geomhash":"ba663891f37b207bc2596b84f5d4723e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1309799905,
-    "wof:lastmodified":1537628708,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613182270,
     "wof:name":"Wringinpitu",
     "wof:parent_id":102072715,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.30861000000002,
+    109.30861,
     -7.40722,
-    109.30861000000002,
+    109.30861,
     -7.40722
 ],
-  "geometry": {"coordinates":[109.30861000000002,-7.40722],"type":"Point"}
+  "geometry": {"coordinates":[109.30861,-7.40722],"type":"Point"}
 }

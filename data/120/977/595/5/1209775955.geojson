@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072855
+        102072855,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6596028
     },
     "wof:country":"ID",
-    "wof:geomhash":"2e0ddb9294c91f6972b728e43fc7c7d5",
+    "wof:geomhash":"3c11daf5ce30da8105166792867ec153",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1209775955,
-    "wof:lastmodified":1537629835,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178611,
     "wof:name":"Sukamantri",
     "wof:parent_id":102072855,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.89806000000002,
+    106.89806,
     -6.91972,
-    106.89806000000002,
+    106.89806,
     -6.91972
 ],
-  "geometry": {"coordinates":[106.89806000000002,-6.91972],"type":"Point"}
+  "geometry": {"coordinates":[106.89806,-6.91972],"type":"Point"}
 }

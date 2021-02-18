@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072857
+        102072857,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6259271
     },
     "wof:country":"ID",
-    "wof:geomhash":"d43197ffa5c88082e5f8874a3754cc0b",
+    "wof:geomhash":"8ebae69970a0da50164fd15812c0ec76",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1343978693,
-    "wof:lastmodified":1536992937,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613174066,
     "wof:name":"Gresalo",
     "wof:parent_id":102072857,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.30861000000002,
+    110.30861,
     -7.59722,
-    110.30861000000002,
+    110.30861,
     -7.59722
 ],
-  "geometry": {"coordinates":[110.30861000000002,-7.59722],"type":"Point"}
+  "geometry": {"coordinates":[110.30861,-7.59722],"type":"Point"}
 }

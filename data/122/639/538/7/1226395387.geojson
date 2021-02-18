@@ -41,15 +41,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672115,
-        102073423
+        102073423,
+        85672115
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8520064
     },
     "wof:country":"ID",
-    "wof:geomhash":"077443121327a6aa509e5c58013b53bc",
+    "wof:geomhash":"fe6bb72fcb7af3338b7c6b75bb1237e5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -60,7 +60,14 @@
         }
     ],
     "wof:id":1226395387,
-    "wof:lastmodified":1564208192,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613186396,
     "wof:name":"Au",
     "wof:parent_id":102073423,
     "wof:placetype":"locality",
@@ -70,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    138.04273999999998,
+    138.04274,
     -5.17626,
-    138.04273999999998,
+    138.04274,
     -5.17626
 ],
-  "geometry": {"coordinates":[138.04273999999998,-5.17626],"type":"Point"}
+  "geometry": {"coordinates":[138.04274000000001,-5.17626],"type":"Point"}
 }

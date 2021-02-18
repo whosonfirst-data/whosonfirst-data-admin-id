@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073405
+        102073405,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2010980
     },
     "wof:country":"ID",
-    "wof:geomhash":"3fba288e86bc691bf684305c60c87699",
+    "wof:geomhash":"c55caf03d7ebdf1177a68c8869c37ba7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1326751017,
-    "wof:lastmodified":1536668658,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613172330,
     "wof:name":"Kragilan",
     "wof:parent_id":102073405,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.72693999999998,
+    110.72694,
     -7.55278,
-    110.72693999999998,
+    110.72694,
     -7.55278
 ],
-  "geometry": {"coordinates":[110.72693999999998,-7.55278],"type":"Point"}
+  "geometry": {"coordinates":[110.72694,-7.55278],"type":"Point"}
 }

@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073187
+        102073187,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6565093
     },
     "wof:country":"ID",
-    "wof:geomhash":"d9eed0ff6c6fe6bd1c0aa91b9b383f19",
+    "wof:geomhash":"abafdbcdf2ea44770a55e3e7a2cf7e3b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1344148107,
-    "wof:lastmodified":1537629248,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613174164,
     "wof:name":"Gayam",
     "wof:parent_id":102073187,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.89806000000002,
+    109.89806,
     -7.75444,
-    109.89806000000002,
+    109.89806,
     -7.75444
 ],
-  "geometry": {"coordinates":[109.89806000000002,-7.75444],"type":"Point"}
+  "geometry": {"coordinates":[109.89806,-7.75444],"type":"Point"}
 }

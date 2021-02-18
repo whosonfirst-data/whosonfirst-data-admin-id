@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072739
+        102072739,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6582610
     },
     "wof:country":"ID",
-    "wof:geomhash":"5abac23afd82d0cd938b42f2c9dc60b5",
+    "wof:geomhash":"78ae16214d9089f072458b8b2ddc0d40",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1360134197,
-    "wof:lastmodified":1537629505,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181784,
     "wof:name":"Ceuri",
     "wof:parent_id":102072739,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.89806000000002,
+    107.89806,
     -6.73556,
-    107.89806000000002,
+    107.89806,
     -6.73556
 ],
-  "geometry": {"coordinates":[107.89806000000002,-6.73556],"type":"Point"}
+  "geometry": {"coordinates":[107.89806,-6.73556],"type":"Point"}
 }

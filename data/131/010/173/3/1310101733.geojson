@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073309
+        102073309,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6561656
     },
     "wof:country":"ID",
-    "wof:geomhash":"773c286bab4532d2cf9edede6daef9d9",
+    "wof:geomhash":"1693e486758c21e3bc0021f3e7bb0b6f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1310101733,
-    "wof:lastmodified":1537629163,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181375,
     "wof:name":"Serut",
     "wof:parent_id":102073309,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.32193999999998,
+    111.32194,
     -7.195,
-    111.32193999999998,
+    111.32194,
     -7.195
 ],
-  "geometry": {"coordinates":[111.32193999999998,-7.195],"type":"Point"}
+  "geometry": {"coordinates":[111.32194,-7.195],"type":"Point"}
 }

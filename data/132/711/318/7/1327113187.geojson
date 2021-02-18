@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073265
+        102073265,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6265151
     },
     "wof:country":"ID",
-    "wof:geomhash":"15d1452c3a10dd1c0d899893a1490c19",
+    "wof:geomhash":"f8279895dda12cb32eb6ae89eab13f7e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1327113187,
-    "wof:lastmodified":1536643216,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613173546,
     "wof:name":"Teplok",
     "wof:parent_id":102073265,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.45638999999998,
+    110.45639,
     -7.66972,
-    110.45638999999998,
+    110.45639,
     -7.66972
 ],
-  "geometry": {"coordinates":[110.45638999999998,-7.66972],"type":"Point"}
+  "geometry": {"coordinates":[110.45639,-7.66972],"type":"Point"}
 }

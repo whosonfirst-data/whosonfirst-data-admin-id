@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672115,
-        1108796875
+        1108796875,
+        85672115
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8519836
     },
     "wof:country":"ID",
-    "wof:geomhash":"3f33c4d939b7ef605ea1d668b4082ba3",
+    "wof:geomhash":"ec6225ff37c3e2540c3256ba43af1ef6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1326582673,
-    "wof:lastmodified":1537636290,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613172503,
     "wof:name":"Obaijo",
     "wof:parent_id":1108796875,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    136.12188999999998,
+    136.12189,
     -4.11871,
-    136.12188999999998,
+    136.12189,
     -4.11871
 ],
-  "geometry": {"coordinates":[136.12188999999998,-4.11871],"type":"Point"}
+  "geometry": {"coordinates":[136.12189000000001,-4.11871],"type":"Point"}
 }

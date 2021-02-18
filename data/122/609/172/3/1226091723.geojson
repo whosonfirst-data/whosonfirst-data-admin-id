@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072855
+        102072855,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6595895
     },
     "wof:country":"ID",
-    "wof:geomhash":"2720698dba74d5ea9fd5ef8205e94251",
+    "wof:geomhash":"7411317e891d8e82448b1e7e59804b37",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1226091723,
-    "wof:lastmodified":1537629829,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613186530,
     "wof:name":"Subang Wetan",
     "wof:parent_id":102072855,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.94861000000002,
+    106.94861,
     -6.90806,
-    106.94861000000002,
+    106.94861,
     -6.90806
 ],
-  "geometry": {"coordinates":[106.94861000000002,-6.90806],"type":"Point"}
+  "geometry": {"coordinates":[106.94861,-6.90806],"type":"Point"}
 }

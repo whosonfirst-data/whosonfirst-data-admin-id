@@ -34,7 +34,7 @@
         "gn:id":2004554
     },
     "wof:country":"ID",
-    "wof:geomhash":"332b8c1330402bd2c0e812d9ad33402f",
+    "wof:geomhash":"9ba5ac9406d6a484841cd08c3aa0460b",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209094959,
-    "wof:lastmodified":1536297916,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178281,
     "wof:name":"Gombang",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     110.32556,
-    -7.750560000000001,
+    -7.75056,
     110.32556,
-    -7.750560000000001
+    -7.75056
 ],
   "geometry": {"coordinates":[110.32556,-7.75056],"type":"Point"}
 }

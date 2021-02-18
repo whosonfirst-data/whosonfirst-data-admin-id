@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073295
+        102073295,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6568598
     },
     "wof:country":"ID",
-    "wof:geomhash":"89d01134338496c94a567cbc0edc269c",
+    "wof:geomhash":"251e568c4b546fd22f3932b07537c492",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1260230659,
-    "wof:lastmodified":1537629356,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613180198,
     "wof:name":"Babakansukasari",
     "wof:parent_id":102073295,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.76888999999998,
+    107.76889,
     -6.48611,
-    107.76888999999998,
+    107.76889,
     -6.48611
 ],
-  "geometry": {"coordinates":[107.76888999999998,-6.48611],"type":"Point"}
+  "geometry": {"coordinates":[107.76889,-6.48611],"type":"Point"}
 }

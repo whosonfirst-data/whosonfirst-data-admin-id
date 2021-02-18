@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072739
+        102072739,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6581152
     },
     "wof:country":"ID",
-    "wof:geomhash":"8c613ee9b73ad77b36ee86d02a813cd5",
+    "wof:geomhash":"1d459138739388ae3864133c4574974c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1343322111,
-    "wof:lastmodified":1537629463,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613174686,
     "wof:name":"Ciraja",
     "wof:parent_id":102072739,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.87888999999998,
+    107.87889,
     -6.87333,
-    107.87888999999998,
+    107.87889,
     -6.87333
 ],
-  "geometry": {"coordinates":[107.87888999999998,-6.87333],"type":"Point"}
+  "geometry": {"coordinates":[107.87889,-6.87333],"type":"Point"}
 }

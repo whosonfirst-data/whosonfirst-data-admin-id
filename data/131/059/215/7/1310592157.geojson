@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072929
+        102072929,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6409679
     },
     "wof:country":"ID",
-    "wof:geomhash":"ab49d89bfb1a5ef6d8c7d343020ebe31",
+    "wof:geomhash":"44d98df4e0044195753ced614001b9f1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1310592157,
-    "wof:lastmodified":1537629050,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181542,
     "wof:name":"Mojomulyo",
     "wof:parent_id":102072929,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.00943999999998,
+    111.00944,
     -7.43278,
-    111.00943999999998,
+    111.00944,
     -7.43278
 ],
-  "geometry": {"coordinates":[111.00943999999998,-7.43278],"type":"Point"}
+  "geometry": {"coordinates":[111.00944,-7.43278],"type":"Point"}
 }

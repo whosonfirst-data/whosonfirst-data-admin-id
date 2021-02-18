@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072855
+        102072855,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6601449
     },
     "wof:country":"ID",
-    "wof:geomhash":"2cfba135fd3300dc38d997b975930b93",
+    "wof:geomhash":"898d123c54b1be273eb1ddf86d638835",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1327493831,
-    "wof:lastmodified":1537629985,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613172773,
     "wof:name":"Kertaraharja",
     "wof:parent_id":102072855,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.85193999999998,
+    106.85194,
     -6.97778,
-    106.85193999999998,
+    106.85194,
     -6.97778
 ],
-  "geometry": {"coordinates":[106.85193999999998,-6.97778],"type":"Point"}
+  "geometry": {"coordinates":[106.85194,-6.97778],"type":"Point"}
 }

@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672041,
-        102073001
+        102073001,
+        85672041
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1902831
     },
     "wof:country":"ID",
-    "wof:geomhash":"87dcae76a7202a166832d8bb45706d76",
+    "wof:geomhash":"2c090c6eefb505b539545e476e7e8cf6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1226484895,
-    "wof:lastmodified":1537082578,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613186264,
     "wof:name":"Libua",
     "wof:parent_id":102073001,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    119.60193999999998,
+    119.60194,
     -4.46806,
-    119.60193999999998,
+    119.60194,
     -4.46806
 ],
-  "geometry": {"coordinates":[119.60193999999998,-4.46806],"type":"Point"}
+  "geometry": {"coordinates":[119.60194,-4.46806],"type":"Point"}
 }

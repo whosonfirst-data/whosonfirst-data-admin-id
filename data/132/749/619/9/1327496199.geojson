@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672037,
-        102073179
+        102073179,
+        85672037
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1951468
     },
     "wof:country":"ID",
-    "wof:geomhash":"63727ee3e5b19c6e77a990a70fcb94ab",
+    "wof:geomhash":"dbccb009de5da5c96aceac946884a964",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1327496199,
-    "wof:lastmodified":1537083358,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613172769,
     "wof:name":"Kumeto",
     "wof:parent_id":102073179,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    124.46056000000002,
+    124.46056,
     -9.3975,
-    124.46056000000002,
+    124.46056,
     -9.3975
 ],
-  "geometry": {"coordinates":[124.46056000000002,-9.3975],"type":"Point"}
+  "geometry": {"coordinates":[124.46056,-9.3975],"type":"Point"}
 }

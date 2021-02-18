@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073217
+        102073217,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1961206
     },
     "wof:country":"ID",
-    "wof:geomhash":"5bc0fb233df710f875e78f82ac138ff1",
+    "wof:geomhash":"040fc6b55f63c506e43e7e2e961c8cf9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,7 +54,14 @@
         }
     ],
     "wof:id":1243017939,
-    "wof:lastmodified":1537627599,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613182954,
     "wof:name":"Pasirrandu",
     "wof:parent_id":102073217,
     "wof:placetype":"locality",
@@ -64,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.48111000000002,
+    106.48111,
     -6.48,
-    106.48111000000002,
+    106.48111,
     -6.48
 ],
-  "geometry": {"coordinates":[106.48111000000002,-6.48],"type":"Point"}
+  "geometry": {"coordinates":[106.48111,-6.48],"type":"Point"}
 }

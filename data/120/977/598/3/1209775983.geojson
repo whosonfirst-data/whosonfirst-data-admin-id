@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073295
+        102073295,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6582053
     },
     "wof:country":"ID",
-    "wof:geomhash":"a42d73ae1e6438c34b21f85d32b41c2d",
+    "wof:geomhash":"c7b118f5f8ffe241927c302783bb2541",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1209775983,
-    "wof:lastmodified":1537629490,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178622,
     "wof:name":"Citapen",
     "wof:parent_id":102073295,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.64388999999998,
+    107.64389,
     -6.55306,
-    107.64388999999998,
+    107.64389,
     -6.55306
 ],
-  "geometry": {"coordinates":[107.64388999999998,-6.55306],"type":"Point"}
+  "geometry": {"coordinates":[107.64389,-6.55306],"type":"Point"}
 }

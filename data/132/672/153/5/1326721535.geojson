@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072983
+        102072983,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6259495
     },
     "wof:country":"ID",
-    "wof:geomhash":"0a4c8198b1dea03ab45b16b91927ec30",
+    "wof:geomhash":"b9eae8df33aa3606c7272b44faefab38",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1326721535,
-    "wof:lastmodified":1536711556,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613172286,
     "wof:name":"Blumbangsari",
     "wof:parent_id":102072983,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.45638999999998,
+    110.45639,
     -7.50278,
-    110.45638999999998,
+    110.45639,
     -7.50278
 ],
-  "geometry": {"coordinates":[110.45638999999998,-7.50278],"type":"Point"}
+  "geometry": {"coordinates":[110.45639,-7.50278],"type":"Point"}
 }

@@ -34,7 +34,7 @@
         "gn:id":2002603
     },
     "wof:country":"ID",
-    "wof:geomhash":"c55a62291a820096639acbcba2a04d74",
+    "wof:geomhash":"6114f24a6837085495401e2731838986",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209084931,
-    "wof:lastmodified":1536298218,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178501,
     "wof:name":"Banyudono",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     110.31,
-    -7.901669999999998,
+    -7.90167,
     110.31,
-    -7.901669999999998
+    -7.90167
 ],
   "geometry": {"coordinates":[110.31,-7.90167],"type":"Point"}
 }

@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072947
+        102072947,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6375562
     },
     "wof:country":"ID",
-    "wof:geomhash":"3a41d4d55f7be1fbba3ab415b3dbd99a",
+    "wof:geomhash":"da57bcf119198677c0cc7afc541eef0f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1310000015,
-    "wof:lastmodified":1537628440,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613180982,
     "wof:name":"Pundungsari",
     "wof:parent_id":102072947,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.78943999999998,
+    110.78944,
     -8.14278,
-    110.78943999999998,
+    110.78944,
     -8.14278
 ],
-  "geometry": {"coordinates":[110.78943999999998,-8.14278],"type":"Point"}
+  "geometry": {"coordinates":[110.78944,-8.14278],"type":"Point"}
 }

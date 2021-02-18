@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072921
+        102072921,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6378946
     },
     "wof:country":"ID",
-    "wof:geomhash":"19b63314f710c816de3f463a49e81ee4",
+    "wof:geomhash":"7308dc261bfe6cc1417a8704f7515d2b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1243192793,
-    "wof:lastmodified":1537628514,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613184182,
     "wof:name":"Rajawana",
     "wof:parent_id":102072921,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.49056000000002,
+    109.49056,
     -7.29667,
-    109.49056000000002,
+    109.49056,
     -7.29667
 ],
-  "geometry": {"coordinates":[109.49056000000002,-7.29667],"type":"Point"}
+  "geometry": {"coordinates":[109.49056,-7.29667],"type":"Point"}
 }

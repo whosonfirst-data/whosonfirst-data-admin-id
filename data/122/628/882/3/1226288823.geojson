@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073217
+        102073217,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6605455
     },
     "wof:country":"ID",
-    "wof:geomhash":"ecf12e097cfbd016f6a6f900d5f94933",
+    "wof:geomhash":"8dd1afa737be8c7234a8d287ca3418c7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,7 +54,14 @@
         }
     ],
     "wof:id":1226288823,
-    "wof:lastmodified":1537630074,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185344,
     "wof:name":"Kampungjawa Dua",
     "wof:parent_id":102073217,
     "wof:placetype":"locality",
@@ -64,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.64806000000002,
+    106.64806,
     -6.60778,
-    106.64806000000002,
+    106.64806,
     -6.60778
 ],
-  "geometry": {"coordinates":[106.64806000000002,-6.60778],"type":"Point"}
+  "geometry": {"coordinates":[106.64806,-6.60778],"type":"Point"}
 }

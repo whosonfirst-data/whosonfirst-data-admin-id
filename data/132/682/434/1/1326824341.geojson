@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072983
+        102072983,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6253197
     },
     "wof:country":"ID",
-    "wof:geomhash":"2deca068f75384ce008d318e15db9ee5",
+    "wof:geomhash":"8055fe137c20d67031eeab632c681cd9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1326824341,
-    "wof:lastmodified":1537057659,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613173000,
     "wof:name":"Banyuurip",
     "wof:parent_id":102072983,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.63611000000002,
+    110.63611,
     -7.26556,
-    110.63611000000002,
+    110.63611,
     -7.26556
 ],
-  "geometry": {"coordinates":[110.63611000000002,-7.26556],"type":"Point"}
+  "geometry": {"coordinates":[110.63611,-7.26556],"type":"Point"}
 }

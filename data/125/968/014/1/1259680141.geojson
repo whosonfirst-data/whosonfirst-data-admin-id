@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072947
+        102072947,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6406275
     },
     "wof:country":"ID",
-    "wof:geomhash":"19719ac04e6333bf755a42adf06d4264",
+    "wof:geomhash":"8b8d780d47703e1d636b692b3224d2d6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,7 +54,14 @@
         }
     ],
     "wof:id":1259680141,
-    "wof:lastmodified":1564203238,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613184785,
     "wof:name":"Sobo",
     "wof:parent_id":102072947,
     "wof:placetype":"locality",
@@ -64,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.13611000000002,
+    111.13611,
     -7.96472,
-    111.13611000000002,
+    111.13611,
     -7.96472
 ],
-  "geometry": {"coordinates":[111.13611000000002,-7.96472],"type":"Point"}
+  "geometry": {"coordinates":[111.13611,-7.96472],"type":"Point"}
 }

@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072715
+        102072715,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6388961
     },
     "wof:country":"ID",
-    "wof:geomhash":"6c455eac008eeb65c1bb07c8811e52a0",
+    "wof:geomhash":"0c2fc23080f1b4f30a402d419be00104",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1293021559,
-    "wof:lastmodified":1537628684,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613176429,
     "wof:name":"Kalisutra",
     "wof:parent_id":102072715,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.20638999999998,
+    109.20639,
     -7.455,
-    109.20638999999998,
+    109.20639,
     -7.455
 ],
-  "geometry": {"coordinates":[109.20638999999998,-7.455],"type":"Point"}
+  "geometry": {"coordinates":[109.20639,-7.455],"type":"Point"}
 }

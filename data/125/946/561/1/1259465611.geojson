@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672009,
-        102072927
+        102072927,
+        85672009
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7863615
     },
     "wof:country":"ID",
-    "wof:geomhash":"f3a50e0b2b995b9b40c2b63d2afca534",
+    "wof:geomhash":"ec0bb893dfaed2a5abd3619c2d51c00d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1259465611,
-    "wof:lastmodified":1537634738,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613184609,
     "wof:name":"Negridamai",
     "wof:parent_id":102072927,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    104.88488999999998,
+    104.88489,
     -5.0537,
-    104.88488999999998,
+    104.88489,
     -5.0537
 ],
-  "geometry": {"coordinates":[104.88488999999998,-5.0537],"type":"Point"}
+  "geometry": {"coordinates":[104.88489,-5.0537],"type":"Point"}
 }

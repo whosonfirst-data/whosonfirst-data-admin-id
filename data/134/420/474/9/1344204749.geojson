@@ -34,15 +34,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672097,
-        1108796835
+        1108796835,
+        85672097
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1635862
     },
     "wof:country":"ID",
-    "wof:geomhash":"1088a4d0ec0a53460e19c3eebe079191",
+    "wof:geomhash":"933956f95860d5ec9b17d2df32893b5f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +53,14 @@
         }
     ],
     "wof:id":1344204749,
-    "wof:lastmodified":1537626859,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613174984,
     "wof:name":"Mataholat",
     "wof:parent_id":1108796835,
     "wof:placetype":"locality",
@@ -63,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    132.93308000000002,
+    132.93308,
     -5.7554,
-    132.93308000000002,
+    132.93308,
     -5.7554
 ],
-  "geometry": {"coordinates":[132.93308000000002,-5.7554],"type":"Point"}
+  "geometry": {"coordinates":[132.93307999999999,-5.7554],"type":"Point"}
 }

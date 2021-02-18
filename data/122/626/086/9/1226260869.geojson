@@ -80,15 +80,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672097,
-        1108796843
+        1108796843,
+        85672097
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1649917
     },
     "wof:country":"ID",
-    "wof:geomhash":"58c7bc7352f4c544795df6cad2b88f7c",
+    "wof:geomhash":"080739a7021c3fc61eb3303eb6cab027",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -99,7 +99,14 @@
         }
     ],
     "wof:id":1226260869,
-    "wof:lastmodified":1564205026,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185386,
     "wof:name":"Bas",
     "wof:parent_id":1108796843,
     "wof:placetype":"locality",
@@ -109,10 +116,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    131.44111999999998,
+    131.44112,
     -4.02147,
-    131.44111999999998,
+    131.44112,
     -4.02147
 ],
-  "geometry": {"coordinates":[131.44111999999998,-4.02147],"type":"Point"}
+  "geometry": {"coordinates":[131.44112000000001,-4.02147],"type":"Point"}
 }

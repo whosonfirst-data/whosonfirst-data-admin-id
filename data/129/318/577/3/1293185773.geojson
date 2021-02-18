@@ -269,15 +269,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102073013
+        102073013,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6405190
     },
     "wof:country":"ID",
-    "wof:geomhash":"148e3a38019bb61aa3d483d429e5d22f",
+    "wof:geomhash":"235a46c495574e2f952b2c899295ed4b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -288,7 +288,14 @@
         }
     ],
     "wof:id":1293185773,
-    "wof:lastmodified":1564178927,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613176543,
     "wof:name":"Semen",
     "wof:parent_id":102073013,
     "wof:placetype":"locality",
@@ -298,10 +305,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.18361000000002,
+    111.18361,
     -8.00083,
-    111.18361000000002,
+    111.18361,
     -8.00083
 ],
-  "geometry": {"coordinates":[111.18361000000002,-8.00083],"type":"Point"}
+  "geometry": {"coordinates":[111.18361,-8.00083],"type":"Point"}
 }

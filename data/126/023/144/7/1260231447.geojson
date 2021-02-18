@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672085,
-        102073277
+        102073277,
+        85672085
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1638906
     },
     "wof:country":"ID",
-    "wof:geomhash":"ab2063ec2b27ae1b5d53748e28c31f19",
+    "wof:geomhash":"5da1d7f539792ecb4a8a29ee0b7a9a75",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,7 +54,14 @@
         }
     ],
     "wof:id":1260231447,
-    "wof:lastmodified":1537626949,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613180202,
     "wof:name":"Labilabi",
     "wof:parent_id":102073277,
     "wof:placetype":"locality",
@@ -64,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    128.34776000000002,
+    128.34776,
     1.46447,
-    128.34776000000002,
+    128.34776,
     1.46447
 ],
-  "geometry": {"coordinates":[128.34776000000002,1.46447],"type":"Point"}
+  "geometry": {"coordinates":[128.34775999999999,1.46447],"type":"Point"}
 }

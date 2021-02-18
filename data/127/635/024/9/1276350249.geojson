@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672067,
-        102073049
+        102073049,
+        85672067
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1623963
     },
     "wof:country":"ID",
-    "wof:geomhash":"67e5b0c1a0e46c1ac2fd78eb142f4b4b",
+    "wof:geomhash":"0cb23ba4938337b7959ec26667208268",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1276350249,
-    "wof:lastmodified":1536755789,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177470,
     "wof:name":"Tibatibananam",
     "wof:parent_id":102073049,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    132.16666999999998,
+    132.16667,
     -2.7,
-    132.16666999999998,
+    132.16667,
     -2.7
 ],
-  "geometry": {"coordinates":[132.16666999999998,-2.7],"type":"Point"}
+  "geometry": {"coordinates":[132.16667000000001,-2.7],"type":"Point"}
 }

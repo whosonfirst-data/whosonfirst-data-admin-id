@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073169
+        102073169,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6200379
     },
     "wof:country":"ID",
-    "wof:geomhash":"3f8ed75dd57b0c396341c1421a72d072",
+    "wof:geomhash":"c4c8cdf29a3045c0f4cd4b38ba6ef7d0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1226136639,
-    "wof:lastmodified":1537087667,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613186008,
     "wof:name":"Lapangsari",
     "wof:parent_id":102073169,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.05138999999998,
+    110.05139,
     -7.26028,
-    110.05138999999998,
+    110.05139,
     -7.26028
 ],
-  "geometry": {"coordinates":[110.05138999999998,-7.26028],"type":"Point"}
+  "geometry": {"coordinates":[110.05139,-7.26028],"type":"Point"}
 }

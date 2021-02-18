@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072855
+        102072855,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6596075
     },
     "wof:country":"ID",
-    "wof:geomhash":"524f3b7c41851bba49cad3ea4e3aa422",
+    "wof:geomhash":"e62e42bd1bfb280d303b4e9edfc6c2ab",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1293844323,
-    "wof:lastmodified":1537629837,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175841,
     "wof:name":"Babakangandosoli",
     "wof:parent_id":102072855,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.99056000000002,
+    106.99056,
     -6.94111,
-    106.99056000000002,
+    106.99056,
     -6.94111
 ],
-  "geometry": {"coordinates":[106.99056000000002,-6.94111],"type":"Point"}
+  "geometry": {"coordinates":[106.99056,-6.94111],"type":"Point"}
 }

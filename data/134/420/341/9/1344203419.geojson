@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671995,
-        1108796785
+        1108796785,
+        85671995
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1986330
     },
     "wof:country":"ID",
-    "wof:geomhash":"99ec656f8b45fcf084f44758425d7e32",
+    "wof:geomhash":"80c1ee3aafc72ec41c736577471aa1bc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1344203419,
-    "wof:lastmodified":1536669367,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613174976,
     "wof:name":"Kokun",
     "wof:parent_id":1108796785,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.61556000000002,
+    106.61556,
     -6.15083,
-    106.61556000000002,
+    106.61556,
     -6.15083
 ],
-  "geometry": {"coordinates":[106.61556000000002,-6.15083],"type":"Point"}
+  "geometry": {"coordinates":[106.61556,-6.15083],"type":"Point"}
 }

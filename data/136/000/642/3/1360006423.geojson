@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072639
+        102072639,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6386175
     },
     "wof:country":"ID",
-    "wof:geomhash":"6d3cb955632428b85fbb89d5e55d1f97",
+    "wof:geomhash":"c92def0e3893b6065131b96ccaf1bac9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1360006423,
-    "wof:lastmodified":1537628598,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181874,
     "wof:name":"Turus",
     "wof:parent_id":102072639,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.58138999999998,
+    109.58139,
     -7.665,
-    109.58138999999998,
+    109.58139,
     -7.665
 ],
-  "geometry": {"coordinates":[109.58138999999998,-7.665],"type":"Point"}
+  "geometry": {"coordinates":[109.58139,-7.665],"type":"Point"}
 }

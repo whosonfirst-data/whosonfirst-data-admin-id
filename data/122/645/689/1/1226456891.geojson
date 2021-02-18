@@ -34,15 +34,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672001,
-        102073125
+        102073125,
+        85672001
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1958929
     },
     "wof:country":"ID",
-    "wof:geomhash":"46cf67cee3e0d935bcd8e37fda8007b6",
+    "wof:geomhash":"506d0aa87f1d9a8f356ff0cdb4f6e579",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +53,14 @@
         }
     ],
     "wof:id":1226456891,
-    "wof:lastmodified":1537627483,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185390,
     "wof:name":"Muaraangke Satu",
     "wof:parent_id":102073125,
     "wof:placetype":"locality",
@@ -63,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.76888999999998,
+    106.76889,
     -6.11667,
-    106.76888999999998,
+    106.76889,
     -6.11667
 ],
-  "geometry": {"coordinates":[106.76888999999998,-6.11667],"type":"Point"}
+  "geometry": {"coordinates":[106.76889,-6.11667],"type":"Point"}
 }

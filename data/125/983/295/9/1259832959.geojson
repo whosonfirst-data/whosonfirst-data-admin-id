@@ -740,15 +740,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672019,
-        1108796781
+        1108796781,
+        85672019
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8529645
     },
     "wof:country":"ID",
-    "wof:geomhash":"14ae81c8c7858a25277b5e918fc72735",
+    "wof:geomhash":"63be10cd6cef991ee81a45be5d6280fb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -759,7 +759,14 @@
         }
     ],
     "wof:id":1259832959,
-    "wof:lastmodified":1564202661,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613184560,
     "wof:name":"Paris",
     "wof:parent_id":1108796781,
     "wof:placetype":"locality",
@@ -769,10 +776,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.20371000000002,
+    106.20371,
     -2.87068,
-    106.20371000000002,
+    106.20371,
     -2.87068
 ],
-  "geometry": {"coordinates":[106.20371000000002,-2.87068],"type":"Point"}
+  "geometry": {"coordinates":[106.20371,-2.87068],"type":"Point"}
 }

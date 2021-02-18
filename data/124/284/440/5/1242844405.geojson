@@ -36,15 +36,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672009,
-        102072927
+        102072927,
+        85672009
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8550542
     },
     "wof:country":"ID",
-    "wof:geomhash":"c3a180b7e5fbc94766bd5dca97fefde3",
+    "wof:geomhash":"430942d6dcec0973a26fd3bdba74d6cb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -55,7 +55,14 @@
         }
     ],
     "wof:id":1242844405,
-    "wof:lastmodified":1537636390,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183772,
     "wof:name":"Umbulan Susuk",
     "wof:parent_id":102072927,
     "wof:placetype":"locality",
@@ -65,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    105.57486000000002,
+    105.57486,
     -4.62807,
-    105.57486000000002,
+    105.57486,
     -4.62807
 ],
-  "geometry": {"coordinates":[105.57486000000002,-4.62807],"type":"Point"}
+  "geometry": {"coordinates":[105.57486,-4.62807],"type":"Point"}
 }

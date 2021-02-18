@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073233
+        102073233,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2008480
     },
     "wof:country":"ID",
-    "wof:geomhash":"472aeff34af386ac8b36e755c4035755",
+    "wof:geomhash":"e51e23d47e029ac8b6dff338c2707d72",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1210007499,
-    "wof:lastmodified":1536372097,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179651,
     "wof:name":"Nayan",
     "wof:parent_id":102073233,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.72556000000002,
+    110.72556,
     -7.68639,
-    110.72556000000002,
+    110.72556,
     -7.68639
 ],
-  "geometry": {"coordinates":[110.72556000000002,-7.68639],"type":"Point"}
+  "geometry": {"coordinates":[110.72556,-7.68639],"type":"Point"}
 }

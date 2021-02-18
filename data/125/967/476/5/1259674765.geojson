@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072709
+        102072709,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1964871
     },
     "wof:country":"ID",
-    "wof:geomhash":"75ab65cec7d63a3714ef8315d268359e",
+    "wof:geomhash":"c5c056c2c1117c0eca0856b90346ff88",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1259674765,
-    "wof:lastmodified":1537076492,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613184871,
     "wof:name":"Kalibening",
     "wof:parent_id":102072709,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.33693999999998,
+    110.33694,
     -7.27639,
-    110.33693999999998,
+    110.33694,
     -7.27639
 ],
-  "geometry": {"coordinates":[110.33693999999998,-7.27639],"type":"Point"}
+  "geometry": {"coordinates":[110.33694,-7.27639],"type":"Point"}
 }

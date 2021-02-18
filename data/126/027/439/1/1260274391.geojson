@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073153
+        102073153,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6380936
     },
     "wof:country":"ID",
-    "wof:geomhash":"e06c53cc3735fcdde0f7d89820474e6d",
+    "wof:geomhash":"c919254ab478a60cc30fb9b6f6343bff",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1260274391,
-    "wof:lastmodified":1537628533,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613180446,
     "wof:name":"Karangwringin",
     "wof:parent_id":102073153,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.56638999999998,
+    109.56639,
     -7.37278,
-    109.56638999999998,
+    109.56639,
     -7.37278
 ],
-  "geometry": {"coordinates":[109.56638999999998,-7.37278],"type":"Point"}
+  "geometry": {"coordinates":[109.56639,-7.37278],"type":"Point"}
 }

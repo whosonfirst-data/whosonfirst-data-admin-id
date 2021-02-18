@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073193
+        102073193,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6404087
     },
     "wof:country":"ID",
-    "wof:geomhash":"1483f4788b2cfa13ba66f77e0e0117ed",
+    "wof:geomhash":"b0aa904d051933ea3032b9cd696f3eda",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1293733745,
-    "wof:lastmodified":1537628883,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613176655,
     "wof:name":"Blok Satu",
     "wof:parent_id":102073193,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.44138999999998,
+    108.44139,
     -6.42917,
-    108.44138999999998,
+    108.44139,
     -6.42917
 ],
-  "geometry": {"coordinates":[108.44138999999998,-6.42917],"type":"Point"}
+  "geometry": {"coordinates":[108.44139,-6.42917],"type":"Point"}
 }

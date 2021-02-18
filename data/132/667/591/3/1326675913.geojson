@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072739
+        102072739,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6582686
     },
     "wof:country":"ID",
-    "wof:geomhash":"1dcb94943d5734a6d8bdf541b02c8d81",
+    "wof:geomhash":"ceaab202d1b73d3606534158c878cb4d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1326675913,
-    "wof:lastmodified":1537629506,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613172528,
     "wof:name":"Sindanganom",
     "wof:parent_id":102072739,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.11556000000002,
+    108.11556,
     -6.99889,
-    108.11556000000002,
+    108.11556,
     -6.99889
 ],
-  "geometry": {"coordinates":[108.11556000000002,-6.99889],"type":"Point"}
+  "geometry": {"coordinates":[108.11556,-6.99889],"type":"Point"}
 }

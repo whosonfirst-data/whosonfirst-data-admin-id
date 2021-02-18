@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102073397
+        102073397,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1906314
     },
     "wof:country":"ID",
-    "wof:geomhash":"6dc230be92b50864a1c9d93c3a0b68b8",
+    "wof:geomhash":"e1634eb5d8840d4e062be7d83e1e6801",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1276856215,
-    "wof:lastmodified":1537069793,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177849,
     "wof:name":"Dukuhgebang",
     "wof:parent_id":102073397,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    112.76111000000002,
+    112.76111,
     -7.2775,
-    112.76111000000002,
+    112.76111,
     -7.2775
 ],
-  "geometry": {"coordinates":[112.76111000000002,-7.2775],"type":"Point"}
+  "geometry": {"coordinates":[112.76111,-7.2775],"type":"Point"}
 }

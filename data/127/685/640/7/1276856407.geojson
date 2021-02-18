@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102072917
+        102072917,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1972222
     },
     "wof:country":"ID",
-    "wof:geomhash":"a1c8370ae00a2353ef9b3fa3f55b148a",
+    "wof:geomhash":"d67d41185bfc78a32058a326e7c33f13",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1276856407,
-    "wof:lastmodified":1537069541,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177854,
     "wof:name":"Ketawanggede",
     "wof:parent_id":102072917,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    112.60056000000002,
+    112.60056,
     -7.95278,
-    112.60056000000002,
+    112.60056,
     -7.95278
 ],
-  "geometry": {"coordinates":[112.60056000000002,-7.95278],"type":"Point"}
+  "geometry": {"coordinates":[112.60056,-7.95278],"type":"Point"}
 }

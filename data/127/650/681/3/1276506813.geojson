@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072855
+        102072855,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6588274
     },
     "wof:country":"ID",
-    "wof:geomhash":"69f561d8b5172a6926fb22481dcbc9d1",
+    "wof:geomhash":"8c5663e858edc589c80c25e185bea3a4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1276506813,
-    "wof:lastmodified":1537629605,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177625,
     "wof:name":"Cigeblug",
     "wof:parent_id":102072855,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.01111000000002,
+    107.01111,
     -6.96778,
-    107.01111000000002,
+    107.01111,
     -6.96778
 ],
-  "geometry": {"coordinates":[107.01111000000002,-6.96778],"type":"Point"}
+  "geometry": {"coordinates":[107.01111,-6.96778],"type":"Point"}
 }

@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073295
+        102073295,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6581599
     },
     "wof:country":"ID",
-    "wof:geomhash":"7479ddc93c93f48a9e3c5b52855990aa",
+    "wof:geomhash":"03242d37aa358cc7871e7f7a56e1d336",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1276384061,
-    "wof:lastmodified":1537629477,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178217,
     "wof:name":"Babakansurupan",
     "wof:parent_id":102073295,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.73111000000002,
+    107.73111,
     -6.67611,
-    107.73111000000002,
+    107.73111,
     -6.67611
 ],
-  "geometry": {"coordinates":[107.73111000000002,-6.67611],"type":"Point"}
+  "geometry": {"coordinates":[107.73111,-6.67611],"type":"Point"}
 }

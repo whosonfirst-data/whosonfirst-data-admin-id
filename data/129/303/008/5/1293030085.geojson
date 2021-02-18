@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672067,
-        102072595
+        102072595,
+        85672067
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8531481
     },
     "wof:country":"ID",
-    "wof:geomhash":"e0dcca4d11a2ee524bcb3cf423e2bc36",
+    "wof:geomhash":"4d98ba2f2ad1326890d44c23b6020bff",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1293030085,
-    "wof:lastmodified":1537636353,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613176177,
     "wof:name":"Iskofog",
     "wof:parent_id":102072595,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    133.46473999999998,
+    133.46474,
     -0.84652,
-    133.46473999999998,
+    133.46474,
     -0.84652
 ],
-  "geometry": {"coordinates":[133.46473999999998,-0.84652],"type":"Point"}
+  "geometry": {"coordinates":[133.46474000000001,-0.84652],"type":"Point"}
 }

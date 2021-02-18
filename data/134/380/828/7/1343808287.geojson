@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672085,
-        102073503
+        102073503,
+        85672085
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1626878
     },
     "wof:country":"ID",
-    "wof:geomhash":"4f3604dc57af475e0313c89d5afa3d91",
+    "wof:geomhash":"2b12f87429aaf074579f6b67d1c2bca9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,7 +54,14 @@
         }
     ],
     "wof:id":1343808287,
-    "wof:lastmodified":1537626587,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175156,
     "wof:name":"Sinyingmayeku",
     "wof:parent_id":102073503,
     "wof:placetype":"locality",
@@ -64,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    127.86296000000002,
+    127.86296,
     1.28916,
-    127.86296000000002,
+    127.86296,
     1.28916
 ],
-  "geometry": {"coordinates":[127.86296000000002,1.28916],"type":"Point"}
+  "geometry": {"coordinates":[127.86296,1.28916],"type":"Point"}
 }

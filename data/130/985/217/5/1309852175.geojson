@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073295
+        102073295,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6568359
     },
     "wof:country":"ID",
-    "wof:geomhash":"46b6589e74cee67b2cce81a7617e0213",
+    "wof:geomhash":"716a115efe7ad5bc4d38dd3efe8a202a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1309852175,
-    "wof:lastmodified":1537629348,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613182315,
     "wof:name":"Salireja",
     "wof:parent_id":102073295,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.80306000000002,
+    107.80306,
     -6.37944,
-    107.80306000000002,
+    107.80306,
     -6.37944
 ],
-  "geometry": {"coordinates":[107.80306000000002,-6.37944],"type":"Point"}
+  "geometry": {"coordinates":[107.80306,-6.37944],"type":"Point"}
 }

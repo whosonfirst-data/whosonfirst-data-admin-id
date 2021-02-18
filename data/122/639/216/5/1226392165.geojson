@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073529
+        102073529,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6588082
     },
     "wof:country":"ID",
-    "wof:geomhash":"fc66fb74b1fb6c374015cadcf409d233",
+    "wof:geomhash":"f7e177588e82ee8de819f62e84aa58ce",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1226392165,
-    "wof:lastmodified":1537629598,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613186386,
     "wof:name":"Cimuncang",
     "wof:parent_id":102073529,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.08138999999998,
+    107.08139,
     -6.90056,
-    107.08138999999998,
+    107.08139,
     -6.90056
 ],
-  "geometry": {"coordinates":[107.08138999999998,-6.90056],"type":"Point"}
+  "geometry": {"coordinates":[107.08139,-6.90056],"type":"Point"}
 }

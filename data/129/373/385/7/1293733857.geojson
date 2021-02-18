@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073083
+        102073083,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1959710
     },
     "wof:country":"ID",
-    "wof:geomhash":"4b713903ece2b4df8ebf06a37783621c",
+    "wof:geomhash":"541a2138c16f13a1cb6bef97f03ff59a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,7 +54,14 @@
         }
     ],
     "wof:id":1293733857,
-    "wof:lastmodified":1537627518,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613176640,
     "wof:name":"Bojong Dua",
     "wof:parent_id":102073083,
     "wof:placetype":"locality",
@@ -64,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.80306000000002,
+    106.80306,
     -6.43472,
-    106.80306000000002,
+    106.80306,
     -6.43472
 ],
-  "geometry": {"coordinates":[106.80306000000002,-6.43472],"type":"Point"}
+  "geometry": {"coordinates":[106.80306,-6.43472],"type":"Point"}
 }

@@ -34,7 +34,7 @@
         "gn:id":6256258
     },
     "wof:country":"ID",
-    "wof:geomhash":"332b7cc5771852fab8deef8f596e8d99",
+    "wof:geomhash":"1f7cd6f0408cca19b55536f9d2132fa8",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209509189,
-    "wof:lastmodified":1536284937,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178928,
     "wof:name":"Seneng",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     110.77861,
-    -7.861110000000001,
+    -7.86111,
     110.77861,
-    -7.861110000000001
+    -7.86111
 ],
   "geometry": {"coordinates":[110.77861,-7.86111],"type":"Point"}
 }

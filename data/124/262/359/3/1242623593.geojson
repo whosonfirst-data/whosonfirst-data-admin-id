@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072937
+        102072937,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1942156
     },
     "wof:country":"ID",
-    "wof:geomhash":"0f4b9a1e70ba29b76cc25963a44f5471",
+    "wof:geomhash":"35268d4c43443f89426977ac4f776225",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1242623593,
-    "wof:lastmodified":1536996803,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183930,
     "wof:name":"Bendala",
     "wof:parent_id":102072937,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.45638999999998,
+    107.45639,
     -6.19306,
-    107.45638999999998,
+    107.45639,
     -6.19306
 ],
-  "geometry": {"coordinates":[107.45638999999998,-6.19306],"type":"Point"}
+  "geometry": {"coordinates":[107.45639,-6.19306],"type":"Point"}
 }

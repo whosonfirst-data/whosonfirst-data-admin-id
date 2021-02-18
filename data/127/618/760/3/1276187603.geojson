@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672037,
-        102073481
+        102073481,
+        85672037
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1937141
     },
     "wof:country":"ID",
-    "wof:geomhash":"63439f931b7ba9259f46ba6f93af9ba6",
+    "wof:geomhash":"a99ca520363f5a7412ba1787066386fb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1276187603,
-    "wof:lastmodified":1536973837,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177295,
     "wof:name":"Tasekmurak",
     "wof:parent_id":102073481,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    124.91306000000002,
+    124.91306,
     -9.46639,
-    124.91306000000002,
+    124.91306,
     -9.46639
 ],
-  "geometry": {"coordinates":[124.91306000000002,-9.46639],"type":"Point"}
+  "geometry": {"coordinates":[124.91306,-9.46639],"type":"Point"}
 }

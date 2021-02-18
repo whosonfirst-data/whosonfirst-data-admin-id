@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073471
+        102073471,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6584786
     },
     "wof:country":"ID",
-    "wof:geomhash":"093267911ceb50f50d33e24637d65dcd",
+    "wof:geomhash":"431ae6db1e3de5003891bf3c259cbb93",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1243323917,
-    "wof:lastmodified":1537629571,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183596,
     "wof:name":"Pasirangin",
     "wof:parent_id":102073471,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.48888999999998,
+    107.48889,
     -6.72417,
-    107.48888999999998,
+    107.48889,
     -6.72417
 ],
-  "geometry": {"coordinates":[107.48888999999998,-6.72417],"type":"Point"}
+  "geometry": {"coordinates":[107.48889,-6.72417],"type":"Point"}
 }

@@ -50,15 +50,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102072973
+        102072973,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6409393
     },
     "wof:country":"ID",
-    "wof:geomhash":"8ec3466fcaa47e4f260a19b0ea00828c",
+    "wof:geomhash":"3e106a608d75b4a619d9e71e934ca961",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -69,7 +69,14 @@
         }
     ],
     "wof:id":1226734795,
-    "wof:lastmodified":1564205256,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185453,
     "wof:name":"Wide",
     "wof:parent_id":102072973,
     "wof:placetype":"locality",
@@ -79,10 +86,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.32193999999998,
+    111.32194,
     -7.61139,
-    111.32193999999998,
+    111.32194,
     -7.61139
 ],
-  "geometry": {"coordinates":[111.32193999999998,-7.61139],"type":"Point"}
+  "geometry": {"coordinates":[111.32194,-7.61139],"type":"Point"}
 }

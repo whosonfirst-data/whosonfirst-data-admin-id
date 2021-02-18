@@ -34,7 +34,7 @@
         "gn:id":6263610
     },
     "wof:country":"ID",
-    "wof:geomhash":"d14621852a621af2be75fa9827410ce8",
+    "wof:geomhash":"7cc12b8b0c168a7b0d6f1bc3e70b9781",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209308389,
-    "wof:lastmodified":1536291114,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178490,
     "wof:name":"Sendangwuni",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -52,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.91306000000002,
-    -7.368889999999999,
-    110.91306000000002,
-    -7.368889999999999
+    110.91306,
+    -7.36889,
+    110.91306,
+    -7.36889
 ],
-  "geometry": {"coordinates":[110.91306000000002,-7.36889],"type":"Point"}
+  "geometry": {"coordinates":[110.91306,-7.36889],"type":"Point"}
 }

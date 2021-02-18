@@ -41,15 +41,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073295
+        102073295,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6582290
     },
     "wof:country":"ID",
-    "wof:geomhash":"5c6a5b01cde9ed234aed9cde23d36918",
+    "wof:geomhash":"38d2f0333321b5bef4a0189adcf36cf9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -60,7 +60,14 @@
         }
     ],
     "wof:id":1242824149,
-    "wof:lastmodified":1564200588,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183870,
     "wof:name":"Pangkalan",
     "wof:parent_id":102073295,
     "wof:placetype":"locality",
@@ -70,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.79361000000002,
+    107.79361,
     -6.6975,
-    107.79361000000002,
+    107.79361,
     -6.6975
 ],
-  "geometry": {"coordinates":[107.79361000000002,-6.6975],"type":"Point"}
+  "geometry": {"coordinates":[107.79361,-6.6975],"type":"Point"}
 }

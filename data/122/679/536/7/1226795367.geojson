@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072937
+        102072937,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6594743
     },
     "wof:country":"ID",
-    "wof:geomhash":"e63a4f60a2c499e210ef9332c8b4a278",
+    "wof:geomhash":"2cbf0b21b7e04f8bbbf2ceabed0b4921",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1226795367,
-    "wof:lastmodified":1537629802,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613186216,
     "wof:name":"Jatidua",
     "wof:parent_id":102072937,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.25388999999998,
+    107.25389,
     -6.33639,
-    107.25388999999998,
+    107.25389,
     -6.33639
 ],
-  "geometry": {"coordinates":[107.25388999999998,-6.33639],"type":"Point"}
+  "geometry": {"coordinates":[107.25389,-6.33639],"type":"Point"}
 }

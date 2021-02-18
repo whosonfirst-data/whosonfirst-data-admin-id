@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073313
+        102073313,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2002964
     },
     "wof:country":"ID",
-    "wof:geomhash":"6acab56c354e843d1228ed1b5415ad1d",
+    "wof:geomhash":"86ac42204d429810c2f9f4a5e05af7e2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1259672441,
-    "wof:lastmodified":1537079775,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613184874,
     "wof:name":"Tangkilan",
     "wof:parent_id":102073313,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.30861000000002,
+    110.30861,
     -7.93694,
-    110.30861000000002,
+    110.30861,
     -7.93694
 ],
-  "geometry": {"coordinates":[110.30861000000002,-7.93694],"type":"Point"}
+  "geometry": {"coordinates":[110.30861,-7.93694],"type":"Point"}
 }

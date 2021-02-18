@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073187
+        102073187,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6565260
     },
     "wof:country":"ID",
-    "wof:geomhash":"b04c94e532adc54395fd21313d55b746",
+    "wof:geomhash":"6f29d2fff8ce836af19205825fbfaa4d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1260172363,
-    "wof:lastmodified":1537629255,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613180515,
     "wof:name":"Tambakrejo",
     "wof:parent_id":102073187,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.87888999999998,
+    109.87889,
     -7.77972,
-    109.87888999999998,
+    109.87889,
     -7.77972
 ],
-  "geometry": {"coordinates":[109.87888999999998,-7.77972],"type":"Point"}
+  "geometry": {"coordinates":[109.87889,-7.77972],"type":"Point"}
 }

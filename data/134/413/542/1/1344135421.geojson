@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073469
+        102073469,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2010008
     },
     "wof:country":"ID",
-    "wof:geomhash":"bc7d36b177fc20259f231026e86b594c",
+    "wof:geomhash":"eac51cf7fc8d18886fc0480028dee44d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1344135421,
-    "wof:lastmodified":1536767909,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613174155,
     "wof:name":"Bojong Wetan",
     "wof:parent_id":102073469,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.14388999999998,
+    110.14389,
     -7.90639,
-    110.14388999999998,
+    110.14389,
     -7.90639
 ],
-  "geometry": {"coordinates":[110.14388999999998,-7.90639],"type":"Point"}
+  "geometry": {"coordinates":[110.14389,-7.90639],"type":"Point"}
 }

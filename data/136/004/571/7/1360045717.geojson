@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073295
+        102073295,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6568596
     },
     "wof:country":"ID",
-    "wof:geomhash":"cec8f97cb1381728c0845ad76e30c993",
+    "wof:geomhash":"31d482bf130d3192e5b4207a3a26ea3d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1360045717,
-    "wof:lastmodified":1537629356,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613182100,
     "wof:name":"Bunut Satu",
     "wof:parent_id":102073295,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.78943999999998,
+    107.78944,
     -6.48361,
-    107.78943999999998,
+    107.78944,
     -6.48361
 ],
-  "geometry": {"coordinates":[107.78943999999998,-6.48361],"type":"Point"}
+  "geometry": {"coordinates":[107.78944,-6.48361],"type":"Point"}
 }

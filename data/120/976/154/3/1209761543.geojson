@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671995,
-        102072687
+        102072687,
+        85671995
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1990971
     },
     "wof:country":"ID",
-    "wof:geomhash":"a05e76da94ddfb13cd1bbc5852252150",
+    "wof:geomhash":"7e3c17ce1eb9aa04c4bcdcc4b590c79d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1209761543,
-    "wof:lastmodified":1536388290,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178865,
     "wof:name":"Sepatandukuh",
     "wof:parent_id":102072687,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.58138999999998,
+    106.58139,
     -6.12111,
-    106.58138999999998,
+    106.58139,
     -6.12111
 ],
-  "geometry": {"coordinates":[106.58138999999998,-6.12111],"type":"Point"}
+  "geometry": {"coordinates":[106.58139,-6.12111],"type":"Point"}
 }

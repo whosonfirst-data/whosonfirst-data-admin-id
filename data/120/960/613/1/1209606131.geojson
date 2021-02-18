@@ -34,7 +34,7 @@
         "gn:id":1934339
     },
     "wof:country":"ID",
-    "wof:geomhash":"aafff33e907961aa69d7db92d3590e56",
+    "wof:geomhash":"d2234ea40bef6ab2c33935aeb7878b84",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209606131,
-    "wof:lastmodified":1536282006,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179118,
     "wof:name":"Gesingan",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     110.795,
-    -7.678889999999999,
+    -7.67889,
     110.795,
-    -7.678889999999999
+    -7.67889
 ],
   "geometry": {"coordinates":[110.795,-7.67889],"type":"Point"}
 }

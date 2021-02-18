@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072733
+        102072733,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1935725
     },
     "wof:country":"ID",
-    "wof:geomhash":"c2ced6b042bd8963ae5e007b6886ee25",
+    "wof:geomhash":"aa280ffb82ef040bcbc16150c5d20257",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1326524223,
-    "wof:lastmodified":1536994850,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613173231,
     "wof:name":"Brangkas",
     "wof:parent_id":102072733,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.99056000000002,
+    110.99056,
     -7.62,
-    110.99056000000002,
+    110.99056,
     -7.62
 ],
-  "geometry": {"coordinates":[110.99056000000002,-7.62],"type":"Point"}
+  "geometry": {"coordinates":[110.99056,-7.62],"type":"Point"}
 }

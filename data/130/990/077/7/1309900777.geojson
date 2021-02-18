@@ -53,15 +53,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073313
+        102073313,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2003798
     },
     "wof:country":"ID",
-    "wof:geomhash":"2ea328b0cecb52fdad7b954cb000d276",
+    "wof:geomhash":"f429ee5fe9545e5788765196e5ae6db0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -72,7 +72,14 @@
         }
     ],
     "wof:id":1309900777,
-    "wof:lastmodified":1564195592,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613182172,
     "wof:name":"Kowang",
     "wof:parent_id":102073313,
     "wof:placetype":"locality",
@@ -82,10 +89,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.37888999999998,
+    110.37889,
     -7.90056,
-    110.37888999999998,
+    110.37889,
     -7.90056
 ],
-  "geometry": {"coordinates":[110.37888999999998,-7.90056],"type":"Point"}
+  "geometry": {"coordinates":[110.37889,-7.90056],"type":"Point"}
 }

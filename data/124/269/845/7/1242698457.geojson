@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072715
+        102072715,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6373827
     },
     "wof:country":"ID",
-    "wof:geomhash":"b2484a813c84d1e0f425a2ed5bf4d117",
+    "wof:geomhash":"1044726abd1f7dc2a3d25ac4b0b98141",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1242698457,
-    "wof:lastmodified":1537628409,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183316,
     "wof:name":"Pekutukan",
     "wof:parent_id":102072715,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.13611000000002,
+    109.13611,
     -7.53417,
-    109.13611000000002,
+    109.13611,
     -7.53417
 ],
-  "geometry": {"coordinates":[109.13611000000002,-7.53417],"type":"Point"}
+  "geometry": {"coordinates":[109.13611,-7.53417],"type":"Point"}
 }

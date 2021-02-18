@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672009,
-        1108796809
+        1108796809,
+        85672009
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7666577
     },
     "wof:country":"ID",
-    "wof:geomhash":"657d8746d17ae3c81b41858894f1e03d",
+    "wof:geomhash":"a70ac02837b69cf18b52ec010adacfc7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1225818255,
-    "wof:lastmodified":1537634217,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185836,
     "wof:name":"Patahan",
     "wof:parent_id":1108796809,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    105.18283999999998,
+    105.18284,
     -5.32834,
-    105.18283999999998,
+    105.18284,
     -5.32834
 ],
-  "geometry": {"coordinates":[105.18283999999998,-5.32834],"type":"Point"}
+  "geometry": {"coordinates":[105.18284,-5.32834],"type":"Point"}
 }

@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102073063
+        102073063,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1970885
     },
     "wof:country":"ID",
-    "wof:geomhash":"7e5c1406095c6d73c61dadcf6881e9c5",
+    "wof:geomhash":"a5ee4c7c1288b124a6542b60b4cb75a2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1209710731,
-    "wof:lastmodified":1536390815,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178824,
     "wof:name":"Kojan",
     "wof:parent_id":102073063,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    112.86388999999998,
+    112.86389,
     -7.02111,
-    112.86388999999998,
+    112.86389,
     -7.02111
 ],
-  "geometry": {"coordinates":[112.86388999999998,-7.02111],"type":"Point"}
+  "geometry": {"coordinates":[112.86389,-7.02111],"type":"Point"}
 }

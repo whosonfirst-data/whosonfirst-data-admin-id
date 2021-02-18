@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072733
+        102072733,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6560602
     },
     "wof:country":"ID",
-    "wof:geomhash":"40ea5d5db82b0ac2104705eed95fc241",
+    "wof:geomhash":"654dc783043f966a0cfdaba6c639f79f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1243168405,
-    "wof:lastmodified":1537629140,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613184121,
     "wof:name":"Bajang Wetan",
     "wof:parent_id":102072733,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.07193999999998,
+    111.07194,
     -7.74889,
-    111.07193999999998,
+    111.07194,
     -7.74889
 ],
-  "geometry": {"coordinates":[111.07193999999998,-7.74889],"type":"Point"}
+  "geometry": {"coordinates":[111.07194,-7.74889],"type":"Point"}
 }

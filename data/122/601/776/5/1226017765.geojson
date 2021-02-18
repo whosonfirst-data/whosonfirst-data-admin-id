@@ -62,15 +62,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672009,
-        102072927
+        102072927,
+        85672009
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7666947
     },
     "wof:country":"ID",
-    "wof:geomhash":"654ddf39f63df71283a9e8deb678f907",
+    "wof:geomhash":"9f13655e7741765d35fc738d97ed95dd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,7 +81,14 @@
         }
     ],
     "wof:id":1226017765,
-    "wof:lastmodified":1564208227,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613186408,
     "wof:name":"Tempel",
     "wof:parent_id":102072927,
     "wof:placetype":"locality",
@@ -91,10 +98,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    105.22641000000002,
+    105.22641,
     -5.1493,
-    105.22641000000002,
+    105.22641,
     -5.1493
 ],
-  "geometry": {"coordinates":[105.22641000000002,-5.1493],"type":"Point"}
+  "geometry": {"coordinates":[105.22641,-5.1493],"type":"Point"}
 }

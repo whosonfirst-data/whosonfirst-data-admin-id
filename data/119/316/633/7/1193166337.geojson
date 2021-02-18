@@ -32,8 +32,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671977,
         102073415,
+        85671977,
         1108805993
     ],
     "wof:breaches":[],
@@ -41,7 +41,7 @@
         "gn:id":8613637
     },
     "wof:country":"ID",
-    "wof:geomhash":"678d890bcac99337b015401048cae06d",
+    "wof:geomhash":"b3a0322bce85503b35cf30bb55deee00",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -59,7 +59,14 @@
         }
     ],
     "wof:id":1193166337,
-    "wof:lastmodified":1537636517,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613180097,
     "wof:name":"Liang Biadung",
     "wof:parent_id":102073415,
     "wof:placetype":"locality",
@@ -69,10 +76,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    115.73118999999998,
+    115.73119,
     3.88174,
-    115.73118999999998,
+    115.73119,
     3.88174
 ],
-  "geometry": {"coordinates":[115.73118999999998,3.88174],"type":"Point"}
+  "geometry": {"coordinates":[115.73119,3.88174],"type":"Point"}
 }

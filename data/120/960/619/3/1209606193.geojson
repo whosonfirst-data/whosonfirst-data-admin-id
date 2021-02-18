@@ -34,7 +34,7 @@
         "gn:id":2008669
     },
     "wof:country":"ID",
-    "wof:geomhash":"81e408f007e2e79b8cda4e038b16941f",
+    "wof:geomhash":"3c2e0ca8fa81a90b84383a92f394f16f",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209606193,
-    "wof:lastmodified":1536282004,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179104,
     "wof:name":"Banaran",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     110.73583,
-    -7.7058300000000015,
+    -7.70583,
     110.73583,
-    -7.7058300000000015
+    -7.70583
 ],
   "geometry": {"coordinates":[110.73583000000001,-7.70583],"type":"Point"}
 }

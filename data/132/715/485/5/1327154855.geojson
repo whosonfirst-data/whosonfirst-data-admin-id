@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072715
+        102072715,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6387703
     },
     "wof:country":"ID",
-    "wof:geomhash":"1973cf0aeca2934cdff99321b22eb0db",
+    "wof:geomhash":"9ea3a52ccb7fe1a59bd403682109dfcd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1327154855,
-    "wof:lastmodified":1537628649,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613172787,
     "wof:name":"Krapyak",
     "wof:parent_id":102072715,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.98111000000002,
+    108.98111,
     -7.46444,
-    108.98111000000002,
+    108.98111,
     -7.46444
 ],
-  "geometry": {"coordinates":[108.98111000000002,-7.46444],"type":"Point"}
+  "geometry": {"coordinates":[108.98111,-7.46444],"type":"Point"}
 }

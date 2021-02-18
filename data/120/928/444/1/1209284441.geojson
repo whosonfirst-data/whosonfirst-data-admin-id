@@ -37,7 +37,7 @@
         "gn:id":7666615
     },
     "wof:country":"ID",
-    "wof:geomhash":"83b0f4e1a190c86a77fa0ab387db8943",
+    "wof:geomhash":"52e4e12ec2e724f1895f8bd4bb5bfd74",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -45,7 +45,14 @@
         }
     ],
     "wof:id":1209284441,
-    "wof:lastmodified":1537634219,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179503,
     "wof:name":"Cepengauban",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -55,10 +62,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    105.22301000000002,
+    105.22301,
     -5.33794,
-    105.22301000000002,
+    105.22301,
     -5.33794
 ],
-  "geometry": {"coordinates":[105.22301000000002,-5.33794],"type":"Point"}
+  "geometry": {"coordinates":[105.22301,-5.33794],"type":"Point"}
 }

@@ -34,7 +34,7 @@
         "gn:id":6264673
     },
     "wof:country":"ID",
-    "wof:geomhash":"84803101c5565aee7eb5045ef44877cb",
+    "wof:geomhash":"cbeb642a1f3d6a67c47f56dade56614e",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209024317,
-    "wof:lastmodified":1536300050,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179208,
     "wof:name":"Sompilan",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     110.38833,
-    -7.681389999999999,
+    -7.68139,
     110.38833,
-    -7.681389999999999
+    -7.68139
 ],
   "geometry": {"coordinates":[110.38833,-7.68139],"type":"Point"}
 }

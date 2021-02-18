@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073313
+        102073313,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2002975
     },
     "wof:country":"ID",
-    "wof:geomhash":"3cc8d875c54d833353822019c6d14591",
+    "wof:geomhash":"042108b33b22d483bc525a72510db594",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1276650089,
-    "wof:lastmodified":1536850293,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178155,
     "wof:name":"Kuroboyo",
     "wof:parent_id":102073313,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.26888999999998,
+    110.26889,
     -7.93472,
-    110.26888999999998,
+    110.26889,
     -7.93472
 ],
-  "geometry": {"coordinates":[110.26888999999998,-7.93472],"type":"Point"}
+  "geometry": {"coordinates":[110.26889,-7.93472],"type":"Point"}
 }

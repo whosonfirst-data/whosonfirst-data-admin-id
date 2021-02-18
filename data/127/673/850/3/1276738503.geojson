@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672037,
-        102073481
+        102073481,
+        85672037
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1940041
     },
     "wof:country":"ID",
-    "wof:geomhash":"a78b695145bfd1b12df95af15d7b5f2f",
+    "wof:geomhash":"47e4a08f3093719c86187789d4c9e6c0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1276738503,
-    "wof:lastmodified":1536733235,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177277,
     "wof:name":"Kateri B",
     "wof:parent_id":102073481,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    124.86556000000002,
+    124.86556,
     -9.55278,
-    124.86556000000002,
+    124.86556,
     -9.55278
 ],
-  "geometry": {"coordinates":[124.86556000000002,-9.55278],"type":"Point"}
+  "geometry": {"coordinates":[124.86556,-9.55278],"type":"Point"}
 }

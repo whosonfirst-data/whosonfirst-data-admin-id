@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672009,
-        1108796809
+        1108796809,
+        85672009
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7665540
     },
     "wof:country":"ID",
-    "wof:geomhash":"fe3428362b6af0cf229bbd64fdd677dc",
+    "wof:geomhash":"4a8869ba753caa24cf08f412a11bd487",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,7 +54,14 @@
         }
     ],
     "wof:id":1276745955,
-    "wof:lastmodified":1537634185,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177265,
     "wof:name":"Pematangbo",
     "wof:parent_id":1108796809,
     "wof:placetype":"locality",
@@ -64,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    105.75388999999998,
+    105.75389,
     -5.646,
-    105.75388999999998,
+    105.75389,
     -5.646
 ],
-  "geometry": {"coordinates":[105.75388999999998,-5.646],"type":"Point"}
+  "geometry": {"coordinates":[105.75389,-5.646],"type":"Point"}
 }

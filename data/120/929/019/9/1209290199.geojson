@@ -34,7 +34,7 @@
         "gn:id":1937406
     },
     "wof:country":"ID",
-    "wof:geomhash":"1052c60c41df66d7652fd1f3eb81baa2",
+    "wof:geomhash":"3f57f1860232e56c071eebd81981c904",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209290199,
-    "wof:lastmodified":1536291720,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179279,
     "wof:name":"Wekiik",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -52,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    124.93361000000002,
+    124.93361,
     -9.33139,
-    124.93361000000002,
+    124.93361,
     -9.33139
 ],
-  "geometry": {"coordinates":[124.93361000000002,-9.33139],"type":"Point"}
+  "geometry": {"coordinates":[124.93361,-9.33139],"type":"Point"}
 }

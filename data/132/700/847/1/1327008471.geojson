@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073313
+        102073313,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2002836
     },
     "wof:country":"ID",
-    "wof:geomhash":"7e78a2813cd5c070e42a78e173b12f30",
+    "wof:geomhash":"89c40cff938673a1d1c9a5276614ae9e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1327008471,
-    "wof:lastmodified":1536795323,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613172243,
     "wof:name":"Sorok",
     "wof:parent_id":102073313,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.33556000000002,
+    110.33556,
     -7.93167,
-    110.33556000000002,
+    110.33556,
     -7.93167
 ],
-  "geometry": {"coordinates":[110.33556000000002,-7.93167],"type":"Point"}
+  "geometry": {"coordinates":[110.33556,-7.93167],"type":"Point"}
 }

@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073405
+        102073405,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1935507
     },
     "wof:country":"ID",
-    "wof:geomhash":"45518e01595e8399814cda93da6861cf",
+    "wof:geomhash":"7001887d9c1eb7d2f5030e31b03d5dbf",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1293386281,
-    "wof:lastmodified":1536933711,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175321,
     "wof:name":"Jetak",
     "wof:parent_id":102073405,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.88611000000002,
+    110.88611,
     -7.57472,
-    110.88611000000002,
+    110.88611,
     -7.57472
 ],
-  "geometry": {"coordinates":[110.88611000000002,-7.57472],"type":"Point"}
+  "geometry": {"coordinates":[110.88611,-7.57472],"type":"Point"}
 }

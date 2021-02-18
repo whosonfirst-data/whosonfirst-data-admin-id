@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072929
+        102072929,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6409521
     },
     "wof:country":"ID",
-    "wof:geomhash":"a915e79f45ff89a9b92fd95a46d927c9",
+    "wof:geomhash":"43a136ac1c2b39eefec609f5286ca749",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1327227811,
-    "wof:lastmodified":1537629044,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613172696,
     "wof:name":"Depokan",
     "wof:parent_id":102072929,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.11388999999998,
+    111.11389,
     -7.38917,
-    111.11388999999998,
+    111.11389,
     -7.38917
 ],
-  "geometry": {"coordinates":[111.11388999999998,-7.38917],"type":"Point"}
+  "geometry": {"coordinates":[111.11389,-7.38917],"type":"Point"}
 }

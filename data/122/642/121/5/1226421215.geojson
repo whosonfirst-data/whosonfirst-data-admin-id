@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073265
+        102073265,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6265301
     },
     "wof:country":"ID",
-    "wof:geomhash":"cb351cf06b18e66f9fc61dd99fba700b",
+    "wof:geomhash":"2de48d83eee931f2ef3228f151c1df28",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1226421215,
-    "wof:lastmodified":1536680838,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185400,
     "wof:name":"Jambon Kidul",
     "wof:parent_id":102073265,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.47556000000002,
+    110.47556,
     -7.69583,
-    110.47556000000002,
+    110.47556,
     -7.69583
 ],
-  "geometry": {"coordinates":[110.47556000000002,-7.69583],"type":"Point"}
+  "geometry": {"coordinates":[110.47556,-7.69583],"type":"Point"}
 }

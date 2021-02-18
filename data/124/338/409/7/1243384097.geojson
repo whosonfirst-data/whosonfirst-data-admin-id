@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072733
+        102072733,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6570469
     },
     "wof:country":"ID",
-    "wof:geomhash":"21a25714603ec8afe7f92fb88f77ab2e",
+    "wof:geomhash":"b288567a0fc89ad7343205ac3209ed11",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1243384097,
-    "wof:lastmodified":1537629392,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613182834,
     "wof:name":"Ngungkal",
     "wof:parent_id":102072733,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.07361000000002,
+    111.07361,
     -7.59333,
-    111.07361000000002,
+    111.07361,
     -7.59333
 ],
-  "geometry": {"coordinates":[111.07361000000002,-7.59333],"type":"Point"}
+  "geometry": {"coordinates":[111.07361,-7.59333],"type":"Point"}
 }

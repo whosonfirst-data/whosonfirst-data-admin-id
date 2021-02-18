@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072921
+        102072921,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6390247
     },
     "wof:country":"ID",
-    "wof:geomhash":"65f9dbbc1aedca2f358a1fe5de581512",
+    "wof:geomhash":"5e87e8c3fb23d8b3aacdf9dcebf2ddf4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1310196227,
-    "wof:lastmodified":1537628711,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181427,
     "wof:name":"Jompo",
     "wof:parent_id":102072921,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.33693999999998,
+    109.33694,
     -7.43778,
-    109.33693999999998,
+    109.33694,
     -7.43778
 ],
-  "geometry": {"coordinates":[109.33693999999998,-7.43778],"type":"Point"}
+  "geometry": {"coordinates":[109.33694,-7.43778],"type":"Point"}
 }

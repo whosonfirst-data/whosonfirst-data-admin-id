@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073187
+        102073187,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6565256
     },
     "wof:country":"ID",
-    "wof:geomhash":"1efba890f25c8bfe6196176290652dbc",
+    "wof:geomhash":"f31649bc091d33dfb8aadb3db2fe1c66",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1326921515,
-    "wof:lastmodified":1537629254,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613172569,
     "wof:name":"Galur",
     "wof:parent_id":102073187,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.88611000000002,
+    109.88611,
     -7.78278,
-    109.88611000000002,
+    109.88611,
     -7.78278
 ],
-  "geometry": {"coordinates":[109.88611000000002,-7.78278],"type":"Point"}
+  "geometry": {"coordinates":[109.88611,-7.78278],"type":"Point"}
 }

@@ -38,15 +38,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073469
+        102073469,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2010034
     },
     "wof:country":"ID",
-    "wof:geomhash":"ebe0156d006d06f2d9a289ce3024dcde",
+    "wof:geomhash":"e9b1cde9ac17be9759c882d0835e8b9d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -57,7 +57,14 @@
         }
     ],
     "wof:id":1242572779,
-    "wof:lastmodified":1564198404,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183148,
     "wof:name":"Kauman",
     "wof:parent_id":102073469,
     "wof:placetype":"locality",
@@ -67,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.14388999999998,
+    110.14389,
     -7.90083,
-    110.14388999999998,
+    110.14389,
     -7.90083
 ],
-  "geometry": {"coordinates":[110.14388999999998,-7.90083],"type":"Point"}
+  "geometry": {"coordinates":[110.14389,-7.90083],"type":"Point"}
 }

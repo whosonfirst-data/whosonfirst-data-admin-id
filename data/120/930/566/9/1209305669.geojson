@@ -34,7 +34,7 @@
         "gn:id":6262753
     },
     "wof:country":"ID",
-    "wof:geomhash":"48f22c1e985d219c8ee827cde8fe32fc",
+    "wof:geomhash":"b0e7f39924058c9cc028f9be01f08a96",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209305669,
-    "wof:lastmodified":1536291205,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178471,
     "wof:name":"Ngrendeng Kulon",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     110.80111,
-    -7.4127800000000015,
+    -7.41278,
     110.80111,
-    -7.4127800000000015
+    -7.41278
 ],
   "geometry": {"coordinates":[110.80110999999999,-7.41278],"type":"Point"}
 }

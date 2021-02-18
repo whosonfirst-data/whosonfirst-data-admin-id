@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072921
+        102072921,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6379105
     },
     "wof:country":"ID",
-    "wof:geomhash":"5d2acec0c6646fc49c282c33c0a830ba",
+    "wof:geomhash":"e101d515c4768f3047140e3908361ff6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1226666819,
-    "wof:lastmodified":1537628520,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185763,
     "wof:name":"Bandingan",
     "wof:parent_id":102072921,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.49056000000002,
+    109.49056,
     -7.35667,
-    109.49056000000002,
+    109.49056,
     -7.35667
 ],
-  "geometry": {"coordinates":[109.49056000000002,-7.35667],"type":"Point"}
+  "geometry": {"coordinates":[109.49056,-7.35667],"type":"Point"}
 }

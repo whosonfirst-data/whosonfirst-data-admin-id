@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073169
+        102073169,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6200910
     },
     "wof:country":"ID",
-    "wof:geomhash":"37776ce79600c44c74e2cdfef4c16c30",
+    "wof:geomhash":"68b5a1d9678734ad6aa26b09a1a2001d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1225964855,
-    "wof:lastmodified":1536840738,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185945,
     "wof:name":"Watugede",
     "wof:parent_id":102073169,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.14806000000002,
+    110.14806,
     -7.28528,
-    110.14806000000002,
+    110.14806,
     -7.28528
 ],
-  "geometry": {"coordinates":[110.14806000000002,-7.28528],"type":"Point"}
+  "geometry": {"coordinates":[110.14806,-7.28528],"type":"Point"}
 }

@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073505
+        102073505,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6396950
     },
     "wof:country":"ID",
-    "wof:geomhash":"ea3cf1ccc1a8e22d268921c62ba275bb",
+    "wof:geomhash":"d6aea609aee183c573bfa7910e61723c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1293743819,
-    "wof:lastmodified":1537628769,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613176723,
     "wof:name":"Pesindangan",
     "wof:parent_id":102073505,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.48888999999998,
+    108.48889,
     -6.74833,
-    108.48888999999998,
+    108.48889,
     -6.74833
 ],
-  "geometry": {"coordinates":[108.48888999999998,-6.74833],"type":"Point"}
+  "geometry": {"coordinates":[108.48889,-6.74833],"type":"Point"}
 }

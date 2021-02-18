@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073569
+        102073569,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6401487
     },
     "wof:country":"ID",
-    "wof:geomhash":"052613d8a7b33f1486ff615b8b6d1984",
+    "wof:geomhash":"163f2bc8ef4c89a6f12e5b375cf61b79",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1310365573,
-    "wof:lastmodified":1537628843,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181018,
     "wof:name":"Dusunwage",
     "wof:parent_id":102073569,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.49611000000002,
+    108.49611,
     -6.86889,
-    108.49611000000002,
+    108.49611,
     -6.86889
 ],
-  "geometry": {"coordinates":[108.49611000000002,-6.86889],"type":"Point"}
+  "geometry": {"coordinates":[108.49611,-6.86889],"type":"Point"}
 }

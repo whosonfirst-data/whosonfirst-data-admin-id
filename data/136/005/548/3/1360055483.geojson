@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672009,
-        102072615
+        102072615,
+        85672009
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7667000
     },
     "wof:country":"ID",
-    "wof:geomhash":"38a30a2f113a40db89b32bccce24ba7d",
+    "wof:geomhash":"7911e8208c267fe96061544a8da45dd1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,7 +54,14 @@
         }
     ],
     "wof:id":1360055483,
-    "wof:lastmodified":1537634232,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613182115,
     "wof:name":"Bumijawa Baru Satu",
     "wof:parent_id":102072615,
     "wof:placetype":"locality",
@@ -64,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    105.46448999999998,
+    105.46449,
     -5.0298,
-    105.46448999999998,
+    105.46449,
     -5.0298
 ],
-  "geometry": {"coordinates":[105.46448999999998,-5.0298],"type":"Point"}
+  "geometry": {"coordinates":[105.46449,-5.0298],"type":"Point"}
 }

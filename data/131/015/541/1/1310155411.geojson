@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073217
+        102073217,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6597259
     },
     "wof:country":"ID",
-    "wof:geomhash":"60d790a059a0f496ff313923e8d85a4c",
+    "wof:geomhash":"e0bf87d2b6f0f498b6ebcf3be515b4e9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1310155411,
-    "wof:lastmodified":1537629881,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613180736,
     "wof:name":"Legokayung",
     "wof:parent_id":102073217,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.85056000000002,
+    106.85056,
     -6.72611,
-    106.85056000000002,
+    106.85056,
     -6.72611
 ],
-  "geometry": {"coordinates":[106.85056000000002,-6.72611],"type":"Point"}
+  "geometry": {"coordinates":[106.85056,-6.72611],"type":"Point"}
 }

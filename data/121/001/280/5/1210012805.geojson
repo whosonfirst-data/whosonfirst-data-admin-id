@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073405
+        102073405,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1934776
     },
     "wof:country":"ID",
-    "wof:geomhash":"f286a092a191e6c21f02983d6e16910a",
+    "wof:geomhash":"7739c9cddc6f996f3578207e5f76666b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1210012805,
-    "wof:lastmodified":1536396431,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179669,
     "wof:name":"Dipan",
     "wof:parent_id":102073405,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.89806000000002,
+    110.89806,
     -7.6375,
-    110.89806000000002,
+    110.89806,
     -7.6375
 ],
-  "geometry": {"coordinates":[110.89806000000002,-7.6375],"type":"Point"}
+  "geometry": {"coordinates":[110.89806,-7.6375],"type":"Point"}
 }

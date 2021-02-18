@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        1108796793
+        1108796793,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6583391
     },
     "wof:country":"ID",
-    "wof:geomhash":"4d47d29df6f3d4b9b133af7dac8d5c6b",
+    "wof:geomhash":"a932decf788209e6cb11bb041261b838",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1226696207,
-    "wof:lastmodified":1537629524,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185619,
     "wof:name":"Pasirjenjing",
     "wof:parent_id":1108796793,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.52443999999998,
+    107.52444,
     -6.81806,
-    107.52443999999998,
+    107.52444,
     -6.81806
 ],
-  "geometry": {"coordinates":[107.52443999999998,-6.81806],"type":"Point"}
+  "geometry": {"coordinates":[107.52444,-6.81806],"type":"Point"}
 }

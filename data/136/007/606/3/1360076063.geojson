@@ -38,15 +38,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072819
+        102072819,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6387890
     },
     "wof:country":"ID",
-    "wof:geomhash":"c1cb181c0092de62974266486d9f5ed5",
+    "wof:geomhash":"ecee6c44b58547b0087eb34d4db12a07",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -57,7 +57,14 @@
         }
     ],
     "wof:id":1360076063,
-    "wof:lastmodified":1564194680,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181864,
     "wof:name":"Legok",
     "wof:parent_id":102072819,
     "wof:placetype":"locality",
@@ -67,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.88611000000002,
+    108.88611,
     -7.29417,
-    108.88611000000002,
+    108.88611,
     -7.29417
 ],
-  "geometry": {"coordinates":[108.88611000000002,-7.29417],"type":"Point"}
+  "geometry": {"coordinates":[108.88611,-7.29417],"type":"Point"}
 }

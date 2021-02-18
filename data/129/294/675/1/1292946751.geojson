@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671995,
-        102072687
+        102072687,
+        85671995
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1988225
     },
     "wof:country":"ID",
-    "wof:geomhash":"687633d1246831028493dc61f3984758",
+    "wof:geomhash":"13bc135f66ddd361f8b580d8926b71d1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1292946751,
-    "wof:lastmodified":1537066559,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175679,
     "wof:name":"Manungtung Pos",
     "wof:parent_id":102072687,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.58138999999998,
+    106.58139,
     -6.29056,
-    106.58138999999998,
+    106.58139,
     -6.29056
 ],
-  "geometry": {"coordinates":[106.58138999999998,-6.29056],"type":"Point"}
+  "geometry": {"coordinates":[106.58139,-6.29056],"type":"Point"}
 }

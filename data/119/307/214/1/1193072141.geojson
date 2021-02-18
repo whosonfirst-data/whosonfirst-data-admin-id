@@ -41,15 +41,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672115,
-        102073423
+        102073423,
+        85672115
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8520061
     },
     "wof:country":"ID",
-    "wof:geomhash":"fea137e22154605a0e5d016883cddf88",
+    "wof:geomhash":"d5a02fbb7f0844b8f871b6b78cf0fd97",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -60,7 +60,14 @@
         }
     ],
     "wof:id":1193072141,
-    "wof:lastmodified":1564187879,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179719,
     "wof:name":"Kopi",
     "wof:parent_id":102073423,
     "wof:placetype":"locality",
@@ -70,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    138.03166000000002,
+    138.03166,
     -5.06862,
-    138.03166000000002,
+    138.03166,
     -5.06862
 ],
-  "geometry": {"coordinates":[138.03166000000002,-5.06862],"type":"Point"}
+  "geometry": {"coordinates":[138.03165999999999,-5.06862],"type":"Point"}
 }

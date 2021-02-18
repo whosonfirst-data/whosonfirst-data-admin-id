@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073187
+        102073187,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6566997
     },
     "wof:country":"ID",
-    "wof:geomhash":"96d40186bad21008f79f3e5a7bbf2e53",
+    "wof:geomhash":"1799183041666ce50b598c511972c999",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1226263265,
-    "wof:lastmodified":1537629309,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185389,
     "wof:name":"Petir",
     "wof:parent_id":102073187,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.92806000000002,
+    109.92806,
     -7.57472,
-    109.92806000000002,
+    109.92806,
     -7.57472
 ],
-  "geometry": {"coordinates":[109.92806000000002,-7.57472],"type":"Point"}
+  "geometry": {"coordinates":[109.92806,-7.57472],"type":"Point"}
 }

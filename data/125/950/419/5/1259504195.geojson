@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072921
+        102072921,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6390659
     },
     "wof:country":"ID",
-    "wof:geomhash":"d428a474e6023af05c0d6dd945105c40",
+    "wof:geomhash":"cfc2b9d8c89a40b3bca068f776f3218b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1259504195,
-    "wof:lastmodified":1537628724,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613184751,
     "wof:name":"Panempang",
     "wof:parent_id":102072921,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.29361000000002,
+    109.29361,
     -7.31722,
-    109.29361000000002,
+    109.29361,
     -7.31722
 ],
-  "geometry": {"coordinates":[109.29361000000002,-7.31722],"type":"Point"}
+  "geometry": {"coordinates":[109.29361,-7.31722],"type":"Point"}
 }

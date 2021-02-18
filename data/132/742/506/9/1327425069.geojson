@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072857
+        102072857,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6199596
     },
     "wof:country":"ID",
-    "wof:geomhash":"c7bcc6741f615c41f8600dddf1ce7124",
+    "wof:geomhash":"eb514f9d11a91a82b5fda9b51b82374d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1327425069,
-    "wof:lastmodified":1536691599,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613173500,
     "wof:name":"Sabrang Kulon",
     "wof:parent_id":102072857,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.05861000000002,
+    110.05861,
     -7.49639,
-    110.05861000000002,
+    110.05861,
     -7.49639
 ],
-  "geometry": {"coordinates":[110.05861000000002,-7.49639],"type":"Point"}
+  "geometry": {"coordinates":[110.05861,-7.49639],"type":"Point"}
 }

@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073265
+        102073265,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6264340
     },
     "wof:country":"ID",
-    "wof:geomhash":"195645fded72d8985b179da0ec197e5d",
+    "wof:geomhash":"51a58be9d1e8cb89cb8758bf79a139fb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1277065329,
-    "wof:lastmodified":1536792726,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613176923,
     "wof:name":"Gesikan",
     "wof:parent_id":102073265,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.32361000000002,
+    110.32361,
     -7.73083,
-    110.32361000000002,
+    110.32361,
     -7.73083
 ],
-  "geometry": {"coordinates":[110.32361000000002,-7.73083],"type":"Point"}
+  "geometry": {"coordinates":[110.32361,-7.73083],"type":"Point"}
 }

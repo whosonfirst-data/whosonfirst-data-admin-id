@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072949
+        102072949,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1965015
     },
     "wof:country":"ID",
-    "wof:geomhash":"236d767bab943d2e3badcc70a8da5be6",
+    "wof:geomhash":"32f2004034e9af6b96e8edc8aec8ab41",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,7 +54,14 @@
         }
     ],
     "wof:id":1243514749,
-    "wof:lastmodified":1537627790,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183671,
     "wof:name":"Cipadati",
     "wof:parent_id":102072949,
     "wof:placetype":"locality",
@@ -64,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.73111000000002,
+    107.73111,
     -6.92556,
-    107.73111000000002,
+    107.73111,
     -6.92556
 ],
-  "geometry": {"coordinates":[107.73111000000002,-6.92556],"type":"Point"}
+  "geometry": {"coordinates":[107.73111,-6.92556],"type":"Point"}
 }

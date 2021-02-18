@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072819
+        102072819,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6385871
     },
     "wof:country":"ID",
-    "wof:geomhash":"9bcdf31627f4cb2f167965fb1bb02ec1",
+    "wof:geomhash":"c4c805bccd5ae57c24186075196077cb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1293709713,
-    "wof:lastmodified":1537628590,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175808,
     "wof:name":"Wujil",
     "wof:parent_id":102072819,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.07361000000002,
+    109.07361,
     -7.6225,
-    109.07361000000002,
+    109.07361,
     -7.6225
 ],
-  "geometry": {"coordinates":[109.07361000000002,-7.6225],"type":"Point"}
+  "geometry": {"coordinates":[109.07361,-7.6225],"type":"Point"}
 }

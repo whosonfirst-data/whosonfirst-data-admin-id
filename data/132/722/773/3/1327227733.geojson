@@ -176,15 +176,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073153
+        102073153,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6372136
     },
     "wof:country":"ID",
-    "wof:geomhash":"c798744275fa50fe922f92a5b6ae1e3d",
+    "wof:geomhash":"3a6034152df0e96588a185683a873a7e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -195,7 +195,14 @@
         }
     ],
     "wof:id":1327227733,
-    "wof:lastmodified":1564168782,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613172698,
     "wof:name":"Depok",
     "wof:parent_id":102073153,
     "wof:placetype":"locality",
@@ -205,10 +212,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.55138999999998,
+    109.55139,
     -7.50194,
-    109.55138999999998,
+    109.55139,
     -7.50194
 ],
-  "geometry": {"coordinates":[109.55138999999998,-7.50194],"type":"Point"}
+  "geometry": {"coordinates":[109.55139,-7.50194],"type":"Point"}
 }

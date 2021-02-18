@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072855
+        102072855,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6603591
     },
     "wof:country":"ID",
-    "wof:geomhash":"d61f3fe3ef97ae16ce1568267700c013",
+    "wof:geomhash":"af49a0411b305d320931d0f26b973c8f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1293241907,
-    "wof:lastmodified":1537630007,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175855,
     "wof:name":"Batulawang",
     "wof:parent_id":102072855,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.74611000000002,
+    106.74611,
     -6.94306,
-    106.74611000000002,
+    106.74611,
     -6.94306
 ],
-  "geometry": {"coordinates":[106.74611000000002,-6.94306],"type":"Point"}
+  "geometry": {"coordinates":[106.74611,-6.94306],"type":"Point"}
 }

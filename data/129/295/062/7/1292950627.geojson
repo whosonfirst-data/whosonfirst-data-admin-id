@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072739
+        102072739,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6583120
     },
     "wof:country":"ID",
-    "wof:geomhash":"c30cbbc815e41a0c24133d5638e876af",
+    "wof:geomhash":"456c7d820aab1462280fafbf5ea2d488",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1292950627,
-    "wof:lastmodified":1537629518,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175663,
     "wof:name":"Cideureusik",
     "wof:parent_id":102072739,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.87888999999998,
+    107.87889,
     -6.89722,
-    107.87888999999998,
+    107.87889,
     -6.89722
 ],
-  "geometry": {"coordinates":[107.87888999999998,-6.89722],"type":"Point"}
+  "geometry": {"coordinates":[107.87889,-6.89722],"type":"Point"}
 }

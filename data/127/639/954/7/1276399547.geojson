@@ -34,15 +34,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671995,
-        102073479
+        102073479,
+        85671995
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1959432
     },
     "wof:country":"ID",
-    "wof:geomhash":"2841d76e4a82e63ef299a42a2a17b760",
+    "wof:geomhash":"3e24537fefee24327de70561ef362bb5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +53,14 @@
         }
     ],
     "wof:id":1276399547,
-    "wof:lastmodified":1537627503,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178102,
     "wof:name":"Sombeng",
     "wof:parent_id":102073479,
     "wof:placetype":"locality",
@@ -63,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.29361000000002,
+    106.29361,
     -6.02944,
-    106.29361000000002,
+    106.29361,
     -6.02944
 ],
-  "geometry": {"coordinates":[106.29361000000002,-6.02944],"type":"Point"}
+  "geometry": {"coordinates":[106.29361,-6.02944],"type":"Point"}
 }

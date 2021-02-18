@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102072775
+        102072775,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6410037
     },
     "wof:country":"ID",
-    "wof:geomhash":"f0e2b2d3ed96d2cf7fc544228f756e9b",
+    "wof:geomhash":"3bfdc2108e58f634456703127dc44415",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1343658929,
-    "wof:lastmodified":1537629064,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613173866,
     "wof:name":"Widodaren Kidul",
     "wof:parent_id":102072775,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.22693999999998,
+    111.22694,
     -7.37889,
-    111.22693999999998,
+    111.22694,
     -7.37889
 ],
-  "geometry": {"coordinates":[111.22693999999998,-7.37889],"type":"Point"}
+  "geometry": {"coordinates":[111.22694,-7.37889],"type":"Point"}
 }

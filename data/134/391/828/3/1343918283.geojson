@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073515
+        102073515,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6398298
     },
     "wof:country":"ID",
-    "wof:geomhash":"040d44833eb4833b00067b389c267e83",
+    "wof:geomhash":"9147e1147d4cf978dcae1281a2585aee",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1343918283,
-    "wof:lastmodified":1537628788,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613173842,
     "wof:name":"Hegarmanah",
     "wof:parent_id":102073515,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.28943999999998,
+    108.28944,
     -6.78167,
-    108.28943999999998,
+    108.28944,
     -6.78167
 ],
-  "geometry": {"coordinates":[108.28943999999998,-6.78167],"type":"Point"}
+  "geometry": {"coordinates":[108.28944,-6.78167],"type":"Point"}
 }

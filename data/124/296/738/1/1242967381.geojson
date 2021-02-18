@@ -33,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072709
+        102072709,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1972454
     },
     "wof:country":"ID",
-    "wof:geomhash":"135838382417a913d5cdabc7d29d3546",
+    "wof:geomhash":"ce54aee753d53dae25d9859dda7f690a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,7 +52,14 @@
         }
     ],
     "wof:id":1242967381,
-    "wof:lastmodified":1537628080,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183946,
     "wof:name":"Gentan",
     "wof:parent_id":102072709,
     "wof:placetype":"locality",
@@ -62,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.55306000000002,
+    110.55306,
     -7.26583,
-    110.55306000000002,
+    110.55306,
     -7.26583
 ],
-  "geometry": {"coordinates":[110.55306000000002,-7.26583],"type":"Point"}
+  "geometry": {"coordinates":[110.55306,-7.26583],"type":"Point"}
 }

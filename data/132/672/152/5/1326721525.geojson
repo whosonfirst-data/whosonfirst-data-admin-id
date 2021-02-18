@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072639
+        102072639,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6386314
     },
     "wof:country":"ID",
-    "wof:geomhash":"2d5cccbf6da7fcf2ab2f23cf8f32798b",
+    "wof:geomhash":"455bb2d0dc2e10b6119fb48858c3dfff",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1326721525,
-    "wof:lastmodified":1537628603,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613172291,
     "wof:name":"Paterban",
     "wof:parent_id":102072639,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.57361000000002,
+    109.57361,
     -7.71944,
-    109.57361000000002,
+    109.57361,
     -7.71944
 ],
-  "geometry": {"coordinates":[109.57361000000002,-7.71944],"type":"Point"}
+  "geometry": {"coordinates":[109.57361,-7.71944],"type":"Point"}
 }

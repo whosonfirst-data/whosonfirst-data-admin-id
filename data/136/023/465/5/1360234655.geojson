@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073551
+        102073551,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1949128
     },
     "wof:country":"ID",
-    "wof:geomhash":"8a6a7261c4bc40547168a99379073b82",
+    "wof:geomhash":"64806f9c2fc6747aa7ecfc4fc4b3f24d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,7 +54,14 @@
         }
     ],
     "wof:id":1360234655,
-    "wof:lastmodified":1537627446,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181737,
     "wof:name":"Leuweungmalang",
     "wof:parent_id":102073551,
     "wof:placetype":"locality",
@@ -64,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.12111000000002,
+    107.12111,
     -6.33278,
-    107.12111000000002,
+    107.12111,
     -6.33278
 ],
-  "geometry": {"coordinates":[107.12111000000002,-6.33278],"type":"Point"}
+  "geometry": {"coordinates":[107.12111,-6.33278],"type":"Point"}
 }

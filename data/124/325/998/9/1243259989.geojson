@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072921
+        102072921,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6372733
     },
     "wof:country":"ID",
-    "wof:geomhash":"2f642f3011991923915247727ac2d6ed",
+    "wof:geomhash":"e4ab2217291b87c29519e288b4615ba8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1243259989,
-    "wof:lastmodified":1537628375,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183495,
     "wof:name":"Lawian",
     "wof:parent_id":102072921,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.54361000000002,
+    109.54361,
     -7.39861,
-    109.54361000000002,
+    109.54361,
     -7.39861
 ],
-  "geometry": {"coordinates":[109.54361000000002,-7.39861],"type":"Point"}
+  "geometry": {"coordinates":[109.54361,-7.39861],"type":"Point"}
 }

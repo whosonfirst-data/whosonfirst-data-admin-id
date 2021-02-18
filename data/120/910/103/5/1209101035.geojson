@@ -34,7 +34,7 @@
         "gn:id":2003436
     },
     "wof:country":"ID",
-    "wof:geomhash":"803cf9b8b883bd56837f289fad2fe3f1",
+    "wof:geomhash":"4e32d9c43015ba5fd02357130cbee112",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209101035,
-    "wof:lastmodified":1536297732,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179508,
     "wof:name":"Guci",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     110.265,
-    -7.991389999999999,
+    -7.99139,
     110.265,
-    -7.991389999999999
+    -7.99139
 ],
   "geometry": {"coordinates":[110.265,-7.99139],"type":"Point"}
 }

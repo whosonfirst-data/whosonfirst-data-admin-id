@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072907
+        102072907,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1933511
     },
     "wof:country":"ID",
-    "wof:geomhash":"22c9d09a605dde1864a876c2f4d90f62",
+    "wof:geomhash":"2cf21250777160e9f42e06993ace1d03",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1360279551,
-    "wof:lastmodified":1536665169,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181935,
     "wof:name":"Debegan",
     "wof:parent_id":102072907,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.83693999999998,
+    110.83694,
     -7.55222,
-    110.83693999999998,
+    110.83694,
     -7.55222
 ],
-  "geometry": {"coordinates":[110.83693999999998,-7.55222],"type":"Point"}
+  "geometry": {"coordinates":[110.83694,-7.55222],"type":"Point"}
 }

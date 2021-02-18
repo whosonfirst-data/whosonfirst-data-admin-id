@@ -50,15 +50,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073189
+        102073189,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2004081
     },
     "wof:country":"ID",
-    "wof:geomhash":"672f4f1736f3b2b44f0fe940ddf175dd",
+    "wof:geomhash":"76113ed0d5a417cda49f414645cc881f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -69,7 +69,14 @@
         }
     ],
     "wof:id":1242572785,
-    "wof:lastmodified":1564198409,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183150,
     "wof:name":"Candi",
     "wof:parent_id":102073189,
     "wof:placetype":"locality",
@@ -79,10 +86,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.69138999999998,
+    110.69139,
     -7.83139,
-    110.69138999999998,
+    110.69139,
     -7.83139
 ],
-  "geometry": {"coordinates":[110.69138999999998,-7.83139],"type":"Point"}
+  "geometry": {"coordinates":[110.69139,-7.83139],"type":"Point"}
 }

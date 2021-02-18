@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073405
+        102073405,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1935673
     },
     "wof:country":"ID",
-    "wof:geomhash":"69b6565f4fab09969ce775b8b71d270d",
+    "wof:geomhash":"f02d13072b7b41e8fda3619509603e27",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1243162941,
-    "wof:lastmodified":1536717680,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613184109,
     "wof:name":"Premban",
     "wof:parent_id":102073405,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.88611000000002,
+    110.88611,
     -7.61111,
-    110.88611000000002,
+    110.88611,
     -7.61111
 ],
-  "geometry": {"coordinates":[110.88611000000002,-7.61111],"type":"Point"}
+  "geometry": {"coordinates":[110.88611,-7.61111],"type":"Point"}
 }

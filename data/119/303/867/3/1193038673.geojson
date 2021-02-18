@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073233
+        102073233,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2003470
     },
     "wof:country":"ID",
-    "wof:geomhash":"24413b0a860b83780b7a67fc0eb5686a",
+    "wof:geomhash":"274e7c443f570ef7a989f237dd3ac7bf",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1193038673,
-    "wof:lastmodified":1536378283,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179966,
     "wof:name":"Krakitan",
     "wof:parent_id":102073233,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.63443999999998,
+    110.63444,
     -7.76056,
-    110.63443999999998,
+    110.63444,
     -7.76056
 ],
-  "geometry": {"coordinates":[110.63443999999998,-7.76056],"type":"Point"}
+  "geometry": {"coordinates":[110.63444,-7.76056],"type":"Point"}
 }

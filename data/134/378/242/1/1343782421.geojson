@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073233
+        102073233,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6265505
     },
     "wof:country":"ID",
-    "wof:geomhash":"09e198ff9904a539adcc74d009b4a209",
+    "wof:geomhash":"1ea6c34b465380cbc0a4123f64e9a4b0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1343782421,
-    "wof:lastmodified":1536779866,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613174538,
     "wof:name":"Sembir Kidul",
     "wof:parent_id":102073233,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.48111000000002,
+    110.48111,
     -7.66944,
-    110.48111000000002,
+    110.48111,
     -7.66944
 ],
-  "geometry": {"coordinates":[110.48111000000002,-7.66944],"type":"Point"}
+  "geometry": {"coordinates":[110.48111,-7.66944],"type":"Point"}
 }

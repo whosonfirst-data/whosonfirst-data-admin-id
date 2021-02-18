@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072733
+        102072733,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6570598
     },
     "wof:country":"ID",
-    "wof:geomhash":"7bf5e260f07ee40d72b3721663eddfbf",
+    "wof:geomhash":"6743fc6e8390cc71d205bba189fbc892",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1243357567,
-    "wof:lastmodified":1537629398,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183637,
     "wof:name":"Sunggihan",
     "wof:parent_id":102072733,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.01888999999998,
+    111.01889,
     -7.62083,
-    111.01888999999998,
+    111.01889,
     -7.62083
 ],
-  "geometry": {"coordinates":[111.01888999999998,-7.62083],"type":"Point"}
+  "geometry": {"coordinates":[111.01889,-7.62083],"type":"Point"}
 }

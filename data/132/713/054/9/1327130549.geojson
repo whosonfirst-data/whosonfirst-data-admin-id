@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072947
+        102072947,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6406083
     },
     "wof:country":"ID",
-    "wof:geomhash":"9a69526626cfd50b6d5c0267d377ed9c",
+    "wof:geomhash":"dbbc9918a4e3f5cd2775e0eda031594b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1327130549,
-    "wof:lastmodified":1537628949,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613172723,
     "wof:name":"Kebon",
     "wof:parent_id":102072947,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.05306000000002,
+    111.05306,
     -7.97917,
-    111.05306000000002,
+    111.05306,
     -7.97917
 ],
-  "geometry": {"coordinates":[111.05306000000002,-7.97917],"type":"Point"}
+  "geometry": {"coordinates":[111.05306,-7.97917],"type":"Point"}
 }

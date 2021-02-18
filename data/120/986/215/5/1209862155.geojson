@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        1108796793
+        1108796793,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6585503
     },
     "wof:country":"ID",
-    "wof:geomhash":"7f555c40aa9930b4e822f4db2a66c98b",
+    "wof:geomhash":"29cc1c45321481eb24c9caddf1e52d27",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1209862155,
-    "wof:lastmodified":1537629593,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179602,
     "wof:name":"Cibanteng",
     "wof:parent_id":1108796793,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.39388999999998,
+    107.39389,
     -6.95417,
-    107.39388999999998,
+    107.39389,
     -6.95417
 ],
-  "geometry": {"coordinates":[107.39388999999998,-6.95417],"type":"Point"}
+  "geometry": {"coordinates":[107.39389,-6.95417],"type":"Point"}
 }

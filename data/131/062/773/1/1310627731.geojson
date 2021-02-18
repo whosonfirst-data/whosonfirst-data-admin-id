@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672067,
-        1108796863
+        1108796863,
+        85672067
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1644841
     },
     "wof:country":"ID",
-    "wof:geomhash":"81523eccb04c402d0a566503554cf32e",
+    "wof:geomhash":"12dc5523f9d27cd8bf84ea20fd096a19",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1310627731,
-    "wof:lastmodified":1536740589,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613180932,
     "wof:name":"Fafanlap",
     "wof:parent_id":1108796863,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    130.33333000000002,
+    130.33333,
     -1.98333,
-    130.33333000000002,
+    130.33333,
     -1.98333
 ],
-  "geometry": {"coordinates":[130.33333000000002,-1.98333],"type":"Point"}
+  "geometry": {"coordinates":[130.33332999999999,-1.98333],"type":"Point"}
 }

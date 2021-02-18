@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073405
+        102073405,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1934399
     },
     "wof:country":"ID",
-    "wof:geomhash":"aad3bb4929daf32b6d41f2e7eba189bb",
+    "wof:geomhash":"90eebf5a955fdcd6a5e5ff7168eac407",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1193038853,
-    "wof:lastmodified":1536378107,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179972,
     "wof:name":"Mlangsen",
     "wof:parent_id":102073405,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.83556000000002,
+    110.83556,
     -7.69139,
-    110.83556000000002,
+    110.83556,
     -7.69139
 ],
-  "geometry": {"coordinates":[110.83556000000002,-7.69139],"type":"Point"}
+  "geometry": {"coordinates":[110.83556,-7.69139],"type":"Point"}
 }

@@ -33,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672097,
-        1108796827
+        1108796827,
+        85672097
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1642538
     },
     "wof:country":"ID",
-    "wof:geomhash":"8fa7daef8fd15578a869da5cf02e13d5",
+    "wof:geomhash":"65b5d4202e2083da26f5bfeabb7d9afc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,7 +52,14 @@
         }
     ],
     "wof:id":1293151753,
-    "wof:lastmodified":1537627064,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175885,
     "wof:name":"Jerdera",
     "wof:parent_id":1108796827,
     "wof:placetype":"locality",
@@ -62,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    134.09901000000002,
+    134.09901,
     -6.51945,
-    134.09901000000002,
+    134.09901,
     -6.51945
 ],
-  "geometry": {"coordinates":[134.09901000000002,-6.51945],"type":"Point"}
+  "geometry": {"coordinates":[134.09900999999999,-6.51945],"type":"Point"}
 }

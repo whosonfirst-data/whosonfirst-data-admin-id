@@ -41,15 +41,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672037,
-        102072671
+        102072671,
+        85672037
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8423583
     },
     "wof:country":"ID",
-    "wof:geomhash":"cc4f48a68295f900b9a8318ddd59ddde",
+    "wof:geomhash":"2bd12e17f0e4180cee61ee226c9442e1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -60,7 +60,14 @@
         }
     ],
     "wof:id":1326893303,
-    "wof:lastmodified":1564167897,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613172377,
     "wof:name":"Natu",
     "wof:parent_id":102072671,
     "wof:placetype":"locality",
@@ -70,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    123.77951000000002,
+    123.77951,
     -8.27684,
-    123.77951000000002,
+    123.77951,
     -8.27684
 ],
-  "geometry": {"coordinates":[123.77951000000002,-8.27684],"type":"Point"}
+  "geometry": {"coordinates":[123.77951,-8.27684],"type":"Point"}
 }

@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671995,
-        102073209
+        102073209,
+        85671995
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7846839
     },
     "wof:country":"ID",
-    "wof:geomhash":"d763fd2ba42c731c18023048508fc821",
+    "wof:geomhash":"b919275fb064e30e85ff2585f08e1d16",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1293335605,
-    "wof:lastmodified":1537634530,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613176354,
     "wof:name":"Cikiray",
     "wof:parent_id":102073209,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.15921000000002,
+    106.15921,
     -6.8881,
-    106.15921000000002,
+    106.15921,
     -6.8881
 ],
-  "geometry": {"coordinates":[106.15921000000002,-6.8881],"type":"Point"}
+  "geometry": {"coordinates":[106.15921,-6.8881],"type":"Point"}
 }

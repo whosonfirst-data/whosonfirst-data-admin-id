@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072639
+        102072639,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6369900
     },
     "wof:country":"ID",
-    "wof:geomhash":"22b9e1b9cf9f9015afe433e56283992d",
+    "wof:geomhash":"ab15ad4f359258ee293132142b9336fc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1310301257,
-    "wof:lastmodified":1537628293,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181136,
     "wof:name":"Jeblosan",
     "wof:parent_id":102072639,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.47556000000002,
+    109.47556,
     -7.66222,
-    109.47556000000002,
+    109.47556,
     -7.66222
 ],
-  "geometry": {"coordinates":[109.47556000000002,-7.66222],"type":"Point"}
+  "geometry": {"coordinates":[109.47556,-7.66222],"type":"Point"}
 }

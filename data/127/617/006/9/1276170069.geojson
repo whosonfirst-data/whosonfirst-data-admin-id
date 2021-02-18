@@ -34,15 +34,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072949
+        102072949,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1964139
     },
     "wof:country":"ID",
-    "wof:geomhash":"56530c9adc2e6c86021fda27d41de843",
+    "wof:geomhash":"ce0af63241a8bd409e77265485021665",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +53,14 @@
         }
     ],
     "wof:id":1276170069,
-    "wof:lastmodified":1537627747,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177179,
     "wof:name":"Bojongmangga",
     "wof:parent_id":102072949,
     "wof:placetype":"locality",
@@ -63,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.60611000000002,
+    107.60611,
     -7.03417,
-    107.60611000000002,
+    107.60611,
     -7.03417
 ],
-  "geometry": {"coordinates":[107.60611000000002,-7.03417],"type":"Point"}
+  "geometry": {"coordinates":[107.60611,-7.03417],"type":"Point"}
 }

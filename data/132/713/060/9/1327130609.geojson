@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073233
+        102073233,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2008673
     },
     "wof:country":"ID",
-    "wof:geomhash":"529866af9313d882afd09bdf7ae2ec7a",
+    "wof:geomhash":"b6a70e34b452ab6ae715af532d1fa641",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1327130609,
-    "wof:lastmodified":1536616451,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613172731,
     "wof:name":"Kregolan",
     "wof:parent_id":102073233,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.72693999999998,
+    110.72694,
     -7.70417,
-    110.72693999999998,
+    110.72694,
     -7.70417
 ],
-  "geometry": {"coordinates":[110.72693999999998,-7.70417],"type":"Point"}
+  "geometry": {"coordinates":[110.72694,-7.70417],"type":"Point"}
 }

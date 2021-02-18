@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072639
+        102072639,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6376248
     },
     "wof:country":"ID",
-    "wof:geomhash":"fb2ce439328aa127eaf98f07e8e511ef",
+    "wof:geomhash":"7b6e913ed20578c7cf05361bb2e1e5bc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1276868341,
-    "wof:lastmodified":1537628459,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177013,
     "wof:name":"Tambak",
     "wof:parent_id":102072639,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.82193999999998,
+    109.82194,
     -7.78722,
-    109.82193999999998,
+    109.82194,
     -7.78722
 ],
-  "geometry": {"coordinates":[109.82193999999998,-7.78722],"type":"Point"}
+  "geometry": {"coordinates":[109.82194,-7.78722],"type":"Point"}
 }

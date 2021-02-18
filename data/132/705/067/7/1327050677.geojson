@@ -59,15 +59,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072587
+        102072587,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6381756
     },
     "wof:country":"ID",
-    "wof:geomhash":"0e2683e934811debf19e5ea9f6c9f28d",
+    "wof:geomhash":"810e7a690221ec09ff5bde74013ab07f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +78,14 @@
         }
     ],
     "wof:id":1327050677,
-    "wof:lastmodified":1564169279,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613172871,
     "wof:name":"Beran",
     "wof:parent_id":102072587,
     "wof:placetype":"locality",
@@ -88,10 +95,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.77306000000002,
+    109.77306,
     -7.48306,
-    109.77306000000002,
+    109.77306,
     -7.48306
 ],
-  "geometry": {"coordinates":[109.77306000000002,-7.48306],"type":"Point"}
+  "geometry": {"coordinates":[109.77306,-7.48306],"type":"Point"}
 }

@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102073013
+        102073013,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6405528
     },
     "wof:country":"ID",
-    "wof:geomhash":"0d447245a450da7574eb0313bb9e3c09",
+    "wof:geomhash":"7301fc43ec71ca587f0946af680cad21",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1259368049,
-    "wof:lastmodified":1537628930,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613184258,
     "wof:name":"Salam",
     "wof:parent_id":102073013,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.27306000000002,
+    111.27306,
     -8.01083,
-    111.27306000000002,
+    111.27306,
     -8.01083
 ],
-  "geometry": {"coordinates":[111.27306000000002,-8.01083],"type":"Point"}
+  "geometry": {"coordinates":[111.27306,-8.01083],"type":"Point"}
 }

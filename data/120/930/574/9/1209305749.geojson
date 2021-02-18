@@ -34,7 +34,7 @@
         "gn:id":1935224
     },
     "wof:country":"ID",
-    "wof:geomhash":"8dca2fb715856e63c6390759019ade3c",
+    "wof:geomhash":"a018dd401005c8c115e7ea8b95ba5dec",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209305749,
-    "wof:lastmodified":1536291204,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178482,
     "wof:name":"Gembong",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     110.93028,
-    -7.5213899999999985,
+    -7.52139,
     110.93028,
-    -7.5213899999999985
+    -7.52139
 ],
   "geometry": {"coordinates":[110.93028,-7.52139],"type":"Point"}
 }

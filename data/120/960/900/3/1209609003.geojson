@@ -34,7 +34,7 @@
         "gn:id":2007863
     },
     "wof:country":"ID",
-    "wof:geomhash":"bc41e81bce2513d22c1a8fd401a9e35a",
+    "wof:geomhash":"d6104d60e7130768d22f5b44412a2f4c",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209609003,
-    "wof:lastmodified":1536281910,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179100,
     "wof:name":"Ngasem",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     110.73694,
-    -7.635560000000001,
+    -7.63556,
     110.73694,
-    -7.635560000000001
+    -7.63556
 ],
   "geometry": {"coordinates":[110.73694,-7.63556],"type":"Point"}
 }

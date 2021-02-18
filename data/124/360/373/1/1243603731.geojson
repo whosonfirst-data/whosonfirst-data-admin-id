@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671995,
-        1108796785
+        1108796785,
+        85671995
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1988623
     },
     "wof:country":"ID",
-    "wof:geomhash":"e6888ddea230b3b95a7901c95be852be",
+    "wof:geomhash":"61242d14f785099d010e23ff4eb18637",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1243603731,
-    "wof:lastmodified":1537072850,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183706,
     "wof:name":"Keramatkalong",
     "wof:parent_id":1108796785,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.66861000000002,
+    106.66861,
     -6.16694,
-    106.66861000000002,
+    106.66861,
     -6.16694
 ],
-  "geometry": {"coordinates":[106.66861000000002,-6.16694],"type":"Point"}
+  "geometry": {"coordinates":[106.66861,-6.16694],"type":"Point"}
 }

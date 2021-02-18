@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072949
+        102072949,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1966151
     },
     "wof:country":"ID",
-    "wof:geomhash":"d4e1b0f9708fbd9a14a71e7114816a58",
+    "wof:geomhash":"d7e8f5be50dc2178ac48237bacb2bb79",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,7 +54,14 @@
         }
     ],
     "wof:id":1343322143,
-    "wof:lastmodified":1537627843,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613174701,
     "wof:name":"Cipinang",
     "wof:parent_id":102072949,
     "wof:placetype":"locality",
@@ -64,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.55861000000002,
+    107.55861,
     -7.10417,
-    107.55861000000002,
+    107.55861,
     -7.10417
 ],
-  "geometry": {"coordinates":[107.55861000000002,-7.10417],"type":"Point"}
+  "geometry": {"coordinates":[107.55861,-7.10417],"type":"Point"}
 }

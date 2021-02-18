@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073169
+        102073169,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6200852
     },
     "wof:country":"ID",
-    "wof:geomhash":"7f597b915e7b2661b874c7fdb13aa4de",
+    "wof:geomhash":"ae11b901a45c05728ae8b79eeae41700",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1326824135,
-    "wof:lastmodified":1537057935,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613172979,
     "wof:name":"Klowok Lor",
     "wof:parent_id":102073169,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.22693999999998,
+    110.22694,
     -7.29111,
-    110.22693999999998,
+    110.22694,
     -7.29111
 ],
-  "geometry": {"coordinates":[110.22693999999998,-7.29111],"type":"Point"}
+  "geometry": {"coordinates":[110.22694,-7.29111],"type":"Point"}
 }

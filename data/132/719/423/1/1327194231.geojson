@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073449
+        102073449,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6593601
     },
     "wof:country":"ID",
-    "wof:geomhash":"74a5d9416603573dea0905343e385a95",
+    "wof:geomhash":"0cdbecc22246ae18e1592755acdda9f5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1327194231,
-    "wof:lastmodified":1537629771,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613173410,
     "wof:name":"Cileutik",
     "wof:parent_id":102073449,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.63443999999998,
+    107.63444,
     -6.95028,
-    107.63443999999998,
+    107.63444,
     -6.95028
 ],
-  "geometry": {"coordinates":[107.63443999999998,-6.95028],"type":"Point"}
+  "geometry": {"coordinates":[107.63444,-6.95028],"type":"Point"}
 }

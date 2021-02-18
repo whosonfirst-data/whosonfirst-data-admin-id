@@ -34,7 +34,7 @@
         "gn:id":2008074
     },
     "wof:country":"ID",
-    "wof:geomhash":"2aa3e850b3550650c9f2a9be187409ad",
+    "wof:geomhash":"2623dff65b73ae4fccadbb7609740a1e",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209505961,
-    "wof:lastmodified":1536285035,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178919,
     "wof:name":"Grojongan",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -52,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.71056000000002,
-    -7.6494399999999985,
-    110.71056000000002,
-    -7.6494399999999985
+    110.71056,
+    -7.64944,
+    110.71056,
+    -7.64944
 ],
-  "geometry": {"coordinates":[110.71056000000002,-7.64944],"type":"Point"}
+  "geometry": {"coordinates":[110.71056,-7.64944],"type":"Point"}
 }

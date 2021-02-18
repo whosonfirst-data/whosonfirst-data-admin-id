@@ -41,15 +41,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102073373
+        102073373,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7084021
     },
     "wof:country":"ID",
-    "wof:geomhash":"9783140978427ec5cd715b021c56dfe3",
+    "wof:geomhash":"c05bb9315ff61f0b2308c3de7f35c918",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -60,7 +60,14 @@
         }
     ],
     "wof:id":1193003211,
-    "wof:lastmodified":1564187973,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179751,
     "wof:name":"Sumur",
     "wof:parent_id":102073373,
     "wof:placetype":"locality",
@@ -70,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    114.19986000000002,
+    114.19986,
     -8.24504,
-    114.19986000000002,
+    114.19986,
     -8.24504
 ],
-  "geometry": {"coordinates":[114.19986000000002,-8.24504],"type":"Point"}
+  "geometry": {"coordinates":[114.19986,-8.24504],"type":"Point"}
 }

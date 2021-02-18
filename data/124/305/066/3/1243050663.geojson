@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672009,
-        102072927
+        102072927,
+        85672009
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1952063
     },
     "wof:country":"ID",
-    "wof:geomhash":"b5692c4360d2ba1f756d1c3c8a1b4eb3",
+    "wof:geomhash":"96df46d03be7c8a406424e99cd38bc7a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,7 +54,14 @@
         }
     ],
     "wof:id":1243050663,
-    "wof:lastmodified":1537627480,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183748,
     "wof:name":"Purwodadi",
     "wof:parent_id":102072927,
     "wof:placetype":"locality",
@@ -64,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    105.27058999999998,
+    105.27059,
     -5.10784,
-    105.27058999999998,
+    105.27059,
     -5.10784
 ],
-  "geometry": {"coordinates":[105.27058999999998,-5.10784],"type":"Point"}
+  "geometry": {"coordinates":[105.27059,-5.10784],"type":"Point"}
 }

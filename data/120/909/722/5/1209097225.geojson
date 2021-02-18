@@ -34,7 +34,7 @@
         "gn:id":6263793
     },
     "wof:country":"ID",
-    "wof:geomhash":"f18a7b0f533cf2c0e2784a3abf55b600",
+    "wof:geomhash":"2bf262a1244f694aeb69f4e051eaff6b",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209097225,
-    "wof:lastmodified":1536297848,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178270,
     "wof:name":"Harjosari",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     110.96139,
-    -7.3308300000000015,
+    -7.33083,
     110.96139,
-    -7.3308300000000015
+    -7.33083
 ],
   "geometry": {"coordinates":[110.96138999999999,-7.33083],"type":"Point"}
 }

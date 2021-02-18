@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072855
+        102072855,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6601367
     },
     "wof:country":"ID",
-    "wof:geomhash":"c5f17c059bc134667f2fa0d247d4f030",
+    "wof:geomhash":"71311ca297345eaf269bb8b74efe0993",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1192968175,
-    "wof:lastmodified":1537629981,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613180010,
     "wof:name":"Cibolang",
     "wof:parent_id":102072855,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.87111000000002,
+    106.87111,
     -6.90778,
-    106.87111000000002,
+    106.87111,
     -6.90778
 ],
-  "geometry": {"coordinates":[106.87111000000002,-6.90778],"type":"Point"}
+  "geometry": {"coordinates":[106.87111,-6.90778],"type":"Point"}
 }

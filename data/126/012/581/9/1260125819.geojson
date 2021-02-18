@@ -34,15 +34,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671995,
-        102073479
+        102073479,
+        85671995
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1959868
     },
     "wof:country":"ID",
-    "wof:geomhash":"ffc80bc7cd8606e5136d50cc70f4a4cf",
+    "wof:geomhash":"ed40d4cb70595426f3d263d31657fa24",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +53,14 @@
         }
     ],
     "wof:id":1260125819,
-    "wof:lastmodified":1537627528,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613180233,
     "wof:name":"Cimiungklutuk",
     "wof:parent_id":102073479,
     "wof:placetype":"locality",
@@ -63,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.26111000000002,
+    106.26111,
     -6.12333,
-    106.26111000000002,
+    106.26111,
     -6.12333
 ],
-  "geometry": {"coordinates":[106.26111000000002,-6.12333],"type":"Point"}
+  "geometry": {"coordinates":[106.26111,-6.12333],"type":"Point"}
 }

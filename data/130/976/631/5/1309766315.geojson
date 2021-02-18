@@ -34,15 +34,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671995,
-        102073479
+        102073479,
+        85671995
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1959950
     },
     "wof:country":"ID",
-    "wof:geomhash":"29ea973d0f5fb2ac7df8ef5f8077cde6",
+    "wof:geomhash":"81f385860be6d1e9513670f3dbf6bebf",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +53,14 @@
         }
     ],
     "wof:id":1309766315,
-    "wof:lastmodified":1537627532,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613182374,
     "wof:name":"Tegalmaja",
     "wof:parent_id":102073479,
     "wof:placetype":"locality",
@@ -63,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.28943999999998,
+    106.28944,
     -6.11944,
-    106.28943999999998,
+    106.28944,
     -6.11944
 ],
-  "geometry": {"coordinates":[106.28943999999998,-6.11944],"type":"Point"}
+  "geometry": {"coordinates":[106.28944,-6.11944],"type":"Point"}
 }

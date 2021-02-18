@@ -34,7 +34,7 @@
         "gn:id":6258870
     },
     "wof:country":"ID",
-    "wof:geomhash":"303cf6866472be82ad68716ed2d9b12e",
+    "wof:geomhash":"d49564e641ad8186df0857ff9253c6f8",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209305741,
-    "wof:lastmodified":1536291204,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178482,
     "wof:name":"Ngaglik Bawah",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     110.32889,
-    -7.536110000000001,
+    -7.53611,
     110.32889,
-    -7.536110000000001
+    -7.53611
 ],
   "geometry": {"coordinates":[110.32889,-7.53611],"type":"Point"}
 }

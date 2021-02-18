@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672067,
-        102072595
+        102072595,
+        85672067
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8531519
     },
     "wof:country":"ID",
-    "wof:geomhash":"7ba34fe076c9306a049a642b5b9a52c0",
+    "wof:geomhash":"8e24736dcb234ea33dd60613b15317c2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1310135019,
-    "wof:lastmodified":1537636355,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613180794,
     "wof:name":"Iswoi",
     "wof:parent_id":102072595,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    133.56901000000002,
+    133.56901,
     -0.87992,
-    133.56901000000002,
+    133.56901,
     -0.87992
 ],
-  "geometry": {"coordinates":[133.56901000000002,-0.87992],"type":"Point"}
+  "geometry": {"coordinates":[133.56900999999999,-0.87992],"type":"Point"}
 }

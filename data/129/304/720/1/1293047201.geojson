@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073471
+        102073471,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6581780
     },
     "wof:country":"ID",
-    "wof:geomhash":"4f664bc5c9f5e23d48dd10c94c875502",
+    "wof:geomhash":"14129703591ab8f3fcf6e08105a7fca2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1293047201,
-    "wof:lastmodified":1537629483,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613176198,
     "wof:name":"Cikalong Kulon",
     "wof:parent_id":102073471,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.50943999999998,
+    107.50944,
     -6.51417,
-    107.50943999999998,
+    107.50944,
     -6.51417
 ],
-  "geometry": {"coordinates":[107.50943999999998,-6.51417],"type":"Point"}
+  "geometry": {"coordinates":[107.50944,-6.51417],"type":"Point"}
 }

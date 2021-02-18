@@ -33,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072983
+        102072983,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1973207
     },
     "wof:country":"ID",
-    "wof:geomhash":"d71bb74f2c1b5ffffc1e714bc08139f8",
+    "wof:geomhash":"498e1d5f4bb195562a922fbad706850b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,7 +52,14 @@
         }
     ],
     "wof:id":1343552441,
-    "wof:lastmodified":1537628111,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613174034,
     "wof:name":"Tuwam Wetan",
     "wof:parent_id":102072983,
     "wof:placetype":"locality",
@@ -62,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.58556000000002,
+    110.58556,
     -7.47472,
-    110.58556000000002,
+    110.58556,
     -7.47472
 ],
-  "geometry": {"coordinates":[110.58556000000002,-7.47472],"type":"Point"}
+  "geometry": {"coordinates":[110.58556,-7.47472],"type":"Point"}
 }

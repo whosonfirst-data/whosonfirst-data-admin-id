@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072857
+        102072857,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6258941
     },
     "wof:country":"ID",
-    "wof:geomhash":"224b44d323082778acd063dc3d9ace45",
+    "wof:geomhash":"371fb63caa2c26701aac998bce929fd8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1326824257,
-    "wof:lastmodified":1537057774,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613172978,
     "wof:name":"Karanggawang",
     "wof:parent_id":102072857,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.27306000000002,
+    110.27306,
     -7.54944,
-    110.27306000000002,
+    110.27306,
     -7.54944
 ],
-  "geometry": {"coordinates":[110.27306000000002,-7.54944],"type":"Point"}
+  "geometry": {"coordinates":[110.27306,-7.54944],"type":"Point"}
 }

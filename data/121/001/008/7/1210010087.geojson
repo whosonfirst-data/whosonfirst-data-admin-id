@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102072863
+        102072863,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2005032
     },
     "wof:country":"ID",
-    "wof:geomhash":"aceb681f9fb07757c170b4c779129be9",
+    "wof:geomhash":"58a53da1c79ca1b410c0c4d16ad0c4a8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1210010087,
-    "wof:lastmodified":1536369339,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179672,
     "wof:name":"Menduran",
     "wof:parent_id":102072863,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.36556000000002,
+    110.36556,
     -7.79583,
-    110.36556000000002,
+    110.36556,
     -7.79583
 ],
-  "geometry": {"coordinates":[110.36556000000002,-7.79583],"type":"Point"}
+  "geometry": {"coordinates":[110.36556,-7.79583],"type":"Point"}
 }

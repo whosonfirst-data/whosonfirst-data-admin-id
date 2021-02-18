@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073187
+        102073187,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6566612
     },
     "wof:country":"ID",
-    "wof:geomhash":"63743f12211525d070117480f159f6ad",
+    "wof:geomhash":"1b5ca47a53693b7360550f935a58f18e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1310426301,
-    "wof:lastmodified":1537629299,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181225,
     "wof:name":"Bendosari",
     "wof:parent_id":102073187,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.99056000000002,
+    109.99056,
     -7.64806,
-    109.99056000000002,
+    109.99056,
     -7.64806
 ],
-  "geometry": {"coordinates":[109.99056000000002,-7.64806],"type":"Point"}
+  "geometry": {"coordinates":[109.99056,-7.64806],"type":"Point"}
 }

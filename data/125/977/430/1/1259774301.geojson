@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072709
+        102072709,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6253543
     },
     "wof:country":"ID",
-    "wof:geomhash":"3d4a888b916fa340cc51e3422f22804f",
+    "wof:geomhash":"624a2b2276324255fa3564a6f833c345",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1259774301,
-    "wof:lastmodified":1536937156,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613184526,
     "wof:name":"Bayeman",
     "wof:parent_id":102072709,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.62888999999998,
+    110.62889,
     -7.46111,
-    110.62888999999998,
+    110.62889,
     -7.46111
 ],
-  "geometry": {"coordinates":[110.62888999999998,-7.46111],"type":"Point"}
+  "geometry": {"coordinates":[110.62889,-7.46111],"type":"Point"}
 }

@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073551
+        102073551,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6606973
     },
     "wof:country":"ID",
-    "wof:geomhash":"02b2769da23e2f72dd1f01ed45b9a2a0",
+    "wof:geomhash":"998cc1b251ff6086abd2155b0119e4a9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1309955523,
-    "wof:lastmodified":1537630130,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613182398,
     "wof:name":"Balongampel Selatan",
     "wof:parent_id":102073551,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.12111000000002,
+    107.12111,
     -6.15833,
-    107.12111000000002,
+    107.12111,
     -6.15833
 ],
-  "geometry": {"coordinates":[107.12111000000002,-6.15833],"type":"Point"}
+  "geometry": {"coordinates":[107.12111,-6.15833],"type":"Point"}
 }

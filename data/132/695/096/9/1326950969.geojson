@@ -71,15 +71,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072983
+        102072983,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1973291
     },
     "wof:country":"ID",
-    "wof:geomhash":"8a0b490eeacaee210263be6a27cb5e71",
+    "wof:geomhash":"5d53f6c014ae48331839aab960da8f67",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -90,7 +90,14 @@
         }
     ],
     "wof:id":1326950969,
-    "wof:lastmodified":1564168545,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613172616,
     "wof:name":"Sambo",
     "wof:parent_id":102072983,
     "wof:placetype":"locality",
@@ -100,10 +107,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.71193999999998,
+    110.71194,
     -7.46139,
-    110.71193999999998,
+    110.71194,
     -7.46139
 ],
-  "geometry": {"coordinates":[110.71193999999998,-7.46139],"type":"Point"}
+  "geometry": {"coordinates":[110.71194,-7.46139],"type":"Point"}
 }

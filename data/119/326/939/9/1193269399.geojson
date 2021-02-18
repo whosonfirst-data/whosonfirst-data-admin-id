@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072857
+        102072857,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6259084
     },
     "wof:country":"ID",
-    "wof:geomhash":"e19fcb8d7b4a68f21460c180c8b07670",
+    "wof:geomhash":"477f9cfbf6bb799744c71eb0f8ddb3d6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1193269399,
-    "wof:lastmodified":1536372352,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613180137,
     "wof:name":"Bentingan",
     "wof:parent_id":102072857,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.25388999999998,
+    110.25389,
     -7.56889,
-    110.25388999999998,
+    110.25389,
     -7.56889
 ],
-  "geometry": {"coordinates":[110.25388999999998,-7.56889],"type":"Point"}
+  "geometry": {"coordinates":[110.25389,-7.56889],"type":"Point"}
 }

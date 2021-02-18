@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073529
+        102073529,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6579106
     },
     "wof:country":"ID",
-    "wof:geomhash":"83554fd01cd4f05159c4925ae02d1598",
+    "wof:geomhash":"a14e98d88a64dbdd10a981f6ee4d0e37",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1260029425,
-    "wof:lastmodified":1537629413,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613180693,
     "wof:name":"Cibeureum",
     "wof:parent_id":102073529,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.14806000000002,
+    107.14806,
     -6.79583,
-    107.14806000000002,
+    107.14806,
     -6.79583
 ],
-  "geometry": {"coordinates":[107.14806000000002,-6.79583],"type":"Point"}
+  "geometry": {"coordinates":[107.14806,-6.79583],"type":"Point"}
 }

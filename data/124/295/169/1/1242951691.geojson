@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073265
+        102073265,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6264504
     },
     "wof:country":"ID",
-    "wof:geomhash":"cb5ae99d53ae06d529e0dfcba7ecebf2",
+    "wof:geomhash":"fbda6e7d80fea01ab7e5b29165ab69e3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1242951691,
-    "wof:lastmodified":1537021000,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183225,
     "wof:name":"Nyamplung",
     "wof:parent_id":102073265,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.30306000000002,
+    110.30306,
     -7.71694,
-    110.30306000000002,
+    110.30306,
     -7.71694
 ],
-  "geometry": {"coordinates":[110.30306000000002,-7.71694],"type":"Point"}
+  "geometry": {"coordinates":[110.30306,-7.71694],"type":"Point"}
 }

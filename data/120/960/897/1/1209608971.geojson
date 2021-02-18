@@ -34,7 +34,7 @@
         "gn:id":6256555
     },
     "wof:country":"ID",
-    "wof:geomhash":"be0217040c91a8a1b3677924211c2356",
+    "wof:geomhash":"eec2dc09454fca940fe73c88e1621176",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209608971,
-    "wof:lastmodified":1536281911,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179128,
     "wof:name":"Tanggung Wetan",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     110.9875,
-    -7.7736100000000015,
+    -7.77361,
     110.9875,
-    -7.7736100000000015
+    -7.77361
 ],
   "geometry": {"coordinates":[110.9875,-7.77361],"type":"Point"}
 }

@@ -34,15 +34,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671995,
-        1108796785
+        1108796785,
+        85671995
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1640727
     },
     "wof:country":"ID",
-    "wof:geomhash":"aae9472c9e4f3c1325e633fac99358cb",
+    "wof:geomhash":"9f780d18e6a874ebe96145f3e2752bac",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +53,14 @@
         }
     ],
     "wof:id":1225791263,
-    "wof:lastmodified":1537627000,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613186570,
     "wof:name":"Kebonmanggis",
     "wof:parent_id":1108796785,
     "wof:placetype":"locality",
@@ -63,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.69693999999998,
+    106.69694,
     -6.24667,
-    106.69693999999998,
+    106.69694,
     -6.24667
 ],
-  "geometry": {"coordinates":[106.69693999999998,-6.24667],"type":"Point"}
+  "geometry": {"coordinates":[106.69694,-6.24667],"type":"Point"}
 }

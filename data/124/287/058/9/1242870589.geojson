@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072819
+        102072819,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6387553
     },
     "wof:country":"ID",
-    "wof:geomhash":"d4880fbde0f746ee6562f4d077aef54b",
+    "wof:geomhash":"dfc2a949dda132a976e1c9a5a048da44",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1242870589,
-    "wof:lastmodified":1537628644,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183055,
     "wof:name":"Karangpeutir",
     "wof:parent_id":102072819,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.89388999999998,
+    108.89389,
     -7.37583,
-    108.89388999999998,
+    108.89389,
     -7.37583
 ],
-  "geometry": {"coordinates":[108.89388999999998,-7.37583],"type":"Point"}
+  "geometry": {"coordinates":[108.89389,-7.37583],"type":"Point"}
 }

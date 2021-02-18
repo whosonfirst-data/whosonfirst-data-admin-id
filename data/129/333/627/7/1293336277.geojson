@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072855
+        102072855,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6603500
     },
     "wof:country":"ID",
-    "wof:geomhash":"a444f93a0c4d5acaa8ba24a490a4ccef",
+    "wof:geomhash":"359ce7f542c908041989f864b958ed78",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1293336277,
-    "wof:lastmodified":1537630004,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613176362,
     "wof:name":"Cikajang",
     "wof:parent_id":102072855,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.66861000000002,
+    106.66861,
     -6.89861,
-    106.66861000000002,
+    106.66861,
     -6.89861
 ],
-  "geometry": {"coordinates":[106.66861000000002,-6.89861],"type":"Point"}
+  "geometry": {"coordinates":[106.66861,-6.89861],"type":"Point"}
 }

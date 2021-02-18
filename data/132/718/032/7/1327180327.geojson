@@ -38,15 +38,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072739
+        102072739,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6584045
     },
     "wof:country":"ID",
-    "wof:geomhash":"8d0e67ea18effa9a066dcb78c1567bfe",
+    "wof:geomhash":"a591aa92f0267561c0e7c97d99f68d52",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -57,7 +57,14 @@
         }
     ],
     "wof:id":1327180327,
-    "wof:lastmodified":1564171317,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613173626,
     "wof:name":"Situ",
     "wof:parent_id":102072739,
     "wof:placetype":"locality",
@@ -67,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.80306000000002,
+    107.80306,
     -6.90111,
-    107.80306000000002,
+    107.80306,
     -6.90111
 ],
-  "geometry": {"coordinates":[107.80306000000002,-6.90111],"type":"Point"}
+  "geometry": {"coordinates":[107.80306,-6.90111],"type":"Point"}
 }

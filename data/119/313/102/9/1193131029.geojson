@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072947
+        102072947,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6375539
     },
     "wof:country":"ID",
-    "wof:geomhash":"21f1b77c0e76a803ae549a2493c037df",
+    "wof:geomhash":"74582b563360bf20f41c306c808afb09",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1193131029,
-    "wof:lastmodified":1537628439,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179899,
     "wof:name":"Songbledek",
     "wof:parent_id":102072947,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.83138999999998,
+    110.83139,
     -8.15917,
-    110.83138999999998,
+    110.83139,
     -8.15917
 ],
-  "geometry": {"coordinates":[110.83138999999998,-8.15917],"type":"Point"}
+  "geometry": {"coordinates":[110.83139,-8.15917],"type":"Point"}
 }

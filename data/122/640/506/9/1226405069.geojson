@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672037,
-        102073179
+        102073179,
+        85672037
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1939026
     },
     "wof:country":"ID",
-    "wof:geomhash":"f2cdf20828195f46afcaf08c5e47f62d",
+    "wof:geomhash":"5fe7f06f1ca9dd2a27fce69f1d15911b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1226405069,
-    "wof:lastmodified":1536704514,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613186113,
     "wof:name":"Boenmes",
     "wof:parent_id":102073179,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    124.53806000000002,
+    124.53806,
     -9.49778,
-    124.53806000000002,
+    124.53806,
     -9.49778
 ],
-  "geometry": {"coordinates":[124.53806000000002,-9.49778],"type":"Point"}
+  "geometry": {"coordinates":[124.53806,-9.49778],"type":"Point"}
 }

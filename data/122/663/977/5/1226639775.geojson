@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072733
+        102072733,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1935783
     },
     "wof:country":"ID",
-    "wof:geomhash":"1457ae241194d0e71b41a9ff975822f9",
+    "wof:geomhash":"cbd0addfb38a5e05613e24cdf329ab3c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1226639775,
-    "wof:lastmodified":1536866778,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613186305,
     "wof:name":"Ngelo",
     "wof:parent_id":102072733,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.99611000000002,
+    110.99611,
     -7.60944,
-    110.99611000000002,
+    110.99611,
     -7.60944
 ],
-  "geometry": {"coordinates":[110.99611000000002,-7.60944],"type":"Point"}
+  "geometry": {"coordinates":[110.99611,-7.60944],"type":"Point"}
 }

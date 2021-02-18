@@ -152,15 +152,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072921
+        102072921,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6378782
     },
     "wof:country":"ID",
-    "wof:geomhash":"34625372434de5ba1a47e77ef260cb17",
+    "wof:geomhash":"adeae3474d5c28b57cc2ba8b90ae354a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -171,7 +171,14 @@
         }
     ],
     "wof:id":1344077409,
-    "wof:lastmodified":1564172917,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613174290,
     "wof:name":"Serang",
     "wof:parent_id":102072921,
     "wof:placetype":"locality",
@@ -181,10 +188,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.39806000000002,
+    109.39806,
     -7.26639,
-    109.39806000000002,
+    109.39806,
     -7.26639
 ],
-  "geometry": {"coordinates":[109.39806000000002,-7.26639],"type":"Point"}
+  "geometry": {"coordinates":[109.39806,-7.26639],"type":"Point"}
 }

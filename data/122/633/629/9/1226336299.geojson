@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072733
+        102072733,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6560360
     },
     "wof:country":"ID",
-    "wof:geomhash":"28b9a06d0d090406eb8fde3295e75f63",
+    "wof:geomhash":"9ccbd7e4bc026aacf63c9f489bbf26cc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1226336299,
-    "wof:lastmodified":1537629131,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185556,
     "wof:name":"Temon Timur",
     "wof:parent_id":102072733,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.01888999999998,
+    111.01889,
     -7.67167,
-    111.01888999999998,
+    111.01889,
     -7.67167
 ],
-  "geometry": {"coordinates":[111.01888999999998,-7.67167],"type":"Point"}
+  "geometry": {"coordinates":[111.01889,-7.67167],"type":"Point"}
 }

@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672115,
-        1108796879
+        1108796879,
+        85672115
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8526657
     },
     "wof:country":"ID",
-    "wof:geomhash":"aef19f1b7ba359c7620b76ee9e81d526",
+    "wof:geomhash":"5108d5f0ac87d07dd710d8a77a6e48bc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1276915431,
-    "wof:lastmodified":1537636296,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178145,
     "wof:name":"Womubogo",
     "wof:parent_id":1108796879,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    139.89238999999998,
+    139.89239,
     -5.87792,
-    139.89238999999998,
+    139.89239,
     -5.87792
 ],
-  "geometry": {"coordinates":[139.89238999999998,-5.87792],"type":"Point"}
+  "geometry": {"coordinates":[139.89239000000001,-5.87792],"type":"Point"}
 }

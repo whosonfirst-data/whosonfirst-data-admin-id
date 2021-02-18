@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073217
+        102073217,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6605085
     },
     "wof:country":"ID",
-    "wof:geomhash":"f318d5a8fc68e0eb3556aa2e9dff484c",
+    "wof:geomhash":"9f91eb2d7d119ff3115694e1a65e454e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1310660983,
-    "wof:lastmodified":1537630058,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181505,
     "wof:name":"Tegal Tengah",
     "wof:parent_id":102073217,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.64943999999998,
+    106.64944,
     -6.52278,
-    106.64943999999998,
+    106.64944,
     -6.52278
 ],
-  "geometry": {"coordinates":[106.64943999999998,-6.52278],"type":"Point"}
+  "geometry": {"coordinates":[106.64944,-6.52278],"type":"Point"}
 }

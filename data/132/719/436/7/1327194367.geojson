@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072949
+        102072949,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1638800
     },
     "wof:country":"ID",
-    "wof:geomhash":"8ac86e9934fbedabaac43a2d72c88202",
+    "wof:geomhash":"79c0cd7c55fa65560d21be268b7d07f1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1327194367,
-    "wof:lastmodified":1537023612,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613173413,
     "wof:name":"Lagadar",
     "wof:parent_id":102072949,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.53943999999998,
+    107.53944,
     -6.92417,
-    107.53943999999998,
+    107.53944,
     -6.92417
 ],
-  "geometry": {"coordinates":[107.53943999999998,-6.92417],"type":"Point"}
+  "geometry": {"coordinates":[107.53944,-6.92417],"type":"Point"}
 }

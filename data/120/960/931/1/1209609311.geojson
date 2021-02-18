@@ -34,7 +34,7 @@
         "gn:id":2008308
     },
     "wof:country":"ID",
-    "wof:geomhash":"268f1393f69bebfc722f57aa037235c5",
+    "wof:geomhash":"45169ed40c2db8e64437464e8d4e80f6",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209609311,
-    "wof:lastmodified":1536281901,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179099,
     "wof:name":"Kringian",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     110.74694,
-    -7.6630600000000015,
+    -7.66306,
     110.74694,
-    -7.6630600000000015
+    -7.66306
 ],
   "geometry": {"coordinates":[110.74694,-7.66306],"type":"Point"}
 }

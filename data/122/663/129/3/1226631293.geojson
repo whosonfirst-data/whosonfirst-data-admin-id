@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102072849
+        102072849,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1971670
     },
     "wof:country":"ID",
-    "wof:geomhash":"1caccda783e5a8f1b18345aeddf1cc73",
+    "wof:geomhash":"1f165c8926e2b15c001df2950c904f4c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1226631293,
-    "wof:lastmodified":1536879564,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613186306,
     "wof:name":"Ngulakan",
     "wof:parent_id":102072849,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    112.58693999999998,
+    112.58694,
     -7.28083,
-    112.58693999999998,
+    112.58694,
     -7.28083
 ],
-  "geometry": {"coordinates":[112.58693999999998,-7.28083],"type":"Point"}
+  "geometry": {"coordinates":[112.58694,-7.28083],"type":"Point"}
 }

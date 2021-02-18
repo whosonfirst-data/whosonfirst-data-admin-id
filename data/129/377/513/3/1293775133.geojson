@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073233
+        102073233,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2008461
     },
     "wof:country":"ID",
-    "wof:geomhash":"2ecba9b1646202696929db9e0983f66e",
+    "wof:geomhash":"d38ffd7cee45fb6925e0e21ade07a521",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1293775133,
-    "wof:lastmodified":1536868342,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175773,
     "wof:name":"Grembyang",
     "wof:parent_id":102073233,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.74056000000002,
+    110.74056,
     -7.68917,
-    110.74056000000002,
+    110.74056,
     -7.68917
 ],
-  "geometry": {"coordinates":[110.74056000000002,-7.68917],"type":"Point"}
+  "geometry": {"coordinates":[110.74056,-7.68917],"type":"Point"}
 }

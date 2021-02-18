@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073193
+        102073193,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6404070
     },
     "wof:country":"ID",
-    "wof:geomhash":"f591c5cd0b2c4c127deec50df33ee6c6",
+    "wof:geomhash":"5ea960dd9baf8ebbe4835224f7bb0c85",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1193083161,
-    "wof:lastmodified":1537628882,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179797,
     "wof:name":"Bungkoh",
     "wof:parent_id":102073193,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.39806000000002,
+    108.39806,
     -6.42806,
-    108.39806000000002,
+    108.39806,
     -6.42806
 ],
-  "geometry": {"coordinates":[108.39806000000002,-6.42806],"type":"Point"}
+  "geometry": {"coordinates":[108.39806,-6.42806],"type":"Point"}
 }

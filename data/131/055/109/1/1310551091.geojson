@@ -38,15 +38,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        1108796793
+        1108796793,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1646301
     },
     "wof:country":"ID",
-    "wof:geomhash":"fab8f5bcb2a4d3f8047f06339c3fccd9",
+    "wof:geomhash":"7b61fee9fbb222522f999a6cf0dfe74c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -57,7 +57,14 @@
         }
     ],
     "wof:id":1310551091,
-    "wof:lastmodified":1564192320,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181064,
     "wof:name":"Cipanas",
     "wof:parent_id":1108796793,
     "wof:placetype":"locality",
@@ -67,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.35611000000002,
+    107.35611,
     -6.86778,
-    107.35611000000002,
+    107.35611,
     -6.86778
 ],
-  "geometry": {"coordinates":[107.35611000000002,-6.86778],"type":"Point"}
+  "geometry": {"coordinates":[107.35611,-6.86778],"type":"Point"}
 }

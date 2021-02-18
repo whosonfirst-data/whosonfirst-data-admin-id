@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073295
+        102073295,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6599487
     },
     "wof:country":"ID",
-    "wof:geomhash":"945dc212d3ce5c46851fda202d85b039",
+    "wof:geomhash":"ab832c94b53bf763d4fc8a91504e3755",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1243500355,
-    "wof:lastmodified":1537629963,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183553,
     "wof:name":"Babakanherman",
     "wof:parent_id":102073295,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.73111000000002,
+    107.73111,
     -6.43417,
-    107.73111000000002,
+    107.73111,
     -6.43417
 ],
-  "geometry": {"coordinates":[107.73111000000002,-6.43417],"type":"Point"}
+  "geometry": {"coordinates":[107.73111,-6.43417],"type":"Point"}
 }

@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072857
+        102072857,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6258724
     },
     "wof:country":"ID",
-    "wof:geomhash":"e921bf19a9cb1405009f7fd746cbc934",
+    "wof:geomhash":"b8908da144c60eb2020af00aec6881b0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1327324881,
-    "wof:lastmodified":1536835097,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613172938,
     "wof:name":"Jebulan",
     "wof:parent_id":102072857,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.33138999999998,
+    110.33139,
     -7.51389,
-    110.33138999999998,
+    110.33139,
     -7.51389
 ],
-  "geometry": {"coordinates":[110.33138999999998,-7.51389],"type":"Point"}
+  "geometry": {"coordinates":[110.33139,-7.51389],"type":"Point"}
 }

@@ -34,7 +34,7 @@
         "gn:id":1962594
     },
     "wof:country":"ID",
-    "wof:geomhash":"df091a5d915305c7dcff7c7a9cfdad8e",
+    "wof:geomhash":"fd840d62372ca3f984e5ccdd79feee40",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209460825,
-    "wof:lastmodified":1536286386,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178683,
     "wof:name":"Bongkor",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     107.67361,
-    -6.843610000000001,
+    -6.84361,
     107.67361,
-    -6.843610000000001
+    -6.84361
 ],
   "geometry": {"coordinates":[107.67361,-6.84361],"type":"Point"}
 }

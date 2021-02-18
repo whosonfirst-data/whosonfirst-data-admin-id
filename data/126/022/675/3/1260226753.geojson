@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073295
+        102073295,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6567990
     },
     "wof:country":"ID",
-    "wof:geomhash":"2ec6e2037573099f5053cf255b8e5d11",
+    "wof:geomhash":"4d479d60540a0c4abd4c7b8f14709ad3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1260226753,
-    "wof:lastmodified":1537629337,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613180285,
     "wof:name":"Reungasjajar",
     "wof:parent_id":102073295,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.77443999999998,
+    107.77444,
     -6.6125,
-    107.77443999999998,
+    107.77444,
     -6.6125
 ],
-  "geometry": {"coordinates":[107.77443999999998,-6.6125],"type":"Point"}
+  "geometry": {"coordinates":[107.77444,-6.6125],"type":"Point"}
 }

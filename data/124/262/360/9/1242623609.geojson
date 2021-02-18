@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073515
+        102073515,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6396275
     },
     "wof:country":"ID",
-    "wof:geomhash":"49ee2f07ddc222570287c6bda6ae38bf",
+    "wof:geomhash":"1f8a8f7390e6e6387bbffd4fc630d0dc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1242623609,
-    "wof:lastmodified":1537628747,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183934,
     "wof:name":"Dwisari",
     "wof:parent_id":102073515,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.30306000000002,
+    108.30306,
     -6.67444,
-    108.30306000000002,
+    108.30306,
     -6.67444
 ],
-  "geometry": {"coordinates":[108.30306000000002,-6.67444],"type":"Point"}
+  "geometry": {"coordinates":[108.30306,-6.67444],"type":"Point"}
 }

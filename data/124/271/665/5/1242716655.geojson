@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672041,
-        102073199
+        102073199,
+        85672041
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1902777
     },
     "wof:country":"ID",
-    "wof:geomhash":"add85be57bf4a1a1cecf7395d0bbf928",
+    "wof:geomhash":"4cd043dd06300391d199d428c63878cf",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1242716655,
-    "wof:lastmodified":1536862068,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183909,
     "wof:name":"Rumahraja",
     "wof:parent_id":102073199,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    119.58693999999998,
+    119.58694,
     -4.59083,
-    119.58693999999998,
+    119.58694,
     -4.59083
 ],
-  "geometry": {"coordinates":[119.58693999999998,-4.59083],"type":"Point"}
+  "geometry": {"coordinates":[119.58694,-4.59083],"type":"Point"}
 }

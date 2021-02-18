@@ -34,15 +34,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672001,
-        102072841
+        102072841,
+        85672001
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1959155
     },
     "wof:country":"ID",
-    "wof:geomhash":"93402c54fe59cbe38257fd34f696abb7",
+    "wof:geomhash":"2d03a6e68adb7487d76f4bea69224b24",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +53,14 @@
         }
     ],
     "wof:id":1276676105,
-    "wof:lastmodified":1537627491,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177437,
     "wof:name":"Tanahkodja Satu",
     "wof:parent_id":102072841,
     "wof:placetype":"locality",
@@ -63,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.72693999999998,
+    106.72694,
     -6.17222,
-    106.72693999999998,
+    106.72694,
     -6.17222
 ],
-  "geometry": {"coordinates":[106.72693999999998,-6.17222],"type":"Point"}
+  "geometry": {"coordinates":[106.72694,-6.17222],"type":"Point"}
 }

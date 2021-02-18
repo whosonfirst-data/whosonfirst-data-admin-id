@@ -37,7 +37,7 @@
         "gn:id":6592867
     },
     "wof:country":"ID",
-    "wof:geomhash":"1654708a6104123e7f37681fdbebabb4",
+    "wof:geomhash":"520d63cb0248b601a94dd388d726a2d8",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -45,7 +45,14 @@
         }
     ],
     "wof:id":1209360903,
-    "wof:lastmodified":1537629747,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178299,
     "wof:name":"Wangunjaya",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -55,10 +62,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.46056000000002,
+    107.46056,
     -6.54528,
-    107.46056000000002,
+    107.46056,
     -6.54528
 ],
-  "geometry": {"coordinates":[107.46056000000002,-6.54528],"type":"Point"}
+  "geometry": {"coordinates":[107.46056,-6.54528],"type":"Point"}
 }

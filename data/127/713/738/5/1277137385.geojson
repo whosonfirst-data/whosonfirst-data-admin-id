@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073551
+        102073551,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1964433
     },
     "wof:country":"ID",
-    "wof:geomhash":"796de39f627bf41e49a1f22167feb3c5",
+    "wof:geomhash":"1544e87c5a34581282b724e0fa3a92b9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1277137385,
-    "wof:lastmodified":1536689104,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177648,
     "wof:name":"Lobangdalem",
     "wof:parent_id":102073551,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.03806000000002,
+    107.03806,
     -6.18694,
-    107.03806000000002,
+    107.03806,
     -6.18694
 ],
-  "geometry": {"coordinates":[107.03806000000002,-6.18694],"type":"Point"}
+  "geometry": {"coordinates":[107.03806,-6.18694],"type":"Point"}
 }

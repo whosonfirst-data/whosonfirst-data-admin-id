@@ -34,7 +34,7 @@
         "gn:id":1992073
     },
     "wof:country":"ID",
-    "wof:geomhash":"75af10790ecad2939b3290f0397fcc49",
+    "wof:geomhash":"77f8cec6643f571decb671946fd79ec7",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209274817,
-    "wof:lastmodified":1536292233,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179315,
     "wof:name":"Cimenteng",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -52,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.32361000000002,
-    -6.467219999999998,
-    106.32361000000002,
-    -6.467219999999998
+    106.32361,
+    -6.46722,
+    106.32361,
+    -6.46722
 ],
-  "geometry": {"coordinates":[106.32361000000002,-6.46722],"type":"Point"}
+  "geometry": {"coordinates":[106.32361,-6.46722],"type":"Point"}
 }

@@ -62,15 +62,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672097,
-        1108796831
+        1108796831,
+        85672097
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1627569
     },
     "wof:country":"ID",
-    "wof:geomhash":"bed99921aee713d885589770f2b252c5",
+    "wof:geomhash":"db5929cd260980f3b57cf2adfb75d421",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,7 +81,14 @@
         }
     ],
     "wof:id":1243568825,
-    "wof:lastmodified":1564199952,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183656,
     "wof:name":"Sera",
     "wof:parent_id":1108796831,
     "wof:placetype":"locality",
@@ -91,10 +98,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    128.16666999999998,
+    128.16667,
     -8.21667,
-    128.16666999999998,
+    128.16667,
     -8.21667
 ],
-  "geometry": {"coordinates":[128.16666999999998,-8.21667],"type":"Point"}
+  "geometry": {"coordinates":[128.16667000000001,-8.21667],"type":"Point"}
 }

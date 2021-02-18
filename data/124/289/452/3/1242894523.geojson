@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073187
+        102073187,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6565841
     },
     "wof:country":"ID",
-    "wof:geomhash":"d2f8b19e8996e9f515120263a6c0de62",
+    "wof:geomhash":"3f1defaebed38b56b43aac56b3401297",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1242894523,
-    "wof:lastmodified":1537629273,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183058,
     "wof:name":"Babrik",
     "wof:parent_id":102073187,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.87111000000002,
+    109.87111,
     -7.68167,
-    109.87111000000002,
+    109.87111,
     -7.68167
 ],
-  "geometry": {"coordinates":[109.87111000000002,-7.68167],"type":"Point"}
+  "geometry": {"coordinates":[109.87111,-7.68167],"type":"Point"}
 }

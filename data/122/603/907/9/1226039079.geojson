@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072709
+        102072709,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6252505
     },
     "wof:country":"ID",
-    "wof:geomhash":"ff057f6db49dafcfbcc18be1915a840a",
+    "wof:geomhash":"8f9f614b0e4657081d425e3952f68336",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1226039079,
-    "wof:lastmodified":1536734949,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185695,
     "wof:name":"Margosari",
     "wof:parent_id":102072709,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.60056000000002,
+    110.60056,
     -7.39528,
-    110.60056000000002,
+    110.60056,
     -7.39528
 ],
-  "geometry": {"coordinates":[110.60056000000002,-7.39528],"type":"Point"}
+  "geometry": {"coordinates":[110.60056,-7.39528],"type":"Point"}
 }

@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672005,
-        102073327
+        102073327,
+        85672005
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8430557
     },
     "wof:country":"ID",
-    "wof:geomhash":"c101fbf0e34649a8d70df507eb38a450",
+    "wof:geomhash":"d6cd543cb9d01875fff0b2a4bb6138c4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1277053665,
-    "wof:lastmodified":1537636157,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177711,
     "wof:name":"Bakong Sebelas",
     "wof:parent_id":102073327,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.49318999999998,
+    110.49319,
     0.08944,
-    110.49318999999998,
+    110.49319,
     0.08944
 ],
-  "geometry": {"coordinates":[110.49318999999998,0.08944],"type":"Point"}
+  "geometry": {"coordinates":[110.49319,0.08944],"type":"Point"}
 }

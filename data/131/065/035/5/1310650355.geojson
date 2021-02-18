@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671995,
-        1108796785
+        1108796785,
+        85671995
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1989936
     },
     "wof:country":"ID",
-    "wof:geomhash":"6986193063edfb115c87b6338c6d12fd",
+    "wof:geomhash":"4ece1b289747d789192164d26882afe7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1310650355,
-    "wof:lastmodified":1536708378,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613180916,
     "wof:name":"Bojonggede",
     "wof:parent_id":1108796785,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.67806000000002,
+    106.67806,
     -6.22944,
-    106.67806000000002,
+    106.67806,
     -6.22944
 ],
-  "geometry": {"coordinates":[106.67806000000002,-6.22944],"type":"Point"}
+  "geometry": {"coordinates":[106.67806,-6.22944],"type":"Point"}
 }

@@ -34,7 +34,7 @@
         "gn:id":1951412
     },
     "wof:country":"ID",
-    "wof:geomhash":"3d14312e8f7dee950721d74468c467ee",
+    "wof:geomhash":"28e7e6ec36e73b31a45d01f1051cfcfd",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209480935,
-    "wof:lastmodified":1536285785,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178610,
     "wof:name":"Foe",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -52,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    124.46056000000002,
+    124.46056,
     -9.4125,
-    124.46056000000002,
+    124.46056,
     -9.4125
 ],
-  "geometry": {"coordinates":[124.46056000000002,-9.4125],"type":"Point"}
+  "geometry": {"coordinates":[124.46056,-9.4125],"type":"Point"}
 }

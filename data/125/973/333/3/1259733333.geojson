@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671995,
-        102073209
+        102073209,
+        85671995
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1992401
     },
     "wof:country":"ID",
-    "wof:geomhash":"7b99661f1a01fc24fa5c7eec3324ad0c",
+    "wof:geomhash":"5d1da05db8729753664d0d90c360c254",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1259733333,
-    "wof:lastmodified":1536994653,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185019,
     "wof:name":"Resimen Dodiklatpur Siliwangi",
     "wof:parent_id":102073209,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.33556000000002,
+    106.33556,
     -6.41139,
-    106.33556000000002,
+    106.33556,
     -6.41139
 ],
-  "geometry": {"coordinates":[106.33556000000002,-6.41139],"type":"Point"}
+  "geometry": {"coordinates":[106.33556,-6.41139],"type":"Point"}
 }

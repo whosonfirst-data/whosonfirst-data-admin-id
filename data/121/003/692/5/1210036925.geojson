@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072983
+        102072983,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2011078
     },
     "wof:country":"ID",
-    "wof:geomhash":"c52286785feec00211bb536e64268b03",
+    "wof:geomhash":"40b14b0d00f341cc62137c44c3778769",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1210036925,
-    "wof:lastmodified":1536386078,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179687,
     "wof:name":"Cikalan",
     "wof:parent_id":102072983,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.62888999999998,
+    110.62889,
     -7.56306,
-    110.62888999999998,
+    110.62889,
     -7.56306
 ],
-  "geometry": {"coordinates":[110.62888999999998,-7.56306],"type":"Point"}
+  "geometry": {"coordinates":[110.62889,-7.56306],"type":"Point"}
 }

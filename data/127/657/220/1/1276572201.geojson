@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073187
+        102073187,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6566867
     },
     "wof:country":"ID",
-    "wof:geomhash":"7ed3deb5a2a7ea6f63f22a1f470bca1c",
+    "wof:geomhash":"d69a34e2760b0fba8c4a6bc23b21603b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1276572201,
-    "wof:lastmodified":1537629306,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177606,
     "wof:name":"Ketepeng",
     "wof:parent_id":102073187,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.92638999999998,
+    109.92639,
     -7.54389,
-    109.92638999999998,
+    109.92639,
     -7.54389
 ],
-  "geometry": {"coordinates":[109.92638999999998,-7.54389],"type":"Point"}
+  "geometry": {"coordinates":[109.92639,-7.54389],"type":"Point"}
 }

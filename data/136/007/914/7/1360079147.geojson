@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073405
+        102073405,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1934030
     },
     "wof:country":"ID",
-    "wof:geomhash":"6c21de6e202ef2256a278b96446e4f20",
+    "wof:geomhash":"2d0487496a919d9e6dc507c7f9cd95f4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1360079147,
-    "wof:lastmodified":1536954366,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181854,
     "wof:name":"Kopen",
     "wof:parent_id":102073405,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.75943999999998,
+    110.75944,
     -7.61361,
-    110.75943999999998,
+    110.75944,
     -7.61361
 ],
-  "geometry": {"coordinates":[110.75943999999998,-7.61361],"type":"Point"}
+  "geometry": {"coordinates":[110.75944,-7.61361],"type":"Point"}
 }

@@ -53,15 +53,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072639
+        102072639,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6376595
     },
     "wof:country":"ID",
-    "wof:geomhash":"3c857e8c87766e2f47bbe12990ac0e7f",
+    "wof:geomhash":"26f70d6230ca49d69b1f46e4a293c3b9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -72,7 +72,14 @@
         }
     ],
     "wof:id":1242668593,
-    "wof:lastmodified":1564198520,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183186,
     "wof:name":"Bulu",
     "wof:parent_id":102072639,
     "wof:placetype":"locality",
@@ -82,10 +89,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.68361000000002,
+    109.68361,
     -7.66611,
-    109.68361000000002,
+    109.68361,
     -7.66611
 ],
-  "geometry": {"coordinates":[109.68361000000002,-7.66611],"type":"Point"}
+  "geometry": {"coordinates":[109.68361,-7.66611],"type":"Point"}
 }

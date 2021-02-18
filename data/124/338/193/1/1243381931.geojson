@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672115,
-        102073195
+        102073195,
+        85672115
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1628644
     },
     "wof:country":"ID",
-    "wof:geomhash":"5b9f9e9dfad1c4f8b394443a12086c28",
+    "wof:geomhash":"f06c583ce4d4ee142dc40028569c7e62",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1243381931,
-    "wof:lastmodified":1536898576,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613182831,
     "wof:name":"Sarabih-anim",
     "wof:parent_id":102073195,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    138.91666999999998,
+    138.91667,
     -6.73333,
-    138.91666999999998,
+    138.91667,
     -6.73333
 ],
-  "geometry": {"coordinates":[138.91666999999998,-6.73333],"type":"Point"}
+  "geometry": {"coordinates":[138.91667000000001,-6.73333],"type":"Point"}
 }

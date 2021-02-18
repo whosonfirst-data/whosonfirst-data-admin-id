@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073233
+        102073233,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6265480
     },
     "wof:country":"ID",
-    "wof:geomhash":"f49f45514f679d57105c22537cf5bc69",
+    "wof:geomhash":"6f84f7c5a14834b00ba28ce56c9c1537",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1226533269,
-    "wof:lastmodified":1537015362,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613186457,
     "wof:name":"Klebon",
     "wof:parent_id":102073233,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.48111000000002,
+    110.48111,
     -7.68611,
-    110.48111000000002,
+    110.48111,
     -7.68611
 ],
-  "geometry": {"coordinates":[110.48111000000002,-7.68611],"type":"Point"}
+  "geometry": {"coordinates":[110.48111,-7.68611],"type":"Point"}
 }

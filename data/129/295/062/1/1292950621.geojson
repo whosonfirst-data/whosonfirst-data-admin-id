@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072739
+        102072739,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1631227
     },
     "wof:country":"ID",
-    "wof:geomhash":"a2765874d6a6fa8c0233afcb63e66ce6",
+    "wof:geomhash":"063209f9c2f236c51295b049d57317c5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,7 +54,14 @@
         }
     ],
     "wof:id":1292950621,
-    "wof:lastmodified":1537626708,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175663,
     "wof:name":"Peusar",
     "wof:parent_id":102072739,
     "wof:placetype":"locality",
@@ -64,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.86388999999998,
+    107.86389,
     -6.68722,
-    107.86388999999998,
+    107.86389,
     -6.68722
 ],
-  "geometry": {"coordinates":[107.86388999999998,-6.68722],"type":"Point"}
+  "geometry": {"coordinates":[107.86389,-6.68722],"type":"Point"}
 }

@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073233
+        102073233,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6265433
     },
     "wof:country":"ID",
-    "wof:geomhash":"095ea0399efc5be43db9ddf54c52464f",
+    "wof:geomhash":"67a016666c9142dd9aa7d1d76b77049c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1226562757,
-    "wof:lastmodified":1536973194,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185646,
     "wof:name":"Semenan",
     "wof:parent_id":102073233,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.48888999999998,
+    110.48889,
     -7.70417,
-    110.48888999999998,
+    110.48889,
     -7.70417
 ],
-  "geometry": {"coordinates":[110.48888999999998,-7.70417],"type":"Point"}
+  "geometry": {"coordinates":[110.48889,-7.70417],"type":"Point"}
 }

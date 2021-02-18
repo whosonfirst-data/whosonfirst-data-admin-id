@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072947
+        102072947,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6406445
     },
     "wof:country":"ID",
-    "wof:geomhash":"e561b496244337909ac5c69960804188",
+    "wof:geomhash":"2e112058a3424cc25f4277df4af40325",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1209910165,
-    "wof:lastmodified":1537628960,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178387,
     "wof:name":"Ketel",
     "wof:parent_id":102072947,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.01111000000002,
+    111.01111,
     -7.85056,
-    111.01111000000002,
+    111.01111,
     -7.85056
 ],
-  "geometry": {"coordinates":[111.01111000000002,-7.85056],"type":"Point"}
+  "geometry": {"coordinates":[111.01111,-7.85056],"type":"Point"}
 }

@@ -34,15 +34,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102072849
+        102072849,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1905767
     },
     "wof:country":"ID",
-    "wof:geomhash":"d45b28970a7502e444e63ff10018d539",
+    "wof:geomhash":"5e19f9d9066a4915011b3659130dae25",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +53,14 @@
         }
     ],
     "wof:id":1327418791,
-    "wof:lastmodified":1537627423,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613172856,
     "wof:name":"Cangkrangkerep",
     "wof:parent_id":102072849,
     "wof:placetype":"locality",
@@ -63,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    112.61556000000002,
+    112.61556,
     -7.27139,
-    112.61556000000002,
+    112.61556,
     -7.27139
 ],
-  "geometry": {"coordinates":[112.61556000000002,-7.27139],"type":"Point"}
+  "geometry": {"coordinates":[112.61556,-7.27139],"type":"Point"}
 }

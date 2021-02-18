@@ -34,7 +34,7 @@
         "gn:id":6264693
     },
     "wof:country":"ID",
-    "wof:geomhash":"f2d34048e616740753b22032530a664c",
+    "wof:geomhash":"4f169d75b557165613d6bdb8b5c3c298",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209192919,
-    "wof:lastmodified":1536294872,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179452,
     "wof:name":"Sumberan",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -52,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.38611000000002,
+    110.38611,
     -7.73194,
-    110.38611000000002,
+    110.38611,
     -7.73194
 ],
-  "geometry": {"coordinates":[110.38611000000002,-7.73194],"type":"Point"}
+  "geometry": {"coordinates":[110.38611,-7.73194],"type":"Point"}
 }

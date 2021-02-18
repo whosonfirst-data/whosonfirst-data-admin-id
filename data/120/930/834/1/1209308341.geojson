@@ -34,7 +34,7 @@
         "gn:id":1934291
     },
     "wof:country":"ID",
-    "wof:geomhash":"e9fce214efa6ded6cced94260a861d91",
+    "wof:geomhash":"302aff84b2fa22db3fde58c6f35279dd",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209308341,
-    "wof:lastmodified":1536291115,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178480,
     "wof:name":"Jomborkota",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     110.83778,
-    -7.673610000000001,
+    -7.67361,
     110.83778,
-    -7.673610000000001
+    -7.67361
 ],
   "geometry": {"coordinates":[110.83778,-7.67361],"type":"Point"}
 }

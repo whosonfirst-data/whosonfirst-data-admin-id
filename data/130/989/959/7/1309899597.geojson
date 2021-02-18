@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073153
+        102073153,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6381313
     },
     "wof:country":"ID",
-    "wof:geomhash":"e3ebf9b306f0c4cc0e881fe0b32ad699",
+    "wof:geomhash":"6ed4fcd645f69bbc2e4a6399cac3f74d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1309899597,
-    "wof:lastmodified":1537628542,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613182510,
     "wof:name":"Rejasari",
     "wof:parent_id":102073153,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.67806000000002,
+    109.67806,
     -7.35528,
-    109.67806000000002,
+    109.67806,
     -7.35528
 ],
-  "geometry": {"coordinates":[109.67806000000002,-7.35528],"type":"Point"}
+  "geometry": {"coordinates":[109.67806,-7.35528],"type":"Point"}
 }

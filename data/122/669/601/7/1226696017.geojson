@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072949
+        102072949,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1985616
     },
     "wof:country":"ID",
-    "wof:geomhash":"2b14d5d911bd1cf4bbb4e4e2e34e0c2d",
+    "wof:geomhash":"ca6ed78e76b85d61425e0e3c10c3b3b7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1226696017,
-    "wof:lastmodified":1536787711,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185636,
     "wof:name":"Kampungsalam",
     "wof:parent_id":102072949,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.50943999999998,
+    107.50944,
     -7.01917,
-    107.50943999999998,
+    107.50944,
     -7.01917
 ],
-  "geometry": {"coordinates":[107.50943999999998,-7.01917],"type":"Point"}
+  "geometry": {"coordinates":[107.50944,-7.01917],"type":"Point"}
 }

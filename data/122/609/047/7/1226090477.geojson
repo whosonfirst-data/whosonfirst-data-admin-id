@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671995,
-        102073209
+        102073209,
+        85671995
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7787622
     },
     "wof:country":"ID",
-    "wof:geomhash":"49d50679d4e6960509a8eeefd3c62ff0",
+    "wof:geomhash":"63bb7b453038ae1887764cc50c1af146",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1226090477,
-    "wof:lastmodified":1537634471,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613186524,
     "wof:name":"Ciharagu",
     "wof:parent_id":102073209,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.03898999999998,
+    106.03899,
     -6.75202,
-    106.03898999999998,
+    106.03899,
     -6.75202
 ],
-  "geometry": {"coordinates":[106.03898999999998,-6.75202],"type":"Point"}
+  "geometry": {"coordinates":[106.03899,-6.75202],"type":"Point"}
 }

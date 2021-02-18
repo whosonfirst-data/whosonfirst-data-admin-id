@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073187
+        102073187,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6565338
     },
     "wof:country":"ID",
-    "wof:geomhash":"04e23b8c5e040d937b6a929ed4924eaf",
+    "wof:geomhash":"408f95631cffaac53ea76b5139fb4e50",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1293804367,
-    "wof:lastmodified":1537629258,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613176696,
     "wof:name":"Bungkah",
     "wof:parent_id":102073187,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.93361000000002,
+    109.93361,
     -7.80583,
-    109.93361000000002,
+    109.93361,
     -7.80583
 ],
-  "geometry": {"coordinates":[109.93361000000002,-7.80583],"type":"Point"}
+  "geometry": {"coordinates":[109.93361,-7.80583],"type":"Point"}
 }

@@ -36,15 +36,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073505
+        102073505,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1642838
     },
     "wof:country":"ID",
-    "wof:geomhash":"e2dfd7070d1654eb30e9719309f89d02",
+    "wof:geomhash":"a2dfd65da83d396500b467d781ce366a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -55,7 +55,14 @@
         }
     ],
     "wof:id":1193238453,
-    "wof:lastmodified":1537627077,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179843,
     "wof:name":"Jamblang",
     "wof:parent_id":102073505,
     "wof:placetype":"locality",
@@ -65,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.44861000000002,
+    108.44861,
     -6.70806,
-    108.44861000000002,
+    108.44861,
     -6.70806
 ],
-  "geometry": {"coordinates":[108.44861000000002,-6.70806],"type":"Point"}
+  "geometry": {"coordinates":[108.44861,-6.70806],"type":"Point"}
 }

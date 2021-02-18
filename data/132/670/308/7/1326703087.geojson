@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672009,
-        102072927
+        102072927,
+        85672009
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7863570
     },
     "wof:country":"ID",
-    "wof:geomhash":"13da4741847ca85f85b4e430ca9aa9e2",
+    "wof:geomhash":"3728280ecef55c6d770bf9f9890a215e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1326703087,
-    "wof:lastmodified":1537634736,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613173128,
     "wof:name":"Gununghaji",
     "wof:parent_id":102072927,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    104.92298999999998,
+    104.92299,
     -5.06417,
-    104.92298999999998,
+    104.92299,
     -5.06417
 ],
-  "geometry": {"coordinates":[104.92298999999998,-5.06417],"type":"Point"}
+  "geometry": {"coordinates":[104.92299,-5.06417],"type":"Point"}
 }

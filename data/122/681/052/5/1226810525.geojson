@@ -36,15 +36,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672097,
-        1108796837
+        1108796837,
+        85672097
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1636776
     },
     "wof:country":"ID",
-    "wof:geomhash":"539e153e307d354ec1f5705da0384264",
+    "wof:geomhash":"38a0749e62d5ca6598b6b3363fc5b3ae",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -55,7 +55,14 @@
         }
     ],
     "wof:id":1226810525,
-    "wof:lastmodified":1537626883,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185263,
     "wof:name":"Maketian",
     "wof:parent_id":1108796837,
     "wof:placetype":"locality",
@@ -65,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    131.22799999999998,
+    131.228,
     -7.5515,
-    131.22799999999998,
+    131.228,
     -7.5515
 ],
-  "geometry": {"coordinates":[131.22799999999998,-7.5515],"type":"Point"}
+  "geometry": {"coordinates":[131.22800000000001,-7.5515],"type":"Point"}
 }

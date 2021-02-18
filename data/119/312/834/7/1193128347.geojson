@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072857
+        102072857,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6256871
     },
     "wof:country":"ID",
-    "wof:geomhash":"80aae17d81547fe679298ee2e12bcb70",
+    "wof:geomhash":"48fd8fd641ac4cec44c2fcf396fa2377",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1193128347,
-    "wof:lastmodified":1536378512,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179884,
     "wof:name":"Miriombo",
     "wof:parent_id":102072857,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.30138999999998,
+    110.30139,
     -7.43694,
-    110.30138999999998,
+    110.30139,
     -7.43694
 ],
-  "geometry": {"coordinates":[110.30138999999998,-7.43694],"type":"Point"}
+  "geometry": {"coordinates":[110.30139,-7.43694],"type":"Point"}
 }

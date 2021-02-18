@@ -34,7 +34,7 @@
         "gn:id":6200377
     },
     "wof:country":"ID",
-    "wof:geomhash":"985a3afecce103580fb95531d575c1f4",
+    "wof:geomhash":"168a24e2d880268eaea4519b48bf4861",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209508859,
-    "wof:lastmodified":1536284946,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178922,
     "wof:name":"Gondangan",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -52,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.05306000000002,
+    110.05306,
     -7.26,
-    110.05306000000002,
+    110.05306,
     -7.26
 ],
-  "geometry": {"coordinates":[110.05306000000002,-7.26],"type":"Point"}
+  "geometry": {"coordinates":[110.05306,-7.26],"type":"Point"}
 }

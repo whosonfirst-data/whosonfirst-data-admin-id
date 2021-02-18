@@ -34,7 +34,7 @@
         "gn:id":6200862
     },
     "wof:country":"ID",
-    "wof:geomhash":"725a755ef77466ba4f01b87167306b68",
+    "wof:geomhash":"84fcccc5edcc9fe45937f35377f2685b",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209308489,
-    "wof:lastmodified":1536291111,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178486,
     "wof:name":"Ngabean",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     110.20528,
-    -7.2908300000000015,
+    -7.29083,
     110.20528,
-    -7.2908300000000015
+    -7.29083
 ],
   "geometry": {"coordinates":[110.20528,-7.29083],"type":"Point"}
 }

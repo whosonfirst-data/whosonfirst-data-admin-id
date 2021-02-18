@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072929
+        102072929,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6263429
     },
     "wof:country":"ID",
-    "wof:geomhash":"c26a975743733c3f6ef99410598ddff0",
+    "wof:geomhash":"e0e330c2e65f2da0c5367286b4bdeb25",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1293780179,
-    "wof:lastmodified":1536860794,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175986,
     "wof:name":"Ngengo",
     "wof:parent_id":102072929,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.85056000000002,
+    110.85056,
     -7.335,
-    110.85056000000002,
+    110.85056,
     -7.335
 ],
-  "geometry": {"coordinates":[110.85056000000002,-7.335],"type":"Point"}
+  "geometry": {"coordinates":[110.85056,-7.335],"type":"Point"}
 }

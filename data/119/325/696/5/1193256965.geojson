@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073469
+        102073469,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6259975
     },
     "wof:country":"ID",
-    "wof:geomhash":"6f7ebd7de3cac8e4c9d97e7b7e342526",
+    "wof:geomhash":"5dbf61c08a7e2ed017e3e04c931afe28",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1193256965,
-    "wof:lastmodified":1536363611,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179956,
     "wof:name":"Sigerung",
     "wof:parent_id":102073469,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.17638999999998,
+    110.17639,
     -7.69778,
-    110.17638999999998,
+    110.17639,
     -7.69778
 ],
-  "geometry": {"coordinates":[110.17638999999998,-7.69778],"type":"Point"}
+  "geometry": {"coordinates":[110.17639,-7.69778],"type":"Point"}
 }

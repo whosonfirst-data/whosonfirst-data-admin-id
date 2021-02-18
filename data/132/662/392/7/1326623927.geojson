@@ -34,15 +34,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072709
+        102072709,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1964939
     },
     "wof:country":"ID",
-    "wof:geomhash":"ea6f65f45f31d767a01935a7c1531a03",
+    "wof:geomhash":"c619023a1e446cc38fb0e99ced7779dc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +53,14 @@
         }
     ],
     "wof:id":1326623927,
-    "wof:lastmodified":1537627786,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613173326,
     "wof:name":"Nayombu",
     "wof:parent_id":102072709,
     "wof:placetype":"locality",
@@ -63,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.39388999999998,
+    110.39389,
     -7.29833,
-    110.39388999999998,
+    110.39389,
     -7.29833
 ],
-  "geometry": {"coordinates":[110.39388999999998,-7.29833],"type":"Point"}
+  "geometry": {"coordinates":[110.39389,-7.29833],"type":"Point"}
 }

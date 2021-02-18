@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672009,
-        1108796809
+        1108796809,
+        85672009
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7862478
     },
     "wof:country":"ID",
-    "wof:geomhash":"373ba8ccec473e3c7b1cd7f789d058c6",
+    "wof:geomhash":"0f5a365b2611424cbfa9c98de3c719b7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1310673673,
-    "wof:lastmodified":1537634697,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181688,
     "wof:name":"Bayas Tengah",
     "wof:parent_id":1108796809,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    104.99318999999998,
+    104.99319,
     -5.54297,
-    104.99318999999998,
+    104.99319,
     -5.54297
 ],
-  "geometry": {"coordinates":[104.99318999999998,-5.54297],"type":"Point"}
+  "geometry": {"coordinates":[104.99319,-5.54297],"type":"Point"}
 }

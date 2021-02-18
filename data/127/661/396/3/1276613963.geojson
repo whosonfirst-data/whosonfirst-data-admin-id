@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        1108796793
+        1108796793,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6591865
     },
     "wof:country":"ID",
-    "wof:geomhash":"f03fc4b152822804a07e04b613e15051",
+    "wof:geomhash":"a082319c008d63f5a1e4e7a1a6f47dfa",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1276613963,
-    "wof:lastmodified":1537629715,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177575,
     "wof:name":"Cibujil",
     "wof:parent_id":1108796793,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.26111000000002,
+    107.26111,
     -6.96417,
-    107.26111000000002,
+    107.26111,
     -6.96417
 ],
-  "geometry": {"coordinates":[107.26111000000002,-6.96417],"type":"Point"}
+  "geometry": {"coordinates":[107.26111,-6.96417],"type":"Point"}
 }

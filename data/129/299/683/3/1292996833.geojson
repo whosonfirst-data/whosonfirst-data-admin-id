@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072647
+        102072647,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6562400
     },
     "wof:country":"ID",
-    "wof:geomhash":"d42e7fa2d5c00afa89c1308d661acf93",
+    "wof:geomhash":"18c1216580ac0bdd37e7b636e3a70a21",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1292996833,
-    "wof:lastmodified":1537629182,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613176515,
     "wof:name":"Bubak",
     "wof:parent_id":102072647,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.52306000000002,
+    109.52306,
     -7.1475,
-    109.52306000000002,
+    109.52306,
     -7.1475
 ],
-  "geometry": {"coordinates":[109.52306000000002,-7.1475],"type":"Point"}
+  "geometry": {"coordinates":[109.52306,-7.1475],"type":"Point"}
 }

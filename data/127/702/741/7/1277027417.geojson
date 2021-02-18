@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672019,
-        1108796781
+        1108796781,
+        85672019
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8743898
     },
     "wof:country":"ID",
-    "wof:geomhash":"eba387161a64cb960fe25525b855779a",
+    "wof:geomhash":"682d0f65b13ced176e3f0a74c4dfb7eb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1277027417,
-    "wof:lastmodified":1537636675,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177723,
     "wof:name":"Ketapih",
     "wof:parent_id":1108796781,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.33263999999998,
+    106.33264,
     -2.77667,
-    106.33263999999998,
+    106.33264,
     -2.77667
 ],
-  "geometry": {"coordinates":[106.33263999999998,-2.77667],"type":"Point"}
+  "geometry": {"coordinates":[106.33264,-2.77667],"type":"Point"}
 }

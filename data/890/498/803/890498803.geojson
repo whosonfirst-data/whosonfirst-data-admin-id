@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"115.4108185,-8.226223,115.4108185,-8.226223",
+    "geom:bbox":"115.410819,-8.226223,115.410819,-8.226223",
     "geom:latitude":-8.226223,
     "geom:longitude":115.410819,
     "gp:adm0":23424846,
@@ -27,8 +27,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672023,
-        102072859
+        102072859,
+        85672023
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,7 +37,7 @@
     },
     "wof:country":"ID",
     "wof:created":1469055190,
-    "wof:geomhash":"d6432f890ded634d1e41f50ee1f11ced",
+    "wof:geomhash":"61610b7f976e85f6b2bbfb7708621f4f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":890498803,
-    "wof:lastmodified":1500046167,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613182647,
     "wof:name":"Danau Waduk",
     "wof:parent_id":102072859,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    115.4108185,
+    115.410819,
     -8.226223,
-    115.4108185,
+    115.410819,
     -8.226223
 ],
-  "geometry": {"coordinates":[115.4108185,-8.226223],"type":"Point"}
+  "geometry": {"coordinates":[115.410819,-8.226223],"type":"Point"}
 }

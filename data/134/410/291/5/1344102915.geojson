@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073163
+        102073163,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6583574
     },
     "wof:country":"ID",
-    "wof:geomhash":"8264092ee66052c33746d2db28098b30",
+    "wof:geomhash":"2958fb6a2fea450e4a2cc5d655452626",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1344102915,
-    "wof:lastmodified":1537629531,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613174926,
     "wof:name":"Wargaasih",
     "wof:parent_id":102073163,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.53806000000002,
+    107.53806,
     -6.87222,
-    107.53806000000002,
+    107.53806,
     -6.87222
 ],
-  "geometry": {"coordinates":[107.53806000000002,-6.87222],"type":"Point"}
+  "geometry": {"coordinates":[107.53806,-6.87222],"type":"Point"}
 }

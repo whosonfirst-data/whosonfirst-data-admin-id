@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102073063
+        102073063,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1971195
     },
     "wof:country":"ID",
-    "wof:geomhash":"fa98feacffbdad42f2d59af2e425289a",
+    "wof:geomhash":"9ba7c67cc87e13736162628208ebd545",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1243253739,
-    "wof:lastmodified":1537628023,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183520,
     "wof:name":"Brungbung",
     "wof:parent_id":102073063,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    112.88873999999998,
+    112.88874,
     -7.11806,
-    112.88873999999998,
+    112.88874,
     -7.11806
 ],
-  "geometry": {"coordinates":[112.88873999999998,-7.11806],"type":"Point"}
+  "geometry": {"coordinates":[112.88874,-7.11806],"type":"Point"}
 }

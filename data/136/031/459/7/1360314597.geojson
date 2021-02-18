@@ -33,8 +33,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671977,
         102073415,
+        85671977,
         1108805993
     ],
     "wof:breaches":[],
@@ -42,7 +42,7 @@
         "gn:id":1642050
     },
     "wof:country":"ID",
-    "wof:geomhash":"8de480cf95a47efeb4d8be187852f6c6",
+    "wof:geomhash":"7ed3b68424edb0bf9adf9b353f6a5f87",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -60,7 +60,14 @@
         }
     ],
     "wof:id":1360314597,
-    "wof:lastmodified":1537627047,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181892,
     "wof:name":"Kalambuku",
     "wof:parent_id":102073415,
     "wof:placetype":"locality",
@@ -70,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    116.54361000000002,
+    116.54361,
     3.93461,
-    116.54361000000002,
+    116.54361,
     3.93461
 ],
-  "geometry": {"coordinates":[116.54361000000002,3.93461],"type":"Point"}
+  "geometry": {"coordinates":[116.54361,3.93461],"type":"Point"}
 }

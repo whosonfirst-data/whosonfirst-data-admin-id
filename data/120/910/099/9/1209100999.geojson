@@ -34,7 +34,7 @@
         "gn:id":6260018
     },
     "wof:country":"ID",
-    "wof:geomhash":"4e5e90148754b6596bb3f7f9783ddf44",
+    "wof:geomhash":"e07061559215d2e55b9986a30e447139",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209100999,
-    "wof:lastmodified":1536297733,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179514,
     "wof:name":"Kleben",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     110.14972,
-    -7.706110000000002,
+    -7.70611,
     110.14972,
-    -7.706110000000002
+    -7.70611
 ],
   "geometry": {"coordinates":[110.14972,-7.70611],"type":"Point"}
 }

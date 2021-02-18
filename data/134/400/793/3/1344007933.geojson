@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072855
+        102072855,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6603662
     },
     "wof:country":"ID",
-    "wof:geomhash":"5649bf64cdcc7bdb651d558db51c5dc5",
+    "wof:geomhash":"7101c734a0caf270f8b90c0bd6cf1b84",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1344007933,
-    "wof:lastmodified":1537630009,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613174316,
     "wof:name":"Gunungbutak",
     "wof:parent_id":102072855,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.71193999999998,
+    106.71194,
     -6.99667,
-    106.71193999999998,
+    106.71194,
     -6.99667
 ],
-  "geometry": {"coordinates":[106.71193999999998,-6.99667],"type":"Point"}
+  "geometry": {"coordinates":[106.71194,-6.99667],"type":"Point"}
 }

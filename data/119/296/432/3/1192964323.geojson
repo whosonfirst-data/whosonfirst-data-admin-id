@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072949
+        102072949,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6584361
     },
     "wof:country":"ID",
-    "wof:geomhash":"cc97545d67cef9d68752894428dcf8af",
+    "wof:geomhash":"5e16b797cd485eb6856e18927c41fb87",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1192964323,
-    "wof:lastmodified":1537629557,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613180028,
     "wof:name":"Jatisari",
     "wof:parent_id":102072949,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.76888999999998,
+    107.76889,
     -6.97917,
-    107.76888999999998,
+    107.76889,
     -6.97917
 ],
-  "geometry": {"coordinates":[107.76888999999998,-6.97917],"type":"Point"}
+  "geometry": {"coordinates":[107.76889,-6.97917],"type":"Point"}
 }

@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073193
+        102073193,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6402476
     },
     "wof:country":"ID",
-    "wof:geomhash":"79ae8ea239022f482acb7ed9c42e90ac",
+    "wof:geomhash":"1ea3e99828d3276b989acc77461ad507",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1343711251,
-    "wof:lastmodified":1537628869,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613174493,
     "wof:name":"Embos",
     "wof:parent_id":102073193,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.14806000000002,
+    108.14806,
     -6.46972,
-    108.14806000000002,
+    108.14806,
     -6.46972
 ],
-  "geometry": {"coordinates":[108.14806000000002,-6.46972],"type":"Point"}
+  "geometry": {"coordinates":[108.14806,-6.46972],"type":"Point"}
 }

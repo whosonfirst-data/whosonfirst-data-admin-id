@@ -34,15 +34,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102072849
+        102072849,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1969992
     },
     "wof:country":"ID",
-    "wof:geomhash":"71b076b32f0b2684be33e9bf4de813b5",
+    "wof:geomhash":"eb1363ceee40b7d598d307f40fd75577",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +53,14 @@
         }
     ],
     "wof:id":1293120481,
-    "wof:lastmodified":1537627969,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175899,
     "wof:name":"Mojopuro-gede",
     "wof:parent_id":102072849,
     "wof:placetype":"locality",
@@ -63,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    112.52306000000002,
+    112.52306,
     -7.03444,
-    112.52306000000002,
+    112.52306,
     -7.03444
 ],
-  "geometry": {"coordinates":[112.52306000000002,-7.03444],"type":"Point"}
+  "geometry": {"coordinates":[112.52306,-7.03444],"type":"Point"}
 }

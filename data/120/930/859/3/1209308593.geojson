@@ -34,7 +34,7 @@
         "gn:id":2011680
     },
     "wof:country":"ID",
-    "wof:geomhash":"1a1b9b306e56448e8ed4735db31db7e8",
+    "wof:geomhash":"d8b61573380601cc043b79e81d022f39",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209308593,
-    "wof:lastmodified":1536291108,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178476,
     "wof:name":"Karanggeneng",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     110.67,
-    -7.611110000000001,
+    -7.61111,
     110.67,
-    -7.611110000000001
+    -7.61111
 ],
   "geometry": {"coordinates":[110.67,-7.61111],"type":"Point"}
 }

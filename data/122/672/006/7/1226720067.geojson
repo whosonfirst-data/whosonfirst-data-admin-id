@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672009,
-        102072615
+        102072615,
+        85672009
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7667002
     },
     "wof:country":"ID",
-    "wof:geomhash":"b332be2d35adb330a7fb2414434c9fa9",
+    "wof:geomhash":"344696917478804d77347b045a4636ed",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1226720067,
-    "wof:lastmodified":1537634232,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185245,
     "wof:name":"Umbulan Ogan",
     "wof:parent_id":102072615,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    105.46786000000002,
+    105.46786,
     -5.0354,
-    105.46786000000002,
+    105.46786,
     -5.0354
 ],
-  "geometry": {"coordinates":[105.46786000000002,-5.0354],"type":"Point"}
+  "geometry": {"coordinates":[105.46786,-5.0354],"type":"Point"}
 }

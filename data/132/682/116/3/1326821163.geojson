@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072587
+        102072587,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6405034
     },
     "wof:country":"ID",
-    "wof:geomhash":"0c19aff6e6fa7e83ef91c0ed219600b7",
+    "wof:geomhash":"5790fb849c514b3d0119896350b9d5d9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1326821163,
-    "wof:lastmodified":1537628913,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613172988,
     "wof:name":"Pengkaringan",
     "wof:parent_id":102072587,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.89388999999998,
+    109.89389,
     -7.34611,
-    109.89388999999998,
+    109.89389,
     -7.34611
 ],
-  "geometry": {"coordinates":[109.89388999999998,-7.34611],"type":"Point"}
+  "geometry": {"coordinates":[109.89389,-7.34611],"type":"Point"}
 }

@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072929
+        102072929,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6266237
     },
     "wof:country":"ID",
-    "wof:geomhash":"1f337995298f1d4c24094484f026cc6c",
+    "wof:geomhash":"f26914269bd8bf1b1918cccfc15db1f1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1276571875,
-    "wof:lastmodified":1536956666,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177611,
     "wof:name":"Mojorejo",
     "wof:parent_id":102072929,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.98111000000002,
+    110.98111,
     -7.41917,
-    110.98111000000002,
+    110.98111,
     -7.41917
 ],
-  "geometry": {"coordinates":[110.98111000000002,-7.41917],"type":"Point"}
+  "geometry": {"coordinates":[110.98111,-7.41917],"type":"Point"}
 }

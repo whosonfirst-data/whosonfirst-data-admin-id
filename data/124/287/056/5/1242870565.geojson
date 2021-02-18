@@ -41,15 +41,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073417
+        102073417,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6391133
     },
     "wof:country":"ID",
-    "wof:geomhash":"71a6bcf544c2cbfd065074f25f1d092e",
+    "wof:geomhash":"6376a14d7ea6a9f73d67d149dcd3fafa",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -60,7 +60,14 @@
         }
     ],
     "wof:id":1242870565,
-    "wof:lastmodified":1564198119,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183054,
     "wof:name":"Randen",
     "wof:parent_id":102073417,
     "wof:placetype":"locality",
@@ -70,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.12111000000002,
+    109.12111,
     -7.20944,
-    109.12111000000002,
+    109.12111,
     -7.20944
 ],
-  "geometry": {"coordinates":[109.12111000000002,-7.20944],"type":"Point"}
+  "geometry": {"coordinates":[109.12111,-7.20944],"type":"Point"}
 }

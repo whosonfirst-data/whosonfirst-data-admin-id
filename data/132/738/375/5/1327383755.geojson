@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073529
+        102073529,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6579527
     },
     "wof:country":"ID",
-    "wof:geomhash":"08ba914458a8fe04876391fbd5bcbdfe",
+    "wof:geomhash":"5642856e66f0880f7b6eb9f51af3c5e1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1327383755,
-    "wof:lastmodified":1537629430,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613172207,
     "wof:name":"Leuweung Tengah",
     "wof:parent_id":102073529,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.17806000000002,
+    107.17806,
     -6.85472,
-    107.17806000000002,
+    107.17806,
     -6.85472
 ],
-  "geometry": {"coordinates":[107.17806000000002,-6.85472],"type":"Point"}
+  "geometry": {"coordinates":[107.17806,-6.85472],"type":"Point"}
 }

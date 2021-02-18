@@ -36,15 +36,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672009,
-        102072927
+        102072927,
+        85672009
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7666860
     },
     "wof:country":"ID",
-    "wof:geomhash":"4ddfb36a4edb67f7007d31b42d07b2d9",
+    "wof:geomhash":"1a0c9066d4e74fd6294ec87a36044ede",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -55,7 +55,14 @@
         }
     ],
     "wof:id":1344040125,
-    "wof:lastmodified":1537634226,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175042,
     "wof:name":"Ajipamanggilan Satu",
     "wof:parent_id":102072927,
     "wof:placetype":"locality",
@@ -65,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    105.08008999999998,
+    105.08009,
     -5.00476,
-    105.08008999999998,
+    105.08009,
     -5.00476
 ],
-  "geometry": {"coordinates":[105.08008999999998,-5.00476],"type":"Point"}
+  "geometry": {"coordinates":[105.08009,-5.00476],"type":"Point"}
 }

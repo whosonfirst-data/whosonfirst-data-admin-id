@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671995,
-        102072687
+        102072687,
+        85671995
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1960151
     },
     "wof:country":"ID",
-    "wof:geomhash":"378c5a4cd515399bbd7b1dfbe3e3f3ed",
+    "wof:geomhash":"7b9728625509b09eb2a7f30e772cb69b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,7 +54,14 @@
         }
     ],
     "wof:id":1309755705,
-    "wof:lastmodified":1537627542,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613182564,
     "wof:name":"Cayur Satu",
     "wof:parent_id":102072687,
     "wof:placetype":"locality",
@@ -64,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.47556000000002,
+    106.47556,
     -6.16667,
-    106.47556000000002,
+    106.47556,
     -6.16667
 ],
-  "geometry": {"coordinates":[106.47556000000002,-6.16667],"type":"Point"}
+  "geometry": {"coordinates":[106.47556,-6.16667],"type":"Point"}
 }

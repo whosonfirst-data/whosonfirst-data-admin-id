@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073359
+        102073359,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7848424
     },
     "wof:country":"ID",
-    "wof:geomhash":"b148e6af90e75761183efde37cf6dfd7",
+    "wof:geomhash":"44d705bf9818669cf7e490e1664624e7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1327283713,
-    "wof:lastmodified":1537634569,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613173463,
     "wof:name":"Ciawitali",
     "wof:parent_id":102073359,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.76928999999998,
+    107.76929,
     -7.60512,
-    107.76928999999998,
+    107.76929,
     -7.60512
 ],
-  "geometry": {"coordinates":[107.76928999999998,-7.60512],"type":"Point"}
+  "geometry": {"coordinates":[107.76929,-7.60512],"type":"Point"}
 }

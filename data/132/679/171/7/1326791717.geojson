@@ -47,15 +47,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672085,
-        1108796821
+        1108796821,
+        85672085
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1651495
     },
     "wof:country":"ID",
-    "wof:geomhash":"730b074cdad4c2992d009dce718bdd40",
+    "wof:geomhash":"b1040a2d9fab59a2bbf97f4aea98bbad",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -66,7 +66,14 @@
         }
     ],
     "wof:id":1326791717,
-    "wof:lastmodified":1564169978,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613173126,
     "wof:name":"Amo",
     "wof:parent_id":1108796821,
     "wof:placetype":"locality",
@@ -76,10 +83,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    127.30783999999998,
+    127.30784,
     0.76557,
-    127.30783999999998,
+    127.30784,
     0.76557
 ],
-  "geometry": {"coordinates":[127.30783999999998,0.76557],"type":"Point"}
+  "geometry": {"coordinates":[127.30784,0.76557],"type":"Point"}
 }

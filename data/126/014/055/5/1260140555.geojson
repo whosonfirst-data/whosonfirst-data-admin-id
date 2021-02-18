@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073471
+        102073471,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1949511
     },
     "wof:country":"ID",
-    "wof:geomhash":"a26c719a860093cb0a2cf3f96ae94290",
+    "wof:geomhash":"22176512015cc454193458816d2c970e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,7 +54,14 @@
         }
     ],
     "wof:id":1260140555,
-    "wof:lastmodified":1537627457,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613180268,
     "wof:name":"Nangewer",
     "wof:parent_id":102073471,
     "wof:placetype":"locality",
@@ -64,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.47556000000002,
+    107.47556,
     -6.71167,
-    107.47556000000002,
+    107.47556,
     -6.71167
 ],
-  "geometry": {"coordinates":[107.47556000000002,-6.71167],"type":"Point"}
+  "geometry": {"coordinates":[107.47556,-6.71167],"type":"Point"}
 }

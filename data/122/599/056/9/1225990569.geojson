@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073529
+        102073529,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6578939
     },
     "wof:country":"ID",
-    "wof:geomhash":"63c992452c2de9bd424f06c325b080ed",
+    "wof:geomhash":"e537cec43d135db61e060e67f2df1e61",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1225990569,
-    "wof:lastmodified":1537629406,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185917,
     "wof:name":"Pasirkolecer",
     "wof:parent_id":102073529,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.21056000000002,
+    107.21056,
     -6.75861,
-    107.21056000000002,
+    107.21056,
     -6.75861
 ],
-  "geometry": {"coordinates":[107.21056000000002,-6.75861],"type":"Point"}
+  "geometry": {"coordinates":[107.21056,-6.75861],"type":"Point"}
 }

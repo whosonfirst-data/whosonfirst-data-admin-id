@@ -37,7 +37,7 @@
         "gn:id":6601408
     },
     "wof:country":"ID",
-    "wof:geomhash":"292a1d131d49a3611d8dfead8582c9ea",
+    "wof:geomhash":"159393d7029a400380b6a92956a53e3f",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -45,7 +45,14 @@
         }
     ],
     "wof:id":1209174131,
-    "wof:lastmodified":1537629983,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179478,
     "wof:name":"Sindangkerta",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -55,10 +62,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.86556000000002,
+    106.86556,
     -6.95333,
-    106.86556000000002,
+    106.86556,
     -6.95333
 ],
-  "geometry": {"coordinates":[106.86556000000002,-6.95333],"type":"Point"}
+  "geometry": {"coordinates":[106.86556,-6.95333],"type":"Point"}
 }

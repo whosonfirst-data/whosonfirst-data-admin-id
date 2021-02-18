@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073169
+        102073169,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6200017
     },
     "wof:country":"ID",
-    "wof:geomhash":"bb8ecedc9d8f641e62c1db71c722f388",
+    "wof:geomhash":"f48051c591d7e52faef59051ea008749",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1310492723,
-    "wof:lastmodified":1536936135,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613180852,
     "wof:name":"Ngempon",
     "wof:parent_id":102073169,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.12111000000002,
+    110.12111,
     -7.33694,
-    110.12111000000002,
+    110.12111,
     -7.33694
 ],
-  "geometry": {"coordinates":[110.12111000000002,-7.33694],"type":"Point"}
+  "geometry": {"coordinates":[110.12111,-7.33694],"type":"Point"}
 }

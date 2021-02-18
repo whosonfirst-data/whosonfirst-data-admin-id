@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072639
+        102072639,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6377382
     },
     "wof:country":"ID",
-    "wof:geomhash":"e582b4537c331b99b9d2f7fe26ca3675",
+    "wof:geomhash":"e41397fc52d278b40d73a87211eb15b6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1293680195,
-    "wof:lastmodified":1537628488,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613176152,
     "wof:name":"Kedungnangka",
     "wof:parent_id":102072639,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.64388999999998,
+    109.64389,
     -7.55278,
-    109.64388999999998,
+    109.64389,
     -7.55278
 ],
-  "geometry": {"coordinates":[109.64388999999998,-7.55278],"type":"Point"}
+  "geometry": {"coordinates":[109.64389,-7.55278],"type":"Point"}
 }

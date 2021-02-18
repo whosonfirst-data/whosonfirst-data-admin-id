@@ -44,15 +44,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073187
+        102073187,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6260657
     },
     "wof:country":"ID",
-    "wof:geomhash":"729758df061d74d7c838b2d8b3192af2",
+    "wof:geomhash":"d92862c8f11a6cc8d5f339f5f35b0063",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -63,7 +63,14 @@
         }
     ],
     "wof:id":1243545469,
-    "wof:lastmodified":1564197617,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613182888,
     "wof:name":"Karangtengah",
     "wof:parent_id":102073187,
     "wof:placetype":"locality",
@@ -73,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.02306000000002,
+    110.02306,
     -7.61778,
-    110.02306000000002,
+    110.02306,
     -7.61778
 ],
-  "geometry": {"coordinates":[110.02306000000002,-7.61778],"type":"Point"}
+  "geometry": {"coordinates":[110.02306,-7.61778],"type":"Point"}
 }

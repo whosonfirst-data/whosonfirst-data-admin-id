@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073515
+        102073515,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6397327
     },
     "wof:country":"ID",
-    "wof:geomhash":"020333937190a132fd8a097b1739bea6",
+    "wof:geomhash":"51e51dfc547f775cc9e44e3f380d25af",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1209775891,
-    "wof:lastmodified":1537628781,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178620,
     "wof:name":"Panglayungan Satu",
     "wof:parent_id":102073515,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.19861000000002,
+    108.19861,
     -6.81528,
-    108.19861000000002,
+    108.19861,
     -6.81528
 ],
-  "geometry": {"coordinates":[108.19861000000002,-6.81528],"type":"Point"}
+  "geometry": {"coordinates":[108.19861,-6.81528],"type":"Point"}
 }

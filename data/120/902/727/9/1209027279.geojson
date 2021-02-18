@@ -34,7 +34,7 @@
         "gn:id":6262617
     },
     "wof:country":"ID",
-    "wof:geomhash":"693828d2419627c3050bc6018135f1c0",
+    "wof:geomhash":"47169c23762f865a918d0d41066f40f8",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209027279,
-    "wof:lastmodified":1536299957,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179222,
     "wof:name":"Mawung",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     110.76083,
-    -7.4580600000000015,
+    -7.45806,
     110.76083,
-    -7.4580600000000015
+    -7.45806
 ],
   "geometry": {"coordinates":[110.76083,-7.45806],"type":"Point"}
 }

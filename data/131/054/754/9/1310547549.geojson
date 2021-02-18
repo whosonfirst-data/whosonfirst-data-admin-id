@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671995,
-        102072687
+        102072687,
+        85671995
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1989858
     },
     "wof:country":"ID",
-    "wof:geomhash":"09f50f1db3982d4caf5e52f5f9a10dd3",
+    "wof:geomhash":"3ae6ff9025823894cf8263b945a284d6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1310547549,
-    "wof:lastmodified":1536855171,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613180934,
     "wof:name":"Kampung Wates",
     "wof:parent_id":102072687,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.64943999999998,
+    106.64944,
     -6.24694,
-    106.64943999999998,
+    106.64944,
     -6.24694
 ],
-  "geometry": {"coordinates":[106.64943999999998,-6.24694],"type":"Point"}
+  "geometry": {"coordinates":[106.64944,-6.24694],"type":"Point"}
 }

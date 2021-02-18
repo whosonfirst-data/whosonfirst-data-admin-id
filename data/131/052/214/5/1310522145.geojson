@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072921
+        102072921,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6378902
     },
     "wof:country":"ID",
-    "wof:geomhash":"fa5de4b67dced655c1b0791b8496fd17",
+    "wof:geomhash":"7f8b568a1ba270a9e15a37aee45058e3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1310522145,
-    "wof:lastmodified":1537628512,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181050,
     "wof:name":"Kaliber Kulon",
     "wof:parent_id":102072921,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.39943999999998,
+    109.39944,
     -7.29639,
-    109.39943999999998,
+    109.39944,
     -7.29639
 ],
-  "geometry": {"coordinates":[109.39943999999998,-7.29639],"type":"Point"}
+  "geometry": {"coordinates":[109.39944,-7.29639],"type":"Point"}
 }

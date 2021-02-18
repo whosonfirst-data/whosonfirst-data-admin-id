@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072857
+        102072857,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1964033
     },
     "wof:country":"ID",
-    "wof:geomhash":"c2baf201f41f18e2644ea795106624ad",
+    "wof:geomhash":"c6d413126b0f43a3abb448afad07bfd3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1327354073,
-    "wof:lastmodified":1536794272,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613172955,
     "wof:name":"Giri Wetan",
     "wof:parent_id":102072857,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.28806000000002,
+    110.28806,
     -7.42333,
-    110.28806000000002,
+    110.28806,
     -7.42333
 ],
-  "geometry": {"coordinates":[110.28806000000002,-7.42333],"type":"Point"}
+  "geometry": {"coordinates":[110.28806,-7.42333],"type":"Point"}
 }

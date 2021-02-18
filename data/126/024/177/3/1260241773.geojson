@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072937
+        102072937,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6594026
     },
     "wof:country":"ID",
-    "wof:geomhash":"9006b34664c7c2efd0c53c916c615cd8",
+    "wof:geomhash":"e49545f228814254b556d409e69b75de",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1260241773,
-    "wof:lastmodified":1537629784,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613180190,
     "wof:name":"Sumurbandung Kaler",
     "wof:parent_id":102072937,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.44861000000002,
+    107.44861,
     -6.38556,
-    107.44861000000002,
+    107.44861,
     -6.38556
 ],
-  "geometry": {"coordinates":[107.44861000000002,-6.38556],"type":"Point"}
+  "geometry": {"coordinates":[107.44861,-6.38556],"type":"Point"}
 }

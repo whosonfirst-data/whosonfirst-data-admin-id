@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672009,
-        1108796809
+        1108796809,
+        85672009
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7666423
     },
     "wof:country":"ID",
-    "wof:geomhash":"c0224eee3b8491b0dbe3a2a31aeabf3f",
+    "wof:geomhash":"a4bbb9a86497b6c806b3d4f057645310",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1343827877,
-    "wof:lastmodified":1537634211,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613174511,
     "wof:name":"Tempelrejo",
     "wof:parent_id":1108796809,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    105.11641000000002,
+    105.11641,
     -5.3645,
-    105.11641000000002,
+    105.11641,
     -5.3645
 ],
-  "geometry": {"coordinates":[105.11641000000002,-5.3645],"type":"Point"}
+  "geometry": {"coordinates":[105.11641,-5.3645],"type":"Point"}
 }

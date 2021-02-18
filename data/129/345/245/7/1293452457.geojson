@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672037,
-        102073481
+        102073481,
+        85672037
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1940265
     },
     "wof:country":"ID",
-    "wof:geomhash":"09cb91599c8120d60a04f87d9a59b70e",
+    "wof:geomhash":"669357bd4338841ffb78a7721ae53d42",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1293452457,
-    "wof:lastmodified":1536836665,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613176609,
     "wof:name":"Ninu",
     "wof:parent_id":102073481,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    124.82193999999998,
+    124.82194,
     -9.5875,
-    124.82193999999998,
+    124.82194,
     -9.5875
 ],
-  "geometry": {"coordinates":[124.82193999999998,-9.5875],"type":"Point"}
+  "geometry": {"coordinates":[124.82194,-9.5875],"type":"Point"}
 }

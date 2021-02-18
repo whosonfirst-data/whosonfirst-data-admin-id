@@ -62,15 +62,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102073325
+        102073325,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6865438
     },
     "wof:country":"ID",
-    "wof:geomhash":"49766a8f6e01e17ec689317321895198",
+    "wof:geomhash":"1212bb6bbc787e8248f4344fe13c9533",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,7 +81,14 @@
         }
     ],
     "wof:id":1310591517,
-    "wof:lastmodified":1564193637,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181524,
     "wof:name":"Simo",
     "wof:parent_id":102073325,
     "wof:placetype":"locality",
@@ -91,10 +98,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.93146000000002,
+    111.93146,
     -7.13072,
-    111.93146000000002,
+    111.93146,
     -7.13072
 ],
-  "geometry": {"coordinates":[111.93146000000002,-7.13072],"type":"Point"}
+  "geometry": {"coordinates":[111.93146,-7.13072],"type":"Point"}
 }

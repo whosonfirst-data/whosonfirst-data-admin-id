@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073265
+        102073265,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1999652
     },
     "wof:country":"ID",
-    "wof:geomhash":"f31217fd4debb0f94fbe5fef166deb92",
+    "wof:geomhash":"74722427be81984ca916197d85686c24",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1343478913,
-    "wof:lastmodified":1536719881,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613174537,
     "wof:name":"Gatak",
     "wof:parent_id":102073265,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.48888999999998,
+    110.48889,
     -7.76222,
-    110.48888999999998,
+    110.48889,
     -7.76222
 ],
-  "geometry": {"coordinates":[110.48888999999998,-7.76222],"type":"Point"}
+  "geometry": {"coordinates":[110.48889,-7.76222],"type":"Point"}
 }

@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073529
+        102073529,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6579250
     },
     "wof:country":"ID",
-    "wof:geomhash":"4aa08e2da1798c24f57530f072729d87",
+    "wof:geomhash":"e7073f427aa096eb2de6cb7471022b93",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1293336465,
-    "wof:lastmodified":1537629419,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613176377,
     "wof:name":"Mitraloka",
     "wof:parent_id":102073529,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.13443999999998,
+    107.13444,
     -6.82222,
-    107.13443999999998,
+    107.13444,
     -6.82222
 ],
-  "geometry": {"coordinates":[107.13443999999998,-6.82222],"type":"Point"}
+  "geometry": {"coordinates":[107.13444,-6.82222],"type":"Point"}
 }

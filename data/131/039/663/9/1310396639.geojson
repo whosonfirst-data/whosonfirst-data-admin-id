@@ -33,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072857
+        102072857,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1964217
     },
     "wof:country":"ID",
-    "wof:geomhash":"02c4558e019a6e41cc82845979103533",
+    "wof:geomhash":"c6269448014c1fd19052eb5d213c457d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,7 +52,14 @@
         }
     ],
     "wof:id":1310396639,
-    "wof:lastmodified":1537627750,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181188,
     "wof:name":"Sremben",
     "wof:parent_id":102072857,
     "wof:placetype":"locality",
@@ -62,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.39806000000002,
+    110.39806,
     -7.46333,
-    110.39806000000002,
+    110.39806,
     -7.46333
 ],
-  "geometry": {"coordinates":[110.39806000000002,-7.46333],"type":"Point"}
+  "geometry": {"coordinates":[110.39806,-7.46333],"type":"Point"}
 }

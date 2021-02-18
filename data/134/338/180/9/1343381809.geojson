@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072715
+        102072715,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6388449
     },
     "wof:country":"ID",
-    "wof:geomhash":"8e638163b3463188ba1eee2237d671b7",
+    "wof:geomhash":"d1f469f0622281cb17e336cebb60a295",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1343381809,
-    "wof:lastmodified":1537628669,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613173798,
     "wof:name":"Karangkemojing",
     "wof:parent_id":102072715,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.00943999999998,
+    109.00944,
     -7.43528,
-    109.00943999999998,
+    109.00944,
     -7.43528
 ],
-  "geometry": {"coordinates":[109.00943999999998,-7.43528],"type":"Point"}
+  "geometry": {"coordinates":[109.00944,-7.43528],"type":"Point"}
 }

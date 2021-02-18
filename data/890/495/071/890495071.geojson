@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"115.127456,-8.3944305,115.127456,-8.3944305",
+    "geom:bbox":"115.127456,-8.394431,115.127456,-8.394431",
     "geom:latitude":-8.394431,
     "geom:longitude":115.127456,
     "gn:country":"ID",
@@ -37,8 +37,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672023,
-        102072905
+        102072905,
+        85672023
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,7 +51,7 @@
     },
     "wof:country":"ID",
     "wof:created":1469055014,
-    "wof:geomhash":"cee72c238dd063a19000d0044a605a40",
+    "wof:geomhash":"8779c3178e91f53651867e0b5649aff9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -62,7 +62,14 @@
         }
     ],
     "wof:id":890495071,
-    "wof:lastmodified":1534379335,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613182761,
     "wof:name":"Penebel",
     "wof:parent_id":102072905,
     "wof:placetype":"locality",
@@ -76,9 +83,9 @@
 },
   "bbox": [
     115.127456,
-    -8.3944305,
+    -8.394431,
     115.127456,
-    -8.3944305
+    -8.394431
 ],
-  "geometry": {"coordinates":[115.127456,-8.3944305],"type":"Point"}
+  "geometry": {"coordinates":[115.127456,-8.394431],"type":"Point"}
 }

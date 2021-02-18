@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072639
+        102072639,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6376609
     },
     "wof:country":"ID",
-    "wof:geomhash":"817170a0bf52429183bf246c771e925d",
+    "wof:geomhash":"324e7f580c798f4a6efbe6291d28f303",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1225965055,
-    "wof:lastmodified":1537628468,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185944,
     "wof:name":"Kedungjati",
     "wof:parent_id":102072639,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.72556000000002,
+    109.72556,
     -7.66028,
-    109.72556000000002,
+    109.72556,
     -7.66028
 ],
-  "geometry": {"coordinates":[109.72556000000002,-7.66028],"type":"Point"}
+  "geometry": {"coordinates":[109.72556,-7.66028],"type":"Point"}
 }

@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102073063
+        102073063,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1970675
     },
     "wof:country":"ID",
-    "wof:geomhash":"d003e24a07837547b20f40a18401cda7",
+    "wof:geomhash":"28404aea5bc8f2334feac6500bf90fca",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1259864441,
-    "wof:lastmodified":1536806414,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185177,
     "wof:name":"Patuwaan",
     "wof:parent_id":102073063,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    112.75943999999998,
+    112.75944,
     -7.01833,
-    112.75943999999998,
+    112.75944,
     -7.01833
 ],
-  "geometry": {"coordinates":[112.75943999999998,-7.01833],"type":"Point"}
+  "geometry": {"coordinates":[112.75944,-7.01833],"type":"Point"}
 }

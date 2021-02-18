@@ -34,7 +34,7 @@
         "gn:id":2006530
     },
     "wof:country":"ID",
-    "wof:geomhash":"1ce24e330fc68417f66ca5e2b125e0f5",
+    "wof:geomhash":"fd24dbf7a77c5dd786c41e92f527720c",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209435593,
-    "wof:lastmodified":1536287114,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179540,
     "wof:name":"Gatak",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     110.625,
-    -7.6669399999999985,
+    -7.66694,
     110.625,
-    -7.6669399999999985
+    -7.66694
 ],
   "geometry": {"coordinates":[110.625,-7.66694],"type":"Point"}
 }

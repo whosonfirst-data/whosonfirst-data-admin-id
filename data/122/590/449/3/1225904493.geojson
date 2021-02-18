@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671995,
-        102072687
+        102072687,
+        85671995
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6605648
     },
     "wof:country":"ID",
-    "wof:geomhash":"dd4332c176d0efd93039f68150040abf",
+    "wof:geomhash":"66fd53c4a3293338a0df8510f1ade959",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1225904493,
-    "wof:lastmodified":1537630081,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185924,
     "wof:name":"Mampelem Kaler",
     "wof:parent_id":102072687,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.47693999999998,
+    106.47694,
     -6.25556,
-    106.47693999999998,
+    106.47694,
     -6.25556
 ],
-  "geometry": {"coordinates":[106.47693999999998,-6.25556],"type":"Point"}
+  "geometry": {"coordinates":[106.47694,-6.25556],"type":"Point"}
 }

@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672037,
-        102073481
+        102073481,
+        85672037
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1936951
     },
     "wof:country":"ID",
-    "wof:geomhash":"b7cfa4db424a6ef0f1eb724e804930e7",
+    "wof:geomhash":"d27167521ae5e7a21e0aff5d64fc246f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1343724845,
-    "wof:lastmodified":1536860947,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175261,
     "wof:name":"Fatukeduak",
     "wof:parent_id":102073481,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    124.85611000000002,
+    124.85611,
     -9.00222,
-    124.85611000000002,
+    124.85611,
     -9.00222
 ],
-  "geometry": {"coordinates":[124.85611000000002,-9.00222],"type":"Point"}
+  "geometry": {"coordinates":[124.85611,-9.00222],"type":"Point"}
 }

@@ -34,15 +34,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672115,
-        102073081
+        102073081,
+        85672115
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2082435
     },
     "wof:country":"ID",
-    "wof:geomhash":"3ada193de01ae4081377fa04bfb10809",
+    "wof:geomhash":"2c34ef1cd696eb24bbee705045687c49",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +53,14 @@
         }
     ],
     "wof:id":1193190779,
-    "wof:lastmodified":1537628274,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613180118,
     "wof:name":"Tablanusu",
     "wof:parent_id":102073081,
     "wof:placetype":"locality",
@@ -63,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    140.35751000000002,
+    140.35751,
     -2.45298,
-    140.35751000000002,
+    140.35751,
     -2.45298
 ],
-  "geometry": {"coordinates":[140.35751000000002,-2.45298],"type":"Point"}
+  "geometry": {"coordinates":[140.35750999999999,-2.45298],"type":"Point"}
 }

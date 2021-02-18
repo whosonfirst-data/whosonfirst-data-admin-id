@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073217
+        102073217,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6605162
     },
     "wof:country":"ID",
-    "wof:geomhash":"d87f8e077f09208b8d2eb43654275f1a",
+    "wof:geomhash":"c96445792a0b30f8b193b308751d9f1c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1226593583,
-    "wof:lastmodified":1537630061,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185753,
     "wof:name":"Carangpulang",
     "wof:parent_id":102073217,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.72693999999998,
+    106.72694,
     -6.545,
-    106.72693999999998,
+    106.72694,
     -6.545
 ],
-  "geometry": {"coordinates":[106.72693999999998,-6.545],"type":"Point"}
+  "geometry": {"coordinates":[106.72694,-6.545],"type":"Point"}
 }

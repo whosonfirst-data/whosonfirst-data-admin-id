@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073313
+        102073313,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2000331
     },
     "wof:country":"ID",
-    "wof:geomhash":"c1c53b9b7cebf787e46fb1a67ac80258",
+    "wof:geomhash":"25a4b15c944ab8d03ba6464c0aa3fa44",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1293478549,
-    "wof:lastmodified":1536800055,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175975,
     "wof:name":"Ngantunan",
     "wof:parent_id":102073313,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.46056000000002,
+    110.46056,
     -7.84889,
-    110.46056000000002,
+    110.46056,
     -7.84889
 ],
-  "geometry": {"coordinates":[110.46056000000002,-7.84889],"type":"Point"}
+  "geometry": {"coordinates":[110.46056,-7.84889],"type":"Point"}
 }

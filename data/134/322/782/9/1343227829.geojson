@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672037,
-        102073481
+        102073481,
+        85672037
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1946927
     },
     "wof:country":"ID",
-    "wof:geomhash":"003e62a4314d449f9e308e452b454b83",
+    "wof:geomhash":"fdc2c937aa6a80260c2ab61376dcce57",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1343227829,
-    "wof:lastmodified":1537079030,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613174551,
     "wof:name":"Umaai",
     "wof:parent_id":102073481,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    125.01111000000002,
+    125.01111,
     -9.50167,
-    125.01111000000002,
+    125.01111,
     -9.50167
 ],
-  "geometry": {"coordinates":[125.01111000000002,-9.50167],"type":"Point"}
+  "geometry": {"coordinates":[125.01111,-9.50167],"type":"Point"}
 }

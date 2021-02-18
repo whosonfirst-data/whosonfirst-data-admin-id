@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073169
+        102073169,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1623248
     },
     "wof:country":"ID",
-    "wof:geomhash":"d1bc852d22f9232d1d3643f6f8a042db",
+    "wof:geomhash":"581a65f184d6a6966b770c24d8d1fbe4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,7 +54,14 @@
         }
     ],
     "wof:id":1360079221,
-    "wof:lastmodified":1537626460,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181853,
     "wof:name":"Tretep",
     "wof:parent_id":102073169,
     "wof:placetype":"locality",
@@ -64,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.00943999999998,
+    110.00944,
     -7.1725,
-    110.00943999999998,
+    110.00944,
     -7.1725
 ],
-  "geometry": {"coordinates":[110.00943999999998,-7.1725],"type":"Point"}
+  "geometry": {"coordinates":[110.00944,-7.1725],"type":"Point"}
 }

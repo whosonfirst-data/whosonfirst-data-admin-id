@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073469
+        102073469,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2010951
     },
     "wof:country":"ID",
-    "wof:geomhash":"822a98ee3ac0f2b92ce2b938d6f9977f",
+    "wof:geomhash":"69087ab1cb5121e0ff0293c260264f6f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1210010091,
-    "wof:lastmodified":1536369335,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179672,
     "wof:name":"Sedoplang",
     "wof:parent_id":102073469,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.13611000000002,
+    110.13611,
     -7.80028,
-    110.13611000000002,
+    110.13611,
     -7.80028
 ],
-  "geometry": {"coordinates":[110.13611000000002,-7.80028],"type":"Point"}
+  "geometry": {"coordinates":[110.13611,-7.80028],"type":"Point"}
 }

@@ -34,7 +34,7 @@
         "gn:id":1985215
     },
     "wof:country":"ID",
-    "wof:geomhash":"4267f81192e979477d043bf48da4711d",
+    "wof:geomhash":"c3ebfd24b934b1aef5038ccc3ffecddd",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209260769,
-    "wof:lastmodified":1536292698,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179420,
     "wof:name":"Cibuntu Satu",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     107.60333,
-    -7.2027800000000015,
+    -7.20278,
     107.60333,
-    -7.2027800000000015
+    -7.20278
 ],
   "geometry": {"coordinates":[107.60333,-7.20278],"type":"Point"}
 }

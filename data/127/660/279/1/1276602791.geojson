@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073193
+        102073193,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6403935
     },
     "wof:country":"ID",
-    "wof:geomhash":"3970ee7dfb997201b1a95f0d32b3c4fc",
+    "wof:geomhash":"cc7ad08ccce292b52a9315ba4af652e2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1276602791,
-    "wof:lastmodified":1537628878,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177427,
     "wof:name":"Gudang Barat",
     "wof:parent_id":102073193,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.30306000000002,
+    108.30306,
     -6.47806,
-    108.30306000000002,
+    108.30306,
     -6.47806
 ],
-  "geometry": {"coordinates":[108.30306000000002,-6.47806],"type":"Point"}
+  "geometry": {"coordinates":[108.30306,-6.47806],"type":"Point"}
 }

@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073529
+        102073529,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6579578
     },
     "wof:country":"ID",
-    "wof:geomhash":"82f872cd4d61ac4c637417f6a165b691",
+    "wof:geomhash":"e8b3b8282c05ecdc76680ad32c7c6683",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1277137091,
-    "wof:lastmodified":1537629433,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177646,
     "wof:name":"Tipar Kaler",
     "wof:parent_id":102073529,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.19693999999998,
+    107.19694,
     -6.85889,
-    107.19693999999998,
+    107.19694,
     -6.85889
 ],
-  "geometry": {"coordinates":[107.19693999999998,-6.85889],"type":"Point"}
+  "geometry": {"coordinates":[107.19694,-6.85889],"type":"Point"}
 }

@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073505
+        102073505,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6402236
     },
     "wof:country":"ID",
-    "wof:geomhash":"24cbc8b8030f063fc3f5178e8ab7f302",
+    "wof:geomhash":"f7760393074c5a566fb79484163fb680",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1310551051,
-    "wof:lastmodified":1537628862,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181054,
     "wof:name":"Dusun Tiga",
     "wof:parent_id":102073505,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.39806000000002,
+    108.39806,
     -6.57222,
-    108.39806000000002,
+    108.39806,
     -6.57222
 ],
-  "geometry": {"coordinates":[108.39806000000002,-6.57222],"type":"Point"}
+  "geometry": {"coordinates":[108.39806,-6.57222],"type":"Point"}
 }

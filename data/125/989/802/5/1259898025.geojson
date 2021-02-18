@@ -37,15 +37,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672067,
-        1108796869
+        1108796869,
+        85672067
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1621232
     },
     "wof:country":"ID",
-    "wof:geomhash":"93641765de03d42087246b3891f9bc11",
+    "wof:geomhash":"20e55feac47a343e86e35198895c29c3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -56,7 +56,14 @@
         }
     ],
     "wof:id":1259898025,
-    "wof:lastmodified":1537626388,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185060,
     "wof:name":"Yaratuar",
     "wof:parent_id":1108796869,
     "wof:placetype":"locality",
@@ -66,10 +73,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    134.66666999999998,
+    134.66667,
     -2.96667,
-    134.66666999999998,
+    134.66667,
     -2.96667
 ],
-  "geometry": {"coordinates":[134.66666999999998,-2.96667],"type":"Point"}
+  "geometry": {"coordinates":[134.66667000000001,-2.96667],"type":"Point"}
 }

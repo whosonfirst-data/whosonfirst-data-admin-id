@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672009,
-        1108796809
+        1108796809,
+        85672009
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7666087
     },
     "wof:country":"ID",
-    "wof:geomhash":"f3c7360bc7641e56eeb74e30c70ecd34",
+    "wof:geomhash":"b678a3e10b44327d80cd3fb7016ab2b1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1326512703,
-    "wof:lastmodified":1537634201,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613172458,
     "wof:name":"Sidakarya",
     "wof:parent_id":1108796809,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    105.66521000000002,
+    105.66521,
     -5.60152,
-    105.66521000000002,
+    105.66521,
     -5.60152
 ],
-  "geometry": {"coordinates":[105.66521000000002,-5.60152],"type":"Point"}
+  "geometry": {"coordinates":[105.66521,-5.60152],"type":"Point"}
 }

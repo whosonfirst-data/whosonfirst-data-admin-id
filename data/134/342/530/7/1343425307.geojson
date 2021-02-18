@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672111,
-        102073133
+        102073133,
+        85672111
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8553179
     },
     "wof:country":"ID",
-    "wof:geomhash":"baadb0e3f013cedd81f7a9edf487f896",
+    "wof:geomhash":"792a09ffdf5024ce31d556760415a57c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1343425307,
-    "wof:lastmodified":1537636408,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175088,
     "wof:name":"Bontobaoe",
     "wof:parent_id":102073133,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    121.00296000000002,
+    121.00296,
     0.44766,
-    121.00296000000002,
+    121.00296,
     0.44766
 ],
-  "geometry": {"coordinates":[121.00296000000002,0.44766],"type":"Point"}
+  "geometry": {"coordinates":[121.00296,0.44766],"type":"Point"}
 }

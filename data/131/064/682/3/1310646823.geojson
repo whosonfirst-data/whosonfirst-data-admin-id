@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072855
+        102072855,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6596765
     },
     "wof:country":"ID",
-    "wof:geomhash":"06b99f90ef7603c9cb8631b9cb8cc9a6",
+    "wof:geomhash":"25807be5ac61aa9fa86873268b8da2a3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1310646823,
-    "wof:lastmodified":1537629863,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181092,
     "wof:name":"Tarikolot",
     "wof:parent_id":102072855,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.91443999999998,
+    106.91444,
     -6.87472,
-    106.91443999999998,
+    106.91444,
     -6.87472
 ],
-  "geometry": {"coordinates":[106.91443999999998,-6.87472],"type":"Point"}
+  "geometry": {"coordinates":[106.91444,-6.87472],"type":"Point"}
 }

@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073193
+        102073193,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6403985
     },
     "wof:country":"ID",
-    "wof:geomhash":"245905f63c0ae0c6a14bee9b030b8fdf",
+    "wof:geomhash":"f774fe41a0528aa43d59a5b58e0b75fc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1343308175,
-    "wof:lastmodified":1537628880,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613173970,
     "wof:name":"Bunderinti",
     "wof:parent_id":102073193,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.25943999999998,
+    108.25944,
     -6.47889,
-    108.25943999999998,
+    108.25944,
     -6.47889
 ],
-  "geometry": {"coordinates":[108.25943999999998,-6.47889],"type":"Point"}
+  "geometry": {"coordinates":[108.25944,-6.47889],"type":"Point"}
 }

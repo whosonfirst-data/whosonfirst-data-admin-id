@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072937
+        102072937,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6593909
     },
     "wof:country":"ID",
-    "wof:geomhash":"bb0ef1efaa46f2be64cd625e134ca0cc",
+    "wof:geomhash":"a4789398c43a4be1ac8e9687e9cf7bdd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1310650501,
-    "wof:lastmodified":1537629782,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613180917,
     "wof:name":"Barisantarum Barat",
     "wof:parent_id":102072937,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.35193999999998,
+    107.35194,
     -6.41222,
-    107.35193999999998,
+    107.35194,
     -6.41222
 ],
-  "geometry": {"coordinates":[107.35193999999998,-6.41222],"type":"Point"}
+  "geometry": {"coordinates":[107.35194,-6.41222],"type":"Point"}
 }

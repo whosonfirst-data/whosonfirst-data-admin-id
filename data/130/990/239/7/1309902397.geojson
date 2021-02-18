@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102073063
+        102073063,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1970678
     },
     "wof:country":"ID",
-    "wof:geomhash":"0bd7bb1abbcb6de92b0e41bb1ac35984",
+    "wof:geomhash":"75b146f4cdcb787dc8d31c2f10937792",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1309902397,
-    "wof:lastmodified":1536792186,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613182183,
     "wof:name":"Gedungan",
     "wof:parent_id":102073063,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    112.75388999999998,
+    112.75389,
     -7.02611,
-    112.75388999999998,
+    112.75389,
     -7.02611
 ],
-  "geometry": {"coordinates":[112.75388999999998,-7.02611],"type":"Point"}
+  "geometry": {"coordinates":[112.75389,-7.02611],"type":"Point"}
 }

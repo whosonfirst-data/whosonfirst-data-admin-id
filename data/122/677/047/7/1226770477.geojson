@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072929
+        102072929,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6263573
     },
     "wof:country":"ID",
-    "wof:geomhash":"8d0cffe674e2113919f2192ef5729b00",
+    "wof:geomhash":"b967905c6d03d2fa79ed656cd05dfe75",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1226770477,
-    "wof:lastmodified":1536679964,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613186241,
     "wof:name":"Dawung",
     "wof:parent_id":102072929,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.89806000000002,
+    110.89806,
     -7.27861,
-    110.89806000000002,
+    110.89806,
     -7.27861
 ],
-  "geometry": {"coordinates":[110.89806000000002,-7.27861],"type":"Point"}
+  "geometry": {"coordinates":[110.89806,-7.27861],"type":"Point"}
 }

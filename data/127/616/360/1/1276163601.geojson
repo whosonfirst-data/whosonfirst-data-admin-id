@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672115,
-        102073081
+        102073081,
+        85672115
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":11428733
     },
     "wof:country":"ID",
-    "wof:geomhash":"5669b7b91195f690b41263b3690bf602",
+    "wof:geomhash":"63a0385e7a9c285eb3b38c9ae6a796f7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1276163601,
-    "wof:lastmodified":1537005495,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177360,
     "wof:name":"Skoaim",
     "wof:parent_id":102073081,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    140.39016999999998,
+    140.39017,
     -2.7493,
-    140.39016999999998,
+    140.39017,
     -2.7493
 ],
-  "geometry": {"coordinates":[140.39016999999998,-2.7493],"type":"Point"}
+  "geometry": {"coordinates":[140.39017000000001,-2.7493],"type":"Point"}
 }

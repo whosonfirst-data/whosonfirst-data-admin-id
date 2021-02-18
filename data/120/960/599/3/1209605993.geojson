@@ -34,7 +34,7 @@
         "gn:id":2003987
     },
     "wof:country":"ID",
-    "wof:geomhash":"adeeaec8c57fadf54f988375f4dd48ec",
+    "wof:geomhash":"44c5245dc24b159260556ca87c4508a2",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209605993,
-    "wof:lastmodified":1536282010,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179115,
     "wof:name":"Bakalan",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     110.74861,
-    -7.781389999999999,
+    -7.78139,
     110.74861,
-    -7.781389999999999
+    -7.78139
 ],
   "geometry": {"coordinates":[110.74861,-7.78139],"type":"Point"}
 }

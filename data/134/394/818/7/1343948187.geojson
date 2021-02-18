@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102073123
+        102073123,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8333538
     },
     "wof:country":"ID",
-    "wof:geomhash":"a7a880a9dcc816d05020811108c33d11",
+    "wof:geomhash":"3653a254a9dcc3935d96d7e5f0945d94",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1343948187,
-    "wof:lastmodified":1537635634,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613174791,
     "wof:name":"Trasak",
     "wof:parent_id":102073123,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    113.52351000000002,
+    113.52351,
     -7.13231,
-    113.52351000000002,
+    113.52351,
     -7.13231
 ],
-  "geometry": {"coordinates":[113.52351000000002,-7.13231],"type":"Point"}
+  "geometry": {"coordinates":[113.52351,-7.13231],"type":"Point"}
 }

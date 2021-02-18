@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672097,
-        1108796827
+        1108796827,
+        85672097
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1622099
     },
     "wof:country":"ID",
-    "wof:geomhash":"b483db919b931dc2a5226727c2a52c08",
+    "wof:geomhash":"fc774b2c7b78ed8b7ed29d6c625988bc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1209963973,
-    "wof:lastmodified":1537626417,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178394,
     "wof:name":"Wangil",
     "wof:parent_id":1108796827,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    134.19561000000002,
+    134.19561,
     -5.76337,
-    134.19561000000002,
+    134.19561,
     -5.76337
 ],
-  "geometry": {"coordinates":[134.19561000000002,-5.76337],"type":"Point"}
+  "geometry": {"coordinates":[134.19560999999999,-5.76337],"type":"Point"}
 }

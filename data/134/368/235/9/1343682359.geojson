@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072639
+        102072639,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6370187
     },
     "wof:country":"ID",
-    "wof:geomhash":"fe3076caeff00b98fd89f4e805eb7d94",
+    "wof:geomhash":"d32a4b870a592f552a7cc65c45890155",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1343682359,
-    "wof:lastmodified":1537628301,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613174671,
     "wof:name":"Karangjati",
     "wof:parent_id":102072639,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.49611000000002,
+    109.49611,
     -7.5225,
-    109.49611000000002,
+    109.49611,
     -7.5225
 ],
-  "geometry": {"coordinates":[109.49611000000002,-7.5225],"type":"Point"}
+  "geometry": {"coordinates":[109.49611,-7.5225],"type":"Point"}
 }

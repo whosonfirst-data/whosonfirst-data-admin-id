@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        1108796793
+        1108796793,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6584772
     },
     "wof:country":"ID",
-    "wof:geomhash":"af400cc32528c4fab8c96739e35ef69f",
+    "wof:geomhash":"b3eb0a165eec18f8f1abdb04812e4fb5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1293046955,
-    "wof:lastmodified":1537629571,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613176187,
     "wof:name":"Sancang",
     "wof:parent_id":1108796793,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.45638999999998,
+    107.45639,
     -6.70944,
-    107.45638999999998,
+    107.45639,
     -6.70944
 ],
-  "geometry": {"coordinates":[107.45638999999998,-6.70944],"type":"Point"}
+  "geometry": {"coordinates":[107.45639,-6.70944],"type":"Point"}
 }

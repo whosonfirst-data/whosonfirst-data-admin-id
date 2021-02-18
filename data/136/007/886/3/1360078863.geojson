@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072733
+        102072733,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1935558
     },
     "wof:country":"ID",
-    "wof:geomhash":"cda2bf5e0b9911ab08643ae6e381711b",
+    "wof:geomhash":"efb09cd5e68081b742b301bcff8d55ac",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1360078863,
-    "wof:lastmodified":1536954762,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181843,
     "wof:name":"Griyapapahanindah",
     "wof:parent_id":102072733,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.92638999999998,
+    110.92639,
     -7.58528,
-    110.92638999999998,
+    110.92639,
     -7.58528
 ],
-  "geometry": {"coordinates":[110.92638999999998,-7.58528],"type":"Point"}
+  "geometry": {"coordinates":[110.92639,-7.58528],"type":"Point"}
 }

@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072639
+        102072639,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6376789
     },
     "wof:country":"ID",
-    "wof:geomhash":"f170ea3cd499317741b7edcfd2d0270c",
+    "wof:geomhash":"9611a8747ba39a6b395fdbe499e95321",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1343481871,
-    "wof:lastmodified":1537628474,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613174381,
     "wof:name":"Jombor",
     "wof:parent_id":102072639,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.74611000000002,
+    109.74611,
     -7.69361,
-    109.74611000000002,
+    109.74611,
     -7.69361
 ],
-  "geometry": {"coordinates":[109.74611000000002,-7.69361],"type":"Point"}
+  "geometry": {"coordinates":[109.74611,-7.69361],"type":"Point"}
 }

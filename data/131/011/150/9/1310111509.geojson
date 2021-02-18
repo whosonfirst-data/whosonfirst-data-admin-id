@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672001,
-        102073493
+        102073493,
+        85672001
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1992907
     },
     "wof:country":"ID",
-    "wof:geomhash":"fa0c5f34c5c7c0a859c06a9152514cfd",
+    "wof:geomhash":"cd1b6c9409b6b7ebe5fa5f0007327a1d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1310111509,
-    "wof:lastmodified":1536986960,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181278,
     "wof:name":"Jati Utara",
     "wof:parent_id":102073493,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.89806000000002,
+    106.89806,
     -6.21028,
-    106.89806000000002,
+    106.89806,
     -6.21028
 ],
-  "geometry": {"coordinates":[106.89806000000002,-6.21028],"type":"Point"}
+  "geometry": {"coordinates":[106.89806,-6.21028],"type":"Point"}
 }

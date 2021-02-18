@@ -34,15 +34,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072857
+        102072857,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1964313
     },
     "wof:country":"ID",
-    "wof:geomhash":"993d6dfe802163af5707a07f954d70e2",
+    "wof:geomhash":"bfa3cc83962292f2d507bc58e4e6fc2a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +53,14 @@
         }
     ],
     "wof:id":1260204207,
-    "wof:lastmodified":1537627754,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613180435,
     "wof:name":"Suroyudan",
     "wof:parent_id":102072857,
     "wof:placetype":"locality",
@@ -63,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.28943999999998,
+    110.28944,
     -7.465,
-    110.28943999999998,
+    110.28944,
     -7.465
 ],
-  "geometry": {"coordinates":[110.28943999999998,-7.465],"type":"Point"}
+  "geometry": {"coordinates":[110.28944,-7.465],"type":"Point"}
 }

@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072929
+        102072929,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6570704
     },
     "wof:country":"ID",
-    "wof:geomhash":"7f3eb8fd215c4d4b68bf1bd321fe920b",
+    "wof:geomhash":"32fc8617e7964c3c1897824802bc91c9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1293221317,
-    "wof:lastmodified":1537629402,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613176059,
     "wof:name":"Jatigowok",
     "wof:parent_id":102072929,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.08138999999998,
+    111.08139,
     -7.51722,
-    111.08138999999998,
+    111.08139,
     -7.51722
 ],
-  "geometry": {"coordinates":[111.08138999999998,-7.51722],"type":"Point"}
+  "geometry": {"coordinates":[111.08139,-7.51722],"type":"Point"}
 }

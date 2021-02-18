@@ -34,7 +34,7 @@
         "gn:id":2007827
     },
     "wof:country":"ID",
-    "wof:geomhash":"dc410b1b476e2580c479543bc3f0e4e3",
+    "wof:geomhash":"db6d3845da9efac2a2d9bc877ccb9589",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209335181,
-    "wof:lastmodified":1536290246,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179228,
     "wof:name":"Sipung",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     110.72139,
-    -7.630560000000001,
+    -7.63056,
     110.72139,
-    -7.630560000000001
+    -7.63056
 ],
   "geometry": {"coordinates":[110.72139,-7.63056],"type":"Point"}
 }

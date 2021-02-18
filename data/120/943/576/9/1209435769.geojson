@@ -34,7 +34,7 @@
         "gn:id":2008517
     },
     "wof:country":"ID",
-    "wof:geomhash":"610b830ff379a5501de77fb73928221a",
+    "wof:geomhash":"7374be5d5c39a3477cf3e3854771f473",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209435769,
-    "wof:lastmodified":1536287110,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179547,
     "wof:name":"Jagan Kidul",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     110.68417,
-    -7.6886100000000015,
+    -7.68861,
     110.68417,
-    -7.6886100000000015
+    -7.68861
 ],
   "geometry": {"coordinates":[110.68416999999999,-7.68861],"type":"Point"}
 }

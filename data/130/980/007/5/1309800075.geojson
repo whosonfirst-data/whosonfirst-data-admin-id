@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072639
+        102072639,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6369739
     },
     "wof:country":"ID",
-    "wof:geomhash":"3a6037d5e437ff93e832d8c6751c5589",
+    "wof:geomhash":"d57741f6b2efe79dbe77803acb13009b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1309800075,
-    "wof:lastmodified":1537628288,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613182486,
     "wof:name":"Karangendep",
     "wof:parent_id":102072639,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.48888999999998,
+    109.48889,
     -7.73833,
-    109.48888999999998,
+    109.48889,
     -7.73833
 ],
-  "geometry": {"coordinates":[109.48888999999998,-7.73833],"type":"Point"}
+  "geometry": {"coordinates":[109.48889,-7.73833],"type":"Point"}
 }

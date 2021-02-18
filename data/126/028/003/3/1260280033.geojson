@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073153
+        102073153,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6562698
     },
     "wof:country":"ID",
-    "wof:geomhash":"431bdec877e20c507c290ffe347c6c8f",
+    "wof:geomhash":"583dc7a0510d14b0b1d5a25e9306a82e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1260280033,
-    "wof:lastmodified":1537629190,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613180531,
     "wof:name":"Sidareja",
     "wof:parent_id":102073153,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.64388999999998,
+    109.64389,
     -7.19389,
-    109.64388999999998,
+    109.64389,
     -7.19389
 ],
-  "geometry": {"coordinates":[109.64388999999998,-7.19389],"type":"Point"}
+  "geometry": {"coordinates":[109.64389,-7.19389],"type":"Point"}
 }

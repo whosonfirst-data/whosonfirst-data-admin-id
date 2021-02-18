@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072587
+        102072587,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6381531
     },
     "wof:country":"ID",
-    "wof:geomhash":"6e470b7f93772ae86123ad9351196df5",
+    "wof:geomhash":"e1ac12620bc7aa116d1eeed9b5d6b718",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1343352467,
-    "wof:lastmodified":1537628548,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613174726,
     "wof:name":"Sukoharjo",
     "wof:parent_id":102072587,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.78806000000002,
+    109.78806,
     -7.40444,
-    109.78806000000002,
+    109.78806,
     -7.40444
 ],
-  "geometry": {"coordinates":[109.78806000000002,-7.40444],"type":"Point"}
+  "geometry": {"coordinates":[109.78806,-7.40444],"type":"Point"}
 }

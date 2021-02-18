@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073217
+        102073217,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1988108
     },
     "wof:country":"ID",
-    "wof:geomhash":"a092cbafe01b019ef9eef6524968a2d0",
+    "wof:geomhash":"6a1b3bf0ac2525faf6705e702664eb67",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1259729699,
-    "wof:lastmodified":1536999840,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185160,
     "wof:name":"Margamekar",
     "wof:parent_id":102073217,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.57361000000002,
+    106.57361,
     -6.34306,
-    106.57361000000002,
+    106.57361,
     -6.34306
 ],
-  "geometry": {"coordinates":[106.57361000000002,-6.34306],"type":"Point"}
+  "geometry": {"coordinates":[106.57361,-6.34306],"type":"Point"}
 }

@@ -53,15 +53,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072857
+        102072857,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6199955
     },
     "wof:country":"ID",
-    "wof:geomhash":"4cd7828c185afa9e9fb64f471ec0afa9",
+    "wof:geomhash":"72bf2e08b1a81a417a3ec485543688e6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -72,7 +72,14 @@
         }
     ],
     "wof:id":1343452105,
-    "wof:lastmodified":1564175163,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175111,
     "wof:name":"Serial",
     "wof:parent_id":102072857,
     "wof:placetype":"locality",
@@ -82,10 +89,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.12111000000002,
+    110.12111,
     -7.39611,
-    110.12111000000002,
+    110.12111,
     -7.39611
 ],
-  "geometry": {"coordinates":[110.12111000000002,-7.39611],"type":"Point"}
+  "geometry": {"coordinates":[110.12111,-7.39611],"type":"Point"}
 }

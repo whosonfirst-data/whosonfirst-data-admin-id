@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073449
+        102073449,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1962973
     },
     "wof:country":"ID",
-    "wof:geomhash":"6389eba067e74b676333f4d1409793ea",
+    "wof:geomhash":"aec8c759151438f107bed297ae46bd08",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,7 +54,14 @@
         }
     ],
     "wof:id":1293439309,
-    "wof:lastmodified":1537627687,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613176877,
     "wof:name":"Cibangkong",
     "wof:parent_id":102073449,
     "wof:placetype":"locality",
@@ -64,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.63443999999998,
+    107.63444,
     -6.92222,
-    107.63443999999998,
+    107.63444,
     -6.92222
 ],
-  "geometry": {"coordinates":[107.63443999999998,-6.92222],"type":"Point"}
+  "geometry": {"coordinates":[107.63444,-6.92222],"type":"Point"}
 }

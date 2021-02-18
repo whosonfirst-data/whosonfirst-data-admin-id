@@ -33,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672019,
-        102072881
+        102072881,
+        85672019
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1651758
     },
     "wof:country":"ID",
-    "wof:geomhash":"a13e64aefcfdce417aff03ddf5d70468",
+    "wof:geomhash":"92a138e39a4743eb3c350509a1d9abb4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,7 +52,14 @@
         }
     ],
     "wof:id":1343902773,
-    "wof:lastmodified":1537627385,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613174110,
     "wof:name":"Airmesu",
     "wof:parent_id":102072881,
     "wof:placetype":"locality",
@@ -62,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.14388999999998,
+    106.14389,
     -2.20567,
-    106.14388999999998,
+    106.14389,
     -2.20567
 ],
-  "geometry": {"coordinates":[106.14388999999998,-2.20567],"type":"Point"}
+  "geometry": {"coordinates":[106.14389,-2.20567],"type":"Point"}
 }

@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072947
+        102072947,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6371637
     },
     "wof:country":"ID",
-    "wof:geomhash":"13f823dbfd2d09a817d5fc21125c9b34",
+    "wof:geomhash":"5c0700443875429089263d8c8e9bf4f9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1310126311,
-    "wof:lastmodified":1537628348,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613180750,
     "wof:name":"Tlogorejo",
     "wof:parent_id":102072947,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.81638999999998,
+    110.81639,
     -8.07528,
-    110.81638999999998,
+    110.81639,
     -8.07528
 ],
-  "geometry": {"coordinates":[110.81638999999998,-8.07528],"type":"Point"}
+  "geometry": {"coordinates":[110.81639,-8.07528],"type":"Point"}
 }

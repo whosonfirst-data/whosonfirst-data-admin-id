@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072733
+        102072733,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1935279
     },
     "wof:country":"ID",
-    "wof:geomhash":"67bef7c5c81fa78c2a99c51e12a65a2c",
+    "wof:geomhash":"7a09c6c076a1fc6ba8f118aa385108af",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1309997229,
-    "wof:lastmodified":1536655308,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613182195,
     "wof:name":"Siwalan",
     "wof:parent_id":102072733,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.99056000000002,
+    110.99056,
     -7.52778,
-    110.99056000000002,
+    110.99056,
     -7.52778
 ],
-  "geometry": {"coordinates":[110.99056000000002,-7.52778],"type":"Point"}
+  "geometry": {"coordinates":[110.99056,-7.52778],"type":"Point"}
 }

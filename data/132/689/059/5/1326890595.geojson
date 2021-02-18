@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073569
+        102073569,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6400645
     },
     "wof:country":"ID",
-    "wof:geomhash":"ac1fe1ebfaee66843e55d7b848b0d31e",
+    "wof:geomhash":"54d549bcdda2a4cbbe04d1a29ab0a82b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1326890595,
-    "wof:lastmodified":1537628818,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613172399,
     "wof:name":"Dusun Empat",
     "wof:parent_id":102073569,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.49056000000002,
+    108.49056,
     -6.90528,
-    108.49056000000002,
+    108.49056,
     -6.90528
 ],
-  "geometry": {"coordinates":[108.49056000000002,-6.90528],"type":"Point"}
+  "geometry": {"coordinates":[108.49056,-6.90528],"type":"Point"}
 }

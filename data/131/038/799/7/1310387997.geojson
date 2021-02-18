@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672009,
-        1108796809
+        1108796809,
+        85672009
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7666019
     },
     "wof:country":"ID",
-    "wof:geomhash":"b6922b95970d92cf41676b8d8af95a38",
+    "wof:geomhash":"60ffc7e72febe60dee886f206d8ab832",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,7 +54,14 @@
         }
     ],
     "wof:id":1310387997,
-    "wof:lastmodified":1537634199,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613180956,
     "wof:name":"Pematang",
     "wof:parent_id":1108796809,
     "wof:placetype":"locality",
@@ -64,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    105.61603999999998,
+    105.61604,
     -5.73502,
-    105.61603999999998,
+    105.61604,
     -5.73502
 ],
-  "geometry": {"coordinates":[105.61603999999998,-5.73502],"type":"Point"}
+  "geometry": {"coordinates":[105.61604,-5.73502],"type":"Point"}
 }

@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073117
+        102073117,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6388894
     },
     "wof:country":"ID",
-    "wof:geomhash":"dc6656d8c01919ce561bd387335c769b",
+    "wof:geomhash":"cc80f66ab83eeaaf15e695993c05690c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1343849207,
-    "wof:lastmodified":1537628682,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613174436,
     "wof:name":"Dukuh",
     "wof:parent_id":102073117,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.21056000000002,
+    109.21056,
     -7.42639,
-    109.21056000000002,
+    109.21056,
     -7.42639
 ],
-  "geometry": {"coordinates":[109.21056000000002,-7.42639],"type":"Point"}
+  "geometry": {"coordinates":[109.21056,-7.42639],"type":"Point"}
 }

@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073187
+        102073187,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6260783
     },
     "wof:country":"ID",
-    "wof:geomhash":"be8ebc63d777d68cc77b0b16d120768d",
+    "wof:geomhash":"489aa2df9921468721468c1b4ed0676c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1225965003,
-    "wof:lastmodified":1536840534,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185949,
     "wof:name":"Kaliawis",
     "wof:parent_id":102073187,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.08138999999998,
+    110.08139,
     -7.61972,
-    110.08138999999998,
+    110.08139,
     -7.61972
 ],
-  "geometry": {"coordinates":[110.08138999999998,-7.61972],"type":"Point"}
+  "geometry": {"coordinates":[110.08139,-7.61972],"type":"Point"}
 }

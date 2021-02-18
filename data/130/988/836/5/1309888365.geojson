@@ -41,15 +41,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672009,
-        102072927
+        102072927,
+        85672009
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7666850
     },
     "wof:country":"ID",
-    "wof:geomhash":"1f3daf66fea7fc956694a6cf98da2d04",
+    "wof:geomhash":"84fdcf6d4bf41da0245926eaf3c50b33",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -60,7 +60,14 @@
         }
     ],
     "wof:id":1309888365,
-    "wof:lastmodified":1564196695,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613182531,
     "wof:name":"Banding",
     "wof:parent_id":102072927,
     "wof:placetype":"locality",
@@ -70,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    105.20371000000002,
+    105.20371,
     -5.04223,
-    105.20371000000002,
+    105.20371,
     -5.04223
 ],
-  "geometry": {"coordinates":[105.20371000000002,-5.04223],"type":"Point"}
+  "geometry": {"coordinates":[105.20371,-5.04223],"type":"Point"}
 }

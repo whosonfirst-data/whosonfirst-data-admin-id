@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072709
+        102072709,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6257877
     },
     "wof:country":"ID",
-    "wof:geomhash":"dcc00cc429f1a48655a019a9e1ed8606",
+    "wof:geomhash":"177650086511f2d9789a9eff0b059532",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1327224693,
-    "wof:lastmodified":1536980104,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613172694,
     "wof:name":"Kalipacet",
     "wof:parent_id":102072709,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.44861000000002,
+    110.44861,
     -7.34083,
-    110.44861000000002,
+    110.44861,
     -7.34083
 ],
-  "geometry": {"coordinates":[110.44861000000002,-7.34083],"type":"Point"}
+  "geometry": {"coordinates":[110.44861,-7.34083],"type":"Point"}
 }

@@ -40,15 +40,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073449
+        102073449,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1964942
     },
     "wof:country":"ID",
-    "wof:geomhash":"71c54904c5a1bcf268b9ae03e3f708ec",
+    "wof:geomhash":"aa194bc03de95e68eeefc1339f7b6af8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -59,7 +59,14 @@
         }
     ],
     "wof:id":1293830065,
-    "wof:lastmodified":1537627786,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175734,
     "wof:name":"Parakansaat",
     "wof:parent_id":102073449,
     "wof:placetype":"locality",
@@ -69,10 +76,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.66861000000002,
+    107.66861,
     -6.92861,
-    107.66861000000002,
+    107.66861,
     -6.92861
 ],
-  "geometry": {"coordinates":[107.66861000000002,-6.92861],"type":"Point"}
+  "geometry": {"coordinates":[107.66861,-6.92861],"type":"Point"}
 }

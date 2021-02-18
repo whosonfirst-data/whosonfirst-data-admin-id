@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072947
+        102072947,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6404768
     },
     "wof:country":"ID",
-    "wof:geomhash":"43acb7b8f9f5a088f5c536a779467988",
+    "wof:geomhash":"d76ab4fd73a5737cd81ecc8f8e3c86f5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1326726913,
-    "wof:lastmodified":1537628906,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613172300,
     "wof:name":"Kranggan",
     "wof:parent_id":102072947,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.91306000000002,
+    110.91306,
     -8.09583,
-    110.91306000000002,
+    110.91306,
     -8.09583
 ],
-  "geometry": {"coordinates":[110.91306000000002,-8.09583],"type":"Point"}
+  "geometry": {"coordinates":[110.91306,-8.09583],"type":"Point"}
 }

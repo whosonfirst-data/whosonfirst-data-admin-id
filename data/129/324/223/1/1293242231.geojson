@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671995,
-        102072687
+        102072687,
+        85671995
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1960346
     },
     "wof:country":"ID",
-    "wof:geomhash":"66bb461aed23519fe7badf1bbe55d719",
+    "wof:geomhash":"19aa7418057c4a7c792b1083dfb80a21",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,7 +54,14 @@
         }
     ],
     "wof:id":1293242231,
-    "wof:lastmodified":1537627552,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175857,
     "wof:name":"Bakung",
     "wof:parent_id":102072687,
     "wof:placetype":"locality",
@@ -64,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.38611000000002,
+    106.38611,
     -6.20389,
-    106.38611000000002,
+    106.38611,
     -6.20389
 ],
-  "geometry": {"coordinates":[106.38611000000002,-6.20389],"type":"Point"}
+  "geometry": {"coordinates":[106.38611,-6.20389],"type":"Point"}
 }

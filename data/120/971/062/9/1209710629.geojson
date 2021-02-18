@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102072973
+        102072973,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6408889
     },
     "wof:country":"ID",
-    "wof:geomhash":"a45d94c34daaeb82a159a71ddfbb6757",
+    "wof:geomhash":"ac9e508dcbdc841ea6f0ffb6eda73c11",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1209710629,
-    "wof:lastmodified":1537629022,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178814,
     "wof:name":"Kacang Satu",
     "wof:parent_id":102072973,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.30138999999998,
+    111.30139,
     -7.65,
-    111.30138999999998,
+    111.30139,
     -7.65
 ],
-  "geometry": {"coordinates":[111.30138999999998,-7.65],"type":"Point"}
+  "geometry": {"coordinates":[111.30139,-7.65],"type":"Point"}
 }

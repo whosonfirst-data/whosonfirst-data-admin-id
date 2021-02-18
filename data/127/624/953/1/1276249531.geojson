@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072819
+        102072819,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6387750
     },
     "wof:country":"ID",
-    "wof:geomhash":"2f358f48c24c4030f02ffdfab330fb3f",
+    "wof:geomhash":"0eacf2a5b6419df3800cea8b25d71bd6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1276249531,
-    "wof:lastmodified":1537628651,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177918,
     "wof:name":"Igirtugel Utara",
     "wof:parent_id":102072819,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.89806000000002,
+    108.89806,
     -7.48417,
-    108.89806000000002,
+    108.89806,
     -7.48417
 ],
-  "geometry": {"coordinates":[108.89806000000002,-7.48417],"type":"Point"}
+  "geometry": {"coordinates":[108.89806,-7.48417],"type":"Point"}
 }

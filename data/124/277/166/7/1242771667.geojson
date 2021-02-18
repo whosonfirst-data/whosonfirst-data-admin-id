@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072715
+        102072715,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6388970
     },
     "wof:country":"ID",
-    "wof:geomhash":"b21de42b27163f616cce35422009228f",
+    "wof:geomhash":"be7debe010b70982155554411f1c9dd0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1242771667,
-    "wof:lastmodified":1537628685,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183802,
     "wof:name":"Panusupan",
     "wof:parent_id":102072715,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.16861000000002,
+    109.16861,
     -7.45667,
-    109.16861000000002,
+    109.16861,
     -7.45667
 ],
-  "geometry": {"coordinates":[109.16861000000002,-7.45667],"type":"Point"}
+  "geometry": {"coordinates":[109.16861,-7.45667],"type":"Point"}
 }

@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073193
+        102073193,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1650958
     },
     "wof:country":"ID",
-    "wof:geomhash":"5107b4d494263ef46b1f735cad8e5cf6",
+    "wof:geomhash":"578ce56c554560a07147128f60b8244b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,7 +54,14 @@
         }
     ],
     "wof:id":1344018363,
-    "wof:lastmodified":1537627365,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613174267,
     "wof:name":"Bedahan",
     "wof:parent_id":102073193,
     "wof:placetype":"locality",
@@ -64,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.33556000000002,
+    108.33556,
     -6.30444,
-    108.33556000000002,
+    108.33556,
     -6.30444
 ],
-  "geometry": {"coordinates":[108.33556000000002,-6.30444],"type":"Point"}
+  "geometry": {"coordinates":[108.33556,-6.30444],"type":"Point"}
 }

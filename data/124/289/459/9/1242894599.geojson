@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072715
+        102072715,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6389517
     },
     "wof:country":"ID",
-    "wof:geomhash":"8184613b4b3e62b5fc591888fdd27cb7",
+    "wof:geomhash":"a45b816eee9de2f84c918b30f30a0bbc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1242894599,
-    "wof:lastmodified":1537628690,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183065,
     "wof:name":"Logandeng",
     "wof:parent_id":102072715,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.01888999999998,
+    109.01889,
     -7.34806,
-    109.01888999999998,
+    109.01889,
     -7.34806
 ],
-  "geometry": {"coordinates":[109.01888999999998,-7.34806],"type":"Point"}
+  "geometry": {"coordinates":[109.01889,-7.34806],"type":"Point"}
 }

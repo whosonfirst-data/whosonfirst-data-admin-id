@@ -34,15 +34,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671995,
-        1108796785
+        1108796785,
+        85671995
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1959118
     },
     "wof:country":"ID",
-    "wof:geomhash":"93ab30ba8c7cc67b2d28a30aa6a8778b",
+    "wof:geomhash":"09ca9bce32bf420f989756c30ee65a7b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +53,14 @@
         }
     ],
     "wof:id":1243373327,
-    "wof:lastmodified":1537627489,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613182925,
     "wof:name":"Poris Lima",
     "wof:parent_id":1108796785,
     "wof:placetype":"locality",
@@ -63,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.67806000000002,
+    106.67806,
     -6.18389,
-    106.67806000000002,
+    106.67806,
     -6.18389
 ],
-  "geometry": {"coordinates":[106.67806000000002,-6.18389],"type":"Point"}
+  "geometry": {"coordinates":[106.67806,-6.18389],"type":"Point"}
 }

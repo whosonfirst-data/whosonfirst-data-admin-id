@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072587
+        102072587,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6567536
     },
     "wof:country":"ID",
-    "wof:geomhash":"015a54ea002a7431472b52bf8c68412b",
+    "wof:geomhash":"77ea73b056363b01c94b4966a4408d2f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,7 +54,14 @@
         }
     ],
     "wof:id":1310296107,
-    "wof:lastmodified":1564192980,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181308,
     "wof:name":"Munggang",
     "wof:parent_id":102072587,
     "wof:placetype":"locality",
@@ -64,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.93361000000002,
+    109.93361,
     -7.42389,
-    109.93361000000002,
+    109.93361,
     -7.42389
 ],
-  "geometry": {"coordinates":[109.93361000000002,-7.42389],"type":"Point"}
+  "geometry": {"coordinates":[109.93361,-7.42389],"type":"Point"}
 }

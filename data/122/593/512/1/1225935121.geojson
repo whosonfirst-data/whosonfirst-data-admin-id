@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072857
+        102072857,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1964601
     },
     "wof:country":"ID",
-    "wof:geomhash":"0afe672303fa3a0f8750edb08b59a533",
+    "wof:geomhash":"3570de9a18e7a9db3d7849579ac4ea0f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1225935121,
-    "wof:lastmodified":1536884237,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185222,
     "wof:name":"Punduan",
     "wof:parent_id":102072857,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.26888999999998,
+    110.26889,
     -7.48139,
-    110.26888999999998,
+    110.26889,
     -7.48139
 ],
-  "geometry": {"coordinates":[110.26888999999998,-7.48139],"type":"Point"}
+  "geometry": {"coordinates":[110.26889,-7.48139],"type":"Point"}
 }

@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073309
+        102073309,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6561699
     },
     "wof:country":"ID",
-    "wof:geomhash":"fde62e872b1fdf2bbc099791ab78aec0",
+    "wof:geomhash":"7d2bdefea671f39bf4e06b695098ef55",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1293874723,
-    "wof:lastmodified":1537629165,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613176679,
     "wof:name":"Karang Tengah",
     "wof:parent_id":102073309,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.31638999999998,
+    111.31639,
     -7.24444,
-    111.31638999999998,
+    111.31639,
     -7.24444
 ],
-  "geometry": {"coordinates":[111.31638999999998,-7.24444],"type":"Point"}
+  "geometry": {"coordinates":[111.31639,-7.24444],"type":"Point"}
 }

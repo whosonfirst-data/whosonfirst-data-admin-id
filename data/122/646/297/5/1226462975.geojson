@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072921
+        102072921,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6370841
     },
     "wof:country":"ID",
-    "wof:geomhash":"7c1e4e02e98b7f9c5aff5876878d378e",
+    "wof:geomhash":"fc4d738b533b7e6d94968df943d70882",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1226462975,
-    "wof:lastmodified":1537628322,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613186195,
     "wof:name":"Rejosari",
     "wof:parent_id":102072921,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.39943999999998,
+    109.39944,
     -7.45306,
-    109.39943999999998,
+    109.39944,
     -7.45306
 ],
-  "geometry": {"coordinates":[109.39943999999998,-7.45306],"type":"Point"}
+  "geometry": {"coordinates":[109.39944,-7.45306],"type":"Point"}
 }

@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072639
+        102072639,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6377432
     },
     "wof:country":"ID",
-    "wof:geomhash":"7c898b4d20c6a1562e4c05fe2e50ccef",
+    "wof:geomhash":"622add067ea9100a3e3647d00dfca52e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1326921429,
-    "wof:lastmodified":1537628489,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613172578,
     "wof:name":"Supiturang",
     "wof:parent_id":102072639,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.68361000000002,
+    109.68361,
     -7.56556,
-    109.68361000000002,
+    109.68361,
     -7.56556
 ],
-  "geometry": {"coordinates":[109.68361000000002,-7.56556],"type":"Point"}
+  "geometry": {"coordinates":[109.68361,-7.56556],"type":"Point"}
 }

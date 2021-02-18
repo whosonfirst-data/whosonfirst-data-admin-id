@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672097,
-        1108796843
+        1108796843,
+        85672097
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1901835
     },
     "wof:country":"ID",
-    "wof:geomhash":"3fb4bdb2da2df8cd39111d60e9f28ccc",
+    "wof:geomhash":"57947e0ca1ca3445485a7b9cb9e8e00c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1276600139,
-    "wof:lastmodified":1536919303,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177419,
     "wof:name":"Selor",
     "wof:parent_id":1108796843,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    130.44693999999998,
+    130.44694,
     -3.65722,
-    130.44693999999998,
+    130.44694,
     -3.65722
 ],
-  "geometry": {"coordinates":[130.44693999999998,-3.65722],"type":"Point"}
+  "geometry": {"coordinates":[130.44694000000001,-3.65722],"type":"Point"}
 }

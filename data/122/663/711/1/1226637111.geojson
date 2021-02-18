@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072587
+        102072587,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6405131
     },
     "wof:country":"ID",
-    "wof:geomhash":"deac69db5d9a92c9b9d6db2194ad540d",
+    "wof:geomhash":"34b101aa90019a2031fa9e2f4125571c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1226637111,
-    "wof:lastmodified":1537628917,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613186322,
     "wof:name":"Dalangan",
     "wof:parent_id":102072587,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.97556000000002,
+    109.97556,
     -7.37361,
-    109.97556000000002,
+    109.97556,
     -7.37361
 ],
-  "geometry": {"coordinates":[109.97556000000002,-7.37361],"type":"Point"}
+  "geometry": {"coordinates":[109.97556,-7.37361],"type":"Point"}
 }

@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073359
+        102073359,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7848319
     },
     "wof:country":"ID",
-    "wof:geomhash":"26d696b0cd1851f1710535456928a08e",
+    "wof:geomhash":"1b8e566361e5f91a5c0ae01774acb507",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1276602771,
-    "wof:lastmodified":1537634565,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177427,
     "wof:name":"Jelegong",
     "wof:parent_id":102073359,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.79791000000002,
+    107.79791,
     -7.55524,
-    107.79791000000002,
+    107.79791,
     -7.55524
 ],
-  "geometry": {"coordinates":[107.79791000000002,-7.55524],"type":"Point"}
+  "geometry": {"coordinates":[107.79791,-7.55524],"type":"Point"}
 }

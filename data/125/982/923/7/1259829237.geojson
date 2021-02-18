@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073471
+        102073471,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6584669
     },
     "wof:country":"ID",
-    "wof:geomhash":"f4d20d046a15d6dabd5bf1d2ffb65a42",
+    "wof:geomhash":"40ad589038ca9dbd1ead17610a40d3c6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1259829237,
-    "wof:lastmodified":1537629567,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613184721,
     "wof:name":"Sempur Krajan",
     "wof:parent_id":102073471,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.39806000000002,
+    107.39806,
     -6.66083,
-    107.39806000000002,
+    107.39806,
     -6.66083
 ],
-  "geometry": {"coordinates":[107.39806000000002,-6.66083],"type":"Point"}
+  "geometry": {"coordinates":[107.39806,-6.66083],"type":"Point"}
 }

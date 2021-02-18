@@ -33,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072983
+        102072983,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1973126
     },
     "wof:country":"ID",
-    "wof:geomhash":"1c4cffdbd14d45eec70adcf41e558e6e",
+    "wof:geomhash":"0dd3dd88822b2e796ed1410eba70d724",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,7 +52,14 @@
         }
     ],
     "wof:id":1242798401,
-    "wof:lastmodified":1537628107,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183828,
     "wof:name":"Klangon Wetan",
     "wof:parent_id":102072983,
     "wof:placetype":"locality",
@@ -62,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.51111000000002,
+    110.51111,
     -7.46417,
-    110.51111000000002,
+    110.51111,
     -7.46417
 ],
-  "geometry": {"coordinates":[110.51111000000002,-7.46417],"type":"Point"}
+  "geometry": {"coordinates":[110.51111,-7.46417],"type":"Point"}
 }

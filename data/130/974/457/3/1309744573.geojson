@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672001,
-        102072841
+        102072841,
+        85672001
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1993472
     },
     "wof:country":"ID",
-    "wof:geomhash":"753643394b7e9cce9b7ef6f7aef64049",
+    "wof:geomhash":"9e2c7b659f63754b100847ed19365d33",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1309744573,
-    "wof:lastmodified":1537018661,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613182484,
     "wof:name":"Empangbahagia",
     "wof:parent_id":102072841,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.78806000000002,
+    106.78806,
     -6.16,
-    106.78806000000002,
+    106.78806,
     -6.16
 ],
-  "geometry": {"coordinates":[106.78806000000002,-6.16],"type":"Point"}
+  "geometry": {"coordinates":[106.78806,-6.16],"type":"Point"}
 }

@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672115,
-        102073081
+        102073081,
+        85672115
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2082564
     },
     "wof:country":"ID",
-    "wof:geomhash":"bd21e63edf609554c9a5d0fbcc4ff549",
+    "wof:geomhash":"89e9feac0e2bd951660d6c001e578845",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1344201719,
-    "wof:lastmodified":1536671760,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613174990,
     "wof:name":"Krau",
     "wof:parent_id":102073081,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    140.08333000000002,
+    140.08333,
     -3.31667,
-    140.08333000000002,
+    140.08333,
     -3.31667
 ],
-  "geometry": {"coordinates":[140.08333000000002,-3.31667],"type":"Point"}
+  "geometry": {"coordinates":[140.08332999999999,-3.31667],"type":"Point"}
 }

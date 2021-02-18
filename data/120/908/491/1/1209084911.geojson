@@ -34,7 +34,7 @@
         "gn:id":2000224
     },
     "wof:country":"ID",
-    "wof:geomhash":"81935fa8456a6191592379d1347d7098",
+    "wof:geomhash":"ecdb0455f9fc1e0f49563b788139f1a8",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209084911,
-    "wof:lastmodified":1536298219,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178498,
     "wof:name":"Majungan",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     110.42611,
-    -7.8308300000000015,
+    -7.83083,
     110.42611,
-    -7.8308300000000015
+    -7.83083
 ],
   "geometry": {"coordinates":[110.42610999999999,-7.83083],"type":"Point"}
 }

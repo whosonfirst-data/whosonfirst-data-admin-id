@@ -38,15 +38,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672115,
-        1108796871
+        1108796871,
+        85672115
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1633331
     },
     "wof:country":"ID",
-    "wof:geomhash":"61de97d9ba9958af828d924f591774be",
+    "wof:geomhash":"b7a0f3d7c03bd31e18c0a8ebc3fa06fa",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -57,7 +57,14 @@
         }
     ],
     "wof:id":1293408235,
-    "wof:lastmodified":1537626774,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175963,
     "wof:name":"Padwa",
     "wof:parent_id":1108796871,
     "wof:placetype":"locality",
@@ -67,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    135.91666999999998,
+    135.91667,
     -1.15,
-    135.91666999999998,
+    135.91667,
     -1.15
 ],
-  "geometry": {"coordinates":[135.91666999999998,-1.15],"type":"Point"}
+  "geometry": {"coordinates":[135.91667000000001,-1.15],"type":"Point"}
 }

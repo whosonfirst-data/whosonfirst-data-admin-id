@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073515
+        102073515,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6399792
     },
     "wof:country":"ID",
-    "wof:geomhash":"44b726def9e7ea790bf1b51378e0b681",
+    "wof:geomhash":"d6707c0d57be74ecc3e9360ef06bc9c8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1259432373,
-    "wof:lastmodified":1537628809,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185135,
     "wof:name":"Pamulihan",
     "wof:parent_id":102073515,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.30861000000002,
+    108.30861,
     -6.93361,
-    108.30861000000002,
+    108.30861,
     -6.93361
 ],
-  "geometry": {"coordinates":[108.30861000000002,-6.93361],"type":"Point"}
+  "geometry": {"coordinates":[108.30861,-6.93361],"type":"Point"}
 }

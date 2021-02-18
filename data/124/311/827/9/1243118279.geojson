@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073217
+        102073217,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6604907
     },
     "wof:country":"ID",
-    "wof:geomhash":"0bc144c22caa4c56e688c42bd3a98c24",
+    "wof:geomhash":"d05c7afe7aab0bc3417efd01ce227f08",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1243118279,
-    "wof:lastmodified":1537630053,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613184077,
     "wof:name":"Pasirsake",
     "wof:parent_id":102073217,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.50388999999998,
+    106.50389,
     -6.60417,
-    106.50388999999998,
+    106.50389,
     -6.60417
 ],
-  "geometry": {"coordinates":[106.50388999999998,-6.60417],"type":"Point"}
+  "geometry": {"coordinates":[106.50389,-6.60417],"type":"Point"}
 }

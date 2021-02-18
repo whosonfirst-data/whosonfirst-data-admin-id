@@ -34,7 +34,7 @@
         "gn:id":6261035
     },
     "wof:country":"ID",
-    "wof:geomhash":"0df8a0a381bc17ee0a1526aa7994f418",
+    "wof:geomhash":"c361de75a5d072bc32f235daf5b601a6",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209026995,
-    "wof:lastmodified":1536299964,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179217,
     "wof:name":"Tiban",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     110.23278,
-    -7.559719999999999,
+    -7.55972,
     110.23278,
-    -7.559719999999999
+    -7.55972
 ],
   "geometry": {"coordinates":[110.23278000000001,-7.55972],"type":"Point"}
 }

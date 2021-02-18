@@ -34,7 +34,7 @@
         "gn:id":1972344
     },
     "wof:country":"ID",
-    "wof:geomhash":"1836b3b74da70bbbefbc94c0fbba3166",
+    "wof:geomhash":"7740d72896f86f31a124743fbb0491e5",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209611513,
-    "wof:lastmodified":1536281831,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178976,
     "wof:name":"Sukorame",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -52,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    112.66306000000002,
-    -7.941110000000001,
-    112.66306000000002,
-    -7.941110000000001
+    112.66306,
+    -7.94111,
+    112.66306,
+    -7.94111
 ],
-  "geometry": {"coordinates":[112.66306000000002,-7.94111],"type":"Point"}
+  "geometry": {"coordinates":[112.66306,-7.94111],"type":"Point"}
 }

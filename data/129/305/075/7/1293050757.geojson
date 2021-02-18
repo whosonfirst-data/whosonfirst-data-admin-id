@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073529
+        102073529,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6589709
     },
     "wof:country":"ID",
-    "wof:geomhash":"cc2b491aa5b46782d33923c955f54176",
+    "wof:geomhash":"71b93c07d43368a6f380a1c3891ec894",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1293050757,
-    "wof:lastmodified":1537629651,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613176408,
     "wof:name":"Cicagak",
     "wof:parent_id":102073529,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.11388999999998,
+    107.11389,
     -6.73833,
-    107.11388999999998,
+    107.11389,
     -6.73833
 ],
-  "geometry": {"coordinates":[107.11388999999998,-6.73833],"type":"Point"}
+  "geometry": {"coordinates":[107.11389,-6.73833],"type":"Point"}
 }

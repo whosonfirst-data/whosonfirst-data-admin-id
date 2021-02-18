@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671995,
-        102073479
+        102073479,
+        85671995
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1960311
     },
     "wof:country":"ID",
-    "wof:geomhash":"08107c8eab8c43792f529565f5fb0a9b",
+    "wof:geomhash":"bcf5454240a14651a77878253e07cc33",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,7 +54,14 @@
         }
     ],
     "wof:id":1226589953,
-    "wof:lastmodified":1537627550,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185685,
     "wof:name":"Bendo",
     "wof:parent_id":102073479,
     "wof:placetype":"locality",
@@ -64,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.35193999999998,
+    106.35194,
     -6.16861,
-    106.35193999999998,
+    106.35194,
     -6.16861
 ],
-  "geometry": {"coordinates":[106.35193999999998,-6.16861],"type":"Point"}
+  "geometry": {"coordinates":[106.35194,-6.16861],"type":"Point"}
 }

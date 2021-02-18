@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072857
+        102072857,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6256758
     },
     "wof:country":"ID",
-    "wof:geomhash":"a4a494249a2776eed2056b12a43b3bb8",
+    "wof:geomhash":"762b7dad42f471fedfb89ca7d9b6b61d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1210037003,
-    "wof:lastmodified":1536386045,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179683,
     "wof:name":"Kalikuto Kidul",
     "wof:parent_id":102072857,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.27306000000002,
+    110.27306,
     -7.38361,
-    110.27306000000002,
+    110.27306,
     -7.38361
 ],
-  "geometry": {"coordinates":[110.27306000000002,-7.38361],"type":"Point"}
+  "geometry": {"coordinates":[110.27306,-7.38361],"type":"Point"}
 }

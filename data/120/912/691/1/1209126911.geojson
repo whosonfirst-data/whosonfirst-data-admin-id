@@ -34,7 +34,7 @@
         "gn:id":2008389
     },
     "wof:country":"ID",
-    "wof:geomhash":"8bf50ffa40f1d88279ebdebe58e16b17",
+    "wof:geomhash":"aacff71022838aeb2d43809316bf6103",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209126911,
-    "wof:lastmodified":1536296929,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178739,
     "wof:name":"Dongkelan",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     110.63333,
-    -7.678889999999999,
+    -7.67889,
     110.63333,
-    -7.678889999999999
+    -7.67889
 ],
   "geometry": {"coordinates":[110.63333,-7.67889],"type":"Point"}
 }

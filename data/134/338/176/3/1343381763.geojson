@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072947
+        102072947,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6256543
     },
     "wof:country":"ID",
-    "wof:geomhash":"406354b2928305f701fb3941022dc80e",
+    "wof:geomhash":"ff7d48c6778a2ba85f301d499b6cca05",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1343381763,
-    "wof:lastmodified":1536858501,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613173808,
     "wof:name":"Ringinharjo",
     "wof:parent_id":102072947,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.97693999999998,
+    110.97694,
     -7.76583,
-    110.97693999999998,
+    110.97694,
     -7.76583
 ],
-  "geometry": {"coordinates":[110.97693999999998,-7.76583],"type":"Point"}
+  "geometry": {"coordinates":[110.97694,-7.76583],"type":"Point"}
 }

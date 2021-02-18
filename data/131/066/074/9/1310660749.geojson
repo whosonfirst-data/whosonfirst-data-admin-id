@@ -37,15 +37,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073551
+        102073551,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1625007
     },
     "wof:country":"ID",
-    "wof:geomhash":"04e4c38106f519f4513f17010ddfc990",
+    "wof:geomhash":"469b479d5cf926702d0af285a153a8dc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -56,7 +56,14 @@
         }
     ],
     "wof:id":1310660749,
-    "wof:lastmodified":1537626520,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181512,
     "wof:name":"Tanjungair",
     "wof:parent_id":102073551,
     "wof:placetype":"locality",
@@ -66,10 +73,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.05861000000002,
+    107.05861,
     -6.04861,
-    107.05861000000002,
+    107.05861,
     -6.04861
 ],
-  "geometry": {"coordinates":[107.05861000000002,-6.04861],"type":"Point"}
+  "geometry": {"coordinates":[107.05861,-6.04861],"type":"Point"}
 }

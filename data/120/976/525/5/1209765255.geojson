@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073471
+        102073471,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6583767
     },
     "wof:country":"ID",
-    "wof:geomhash":"9d12bdee715083f309bd5b0ed9ceddb2",
+    "wof:geomhash":"d81c75627539ddb11021bb55ce82744c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1209765255,
-    "wof:lastmodified":1537629537,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178873,
     "wof:name":"Nangerang Wetan",
     "wof:parent_id":102073471,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.53806000000002,
+    107.53806,
     -6.69778,
-    107.53806000000002,
+    107.53806,
     -6.69778
 ],
-  "geometry": {"coordinates":[107.53806000000002,-6.69778],"type":"Point"}
+  "geometry": {"coordinates":[107.53806,-6.69778],"type":"Point"}
 }

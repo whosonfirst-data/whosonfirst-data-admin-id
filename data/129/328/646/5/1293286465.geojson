@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072639
+        102072639,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6565597
     },
     "wof:country":"ID",
-    "wof:geomhash":"68a8462299924fee6d43cd0b595fb1ce",
+    "wof:geomhash":"1031c47ff75af79b537cf3d6d3094ea7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,7 +54,14 @@
         }
     ],
     "wof:id":1293286465,
-    "wof:lastmodified":1537629264,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613176751,
     "wof:name":"Sedayu",
     "wof:parent_id":102072639,
     "wof:placetype":"locality",
@@ -64,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.77443999999998,
+    109.77444,
     -7.6275,
-    109.77443999999998,
+    109.77444,
     -7.6275
 ],
-  "geometry": {"coordinates":[109.77443999999998,-7.6275],"type":"Point"}
+  "geometry": {"coordinates":[109.77444,-7.6275],"type":"Point"}
 }

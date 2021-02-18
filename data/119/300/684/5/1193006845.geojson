@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073469
+        102073469,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2012176
     },
     "wof:country":"ID",
-    "wof:geomhash":"297bf15d0370ff32b369e7849f2af325",
+    "wof:geomhash":"708e4e92a310094725bd631bd540029a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1193006845,
-    "wof:lastmodified":1536365366,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179743,
     "wof:name":"Karangwuluh Lor",
     "wof:parent_id":102073469,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.05861000000002,
+    110.05861,
     -7.87222,
-    110.05861000000002,
+    110.05861,
     -7.87222
 ],
-  "geometry": {"coordinates":[110.05861000000002,-7.87222],"type":"Point"}
+  "geometry": {"coordinates":[110.05861,-7.87222],"type":"Point"}
 }

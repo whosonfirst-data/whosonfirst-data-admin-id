@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072739
+        102072739,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6584252
     },
     "wof:country":"ID",
-    "wof:geomhash":"dc4a90c5379740c4ff275eb72528518c",
+    "wof:geomhash":"2e4202635ebc7245095795ec8b3ec04e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1226502565,
-    "wof:lastmodified":1537629552,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185803,
     "wof:name":"Bojongrengas",
     "wof:parent_id":102072739,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.82361000000002,
+    107.82361,
     -6.95889,
-    107.82361000000002,
+    107.82361,
     -6.95889
 ],
-  "geometry": {"coordinates":[107.82361000000002,-6.95889],"type":"Point"}
+  "geometry": {"coordinates":[107.82361,-6.95889],"type":"Point"}
 }

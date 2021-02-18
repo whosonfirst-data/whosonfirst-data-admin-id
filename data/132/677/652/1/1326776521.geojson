@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073505
+        102073505,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6402284
     },
     "wof:country":"ID",
-    "wof:geomhash":"a63f35dd727afaa315ce8bc9f9eec503",
+    "wof:geomhash":"24150688bc7be716a04334ededc41a21",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1326776521,
-    "wof:lastmodified":1537628863,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613173159,
     "wof:name":"Rengas",
     "wof:parent_id":102073505,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.38611000000002,
+    108.38611,
     -6.60583,
-    108.38611000000002,
+    108.38611,
     -6.60583
 ],
-  "geometry": {"coordinates":[108.38611000000002,-6.60583],"type":"Point"}
+  "geometry": {"coordinates":[108.38611,-6.60583],"type":"Point"}
 }

@@ -41,15 +41,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073193
+        102073193,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6403968
     },
     "wof:country":"ID",
-    "wof:geomhash":"74b564f35e463f679d1f74c6357c3ba2",
+    "wof:geomhash":"3dac48d220edfd9107ab71ffe6a7beed",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -60,7 +60,14 @@
         }
     ],
     "wof:id":1259925949,
-    "wof:lastmodified":1564203320,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613184813,
     "wof:name":"Cimanggis",
     "wof:parent_id":102073193,
     "wof:placetype":"locality",
@@ -70,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.37111000000002,
+    108.37111,
     -6.48278,
-    108.37111000000002,
+    108.37111,
     -6.48278
 ],
-  "geometry": {"coordinates":[108.37111000000002,-6.48278],"type":"Point"}
+  "geometry": {"coordinates":[108.37111,-6.48278],"type":"Point"}
 }

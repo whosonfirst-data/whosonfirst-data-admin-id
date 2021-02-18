@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102072973
+        102072973,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6409028
     },
     "wof:country":"ID",
-    "wof:geomhash":"b7a18f2cde864972fdc37fc9948c04b1",
+    "wof:geomhash":"39fb79b8a6505741a2936c32ab5dea70",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1243052893,
-    "wof:lastmodified":1537629027,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183734,
     "wof:name":"Natah",
     "wof:parent_id":102072973,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.32361000000002,
+    111.32361,
     -7.6925,
-    111.32361000000002,
+    111.32361,
     -7.6925
 ],
-  "geometry": {"coordinates":[111.32361000000002,-7.6925],"type":"Point"}
+  "geometry": {"coordinates":[111.32361,-7.6925],"type":"Point"}
 }

@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671995,
-        102072687
+        102072687,
+        85671995
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1960797
     },
     "wof:country":"ID",
-    "wof:geomhash":"a33e58463f734a64d762420c64ca12b3",
+    "wof:geomhash":"1b1c03b86045592aec4ceb7c3a7494f7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1259829265,
-    "wof:lastmodified":1537627577,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613184732,
     "wof:name":"Tarisi",
     "wof:parent_id":102072687,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.39806000000002,
+    106.39806,
     -6.26556,
-    106.39806000000002,
+    106.39806,
     -6.26556
 ],
-  "geometry": {"coordinates":[106.39806000000002,-6.26556],"type":"Point"}
+  "geometry": {"coordinates":[106.39806,-6.26556],"type":"Point"}
 }

@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102073013
+        102073013,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6386927
     },
     "wof:country":"ID",
-    "wof:geomhash":"fa3bc1e9983301dd9ded20cfb1b3f37b",
+    "wof:geomhash":"eb9f277303e912a2a79b9bf6f390e320",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1209800573,
-    "wof:lastmodified":1537628623,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179388,
     "wof:name":"Tulakan",
     "wof:parent_id":102073013,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.11388999999998,
+    111.11389,
     -8.10722,
-    111.11388999999998,
+    111.11389,
     -8.10722
 ],
-  "geometry": {"coordinates":[111.11388999999998,-8.10722],"type":"Point"}
+  "geometry": {"coordinates":[111.11389,-8.10722],"type":"Point"}
 }

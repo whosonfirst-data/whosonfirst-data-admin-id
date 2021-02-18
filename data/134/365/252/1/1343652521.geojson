@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073233
+        102073233,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2007709
     },
     "wof:country":"ID",
-    "wof:geomhash":"9f3e811b240114cca4aeaba4f5be07dc",
+    "wof:geomhash":"fbb01eca9ecf3673b16a556c39e1af0a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1343652521,
-    "wof:lastmodified":1536966279,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613173887,
     "wof:name":"Jimbung Lor",
     "wof:parent_id":102073233,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.61556000000002,
+    110.61556,
     -7.74833,
-    110.61556000000002,
+    110.61556,
     -7.74833
 ],
-  "geometry": {"coordinates":[110.61556000000002,-7.74833],"type":"Point"}
+  "geometry": {"coordinates":[110.61556,-7.74833],"type":"Point"}
 }

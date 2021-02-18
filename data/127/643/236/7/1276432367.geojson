@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072907
+        102072907,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1933664
     },
     "wof:country":"ID",
-    "wof:geomhash":"145fb4afbb1541825b8991a7dd1a5ebc",
+    "wof:geomhash":"05a7e8ee9d0caa102d276d441758e63c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1276432367,
-    "wof:lastmodified":1536645442,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177135,
     "wof:name":"Japanan",
     "wof:parent_id":102072907,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.85611000000002,
+    110.85611,
     -7.57167,
-    110.85611000000002,
+    110.85611,
     -7.57167
 ],
-  "geometry": {"coordinates":[110.85611000000002,-7.57167],"type":"Point"}
+  "geometry": {"coordinates":[110.85611,-7.57167],"type":"Point"}
 }

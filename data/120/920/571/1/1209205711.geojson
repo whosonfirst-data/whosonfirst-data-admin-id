@@ -34,7 +34,7 @@
         "gn:id":1972972
     },
     "wof:country":"ID",
-    "wof:geomhash":"e2bbbae3cac35d4a1645a3d62df9946b",
+    "wof:geomhash":"df4c1790c87719108466948f2bebca52",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209205711,
-    "wof:lastmodified":1536294463,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179300,
     "wof:name":"Duren",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     110.57722,
-    -7.2888899999999985,
+    -7.28889,
     110.57722,
-    -7.2888899999999985
+    -7.28889
 ],
   "geometry": {"coordinates":[110.57722,-7.28889],"type":"Point"}
 }

@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073193
+        102073193,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6404238
     },
     "wof:country":"ID",
-    "wof:geomhash":"c572b32d9ff48d182b7076b571ea20f0",
+    "wof:geomhash":"261ba3b21a9f4aeb64dc86eebc4cea6c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1327493465,
-    "wof:lastmodified":1537628889,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613172772,
     "wof:name":"Kasep Kidul",
     "wof:parent_id":102073193,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.45638999999998,
+    108.45639,
     -6.47111,
-    108.45638999999998,
+    108.45639,
     -6.47111
 ],
-  "geometry": {"coordinates":[108.45638999999998,-6.47111],"type":"Point"}
+  "geometry": {"coordinates":[108.45639,-6.47111],"type":"Point"}
 }

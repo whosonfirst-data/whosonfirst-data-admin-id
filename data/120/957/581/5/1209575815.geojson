@@ -40,7 +40,7 @@
         "gn:id":1963972
     },
     "wof:country":"ID",
-    "wof:geomhash":"92489bce5f34e66d601dd7f38fd1a6d5",
+    "wof:geomhash":"1cbf641374f7e55f2b914d3dd954551c",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1209575815,
-    "wof:lastmodified":1537627738,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178940,
     "wof:name":"Sompok",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.57361000000002,
+    107.57361,
     -7.00306,
-    107.57361000000002,
+    107.57361,
     -7.00306
 ],
-  "geometry": {"coordinates":[107.57361000000002,-7.00306],"type":"Point"}
+  "geometry": {"coordinates":[107.57361,-7.00306],"type":"Point"}
 }

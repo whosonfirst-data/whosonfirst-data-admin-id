@@ -34,8 +34,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672085,
         1108796815,
+        85672085,
         85672097
     ],
     "wof:breaches":[],
@@ -43,7 +43,7 @@
         "gn:id":1622421
     },
     "wof:country":"ID",
-    "wof:geomhash":"85bba86541992053b02df68dc5c386f9",
+    "wof:geomhash":"68aafe4b8b328206699f8442d2ece09a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -61,7 +61,14 @@
         }
     ],
     "wof:id":1225796029,
-    "wof:lastmodified":1537626429,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613186565,
     "wof:name":"Waehu",
     "wof:parent_id":1108796815,
     "wof:placetype":"locality",
@@ -71,10 +78,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    126.75173999999998,
+    126.75174,
     -3.27714,
-    126.75173999999998,
+    126.75174,
     -3.27714
 ],
-  "geometry": {"coordinates":[126.75173999999998,-3.27714],"type":"Point"}
+  "geometry": {"coordinates":[126.75174,-3.27714],"type":"Point"}
 }

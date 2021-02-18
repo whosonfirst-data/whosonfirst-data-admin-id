@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102073373
+        102073373,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7083975
     },
     "wof:country":"ID",
-    "wof:geomhash":"57fe3b0043be17da51ebaeebae610a32",
+    "wof:geomhash":"9d9dd7c064626d01799d4fb634046793",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1242567809,
-    "wof:lastmodified":1537633052,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183314,
     "wof:name":"Mulyasari",
     "wof:parent_id":102073373,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    114.17128999999998,
+    114.17129,
     -8.22498,
-    114.17128999999998,
+    114.17129,
     -8.22498
 ],
-  "geometry": {"coordinates":[114.17128999999998,-8.22498],"type":"Point"}
+  "geometry": {"coordinates":[114.17129,-8.22498],"type":"Point"}
 }

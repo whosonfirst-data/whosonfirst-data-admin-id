@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072947
+        102072947,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6255369
     },
     "wof:country":"ID",
-    "wof:geomhash":"0f955295796b2013451565663ddac421",
+    "wof:geomhash":"e87cb4783ce88ea1b54f5dad569806a0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1310396527,
-    "wof:lastmodified":1537071150,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181188,
     "wof:name":"Dunggupit",
     "wof:parent_id":102072947,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.82193999999998,
+    110.82194,
     -7.91667,
-    110.82193999999998,
+    110.82194,
     -7.91667
 ],
-  "geometry": {"coordinates":[110.82193999999998,-7.91667],"type":"Point"}
+  "geometry": {"coordinates":[110.82194,-7.91667],"type":"Point"}
 }

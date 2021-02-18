@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072639
+        102072639,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6369957
     },
     "wof:country":"ID",
-    "wof:geomhash":"fb62552705087b987b11a6fb876cf56a",
+    "wof:geomhash":"755a746780834f2533566a1a0178d0c4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1243058645,
-    "wof:lastmodified":1537628295,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183751,
     "wof:name":"Jatiamba",
     "wof:parent_id":102072639,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.48888999999998,
+    109.48889,
     -7.72111,
-    109.48888999999998,
+    109.48889,
     -7.72111
 ],
-  "geometry": {"coordinates":[109.48888999999998,-7.72111],"type":"Point"}
+  "geometry": {"coordinates":[109.48889,-7.72111],"type":"Point"}
 }

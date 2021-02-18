@@ -33,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072983
+        102072983,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1973098
     },
     "wof:country":"ID",
-    "wof:geomhash":"75c6b513c587b63a49da1093a5c06ff2",
+    "wof:geomhash":"35da00fdb874a99324b45e6beef3ebb6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,7 +52,14 @@
         }
     ],
     "wof:id":1242967475,
-    "wof:lastmodified":1537628106,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183954,
     "wof:name":"Kedungringin",
     "wof:parent_id":102072983,
     "wof:placetype":"locality",
@@ -62,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.64388999999998,
+    110.64389,
     -7.3,
-    110.64388999999998,
+    110.64389,
     -7.3
 ],
-  "geometry": {"coordinates":[110.64388999999998,-7.3],"type":"Point"}
+  "geometry": {"coordinates":[110.64389,-7.3],"type":"Point"}
 }

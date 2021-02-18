@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073189
+        102073189,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6564785
     },
     "wof:country":"ID",
-    "wof:geomhash":"fb6df265f8185b92bd3ea9bb85f4845a",
+    "wof:geomhash":"f0c8b83c08aea25bf41dce32c7cfeb41",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1242766313,
-    "wof:lastmodified":1537629241,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183861,
     "wof:name":"Balong",
     "wof:parent_id":102073189,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.58556000000002,
+    110.58556,
     -8.06639,
-    110.58556000000002,
+    110.58556,
     -8.06639
 ],
-  "geometry": {"coordinates":[110.58556000000002,-8.06639],"type":"Point"}
+  "geometry": {"coordinates":[110.58556,-8.06639],"type":"Point"}
 }

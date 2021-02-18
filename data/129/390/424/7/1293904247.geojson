@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072929
+        102072929,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6263551
     },
     "wof:country":"ID",
-    "wof:geomhash":"3054beeacd8f3da3fb90e97491b9da74",
+    "wof:geomhash":"9a28961b49374c4d5e3bf48797838e94",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1293904247,
-    "wof:lastmodified":1536683446,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175603,
     "wof:name":"Tugumulyo",
     "wof:parent_id":102072929,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.89388999999998,
+    110.89389,
     -7.365,
-    110.89388999999998,
+    110.89389,
     -7.365
 ],
-  "geometry": {"coordinates":[110.89388999999998,-7.365],"type":"Point"}
+  "geometry": {"coordinates":[110.89389,-7.365],"type":"Point"}
 }

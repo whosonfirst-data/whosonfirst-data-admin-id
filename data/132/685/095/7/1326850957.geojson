@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073405
+        102073405,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1934668
     },
     "wof:country":"ID",
-    "wof:geomhash":"4daaa8cbceb9c6a193b06ae8999f6e41",
+    "wof:geomhash":"a110bd0ca3eedbc16293977cbcda57cc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1326850957,
-    "wof:lastmodified":1537020906,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613173041,
     "wof:name":"Grajegan",
     "wof:parent_id":102073405,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.77443999999998,
+    110.77444,
     -7.7375,
-    110.77443999999998,
+    110.77444,
     -7.7375
 ],
-  "geometry": {"coordinates":[110.77443999999998,-7.7375],"type":"Point"}
+  "geometry": {"coordinates":[110.77444,-7.7375],"type":"Point"}
 }

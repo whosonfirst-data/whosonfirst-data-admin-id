@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672009,
-        102072615
+        102072615,
+        85672009
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7667152
     },
     "wof:country":"ID",
-    "wof:geomhash":"902904680d853220525eab0bdfdcc184",
+    "wof:geomhash":"56021a5cf903dc8bf0358480f84b6653",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1243527369,
-    "wof:lastmodified":1537634237,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613182987,
     "wof:name":"Balidanir",
     "wof:parent_id":102072615,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    105.56768999999998,
+    105.56769,
     -5.17223,
-    105.56768999999998,
+    105.56769,
     -5.17223
 ],
-  "geometry": {"coordinates":[105.56768999999998,-5.17223],"type":"Point"}
+  "geometry": {"coordinates":[105.56769,-5.17223],"type":"Point"}
 }

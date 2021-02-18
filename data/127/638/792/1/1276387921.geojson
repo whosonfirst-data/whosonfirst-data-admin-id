@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073471
+        102073471,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6584653
     },
     "wof:country":"ID",
-    "wof:geomhash":"ee34d479bf6114fc6f705dc354089fdf",
+    "wof:geomhash":"fad1e57a990032f1f77d59d4b50ca6e3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1276387921,
-    "wof:lastmodified":1537629566,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178222,
     "wof:name":"Sukasari",
     "wof:parent_id":102073471,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.39388999999998,
+    107.39389,
     -6.65389,
-    107.39388999999998,
+    107.39389,
     -6.65389
 ],
-  "geometry": {"coordinates":[107.39388999999998,-6.65389],"type":"Point"}
+  "geometry": {"coordinates":[107.39389,-6.65389],"type":"Point"}
 }

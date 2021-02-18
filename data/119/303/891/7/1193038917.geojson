@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072947
+        102072947,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6406687
     },
     "wof:country":"ID",
-    "wof:geomhash":"1584120347daf3a9e581af09c594d640",
+    "wof:geomhash":"25fff740dd1d7cfe93c1c91983833ddb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1193038917,
-    "wof:lastmodified":1537628971,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179973,
     "wof:name":"Koripan",
     "wof:parent_id":102072947,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.08693999999998,
+    111.08694,
     -7.7625,
-    111.08693999999998,
+    111.08694,
     -7.7625
 ],
-  "geometry": {"coordinates":[111.08693999999998,-7.7625],"type":"Point"}
+  "geometry": {"coordinates":[111.08694,-7.7625],"type":"Point"}
 }

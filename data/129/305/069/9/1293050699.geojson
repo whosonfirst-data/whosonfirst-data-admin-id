@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073217
+        102073217,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6604367
     },
     "wof:country":"ID",
-    "wof:geomhash":"a046645a9f5ecaa6b9fcdcbeaadaef65",
+    "wof:geomhash":"6cf7241f85f37d4d5db83d501989d88f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1293050699,
-    "wof:lastmodified":1537630033,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613176415,
     "wof:name":"Babakankelapadua",
     "wof:parent_id":102073217,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.71056000000002,
+    106.71056,
     -6.64056,
-    106.71056000000002,
+    106.71056,
     -6.64056
 ],
-  "geometry": {"coordinates":[106.71056000000002,-6.64056],"type":"Point"}
+  "geometry": {"coordinates":[106.71056,-6.64056],"type":"Point"}
 }

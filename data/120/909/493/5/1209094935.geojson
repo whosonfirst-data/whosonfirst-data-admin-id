@@ -34,7 +34,7 @@
         "gn:id":6259888
     },
     "wof:country":"ID",
-    "wof:geomhash":"330d96f83ffbf90e174acac99f348f32",
+    "wof:geomhash":"9e4413108fe998162804d3fa07d9b8e8",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209094935,
-    "wof:lastmodified":1536297917,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178280,
     "wof:name":"Semangun",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -52,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.22556000000002,
+    110.22556,
     -7.66861,
-    110.22556000000002,
+    110.22556,
     -7.66861
 ],
-  "geometry": {"coordinates":[110.22556000000002,-7.66861],"type":"Point"}
+  "geometry": {"coordinates":[110.22556,-7.66861],"type":"Point"}
 }

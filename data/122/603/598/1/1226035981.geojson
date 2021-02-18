@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073187
+        102073187,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6565910
     },
     "wof:country":"ID",
-    "wof:geomhash":"5239d144ccf6456ea7f0f1b970e5f454",
+    "wof:geomhash":"3edecf148fb7b5826f653471f22008c9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1226035981,
-    "wof:lastmodified":1537629276,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185714,
     "wof:name":"Tapen Wetan",
     "wof:parent_id":102073187,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.82193999999998,
+    109.82194,
     -7.70333,
-    109.82193999999998,
+    109.82194,
     -7.70333
 ],
-  "geometry": {"coordinates":[109.82193999999998,-7.70333],"type":"Point"}
+  "geometry": {"coordinates":[109.82194,-7.70333],"type":"Point"}
 }

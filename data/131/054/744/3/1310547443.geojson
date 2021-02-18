@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073529
+        102073529,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6579240
     },
     "wof:country":"ID",
-    "wof:geomhash":"37e6ebbf420a3285244de3b512e516bc",
+    "wof:geomhash":"8c039678b551be8624ea1fd42d37f586",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1310547443,
-    "wof:lastmodified":1537629418,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613180947,
     "wof:name":"Selakopi Kaler",
     "wof:parent_id":102073529,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.13611000000002,
+    107.13611,
     -6.81611,
-    107.13611000000002,
+    107.13611,
     -6.81611
 ],
-  "geometry": {"coordinates":[107.13611000000002,-6.81611],"type":"Point"}
+  "geometry": {"coordinates":[107.13611,-6.81611],"type":"Point"}
 }

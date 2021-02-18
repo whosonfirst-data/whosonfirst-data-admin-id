@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073529
+        102073529,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6579042
     },
     "wof:country":"ID",
-    "wof:geomhash":"f97a2e8b20c0f43d78e84860cc3401da",
+    "wof:geomhash":"be79c46aae0bbd03ad692036f8742162",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1260029703,
-    "wof:lastmodified":1537629410,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613180679,
     "wof:name":"Babakankubang",
     "wof:parent_id":102073529,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.19138999999998,
+    107.19139,
     -6.7875,
-    107.19138999999998,
+    107.19139,
     -6.7875
 ],
-  "geometry": {"coordinates":[107.19138999999998,-6.7875],"type":"Point"}
+  "geometry": {"coordinates":[107.19139,-6.7875],"type":"Point"}
 }

@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072983
+        102072983,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2009908
     },
     "wof:country":"ID",
-    "wof:geomhash":"87433b99a4f8fe8f283ddd8ed8cabbcf",
+    "wof:geomhash":"bce9bbd0a780612f0502c9203c8eab40",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1259574083,
-    "wof:lastmodified":1536728813,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613184763,
     "wof:name":"Gawerejo",
     "wof:parent_id":102072983,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.56638999999998,
+    110.56639,
     -7.58833,
-    110.56638999999998,
+    110.56639,
     -7.58833
 ],
-  "geometry": {"coordinates":[110.56638999999998,-7.58833],"type":"Point"}
+  "geometry": {"coordinates":[110.56639,-7.58833],"type":"Point"}
 }

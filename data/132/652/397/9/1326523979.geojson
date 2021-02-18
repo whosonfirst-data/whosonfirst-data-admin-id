@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073153
+        102073153,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6370949
     },
     "wof:country":"ID",
-    "wof:geomhash":"621a6ccbc1847ca295dfe6912cbb225f",
+    "wof:geomhash":"7554f0e23e7da44a159461f473161b66",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1326523979,
-    "wof:lastmodified":1537628326,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613173228,
     "wof:name":"Pakopenjenggul",
     "wof:parent_id":102073153,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.42638999999998,
+    109.42639,
     -7.48917,
-    109.42638999999998,
+    109.42639,
     -7.48917
 ],
-  "geometry": {"coordinates":[109.42638999999998,-7.48917],"type":"Point"}
+  "geometry": {"coordinates":[109.42639,-7.48917],"type":"Point"}
 }

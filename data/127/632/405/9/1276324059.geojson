@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102073013
+        102073013,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6387078
     },
     "wof:country":"ID",
-    "wof:geomhash":"63c8312aab5047534fab77f4983fef9a",
+    "wof:geomhash":"b2fd028393c518db34ab28d9d579ea78",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1276324059,
-    "wof:lastmodified":1537628628,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177526,
     "wof:name":"Ponggok",
     "wof:parent_id":102073013,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.28806000000002,
+    111.28806,
     -8.13833,
-    111.28806000000002,
+    111.28806,
     -8.13833
 ],
-  "geometry": {"coordinates":[111.28806000000002,-8.13833],"type":"Point"}
+  "geometry": {"coordinates":[111.28806,-8.13833],"type":"Point"}
 }

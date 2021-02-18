@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073529
+        102073529,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6579590
     },
     "wof:country":"ID",
-    "wof:geomhash":"6fff5fb4853312aba7a23756628bff9b",
+    "wof:geomhash":"a507c5a02980da3226756bdae754b4d8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1226091541,
-    "wof:lastmodified":1537629433,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613186531,
     "wof:name":"Pasirjami",
     "wof:parent_id":102073529,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.17638999999998,
+    107.17639,
     -6.8625,
-    107.17638999999998,
+    107.17639,
     -6.8625
 ],
-  "geometry": {"coordinates":[107.17638999999998,-6.8625],"type":"Point"}
+  "geometry": {"coordinates":[107.17639,-6.8625],"type":"Point"}
 }

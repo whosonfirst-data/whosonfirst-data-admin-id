@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073313
+        102073313,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2000360
     },
     "wof:country":"ID",
-    "wof:geomhash":"bfeb8938c4c3db2ea7ad8e458e7df40e",
+    "wof:geomhash":"b0cd2eca0cf074211d89ce0404c19841",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1310383993,
-    "wof:lastmodified":1537089100,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613180957,
     "wof:name":"Glagah Lor",
     "wof:parent_id":102073313,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.38611000000002,
+    110.38611,
     -7.84889,
-    110.38611000000002,
+    110.38611,
     -7.84889
 ],
-  "geometry": {"coordinates":[110.38611000000002,-7.84889],"type":"Point"}
+  "geometry": {"coordinates":[110.38611,-7.84889],"type":"Point"}
 }

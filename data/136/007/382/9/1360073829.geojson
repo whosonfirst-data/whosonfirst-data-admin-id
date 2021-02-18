@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073189
+        102073189,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6564612
     },
     "wof:country":"ID",
-    "wof:geomhash":"c6e37d13b00c4cec7a00a67336e66282",
+    "wof:geomhash":"f8da1d19ee0a1291a862b9e97195ccd3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1360073829,
-    "wof:lastmodified":1537629236,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181852,
     "wof:name":"Sanglor Dua",
     "wof:parent_id":102073189,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.46193999999998,
+    110.46194,
     -8.00278,
-    110.46193999999998,
+    110.46194,
     -8.00278
 ],
-  "geometry": {"coordinates":[110.46193999999998,-8.00278],"type":"Point"}
+  "geometry": {"coordinates":[110.46194,-8.00278],"type":"Point"}
 }

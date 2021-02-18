@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073189
+        102073189,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2004879
     },
     "wof:country":"ID",
-    "wof:geomhash":"295db565e554d877d72aa03099e30653",
+    "wof:geomhash":"f0dd8d1fa11aadfed2b1594c20725e21",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1209995123,
-    "wof:lastmodified":1536384569,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178591,
     "wof:name":"Gandu Satu",
     "wof:parent_id":102073189,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.63611000000002,
+    110.63611,
     -7.97806,
-    110.63611000000002,
+    110.63611,
     -7.97806
 ],
-  "geometry": {"coordinates":[110.63611000000002,-7.97806],"type":"Point"}
+  "geometry": {"coordinates":[110.63611,-7.97806],"type":"Point"}
 }

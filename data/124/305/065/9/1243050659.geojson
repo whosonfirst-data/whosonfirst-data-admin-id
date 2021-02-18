@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672009,
-        1108796809
+        1108796809,
+        85672009
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7665781
     },
     "wof:country":"ID",
-    "wof:geomhash":"53f37d75d83a5ffac2b48bdc8959c984",
+    "wof:geomhash":"46a023e879df8d44e7c7193564eb5b66",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1243050659,
-    "wof:lastmodified":1537634191,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183736,
     "wof:name":"Pegetahan",
     "wof:parent_id":1108796809,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    105.22648999999998,
+    105.22649,
     -5.66392,
-    105.22648999999998,
+    105.22649,
     -5.66392
 ],
-  "geometry": {"coordinates":[105.22648999999998,-5.66392],"type":"Point"}
+  "geometry": {"coordinates":[105.22649,-5.66392],"type":"Point"}
 }

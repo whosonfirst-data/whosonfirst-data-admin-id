@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073233
+        102073233,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6265418
     },
     "wof:country":"ID",
-    "wof:geomhash":"1ba793afdaa8ec3da350cd919d44a83a",
+    "wof:geomhash":"75bf61b1815edb920304ec3c79280c83",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1343682601,
-    "wof:lastmodified":1536923868,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613174672,
     "wof:name":"Bubulan",
     "wof:parent_id":102073233,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.48888999999998,
+    110.48889,
     -7.71306,
-    110.48888999999998,
+    110.48889,
     -7.71306
 ],
-  "geometry": {"coordinates":[110.48888999999998,-7.71306],"type":"Point"}
+  "geometry": {"coordinates":[110.48889,-7.71306],"type":"Point"}
 }

@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672115,
-        102073507
+        102073507,
+        85672115
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1621347
     },
     "wof:country":"ID",
-    "wof:geomhash":"5ab31b11ee2c5c548c3ce09e909308b8",
+    "wof:geomhash":"ca049f9a95d852f60684c6a26c1dd2f3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1276137481,
-    "wof:lastmodified":1537039401,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177781,
     "wof:name":"Wotai",
     "wof:parent_id":102073507,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    136.33333000000002,
+    136.33333,
     -3.93333,
-    136.33333000000002,
+    136.33333,
     -3.93333
 ],
-  "geometry": {"coordinates":[136.33333000000002,-3.93333],"type":"Point"}
+  "geometry": {"coordinates":[136.33332999999999,-3.93333],"type":"Point"}
 }

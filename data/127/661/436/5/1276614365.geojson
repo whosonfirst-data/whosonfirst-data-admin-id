@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072949
+        102072949,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6599007
     },
     "wof:country":"ID",
-    "wof:geomhash":"87f0ae340838325027106319ec6a2c6b",
+    "wof:geomhash":"94ba2d6ff0d94d9597154dc8e5fff944",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1276614365,
-    "wof:lastmodified":1537629948,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177583,
     "wof:name":"Badaraksa Kidul",
     "wof:parent_id":102072949,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.52443999999998,
+    107.52444,
     -6.96722,
-    107.52443999999998,
+    107.52444,
     -6.96722
 ],
-  "geometry": {"coordinates":[107.52443999999998,-6.96722],"type":"Point"}
+  "geometry": {"coordinates":[107.52444,-6.96722],"type":"Point"}
 }

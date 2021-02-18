@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073265
+        102073265,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6264307
     },
     "wof:country":"ID",
-    "wof:geomhash":"71d2863fe9448ec3ae353a690551a3f9",
+    "wof:geomhash":"562152c069f1e7a1d688644a661fcaca",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1293762313,
-    "wof:lastmodified":1536887543,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175937,
     "wof:name":"Ngaranan",
     "wof:parent_id":102073265,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.26111000000002,
+    110.26111,
     -7.72972,
-    110.26111000000002,
+    110.26111,
     -7.72972
 ],
-  "geometry": {"coordinates":[110.26111000000002,-7.72972],"type":"Point"}
+  "geometry": {"coordinates":[110.26111,-7.72972],"type":"Point"}
 }

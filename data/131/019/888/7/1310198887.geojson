@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072857
+        102072857,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6199600
     },
     "wof:country":"ID",
-    "wof:geomhash":"e4e4aada05466be1598e0a11a3dd582d",
+    "wof:geomhash":"9901df62eb4e3992bd8c133aa290812b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1310198887,
-    "wof:lastmodified":1536860450,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181414,
     "wof:name":"Wonosirno",
     "wof:parent_id":102072857,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.06638999999998,
+    110.06639,
     -7.49694,
-    110.06638999999998,
+    110.06639,
     -7.49694
 ],
-  "geometry": {"coordinates":[110.06638999999998,-7.49694],"type":"Point"}
+  "geometry": {"coordinates":[110.06639,-7.49694],"type":"Point"}
 }

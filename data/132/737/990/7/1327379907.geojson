@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073217
+        102073217,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6597252
     },
     "wof:country":"ID",
-    "wof:geomhash":"b9fa4fae3cfcdff74a39747098f9bbbf",
+    "wof:geomhash":"2a7a3009501b56d9333780d03a404b40",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1327379907,
-    "wof:lastmodified":1537629881,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613172087,
     "wof:name":"Curugdengdeng",
     "wof:parent_id":102073217,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.83693999999998,
+    106.83694,
     -6.73611,
-    106.83693999999998,
+    106.83694,
     -6.73611
 ],
-  "geometry": {"coordinates":[106.83693999999998,-6.73611],"type":"Point"}
+  "geometry": {"coordinates":[106.83694,-6.73611],"type":"Point"}
 }

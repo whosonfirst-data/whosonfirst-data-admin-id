@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672045,
-        102072975
+        102072975,
+        85672045
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1647196
     },
     "wof:country":"ID",
-    "wof:geomhash":"184145199e281a29fd6de36039c090c8",
+    "wof:geomhash":"d1c43e232eba8c0787156bf466e1ff2d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,7 +54,14 @@
         }
     ],
     "wof:id":1293029675,
-    "wof:lastmodified":1537627248,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613176428,
     "wof:name":"Cenrana",
     "wof:parent_id":102072975,
     "wof:placetype":"locality",
@@ -64,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    118.85193999999998,
+    118.85194,
     -3.31972,
-    118.85193999999998,
+    118.85194,
     -3.31972
 ],
-  "geometry": {"coordinates":[118.85193999999998,-3.31972],"type":"Point"}
+  "geometry": {"coordinates":[118.85194,-3.31972],"type":"Point"}
 }

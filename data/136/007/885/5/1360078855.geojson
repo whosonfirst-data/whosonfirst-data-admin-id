@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072983
+        102072983,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6257402
     },
     "wof:country":"ID",
-    "wof:geomhash":"d2065d784c21e06e5754f44f0ca23c7d",
+    "wof:geomhash":"627b540830111ceb0be299a511b2a33b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1360078855,
-    "wof:lastmodified":1536954773,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181861,
     "wof:name":"Gunungan Kidul",
     "wof:parent_id":102072983,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.48111000000002,
+    110.48111,
     -7.47722,
-    110.48111000000002,
+    110.48111,
     -7.47722
 ],
-  "geometry": {"coordinates":[110.48111000000002,-7.47722],"type":"Point"}
+  "geometry": {"coordinates":[110.48111,-7.47722],"type":"Point"}
 }

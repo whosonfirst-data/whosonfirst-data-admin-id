@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072857
+        102072857,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6257144
     },
     "wof:country":"ID",
-    "wof:geomhash":"5bfa2d0867bd107fdffa6ac9790ae102",
+    "wof:geomhash":"9807e1cfc3ef6eae01f43e65ce0e4f9d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1259603959,
-    "wof:lastmodified":1536685331,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613184908,
     "wof:name":"Glondongbatur",
     "wof:parent_id":102072857,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.36388999999998,
+    110.36389,
     -7.47889,
-    110.36388999999998,
+    110.36389,
     -7.47889
 ],
-  "geometry": {"coordinates":[110.36388999999998,-7.47889],"type":"Point"}
+  "geometry": {"coordinates":[110.36389,-7.47889],"type":"Point"}
 }

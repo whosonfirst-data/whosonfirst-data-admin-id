@@ -34,7 +34,7 @@
         "gn:id":6256726
     },
     "wof:country":"ID",
-    "wof:geomhash":"c969e7576de297479724fa38a9ddc3a9",
+    "wof:geomhash":"3bcb92b99c3ca7404be83324a704f614",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209435509,
-    "wof:lastmodified":1536287116,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179541,
     "wof:name":"Dangklik",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     110.26083,
-    -7.380560000000001,
+    -7.38056,
     110.26083,
-    -7.380560000000001
+    -7.38056
 ],
   "geometry": {"coordinates":[110.26083,-7.38056],"type":"Point"}
 }

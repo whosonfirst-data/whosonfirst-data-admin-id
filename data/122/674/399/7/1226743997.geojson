@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072709
+        102072709,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6252712
     },
     "wof:country":"ID",
-    "wof:geomhash":"623b5c496a96c323927ce9d27a44082e",
+    "wof:geomhash":"1d83ddce518b2e71042e5f861dbe0d0d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1226743997,
-    "wof:lastmodified":1536718396,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185428,
     "wof:name":"Tluko",
     "wof:parent_id":102072709,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.50943999999998,
+    110.50944,
     -7.40194,
-    110.50943999999998,
+    110.50944,
     -7.40194
 ],
-  "geometry": {"coordinates":[110.50943999999998,-7.40194],"type":"Point"}
+  "geometry": {"coordinates":[110.50944,-7.40194],"type":"Point"}
 }

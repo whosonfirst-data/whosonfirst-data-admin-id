@@ -34,15 +34,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672001,
-        102072667
+        102072667,
+        85672001
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1631346
     },
     "wof:country":"ID",
-    "wof:geomhash":"df6279c206b7b1e29819de56d7029f97",
+    "wof:geomhash":"febd280c9ff10f902e01dd50ab1d78ea",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +53,14 @@
         }
     ],
     "wof:id":1310151947,
-    "wof:lastmodified":1537626711,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613180717,
     "wof:name":"Perigi-udik",
     "wof:parent_id":102072667,
     "wof:placetype":"locality",
@@ -63,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.77306000000002,
+    106.77306,
     -6.25667,
-    106.77306000000002,
+    106.77306,
     -6.25667
 ],
-  "geometry": {"coordinates":[106.77306000000002,-6.25667],"type":"Point"}
+  "geometry": {"coordinates":[106.77306,-6.25667],"type":"Point"}
 }

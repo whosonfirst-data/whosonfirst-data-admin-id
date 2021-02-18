@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073217
+        102073217,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6604860
     },
     "wof:country":"ID",
-    "wof:geomhash":"1b417b233639a961170f4cc0a1330742",
+    "wof:geomhash":"4ab08a2a9f0c9b88bbbebfaa2a9b7e4d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1293050525,
-    "wof:lastmodified":1537630051,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613176397,
     "wof:name":"Legokmanggu Tonggoh",
     "wof:parent_id":102073217,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.60611000000002,
+    106.60611,
     -6.59667,
-    106.60611000000002,
+    106.60611,
     -6.59667
 ],
-  "geometry": {"coordinates":[106.60611000000002,-6.59667],"type":"Point"}
+  "geometry": {"coordinates":[106.60611,-6.59667],"type":"Point"}
 }

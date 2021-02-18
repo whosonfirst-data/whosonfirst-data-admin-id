@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672009,
-        1108796809
+        1108796809,
+        85672009
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7666211
     },
     "wof:country":"ID",
-    "wof:geomhash":"f5840f7e559538cd1b469882ba9ac8ee",
+    "wof:geomhash":"75766d8e8451d993135ea78e006cdbea",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1293659293,
-    "wof:lastmodified":1537634205,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175416,
     "wof:name":"Sumberjaya",
     "wof:parent_id":1108796809,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    105.53513999999998,
+    105.53514,
     -5.48001,
-    105.53513999999998,
+    105.53514,
     -5.48001
 ],
-  "geometry": {"coordinates":[105.53513999999998,-5.48001],"type":"Point"}
+  "geometry": {"coordinates":[105.53514,-5.48001],"type":"Point"}
 }

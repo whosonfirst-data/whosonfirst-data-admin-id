@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072857
+        102072857,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6200502
     },
     "wof:country":"ID",
-    "wof:geomhash":"d4e2088f766220d0c4451e95ae4d8839",
+    "wof:geomhash":"bc9b3b5b95d6f5bda8acdcf950f0c906",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1226036305,
-    "wof:lastmodified":1536738717,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185717,
     "wof:name":"Senobayan",
     "wof:parent_id":102072857,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.23888999999998,
+    110.23889,
     -7.37417,
-    110.23888999999998,
+    110.23889,
     -7.37417
 ],
-  "geometry": {"coordinates":[110.23888999999998,-7.37417],"type":"Point"}
+  "geometry": {"coordinates":[110.23889,-7.37417],"type":"Point"}
 }

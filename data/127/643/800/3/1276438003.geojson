@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073405
+        102073405,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1935126
     },
     "wof:country":"ID",
-    "wof:geomhash":"70f2056f0fc8e4a1e626046472f83649",
+    "wof:geomhash":"860b346dbe7a6009b0dabf46fd25db18",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1276438003,
-    "wof:lastmodified":1536637243,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177134,
     "wof:name":"Sambirejo",
     "wof:parent_id":102073405,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.91861000000002,
+    110.91861,
     -7.73972,
-    110.91861000000002,
+    110.91861,
     -7.73972
 ],
-  "geometry": {"coordinates":[110.91861000000002,-7.73972],"type":"Point"}
+  "geometry": {"coordinates":[110.91861,-7.73972],"type":"Point"}
 }

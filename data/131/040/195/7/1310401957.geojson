@@ -34,15 +34,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102073397
+        102073397,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1905786
     },
     "wof:country":"ID",
-    "wof:geomhash":"7ae78f1299f046f5b270c001d9fd7bf6",
+    "wof:geomhash":"a3953e07a4014b1ea0e441e916396876",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +53,14 @@
         }
     ],
     "wof:id":1310401957,
-    "wof:lastmodified":1537627424,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613180880,
     "wof:name":"Sonokwijenan",
     "wof:parent_id":102073397,
     "wof:placetype":"locality",
@@ -63,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    112.69693999999998,
+    112.69694,
     -7.27806,
-    112.69693999999998,
+    112.69694,
     -7.27806
 ],
-  "geometry": {"coordinates":[112.69693999999998,-7.27806],"type":"Point"}
+  "geometry": {"coordinates":[112.69694,-7.27806],"type":"Point"}
 }

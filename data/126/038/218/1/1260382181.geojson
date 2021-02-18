@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072715
+        102072715,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6389549
     },
     "wof:country":"ID",
-    "wof:geomhash":"7483704f2a62d240808e544b17a0f7f9",
+    "wof:geomhash":"4ea9615dde5c1d225b42370956c63f7e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1260382181,
-    "wof:lastmodified":1537628691,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613180310,
     "wof:name":"Kebongedang",
     "wof:parent_id":102072715,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.08138999999998,
+    109.08139,
     -7.36556,
-    109.08138999999998,
+    109.08139,
     -7.36556
 ],
-  "geometry": {"coordinates":[109.08138999999998,-7.36556],"type":"Point"}
+  "geometry": {"coordinates":[109.08139,-7.36556],"type":"Point"}
 }

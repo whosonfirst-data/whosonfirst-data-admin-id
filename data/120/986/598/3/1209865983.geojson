@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073569
+        102073569,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6401256
     },
     "wof:country":"ID",
-    "wof:geomhash":"20b6cbc111715414e129e9f66837818f",
+    "wof:geomhash":"7c2ef9b20caacb7070253718d7273f78",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1209865983,
-    "wof:lastmodified":1537628836,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179601,
     "wof:name":"Karyabineka",
     "wof:parent_id":102073569,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.46193999999998,
+    108.46194,
     -6.79944,
-    108.46193999999998,
+    108.46194,
     -6.79944
 ],
-  "geometry": {"coordinates":[108.46193999999998,-6.79944],"type":"Point"}
+  "geometry": {"coordinates":[108.46194,-6.79944],"type":"Point"}
 }

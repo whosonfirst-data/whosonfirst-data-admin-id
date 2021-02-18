@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073189
+        102073189,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2004738
     },
     "wof:country":"ID",
-    "wof:geomhash":"5a3da360307cb256abae06ca5f6b8f0a",
+    "wof:geomhash":"ea07d047ebb2e2556d7c0768503895de",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1310183779,
-    "wof:lastmodified":1536883069,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181272,
     "wof:name":"Tlogowareng",
     "wof:parent_id":102073189,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.69693999999998,
+    110.69694,
     -7.94806,
-    110.69693999999998,
+    110.69694,
     -7.94806
 ],
-  "geometry": {"coordinates":[110.69693999999998,-7.94806],"type":"Point"}
+  "geometry": {"coordinates":[110.69694,-7.94806],"type":"Point"}
 }

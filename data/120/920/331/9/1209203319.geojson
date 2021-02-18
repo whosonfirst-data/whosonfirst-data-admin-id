@@ -34,7 +34,7 @@
         "gn:id":6260177
     },
     "wof:country":"ID",
-    "wof:geomhash":"6cdca9166b59673d3ec793200d0711cd",
+    "wof:geomhash":"d7de2ef8482facf11d3687f089fa8a6f",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209203319,
-    "wof:lastmodified":1536294536,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179284,
     "wof:name":"Krompakan",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -52,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.24611000000002,
-    -7.744439999999999,
-    110.24611000000002,
-    -7.744439999999999
+    110.24611,
+    -7.74444,
+    110.24611,
+    -7.74444
 ],
-  "geometry": {"coordinates":[110.24611000000002,-7.74444],"type":"Point"}
+  "geometry": {"coordinates":[110.24611,-7.74444],"type":"Point"}
 }

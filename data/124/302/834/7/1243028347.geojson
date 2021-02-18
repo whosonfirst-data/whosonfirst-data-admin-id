@@ -34,15 +34,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        1108796793
+        1108796793,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1970361
     },
     "wof:country":"ID",
-    "wof:geomhash":"2ca3f58025d54de383e967aa8b533ed9",
+    "wof:geomhash":"0135fb36cd742adae02ccf88b69d240e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +53,14 @@
         }
     ],
     "wof:id":1243028347,
-    "wof:lastmodified":1537627987,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183759,
     "wof:name":"Cipeundeuy",
     "wof:parent_id":1108796793,
     "wof:placetype":"locality",
@@ -63,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.44861000000002,
+    107.44861,
     -7.01139,
-    107.44861000000002,
+    107.44861,
     -7.01139
 ],
-  "geometry": {"coordinates":[107.44861000000002,-7.01139],"type":"Point"}
+  "geometry": {"coordinates":[107.44861,-7.01139],"type":"Point"}
 }

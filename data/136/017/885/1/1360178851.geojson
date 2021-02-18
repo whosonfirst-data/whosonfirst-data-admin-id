@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072947
+        102072947,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1936356
     },
     "wof:country":"ID",
-    "wof:geomhash":"4398a3f9cb553801ad848b530e65ddc4",
+    "wof:geomhash":"456348254282c45026e4350d39c5501a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1360178851,
-    "wof:lastmodified":1536809990,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613182015,
     "wof:name":"Gebang Kulon",
     "wof:parent_id":102072947,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.96056000000002,
+    110.96056,
     -7.74194,
-    110.96056000000002,
+    110.96056,
     -7.74194
 ],
-  "geometry": {"coordinates":[110.96056000000002,-7.74194],"type":"Point"}
+  "geometry": {"coordinates":[110.96056,-7.74194],"type":"Point"}
 }

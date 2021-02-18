@@ -33,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072983
+        102072983,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1973097
     },
     "wof:country":"ID",
-    "wof:geomhash":"0c24e785f8f95d20f85403b7a74c672c",
+    "wof:geomhash":"a4c932987304247992554ebea0db2e9f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,7 +52,14 @@
         }
     ],
     "wof:id":1226163547,
-    "wof:lastmodified":1537628106,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185530,
     "wof:name":"Kunciombo",
     "wof:parent_id":102072983,
     "wof:placetype":"locality",
@@ -62,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.63443999999998,
+    110.63444,
     -7.30694,
-    110.63443999999998,
+    110.63444,
     -7.30694
 ],
-  "geometry": {"coordinates":[110.63443999999998,-7.30694],"type":"Point"}
+  "geometry": {"coordinates":[110.63444,-7.30694],"type":"Point"}
 }

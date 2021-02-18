@@ -34,7 +34,7 @@
         "gn:id":6261517
     },
     "wof:country":"ID",
-    "wof:geomhash":"08d2e27fd948fb419b804754e26d7428",
+    "wof:geomhash":"81119c45ec45d4c673ca204ac4701e94",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209605997,
-    "wof:lastmodified":1536282010,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179115,
     "wof:name":"Karangsari",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     110.07778,
-    -7.673889999999999,
+    -7.67389,
     110.07778,
-    -7.673889999999999
+    -7.67389
 ],
   "geometry": {"coordinates":[110.07778,-7.67389],"type":"Point"}
 }

@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072857
+        102072857,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6199009
     },
     "wof:country":"ID",
-    "wof:geomhash":"f98f29204b8b1515d00728d870b70d74",
+    "wof:geomhash":"7ab118c895e404747c860547115fef1a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1209706809,
-    "wof:lastmodified":1536392502,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178648,
     "wof:name":"Bekuning",
     "wof:parent_id":102072857,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.16306000000002,
+    110.16306,
     -7.47056,
-    110.16306000000002,
+    110.16306,
     -7.47056
 ],
-  "geometry": {"coordinates":[110.16306000000002,-7.47056],"type":"Point"}
+  "geometry": {"coordinates":[110.16306,-7.47056],"type":"Point"}
 }

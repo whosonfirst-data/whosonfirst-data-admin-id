@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672097,
-        1108796843
+        1108796843,
+        85672097
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1648314
     },
     "wof:country":"ID",
-    "wof:geomhash":"d08d7a1c8f82577775d01af493895530",
+    "wof:geomhash":"caaf95fab27f9036c791559613bce68a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1343680097,
-    "wof:lastmodified":1536927435,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613174672,
     "wof:name":"Bolifar",
     "wof:parent_id":1108796843,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    130.58333000000002,
+    130.58333,
     -3.16667,
-    130.58333000000002,
+    130.58333,
     -3.16667
 ],
-  "geometry": {"coordinates":[130.58333000000002,-3.16667],"type":"Point"}
+  "geometry": {"coordinates":[130.58332999999999,-3.16667],"type":"Point"}
 }

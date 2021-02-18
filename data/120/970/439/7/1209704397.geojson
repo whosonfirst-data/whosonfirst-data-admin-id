@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073265
+        102073265,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6264222
     },
     "wof:country":"ID",
-    "wof:geomhash":"759ea7524f768165e614dcf9abad8ced",
+    "wof:geomhash":"45f754fc0dd8ffcf9a0e359f0c18ad07",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1209704397,
-    "wof:lastmodified":1536393515,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178651,
     "wof:name":"Dukuhsari",
     "wof:parent_id":102073265,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.27306000000002,
+    110.27306,
     -7.74139,
-    110.27306000000002,
+    110.27306,
     -7.74139
 ],
-  "geometry": {"coordinates":[110.27306000000002,-7.74139],"type":"Point"}
+  "geometry": {"coordinates":[110.27306,-7.74139],"type":"Point"}
 }

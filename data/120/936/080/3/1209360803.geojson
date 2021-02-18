@@ -34,7 +34,7 @@
         "gn:id":1959945
     },
     "wof:country":"ID",
-    "wof:geomhash":"4d166954a874a5a14886a46e00905e72",
+    "wof:geomhash":"d883ace3cef261e131ac4c83e823d00d",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209360803,
-    "wof:lastmodified":1536289430,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178305,
     "wof:name":"Rangkas",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -52,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.29361000000002,
+    106.29361,
     -6.12167,
-    106.29361000000002,
+    106.29361,
     -6.12167
 ],
-  "geometry": {"coordinates":[106.29361000000002,-6.12167],"type":"Point"}
+  "geometry": {"coordinates":[106.29361,-6.12167],"type":"Point"}
 }

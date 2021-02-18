@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672037,
-        102073481
+        102073481,
+        85672037
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1937251
     },
     "wof:country":"ID",
-    "wof:geomhash":"734584466101c2a4e2bd3b916ac7f3ba",
+    "wof:geomhash":"c433b76cdd11ee45da7a6479d1272ce7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1343423611,
-    "wof:lastmodified":1536799640,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175087,
     "wof:name":"Kakiba",
     "wof:parent_id":102073481,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    124.91861000000002,
+    124.91861,
     -9.44528,
-    124.91861000000002,
+    124.91861,
     -9.44528
 ],
-  "geometry": {"coordinates":[124.91861000000002,-9.44528],"type":"Point"}
+  "geometry": {"coordinates":[124.91861,-9.44528],"type":"Point"}
 }

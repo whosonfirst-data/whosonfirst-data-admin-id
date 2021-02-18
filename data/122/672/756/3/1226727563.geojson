@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672005,
-        102072839
+        102072839,
+        85672005
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8531483
     },
     "wof:country":"ID",
-    "wof:geomhash":"bd5735f7fdb312e5b2661671f29691d4",
+    "wof:geomhash":"c42a60d39b50540d2a279f182852217b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1226727563,
-    "wof:lastmodified":1537636353,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185247,
     "wof:name":"Belatuk",
     "wof:parent_id":102072839,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.65366000000002,
+    110.65366,
     -2.04994,
-    110.65366000000002,
+    110.65366,
     -2.04994
 ],
-  "geometry": {"coordinates":[110.65366000000002,-2.04994],"type":"Point"}
+  "geometry": {"coordinates":[110.65366,-2.04994],"type":"Point"}
 }

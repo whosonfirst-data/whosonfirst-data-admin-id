@@ -34,7 +34,7 @@
         "gn:id":1903575
     },
     "wof:country":"ID",
-    "wof:geomhash":"f81e3fdc2488461170362a80a4da01ed",
+    "wof:geomhash":"7d4668eef1f5233992d166ffaf2fc410",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209152939,
-    "wof:lastmodified":1536296149,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178718,
     "wof:name":"Riouw",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     103.80083,
-    0.8502799999999999,
+    0.85028,
     103.80083,
-    0.8502799999999999
+    0.85028
 ],
   "geometry": {"coordinates":[103.80083,0.85028],"type":"Point"}
 }

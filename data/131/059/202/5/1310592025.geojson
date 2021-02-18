@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072733
+        102072733,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6560150
     },
     "wof:country":"ID",
-    "wof:geomhash":"c093cfbc4bf4191e2ff036b3bc67a2b4",
+    "wof:geomhash":"8567a48899f77c6b46ba37eb3fc540fb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1310592025,
-    "wof:lastmodified":1537629123,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181530,
     "wof:name":"Cempo",
     "wof:parent_id":102072733,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.10193999999998,
+    111.10194,
     -7.63028,
-    111.10193999999998,
+    111.10194,
     -7.63028
 ],
-  "geometry": {"coordinates":[111.10193999999998,-7.63028],"type":"Point"}
+  "geometry": {"coordinates":[111.10194,-7.63028],"type":"Point"}
 }

@@ -36,15 +36,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        1108796793
+        1108796793,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1965299
     },
     "wof:country":"ID",
-    "wof:geomhash":"9f4b2c01021e7251231cd87e411f881c",
+    "wof:geomhash":"542c96c8f97a64f846f92cd03aaedb66",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -55,7 +55,14 @@
         }
     ],
     "wof:id":1226402501,
-    "wof:lastmodified":1537627804,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613186107,
     "wof:name":"Cisurupan Wetan",
     "wof:parent_id":1108796793,
     "wof:placetype":"locality",
@@ -65,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.49611000000002,
+    107.49611,
     -6.79028,
-    107.49611000000002,
+    107.49611,
     -6.79028
 ],
-  "geometry": {"coordinates":[107.49611000000002,-6.79028],"type":"Point"}
+  "geometry": {"coordinates":[107.49611,-6.79028],"type":"Point"}
 }

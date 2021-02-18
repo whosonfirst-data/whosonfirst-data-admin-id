@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672067,
-        102073049
+        102073049,
+        85672067
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1621677
     },
     "wof:country":"ID",
-    "wof:geomhash":"06748af0abcabd25f11654ecaa74837a",
+    "wof:geomhash":"023873b24401f1b16f3409578b38eb65",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1293701209,
-    "wof:lastmodified":1536975661,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175807,
     "wof:name":"Wedi Pon Pon",
     "wof:parent_id":102073049,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    132.33333000000002,
+    132.33333,
     -2.95,
-    132.33333000000002,
+    132.33333,
     -2.95
 ],
-  "geometry": {"coordinates":[132.33333000000002,-2.95],"type":"Point"}
+  "geometry": {"coordinates":[132.33332999999999,-2.95],"type":"Point"}
 }

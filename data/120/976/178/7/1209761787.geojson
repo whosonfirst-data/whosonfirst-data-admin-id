@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073359
+        102073359,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7852511
     },
     "wof:country":"ID",
-    "wof:geomhash":"0223d0335fd6d3107d0befbf09e805b6",
+    "wof:geomhash":"f96f00375f37bc34e54b2b99f534d489",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1209761787,
-    "wof:lastmodified":1537634620,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178874,
     "wof:name":"Cikolotok",
     "wof:parent_id":102073359,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.59293999999998,
+    107.59294,
     -7.46628,
-    107.59293999999998,
+    107.59294,
     -7.46628
 ],
-  "geometry": {"coordinates":[107.59293999999998,-7.46628],"type":"Point"}
+  "geometry": {"coordinates":[107.59294,-7.46628],"type":"Point"}
 }

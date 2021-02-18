@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102073495
+        102073495,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6408283
     },
     "wof:country":"ID",
-    "wof:geomhash":"a681655bb43563272edc70096c96101d",
+    "wof:geomhash":"a808bc0a833c5c07f6affc36d9da00da",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1242963551,
-    "wof:lastmodified":1537629004,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183946,
     "wof:name":"Sanggrong",
     "wof:parent_id":102073495,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.35193999999998,
+    111.35194,
     -7.84944,
-    111.35193999999998,
+    111.35194,
     -7.84944
 ],
-  "geometry": {"coordinates":[111.35193999999998,-7.84944],"type":"Point"}
+  "geometry": {"coordinates":[111.35194,-7.84944],"type":"Point"}
 }

@@ -34,7 +34,7 @@
         "gn:id":1651328
     },
     "wof:country":"ID",
-    "wof:geomhash":"81f3ed2efec55179869dfc389991bcab",
+    "wof:geomhash":"ff60de131433898520edeb45983fcf12",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209232613,
-    "wof:lastmodified":1536293590,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178743,
     "wof:name":"Aoma",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     122.51667,
-    -4.2333300000000005,
+    -4.23333,
     122.51667,
-    -4.2333300000000005
+    -4.23333
 ],
   "geometry": {"coordinates":[122.51667,-4.23333],"type":"Point"}
 }

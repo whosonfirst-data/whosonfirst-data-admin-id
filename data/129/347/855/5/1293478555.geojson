@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102072863
+        102072863,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2000253
     },
     "wof:country":"ID",
-    "wof:geomhash":"c90ff0d2494259ba7e9eb5c13d001e2c",
+    "wof:geomhash":"0d8e17bcce2fc9ee6c77b9dfa44590ae",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1293478555,
-    "wof:lastmodified":1536800049,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175976,
     "wof:name":"Wirosaban",
     "wof:parent_id":102072863,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.37888999999998,
+    110.37889,
     -7.82806,
-    110.37888999999998,
+    110.37889,
     -7.82806
 ],
-  "geometry": {"coordinates":[110.37888999999998,-7.82806],"type":"Point"}
+  "geometry": {"coordinates":[110.37889,-7.82806],"type":"Point"}
 }

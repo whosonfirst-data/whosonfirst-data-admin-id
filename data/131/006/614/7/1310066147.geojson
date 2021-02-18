@@ -34,15 +34,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072949
+        102072949,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1966042
     },
     "wof:country":"ID",
-    "wof:geomhash":"7daab9c80bfdda1bd5ccd21ed9c44567",
+    "wof:geomhash":"835abaff20d408934a0279e80ba78f50",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +53,14 @@
         }
     ],
     "wof:id":1310066147,
-    "wof:lastmodified":1537627839,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181207,
     "wof:name":"Ciengang",
     "wof:parent_id":102072949,
     "wof:placetype":"locality",
@@ -63,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.63443999999998,
+    107.63444,
     -7.08333,
-    107.63443999999998,
+    107.63444,
     -7.08333
 ],
-  "geometry": {"coordinates":[107.63443999999998,-7.08333],"type":"Point"}
+  "geometry": {"coordinates":[107.63444,-7.08333],"type":"Point"}
 }

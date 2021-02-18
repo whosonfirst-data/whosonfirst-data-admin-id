@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672067,
-        102073049
+        102073049,
+        85672067
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1621665
     },
     "wof:country":"ID",
-    "wof:geomhash":"9335a69d83b56eb591717e67d7f0af6d",
+    "wof:geomhash":"f8ee2b86b80376a6b33bb82e2c723d35",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1242985147,
-    "wof:lastmodified":1536973129,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183916,
     "wof:name":"Weintenggo",
     "wof:parent_id":102073049,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    132.41666999999998,
+    132.41667,
     -2.8,
-    132.41666999999998,
+    132.41667,
     -2.8
 ],
-  "geometry": {"coordinates":[132.41666999999998,-2.8],"type":"Point"}
+  "geometry": {"coordinates":[132.41667000000001,-2.8],"type":"Point"}
 }

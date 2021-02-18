@@ -34,15 +34,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672067,
-        102073049
+        102073049,
+        85672067
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1641760
     },
     "wof:country":"ID",
-    "wof:geomhash":"006cb19648d0dc7c109666e9eaa8ca04",
+    "wof:geomhash":"ab3c0effb4797b70f455e82529e9163f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +53,14 @@
         }
     ],
     "wof:id":1360299893,
-    "wof:lastmodified":1537627038,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181997,
     "wof:name":"Kambarkah",
     "wof:parent_id":102073049,
     "wof:placetype":"locality",
@@ -63,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    132.33333000000002,
+    132.33333,
     -2.91667,
-    132.33333000000002,
+    132.33333,
     -2.91667
 ],
-  "geometry": {"coordinates":[132.33333000000002,-2.91667],"type":"Point"}
+  "geometry": {"coordinates":[132.33332999999999,-2.91667],"type":"Point"}
 }

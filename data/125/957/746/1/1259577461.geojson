@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072929
+        102072929,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6570658
     },
     "wof:country":"ID",
-    "wof:geomhash":"df631cd2a409d6e9335ef97c9ea5e485",
+    "wof:geomhash":"b3e8909d35b78d0998bd36d5a6ac8af8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1259577461,
-    "wof:lastmodified":1537629400,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613184768,
     "wof:name":"Kembang",
     "wof:parent_id":102072929,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.10611000000002,
+    111.10611,
     -7.5125,
-    111.10611000000002,
+    111.10611,
     -7.5125
 ],
-  "geometry": {"coordinates":[111.10611000000002,-7.5125],"type":"Point"}
+  "geometry": {"coordinates":[111.10611,-7.5125],"type":"Point"}
 }

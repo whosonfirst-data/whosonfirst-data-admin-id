@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671995,
-        102073479
+        102073479,
+        85671995
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1990404
     },
     "wof:country":"ID",
-    "wof:geomhash":"948280dab22fc289ad669c9a92fde4d7",
+    "wof:geomhash":"a6bd6fd35464780def2a6dde14641911",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1226302815,
-    "wof:lastmodified":1536850422,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613186351,
     "wof:name":"Sukadamat",
     "wof:parent_id":102073479,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.29361000000002,
+    106.29361,
     -6.21889,
-    106.29361000000002,
+    106.29361,
     -6.21889
 ],
-  "geometry": {"coordinates":[106.29361000000002,-6.21889],"type":"Point"}
+  "geometry": {"coordinates":[106.29361,-6.21889],"type":"Point"}
 }

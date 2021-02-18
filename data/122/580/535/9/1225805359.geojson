@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073217
+        102073217,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6598182
     },
     "wof:country":"ID",
-    "wof:geomhash":"15cbad1b3b505451fc220b6b4832dbfa",
+    "wof:geomhash":"674ebd5e654274285ee29a7ed9462584",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1225805359,
-    "wof:lastmodified":1537629918,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185877,
     "wof:name":"Leungo",
     "wof:parent_id":102073217,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.88611000000002,
+    106.88611,
     -6.51167,
-    106.88611000000002,
+    106.88611,
     -6.51167
 ],
-  "geometry": {"coordinates":[106.88611000000002,-6.51167],"type":"Point"}
+  "geometry": {"coordinates":[106.88611,-6.51167],"type":"Point"}
 }

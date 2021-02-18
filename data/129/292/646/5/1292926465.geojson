@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072587
+        102072587,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6567375
     },
     "wof:country":"ID",
-    "wof:geomhash":"b47ff84ffd96415128b8356fc9eea778",
+    "wof:geomhash":"be65df1ba9ab1891144a44fa2541d013",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1292926465,
-    "wof:lastmodified":1537629319,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175652,
     "wof:name":"Ngadisalam",
     "wof:parent_id":102072587,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.99056000000002,
+    109.99056,
     -7.435,
-    109.99056000000002,
+    109.99056,
     -7.435
 ],
-  "geometry": {"coordinates":[109.99056000000002,-7.435],"type":"Point"}
+  "geometry": {"coordinates":[109.99056,-7.435],"type":"Point"}
 }

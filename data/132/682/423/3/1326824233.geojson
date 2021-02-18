@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073405
+        102073405,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6256082
     },
     "wof:country":"ID",
-    "wof:geomhash":"6ceb614d5b22ac746f0a967e3cc051ee",
+    "wof:geomhash":"1eedfcc108be5fc9580c0fb1e16b2e57",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1326824233,
-    "wof:lastmodified":1537057803,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613172980,
     "wof:name":"Sanggang",
     "wof:parent_id":102073405,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.80861000000002,
+    110.80861,
     -7.78889,
-    110.80861000000002,
+    110.80861,
     -7.78889
 ],
-  "geometry": {"coordinates":[110.80861000000002,-7.78889],"type":"Point"}
+  "geometry": {"coordinates":[110.80861,-7.78889],"type":"Point"}
 }

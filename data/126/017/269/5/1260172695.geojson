@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073205
+        102073205,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6763398
     },
     "wof:country":"ID",
-    "wof:geomhash":"cdea22e4f4b03b64214f0f2b8a947789",
+    "wof:geomhash":"0145fca6c425618fa94973c6a4aaa169",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1260172695,
-    "wof:lastmodified":1537631440,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613180503,
     "wof:name":"Jambean Bawah",
     "wof:parent_id":102073205,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.72093999999998,
+    109.72094,
     -6.96727,
-    109.72093999999998,
+    109.72094,
     -6.96727
 ],
-  "geometry": {"coordinates":[109.72093999999998,-6.96727],"type":"Point"}
+  "geometry": {"coordinates":[109.72094,-6.96727],"type":"Point"}
 }

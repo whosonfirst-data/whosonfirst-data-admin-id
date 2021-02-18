@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073189
+        102073189,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6564673
     },
     "wof:country":"ID",
-    "wof:geomhash":"636eb0fca059cbf3ea9f9607527ec49a",
+    "wof:geomhash":"a8b47c076683be3ea8712d20240d8eae",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1326525293,
-    "wof:lastmodified":1537629238,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613173243,
     "wof:name":"Tekik",
     "wof:parent_id":102073189,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.60056000000002,
+    110.60056,
     -8.01472,
-    110.60056000000002,
+    110.60056,
     -8.01472
 ],
-  "geometry": {"coordinates":[110.60056000000002,-8.01472],"type":"Point"}
+  "geometry": {"coordinates":[110.60056,-8.01472],"type":"Point"}
 }

@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072739
+        102072739,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6580321
     },
     "wof:country":"ID",
-    "wof:geomhash":"0386e6580aa5fe3943053f957b67a327",
+    "wof:geomhash":"d8d4f94a450cac1bfb09b1232aabda06",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1276491961,
-    "wof:lastmodified":1537629440,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177836,
     "wof:name":"Cipicung",
     "wof:parent_id":102072739,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.01111000000002,
+    108.01111,
     -6.7375,
-    108.01111000000002,
+    108.01111,
     -6.7375
 ],
-  "geometry": {"coordinates":[108.01111000000002,-6.7375],"type":"Point"}
+  "geometry": {"coordinates":[108.01111,-6.7375],"type":"Point"}
 }

@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073359
+        102073359,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7848343
     },
     "wof:country":"ID",
-    "wof:geomhash":"82485f71a65fb10e5ed8622f9ab981da",
+    "wof:geomhash":"dd285128ac4c3af6d3f56d22c7b029b7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1192968185,
-    "wof:lastmodified":1537634566,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613180007,
     "wof:name":"Sadahurip",
     "wof:parent_id":102073359,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.80483999999998,
+    107.80484,
     -7.56519,
-    107.80483999999998,
+    107.80484,
     -7.56519
 ],
-  "geometry": {"coordinates":[107.80483999999998,-7.56519],"type":"Point"}
+  "geometry": {"coordinates":[107.80484,-7.56519],"type":"Point"}
 }

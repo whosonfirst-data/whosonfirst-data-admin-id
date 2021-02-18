@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672085,
-        102073277
+        102073277,
+        85672085
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1645259
     },
     "wof:country":"ID",
-    "wof:geomhash":"19a5119dfd9f564fa26cbc587f638abb",
+    "wof:geomhash":"68ebeca0c5e06c507935d906ac627c5e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,7 +54,14 @@
         }
     ],
     "wof:id":1260040931,
-    "wof:lastmodified":1537627144,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613180595,
     "wof:name":"Dorosago",
     "wof:parent_id":102073277,
     "wof:placetype":"locality",
@@ -64,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    128.74361000000002,
+    128.74361,
     1.33834,
-    128.74361000000002,
+    128.74361,
     1.33834
 ],
-  "geometry": {"coordinates":[128.74361000000002,1.33834],"type":"Point"}
+  "geometry": {"coordinates":[128.74360999999999,1.33834],"type":"Point"}
 }

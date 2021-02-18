@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073187
+        102073187,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6565213
     },
     "wof:country":"ID",
-    "wof:geomhash":"7334c95e0be926e9982485062d92bd89",
+    "wof:geomhash":"8e8c6087da2914e11bbaa1d44908c540",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1210036835,
-    "wof:lastmodified":1537629253,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179691,
     "wof:name":"Kiyudan",
     "wof:parent_id":102073187,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.97693999999998,
+    109.97694,
     -7.77222,
-    109.97693999999998,
+    109.97694,
     -7.77222
 ],
-  "geometry": {"coordinates":[109.97693999999998,-7.77222],"type":"Point"}
+  "geometry": {"coordinates":[109.97694,-7.77222],"type":"Point"}
 }

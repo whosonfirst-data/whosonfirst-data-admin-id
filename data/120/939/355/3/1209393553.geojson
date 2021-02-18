@@ -34,7 +34,7 @@
         "gn:id":2005090
     },
     "wof:country":"ID",
-    "wof:geomhash":"3bb43b772dabe7ac35da06323c76385b",
+    "wof:geomhash":"b4ea16ee31fda10b1106246f092b5321",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209393553,
-    "wof:lastmodified":1536288378,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178435,
     "wof:name":"Panggang",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     110.27333,
-    -7.803610000000001,
+    -7.80361,
     110.27333,
-    -7.803610000000001
+    -7.80361
 ],
   "geometry": {"coordinates":[110.27333,-7.80361],"type":"Point"}
 }

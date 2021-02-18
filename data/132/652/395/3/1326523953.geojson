@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072857
+        102072857,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6199189
     },
     "wof:country":"ID",
-    "wof:geomhash":"f01db2c5f923f8051c8c568fcbc60845",
+    "wof:geomhash":"e200be9b0a3de543de0423ec9dd437c7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1326523953,
-    "wof:lastmodified":1536995220,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613173245,
     "wof:name":"Kewayuan",
     "wof:parent_id":102072857,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.19138999999998,
+    110.19139,
     -7.43083,
-    110.19138999999998,
+    110.19139,
     -7.43083
 ],
-  "geometry": {"coordinates":[110.19138999999998,-7.43083],"type":"Point"}
+  "geometry": {"coordinates":[110.19139,-7.43083],"type":"Point"}
 }

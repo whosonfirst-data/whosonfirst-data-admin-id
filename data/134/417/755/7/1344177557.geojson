@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072715
+        102072715,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6388628
     },
     "wof:country":"ID",
-    "wof:geomhash":"0442c59bbf192756c7287c22410eb52d",
+    "wof:geomhash":"6c062bd5739509ae2e5a9ee954264452",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1344177557,
-    "wof:lastmodified":1537628674,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613174889,
     "wof:name":"Cilapar",
     "wof:parent_id":102072715,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.12111000000002,
+    109.12111,
     -7.40528,
-    109.12111000000002,
+    109.12111,
     -7.40528
 ],
-  "geometry": {"coordinates":[109.12111000000002,-7.40528],"type":"Point"}
+  "geometry": {"coordinates":[109.12111,-7.40528],"type":"Point"}
 }

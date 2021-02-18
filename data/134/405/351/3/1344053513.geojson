@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072929
+        102072929,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6263484
     },
     "wof:country":"ID",
-    "wof:geomhash":"f8ebe4e1b31ea3bfe8b4306492538b10",
+    "wof:geomhash":"3231dcb3763a06b6ad69c91f8a649d93",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1344053513,
-    "wof:lastmodified":1536885160,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175008,
     "wof:name":"Deresan",
     "wof:parent_id":102072929,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.88443999999998,
+    110.88444,
     -7.34139,
-    110.88443999999998,
+    110.88444,
     -7.34139
 ],
-  "geometry": {"coordinates":[110.88443999999998,-7.34139],"type":"Point"}
+  "geometry": {"coordinates":[110.88444,-7.34139],"type":"Point"}
 }

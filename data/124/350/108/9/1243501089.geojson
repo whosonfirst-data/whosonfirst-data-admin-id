@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672085,
-        102073503
+        102073503,
+        85672085
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1644753
     },
     "wof:country":"ID",
-    "wof:geomhash":"657421efc3e079d52835d97876a40e67",
+    "wof:geomhash":"f854263a095f1fba0767b0e74552a571",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1243501089,
-    "wof:lastmodified":1536727201,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183548,
     "wof:name":"Fitako",
     "wof:parent_id":102073503,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    127.76751000000002,
+    127.76751,
     2.16879,
-    127.76751000000002,
+    127.76751,
     2.16879
 ],
-  "geometry": {"coordinates":[127.76751000000002,2.16879],"type":"Point"}
+  "geometry": {"coordinates":[127.76751,2.16879],"type":"Point"}
 }

@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072907
+        102072907,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1933958
     },
     "wof:country":"ID",
-    "wof:geomhash":"6350caf13ccdcc66155470d090ab32fb",
+    "wof:geomhash":"73e34add2d1bcbe7fb6a6bd13b36545d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1242798341,
-    "wof:lastmodified":1536745452,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183825,
     "wof:name":"Rojoniten",
     "wof:parent_id":102072907,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.82361000000002,
+    110.82361,
     -7.59333,
-    110.82361000000002,
+    110.82361,
     -7.59333
 ],
-  "geometry": {"coordinates":[110.82361000000002,-7.59333],"type":"Point"}
+  "geometry": {"coordinates":[110.82361,-7.59333],"type":"Point"}
 }

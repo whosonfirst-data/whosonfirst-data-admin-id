@@ -34,7 +34,7 @@
         "gn:id":2010303
     },
     "wof:country":"ID",
-    "wof:geomhash":"0c1eaf18d27a27f68d3002b818a25533",
+    "wof:geomhash":"6ceea76494357565d22aad282d6972b9",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209210853,
-    "wof:lastmodified":1536294296,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179457,
     "wof:name":"Margomulyo",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -52,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.58556000000002,
+    110.58556,
     -7.61722,
-    110.58556000000002,
+    110.58556,
     -7.61722
 ],
-  "geometry": {"coordinates":[110.58556000000002,-7.61722],"type":"Point"}
+  "geometry": {"coordinates":[110.58556,-7.61722],"type":"Point"}
 }

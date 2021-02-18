@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072857
+        102072857,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6258775
     },
     "wof:country":"ID",
-    "wof:geomhash":"2c953221da97bcffd49d610ceda8b3cf",
+    "wof:geomhash":"6db4bbda59467def2411c68499c15672",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1293480853,
-    "wof:lastmodified":1536796870,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175780,
     "wof:name":"Ketengsari",
     "wof:parent_id":102072857,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.31638999999998,
+    110.31639,
     -7.52278,
-    110.31638999999998,
+    110.31639,
     -7.52278
 ],
-  "geometry": {"coordinates":[110.31638999999998,-7.52278],"type":"Point"}
+  "geometry": {"coordinates":[110.31639,-7.52278],"type":"Point"}
 }

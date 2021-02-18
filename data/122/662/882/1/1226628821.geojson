@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672009,
-        1108796809
+        1108796809,
+        85672009
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7666029
     },
     "wof:country":"ID",
-    "wof:geomhash":"709bbfbf195fa68a23a9fa7f2d89a467",
+    "wof:geomhash":"12ca627cd35c3d8d09514877f2b2f926",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1226628821,
-    "wof:lastmodified":1537634199,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613186418,
     "wof:name":"Sukajaya",
     "wof:parent_id":1108796809,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    105.59893999999998,
+    105.59894,
     -5.73672,
-    105.59893999999998,
+    105.59894,
     -5.73672
 ],
-  "geometry": {"coordinates":[105.59893999999998,-5.73672],"type":"Point"}
+  "geometry": {"coordinates":[105.59894,-5.73672],"type":"Point"}
 }

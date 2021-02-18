@@ -37,7 +37,7 @@
         "gn:id":6404670
     },
     "wof:country":"ID",
-    "wof:geomhash":"9e81dfc24a59b31aec6d6ffc6c7ebdfe",
+    "wof:geomhash":"d1f2254f9c46a0b329598b2d819a19e3",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -45,7 +45,14 @@
         }
     ],
     "wof:id":1209606261,
-    "wof:lastmodified":1537628902,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179105,
     "wof:name":"Tampakrejo",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -55,10 +62,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.93361000000002,
+    110.93361,
     -8.05861,
-    110.93361000000002,
+    110.93361,
     -8.05861
 ],
-  "geometry": {"coordinates":[110.93361000000002,-8.05861],"type":"Point"}
+  "geometry": {"coordinates":[110.93361,-8.05861],"type":"Point"}
 }

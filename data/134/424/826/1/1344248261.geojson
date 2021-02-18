@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072857
+        102072857,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6198841
     },
     "wof:country":"ID",
-    "wof:geomhash":"65c70c0e939fa0342937336530e5e8ed",
+    "wof:geomhash":"ef2f4ae539661a5a29dac8c328929154",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1344248261,
-    "wof:lastmodified":1536601449,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613174223,
     "wof:name":"Randucanan",
     "wof:parent_id":102072857,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.17806000000002,
+    110.17806,
     -7.46139,
-    110.17806000000002,
+    110.17806,
     -7.46139
 ],
-  "geometry": {"coordinates":[110.17806000000002,-7.46139],"type":"Point"}
+  "geometry": {"coordinates":[110.17806,-7.46139],"type":"Point"}
 }

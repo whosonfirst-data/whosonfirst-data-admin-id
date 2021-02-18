@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073417
+        102073417,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6388150
     },
     "wof:country":"ID",
-    "wof:geomhash":"e871088560c099c6c2c9019e7a76ead0",
+    "wof:geomhash":"269833965306856a2fa236bf420afa5a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1225938041,
-    "wof:lastmodified":1537628662,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185202,
     "wof:name":"Tamansari",
     "wof:parent_id":102073417,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.96056000000002,
+    108.96056,
     -7.13278,
-    108.96056000000002,
+    108.96056,
     -7.13278
 ],
-  "geometry": {"coordinates":[108.96056000000002,-7.13278],"type":"Point"}
+  "geometry": {"coordinates":[108.96056,-7.13278],"type":"Point"}
 }

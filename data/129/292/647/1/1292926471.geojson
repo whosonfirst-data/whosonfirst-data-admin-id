@@ -65,15 +65,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072857
+        102072857,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6260744
     },
     "wof:country":"ID",
-    "wof:geomhash":"fd3ab3ae0d9444f71ff3d81328de5e20",
+    "wof:geomhash":"807e763f5268732b15ff1ea8a42df48a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -84,7 +84,14 @@
         }
     ],
     "wof:id":1292926471,
-    "wof:lastmodified":1564176695,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175651,
     "wof:name":"Kantor",
     "wof:parent_id":102072857,
     "wof:placetype":"locality",
@@ -94,10 +101,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.08556000000002,
+    110.08556,
     -7.54639,
-    110.08556000000002,
+    110.08556,
     -7.54639
 ],
-  "geometry": {"coordinates":[110.08556000000002,-7.54639],"type":"Point"}
+  "geometry": {"coordinates":[110.08556,-7.54639],"type":"Point"}
 }

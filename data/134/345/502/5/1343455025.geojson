@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072947
+        102072947,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6407122
     },
     "wof:country":"ID",
-    "wof:geomhash":"f82e2722aabb21c8340801ea31527fb9",
+    "wof:geomhash":"d58fbd086e9f1b2b8b625811fee191fb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1343455025,
-    "wof:lastmodified":1537628980,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175106,
     "wof:name":"Dagangan",
     "wof:parent_id":102072947,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.24611000000002,
+    111.24611,
     -7.80111,
-    111.24611000000002,
+    111.24611,
     -7.80111
 ],
-  "geometry": {"coordinates":[111.24611000000002,-7.80111],"type":"Point"}
+  "geometry": {"coordinates":[111.24611,-7.80111],"type":"Point"}
 }

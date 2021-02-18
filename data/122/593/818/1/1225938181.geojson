@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072929
+        102072929,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6263631
     },
     "wof:country":"ID",
-    "wof:geomhash":"4261a7555ceb270fc20337b76c65ba77",
+    "wof:geomhash":"e6996dc374ee4001f25bf14e4148782b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1225938181,
-    "wof:lastmodified":1536879580,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185196,
     "wof:name":"Ngijo",
     "wof:parent_id":102072929,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.91306000000002,
+    110.91306,
     -7.29278,
-    110.91306000000002,
+    110.91306,
     -7.29278
 ],
-  "geometry": {"coordinates":[110.91306000000002,-7.29278],"type":"Point"}
+  "geometry": {"coordinates":[110.91306,-7.29278],"type":"Point"}
 }

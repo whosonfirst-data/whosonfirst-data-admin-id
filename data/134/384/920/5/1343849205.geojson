@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072639
+        102072639,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6386135
     },
     "wof:country":"ID",
-    "wof:geomhash":"0d75205d35b1c06352567c800aa40df7",
+    "wof:geomhash":"9303948d7166b33159a8c74980cf53a6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1343849205,
-    "wof:lastmodified":1537628596,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613174436,
     "wof:name":"Kuwarasan",
     "wof:parent_id":102072639,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.50943999999998,
+    109.50944,
     -7.66583,
-    109.50943999999998,
+    109.50944,
     -7.66583
 ],
-  "geometry": {"coordinates":[109.50943999999998,-7.66583],"type":"Point"}
+  "geometry": {"coordinates":[109.50944,-7.66583],"type":"Point"}
 }

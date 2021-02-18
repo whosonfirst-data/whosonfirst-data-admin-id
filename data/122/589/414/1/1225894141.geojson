@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073217
+        102073217,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6605121
     },
     "wof:country":"ID",
-    "wof:geomhash":"f02fcf2bf83bfc742053ecb3ac08bc59",
+    "wof:geomhash":"358fb02e35f093460d73280a5aea055b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1225894141,
-    "wof:lastmodified":1537630059,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185851,
     "wof:name":"Ciseke",
     "wof:parent_id":102073217,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.66861000000002,
+    106.66861,
     -6.52722,
-    106.66861000000002,
+    106.66861,
     -6.52722
 ],
-  "geometry": {"coordinates":[106.66861000000002,-6.52722],"type":"Point"}
+  "geometry": {"coordinates":[106.66861,-6.52722],"type":"Point"}
 }

@@ -34,7 +34,7 @@
         "gn:id":6257655
     },
     "wof:country":"ID",
-    "wof:geomhash":"7792bf1c22eb31a31e75459283df6252",
+    "wof:geomhash":"61363dc8fa202cbf90df78685df4fb4a",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209405687,
-    "wof:lastmodified":1536288003,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178755,
     "wof:name":"Tambakboyo",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     110.30167,
-    -7.316110000000001,
+    -7.31611,
     110.30167,
-    -7.316110000000001
+    -7.31611
 ],
   "geometry": {"coordinates":[110.30167,-7.31611],"type":"Point"}
 }

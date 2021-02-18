@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073265
+        102073265,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2004955
     },
     "wof:country":"ID",
-    "wof:geomhash":"6947b1e0d8a4823e293182c14411d14c",
+    "wof:geomhash":"8ba83faf85033a2b69cb11579066aad0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1309884439,
-    "wof:lastmodified":1536817025,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613182530,
     "wof:name":"Sukunan",
     "wof:parent_id":102073265,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.33693999999998,
+    110.33694,
     -7.78556,
-    110.33693999999998,
+    110.33694,
     -7.78556
 ],
-  "geometry": {"coordinates":[110.33693999999998,-7.78556],"type":"Point"}
+  "geometry": {"coordinates":[110.33694,-7.78556],"type":"Point"}
 }

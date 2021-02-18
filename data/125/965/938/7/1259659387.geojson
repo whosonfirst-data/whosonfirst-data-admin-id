@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672037,
-        102073481
+        102073481,
+        85672037
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1938098
     },
     "wof:country":"ID",
-    "wof:geomhash":"0df28a0ae8cdb3422882633a150b345d",
+    "wof:geomhash":"8624da3d91d0e1814a9b2e7d3e8c7029",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1259659387,
-    "wof:lastmodified":1536602237,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613184313,
     "wof:name":"Halirein",
     "wof:parent_id":102073481,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    124.97556000000002,
+    124.97556,
     -9.14056,
-    124.97556000000002,
+    124.97556,
     -9.14056
 ],
-  "geometry": {"coordinates":[124.97556000000002,-9.14056],"type":"Point"}
+  "geometry": {"coordinates":[124.97556,-9.14056],"type":"Point"}
 }

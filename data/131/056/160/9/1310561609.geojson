@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072855
+        102072855,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6601444
     },
     "wof:country":"ID",
-    "wof:geomhash":"b2ccba26fba1ac1fd06362bd37f6c5de",
+    "wof:geomhash":"a5596136232c3fd6d10ec4cc13280542",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1310561609,
-    "wof:lastmodified":1537629985,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181622,
     "wof:name":"Jatimekar",
     "wof:parent_id":102072855,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.85611000000002,
+    106.85611,
     -6.97417,
-    106.85611000000002,
+    106.85611,
     -6.97417
 ],
-  "geometry": {"coordinates":[106.85611000000002,-6.97417],"type":"Point"}
+  "geometry": {"coordinates":[106.85611,-6.97417],"type":"Point"}
 }

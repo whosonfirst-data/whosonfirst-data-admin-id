@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072949
+        102072949,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1965965
     },
     "wof:country":"ID",
-    "wof:geomhash":"856940ddbfee5e8c6cc77ddc2ef615ba",
+    "wof:geomhash":"bf0028932490cfd6f234614bcab9c3d2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,7 +54,14 @@
         }
     ],
     "wof:id":1293649613,
-    "wof:lastmodified":1537627836,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175587,
     "wof:name":"Cipaku Tengah",
     "wof:parent_id":102072949,
     "wof:placetype":"locality",
@@ -64,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.71193999999998,
+    107.71194,
     -7.05361,
-    107.71193999999998,
+    107.71194,
     -7.05361
 ],
-  "geometry": {"coordinates":[107.71193999999998,-7.05361],"type":"Point"}
+  "geometry": {"coordinates":[107.71194,-7.05361],"type":"Point"}
 }

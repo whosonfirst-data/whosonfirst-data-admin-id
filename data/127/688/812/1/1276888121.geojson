@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672115,
-        102072939
+        102072939,
+        85672115
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1648461
     },
     "wof:country":"ID",
-    "wof:geomhash":"2d735babe5d2ab45f5f728661a4575b1",
+    "wof:geomhash":"3a41b43c01fd0fb681e97d7ed8b3b887",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1276888121,
-    "wof:lastmodified":1537028795,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177148,
     "wof:name":"Bohokele",
     "wof:parent_id":102072939,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    139.33333000000002,
+    139.33333,
     -7.81667,
-    139.33333000000002,
+    139.33333,
     -7.81667
 ],
-  "geometry": {"coordinates":[139.33333000000002,-7.81667],"type":"Point"}
+  "geometry": {"coordinates":[139.33332999999999,-7.81667],"type":"Point"}
 }

@@ -37,7 +37,7 @@
         "gn:id":6386338
     },
     "wof:country":"ID",
-    "wof:geomhash":"e2e285db80b0d88a7776362ee1563412",
+    "wof:geomhash":"b042ec15533908981519c63f3829c43a",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -45,7 +45,14 @@
         }
     ],
     "wof:id":1209205735,
-    "wof:lastmodified":1537628604,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179292,
     "wof:name":"Mentasari",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -55,10 +62,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.62111000000002,
+    109.62111,
     -7.72278,
-    109.62111000000002,
+    109.62111,
     -7.72278
 ],
-  "geometry": {"coordinates":[109.62111000000002,-7.72278],"type":"Point"}
+  "geometry": {"coordinates":[109.62111,-7.72278],"type":"Point"}
 }

@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072983
+        102072983,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1972825
     },
     "wof:country":"ID",
-    "wof:geomhash":"5891723093ed6affbd1815c262776c76",
+    "wof:geomhash":"1338318bae88b7c8e1d76c856c943d46",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1260000289,
-    "wof:lastmodified":1537628094,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613180373,
     "wof:name":"Kalikidang",
     "wof:parent_id":102072983,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.64806000000002,
+    110.64806,
     -7.23889,
-    110.64806000000002,
+    110.64806,
     -7.23889
 ],
-  "geometry": {"coordinates":[110.64806000000002,-7.23889],"type":"Point"}
+  "geometry": {"coordinates":[110.64806,-7.23889],"type":"Point"}
 }

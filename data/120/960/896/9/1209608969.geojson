@@ -34,7 +34,7 @@
         "gn:id":6256362
     },
     "wof:country":"ID",
-    "wof:geomhash":"0deded0059063aba80a105a5c56468b1",
+    "wof:geomhash":"3483f567b70c3d1dd47c57fd10152d4a",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209608969,
-    "wof:lastmodified":1536281911,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179123,
     "wof:name":"Tunggul",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     110.91056,
-    -7.808889999999999,
+    -7.80889,
     110.91056,
-    -7.808889999999999
+    -7.80889
 ],
   "geometry": {"coordinates":[110.91056,-7.80889],"type":"Point"}
 }

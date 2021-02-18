@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072937
+        102072937,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6594557
     },
     "wof:country":"ID",
-    "wof:geomhash":"0eb6d9d6f5c68c2e8ad9a5538b9e02da",
+    "wof:geomhash":"a7028c2ade8562df2c46912d4c5a445e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1243118035,
-    "wof:lastmodified":1537629794,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613184082,
     "wof:name":"Jatimulya Dua",
     "wof:parent_id":102072937,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.29361000000002,
+    107.29361,
     -6.26028,
-    107.29361000000002,
+    107.29361,
     -6.26028
 ],
-  "geometry": {"coordinates":[107.29361000000002,-6.26028],"type":"Point"}
+  "geometry": {"coordinates":[107.29361,-6.26028],"type":"Point"}
 }

@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072983
+        102072983,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2009356
     },
     "wof:country":"ID",
-    "wof:geomhash":"d60134596eecf41185caacc88b023bfd",
+    "wof:geomhash":"ba34d757b7072ad7082aa4d0d30d828a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1360175815,
-    "wof:lastmodified":1536814150,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613182008,
     "wof:name":"Mliwis",
     "wof:parent_id":102072983,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.54361000000002,
+    110.54361,
     -7.52,
-    110.54361000000002,
+    110.54361,
     -7.52
 ],
-  "geometry": {"coordinates":[110.54361000000002,-7.52],"type":"Point"}
+  "geometry": {"coordinates":[110.54361,-7.52],"type":"Point"}
 }

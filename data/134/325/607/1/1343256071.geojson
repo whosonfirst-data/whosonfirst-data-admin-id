@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073233
+        102073233,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2008488
     },
     "wof:country":"ID",
-    "wof:geomhash":"0a3f301aba9c0a56fb96414e82986ede",
+    "wof:geomhash":"5bd7d9dc616ede230a1c64c22e6f6d07",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1343256071,
-    "wof:lastmodified":1537039573,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613174584,
     "wof:name":"Kujon",
     "wof:parent_id":102073233,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.71193999999998,
+    110.71194,
     -7.68917,
-    110.71193999999998,
+    110.71194,
     -7.68917
 ],
-  "geometry": {"coordinates":[110.71193999999998,-7.68917],"type":"Point"}
+  "geometry": {"coordinates":[110.71194,-7.68917],"type":"Point"}
 }

@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671995,
-        102072687
+        102072687,
+        85671995
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1988244
     },
     "wof:country":"ID",
-    "wof:geomhash":"a22f22e53481e1b63524ae938c73d304",
+    "wof:geomhash":"7081ecd4e3fc7602512c6fb20f19ba94",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1276614233,
-    "wof:lastmodified":1536899890,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177581,
     "wof:name":"Situgadung",
     "wof:parent_id":102072687,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.61388999999998,
+    106.61389,
     -6.32167,
-    106.61388999999998,
+    106.61389,
     -6.32167
 ],
-  "geometry": {"coordinates":[106.61388999999998,-6.32167],"type":"Point"}
+  "geometry": {"coordinates":[106.61389,-6.32167],"type":"Point"}
 }

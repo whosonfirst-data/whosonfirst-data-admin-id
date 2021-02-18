@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672009,
-        102073429
+        102073429,
+        85672009
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7665830
     },
     "wof:country":"ID",
-    "wof:geomhash":"f99e41ff4bf1fe8ac16e7f0c36da79fb",
+    "wof:geomhash":"b47ac7f84575a4848bcf59ad03dede99",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1226732377,
-    "wof:lastmodified":1537634193,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185461,
     "wof:name":"Lengkukai",
     "wof:parent_id":102073429,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    105.05053999999998,
+    105.05054,
     -5.64478,
-    105.05053999999998,
+    105.05054,
     -5.64478
 ],
-  "geometry": {"coordinates":[105.05053999999998,-5.64478],"type":"Point"}
+  "geometry": {"coordinates":[105.05054,-5.64478],"type":"Point"}
 }

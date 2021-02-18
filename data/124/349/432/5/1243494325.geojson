@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672115,
-        102073467
+        102073467,
+        85672115
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8527391
     },
     "wof:country":"ID",
-    "wof:geomhash":"50cc55572a78f8a97756a3692e82d259",
+    "wof:geomhash":"9244b3347e3b47456e8a05e2f098888e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1243494325,
-    "wof:lastmodified":1537636312,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183410,
     "wof:name":"Daijurbit",
     "wof:parent_id":102073467,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    140.98306000000005,
+    140.98306,
     -5.09,
-    140.98306000000005,
+    140.98306,
     -5.09
 ],
-  "geometry": {"coordinates":[140.98306000000005,-5.09],"type":"Point"}
+  "geometry": {"coordinates":[140.98305999999999,-5.09],"type":"Point"}
 }

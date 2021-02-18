@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672037,
-        1108796857
+        1108796857,
+        85672037
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7412030
     },
     "wof:country":"ID",
-    "wof:geomhash":"7bbc969e40db04c366ebd7fa96d15428",
+    "wof:geomhash":"3fb3abec6934e2986f764cc49b44e4e0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1243339081,
-    "wof:lastmodified":1537633680,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183718,
     "wof:name":"Kawiruwangga",
     "wof:parent_id":1108796857,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    119.88103999999998,
+    119.88104,
     -9.46897,
-    119.88103999999998,
+    119.88104,
     -9.46897
 ],
-  "geometry": {"coordinates":[119.88103999999998,-9.46897],"type":"Point"}
+  "geometry": {"coordinates":[119.88104,-9.46897],"type":"Point"}
 }

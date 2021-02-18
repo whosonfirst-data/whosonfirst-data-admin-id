@@ -34,7 +34,7 @@
         "gn:id":6264346
     },
     "wof:country":"ID",
-    "wof:geomhash":"c4b29f11deac350357024a888bff850d",
+    "wof:geomhash":"b9de1415ebc4271118aff35eb358756d",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209293071,
-    "wof:lastmodified":1536291626,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179267,
     "wof:name":"Panen",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     110.33,
-    -7.724439999999999,
+    -7.72444,
     110.33,
-    -7.724439999999999
+    -7.72444
 ],
   "geometry": {"coordinates":[110.33,-7.72444],"type":"Point"}
 }

@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073469
+        102073469,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2011306
     },
     "wof:country":"ID",
-    "wof:geomhash":"9c32b79c7e586a471f7a5c4f32b69c75",
+    "wof:geomhash":"c3aca895fd01398e32554312bfcb6618",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1243548015,
-    "wof:lastmodified":1536659288,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613182886,
     "wof:name":"Wadas",
     "wof:parent_id":102073469,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.17806000000002,
+    110.17806,
     -7.78389,
-    110.17806000000002,
+    110.17806,
     -7.78389
 ],
-  "geometry": {"coordinates":[110.17806000000002,-7.78389],"type":"Point"}
+  "geometry": {"coordinates":[110.17806,-7.78389],"type":"Point"}
 }

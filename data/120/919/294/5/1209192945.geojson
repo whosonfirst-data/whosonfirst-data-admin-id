@@ -34,7 +34,7 @@
         "gn:id":2000442
     },
     "wof:country":"ID",
-    "wof:geomhash":"a5fdad97602937de004288d9c698dfb3",
+    "wof:geomhash":"3adeceb8e76f33aa8335dd3ea8115131",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209192945,
-    "wof:lastmodified":1536294871,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179446,
     "wof:name":"Ketonggo",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     110.3925,
-    -7.868060000000002,
+    -7.86806,
     110.3925,
-    -7.868060000000002
+    -7.86806
 ],
   "geometry": {"coordinates":[110.3925,-7.86806],"type":"Point"}
 }

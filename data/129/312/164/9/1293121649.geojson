@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072639
+        102072639,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6376931
     },
     "wof:country":"ID",
-    "wof:geomhash":"754d4b6162de1273c901b309f09aef39",
+    "wof:geomhash":"e6087fd81d031d747622250b07a5d943",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1293121649,
-    "wof:lastmodified":1537628480,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175905,
     "wof:name":"Entak",
     "wof:parent_id":102072639,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.74611000000002,
+    109.74611,
     -7.72972,
-    109.74611000000002,
+    109.74611,
     -7.72972
 ],
-  "geometry": {"coordinates":[109.74611000000002,-7.72972],"type":"Point"}
+  "geometry": {"coordinates":[109.74611,-7.72972],"type":"Point"}
 }

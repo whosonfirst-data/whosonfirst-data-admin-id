@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073193
+        102073193,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6568105
     },
     "wof:country":"ID",
-    "wof:geomhash":"756997e79c0c94960a1ad3ba316e8ed2",
+    "wof:geomhash":"33ddf67cfb736f064151db309d6b3c79",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1276491927,
-    "wof:lastmodified":1537629341,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177826,
     "wof:name":"Padasuka",
     "wof:parent_id":102073193,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.95638999999998,
+    107.95639,
     -6.5875,
-    107.95638999999998,
+    107.95639,
     -6.5875
 ],
-  "geometry": {"coordinates":[107.95638999999998,-6.5875],"type":"Point"}
+  "geometry": {"coordinates":[107.95639,-6.5875],"type":"Point"}
 }

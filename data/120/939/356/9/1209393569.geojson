@@ -34,7 +34,7 @@
         "gn:id":2004788
     },
     "wof:country":"ID",
-    "wof:geomhash":"4261203bbde708dcb1623d543755dcc2",
+    "wof:geomhash":"1eb8f9758217c0643a8754095f523b55",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209393569,
-    "wof:lastmodified":1536288378,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178442,
     "wof:name":"Candran",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -52,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.32361000000002,
+    110.32361,
     -7.77222,
-    110.32361000000002,
+    110.32361,
     -7.77222
 ],
-  "geometry": {"coordinates":[110.32361000000002,-7.77222],"type":"Point"}
+  "geometry": {"coordinates":[110.32361,-7.77222],"type":"Point"}
 }

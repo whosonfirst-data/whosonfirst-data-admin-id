@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073313
+        102073313,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2000450
     },
     "wof:country":"ID",
-    "wof:geomhash":"aff94be74f5b11b9f8f1ea780198d60d",
+    "wof:geomhash":"715b477b2b72f4959b27334eefba49a2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1259371585,
-    "wof:lastmodified":1537018598,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613184371,
     "wof:name":"Gunungkelir",
     "wof:parent_id":102073313,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.41443999999998,
+    110.41444,
     -7.86889,
-    110.41443999999998,
+    110.41444,
     -7.86889
 ],
-  "geometry": {"coordinates":[110.41443999999998,-7.86889],"type":"Point"}
+  "geometry": {"coordinates":[110.41444,-7.86889],"type":"Point"}
 }

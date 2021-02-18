@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073217
+        102073217,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1961195
     },
     "wof:country":"ID",
-    "wof:geomhash":"c2b6fa83e4d8acea489fa8449ebe8476",
+    "wof:geomhash":"2dfe8b8aff69faccc00f00e323863753",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1226388561,
-    "wof:lastmodified":1536728318,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613186489,
     "wof:name":"Liud",
     "wof:parent_id":102073217,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.42638999999998,
+    106.42639,
     -6.49722,
-    106.42638999999998,
+    106.42639,
     -6.49722
 ],
-  "geometry": {"coordinates":[106.42638999999998,-6.49722],"type":"Point"}
+  "geometry": {"coordinates":[106.42639,-6.49722],"type":"Point"}
 }

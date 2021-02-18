@@ -34,7 +34,7 @@
         "gn:id":2011826
     },
     "wof:country":"ID",
-    "wof:geomhash":"90b2dc478e81378d32e66755143c311e",
+    "wof:geomhash":"493723cdc2a70559eeec506a02cb15c9",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209405943,
-    "wof:lastmodified":1536287996,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178752,
     "wof:name":"Sukorejo",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     110.73583,
-    -7.6238899999999985,
+    -7.62389,
     110.73583,
-    -7.6238899999999985
+    -7.62389
 ],
   "geometry": {"coordinates":[110.73583000000001,-7.62389],"type":"Point"}
 }

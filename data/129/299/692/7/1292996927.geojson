@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073265
+        102073265,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6259724
     },
     "wof:country":"ID",
-    "wof:geomhash":"3b1e145fa22d187d61ec8f2fa64892bc",
+    "wof:geomhash":"180a2671b05e40eccc85e283c9a0d4e9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1292996927,
-    "wof:lastmodified":1536996500,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613176500,
     "wof:name":"Kemiricilik",
     "wof:parent_id":102073265,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.41306000000002,
+    110.41306,
     -7.61917,
-    110.41306000000002,
+    110.41306,
     -7.61917
 ],
-  "geometry": {"coordinates":[110.41306000000002,-7.61917],"type":"Point"}
+  "geometry": {"coordinates":[110.41306,-7.61917],"type":"Point"}
 }

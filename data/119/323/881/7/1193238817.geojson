@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073551
+        102073551,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6593793
     },
     "wof:country":"ID",
-    "wof:geomhash":"ac02e5b0a4bf98c41ded41df81d0805d",
+    "wof:geomhash":"b2692f57edef26011a5190ec61381eea",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1193238817,
-    "wof:lastmodified":1537629778,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179845,
     "wof:name":"Pasirkonci",
     "wof:parent_id":102073551,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.14943999999998,
+    107.14944,
     -6.3125,
-    107.14943999999998,
+    107.14944,
     -6.3125
 ],
-  "geometry": {"coordinates":[107.14943999999998,-6.3125],"type":"Point"}
+  "geometry": {"coordinates":[107.14944,-6.3125],"type":"Point"}
 }

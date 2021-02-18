@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672009,
-        102072927
+        102072927,
+        85672009
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7665019
     },
     "wof:country":"ID",
-    "wof:geomhash":"a9ea4b14ed853dcba973f8baab8f2d47",
+    "wof:geomhash":"1fd44e9da6f6ab8042bfe91ebe55cd63",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,7 +54,14 @@
         }
     ],
     "wof:id":1344040117,
-    "wof:lastmodified":1537634179,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175057,
     "wof:name":"Sukajana",
     "wof:parent_id":102072927,
     "wof:placetype":"locality",
@@ -64,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    105.19176000000002,
+    105.19176,
     -5.11341,
-    105.19176000000002,
+    105.19176,
     -5.11341
 ],
-  "geometry": {"coordinates":[105.19176000000002,-5.11341],"type":"Point"}
+  "geometry": {"coordinates":[105.19176,-5.11341],"type":"Point"}
 }

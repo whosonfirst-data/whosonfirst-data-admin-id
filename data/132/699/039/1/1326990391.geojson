@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073529
+        102073529,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1964531
     },
     "wof:country":"ID",
-    "wof:geomhash":"79337b0fb74655e4fa55a52843f44487",
+    "wof:geomhash":"80b046b4496b77a211a9cb9a61545b4b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,7 +54,14 @@
         }
     ],
     "wof:id":1326990391,
-    "wof:lastmodified":1537627766,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613173211,
     "wof:name":"Parungbitung",
     "wof:parent_id":102073529,
     "wof:placetype":"locality",
@@ -64,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.30138999999998,
+    107.30139,
     -6.8,
-    107.30138999999998,
+    107.30139,
     -6.8
 ],
-  "geometry": {"coordinates":[107.30138999999998,-6.8],"type":"Point"}
+  "geometry": {"coordinates":[107.30139,-6.8],"type":"Point"}
 }

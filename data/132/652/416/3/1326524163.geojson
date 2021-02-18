@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072639
+        102072639,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6376848
     },
     "wof:country":"ID",
-    "wof:geomhash":"6e408af2c159f89606659c28e2fb70a6",
+    "wof:geomhash":"7975323f4873ab4b1903992bb8be3c86",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1326524163,
-    "wof:lastmodified":1537628477,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613173251,
     "wof:name":"Kedungtawon",
     "wof:parent_id":102072639,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.72693999999998,
+    109.72694,
     -7.71472,
-    109.72693999999998,
+    109.72694,
     -7.71472
 ],
-  "geometry": {"coordinates":[109.72693999999998,-7.71472],"type":"Point"}
+  "geometry": {"coordinates":[109.72694,-7.71472],"type":"Point"}
 }

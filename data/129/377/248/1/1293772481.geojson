@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073313
+        102073313,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2002522
     },
     "wof:country":"ID",
-    "wof:geomhash":"88c4236cd0f59f5048abb92464945630",
+    "wof:geomhash":"b77bc37f6634b8e76ed3e04ae93dc92a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1293772481,
-    "wof:lastmodified":1536872282,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175763,
     "wof:name":"Jetis",
     "wof:parent_id":102073313,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.32193999999998,
+    110.32194,
     -7.89889,
-    110.32193999999998,
+    110.32194,
     -7.89889
 ],
-  "geometry": {"coordinates":[110.32193999999998,-7.89889],"type":"Point"}
+  "geometry": {"coordinates":[110.32194,-7.89889],"type":"Point"}
 }

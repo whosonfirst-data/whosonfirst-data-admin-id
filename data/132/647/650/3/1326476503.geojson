@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073295
+        102073295,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6599468
     },
     "wof:country":"ID",
-    "wof:geomhash":"7dff46de78060e55267dbeabe3de3ac4",
+    "wof:geomhash":"5d88299b64f7b03ff6ec2655437e9d90",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1326476503,
-    "wof:lastmodified":1537629962,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613173065,
     "wof:name":"Babakangombong",
     "wof:parent_id":102073295,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.63443999999998,
+    107.63444,
     -6.40861,
-    107.63443999999998,
+    107.63444,
     -6.40861
 ],
-  "geometry": {"coordinates":[107.63443999999998,-6.40861],"type":"Point"}
+  "geometry": {"coordinates":[107.63444,-6.40861],"type":"Point"}
 }

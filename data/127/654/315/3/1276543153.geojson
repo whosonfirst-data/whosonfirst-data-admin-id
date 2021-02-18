@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072715
+        102072715,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6388759
     },
     "wof:country":"ID",
-    "wof:geomhash":"35379bb6e5422ebcaea44a4a070a3941",
+    "wof:geomhash":"fafda07dfce80c2147d1519f9672da9c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1276543153,
-    "wof:lastmodified":1537628676,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178202,
     "wof:name":"Panduraksa",
     "wof:parent_id":102072715,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.14806000000002,
+    109.14806,
     -7.39583,
-    109.14806000000002,
+    109.14806,
     -7.39583
 ],
-  "geometry": {"coordinates":[109.14806000000002,-7.39583],"type":"Point"}
+  "geometry": {"coordinates":[109.14806,-7.39583],"type":"Point"}
 }

@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073187
+        102073187,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6261546
     },
     "wof:country":"ID",
-    "wof:geomhash":"9750ed6d945c0888a520f81e62a7ef55",
+    "wof:geomhash":"5c42c6add6307e446136c9f59449881c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1310597539,
-    "wof:lastmodified":1536784702,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181522,
     "wof:name":"Karangjati Kulon",
     "wof:parent_id":102073187,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.04361000000002,
+    110.04361,
     -7.68333,
-    110.04361000000002,
+    110.04361,
     -7.68333
 ],
-  "geometry": {"coordinates":[110.04361000000002,-7.68333],"type":"Point"}
+  "geometry": {"coordinates":[110.04361,-7.68333],"type":"Point"}
 }

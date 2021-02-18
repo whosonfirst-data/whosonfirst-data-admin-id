@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671995,
-        102073479
+        102073479,
+        85671995
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1990217
     },
     "wof:country":"ID",
-    "wof:geomhash":"2556b14408b7f18a9eb5f51b72cf8739",
+    "wof:geomhash":"56e8f827bb2caa761101591ef669edc5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1360234689,
-    "wof:lastmodified":1536730352,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181748,
     "wof:name":"Sindang",
     "wof:parent_id":102073479,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.28806000000002,
+    106.28806,
     -6.18583,
-    106.28806000000002,
+    106.28806,
     -6.18583
 ],
-  "geometry": {"coordinates":[106.28806000000002,-6.18583],"type":"Point"}
+  "geometry": {"coordinates":[106.28806,-6.18583],"type":"Point"}
 }

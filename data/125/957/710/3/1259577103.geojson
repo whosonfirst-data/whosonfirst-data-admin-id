@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072929
+        102072929,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6561145
     },
     "wof:country":"ID",
-    "wof:geomhash":"889877bdd87959d4a9647869c97d7aee",
+    "wof:geomhash":"d49ba0fd16ab935ee1ccec0e2fc1d042",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1259577103,
-    "wof:lastmodified":1537629146,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613184780,
     "wof:name":"Kedungbulus Barat",
     "wof:parent_id":102072929,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.13443999999998,
+    111.13444,
     -7.35194,
-    111.13443999999998,
+    111.13444,
     -7.35194
 ],
-  "geometry": {"coordinates":[111.13443999999998,-7.35194],"type":"Point"}
+  "geometry": {"coordinates":[111.13444,-7.35194],"type":"Point"}
 }

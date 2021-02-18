@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672097,
-        1108796835
+        1108796835,
+        85672097
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1621253
     },
     "wof:country":"ID",
-    "wof:geomhash":"43dcd48956d32e96a3210e579f21919e",
+    "wof:geomhash":"54223f221dacc924ff1bbafb57afe258",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,7 +54,14 @@
         }
     ],
     "wof:id":1276242977,
-    "wof:lastmodified":1537626389,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177930,
     "wof:name":"Yamtimur",
     "wof:parent_id":1108796835,
     "wof:placetype":"locality",
@@ -64,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    133.08333000000002,
+    133.08333,
     -5.58333,
-    133.08333000000002,
+    133.08333,
     -5.58333
 ],
-  "geometry": {"coordinates":[133.08333000000002,-5.58333],"type":"Point"}
+  "geometry": {"coordinates":[133.08332999999999,-5.58333],"type":"Point"}
 }

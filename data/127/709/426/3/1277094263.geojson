@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073265
+        102073265,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6265376
     },
     "wof:country":"ID",
-    "wof:geomhash":"43e106126f5a53685d1a6b092f293053",
+    "wof:geomhash":"b4e0e5907c3a5c8fefeec841dce2096e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1277094263,
-    "wof:lastmodified":1536750960,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613176966,
     "wof:name":"Polerejo",
     "wof:parent_id":102073265,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.49056000000002,
+    110.49056,
     -7.74222,
-    110.49056000000002,
+    110.49056,
     -7.74222
 ],
-  "geometry": {"coordinates":[110.49056000000002,-7.74222],"type":"Point"}
+  "geometry": {"coordinates":[110.49056,-7.74222],"type":"Point"}
 }

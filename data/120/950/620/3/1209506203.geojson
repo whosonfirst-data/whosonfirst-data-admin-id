@@ -34,7 +34,7 @@
         "gn:id":2010376
     },
     "wof:country":"ID",
-    "wof:geomhash":"8fcc42003fe7ac875bc70d1a5aafb4c5",
+    "wof:geomhash":"b98d1683e2c1abaee07d531b933931d9",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209506203,
-    "wof:lastmodified":1536285028,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178907,
     "wof:name":"Pangul",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     110.6375,
-    -7.506939999999998,
+    -7.50694,
     110.6375,
-    -7.506939999999998
+    -7.50694
 ],
   "geometry": {"coordinates":[110.6375,-7.50694],"type":"Point"}
 }

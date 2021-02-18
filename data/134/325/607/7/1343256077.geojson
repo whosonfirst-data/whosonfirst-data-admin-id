@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072857
+        102072857,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6260314
     },
     "wof:country":"ID",
-    "wof:geomhash":"e223330003e66fcd1cef4668be451dd7",
+    "wof:geomhash":"ac5da7eebdf9cbd1e96b5c9dff36e059",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1343256077,
-    "wof:lastmodified":1537039567,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613174584,
     "wof:name":"Namengan",
     "wof:parent_id":102072857,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.24056000000002,
+    110.24056,
     -7.57694,
-    110.24056000000002,
+    110.24056,
     -7.57694
 ],
-  "geometry": {"coordinates":[110.24056000000002,-7.57694],"type":"Point"}
+  "geometry": {"coordinates":[110.24056,-7.57694],"type":"Point"}
 }

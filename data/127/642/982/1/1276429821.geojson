@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073265
+        102073265,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1999278
     },
     "wof:country":"ID",
-    "wof:geomhash":"01393af290894b16548245bb7a474b16",
+    "wof:geomhash":"57c7040412567e9643ab3507df508337",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1276429821,
-    "wof:lastmodified":1536649065,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177242,
     "wof:name":"Ngumbulsari A",
     "wof:parent_id":102073265,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.51111000000002,
+    110.51111,
     -7.79667,
-    110.51111000000002,
+    110.51111,
     -7.79667
 ],
-  "geometry": {"coordinates":[110.51111000000002,-7.79667],"type":"Point"}
+  "geometry": {"coordinates":[110.51111,-7.79667],"type":"Point"}
 }

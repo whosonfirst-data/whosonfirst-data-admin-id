@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672067,
-        1108796863
+        1108796863,
+        85672067
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1906672
     },
     "wof:country":"ID",
-    "wof:geomhash":"c6a66ad939722a79a8d05f68c0afdff2",
+    "wof:geomhash":"dc3ff51bffa8fa878241885d3c5e3714",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1209750171,
-    "wof:lastmodified":1537627436,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179575,
     "wof:name":"Kafaket",
     "wof:parent_id":1108796863,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    130.26193999999998,
+    130.26194,
     -2.02,
-    130.26193999999998,
+    130.26194,
     -2.02
 ],
-  "geometry": {"coordinates":[130.26193999999998,-2.02],"type":"Point"}
+  "geometry": {"coordinates":[130.26194000000001,-2.02],"type":"Point"}
 }

@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072983
+        102072983,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6253020
     },
     "wof:country":"ID",
-    "wof:geomhash":"1797e1c45ec29b5979ede73ed63e868f",
+    "wof:geomhash":"3cab6390b6a9fd33edf965ed98b6ce15",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1310026389,
-    "wof:lastmodified":1536610643,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181618,
     "wof:name":"Cengklik",
     "wof:parent_id":102072983,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.58138999999998,
+    110.58139,
     -7.46139,
-    110.58138999999998,
+    110.58139,
     -7.46139
 ],
-  "geometry": {"coordinates":[110.58138999999998,-7.46139],"type":"Point"}
+  "geometry": {"coordinates":[110.58139,-7.46139],"type":"Point"}
 }

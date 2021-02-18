@@ -41,7 +41,7 @@
         "gn:id":2057009
     },
     "wof:country":"ID",
-    "wof:geomhash":"47e4f4bc31ab91f04ec6211999b4f21a",
+    "wof:geomhash":"168178f5236388cd829e0ae95e040aa9",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -49,7 +49,14 @@
         }
     ],
     "wof:id":1209380595,
-    "wof:lastmodified":1537628265,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178332,
     "wof:name":"Oibua",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -59,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    123.46016000000002,
+    123.46016,
     -10.12798,
-    123.46016000000002,
+    123.46016,
     -10.12798
 ],
-  "geometry": {"coordinates":[123.46016000000002,-10.12798],"type":"Point"}
+  "geometry": {"coordinates":[123.46016,-10.12798],"type":"Point"}
 }

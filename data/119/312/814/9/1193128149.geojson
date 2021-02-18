@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072947
+        102072947,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6255518
     },
     "wof:country":"ID",
-    "wof:geomhash":"ce340b84770a4e863031a7986f393636",
+    "wof:geomhash":"a49e765699c99c4006c445ab601a0b08",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1193128149,
-    "wof:lastmodified":1536378705,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179893,
     "wof:name":"Winong Lor",
     "wof:parent_id":102072947,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.96193999999998,
+    110.96194,
     -7.95667,
-    110.96193999999998,
+    110.96194,
     -7.95667
 ],
-  "geometry": {"coordinates":[110.96193999999998,-7.95667],"type":"Point"}
+  "geometry": {"coordinates":[110.96194,-7.95667],"type":"Point"}
 }

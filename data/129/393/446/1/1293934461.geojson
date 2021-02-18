@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672097,
-        1108796831
+        1108796831,
+        85672097
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1891756
     },
     "wof:country":"ID",
-    "wof:geomhash":"3b7c47cb2a79916e3337ef4e4b270417",
+    "wof:geomhash":"efe845536811f7a357d82da6d784de30",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1293934461,
-    "wof:lastmodified":1536639021,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613176300,
     "wof:name":"Lawawang",
     "wof:parent_id":1108796831,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    129.83333000000002,
+    129.83333,
     -8.175,
-    129.83333000000002,
+    129.83333,
     -8.175
 ],
-  "geometry": {"coordinates":[129.83333000000002,-8.175],"type":"Point"}
+  "geometry": {"coordinates":[129.83332999999999,-8.175],"type":"Point"}
 }

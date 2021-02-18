@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072715
+        102072715,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6375481
     },
     "wof:country":"ID",
-    "wof:geomhash":"503f4a89a618b906d28171e018f71370",
+    "wof:geomhash":"ed9fabfd9eea9e1be86e2dd430f4a59e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1309926305,
-    "wof:lastmodified":1537628438,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613182418,
     "wof:name":"Sibakung",
     "wof:parent_id":102072715,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.27443999999998,
+    109.27444,
     -7.62,
-    109.27443999999998,
+    109.27444,
     -7.62
 ],
-  "geometry": {"coordinates":[109.27443999999998,-7.62],"type":"Point"}
+  "geometry": {"coordinates":[109.27444,-7.62],"type":"Point"}
 }

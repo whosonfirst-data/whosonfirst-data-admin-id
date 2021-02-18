@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073265
+        102073265,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6264549
     },
     "wof:country":"ID",
-    "wof:geomhash":"cda2c019744b99b1798ff1f67a0d7601",
+    "wof:geomhash":"ffd28658c62ced31c68f7b3edd30b99e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1259371587,
-    "wof:lastmodified":1537018595,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613184370,
     "wof:name":"Jonggrangan",
     "wof:parent_id":102073265,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.33138999999998,
+    110.33139,
     -7.71083,
-    110.33138999999998,
+    110.33139,
     -7.71083
 ],
-  "geometry": {"coordinates":[110.33138999999998,-7.71083],"type":"Point"}
+  "geometry": {"coordinates":[110.33139,-7.71083],"type":"Point"}
 }

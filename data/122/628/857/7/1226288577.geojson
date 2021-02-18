@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073217
+        102073217,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6591532
     },
     "wof:country":"ID",
-    "wof:geomhash":"e8118d4672fd5bf8d0c4c983a97cd7b0",
+    "wof:geomhash":"f423611b4c2c3e4826afcaf907413112",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1226288577,
-    "wof:lastmodified":1537629704,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185337,
     "wof:name":"Cimendoinpres",
     "wof:parent_id":102073217,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.11388999999998,
+    107.11389,
     -6.47194,
-    107.11388999999998,
+    107.11389,
     -6.47194
 ],
-  "geometry": {"coordinates":[107.11388999999998,-6.47194],"type":"Point"}
+  "geometry": {"coordinates":[107.11389,-6.47194],"type":"Point"}
 }

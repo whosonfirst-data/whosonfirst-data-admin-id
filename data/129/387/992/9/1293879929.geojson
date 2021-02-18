@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073187
+        102073187,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6566177
     },
     "wof:country":"ID",
-    "wof:geomhash":"13726cc8138f8e3fc60a32f14f66f7ed",
+    "wof:geomhash":"ed3072e85b8f67cb9ac63524d86ef5f4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1293879929,
-    "wof:lastmodified":1537629282,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613176675,
     "wof:name":"Ponorogo",
     "wof:parent_id":102073187,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.93361000000002,
+    109.93361,
     -7.62972,
-    109.93361000000002,
+    109.93361,
     -7.62972
 ],
-  "geometry": {"coordinates":[109.93361000000002,-7.62972],"type":"Point"}
+  "geometry": {"coordinates":[109.93361,-7.62972],"type":"Point"}
 }

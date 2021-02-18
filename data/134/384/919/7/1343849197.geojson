@@ -33,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072983
+        102072983,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1973315
     },
     "wof:country":"ID",
-    "wof:geomhash":"eb48d21bd7c632778b14a89d03c68635",
+    "wof:geomhash":"77c41d7297171e72f58298e37c3d1c6f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,7 +52,14 @@
         }
     ],
     "wof:id":1343849197,
-    "wof:lastmodified":1537628116,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613174437,
     "wof:name":"Tari Wetan",
     "wof:parent_id":102072983,
     "wof:placetype":"locality",
@@ -62,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.73111000000002,
+    110.73111,
     -7.4225,
-    110.73111000000002,
+    110.73111,
     -7.4225
 ],
-  "geometry": {"coordinates":[110.73111000000002,-7.4225],"type":"Point"}
+  "geometry": {"coordinates":[110.73111,-7.4225],"type":"Point"}
 }

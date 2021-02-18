@@ -34,7 +34,7 @@
         "gn:id":6253164
     },
     "wof:country":"ID",
-    "wof:geomhash":"6123b9b69e7150b887fdd05104a7e2fb",
+    "wof:geomhash":"6a1cf24538c849f222b5ca8051904f6d",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209126529,
-    "wof:lastmodified":1536296940,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178738,
     "wof:name":"Karangwuni",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     110.65333,
-    -7.3566699999999985,
+    -7.35667,
     110.65333,
-    -7.3566699999999985
+    -7.35667
 ],
   "geometry": {"coordinates":[110.65333,-7.35667],"type":"Point"}
 }

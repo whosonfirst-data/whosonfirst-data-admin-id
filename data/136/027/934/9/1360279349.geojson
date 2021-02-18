@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072639
+        102072639,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6386152
     },
     "wof:country":"ID",
-    "wof:geomhash":"2163c008e60816a10ecc090b3d870498",
+    "wof:geomhash":"815812a54699dece4eb45af328bb1633",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1360279349,
-    "wof:lastmodified":1537628597,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181951,
     "wof:name":"Bonjok Kidul",
     "wof:parent_id":102072639,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.54361000000002,
+    109.54361,
     -7.66028,
-    109.54361000000002,
+    109.54361,
     -7.66028
 ],
-  "geometry": {"coordinates":[109.54361000000002,-7.66028],"type":"Point"}
+  "geometry": {"coordinates":[109.54361,-7.66028],"type":"Point"}
 }

@@ -34,7 +34,7 @@
         "gn:id":1985056
     },
     "wof:country":"ID",
-    "wof:geomhash":"b080011993aed3aecf461922c21fab4e",
+    "wof:geomhash":"f666e2720385459495a8b2f18962a834",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209561421,
-    "wof:lastmodified":1536283378,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179143,
     "wof:name":"Ciseke",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     107.54083,
-    -7.213889999999999,
+    -7.21389,
     107.54083,
-    -7.213889999999999
+    -7.21389
 ],
   "geometry": {"coordinates":[107.54083,-7.21389],"type":"Point"}
 }

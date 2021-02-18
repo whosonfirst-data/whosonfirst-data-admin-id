@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072983
+        102072983,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2009345
     },
     "wof:country":"ID",
-    "wof:geomhash":"4114d1f1bc2561e4a18a408248ef7ba2",
+    "wof:geomhash":"94e513135ad541593cdb7de8e19004ff",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1309703251,
-    "wof:lastmodified":1537075929,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613182250,
     "wof:name":"Sumbung",
     "wof:parent_id":102072983,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.52306000000002,
+    110.52306,
     -7.52417,
-    110.52306000000002,
+    110.52306,
     -7.52417
 ],
-  "geometry": {"coordinates":[110.52306000000002,-7.52417],"type":"Point"}
+  "geometry": {"coordinates":[110.52306,-7.52417],"type":"Point"}
 }

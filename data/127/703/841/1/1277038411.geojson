@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672103,
-        102073031
+        102073031,
+        85672103
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7057956
     },
     "wof:country":"ID",
-    "wof:geomhash":"5397f66118e769431fe0ac967dfc9631",
+    "wof:geomhash":"e7d78fe0deb2e4ad5aaba17f74b08312",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1277038411,
-    "wof:lastmodified":1537632936,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177742,
     "wof:name":"Kumbe Utara",
     "wof:parent_id":102073031,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    118.63396000000002,
+    118.63396,
     -8.58746,
-    118.63396000000002,
+    118.63396,
     -8.58746
 ],
-  "geometry": {"coordinates":[118.63396000000002,-8.58746],"type":"Point"}
+  "geometry": {"coordinates":[118.63396,-8.58746],"type":"Point"}
 }

@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072937
+        102072937,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6606641
     },
     "wof:country":"ID",
-    "wof:geomhash":"8545eb4879cb91d2f1644eb039fad170",
+    "wof:geomhash":"005d1d947c2679cf2eea1025f60ff119",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1226192077,
-    "wof:lastmodified":1537630117,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185375,
     "wof:name":"Cariu",
     "wof:parent_id":102072937,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.37888999999998,
+    107.37889,
     -6.25139,
-    107.37888999999998,
+    107.37889,
     -6.25139
 ],
-  "geometry": {"coordinates":[107.37888999999998,-6.25139],"type":"Point"}
+  "geometry": {"coordinates":[107.37889,-6.25139],"type":"Point"}
 }

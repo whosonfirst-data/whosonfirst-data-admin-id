@@ -34,15 +34,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072983
+        102072983,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1972936
     },
     "wof:country":"ID",
-    "wof:geomhash":"c28ac740cde4d4b1df4bc110648d6011",
+    "wof:geomhash":"b1845a4b51816bb2710c50d553b4a464",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +53,14 @@
         }
     ],
     "wof:id":1243354659,
-    "wof:lastmodified":1537628100,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183629,
     "wof:name":"Tirto Satu",
     "wof:parent_id":102072983,
     "wof:placetype":"locality",
@@ -63,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.64806000000002,
+    110.64806,
     -7.32639,
-    110.64806000000002,
+    110.64806,
     -7.32639
 ],
-  "geometry": {"coordinates":[110.64806000000002,-7.32639],"type":"Point"}
+  "geometry": {"coordinates":[110.64806,-7.32639],"type":"Point"}
 }

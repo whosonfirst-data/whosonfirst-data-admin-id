@@ -44,15 +44,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072733
+        102072733,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1934956
     },
     "wof:country":"ID",
-    "wof:geomhash":"19fabfbf067fbc4bc5724be75c0e8139",
+    "wof:geomhash":"0e6e2b3ae0338e1ee8184722786330fc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -63,7 +63,14 @@
         }
     ],
     "wof:id":1293381179,
-    "wof:lastmodified":1564175795,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175336,
     "wof:name":"Genting",
     "wof:parent_id":102072733,
     "wof:placetype":"locality",
@@ -73,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.97556000000002,
+    110.97556,
     -7.68861,
-    110.97556000000002,
+    110.97556,
     -7.68861
 ],
-  "geometry": {"coordinates":[110.97556000000002,-7.68861],"type":"Point"}
+  "geometry": {"coordinates":[110.97556,-7.68861],"type":"Point"}
 }

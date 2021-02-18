@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073189
+        102073189,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1999403
     },
     "wof:country":"ID",
-    "wof:geomhash":"b1abe8384b5b10eb8562ff8d7d037618",
+    "wof:geomhash":"6a9d16a30132a7da7ac22b63f325df20",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1326723917,
-    "wof:lastmodified":1536708110,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613172255,
     "wof:name":"Randualas",
     "wof:parent_id":102073189,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.58138999999998,
+    110.58139,
     -7.82389,
-    110.58138999999998,
+    110.58139,
     -7.82389
 ],
-  "geometry": {"coordinates":[110.58138999999998,-7.82389],"type":"Point"}
+  "geometry": {"coordinates":[110.58139,-7.82389],"type":"Point"}
 }

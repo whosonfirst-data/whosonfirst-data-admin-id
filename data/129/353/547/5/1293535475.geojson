@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073529
+        102073529,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6589672
     },
     "wof:country":"ID",
-    "wof:geomhash":"b0a0d71794d09df10ad3191d10c14d3d",
+    "wof:geomhash":"146d3541999e61d534be129bd07f3875",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1293535475,
-    "wof:lastmodified":1537629650,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175463,
     "wof:name":"Villacery",
     "wof:parent_id":102073529,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.03806000000002,
+    107.03806,
     -6.71444,
-    107.03806000000002,
+    107.03806,
     -6.71444
 ],
-  "geometry": {"coordinates":[107.03806000000002,-6.71444],"type":"Point"}
+  "geometry": {"coordinates":[107.03806,-6.71444],"type":"Point"}
 }

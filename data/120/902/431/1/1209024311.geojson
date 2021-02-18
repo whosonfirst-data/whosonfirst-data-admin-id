@@ -34,7 +34,7 @@
         "gn:id":2005232
     },
     "wof:country":"ID",
-    "wof:geomhash":"21ae0b00a9880946fa148906ff94fc99",
+    "wof:geomhash":"7dd71f130ca2107a9ec72defb1b65dc3",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209024311,
-    "wof:lastmodified":1536300050,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179208,
     "wof:name":"Padokan Lor",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     110.3425,
-    -7.828060000000002,
+    -7.82806,
     110.3425,
-    -7.828060000000002
+    -7.82806
 ],
   "geometry": {"coordinates":[110.3425,-7.82806],"type":"Point"}
 }

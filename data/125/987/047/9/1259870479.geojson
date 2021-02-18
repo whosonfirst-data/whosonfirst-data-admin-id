@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072857
+        102072857,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6198943
     },
     "wof:country":"ID",
-    "wof:geomhash":"802a85dc216f6f28c59c99b1b2a16a8e",
+    "wof:geomhash":"9cc4570d501c6c0ff6794c1703c5c8ee",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1259870479,
-    "wof:lastmodified":1536798082,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613184988,
     "wof:name":"Kalisalak",
     "wof:parent_id":102072857,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.17806000000002,
+    110.17806,
     -7.47583,
-    110.17806000000002,
+    110.17806,
     -7.47583
 ],
-  "geometry": {"coordinates":[110.17806000000002,-7.47583],"type":"Point"}
+  "geometry": {"coordinates":[110.17806,-7.47583],"type":"Point"}
 }

@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073529
+        102073529,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6588537
     },
     "wof:country":"ID",
-    "wof:geomhash":"33a70f028d2d1b2df42383a78bf7d45c",
+    "wof:geomhash":"b67250544874a5fb049c6b33ff63840d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1260029509,
-    "wof:lastmodified":1537629614,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613180683,
     "wof:name":"Pasirhaur",
     "wof:parent_id":102073529,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.16861000000002,
+    107.16861,
     -6.88472,
-    107.16861000000002,
+    107.16861,
     -6.88472
 ],
-  "geometry": {"coordinates":[107.16861000000002,-6.88472],"type":"Point"}
+  "geometry": {"coordinates":[107.16861,-6.88472],"type":"Point"}
 }

@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073169
+        102073169,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6200484
     },
     "wof:country":"ID",
-    "wof:geomhash":"eaa30c565a6a42ea8d615de7aa248888",
+    "wof:geomhash":"db6ef60b815fa22008d49726bd91d526",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,7 +54,14 @@
         }
     ],
     "wof:id":1360178779,
-    "wof:lastmodified":1564195120,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613182013,
     "wof:name":"Gemilang",
     "wof:parent_id":102073169,
     "wof:placetype":"locality",
@@ -64,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.20638999999998,
+    110.20639,
     -7.365,
-    110.20638999999998,
+    110.20639,
     -7.365
 ],
-  "geometry": {"coordinates":[110.20638999999998,-7.365],"type":"Point"}
+  "geometry": {"coordinates":[110.20639,-7.365],"type":"Point"}
 }

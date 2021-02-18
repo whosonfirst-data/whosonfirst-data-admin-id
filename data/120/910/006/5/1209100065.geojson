@@ -34,7 +34,7 @@
         "gn:id":6260391
     },
     "wof:country":"ID",
-    "wof:geomhash":"edf9355896705665cb96cf712042a9fc",
+    "wof:geomhash":"e00ea8c18f14d572511dee65abd46078",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209100065,
-    "wof:lastmodified":1536297762,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179516,
     "wof:name":"Sojomerto Kidul",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     110.16222,
-    -7.575830000000002,
+    -7.57583,
     110.16222,
-    -7.575830000000002
+    -7.57583
 ],
   "geometry": {"coordinates":[110.16222,-7.57583],"type":"Point"}
 }

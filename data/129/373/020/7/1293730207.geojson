@@ -34,15 +34,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        1108796793
+        1108796793,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1962551
     },
     "wof:country":"ID",
-    "wof:geomhash":"7e431fba1856ed60693b9258e5737ee5",
+    "wof:geomhash":"ac3308bd0f87935a335e4ae6348a2e46",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +53,14 @@
         }
     ],
     "wof:id":1293730207,
-    "wof:lastmodified":1537627664,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613176648,
     "wof:name":"Buniwangi Satu",
     "wof:parent_id":1108796793,
     "wof:placetype":"locality",
@@ -63,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.64806000000002,
+    107.64806,
     -6.83722,
-    107.64806000000002,
+    107.64806,
     -6.83722
 ],
-  "geometry": {"coordinates":[107.64806000000002,-6.83722],"type":"Point"}
+  "geometry": {"coordinates":[107.64806,-6.83722],"type":"Point"}
 }

@@ -34,7 +34,7 @@
         "gn:id":2000249
     },
     "wof:country":"ID",
-    "wof:geomhash":"c57200cd9f6b72c7e74754c1972a2858",
+    "wof:geomhash":"59379d3dd6175ca8bed9e44fa333c620",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209208619,
-    "wof:lastmodified":1536294366,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179289,
     "wof:name":"Kranon",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     110.38583,
-    -7.8277800000000015,
+    -7.82778,
     110.38583,
-    -7.8277800000000015
+    -7.82778
 ],
   "geometry": {"coordinates":[110.38583,-7.82778],"type":"Point"}
 }

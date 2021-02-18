@@ -41,15 +41,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072739
+        102072739,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6580240
     },
     "wof:country":"ID",
-    "wof:geomhash":"7be0f59d124f897b8596dd726f120955",
+    "wof:geomhash":"d5bee98dc502d2721e8565c80c81bb71",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -60,7 +60,14 @@
         }
     ],
     "wof:id":1360034921,
-    "wof:lastmodified":1564195317,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613182080,
     "wof:name":"Cibuntu",
     "wof:parent_id":102072739,
     "wof:placetype":"locality",
@@ -70,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.05138999999998,
+    108.05139,
     -6.6625,
-    108.05138999999998,
+    108.05139,
     -6.6625
 ],
-  "geometry": {"coordinates":[108.05138999999998,-6.6625],"type":"Point"}
+  "geometry": {"coordinates":[108.05139,-6.6625],"type":"Point"}
 }

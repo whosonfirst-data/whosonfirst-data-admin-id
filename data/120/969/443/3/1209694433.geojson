@@ -34,7 +34,7 @@
         "gn:id":6264806
     },
     "wof:country":"ID",
-    "wof:geomhash":"8e7f7517aded693719da73ff19d3cd30",
+    "wof:geomhash":"a4016c3f0298f846d54c7a8a5b63848d",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209694433,
-    "wof:lastmodified":1536279125,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179166,
     "wof:name":"Turen",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     110.40222,
-    -7.700830000000002,
+    -7.70083,
     110.40222,
-    -7.700830000000002
+    -7.70083
 ],
   "geometry": {"coordinates":[110.40222,-7.70083],"type":"Point"}
 }

@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        1108805993,
-        102073283
+        102073283,
+        1108805993
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1630616
     },
     "wof:country":"ID",
-    "wof:geomhash":"05525f264501114dc62b55199ba711ca",
+    "wof:geomhash":"7d1c9510c82b6d4a0a9138320cd7aeb7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,7 +54,14 @@
         }
     ],
     "wof:id":1243398687,
-    "wof:lastmodified":1537626690,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613182985,
     "wof:name":"Pua",
     "wof:parent_id":102073283,
     "wof:placetype":"locality",
@@ -64,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    115.66991000000002,
+    115.66991,
     2.54605,
-    115.66991000000002,
+    115.66991,
     2.54605
 ],
-  "geometry": {"coordinates":[115.66991000000002,2.54605],"type":"Point"}
+  "geometry": {"coordinates":[115.66991,2.54605],"type":"Point"}
 }

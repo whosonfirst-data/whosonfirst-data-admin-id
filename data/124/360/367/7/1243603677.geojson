@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671995,
-        102072687
+        102072687,
+        85671995
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1950698
     },
     "wof:country":"ID",
-    "wof:geomhash":"40a2da12b511b1e581008cf4c9d413f1",
+    "wof:geomhash":"a55b5f8c78152dbd0b3ec161986e5141",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,7 +54,14 @@
         }
     ],
     "wof:id":1243603677,
-    "wof:lastmodified":1537627466,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183697,
     "wof:name":"Kedaung",
     "wof:parent_id":102072687,
     "wof:placetype":"locality",
@@ -64,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.61388999999998,
+    106.61389,
     -6.12194,
-    106.61388999999998,
+    106.61389,
     -6.12194
 ],
-  "geometry": {"coordinates":[106.61388999999998,-6.12194],"type":"Point"}
+  "geometry": {"coordinates":[106.61389,-6.12194],"type":"Point"}
 }

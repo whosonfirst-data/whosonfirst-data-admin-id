@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073529
+        102073529,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6579156
     },
     "wof:country":"ID",
-    "wof:geomhash":"5445d1b63bc971bf9152c436f843fb7f",
+    "wof:geomhash":"6f0c636e958a855e3432b5d4991c3d14",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1226605395,
-    "wof:lastmodified":1537629415,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185670,
     "wof:name":"Somolo",
     "wof:parent_id":102073529,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.19861000000002,
+    107.19861,
     -6.80083,
-    107.19861000000002,
+    107.19861,
     -6.80083
 ],
-  "geometry": {"coordinates":[107.19861000000002,-6.80083],"type":"Point"}
+  "geometry": {"coordinates":[107.19861,-6.80083],"type":"Point"}
 }

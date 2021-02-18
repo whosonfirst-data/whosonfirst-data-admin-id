@@ -74,15 +74,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073551
+        102073551,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1644655
     },
     "wof:country":"ID",
-    "wof:geomhash":"844887ae68744d87fdf330549ce735c0",
+    "wof:geomhash":"784ae539baa8fb78cab59b1ecd656f30",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -93,7 +93,14 @@
         }
     ],
     "wof:id":1360031425,
-    "wof:lastmodified":1564195287,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613182069,
     "wof:name":"Gaga",
     "wof:parent_id":102073551,
     "wof:placetype":"locality",
@@ -103,10 +110,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.02443999999998,
+    107.02444,
     -5.99667,
-    107.02443999999998,
+    107.02444,
     -5.99667
 ],
-  "geometry": {"coordinates":[107.02443999999998,-5.99667],"type":"Point"}
+  "geometry": {"coordinates":[107.02444,-5.99667],"type":"Point"}
 }

@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073551
+        102073551,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6591375
     },
     "wof:country":"ID",
-    "wof:geomhash":"0a35c0a4f333f9c28a806beea9981e61",
+    "wof:geomhash":"ca8b33dfd02689b0f03d26472aebecbc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1242824159,
-    "wof:lastmodified":1537629696,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183871,
     "wof:name":"Kampungmangga",
     "wof:parent_id":102073551,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.04361000000002,
+    107.04361,
     -6.39167,
-    107.04361000000002,
+    107.04361,
     -6.39167
 ],
-  "geometry": {"coordinates":[107.04361000000002,-6.39167],"type":"Point"}
+  "geometry": {"coordinates":[107.04361,-6.39167],"type":"Point"}
 }

@@ -36,15 +36,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073551
+        102073551,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1964578
     },
     "wof:country":"ID",
-    "wof:geomhash":"61540bcfc4b63146b97a35bd76299f67",
+    "wof:geomhash":"8e42916f4fc7a476b05ffdc299f0b734",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -55,7 +55,14 @@
         }
     ],
     "wof:id":1310264869,
-    "wof:lastmodified":1537627768,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181401,
     "wof:name":"Pulosirih Kidul",
     "wof:parent_id":102073551,
     "wof:placetype":"locality",
@@ -65,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.19138999999998,
+    107.19139,
     -6.17861,
-    107.19138999999998,
+    107.19139,
     -6.17861
 ],
-  "geometry": {"coordinates":[107.19138999999998,-6.17861],"type":"Point"}
+  "geometry": {"coordinates":[107.19139,-6.17861],"type":"Point"}
 }

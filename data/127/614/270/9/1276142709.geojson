@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072587
+        102072587,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6381497
     },
     "wof:country":"ID",
-    "wof:geomhash":"5914f8f40d045a11f7026f1be1334a29",
+    "wof:geomhash":"e6f573e1b3f20f7eadac283ab6d22e1d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1276142709,
-    "wof:lastmodified":1537628547,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177773,
     "wof:name":"Jenggolan",
     "wof:parent_id":102072587,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.85193999999998,
+    109.85194,
     -7.3875,
-    109.85193999999998,
+    109.85194,
     -7.3875
 ],
-  "geometry": {"coordinates":[109.85193999999998,-7.3875],"type":"Point"}
+  "geometry": {"coordinates":[109.85194,-7.3875],"type":"Point"}
 }

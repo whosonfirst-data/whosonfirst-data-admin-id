@@ -34,7 +34,7 @@
         "gn:id":1633402
     },
     "wof:country":"ID",
-    "wof:geomhash":"55d215f9a0e0caa909983ca77636ef45",
+    "wof:geomhash":"3c71531923627cd604ab65baa5ee66d0",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209115883,
-    "wof:lastmodified":1536297256,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179237,
     "wof:name":"Padang Agung",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     102.75,
-    -4.0666699999999985,
+    -4.06667,
     102.75,
-    -4.0666699999999985
+    -4.06667
 ],
   "geometry": {"coordinates":[102.75,-4.06667],"type":"Point"}
 }

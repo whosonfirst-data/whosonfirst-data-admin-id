@@ -65,15 +65,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072983
+        102072983,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2010768
     },
     "wof:country":"ID",
-    "wof:geomhash":"aaf999c55442b9b4e5c9615c42910464",
+    "wof:geomhash":"0989f5d01cfe278fd4f33039d3f5a7ab",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -84,7 +84,14 @@
         }
     ],
     "wof:id":1293780237,
-    "wof:lastmodified":1564177586,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175977,
     "wof:name":"Dewan",
     "wof:parent_id":102072983,
     "wof:placetype":"locality",
@@ -94,10 +101,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.67806000000002,
+    110.67806,
     -7.53389,
-    110.67806000000002,
+    110.67806,
     -7.53389
 ],
-  "geometry": {"coordinates":[110.67806000000002,-7.53389],"type":"Point"}
+  "geometry": {"coordinates":[110.67806,-7.53389],"type":"Point"}
 }

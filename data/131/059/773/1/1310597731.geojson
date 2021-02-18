@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072733
+        102072733,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1935301
     },
     "wof:country":"ID",
-    "wof:geomhash":"2f2c7da7507793791018f12b6a6a1a21",
+    "wof:geomhash":"13a3844987767b002730ac0d3628008d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1310597731,
-    "wof:lastmodified":1536784430,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181550,
     "wof:name":"Ngemplak",
     "wof:parent_id":102072733,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.93361000000002,
+    110.93361,
     -7.54139,
-    110.93361000000002,
+    110.93361,
     -7.54139
 ],
-  "geometry": {"coordinates":[110.93361000000002,-7.54139],"type":"Point"}
+  "geometry": {"coordinates":[110.93361,-7.54139],"type":"Point"}
 }

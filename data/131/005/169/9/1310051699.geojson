@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073505
+        102073505,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6396622
     },
     "wof:country":"ID",
-    "wof:geomhash":"434356d7291d02013ecca3c1c5c6dc78",
+    "wof:geomhash":"17f6fabbda5826fcdf1f0d72186f6e64",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1310051699,
-    "wof:lastmodified":1537628757,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181589,
     "wof:name":"Blok Empat",
     "wof:parent_id":102073505,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.45638999999998,
+    108.45639,
     -6.62667,
-    108.45638999999998,
+    108.45639,
     -6.62667
 ],
-  "geometry": {"coordinates":[108.45638999999998,-6.62667],"type":"Point"}
+  "geometry": {"coordinates":[108.45639,-6.62667],"type":"Point"}
 }

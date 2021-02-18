@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073471
+        102073471,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6591062
     },
     "wof:country":"ID",
-    "wof:geomhash":"6b4d088b1e5acfc7f157db351381e429",
+    "wof:geomhash":"cb21ae62de03d717971dc442114b1553",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1243404161,
-    "wof:lastmodified":1537629685,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183425,
     "wof:name":"Cimanalaksa",
     "wof:parent_id":102073471,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.29361000000002,
+    107.29361,
     -6.67694,
-    107.29361000000002,
+    107.29361,
     -6.67694
 ],
-  "geometry": {"coordinates":[107.29361000000002,-6.67694],"type":"Point"}
+  "geometry": {"coordinates":[107.29361,-6.67694],"type":"Point"}
 }

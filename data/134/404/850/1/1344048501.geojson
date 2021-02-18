@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073233
+        102073233,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2009115
     },
     "wof:country":"ID",
-    "wof:geomhash":"dcd54ab90b7184596a096507e1ea2d3f",
+    "wof:geomhash":"ebb598068f09eb88f1647d9c8c139a7b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1344048501,
-    "wof:lastmodified":1536892613,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175047,
     "wof:name":"Mlese",
     "wof:parent_id":102073233,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.69693999999998,
+    110.69694,
     -7.74278,
-    110.69693999999998,
+    110.69694,
     -7.74278
 ],
-  "geometry": {"coordinates":[110.69693999999998,-7.74278],"type":"Point"}
+  "geometry": {"coordinates":[110.69694,-7.74278],"type":"Point"}
 }

@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102072863
+        102072863,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1999989
     },
     "wof:country":"ID",
-    "wof:geomhash":"e9dbe5614a05b5d390e7eef1a73da0a2",
+    "wof:geomhash":"351607a77d0e390c0dfd25a1de63b07d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1326625433,
-    "wof:lastmodified":1536848563,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613173323,
     "wof:name":"Sidobali",
     "wof:parent_id":102072863,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.39388999999998,
+    110.39389,
     -7.8,
-    110.39388999999998,
+    110.39389,
     -7.8
 ],
-  "geometry": {"coordinates":[110.39388999999998,-7.8],"type":"Point"}
+  "geometry": {"coordinates":[110.39389,-7.8],"type":"Point"}
 }

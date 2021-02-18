@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072727
+        102072727,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1961745
     },
     "wof:country":"ID",
-    "wof:geomhash":"8b0d4a153adcfd4118a744850588ecaf",
+    "wof:geomhash":"ab9132de48617a2a65ba5aef447fc481",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1327254187,
-    "wof:lastmodified":1536938912,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613172713,
     "wof:name":"Kenorgo",
     "wof:parent_id":102072727,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.32361000000002,
+    110.32361,
     -7.00778,
-    110.32361000000002,
+    110.32361,
     -7.00778
 ],
-  "geometry": {"coordinates":[110.32361000000002,-7.00778],"type":"Point"}
+  "geometry": {"coordinates":[110.32361,-7.00778],"type":"Point"}
 }

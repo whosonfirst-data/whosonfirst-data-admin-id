@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073469
+        102073469,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2012296
     },
     "wof:country":"ID",
-    "wof:geomhash":"43a6456987b79d1a656b0e003c2e9441",
+    "wof:geomhash":"9f7a9d81a9347d30ecf19f9079f9dfd9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1226559921,
-    "wof:lastmodified":1536977103,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613186270,
     "wof:name":"Pringtali",
     "wof:parent_id":102073469,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.12111000000002,
+    110.12111,
     -7.77028,
-    110.12111000000002,
+    110.12111,
     -7.77028
 ],
-  "geometry": {"coordinates":[110.12111000000002,-7.77028],"type":"Point"}
+  "geometry": {"coordinates":[110.12111,-7.77028],"type":"Point"}
 }

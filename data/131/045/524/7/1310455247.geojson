@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672019,
-        102073043
+        102073043,
+        85672019
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8763973
     },
     "wof:country":"ID",
-    "wof:geomhash":"d5823c43a6b0a91e5d421a97b16522f0",
+    "wof:geomhash":"131659383482d1d32ac6e5639c95e9fa",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1310455247,
-    "wof:lastmodified":1537636687,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181246,
     "wof:name":"Kayuareng",
     "wof:parent_id":102073043,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    105.99311000000002,
+    105.99311,
     -1.76385,
-    105.99311000000002,
+    105.99311,
     -1.76385
 ],
-  "geometry": {"coordinates":[105.99311000000002,-1.76385],"type":"Point"}
+  "geometry": {"coordinates":[105.99311,-1.76385],"type":"Point"}
 }

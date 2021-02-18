@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073551
+        102073551,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6594995
     },
     "wof:country":"ID",
-    "wof:geomhash":"5fe203268d50c1a54bbc9ca44988d271",
+    "wof:geomhash":"d356522856efbdee678e82bfce019e94",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1209761607,
-    "wof:lastmodified":1537629812,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178854,
     "wof:name":"Dulangjero",
     "wof:parent_id":102073551,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.14806000000002,
+    107.14806,
     -6.41111,
-    107.14806000000002,
+    107.14806,
     -6.41111
 ],
-  "geometry": {"coordinates":[107.14806000000002,-6.41111],"type":"Point"}
+  "geometry": {"coordinates":[107.14806,-6.41111],"type":"Point"}
 }

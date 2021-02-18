@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671995,
-        102073479
+        102073479,
+        85671995
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1990748
     },
     "wof:country":"ID",
-    "wof:geomhash":"fa03d4d0dcbaf9bf13a528bf85142b93",
+    "wof:geomhash":"6f255873b5b7fcc9f9637f59d9a2e3be",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1310355021,
-    "wof:lastmodified":1536635452,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181467,
     "wof:name":"Umbulsabrang",
     "wof:parent_id":102073479,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.33556000000002,
+    106.33556,
     -6.24917,
-    106.33556000000002,
+    106.33556,
     -6.24917
 ],
-  "geometry": {"coordinates":[106.33556000000002,-6.24917],"type":"Point"}
+  "geometry": {"coordinates":[106.33556,-6.24917],"type":"Point"}
 }

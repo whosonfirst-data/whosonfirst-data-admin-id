@@ -34,7 +34,7 @@
         "gn:id":1970800
     },
     "wof:country":"ID",
-    "wof:geomhash":"253ee3f96fb0ef162171bf9d96760e4f",
+    "wof:geomhash":"fcec2e04195ed3c9c6969d61882cf692",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209204799,
-    "wof:lastmodified":1536294491,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179289,
     "wof:name":"Gapik",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     112.96889,
-    -7.1208300000000015,
+    -7.12083,
     112.96889,
-    -7.1208300000000015
+    -7.12083
 ],
   "geometry": {"coordinates":[112.96889,-7.12083],"type":"Point"}
 }

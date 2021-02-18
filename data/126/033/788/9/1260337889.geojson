@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073217
+        102073217,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6597160
     },
     "wof:country":"ID",
-    "wof:geomhash":"d437db92bc932ef40fed3a5ac38002d2",
+    "wof:geomhash":"e4b846aee5fa5e23a5e3047fdc7e6179",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1260337889,
-    "wof:lastmodified":1537629877,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613180658,
     "wof:name":"Cimenteng",
     "wof:parent_id":102073217,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.80138999999998,
+    106.80139,
     -6.70222,
-    106.80138999999998,
+    106.80139,
     -6.70222
 ],
-  "geometry": {"coordinates":[106.80138999999998,-6.70222],"type":"Point"}
+  "geometry": {"coordinates":[106.80139,-6.70222],"type":"Point"}
 }

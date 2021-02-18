@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072937
+        102072937,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6606888
     },
     "wof:country":"ID",
-    "wof:geomhash":"9f2c7c92dd21d75641d7951b9d0c6f69",
+    "wof:geomhash":"582ef2f4787f7a31ffdb9b2f0dfd869a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1310547453,
-    "wof:lastmodified":1537630128,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613180949,
     "wof:name":"Selagedang",
     "wof:parent_id":102072937,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.39943999999998,
+    107.39944,
     -6.36667,
-    107.39943999999998,
+    107.39944,
     -6.36667
 ],
-  "geometry": {"coordinates":[107.39943999999998,-6.36667],"type":"Point"}
+  "geometry": {"coordinates":[107.39944,-6.36667],"type":"Point"}
 }

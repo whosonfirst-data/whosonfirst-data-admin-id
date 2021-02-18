@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073469
+        102073469,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2011096
     },
     "wof:country":"ID",
-    "wof:geomhash":"da6084bbe40e23f4d90a524b62b5c7eb",
+    "wof:geomhash":"a5b475ec515a057f177ec090a78681f1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1276568957,
-    "wof:lastmodified":1536960443,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177399,
     "wof:name":"Jelog",
     "wof:parent_id":102073469,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.14806000000002,
+    110.14806,
     -7.82361,
-    110.14806000000002,
+    110.14806,
     -7.82361
 ],
-  "geometry": {"coordinates":[110.14806000000002,-7.82361],"type":"Point"}
+  "geometry": {"coordinates":[110.14806,-7.82361],"type":"Point"}
 }

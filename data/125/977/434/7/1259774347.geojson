@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072983
+        102072983,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2010961
     },
     "wof:country":"ID",
-    "wof:geomhash":"1536b5bad5affef6b816bc05d356bbab",
+    "wof:geomhash":"c1bba83b87522746ba14084bd9947cfc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1259774347,
-    "wof:lastmodified":1536937090,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613184547,
     "wof:name":"Craken",
     "wof:parent_id":102072983,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.69138999999998,
+    110.69139,
     -7.55722,
-    110.69138999999998,
+    110.69139,
     -7.55722
 ],
-  "geometry": {"coordinates":[110.69138999999998,-7.55722],"type":"Point"}
+  "geometry": {"coordinates":[110.69139,-7.55722],"type":"Point"}
 }

@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073449
+        102073449,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6593595
     },
     "wof:country":"ID",
-    "wof:geomhash":"84f3573e708a8f84fc9e4b25c56033fe",
+    "wof:geomhash":"49ae362fa734149c22d18833ac1e90da",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1276495719,
-    "wof:lastmodified":1537629771,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177842,
     "wof:name":"Kaum",
     "wof:parent_id":102073449,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.69693999999998,
+    107.69694,
     -6.91333,
-    107.69693999999998,
+    107.69694,
     -6.91333
 ],
-  "geometry": {"coordinates":[107.69693999999998,-6.91333],"type":"Point"}
+  "geometry": {"coordinates":[107.69694,-6.91333],"type":"Point"}
 }

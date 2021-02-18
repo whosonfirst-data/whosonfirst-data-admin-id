@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671995,
-        1108796785
+        1108796785,
+        85671995
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1989699
     },
     "wof:country":"ID",
-    "wof:geomhash":"e96039ba864912fc95119ae12eeed060",
+    "wof:geomhash":"6b65aa8825e477891d93b3fa65538267",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1276491971,
-    "wof:lastmodified":1537060794,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177838,
     "wof:name":"Kebonsayur",
     "wof:parent_id":1108796785,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.62888999999998,
+    106.62889,
     -6.14111,
-    106.62888999999998,
+    106.62889,
     -6.14111
 ],
-  "geometry": {"coordinates":[106.62888999999998,-6.14111],"type":"Point"}
+  "geometry": {"coordinates":[106.62889,-6.14111],"type":"Point"}
 }

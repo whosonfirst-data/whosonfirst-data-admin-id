@@ -37,7 +37,7 @@
         "gn:id":6598601
     },
     "wof:country":"ID",
-    "wof:geomhash":"252822904fc78f77c9c9dc56fbfaa611",
+    "wof:geomhash":"f7d031e2b747c057d244d85b05f88816",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -45,7 +45,14 @@
         }
     ],
     "wof:id":1209661591,
-    "wof:lastmodified":1537629931,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178985,
     "wof:name":"Kulalet Hilir",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -55,10 +62,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.62111000000002,
+    107.62111,
     -6.99556,
-    107.62111000000002,
+    107.62111,
     -6.99556
 ],
-  "geometry": {"coordinates":[107.62111000000002,-6.99556],"type":"Point"}
+  "geometry": {"coordinates":[107.62111,-6.99556],"type":"Point"}
 }

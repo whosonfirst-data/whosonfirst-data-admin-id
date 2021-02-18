@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073295
+        102073295,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6581549
     },
     "wof:country":"ID",
-    "wof:geomhash":"957447d33452f3e55169382c4860846f",
+    "wof:geomhash":"42e396b2b846955d8c3c189fdbaf899a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1293638943,
-    "wof:lastmodified":1537629475,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175558,
     "wof:name":"Pasirkihiang",
     "wof:parent_id":102073295,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.64806000000002,
+    107.64806,
     -6.65417,
-    107.64806000000002,
+    107.64806,
     -6.65417
 ],
-  "geometry": {"coordinates":[107.64806000000002,-6.65417],"type":"Point"}
+  "geometry": {"coordinates":[107.64806,-6.65417],"type":"Point"}
 }

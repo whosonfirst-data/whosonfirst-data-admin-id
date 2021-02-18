@@ -71,15 +71,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102073063
+        102073063,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1971066
     },
     "wof:country":"ID",
-    "wof:geomhash":"5386aedbf1bb3d3dbc8a4fc9eb004cdd",
+    "wof:geomhash":"6fdb2012425d86db7d63bf7a6776e926",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -90,7 +90,14 @@
         }
     ],
     "wof:id":1309890615,
-    "wof:lastmodified":1564196657,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613182519,
     "wof:name":"Talon",
     "wof:parent_id":102073063,
     "wof:placetype":"locality",
@@ -100,10 +107,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    112.82361000000002,
+    112.82361,
     -7.06222,
-    112.82361000000002,
+    112.82361,
     -7.06222
 ],
-  "geometry": {"coordinates":[112.82361000000002,-7.06222],"type":"Point"}
+  "geometry": {"coordinates":[112.82361,-7.06222],"type":"Point"}
 }

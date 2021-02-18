@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072947
+        102072947,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6407269
     },
     "wof:country":"ID",
-    "wof:geomhash":"9880de8fd71f12243bc7884c45da0034",
+    "wof:geomhash":"937897ea52a58a9117b0171c7c6f48ec",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1193157503,
-    "wof:lastmodified":1537628986,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179869,
     "wof:name":"Japing",
     "wof:parent_id":102072947,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.23111000000002,
+    111.23111,
     -7.84889,
-    111.23111000000002,
+    111.23111,
     -7.84889
 ],
-  "geometry": {"coordinates":[111.23111000000002,-7.84889],"type":"Point"}
+  "geometry": {"coordinates":[111.23111,-7.84889],"type":"Point"}
 }

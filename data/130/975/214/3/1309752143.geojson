@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073529
+        102073529,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6579608
     },
     "wof:country":"ID",
-    "wof:geomhash":"407e3f373133c1929db64e9236e000a1",
+    "wof:geomhash":"d4032b03d382d55acf10df3defcc252a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,7 +54,14 @@
         }
     ],
     "wof:id":1309752143,
-    "wof:lastmodified":1537629434,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613182559,
     "wof:name":"Perumahan Korps Pegawai Republik Indonesia",
     "wof:parent_id":102073529,
     "wof:placetype":"locality",
@@ -64,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.13611000000002,
+    107.13611,
     -6.86583,
-    107.13611000000002,
+    107.13611,
     -6.86583
 ],
-  "geometry": {"coordinates":[107.13611000000002,-6.86583],"type":"Point"}
+  "geometry": {"coordinates":[107.13611,-6.86583],"type":"Point"}
 }

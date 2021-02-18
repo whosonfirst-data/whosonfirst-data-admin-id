@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072715
+        102072715,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6390348
     },
     "wof:country":"ID",
-    "wof:geomhash":"1ce7720bfff02bc46bfdde1fa08627a8",
+    "wof:geomhash":"663f4a26cd59b71699696975c34be522",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1243088277,
-    "wof:lastmodified":1537628715,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613182929,
     "wof:name":"Semingkir",
     "wof:parent_id":102072715,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.33138999999998,
+    109.33139,
     -7.46667,
-    109.33138999999998,
+    109.33139,
     -7.46667
 ],
-  "geometry": {"coordinates":[109.33138999999998,-7.46667],"type":"Point"}
+  "geometry": {"coordinates":[109.33139,-7.46667],"type":"Point"}
 }

@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072857
+        102072857,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6199186
     },
     "wof:country":"ID",
-    "wof:geomhash":"b368ac629968c291a4469bff087f3cb3",
+    "wof:geomhash":"54c71c923b173af4e206fd4eb9fc5d84",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1327329761,
-    "wof:lastmodified":1536828084,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613172936,
     "wof:name":"Bendan",
     "wof:parent_id":102072857,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.19138999999998,
+    110.19139,
     -7.44028,
-    110.19138999999998,
+    110.19139,
     -7.44028
 ],
-  "geometry": {"coordinates":[110.19138999999998,-7.44028],"type":"Point"}
+  "geometry": {"coordinates":[110.19139,-7.44028],"type":"Point"}
 }

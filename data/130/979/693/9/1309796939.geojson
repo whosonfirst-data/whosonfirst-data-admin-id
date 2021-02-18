@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073233
+        102073233,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1934250
     },
     "wof:country":"ID",
-    "wof:geomhash":"cf5847b6d496a62b7fdf6d56faaeefb4",
+    "wof:geomhash":"3faff8a616f5f1bea5541627694087c6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1309796939,
-    "wof:lastmodified":1536944358,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613182278,
     "wof:name":"Tawen",
     "wof:parent_id":102073233,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.76111000000002,
+    110.76111,
     -7.66083,
-    110.76111000000002,
+    110.76111,
     -7.66083
 ],
-  "geometry": {"coordinates":[110.76111000000002,-7.66083],"type":"Point"}
+  "geometry": {"coordinates":[110.76111,-7.66083],"type":"Point"}
 }

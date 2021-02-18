@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073469
+        102073469,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2010431
     },
     "wof:country":"ID",
-    "wof:geomhash":"997bc3ac422dbc044495524c494c0b51",
+    "wof:geomhash":"4823225bbeed91d1bfcfaee5c86131ba",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1293772471,
-    "wof:lastmodified":1536872296,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175767,
     "wof:name":"Klumutan",
     "wof:parent_id":102073469,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.21056000000002,
+    110.21056,
     -7.89056,
-    110.21056000000002,
+    110.21056,
     -7.89056
 ],
-  "geometry": {"coordinates":[110.21056000000002,-7.89056],"type":"Point"}
+  "geometry": {"coordinates":[110.21056,-7.89056],"type":"Point"}
 }

@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072709
+        102072709,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1963805
     },
     "wof:country":"ID",
-    "wof:geomhash":"32271737d81d3ede09ccddbfd4dc004d",
+    "wof:geomhash":"c611e4b1120cdfbb5c63c1ebaf7ff56b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1276894561,
-    "wof:lastmodified":1537627730,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177256,
     "wof:name":"Bodean",
     "wof:parent_id":102072709,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.28806000000002,
+    110.28806,
     -7.23583,
-    110.28806000000002,
+    110.28806,
     -7.23583
 ],
-  "geometry": {"coordinates":[110.28806000000002,-7.23583],"type":"Point"}
+  "geometry": {"coordinates":[110.28806,-7.23583],"type":"Point"}
 }

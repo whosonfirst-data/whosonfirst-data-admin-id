@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672009,
-        1108796809
+        1108796809,
+        85672009
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7665499
     },
     "wof:country":"ID",
-    "wof:geomhash":"92fca10f3bb84802f6c4c5a05c37b99c",
+    "wof:geomhash":"a25e851278da88ee2f6414ccb05e7441",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,7 +54,14 @@
         }
     ],
     "wof:id":1242650291,
-    "wof:lastmodified":1537634184,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183995,
     "wof:name":"Munjuksampurna",
     "wof:parent_id":1108796809,
     "wof:placetype":"locality",
@@ -64,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    105.53036000000002,
+    105.53036,
     -5.63142,
-    105.53036000000002,
+    105.53036,
     -5.63142
 ],
-  "geometry": {"coordinates":[105.53036000000002,-5.63142],"type":"Point"}
+  "geometry": {"coordinates":[105.53036,-5.63142],"type":"Point"}
 }

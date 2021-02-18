@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        1108796793
+        1108796793,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6583380
     },
     "wof:country":"ID",
-    "wof:geomhash":"840d6b38a1d62be7eb540865aaa7a502",
+    "wof:geomhash":"698c98fd885f2bafb85120d48f7baf7a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1259432513,
-    "wof:lastmodified":1537629524,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185125,
     "wof:name":"Panyandaan",
     "wof:parent_id":1108796793,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.56638999999998,
+    107.56639,
     -6.81806,
-    107.56638999999998,
+    107.56639,
     -6.81806
 ],
-  "geometry": {"coordinates":[107.56638999999998,-6.81806],"type":"Point"}
+  "geometry": {"coordinates":[107.56639,-6.81806],"type":"Point"}
 }

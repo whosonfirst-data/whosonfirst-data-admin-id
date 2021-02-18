@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073515
+        102073515,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6399721
     },
     "wof:country":"ID",
-    "wof:geomhash":"4f7f468add7e1164c7e202a316464e03",
+    "wof:geomhash":"44ccd457ac576dc232e84bbc5adfe7be",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1310646877,
-    "wof:lastmodified":1537628806,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181085,
     "wof:name":"Sirihwati",
     "wof:parent_id":102073515,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.27306000000002,
+    108.27306,
     -6.89639,
-    108.27306000000002,
+    108.27306,
     -6.89639
 ],
-  "geometry": {"coordinates":[108.27306000000002,-6.89639],"type":"Point"}
+  "geometry": {"coordinates":[108.27306,-6.89639],"type":"Point"}
 }

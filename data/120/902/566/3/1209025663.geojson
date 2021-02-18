@@ -37,7 +37,7 @@
         "gn:id":6406296
     },
     "wof:country":"ID",
-    "wof:geomhash":"9312cf898ed63aa4e2f0a095bb4a01aa",
+    "wof:geomhash":"8516831a67267963651fcf0b219d3dd3",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -45,7 +45,14 @@
         }
     ],
     "wof:id":1209025663,
-    "wof:lastmodified":1537628956,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179205,
     "wof:name":"Tamansari",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -55,10 +62,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.16306000000002,
+    111.16306,
     -7.97528,
-    111.16306000000002,
+    111.16306,
     -7.97528
 ],
-  "geometry": {"coordinates":[111.16306000000002,-7.97528],"type":"Point"}
+  "geometry": {"coordinates":[111.16306,-7.97528],"type":"Point"}
 }

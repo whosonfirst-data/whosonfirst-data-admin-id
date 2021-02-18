@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672009,
-        1108796811
+        1108796811,
+        85672009
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7862631
     },
     "wof:country":"ID",
-    "wof:geomhash":"4b445f5e2ff5ad914bf55dbb647b63c5",
+    "wof:geomhash":"43663644f535a91c201cfe1b8bd0f139",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1326512717,
-    "wof:lastmodified":1537634704,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613172460,
     "wof:name":"Kelahang",
     "wof:parent_id":1108796811,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    104.85918999999998,
+    104.85919,
     -5.31389,
-    104.85918999999998,
+    104.85919,
     -5.31389
 ],
-  "geometry": {"coordinates":[104.85918999999998,-5.31389],"type":"Point"}
+  "geometry": {"coordinates":[104.85919,-5.31389],"type":"Point"}
 }

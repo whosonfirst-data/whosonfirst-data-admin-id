@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073551
+        102073551,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1990526
     },
     "wof:country":"ID",
-    "wof:geomhash":"ff3f08ffb3b0d676c984117a3e31e614",
+    "wof:geomhash":"b2292bfdb0fb39ea1e5ee779b5eeeb45",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1309752181,
-    "wof:lastmodified":1537628254,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613182545,
     "wof:name":"Kedungcinde",
     "wof:parent_id":102073551,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.07361000000002,
+    107.07361,
     -5.98611,
-    107.07361000000002,
+    107.07361,
     -5.98611
 ],
-  "geometry": {"coordinates":[107.07361000000002,-5.98611],"type":"Point"}
+  "geometry": {"coordinates":[107.07361,-5.98611],"type":"Point"}
 }

@@ -47,15 +47,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672097,
-        1108796839
+        1108796839,
+        85672097
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8043060
     },
     "wof:country":"ID",
-    "wof:geomhash":"dcf9d246e407aaf5102066a79b0c7271",
+    "wof:geomhash":"a75e7dd7c9437d772f57f43067b25ff9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -66,7 +66,14 @@
         }
     ],
     "wof:id":1193229149,
-    "wof:lastmodified":1564188517,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179936,
     "wof:name":"Tanahmerah",
     "wof:parent_id":1108796839,
     "wof:placetype":"locality",
@@ -76,10 +83,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    127.85963999999998,
+    127.85964,
     -3.15972,
-    127.85963999999998,
+    127.85964,
     -3.15972
 ],
-  "geometry": {"coordinates":[127.85963999999998,-3.15972],"type":"Point"}
+  "geometry": {"coordinates":[127.85964,-3.15972],"type":"Point"}
 }

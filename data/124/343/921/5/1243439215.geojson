@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102072973
+        102072973,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6409361
     },
     "wof:country":"ID",
-    "wof:geomhash":"2028d2266ab4f9345a460dea3b6ee5a2",
+    "wof:geomhash":"c6a01f82f22dd993b0670b0dccba3a13",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1243439215,
-    "wof:lastmodified":1537629039,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613184254,
     "wof:name":"Truneng Barat",
     "wof:parent_id":102072973,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.35056000000002,
+    111.35056,
     -7.6,
-    111.35056000000002,
+    111.35056,
     -7.6
 ],
-  "geometry": {"coordinates":[111.35056000000002,-7.6],"type":"Point"}
+  "geometry": {"coordinates":[111.35056,-7.6],"type":"Point"}
 }

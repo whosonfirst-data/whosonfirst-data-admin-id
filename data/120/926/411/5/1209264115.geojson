@@ -37,7 +37,7 @@
         "gn:id":6584949
     },
     "wof:country":"ID",
-    "wof:geomhash":"0e8b112493d8f97c9a1122b1bce962d8",
+    "wof:geomhash":"427dbdb35cc1907b942c9ec09aadccca",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -45,7 +45,14 @@
         }
     ],
     "wof:id":1209264115,
-    "wof:lastmodified":1537629577,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179431,
     "wof:name":"Kanangasari",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -55,10 +62,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.39806000000002,
+    107.39806,
     -6.76361,
-    107.39806000000002,
+    107.39806,
     -6.76361
 ],
-  "geometry": {"coordinates":[107.39806000000002,-6.76361],"type":"Point"}
+  "geometry": {"coordinates":[107.39806,-6.76361],"type":"Point"}
 }

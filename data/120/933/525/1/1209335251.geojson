@@ -34,7 +34,7 @@
         "gn:id":2011575
     },
     "wof:country":"ID",
-    "wof:geomhash":"744a3101c5ce26e03805edf1d5a4dec1",
+    "wof:geomhash":"524ccdfbbfdc293aa46e6225ad0e50cd",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209335251,
-    "wof:lastmodified":1536290244,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179233,
     "wof:name":"Karanglo",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     110.65139,
-    -7.6066699999999985,
+    -7.60667,
     110.65139,
-    -7.6066699999999985
+    -7.60667
 ],
   "geometry": {"coordinates":[110.65139000000001,-7.60667],"type":"Point"}
 }

@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072947
+        102072947,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6408115
     },
     "wof:country":"ID",
-    "wof:geomhash":"d424170f02f9951f55f61ae182df5962",
+    "wof:geomhash":"d670a0da975443f29feaccf4689d9fc2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1343952275,
-    "wof:lastmodified":1537628999,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613174614,
     "wof:name":"Gedong",
     "wof:parent_id":102072947,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.25388999999998,
+    111.25389,
     -7.78722,
-    111.25388999999998,
+    111.25389,
     -7.78722
 ],
-  "geometry": {"coordinates":[111.25388999999998,-7.78722],"type":"Point"}
+  "geometry": {"coordinates":[111.25389,-7.78722],"type":"Point"}
 }

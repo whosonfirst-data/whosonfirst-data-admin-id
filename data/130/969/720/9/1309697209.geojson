@@ -34,15 +34,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102073063
+        102073063,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1970710
     },
     "wof:country":"ID",
-    "wof:geomhash":"94b93f847a88eeba4cc4f61e00a3c79e",
+    "wof:geomhash":"429cf005c7c754a5a35c9841bc15c109",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +53,14 @@
         }
     ],
     "wof:id":1309697209,
-    "wof:lastmodified":1537628001,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613182461,
     "wof:name":"Baratjurang",
     "wof:parent_id":102073063,
     "wof:placetype":"locality",
@@ -63,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    112.76111000000002,
+    112.76111,
     -7.13806,
-    112.76111000000002,
+    112.76111,
     -7.13806
 ],
-  "geometry": {"coordinates":[112.76111000000002,-7.13806],"type":"Point"}
+  "geometry": {"coordinates":[112.76111,-7.13806],"type":"Point"}
 }

@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073417
+        102073417,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6561740
     },
     "wof:country":"ID",
-    "wof:geomhash":"fd8fac7716eee5463d946a1d74bc4736",
+    "wof:geomhash":"076e4f408a2a9a0e4c0f1dd178486c14",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1293774923,
-    "wof:lastmodified":1537629165,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175771,
     "wof:name":"Buniwah",
     "wof:parent_id":102073417,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.14943999999998,
+    109.14944,
     -7.12889,
-    109.14943999999998,
+    109.14944,
     -7.12889
 ],
-  "geometry": {"coordinates":[109.14943999999998,-7.12889],"type":"Point"}
+  "geometry": {"coordinates":[109.14944,-7.12889],"type":"Point"}
 }

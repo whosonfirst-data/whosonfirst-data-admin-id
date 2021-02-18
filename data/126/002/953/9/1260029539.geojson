@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073295
+        102073295,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6567838
     },
     "wof:country":"ID",
-    "wof:geomhash":"10988fa0895e7beb9ce322590e51e8a6",
+    "wof:geomhash":"761c80fb4d13dcf54bc1930d61eb84f7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1260029539,
-    "wof:lastmodified":1537629331,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613180671,
     "wof:name":"Sukagaleuh",
     "wof:parent_id":102073295,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.76888999999998,
+    107.76889,
     -6.56028,
-    107.76888999999998,
+    107.76889,
     -6.56028
 ],
-  "geometry": {"coordinates":[107.76888999999998,-6.56028],"type":"Point"}
+  "geometry": {"coordinates":[107.76889,-6.56028],"type":"Point"}
 }

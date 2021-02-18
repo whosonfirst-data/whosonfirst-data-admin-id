@@ -478,7 +478,7 @@
         "gn:id":1951293
     },
     "wof:country":"ID",
-    "wof:geomhash":"0ef86a1258160f7f615787667bcfdc53",
+    "wof:geomhash":"c815791153ee1bdf5cdc4faa43524550",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -486,7 +486,14 @@
         }
     ],
     "wof:id":1209477803,
-    "wof:lastmodified":1564185320,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178809,
     "wof:name":"Lima",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -496,10 +503,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    124.38611000000002,
+    124.38611,
     -9.47694,
-    124.38611000000002,
+    124.38611,
     -9.47694
 ],
-  "geometry": {"coordinates":[124.38611000000002,-9.47694],"type":"Point"}
+  "geometry": {"coordinates":[124.38611,-9.47694],"type":"Point"}
 }

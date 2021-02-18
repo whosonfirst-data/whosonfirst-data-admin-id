@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072857
+        102072857,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6198738
     },
     "wof:country":"ID",
-    "wof:geomhash":"01d2b308da256be7915eda5957b72f5f",
+    "wof:geomhash":"430427e8d0261d79ab8138127af2d2e2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1343381999,
-    "wof:lastmodified":1536858178,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613173801,
     "wof:name":"Gunungsari",
     "wof:parent_id":102072857,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.14388999999998,
+    110.14389,
     -7.38861,
-    110.14388999999998,
+    110.14389,
     -7.38861
 ],
-  "geometry": {"coordinates":[110.14388999999998,-7.38861],"type":"Point"}
+  "geometry": {"coordinates":[110.14389,-7.38861],"type":"Point"}
 }

@@ -34,15 +34,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102073063
+        102073063,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1970904
     },
     "wof:country":"ID",
-    "wof:geomhash":"dbaa0a3f4d5f5b97207b6279bde478c4",
+    "wof:geomhash":"281eec0ab7daf978563ea5dc70eb8920",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +53,14 @@
         }
     ],
     "wof:id":1243449359,
-    "wof:lastmodified":1537628009,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613184230,
     "wof:name":"Geger Dua",
     "wof:parent_id":102073063,
     "wof:placetype":"locality",
@@ -63,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    112.93361000000002,
+    112.93361,
     -7.02444,
-    112.93361000000002,
+    112.93361,
     -7.02444
 ],
-  "geometry": {"coordinates":[112.93361000000002,-7.02444],"type":"Point"}
+  "geometry": {"coordinates":[112.93361,-7.02444],"type":"Point"}
 }

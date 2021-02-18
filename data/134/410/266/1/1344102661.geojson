@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072739
+        102072739,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6582737
     },
     "wof:country":"ID",
-    "wof:geomhash":"2b4ea752678095ac055dfce63ffbcf4d",
+    "wof:geomhash":"71532ae5a174bcf9001dc0e6da67a728",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1344102661,
-    "wof:lastmodified":1537629508,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613174911,
     "wof:name":"Ciduging",
     "wof:parent_id":102072739,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.07193999999998,
+    108.07194,
     -6.89944,
-    108.07193999999998,
+    108.07194,
     -6.89944
 ],
-  "geometry": {"coordinates":[108.07193999999998,-6.89944],"type":"Point"}
+  "geometry": {"coordinates":[108.07194,-6.89944],"type":"Point"}
 }

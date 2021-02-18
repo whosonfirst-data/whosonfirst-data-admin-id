@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072929
+        102072929,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6262816
     },
     "wof:country":"ID",
-    "wof:geomhash":"347c3677408e07bbfdc450917eb93cbf",
+    "wof:geomhash":"88f265aa5d07ae619f71a7810b539111",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1310225591,
-    "wof:lastmodified":1536822436,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613180805,
     "wof:name":"Saren",
     "wof:parent_id":102072929,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.80306000000002,
+    110.80306,
     -7.425,
-    110.80306000000002,
+    110.80306,
     -7.425
 ],
-  "geometry": {"coordinates":[110.80306000000002,-7.425],"type":"Point"}
+  "geometry": {"coordinates":[110.80306,-7.425],"type":"Point"}
 }

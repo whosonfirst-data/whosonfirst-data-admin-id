@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073515
+        102073515,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6399811
     },
     "wof:country":"ID",
-    "wof:geomhash":"1f019c22ecc794ca3130f4fcc6872449",
+    "wof:geomhash":"1293106e82c8d8028cbdea2919f05dae",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1242824051,
-    "wof:lastmodified":1537628809,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183887,
     "wof:name":"Datarduwet",
     "wof:parent_id":102073515,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.25943999999998,
+    108.25944,
     -6.93528,
-    108.25943999999998,
+    108.25944,
     -6.93528
 ],
-  "geometry": {"coordinates":[108.25943999999998,-6.93528],"type":"Point"}
+  "geometry": {"coordinates":[108.25944,-6.93528],"type":"Point"}
 }

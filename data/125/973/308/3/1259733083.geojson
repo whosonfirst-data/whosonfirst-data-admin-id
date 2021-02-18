@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073217
+        102073217,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6597285
     },
     "wof:country":"ID",
-    "wof:geomhash":"6b44b2ea2d2cc6ab2d6f0b6af2b8ef10",
+    "wof:geomhash":"85c327ec6b742cefa275b994eac86ad2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1259733083,
-    "wof:lastmodified":1537629882,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185011,
     "wof:name":"Cileungsir",
     "wof:parent_id":102073217,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.79361000000002,
+    106.79361,
     -6.73722,
-    106.79361000000002,
+    106.79361,
     -6.73722
 ],
-  "geometry": {"coordinates":[106.79361000000002,-6.73722],"type":"Point"}
+  "geometry": {"coordinates":[106.79361,-6.73722],"type":"Point"}
 }

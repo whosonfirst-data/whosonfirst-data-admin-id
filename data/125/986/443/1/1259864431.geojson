@@ -122,15 +122,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102073013
+        102073013,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6375991
     },
     "wof:country":"ID",
-    "wof:geomhash":"29842771c8c1bd01734d6be7cd33d8a8",
+    "wof:geomhash":"59958f283303fd57ea030147c773eb20",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -141,7 +141,14 @@
         }
     ],
     "wof:id":1259864431,
-    "wof:lastmodified":1564204423,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185177,
     "wof:name":"Pager",
     "wof:parent_id":102073013,
     "wof:placetype":"locality",
@@ -151,10 +158,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.98111000000002,
+    110.98111,
     -8.20917,
-    110.98111000000002,
+    110.98111,
     -8.20917
 ],
-  "geometry": {"coordinates":[110.98111000000002,-8.20917],"type":"Point"}
+  "geometry": {"coordinates":[110.98111,-8.20917],"type":"Point"}
 }

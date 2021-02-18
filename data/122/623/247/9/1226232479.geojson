@@ -50,15 +50,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102073063
+        102073063,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1970713
     },
     "wof:country":"ID",
-    "wof:geomhash":"0f4471a989ce772f202d8a190a44f351",
+    "wof:geomhash":"ff82b9c9bf07d7ee1e130a3733bf19a4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -69,7 +69,14 @@
         }
     ],
     "wof:id":1226232479,
-    "wof:lastmodified":1564207421,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613186148,
     "wof:name":"Soga",
     "wof:parent_id":102073063,
     "wof:placetype":"locality",
@@ -79,10 +86,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    112.79361000000002,
+    112.79361,
     -7.1375,
-    112.79361000000002,
+    112.79361,
     -7.1375
 ],
-  "geometry": {"coordinates":[112.79361000000002,-7.1375],"type":"Point"}
+  "geometry": {"coordinates":[112.79361,-7.1375],"type":"Point"}
 }

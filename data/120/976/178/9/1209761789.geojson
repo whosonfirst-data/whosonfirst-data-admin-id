@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072855
+        102072855,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6596009
     },
     "wof:country":"ID",
-    "wof:geomhash":"3b1fdf203f9cc063b364d74861426c0a",
+    "wof:geomhash":"5195440df0eca44e6cfce36edc7ac182",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1209761789,
-    "wof:lastmodified":1537629834,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178874,
     "wof:name":"Rambay",
     "wof:parent_id":102072855,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.89806000000002,
+    106.89806,
     -6.91111,
-    106.89806000000002,
+    106.89806,
     -6.91111
 ],
-  "geometry": {"coordinates":[106.89806000000002,-6.91111],"type":"Point"}
+  "geometry": {"coordinates":[106.89806,-6.91111],"type":"Point"}
 }

@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072949
+        102072949,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6599132
     },
     "wof:country":"ID",
-    "wof:geomhash":"cddde535bcf42e53f18a4ca416d686bf",
+    "wof:geomhash":"491ffb9212447ce1384ea245ac4b4671",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1293929625,
-    "wof:lastmodified":1537629951,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613176100,
     "wof:name":"Cibaligo",
     "wof:parent_id":102072949,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.55861000000002,
+    107.55861,
     -6.90417,
-    107.55861000000002,
+    107.55861,
     -6.90417
 ],
-  "geometry": {"coordinates":[107.55861000000002,-6.90417],"type":"Point"}
+  "geometry": {"coordinates":[107.55861,-6.90417],"type":"Point"}
 }

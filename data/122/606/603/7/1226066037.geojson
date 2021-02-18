@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072819
+        102072819,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6387976
     },
     "wof:country":"ID",
-    "wof:geomhash":"f47230001bfd0e19083b03f2784f25c9",
+    "wof:geomhash":"fa30dc6c89f0c292a79e2b92f1ea9e35",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1226066037,
-    "wof:lastmodified":1537628657,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613186372,
     "wof:name":"Cilimus Timur",
     "wof:parent_id":102072819,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.94138999999998,
+    108.94139,
     -7.35722,
-    108.94138999999998,
+    108.94139,
     -7.35722
 ],
-  "geometry": {"coordinates":[108.94138999999998,-7.35722],"type":"Point"}
+  "geometry": {"coordinates":[108.94139,-7.35722],"type":"Point"}
 }

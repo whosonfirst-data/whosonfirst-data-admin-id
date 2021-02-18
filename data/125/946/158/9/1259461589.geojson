@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073313
+        102073313,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2011948
     },
     "wof:country":"ID",
-    "wof:geomhash":"1a156c3fa9707d1433813b2bfbe9efd2",
+    "wof:geomhash":"5e64d96f0950ff63016e0774f9b5cce6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1259461589,
-    "wof:lastmodified":1536889903,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613184609,
     "wof:name":"Rogoino",
     "wof:parent_id":102073313,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.23888999999998,
+    110.23889,
     -7.84778,
-    110.23888999999998,
+    110.23889,
     -7.84778
 ],
-  "geometry": {"coordinates":[110.23888999999998,-7.84778],"type":"Point"}
+  "geometry": {"coordinates":[110.23889,-7.84778],"type":"Point"}
 }

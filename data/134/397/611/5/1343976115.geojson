@@ -34,15 +34,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672115,
-        1108796887
+        1108796887,
+        85672115
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1635996
     },
     "wof:country":"ID",
-    "wof:geomhash":"67a905ecc9f15189d86d76f8741ee12e",
+    "wof:geomhash":"ff056ded65a5bdeda216368e5ed69a81",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +53,14 @@
         }
     ],
     "wof:id":1343976115,
-    "wof:lastmodified":1537626862,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613174064,
     "wof:name":"Masakura",
     "wof:parent_id":1108796887,
     "wof:placetype":"locality",
@@ -63,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    138.08333000000002,
+    138.08333,
     -1.66667,
-    138.08333000000002,
+    138.08333,
     -1.66667
 ],
-  "geometry": {"coordinates":[138.08333000000002,-1.66667],"type":"Point"}
+  "geometry": {"coordinates":[138.08332999999999,-1.66667],"type":"Point"}
 }

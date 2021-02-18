@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102073397
+        102073397,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1987198
     },
     "wof:country":"ID",
-    "wof:geomhash":"0d8b475f66c8657108a4a57cfde9228d",
+    "wof:geomhash":"9bfc1162561f5cd75252f52eb2830d72",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1226432589,
-    "wof:lastmodified":1537628244,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185286,
     "wof:name":"Darmawangsa",
     "wof:parent_id":102073397,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    112.75943999999998,
+    112.75944,
     -7.27389,
-    112.75943999999998,
+    112.75944,
     -7.27389
 ],
-  "geometry": {"coordinates":[112.75943999999998,-7.27389],"type":"Point"}
+  "geometry": {"coordinates":[112.75944,-7.27389],"type":"Point"}
 }

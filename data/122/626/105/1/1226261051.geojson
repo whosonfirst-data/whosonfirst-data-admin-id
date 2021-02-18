@@ -34,15 +34,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672067,
-        102073445
+        102073445,
+        85672067
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1629266
     },
     "wof:country":"ID",
-    "wof:geomhash":"ef6cfcadaa85dddd641e2e5c6ae2aded",
+    "wof:geomhash":"0904d65615cc3ed2b26f369c9d0e4bd1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +53,14 @@
         }
     ],
     "wof:id":1226261051,
-    "wof:lastmodified":1537626645,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185381,
     "wof:name":"Sagadikobu",
     "wof:parent_id":102073445,
     "wof:placetype":"locality",
@@ -63,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    133.41666999999998,
+    133.41667,
     -3.41667,
-    133.41666999999998,
+    133.41667,
     -3.41667
 ],
-  "geometry": {"coordinates":[133.41666999999998,-3.41667],"type":"Point"}
+  "geometry": {"coordinates":[133.41667000000001,-3.41667],"type":"Point"}
 }

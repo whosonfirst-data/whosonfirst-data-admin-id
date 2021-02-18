@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672041,
-        102073549
+        102073549,
+        85672041
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1902621
     },
     "wof:country":"ID",
-    "wof:geomhash":"bc63a55464fa9cd05c47d10f2f5cbf62",
+    "wof:geomhash":"bc12dc2ebd42bacbb4aac0dae48e6fa4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1193198401,
-    "wof:lastmodified":1536375462,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613180129,
     "wof:name":"Patcinikang",
     "wof:parent_id":102073549,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    119.55306000000002,
+    119.55306,
     -5.01806,
-    119.55306000000002,
+    119.55306,
     -5.01806
 ],
-  "geometry": {"coordinates":[119.55306000000002,-5.01806],"type":"Point"}
+  "geometry": {"coordinates":[119.55306,-5.01806],"type":"Point"}
 }

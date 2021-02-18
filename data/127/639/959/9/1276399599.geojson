@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073083
+        102073083,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1959665
     },
     "wof:country":"ID",
-    "wof:geomhash":"90bf2d9299d7edc810bf0cad9ef3a794",
+    "wof:geomhash":"f2715ff64951ca6eaa5092c3a8d7ff79",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,7 +54,14 @@
         }
     ],
     "wof:id":1276399599,
-    "wof:lastmodified":1537627516,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178110,
     "wof:name":"Kebayunan Tiga",
     "wof:parent_id":102073083,
     "wof:placetype":"locality",
@@ -64,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.88611000000002,
+    106.88611,
     -6.41444,
-    106.88611000000002,
+    106.88611,
     -6.41444
 ],
-  "geometry": {"coordinates":[106.88611000000002,-6.41444],"type":"Point"}
+  "geometry": {"coordinates":[106.88611,-6.41444],"type":"Point"}
 }

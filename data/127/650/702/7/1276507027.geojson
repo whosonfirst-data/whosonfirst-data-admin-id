@@ -38,15 +38,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072739
+        102072739,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6584127
     },
     "wof:country":"ID",
-    "wof:geomhash":"ce824a47a2bb7385a3ec629307fb7c92",
+    "wof:geomhash":"e7c59c754925fa4b8836b46d8552bec0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -57,7 +57,14 @@
         }
     ],
     "wof:id":1276507027,
-    "wof:lastmodified":1564181856,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177632,
     "wof:name":"Sukamulya",
     "wof:parent_id":102072739,
     "wof:placetype":"locality",
@@ -67,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.80306000000002,
+    107.80306,
     -6.92083,
-    107.80306000000002,
+    107.80306,
     -6.92083
 ],
-  "geometry": {"coordinates":[107.80306000000002,-6.92083],"type":"Point"}
+  "geometry": {"coordinates":[107.80306,-6.92083],"type":"Point"}
 }

@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073295
+        102073295,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6582017
     },
     "wof:country":"ID",
-    "wof:geomhash":"e80ed3f74d9c656bb472baf8959cb281",
+    "wof:geomhash":"52b5d318821d9513e25ed960610c503e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1343804153,
-    "wof:lastmodified":1537629489,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175156,
     "wof:name":"Tumaritis",
     "wof:parent_id":102073295,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.66443999999998,
+    107.66444,
     -6.54139,
-    107.66443999999998,
+    107.66444,
     -6.54139
 ],
-  "geometry": {"coordinates":[107.66443999999998,-6.54139],"type":"Point"}
+  "geometry": {"coordinates":[107.66444,-6.54139],"type":"Point"}
 }

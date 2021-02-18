@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073193
+        102073193,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6404336
     },
     "wof:country":"ID",
-    "wof:geomhash":"650ae5c7d1398032ef10c0fadd6c65ca",
+    "wof:geomhash":"f22f1494f22761f5889d693d32d4e5a7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1343322265,
-    "wof:lastmodified":1537628891,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613174688,
     "wof:name":"Blok Tiga",
     "wof:parent_id":102073193,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.31638999999998,
+    108.31639,
     -6.31861,
-    108.31638999999998,
+    108.31639,
     -6.31861
 ],
-  "geometry": {"coordinates":[108.31638999999998,-6.31861],"type":"Point"}
+  "geometry": {"coordinates":[108.31639,-6.31861],"type":"Point"}
 }

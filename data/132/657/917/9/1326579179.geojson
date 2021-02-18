@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073449
+        102073449,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6598553
     },
     "wof:country":"ID",
-    "wof:geomhash":"27b8467ddc082861a558eb9308d802dc",
+    "wof:geomhash":"8ec8292059060bad1707b4c5bec435c9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1326579179,
-    "wof:lastmodified":1537629929,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613172660,
     "wof:name":"Komplek Saidi",
     "wof:parent_id":102073449,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.56638999999998,
+    107.56639,
     -6.92167,
-    107.56638999999998,
+    107.56639,
     -6.92167
 ],
-  "geometry": {"coordinates":[107.56638999999998,-6.92167],"type":"Point"}
+  "geometry": {"coordinates":[107.56639,-6.92167],"type":"Point"}
 }

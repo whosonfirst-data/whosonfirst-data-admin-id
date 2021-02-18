@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073295
+        102073295,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6567823
     },
     "wof:country":"ID",
-    "wof:geomhash":"081d50ba90657dc9c7def0452423f9f9",
+    "wof:geomhash":"f7578cae02b2aa5ed21e5d023847866c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1276280571,
-    "wof:lastmodified":1537629331,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177169,
     "wof:name":"Cibarengkok Hilir",
     "wof:parent_id":102073295,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.85193999999998,
+    107.85194,
     -6.52917,
-    107.85193999999998,
+    107.85194,
     -6.52917
 ],
-  "geometry": {"coordinates":[107.85193999999998,-6.52917],"type":"Point"}
+  "geometry": {"coordinates":[107.85194,-6.52917],"type":"Point"}
 }

@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072947
+        102072947,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6406974
     },
     "wof:country":"ID",
-    "wof:geomhash":"7839791c5e71fd24d65ddff3cbaa9b49",
+    "wof:geomhash":"ffff8e78f4506c1f778187e19bf5bf13",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1242967519,
-    "wof:lastmodified":1537628974,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183959,
     "wof:name":"Dawuan",
     "wof:parent_id":102072947,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.19138999999998,
+    111.19139,
     -7.77222,
-    111.19138999999998,
+    111.19139,
     -7.77222
 ],
-  "geometry": {"coordinates":[111.19138999999998,-7.77222],"type":"Point"}
+  "geometry": {"coordinates":[111.19139,-7.77222],"type":"Point"}
 }

@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073217
+        102073217,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6597551
     },
     "wof:country":"ID",
-    "wof:geomhash":"8ca891e9b300198170dc2305d2ef3278",
+    "wof:geomhash":"b861cf05ef43fc0e39924ce8bc7ef652",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1326990349,
-    "wof:lastmodified":1537629892,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613173222,
     "wof:name":"Riunggunung",
     "wof:parent_id":102073217,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.98111000000002,
+    106.98111,
     -6.7025,
-    106.98111000000002,
+    106.98111,
     -6.7025
 ],
-  "geometry": {"coordinates":[106.98111000000002,-6.7025],"type":"Point"}
+  "geometry": {"coordinates":[106.98111,-6.7025],"type":"Point"}
 }

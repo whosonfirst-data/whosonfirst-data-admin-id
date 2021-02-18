@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102073155
+        102073155,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7035329
     },
     "wof:country":"ID",
-    "wof:geomhash":"929944f1daf62bfaf9e73b8b2d94ef0a",
+    "wof:geomhash":"55a53ede32f8fc84957a8728a2b6f094",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1293674237,
-    "wof:lastmodified":1537632697,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613176282,
     "wof:name":"Tangkil",
     "wof:parent_id":102073155,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    112.32746000000002,
+    112.32746,
     -8.08474,
-    112.32746000000002,
+    112.32746,
     -8.08474
 ],
-  "geometry": {"coordinates":[112.32746000000002,-8.08474],"type":"Point"}
+  "geometry": {"coordinates":[112.32746,-8.08474],"type":"Point"}
 }

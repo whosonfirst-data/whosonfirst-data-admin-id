@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672067,
-        102072635
+        102072635,
+        85672067
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1639938
     },
     "wof:country":"ID",
-    "wof:geomhash":"a6b57395d4a6886cd9d38ba705bf0986",
+    "wof:geomhash":"065340714864577b820d6c610a498635",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1293603529,
-    "wof:lastmodified":1536617583,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613176319,
     "wof:name":"Klamit",
     "wof:parent_id":102072635,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    131.91666999999998,
+    131.91667,
     -1.13333,
-    131.91666999999998,
+    131.91667,
     -1.13333
 ],
-  "geometry": {"coordinates":[131.91666999999998,-1.13333],"type":"Point"}
+  "geometry": {"coordinates":[131.91667000000001,-1.13333],"type":"Point"}
 }

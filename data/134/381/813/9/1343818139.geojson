@@ -34,15 +34,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671995,
-        102072687
+        102072687,
+        85671995
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1990708
     },
     "wof:country":"ID",
-    "wof:geomhash":"b2cf70e72cf5f68a35d9c2c6c553d019",
+    "wof:geomhash":"a56ef3e43699aa1b019db0464a8fdc88",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +53,14 @@
         }
     ],
     "wof:id":1343818139,
-    "wof:lastmodified":1537628255,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175244,
     "wof:name":"Buaran Satu",
     "wof:parent_id":102072687,
     "wof:placetype":"locality",
@@ -63,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.53806000000002,
+    106.53806,
     -6.06972,
-    106.53806000000002,
+    106.53806,
     -6.06972
 ],
-  "geometry": {"coordinates":[106.53806000000002,-6.06972],"type":"Point"}
+  "geometry": {"coordinates":[106.53806,-6.06972],"type":"Point"}
 }

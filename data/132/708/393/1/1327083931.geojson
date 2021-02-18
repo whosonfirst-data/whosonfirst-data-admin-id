@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073471
+        102073471,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6583720
     },
     "wof:country":"ID",
-    "wof:geomhash":"e810b1345b9308f7d0316c23de9e231a",
+    "wof:geomhash":"869a352e9c568339ea0fcb4fbd0e7b32",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1327083931,
-    "wof:lastmodified":1537629535,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613172065,
     "wof:name":"Cibeber",
     "wof:parent_id":102073471,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.55861000000002,
+    107.55861,
     -6.66806,
-    107.55861000000002,
+    107.55861,
     -6.66806
 ],
-  "geometry": {"coordinates":[107.55861000000002,-6.66806],"type":"Point"}
+  "geometry": {"coordinates":[107.55861,-6.66806],"type":"Point"}
 }

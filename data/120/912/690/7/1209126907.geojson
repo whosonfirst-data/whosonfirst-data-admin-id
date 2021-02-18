@@ -58,7 +58,7 @@
         "gn:id":1963180
     },
     "wof:country":"ID",
-    "wof:geomhash":"7a37cb4cb335c41af7ae9165da561dc7",
+    "wof:geomhash":"3bb0e80d1bb7fcc13bdee56cdbc4cc83",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -66,7 +66,14 @@
         }
     ],
     "wof:id":1209126907,
-    "wof:lastmodified":1564185113,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178738,
     "wof:name":"Grogol",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -76,10 +83,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.48111000000002,
+    110.48111,
     -7.34333,
-    110.48111000000002,
+    110.48111,
     -7.34333
 ],
-  "geometry": {"coordinates":[110.48111000000002,-7.34333],"type":"Point"}
+  "geometry": {"coordinates":[110.48111,-7.34333],"type":"Point"}
 }

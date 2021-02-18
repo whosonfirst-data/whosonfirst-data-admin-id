@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073405
+        102073405,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1934548
     },
     "wof:country":"ID",
-    "wof:geomhash":"625dc615bf2e07bc9a9857ff71c7c84d",
+    "wof:geomhash":"3da3d1933de72779ab7e05ee611683ed",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1326726809,
-    "wof:lastmodified":1536703928,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613172267,
     "wof:name":"Banmati",
     "wof:parent_id":102073405,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.81638999999998,
+    110.81639,
     -7.71111,
-    110.81638999999998,
+    110.81639,
     -7.71111
 ],
-  "geometry": {"coordinates":[110.81638999999998,-7.71111],"type":"Point"}
+  "geometry": {"coordinates":[110.81639,-7.71111],"type":"Point"}
 }

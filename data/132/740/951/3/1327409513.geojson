@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672037,
-        102073179
+        102073179,
+        85672037
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1938547
     },
     "wof:country":"ID",
-    "wof:geomhash":"fcc7c7223cc710a850ceabd748581a14",
+    "wof:geomhash":"fc64d11caec7c7ebab49b92d0b463ccb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1327409513,
-    "wof:lastmodified":1536714166,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613172747,
     "wof:name":"Aibanooan",
     "wof:parent_id":102073179,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    124.83556000000002,
+    124.83556,
     -9.2825,
-    124.83556000000002,
+    124.83556,
     -9.2825
 ],
-  "geometry": {"coordinates":[124.83556000000002,-9.2825],"type":"Point"}
+  "geometry": {"coordinates":[124.83556,-9.2825],"type":"Point"}
 }

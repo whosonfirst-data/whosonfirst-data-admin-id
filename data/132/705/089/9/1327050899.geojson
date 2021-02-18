@@ -47,15 +47,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073169
+        102073169,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6199999
     },
     "wof:country":"ID",
-    "wof:geomhash":"35abe463a8407a20c5da61458c2973e9",
+    "wof:geomhash":"3a6b66f0fe3f5c24e20fb6837d5ce605",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -66,7 +66,14 @@
         }
     ],
     "wof:id":1327050899,
-    "wof:lastmodified":1564169265,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613172865,
     "wof:name":"Batur",
     "wof:parent_id":102073169,
     "wof:placetype":"locality",
@@ -76,10 +83,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.03806000000002,
+    110.03806,
     -7.34056,
-    110.03806000000002,
+    110.03806,
     -7.34056
 ],
-  "geometry": {"coordinates":[110.03806000000002,-7.34056],"type":"Point"}
+  "geometry": {"coordinates":[110.03806,-7.34056],"type":"Point"}
 }

@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072947
+        102072947,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6255694
     },
     "wof:country":"ID",
-    "wof:geomhash":"5c49b76dcdb92f6752e43f43fb61eee1",
+    "wof:geomhash":"868190fc2a4cff3b3922632110fedb2a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1209910595,
-    "wof:lastmodified":1536379203,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178390,
     "wof:name":"Pagersari",
     "wof:parent_id":102072947,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.94693999999998,
+    110.94694,
     -7.98056,
-    110.94693999999998,
+    110.94694,
     -7.98056
 ],
-  "geometry": {"coordinates":[110.94693999999998,-7.98056],"type":"Point"}
+  "geometry": {"coordinates":[110.94694,-7.98056],"type":"Point"}
 }

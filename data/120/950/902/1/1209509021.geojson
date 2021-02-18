@@ -34,7 +34,7 @@
         "gn:id":1999206
     },
     "wof:country":"ID",
-    "wof:geomhash":"edcd722f0cb67cdb39527baf3176b40f",
+    "wof:geomhash":"607e2a332b906a1fd259724995eb889b",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209509021,
-    "wof:lastmodified":1536284941,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178919,
     "wof:name":"Sawit",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -52,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.53806000000002,
-    -7.778060000000001,
-    110.53806000000002,
-    -7.778060000000001
+    110.53806,
+    -7.77806,
+    110.53806,
+    -7.77806
 ],
-  "geometry": {"coordinates":[110.53806000000002,-7.77806],"type":"Point"}
+  "geometry": {"coordinates":[110.53806,-7.77806],"type":"Point"}
 }

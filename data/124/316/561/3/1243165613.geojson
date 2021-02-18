@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073265
+        102073265,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2004912
     },
     "wof:country":"ID",
-    "wof:geomhash":"a48eeaca231a1b14f1f5403a8dd00120",
+    "wof:geomhash":"164a3f3a18a278ab570d192463ead292",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1243165613,
-    "wof:lastmodified":1536713801,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613184099,
     "wof:name":"Sombangan",
     "wof:parent_id":102073265,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.26888999999998,
+    110.26889,
     -7.78167,
-    110.26888999999998,
+    110.26889,
     -7.78167
 ],
-  "geometry": {"coordinates":[110.26888999999998,-7.78167],"type":"Point"}
+  "geometry": {"coordinates":[110.26889,-7.78167],"type":"Point"}
 }

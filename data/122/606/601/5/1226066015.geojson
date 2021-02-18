@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072733
+        102072733,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1934808
     },
     "wof:country":"ID",
-    "wof:geomhash":"c1d5a89a3f18e4e64662b4fa44806d7b",
+    "wof:geomhash":"dd1f43b3be3bae12f0d88abbd6163876",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1226066015,
-    "wof:lastmodified":1536696229,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613186380,
     "wof:name":"Daren Wetan",
     "wof:parent_id":102072733,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.99056000000002,
+    110.99056,
     -7.64194,
-    110.99056000000002,
+    110.99056,
     -7.64194
 ],
-  "geometry": {"coordinates":[110.99056000000002,-7.64194],"type":"Point"}
+  "geometry": {"coordinates":[110.99056,-7.64194],"type":"Point"}
 }

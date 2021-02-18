@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672067,
-        102072725
+        102072725,
+        85672067
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1644405
     },
     "wof:country":"ID",
-    "wof:geomhash":"20089575cabac4ef89f34754daded9d6",
+    "wof:geomhash":"0f1a9e4254271ce7cee0312583385c17",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1310515995,
-    "wof:lastmodified":1536901756,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181680,
     "wof:name":"Gasim",
     "wof:parent_id":102072725,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    131.41666999999998,
+    131.41667,
     -1.4,
-    131.41666999999998,
+    131.41667,
     -1.4
 ],
-  "geometry": {"coordinates":[131.41666999999998,-1.4],"type":"Point"}
+  "geometry": {"coordinates":[131.41667000000001,-1.4],"type":"Point"}
 }

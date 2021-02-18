@@ -34,7 +34,7 @@
         "gn:id":1632798
     },
     "wof:country":"ID",
-    "wof:geomhash":"2a1c21b60fde25db62e2d40e628452d8",
+    "wof:geomhash":"bc630c3e726c514cdf44cdde3ff08036",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209525207,
-    "wof:lastmodified":1536284453,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178580,
     "wof:name":"Pangadegan",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     107.15,
-    -7.1833300000000015,
+    -7.18333,
     107.15,
-    -7.1833300000000015
+    -7.18333
 ],
   "geometry": {"coordinates":[107.15000000000001,-7.18333],"type":"Point"}
 }

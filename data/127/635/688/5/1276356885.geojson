@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072857
+        102072857,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6256841
     },
     "wof:country":"ID",
-    "wof:geomhash":"09b1bb1d58c5571b35712b7e8f4b111c",
+    "wof:geomhash":"fd38fa47ad5c689193a26721d5e11caa",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1276356885,
-    "wof:lastmodified":1536746807,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177471,
     "wof:name":"Matren Kulon",
     "wof:parent_id":102072857,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.37111000000002,
+    110.37111,
     -7.4,
-    110.37111000000002,
+    110.37111,
     -7.4
 ],
-  "geometry": {"coordinates":[110.37111000000002,-7.4],"type":"Point"}
+  "geometry": {"coordinates":[110.37111,-7.4],"type":"Point"}
 }

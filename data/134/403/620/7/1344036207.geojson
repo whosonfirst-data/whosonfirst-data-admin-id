@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073189
+        102073189,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1999430
     },
     "wof:country":"ID",
-    "wof:geomhash":"51e1ba8b3e444d873e3fcf3ace11a4dc",
+    "wof:geomhash":"76d9ed0603989100dbc9085211ba41b6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1344036207,
-    "wof:lastmodified":1536911049,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175033,
     "wof:name":"Soka",
     "wof:parent_id":102073189,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.51111000000002,
+    110.51111,
     -7.84083,
-    110.51111000000002,
+    110.51111,
     -7.84083
 ],
-  "geometry": {"coordinates":[110.51111000000002,-7.84083],"type":"Point"}
+  "geometry": {"coordinates":[110.51111,-7.84083],"type":"Point"}
 }

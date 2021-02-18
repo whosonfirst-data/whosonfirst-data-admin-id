@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072857
+        102072857,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1965182
     },
     "wof:country":"ID",
-    "wof:geomhash":"017dccf4167374ab4e221fdacef4c570",
+    "wof:geomhash":"9712fee407854c5f28fa786dd408cd75",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1225938151,
-    "wof:lastmodified":1536879621,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185212,
     "wof:name":"Nawangsari",
     "wof:parent_id":102072857,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.33693999999998,
+    110.33694,
     -7.3325,
-    110.33693999999998,
+    110.33694,
     -7.3325
 ],
-  "geometry": {"coordinates":[110.33693999999998,-7.3325],"type":"Point"}
+  "geometry": {"coordinates":[110.33694,-7.3325],"type":"Point"}
 }

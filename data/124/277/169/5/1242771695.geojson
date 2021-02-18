@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072889
+        102072889,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6763319
     },
     "wof:country":"ID",
-    "wof:geomhash":"9ca1b8d0e7ade266550e49b6c5ba9d9b",
+    "wof:geomhash":"87759d8ee045fbf80bd8cd61d1a1fddc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1242771695,
-    "wof:lastmodified":1537631437,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183804,
     "wof:name":"Klidungan",
     "wof:parent_id":102072889,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.70553999999998,
+    109.70554,
     -6.89046,
-    109.70553999999998,
+    109.70554,
     -6.89046
 ],
-  "geometry": {"coordinates":[109.70553999999998,-6.89046],"type":"Point"}
+  "geometry": {"coordinates":[109.70554,-6.89046],"type":"Point"}
 }

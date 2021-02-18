@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672097,
-        1108796829
+        1108796829,
+        85672097
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8043720
     },
     "wof:country":"ID",
-    "wof:geomhash":"e7d7278fa83da547f88662363c9720be",
+    "wof:geomhash":"c265fdfd28c267a9404771c5b82a756d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1242728935,
-    "wof:lastmodified":1537635108,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183105,
     "wof:name":"Waiame",
     "wof:parent_id":1108796829,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    128.16866000000002,
+    128.16866,
     -3.6624,
-    128.16866000000002,
+    128.16866,
     -3.6624
 ],
-  "geometry": {"coordinates":[128.16866000000002,-3.6624],"type":"Point"}
+  "geometry": {"coordinates":[128.16865999999999,-3.6624],"type":"Point"}
 }

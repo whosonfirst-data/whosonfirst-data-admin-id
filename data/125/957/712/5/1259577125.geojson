@@ -34,15 +34,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072709
+        102072709,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1973117
     },
     "wof:country":"ID",
-    "wof:geomhash":"86ae264b368dc33f8757e6cadac42408",
+    "wof:geomhash":"3e3a4f03bbbf370d19a2f4b198f5e8fd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +53,14 @@
         }
     ],
     "wof:id":1259577125,
-    "wof:lastmodified":1537628107,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613184766,
     "wof:name":"Gintungan",
     "wof:parent_id":102072709,
     "wof:placetype":"locality",
@@ -63,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.50943999999998,
+    110.50944,
     -7.39611,
-    110.50943999999998,
+    110.50944,
     -7.39611
 ],
-  "geometry": {"coordinates":[110.50943999999998,-7.39611],"type":"Point"}
+  "geometry": {"coordinates":[110.50944,-7.39611],"type":"Point"}
 }

@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072639
+        102072639,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6386381
     },
     "wof:country":"ID",
-    "wof:geomhash":"66c75d7c5729d2422cb53b7fa6405246",
+    "wof:geomhash":"aad365e21f742c29860712a0bff9f3c6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1226163605,
-    "wof:lastmodified":1537628606,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185537,
     "wof:name":"Jurutengah",
     "wof:parent_id":102072639,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.54361000000002,
+    109.54361,
     -7.73861,
-    109.54361000000002,
+    109.54361,
     -7.73861
 ],
-  "geometry": {"coordinates":[109.54361000000002,-7.73861],"type":"Point"}
+  "geometry": {"coordinates":[109.54361,-7.73861],"type":"Point"}
 }

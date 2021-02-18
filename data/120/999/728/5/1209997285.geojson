@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672005,
-        102073007
+        102073007,
+        85672005
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":9022521
     },
     "wof:country":"ID",
-    "wof:geomhash":"2f69eed0adf02d18feda05346d41cf8e",
+    "wof:geomhash":"2a2de821412e9ae1f9ebfb3994dda82b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1209997285,
-    "wof:lastmodified":1537636712,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178591,
     "wof:name":"Sei Keran",
     "wof:parent_id":102073007,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.91313999999998,
+    108.91314,
     0.69815,
-    108.91313999999998,
+    108.91314,
     0.69815
 ],
-  "geometry": {"coordinates":[108.91313999999998,0.69815],"type":"Point"}
+  "geometry": {"coordinates":[108.91314,0.69815],"type":"Point"}
 }

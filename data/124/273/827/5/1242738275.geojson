@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073515
+        102073515,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6580250
     },
     "wof:country":"ID",
-    "wof:geomhash":"bba3037641770e7df9ac034b3440e5f3",
+    "wof:geomhash":"90277b3fa5e6e8d6f8fdb561e5c85d43",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1242738275,
-    "wof:lastmodified":1537629438,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183027,
     "wof:name":"Parupug",
     "wof:parent_id":102073515,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.12111000000002,
+    108.12111,
     -6.66556,
-    108.12111000000002,
+    108.12111,
     -6.66556
 ],
-  "geometry": {"coordinates":[108.12111000000002,-6.66556],"type":"Point"}
+  "geometry": {"coordinates":[108.12111,-6.66556],"type":"Point"}
 }

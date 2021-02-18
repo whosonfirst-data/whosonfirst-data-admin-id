@@ -34,15 +34,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        1108796793
+        1108796793,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1964117
     },
     "wof:country":"ID",
-    "wof:geomhash":"3fc8acc23188bfce8b2762c67d18ecaa",
+    "wof:geomhash":"e68301d8784f65afbc51d001fc29b79d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +53,14 @@
         }
     ],
     "wof:id":1259443091,
-    "wof:lastmodified":1537627746,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185092,
     "wof:name":"Cikidang Dua",
     "wof:parent_id":1108796793,
     "wof:placetype":"locality",
@@ -63,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.27306000000002,
+    107.27306,
     -6.75944,
-    107.27306000000002,
+    107.27306,
     -6.75944
 ],
-  "geometry": {"coordinates":[107.27306000000002,-6.75944],"type":"Point"}
+  "geometry": {"coordinates":[107.27306,-6.75944],"type":"Point"}
 }

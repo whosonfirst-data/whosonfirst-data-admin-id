@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072937
+        102072937,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6607129
     },
     "wof:country":"ID",
-    "wof:geomhash":"d4ffd239acaa206dbf6d546ea8632caa",
+    "wof:geomhash":"7caf6a8685c6d6ec34bfa0e7443ab545",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1243323761,
-    "wof:lastmodified":1537630135,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183606,
     "wof:name":"Rawaraden",
     "wof:parent_id":102072937,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.38443999999998,
+    107.38444,
     -6.18028,
-    107.38443999999998,
+    107.38444,
     -6.18028
 ],
-  "geometry": {"coordinates":[107.38443999999998,-6.18028],"type":"Point"}
+  "geometry": {"coordinates":[107.38444,-6.18028],"type":"Point"}
 }

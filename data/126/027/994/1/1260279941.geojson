@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073169
+        102073169,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6201114
     },
     "wof:country":"ID",
-    "wof:geomhash":"fa3c9e838d36604e346006e67f4b9413",
+    "wof:geomhash":"422ec5eb5419b39bb9544788a02ef943",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1260279941,
-    "wof:lastmodified":1536717047,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613180455,
     "wof:name":"Maguwo",
     "wof:parent_id":102073169,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.21056000000002,
+    110.21056,
     -7.25167,
-    110.21056000000002,
+    110.21056,
     -7.25167
 ],
-  "geometry": {"coordinates":[110.21056000000002,-7.25167],"type":"Point"}
+  "geometry": {"coordinates":[110.21056,-7.25167],"type":"Point"}
 }

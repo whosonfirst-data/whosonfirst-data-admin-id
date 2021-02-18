@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073469
+        102073469,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2011798
     },
     "wof:country":"ID",
-    "wof:geomhash":"fd6d9ce80bf97d840546e0a55a2ac2e1",
+    "wof:geomhash":"237a758836b4fabefec2547bc2b060d1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1326508789,
-    "wof:lastmodified":1537017141,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613172668,
     "wof:name":"Bantarrejo",
     "wof:parent_id":102073469,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.21193999999998,
+    110.21194,
     -7.81722,
-    110.21193999999998,
+    110.21194,
     -7.81722
 ],
-  "geometry": {"coordinates":[110.21193999999998,-7.81722],"type":"Point"}
+  "geometry": {"coordinates":[110.21194,-7.81722],"type":"Point"}
 }

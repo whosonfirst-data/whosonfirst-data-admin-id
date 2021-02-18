@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072921
+        102072921,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6370806
     },
     "wof:country":"ID",
-    "wof:geomhash":"ec675f0b65c2da9c5dbae43806564b88",
+    "wof:geomhash":"04d14376b0b597b78b7e75b9a54216ed",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1327428033,
-    "wof:lastmodified":1537628321,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613173493,
     "wof:name":"Penican",
     "wof:parent_id":102072921,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.39388999999998,
+    109.39389,
     -7.44611,
-    109.39388999999998,
+    109.39389,
     -7.44611
 ],
-  "geometry": {"coordinates":[109.39388999999998,-7.44611],"type":"Point"}
+  "geometry": {"coordinates":[109.39389,-7.44611],"type":"Point"}
 }

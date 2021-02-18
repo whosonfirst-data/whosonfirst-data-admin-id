@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073233
+        102073233,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1630415
     },
     "wof:country":"ID",
-    "wof:geomhash":"2389739ad56bc89540d0010f1193dab9",
+    "wof:geomhash":"2ae5b57cd96486527ce806d3a24f7fd1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1242870535,
-    "wof:lastmodified":1536640918,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183047,
     "wof:name":"Pundungan",
     "wof:parent_id":102073233,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.71193999999998,
+    110.71194,
     -7.63361,
-    110.71193999999998,
+    110.71194,
     -7.63361
 ],
-  "geometry": {"coordinates":[110.71193999999998,-7.63361],"type":"Point"}
+  "geometry": {"coordinates":[110.71194,-7.63361],"type":"Point"}
 }

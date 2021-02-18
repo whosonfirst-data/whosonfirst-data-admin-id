@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671995,
-        1108796785
+        1108796785,
+        85671995
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1990401
     },
     "wof:country":"ID",
-    "wof:geomhash":"7de44f15d8e7097fcc7452d66b9b5ce0",
+    "wof:geomhash":"4ec61ae354f2b63b242926d3d4f5b1fa",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1276925857,
-    "wof:lastmodified":1536979098,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177566,
     "wof:name":"Pisangan Timur",
     "wof:parent_id":1108796785,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.73888999999998,
+    106.73889,
     -6.24111,
-    106.73888999999998,
+    106.73889,
     -6.24111
 ],
-  "geometry": {"coordinates":[106.73888999999998,-6.24111],"type":"Point"}
+  "geometry": {"coordinates":[106.73889,-6.24111],"type":"Point"}
 }

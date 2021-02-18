@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072937
+        102072937,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6606040
     },
     "wof:country":"ID",
-    "wof:geomhash":"b325ce6f7fae793348f08dfa4564f986",
+    "wof:geomhash":"d99ca4dc9b5e11910d5111fd03208b71",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,7 +54,14 @@
         }
     ],
     "wof:id":1277023727,
-    "wof:lastmodified":1537630096,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177730,
     "wof:name":"Kampungbaru Dua",
     "wof:parent_id":102072937,
     "wof:placetype":"locality",
@@ -64,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.12111000000002,
+    107.12111,
     -6.04278,
-    107.12111000000002,
+    107.12111,
     -6.04278
 ],
-  "geometry": {"coordinates":[107.12111000000002,-6.04278],"type":"Point"}
+  "geometry": {"coordinates":[107.12111,-6.04278],"type":"Point"}
 }

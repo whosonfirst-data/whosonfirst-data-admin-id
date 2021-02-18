@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072709
+        102072709,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6410739
     },
     "wof:country":"ID",
-    "wof:geomhash":"6cac072a547b1233dd0668d173344334",
+    "wof:geomhash":"fd5ed721dfe341b94bfe46ffe66f4805",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1226666785,
-    "wof:lastmodified":1537629086,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185770,
     "wof:name":"Kuncen",
     "wof:parent_id":102072709,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.48111000000002,
+    110.48111,
     -7.20139,
-    110.48111000000002,
+    110.48111,
     -7.20139
 ],
-  "geometry": {"coordinates":[110.48111000000002,-7.20139],"type":"Point"}
+  "geometry": {"coordinates":[110.48111,-7.20139],"type":"Point"}
 }

@@ -34,7 +34,7 @@
         "gn:id":1934379
     },
     "wof:country":"ID",
-    "wof:geomhash":"6eed9d2fb6a4db9ed578823a24a94544",
+    "wof:geomhash":"1f2fcdc1cc620c61d271626709532ab2",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209234945,
-    "wof:lastmodified":1536293515,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178749,
     "wof:name":"Kriwen",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     110.79611,
-    -7.688060000000001,
+    -7.68806,
     110.79611,
-    -7.688060000000001
+    -7.68806
 ],
   "geometry": {"coordinates":[110.79611,-7.68806],"type":"Point"}
 }

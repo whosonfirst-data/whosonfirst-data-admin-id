@@ -34,7 +34,7 @@
         "gn:id":1973040
     },
     "wof:country":"ID",
-    "wof:geomhash":"c710020ee3c0cdf9684fb18f9729eea0",
+    "wof:geomhash":"e8e027aefbfbd06dcb469612f0508be1",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209606123,
-    "wof:lastmodified":1536282006,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179121,
     "wof:name":"Karang",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     110.57472,
-    -7.305560000000002,
+    -7.30556,
     110.57472,
-    -7.305560000000002
+    -7.30556
 ],
   "geometry": {"coordinates":[110.57472,-7.30556],"type":"Point"}
 }

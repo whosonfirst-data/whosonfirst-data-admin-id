@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072921
+        102072921,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6378949
     },
     "wof:country":"ID",
-    "wof:geomhash":"7a48cca4a0bc6d01c7f45a173b7e15df",
+    "wof:geomhash":"db09d3f8dcd60ebaff20064bf94a17a6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1343454937,
-    "wof:lastmodified":1537628514,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175125,
     "wof:name":"Tepusduwur",
     "wof:parent_id":102072921,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.49611000000002,
+    109.49611,
     -7.31222,
-    109.49611000000002,
+    109.49611,
     -7.31222
 ],
-  "geometry": {"coordinates":[109.49611000000002,-7.31222],"type":"Point"}
+  "geometry": {"coordinates":[109.49611,-7.31222],"type":"Point"}
 }

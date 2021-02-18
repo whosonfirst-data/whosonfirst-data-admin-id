@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671995,
-        102072687
+        102072687,
+        85671995
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1959804
     },
     "wof:country":"ID",
-    "wof:geomhash":"e352acfa8043c5758eb617100192952e",
+    "wof:geomhash":"99d28618064bde42b1797793204aea70",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,7 +54,14 @@
         }
     ],
     "wof:id":1276818079,
-    "wof:lastmodified":1537627524,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177104,
     "wof:name":"Krebet",
     "wof:parent_id":102072687,
     "wof:placetype":"locality",
@@ -64,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.37888999999998,
+    106.37889,
     -6.06056,
-    106.37888999999998,
+    106.37889,
     -6.06056
 ],
-  "geometry": {"coordinates":[106.37888999999998,-6.06056],"type":"Point"}
+  "geometry": {"coordinates":[106.37889,-6.06056],"type":"Point"}
 }

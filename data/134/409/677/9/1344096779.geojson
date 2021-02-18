@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672115,
-        102072957
+        102072957,
+        85672115
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8531178
     },
     "wof:country":"ID",
-    "wof:geomhash":"5d8e7db545a228bba6b5d0af72b7b757",
+    "wof:geomhash":"972820a661a5bde31cea2ab9952e167a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1344096779,
-    "wof:lastmodified":1537636344,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613174283,
     "wof:name":"Foja",
     "wof:parent_id":102072957,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    139.05100000000002,
+    139.051,
     -2.4359,
-    139.05100000000002,
+    139.051,
     -2.4359
 ],
-  "geometry": {"coordinates":[139.05100000000002,-2.4359],"type":"Point"}
+  "geometry": {"coordinates":[139.05099999999999,-2.4359],"type":"Point"}
 }

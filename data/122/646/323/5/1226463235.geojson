@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073265
+        102073265,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6258357
     },
     "wof:country":"ID",
-    "wof:geomhash":"73815c82164a12067e3ab5bd7d2402d8",
+    "wof:geomhash":"3ed623bf1f1c76d8f53bd03a78b2127d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1226463235,
-    "wof:lastmodified":1536618184,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613186192,
     "wof:name":"Sawahan",
     "wof:parent_id":102073265,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.32193999999998,
+    110.32194,
     -7.70167,
-    110.32193999999998,
+    110.32194,
     -7.70167
 ],
-  "geometry": {"coordinates":[110.32193999999998,-7.70167],"type":"Point"}
+  "geometry": {"coordinates":[110.32194,-7.70167],"type":"Point"}
 }

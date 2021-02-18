@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073217
+        102073217,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6604342
     },
     "wof:country":"ID",
-    "wof:geomhash":"f49002434966e0df67545e4c4462d72a",
+    "wof:geomhash":"578bc165d08903670753b46135c957ed",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1293933063,
-    "wof:lastmodified":1537630032,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613176299,
     "wof:name":"Keroncong Satu",
     "wof:parent_id":102073217,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.64806000000002,
+    106.64806,
     -6.63917,
-    106.64806000000002,
+    106.64806,
     -6.63917
 ],
-  "geometry": {"coordinates":[106.64806000000002,-6.63917],"type":"Point"}
+  "geometry": {"coordinates":[106.64806,-6.63917],"type":"Point"}
 }

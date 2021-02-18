@@ -34,7 +34,7 @@
         "gn:id":6198877
     },
     "wof:country":"ID",
-    "wof:geomhash":"d72a0ff906502f6db69b857c45fcfd94",
+    "wof:geomhash":"b3594c7a613734c2d1392d83d8ec8c34",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209027275,
-    "wof:lastmodified":1536299957,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179222,
     "wof:name":"Baturan",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -52,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.13611000000002,
-    -7.473889999999999,
-    110.13611000000002,
-    -7.473889999999999
+    110.13611,
+    -7.47389,
+    110.13611,
+    -7.47389
 ],
-  "geometry": {"coordinates":[110.13611000000002,-7.47389],"type":"Point"}
+  "geometry": {"coordinates":[110.13611,-7.47389],"type":"Point"}
 }

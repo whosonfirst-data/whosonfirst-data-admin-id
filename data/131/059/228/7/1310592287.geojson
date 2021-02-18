@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072929
+        102072929,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6266606
     },
     "wof:country":"ID",
-    "wof:geomhash":"f5f57da71de25b960696c71c364dfb87",
+    "wof:geomhash":"b4887c8c7bd02d9b7497ff4351a11bba",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1310592287,
-    "wof:lastmodified":1536792121,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181527,
     "wof:name":"Sumberejo",
     "wof:parent_id":102072929,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.93361000000002,
+    110.93361,
     -7.49333,
-    110.93361000000002,
+    110.93361,
     -7.49333
 ],
-  "geometry": {"coordinates":[110.93361000000002,-7.49333],"type":"Point"}
+  "geometry": {"coordinates":[110.93361,-7.49333],"type":"Point"}
 }

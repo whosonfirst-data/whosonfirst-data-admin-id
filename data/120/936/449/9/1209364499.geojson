@@ -37,7 +37,7 @@
         "gn:id":6603542
     },
     "wof:country":"ID",
-    "wof:geomhash":"245bf931cb142f20c8862aa47e7b18c9",
+    "wof:geomhash":"0ba3af047bdec08cb9af63447416ebeb",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -45,7 +45,14 @@
         }
     ],
     "wof:id":1209364499,
-    "wof:lastmodified":1537630005,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178290,
     "wof:name":"Galumpit",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -55,10 +62,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.64806000000002,
+    106.64806,
     -6.91417,
-    106.64806000000002,
+    106.64806,
     -6.91417
 ],
-  "geometry": {"coordinates":[106.64806000000002,-6.91417],"type":"Point"}
+  "geometry": {"coordinates":[106.64806,-6.91417],"type":"Point"}
 }

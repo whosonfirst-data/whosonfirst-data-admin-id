@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072947
+        102072947,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6407268
     },
     "wof:country":"ID",
-    "wof:geomhash":"6ebb86b60ae808a088bad4bf39dddc7b",
+    "wof:geomhash":"d3831cd36b0545cb69af2e58590cc553",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1293880071,
-    "wof:lastmodified":1537628986,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613176906,
     "wof:name":"Gunungkopeng",
     "wof:parent_id":102072947,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.21056000000002,
+    111.21056,
     -7.84806,
-    111.21056000000002,
+    111.21056,
     -7.84806
 ],
-  "geometry": {"coordinates":[111.21056000000002,-7.84806],"type":"Point"}
+  "geometry": {"coordinates":[111.21056,-7.84806],"type":"Point"}
 }

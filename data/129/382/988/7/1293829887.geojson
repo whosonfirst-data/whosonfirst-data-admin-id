@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073471
+        102073471,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1949287
     },
     "wof:country":"ID",
-    "wof:geomhash":"d8c06d15d27dcac16c05de293c4ec024",
+    "wof:geomhash":"b571e2a309e093d11ac6ad1f4939026e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1293829887,
-    "wof:lastmodified":1536791003,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175954,
     "wof:name":"Cigombrong",
     "wof:parent_id":102073471,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.43361000000002,
+    107.43361,
     -6.5475,
-    107.43361000000002,
+    107.43361,
     -6.5475
 ],
-  "geometry": {"coordinates":[107.43361000000002,-6.5475],"type":"Point"}
+  "geometry": {"coordinates":[107.43361,-6.5475],"type":"Point"}
 }

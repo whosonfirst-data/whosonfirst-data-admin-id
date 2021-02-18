@@ -41,15 +41,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072709
+        102072709,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6253540
     },
     "wof:country":"ID",
-    "wof:geomhash":"486708662cb07790a8587538fc54f084",
+    "wof:geomhash":"3d6a67548c17a89e57ca1d80f258faaa",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -60,7 +60,14 @@
         }
     ],
     "wof:id":1343454735,
-    "wof:lastmodified":1564175202,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175125,
     "wof:name":"Dawan",
     "wof:parent_id":102072709,
     "wof:placetype":"locality",
@@ -70,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.62888999999998,
+    110.62889,
     -7.46917,
-    110.62888999999998,
+    110.62889,
     -7.46917
 ],
-  "geometry": {"coordinates":[110.62888999999998,-7.46917],"type":"Point"}
+  "geometry": {"coordinates":[110.62889,-7.46917],"type":"Point"}
 }

@@ -34,15 +34,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072709
+        102072709,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1973501
     },
     "wof:country":"ID",
-    "wof:geomhash":"326297a6f7e76ecc7e115a8ae2b1ccf3",
+    "wof:geomhash":"405b634521269b26eb979c0eaec78565",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +53,14 @@
         }
     ],
     "wof:id":1276217735,
-    "wof:lastmodified":1537628125,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177213,
     "wof:name":"Dompon",
     "wof:parent_id":102072709,
     "wof:placetype":"locality",
@@ -63,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.58693999999998,
+    110.58694,
     -7.3875,
-    110.58693999999998,
+    110.58694,
     -7.3875
 ],
-  "geometry": {"coordinates":[110.58693999999998,-7.3875],"type":"Point"}
+  "geometry": {"coordinates":[110.58694,-7.3875],"type":"Point"}
 }

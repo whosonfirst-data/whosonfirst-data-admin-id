@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073265
+        102073265,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6258336
     },
     "wof:country":"ID",
-    "wof:geomhash":"1624fd81e5f7fca4b0eab4f87c05a1cc",
+    "wof:geomhash":"2be101ba338b4c533eab05652db45f5d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1343740857,
-    "wof:lastmodified":1536838165,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175181,
     "wof:name":"Toino",
     "wof:parent_id":102073265,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.36556000000002,
+    110.36556,
     -7.70389,
-    110.36556000000002,
+    110.36556,
     -7.70389
 ],
-  "geometry": {"coordinates":[110.36556000000002,-7.70389],"type":"Point"}
+  "geometry": {"coordinates":[110.36556,-7.70389],"type":"Point"}
 }

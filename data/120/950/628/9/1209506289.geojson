@@ -34,7 +34,7 @@
         "gn:id":6260204
     },
     "wof:country":"ID",
-    "wof:geomhash":"3d8fe95c0d29b9287f4468387cb3226f",
+    "wof:geomhash":"9ad150d9b4b56169cf028f09453845c9",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209506289,
-    "wof:lastmodified":1536285025,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178904,
     "wof:name":"Saragan",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     110.09917,
-    -7.533060000000001,
+    -7.53306,
     110.09917,
-    -7.533060000000001
+    -7.53306
 ],
   "geometry": {"coordinates":[110.09917,-7.53306],"type":"Point"}
 }

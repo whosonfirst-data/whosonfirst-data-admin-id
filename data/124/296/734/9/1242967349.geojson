@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072819
+        102072819,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6385847
     },
     "wof:country":"ID",
-    "wof:geomhash":"47a7f02c4f60892d61ce315dbf668800",
+    "wof:geomhash":"b3d01075c72c35facbbf896cce3f653c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1242967349,
-    "wof:lastmodified":1537628589,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183958,
     "wof:name":"Sendangarum",
     "wof:parent_id":102072819,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.11556000000002,
+    109.11556,
     -7.61167,
-    109.11556000000002,
+    109.11556,
     -7.61167
 ],
-  "geometry": {"coordinates":[109.11556000000002,-7.61167],"type":"Point"}
+  "geometry": {"coordinates":[109.11556,-7.61167],"type":"Point"}
 }

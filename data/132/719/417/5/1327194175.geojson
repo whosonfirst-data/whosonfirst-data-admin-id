@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671995,
-        102072687
+        102072687,
+        85671995
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1964642
     },
     "wof:country":"ID",
-    "wof:geomhash":"7214fa9695464dff7825725884ad0106",
+    "wof:geomhash":"e123cc08eca7ed36bc3dd1299313a2ee",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,7 +54,14 @@
         }
     ],
     "wof:id":1327194175,
-    "wof:lastmodified":1537627772,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613173420,
     "wof:name":"Kampungkalapa",
     "wof:parent_id":102072687,
     "wof:placetype":"locality",
@@ -64,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.60193999999998,
+    106.60194,
     -6.30111,
-    106.60193999999998,
+    106.60194,
     -6.30111
 ],
-  "geometry": {"coordinates":[106.60193999999998,-6.30111],"type":"Point"}
+  "geometry": {"coordinates":[106.60194,-6.30111],"type":"Point"}
 }

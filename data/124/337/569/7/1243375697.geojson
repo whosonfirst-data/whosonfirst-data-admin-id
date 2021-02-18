@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672023,
-        102072583
+        102072583,
+        85672023
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1902383
     },
     "wof:country":"ID",
-    "wof:geomhash":"b384fa664b85af56b64ade49f330dbfa",
+    "wof:geomhash":"8225b600727214244287185fcd13e10e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1243375697,
-    "wof:lastmodified":1536907838,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613182922,
     "wof:name":"Bea Cukai",
     "wof:parent_id":102072583,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    115.26111000000002,
+    115.26111,
     -8.675,
-    115.26111000000002,
+    115.26111,
     -8.675
 ],
-  "geometry": {"coordinates":[115.26111000000002,-8.675],"type":"Point"}
+  "geometry": {"coordinates":[115.26111,-8.675],"type":"Point"}
 }

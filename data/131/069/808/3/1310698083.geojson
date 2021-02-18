@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072639
+        102072639,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6369925
     },
     "wof:country":"ID",
-    "wof:geomhash":"ad150d26d152fbbbb8e2f9e0d708d3b4",
+    "wof:geomhash":"739d8b4347788d618b8e6c90a3f06553",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1310698083,
-    "wof:lastmodified":1537628294,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181670,
     "wof:name":"Rogodadi",
     "wof:parent_id":102072639,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.48111000000002,
+    109.48111,
     -7.69917,
-    109.48111000000002,
+    109.48111,
     -7.69917
 ],
-  "geometry": {"coordinates":[109.48111000000002,-7.69917],"type":"Point"}
+  "geometry": {"coordinates":[109.48111,-7.69917],"type":"Point"}
 }

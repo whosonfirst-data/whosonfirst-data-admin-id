@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072937
+        102072937,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6606287
     },
     "wof:country":"ID",
-    "wof:geomhash":"1ffaf726cbe18a94bd1dc1904f330e54",
+    "wof:geomhash":"0c48d261f26d89166e3bd24be96cb5d5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1327084025,
-    "wof:lastmodified":1537630104,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613172080,
     "wof:name":"Junti Timur",
     "wof:parent_id":102072937,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.33138999999998,
+    107.33139,
     -6.17167,
-    107.33138999999998,
+    107.33139,
     -6.17167
 ],
-  "geometry": {"coordinates":[107.33138999999998,-6.17167],"type":"Point"}
+  "geometry": {"coordinates":[107.33139,-6.17167],"type":"Point"}
 }

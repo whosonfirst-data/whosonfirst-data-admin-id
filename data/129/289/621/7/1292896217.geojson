@@ -38,15 +38,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102073397
+        102073397,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1985575
     },
     "wof:country":"ID",
-    "wof:geomhash":"74b0045e49b1b8807b20a23288b2a191",
+    "wof:geomhash":"05e0017fb493e67d86298e8418e62b6d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -57,7 +57,14 @@
         }
     ],
     "wof:id":1292896217,
-    "wof:lastmodified":1564176597,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175614,
     "wof:name":"Damai",
     "wof:parent_id":102073397,
     "wof:placetype":"locality",
@@ -67,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    112.80138999999998,
+    112.80139,
     -7.27361,
-    112.80138999999998,
+    112.80139,
     -7.27361
 ],
-  "geometry": {"coordinates":[112.80138999999998,-7.27361],"type":"Point"}
+  "geometry": {"coordinates":[112.80139,-7.27361],"type":"Point"}
 }

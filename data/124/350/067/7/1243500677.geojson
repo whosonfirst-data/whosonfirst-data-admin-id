@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072949
+        102072949,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6598966
     },
     "wof:country":"ID",
-    "wof:geomhash":"9cba3dc392dafc78b54d1289d2086099",
+    "wof:geomhash":"c7517f6894191dd4c6cd643e47bf0815",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1243500677,
-    "wof:lastmodified":1537629946,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183559,
     "wof:name":"Brujul",
     "wof:parent_id":102072949,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.55861000000002,
+    107.55861,
     -6.96833,
-    107.55861000000002,
+    107.55861,
     -6.96833
 ],
-  "geometry": {"coordinates":[107.55861000000002,-6.96833],"type":"Point"}
+  "geometry": {"coordinates":[107.55861,-6.96833],"type":"Point"}
 }

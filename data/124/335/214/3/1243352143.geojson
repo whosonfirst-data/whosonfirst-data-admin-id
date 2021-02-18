@@ -44,15 +44,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073265
+        102073265,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2005065
     },
     "wof:country":"ID",
-    "wof:geomhash":"a274f4e44894d0459441e319be0284e8",
+    "wof:geomhash":"e0b8237d73a4875587da6f9591c83595",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -63,7 +63,14 @@
         }
     ],
     "wof:id":1243352143,
-    "wof:lastmodified":1564199910,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183643,
     "wof:name":"Sumber",
     "wof:parent_id":102073265,
     "wof:placetype":"locality",
@@ -73,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.29361000000002,
+    110.29361,
     -7.79694,
-    110.29361000000002,
+    110.29361,
     -7.79694
 ],
-  "geometry": {"coordinates":[110.29361000000002,-7.79694],"type":"Point"}
+  "geometry": {"coordinates":[110.29361,-7.79694],"type":"Point"}
 }

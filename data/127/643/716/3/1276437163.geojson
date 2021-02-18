@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102072775
+        102072775,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6410531
     },
     "wof:country":"ID",
-    "wof:geomhash":"c0fd296c00fdec83d22a2a127d2b513f",
+    "wof:geomhash":"a8ff64054ae456d366c4318a2c6766e9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1276437163,
-    "wof:lastmodified":1537629080,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177142,
     "wof:name":"Gandik",
     "wof:parent_id":102072775,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.37111000000002,
+    111.37111,
     -7.35528,
-    111.37111000000002,
+    111.37111,
     -7.35528
 ],
-  "geometry": {"coordinates":[111.37111000000002,-7.35528],"type":"Point"}
+  "geometry": {"coordinates":[111.37111,-7.35528],"type":"Point"}
 }

@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073411
+        102073411,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6596856
     },
     "wof:country":"ID",
-    "wof:geomhash":"e567e944776b3d62cded52f8a1ba66e4",
+    "wof:geomhash":"c97ed18dc8f4a5947f6cc9811252a9e8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1242933645,
-    "wof:lastmodified":1537629865,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183269,
     "wof:name":"Nangrang",
     "wof:parent_id":102073411,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.80306000000002,
+    106.80306,
     -6.62778,
-    106.80306000000002,
+    106.80306,
     -6.62778
 ],
-  "geometry": {"coordinates":[106.80306000000002,-6.62778],"type":"Point"}
+  "geometry": {"coordinates":[106.80306,-6.62778],"type":"Point"}
 }

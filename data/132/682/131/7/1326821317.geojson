@@ -41,15 +41,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072639
+        102072639,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6386169
     },
     "wof:country":"ID",
-    "wof:geomhash":"48b6d18a2340050834dbc9a799eb539a",
+    "wof:geomhash":"bc24498c4507af7d3c2322f553a1e55c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -60,7 +60,14 @@
         }
     ],
     "wof:id":1326821317,
-    "wof:lastmodified":1564169601,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613172992,
     "wof:name":"Balo",
     "wof:parent_id":102072639,
     "wof:placetype":"locality",
@@ -70,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.57193999999998,
+    109.57194,
     -7.67083,
-    109.57193999999998,
+    109.57194,
     -7.67083
 ],
-  "geometry": {"coordinates":[109.57193999999998,-7.67083],"type":"Point"}
+  "geometry": {"coordinates":[109.57194,-7.67083],"type":"Point"}
 }

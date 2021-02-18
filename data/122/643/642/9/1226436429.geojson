@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073265
+        102073265,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6258241
     },
     "wof:country":"ID",
-    "wof:geomhash":"8f3067e0e77a5de1f1664681dfe67275",
+    "wof:geomhash":"7980672f58ba3f9840b74c19b198d8a7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1226436429,
-    "wof:lastmodified":1536659037,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185280,
     "wof:name":"Pendeman",
     "wof:parent_id":102073265,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.35611000000002,
+    110.35611,
     -7.67861,
-    110.35611000000002,
+    110.35611,
     -7.67861
 ],
-  "geometry": {"coordinates":[110.35611000000002,-7.67861],"type":"Point"}
+  "geometry": {"coordinates":[110.35611,-7.67861],"type":"Point"}
 }

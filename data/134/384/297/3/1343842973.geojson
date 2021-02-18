@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102073155
+        102073155,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7035210
     },
     "wof:country":"ID",
-    "wof:geomhash":"bd1c83fa6f7389576985779a16741218",
+    "wof:geomhash":"46c7331955312fc78c4a149df44b7667",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1343842973,
-    "wof:lastmodified":1537632693,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613174434,
     "wof:name":"Slumbung",
     "wof:parent_id":102073155,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    112.34501000000002,
+    112.34501,
     -8.01212,
-    112.34501000000002,
+    112.34501,
     -8.01212
 ],
-  "geometry": {"coordinates":[112.34501000000002,-8.01212],"type":"Point"}
+  "geometry": {"coordinates":[112.34501,-8.01212],"type":"Point"}
 }

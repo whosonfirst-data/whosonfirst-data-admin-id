@@ -34,7 +34,7 @@
         "gn:id":6257646
     },
     "wof:country":"ID",
-    "wof:geomhash":"8f50c6cfe07ac8fe570705fa41762b04",
+    "wof:geomhash":"35559794c867a6a36ab5979a6f1ca0cb",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209608911,
-    "wof:lastmodified":1536281913,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179124,
     "wof:name":"Tiro",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     110.29139,
-    -7.2911100000000015,
+    -7.29111,
     110.29139,
-    -7.2911100000000015
+    -7.29111
 ],
   "geometry": {"coordinates":[110.29139000000001,-7.29111],"type":"Point"}
 }

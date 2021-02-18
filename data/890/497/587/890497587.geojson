@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"115.177355,-8.1227915,115.177355,-8.1227915",
+    "geom:bbox":"115.177355,-8.122791,115.177355,-8.122791",
     "geom:latitude":-8.122791,
     "geom:longitude":115.177355,
     "gp:adm0":23424846,
@@ -27,8 +27,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672023,
-        102072781
+        102072781,
+        85672023
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,7 +37,7 @@
     },
     "wof:country":"ID",
     "wof:created":1469055137,
-    "wof:geomhash":"67f35865ebee0ba8f43250c598f38b10",
+    "wof:geomhash":"c5be288e351c31fbc849b07dcf8e73e2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":890497587,
-    "wof:lastmodified":1500046146,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613182605,
     "wof:name":"Jagaraga",
     "wof:parent_id":102072781,
     "wof:placetype":"locality",
@@ -59,9 +66,9 @@
 },
   "bbox": [
     115.177355,
-    -8.1227915,
+    -8.122791,
     115.177355,
-    -8.1227915
+    -8.122791
 ],
-  "geometry": {"coordinates":[115.17735500000001,-8.1227915],"type":"Point"}
+  "geometry": {"coordinates":[115.17735500000001,-8.122791],"type":"Point"}
 }

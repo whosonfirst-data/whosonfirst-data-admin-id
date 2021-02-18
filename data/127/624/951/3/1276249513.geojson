@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072947
+        102072947,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6406640
     },
     "wof:country":"ID",
-    "wof:geomhash":"29b3d36376a0fd065ab1f6c842b30a8a",
+    "wof:geomhash":"4b3fde0a7d20a050dae5a3fd6e2c3776",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,7 +54,14 @@
         }
     ],
     "wof:id":1276249513,
-    "wof:lastmodified":1564182719,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177927,
     "wof:name":"Kopek",
     "wof:parent_id":102072947,
     "wof:placetype":"locality",
@@ -64,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.02443999999998,
+    111.02444,
     -7.77722,
-    111.02443999999998,
+    111.02444,
     -7.77722
 ],
-  "geometry": {"coordinates":[111.02443999999998,-7.77722],"type":"Point"}
+  "geometry": {"coordinates":[111.02444,-7.77722],"type":"Point"}
 }

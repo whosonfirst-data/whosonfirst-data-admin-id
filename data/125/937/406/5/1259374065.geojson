@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072947
+        102072947,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6255464
     },
     "wof:country":"ID",
-    "wof:geomhash":"0f78233cd3ed51985bed415101921236",
+    "wof:geomhash":"ca2e6ce5854486015d8070b12edb6f58",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1259374065,
-    "wof:lastmodified":1537015144,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613184375,
     "wof:name":"Pagutan",
     "wof:parent_id":102072947,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.92806000000002,
+    110.92806,
     -7.88361,
-    110.92806000000002,
+    110.92806,
     -7.88361
 ],
-  "geometry": {"coordinates":[110.92806000000002,-7.88361],"type":"Point"}
+  "geometry": {"coordinates":[110.92806,-7.88361],"type":"Point"}
 }

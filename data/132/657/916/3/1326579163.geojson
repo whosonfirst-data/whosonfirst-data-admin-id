@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073411
+        102073411,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6598129
     },
     "wof:country":"ID",
-    "wof:geomhash":"4561b3b80d85215709223838ab326b2e",
+    "wof:geomhash":"05dfb2a84832d943c09bbd94e2361c9a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1326579163,
-    "wof:lastmodified":1537629916,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613172658,
     "wof:name":"Kampungsawah",
     "wof:parent_id":102073411,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.80861000000002,
+    106.80861,
     -6.62111,
-    106.80861000000002,
+    106.80861,
     -6.62111
 ],
-  "geometry": {"coordinates":[106.80861000000002,-6.62111],"type":"Point"}
+  "geometry": {"coordinates":[106.80861,-6.62111],"type":"Point"}
 }

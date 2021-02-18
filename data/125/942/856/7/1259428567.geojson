@@ -47,15 +47,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671995,
-        102072687
+        102072687,
+        85671995
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1986293
     },
     "wof:country":"ID",
-    "wof:geomhash":"8a59d5629e8057bb96d4df4e205a5e64",
+    "wof:geomhash":"09d80f4fffdc4c973d694a1901b3ba8b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -66,7 +66,14 @@
         }
     ],
     "wof:id":1259428567,
-    "wof:lastmodified":1564204110,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185069,
     "wof:name":"Lebak",
     "wof:parent_id":102072687,
     "wof:placetype":"locality",
@@ -76,10 +83,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.58693999999998,
+    106.58694,
     -6.14083,
-    106.58693999999998,
+    106.58694,
     -6.14083
 ],
-  "geometry": {"coordinates":[106.58693999999998,-6.14083],"type":"Point"}
+  "geometry": {"coordinates":[106.58694,-6.14083],"type":"Point"}
 }

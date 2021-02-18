@@ -37,7 +37,7 @@
         "gn:id":7666590
     },
     "wof:country":"ID",
-    "wof:geomhash":"783129f1a40cd6b868708e37dca1eb14",
+    "wof:geomhash":"54c8e5dea2172ec6b3e3a6bc4fda44fd",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -45,7 +45,14 @@
         }
     ],
     "wof:id":1209297073,
-    "wof:lastmodified":1537634218,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179271,
     "wof:name":"Pemanggilan",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -55,10 +62,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    105.21316000000002,
+    105.21316,
     -5.34386,
-    105.21316000000002,
+    105.21316,
     -5.34386
 ],
-  "geometry": {"coordinates":[105.21316000000002,-5.34386],"type":"Point"}
+  "geometry": {"coordinates":[105.21316,-5.34386],"type":"Point"}
 }

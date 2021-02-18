@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072611
+        102072611,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6411286
     },
     "wof:country":"ID",
-    "wof:geomhash":"86d52fcd4a744bd07ed1d3f64f25fe08",
+    "wof:geomhash":"57dff2c4d23ebcd9cc9996e5a42e49d7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1226236303,
-    "wof:lastmodified":1537629103,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613186153,
     "wof:name":"Samben",
     "wof:parent_id":102072611,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.88611000000002,
+    110.88611,
     -7.14972,
-    110.88611000000002,
+    110.88611,
     -7.14972
 ],
-  "geometry": {"coordinates":[110.88611000000002,-7.14972],"type":"Point"}
+  "geometry": {"coordinates":[110.88611,-7.14972],"type":"Point"}
 }

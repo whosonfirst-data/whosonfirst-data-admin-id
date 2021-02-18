@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072937
+        102072937,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6595657
     },
     "wof:country":"ID",
-    "wof:geomhash":"d0a712e88ffd9ade459e8e558a09d7b9",
+    "wof:geomhash":"c427f7eea30d64ecc861de9e2efc45b9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1327094647,
-    "wof:lastmodified":1537629822,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613172116,
     "wof:name":"Cermin Barat",
     "wof:parent_id":102072937,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.55138999999998,
+    107.55139,
     -6.20944,
-    107.55138999999998,
+    107.55139,
     -6.20944
 ],
-  "geometry": {"coordinates":[107.55138999999998,-6.20944],"type":"Point"}
+  "geometry": {"coordinates":[107.55139,-6.20944],"type":"Point"}
 }

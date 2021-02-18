@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072857
+        102072857,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6258900
     },
     "wof:country":"ID",
-    "wof:geomhash":"7a5ba574d98958a3a4cc65cb1f2c2d43",
+    "wof:geomhash":"6f203142d80a3fe886d5b1fd7a740e11",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1293775153,
-    "wof:lastmodified":1536868315,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175773,
     "wof:name":"Gowoktegal",
     "wof:parent_id":102072857,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.35611000000002,
+    110.35611,
     -7.54694,
-    110.35611000000002,
+    110.35611,
     -7.54694
 ],
-  "geometry": {"coordinates":[110.35611000000002,-7.54694],"type":"Point"}
+  "geometry": {"coordinates":[110.35611,-7.54694],"type":"Point"}
 }

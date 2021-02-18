@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102073013
+        102073013,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6387007
     },
     "wof:country":"ID",
-    "wof:geomhash":"314cbd8afde937ccbfd46afc1f2c1f0f",
+    "wof:geomhash":"2bc064ec3b5d0927cd325f3ed5f0f2a9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1260070239,
-    "wof:lastmodified":1537628625,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613180336,
     "wof:name":"Joho",
     "wof:parent_id":102073013,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.33138999999998,
+    111.33139,
     -8.24556,
-    111.33138999999998,
+    111.33139,
     -8.24556
 ],
-  "geometry": {"coordinates":[111.33138999999998,-8.24556],"type":"Point"}
+  "geometry": {"coordinates":[111.33139,-8.24556],"type":"Point"}
 }

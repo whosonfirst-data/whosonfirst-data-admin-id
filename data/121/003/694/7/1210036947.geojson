@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073233
+        102073233,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2009133
     },
     "wof:country":"ID",
-    "wof:geomhash":"32a670fcc807e6a0205b579b0be4deb2",
+    "wof:geomhash":"2ed518e9358d09cd72a0e901db801e85",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1210036947,
-    "wof:lastmodified":1536386069,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179686,
     "wof:name":"Gabahan Cilik",
     "wof:parent_id":102073233,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.71193999999998,
+    110.71194,
     -7.74583,
-    110.71193999999998,
+    110.71194,
     -7.74583
 ],
-  "geometry": {"coordinates":[110.71193999999998,-7.74583],"type":"Point"}
+  "geometry": {"coordinates":[110.71194,-7.74583],"type":"Point"}
 }

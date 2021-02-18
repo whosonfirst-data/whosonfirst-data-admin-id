@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073217
+        102073217,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6592653
     },
     "wof:country":"ID",
-    "wof:geomhash":"15641f33ad389ec4e6249a9dfd1434d8",
+    "wof:geomhash":"c86d98baaca60d86189b861ad7611d4f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1326575625,
-    "wof:lastmodified":1537629741,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613172652,
     "wof:name":"Gobang",
     "wof:parent_id":102073217,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.16861000000002,
+    107.16861,
     -6.61417,
-    107.16861000000002,
+    107.16861,
     -6.61417
 ],
-  "geometry": {"coordinates":[107.16861000000002,-6.61417],"type":"Point"}
+  "geometry": {"coordinates":[107.16861,-6.61417],"type":"Point"}
 }

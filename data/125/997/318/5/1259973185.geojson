@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073313
+        102073313,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2000425
     },
     "wof:country":"ID",
-    "wof:geomhash":"a29198ff1610ebd8db8e057094ef6c33",
+    "wof:geomhash":"d77a0b8b511b183df923cc10acfc911f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1259973185,
-    "wof:lastmodified":1536649735,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613184448,
     "wof:name":"Tobratan",
     "wof:parent_id":102073313,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.39943999999998,
+    110.39944,
     -7.86111,
-    110.39943999999998,
+    110.39944,
     -7.86111
 ],
-  "geometry": {"coordinates":[110.39943999999998,-7.86111],"type":"Point"}
+  "geometry": {"coordinates":[110.39944,-7.86111],"type":"Point"}
 }

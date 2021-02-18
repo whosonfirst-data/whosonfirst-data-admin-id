@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672037,
-        102073331
+        102073331,
+        85672037
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1947061
     },
     "wof:country":"ID",
-    "wof:geomhash":"538f8cb2d2ac94a38e0f23720a1afbf6",
+    "wof:geomhash":"0aecb69b563c44ab53a15a45df5bc529",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1243520191,
-    "wof:lastmodified":1536699600,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613182994,
     "wof:name":"Leomano",
     "wof:parent_id":102073331,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    123.93361000000002,
+    123.93361,
     -9.425,
-    123.93361000000002,
+    123.93361,
     -9.425
 ],
-  "geometry": {"coordinates":[123.93361000000002,-9.425],"type":"Point"}
+  "geometry": {"coordinates":[123.93361,-9.425],"type":"Point"}
 }

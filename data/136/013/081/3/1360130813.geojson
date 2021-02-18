@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073217
+        102073217,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6605334
     },
     "wof:country":"ID",
-    "wof:geomhash":"ef05815b0dcbfb673ef2c0a6b4e9e20b",
+    "wof:geomhash":"6238fbf050c7000b5802166842e67e6a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1360130813,
-    "wof:lastmodified":1537630069,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181786,
     "wof:name":"Manggis",
     "wof:parent_id":102073217,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.73888999999998,
+    106.73889,
     -6.57667,
-    106.73888999999998,
+    106.73889,
     -6.57667
 ],
-  "geometry": {"coordinates":[106.73888999999998,-6.57667],"type":"Point"}
+  "geometry": {"coordinates":[106.73889,-6.57667],"type":"Point"}
 }

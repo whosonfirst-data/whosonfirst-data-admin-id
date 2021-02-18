@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072857
+        102072857,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6259036
     },
     "wof:country":"ID",
-    "wof:geomhash":"e0be95c52c80205eefc05f4b311b87e5",
+    "wof:geomhash":"50eed376fe49415e716428da3275c279",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1277002375,
-    "wof:lastmodified":1536876148,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613176996,
     "wof:name":"Sempon",
     "wof:parent_id":102072857,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.33556000000002,
+    110.33556,
     -7.56278,
-    110.33556000000002,
+    110.33556,
     -7.56278
 ],
-  "geometry": {"coordinates":[110.33556000000002,-7.56278],"type":"Point"}
+  "geometry": {"coordinates":[110.33556,-7.56278],"type":"Point"}
 }

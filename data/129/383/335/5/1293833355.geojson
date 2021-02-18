@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072949
+        102072949,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1963971
     },
     "wof:country":"ID",
-    "wof:geomhash":"575ac00b51f727fa47fdc6d6ed024165",
+    "wof:geomhash":"e49b356c045535d339fe44314f3bfc70",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,7 +54,14 @@
         }
     ],
     "wof:id":1293833355,
-    "wof:lastmodified":1537627738,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175739,
     "wof:name":"Cikambuy Girang",
     "wof:parent_id":102072949,
     "wof:placetype":"locality",
@@ -64,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.56638999999998,
+    107.56639,
     -7.00361,
-    107.56638999999998,
+    107.56639,
     -7.00361
 ],
-  "geometry": {"coordinates":[107.56638999999998,-7.00361],"type":"Point"}
+  "geometry": {"coordinates":[107.56639,-7.00361],"type":"Point"}
 }

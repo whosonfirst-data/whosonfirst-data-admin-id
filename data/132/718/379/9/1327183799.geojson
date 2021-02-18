@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072739
+        102072739,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1642458
     },
     "wof:country":"ID",
-    "wof:geomhash":"db9ee9ae269dbd40b17180ed4ddb47dc",
+    "wof:geomhash":"243aca3030ca8ad2ec4fe34e09a74bc4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,7 +54,14 @@
         }
     ],
     "wof:id":1327183799,
-    "wof:lastmodified":1537627060,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613173615,
     "wof:name":"Jingkang",
     "wof:parent_id":102072739,
     "wof:placetype":"locality",
@@ -64,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.86388999999998,
+    107.86389,
     -6.71361,
-    107.86388999999998,
+    107.86389,
     -6.71361
 ],
-  "geometry": {"coordinates":[107.86388999999998,-6.71361],"type":"Point"}
+  "geometry": {"coordinates":[107.86389,-6.71361],"type":"Point"}
 }

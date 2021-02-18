@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073193
+        102073193,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6402555
     },
     "wof:country":"ID",
-    "wof:geomhash":"9e0667c3fd62a695f08cea9332302021",
+    "wof:geomhash":"e152106efde2d372c043188afc3e8733",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1243323785,
-    "wof:lastmodified":1537628870,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183607,
     "wof:name":"Karanguyah",
     "wof:parent_id":102073193,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.22556000000002,
+    108.22556,
     -6.33056,
-    108.22556000000002,
+    108.22556,
     -6.33056
 ],
-  "geometry": {"coordinates":[108.22556000000002,-6.33056],"type":"Point"}
+  "geometry": {"coordinates":[108.22556,-6.33056],"type":"Point"}
 }

@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072947
+        102072947,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6406555
     },
     "wof:country":"ID",
-    "wof:geomhash":"d0c0b7347c05e3eceb67438878ebcb4e",
+    "wof:geomhash":"08a2636b9b583e03ed8e235c50e7ab9a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1226741059,
-    "wof:lastmodified":1537628965,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185427,
     "wof:name":"Wonorejo",
     "wof:parent_id":102072947,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.01888999999998,
+    111.01889,
     -7.80667,
-    111.01888999999998,
+    111.01889,
     -7.80667
 ],
-  "geometry": {"coordinates":[111.01888999999998,-7.80667],"type":"Point"}
+  "geometry": {"coordinates":[111.01889,-7.80667],"type":"Point"}
 }

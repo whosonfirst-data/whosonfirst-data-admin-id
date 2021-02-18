@@ -34,7 +34,7 @@
         "gn:id":2006220
     },
     "wof:country":"ID",
-    "wof:geomhash":"a16e8a2d7fa164f47acd379fbabbbe9f",
+    "wof:geomhash":"da48d1429598783ea2717b013b005ef5",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209335149,
-    "wof:lastmodified":1536290247,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179233,
     "wof:name":"Tanggulangut",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     110.60778,
-    -7.638889999999999,
+    -7.63889,
     110.60778,
-    -7.638889999999999
+    -7.63889
 ],
   "geometry": {"coordinates":[110.60778000000001,-7.63889],"type":"Point"}
 }

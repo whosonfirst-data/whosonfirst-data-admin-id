@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073119
+        102073119,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6388124
     },
     "wof:country":"ID",
-    "wof:geomhash":"b933e9cc8699e9a84ebd8a742d590577",
+    "wof:geomhash":"7f81b8c167c289590c35b36a081368e4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1209937349,
-    "wof:lastmodified":1537628661,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179060,
     "wof:name":"Sindangwangi Baru",
     "wof:parent_id":102073119,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.91306000000002,
+    108.91306,
     -7.17639,
-    108.91306000000002,
+    108.91306,
     -7.17639
 ],
-  "geometry": {"coordinates":[108.91306000000002,-7.17639],"type":"Point"}
+  "geometry": {"coordinates":[108.91306,-7.17639],"type":"Point"}
 }

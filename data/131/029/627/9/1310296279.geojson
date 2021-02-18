@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072947
+        102072947,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6406534
     },
     "wof:country":"ID",
-    "wof:geomhash":"f5870176a96fc1ff2e7ce296763948f6",
+    "wof:geomhash":"4d21803c0a32f4250e5fd6375b9da14b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1310296279,
-    "wof:lastmodified":1537628964,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181310,
     "wof:name":"Karang Lor",
     "wof:parent_id":102072947,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.03943999999998,
+    111.03944,
     -7.81694,
-    111.03943999999998,
+    111.03944,
     -7.81694
 ],
-  "geometry": {"coordinates":[111.03943999999998,-7.81694],"type":"Point"}
+  "geometry": {"coordinates":[111.03944,-7.81694],"type":"Point"}
 }

@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102073013
+        102073013,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6387270
     },
     "wof:country":"ID",
-    "wof:geomhash":"c113c367a89dbc2392c2c0bc807ed27d",
+    "wof:geomhash":"570b9edc9af7e5fea79f9093b510b2ba",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1276640935,
-    "wof:lastmodified":1537628635,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178048,
     "wof:name":"Kalensono",
     "wof:parent_id":102073013,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.30306000000002,
+    111.30306,
     -8.17806,
-    111.30306000000002,
+    111.30306,
     -8.17806
 ],
-  "geometry": {"coordinates":[111.30306000000002,-8.17806],"type":"Point"}
+  "geometry": {"coordinates":[111.30306,-8.17806],"type":"Point"}
 }

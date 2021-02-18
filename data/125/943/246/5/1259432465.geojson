@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072949
+        102072949,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1985902
     },
     "wof:country":"ID",
-    "wof:geomhash":"0f69a91c8d0543d3d6ded438ed19638b",
+    "wof:geomhash":"963f478cc355d58d68b64164b7915bd5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1259432465,
-    "wof:lastmodified":1536933039,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185131,
     "wof:name":"Tawangsari",
     "wof:parent_id":102072949,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.70638999999998,
+    107.70639,
     -7.0225,
-    107.70638999999998,
+    107.70639,
     -7.0225
 ],
-  "geometry": {"coordinates":[107.70638999999998,-7.0225],"type":"Point"}
+  "geometry": {"coordinates":[107.70639,-7.0225],"type":"Point"}
 }

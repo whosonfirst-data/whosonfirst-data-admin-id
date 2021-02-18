@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073083
+        102073083,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1959671
     },
     "wof:country":"ID",
-    "wof:geomhash":"299bd4a0d3b352177a3b576a26feb6f2",
+    "wof:geomhash":"bba96ab78200db7124299ce1d01fda8a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,7 +54,14 @@
         }
     ],
     "wof:id":1276937013,
-    "wof:lastmodified":1537627516,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177449,
     "wof:name":"Cikumpa Dua",
     "wof:parent_id":102073083,
     "wof:placetype":"locality",
@@ -64,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.83138999999998,
+    106.83139,
     -6.4125,
-    106.83138999999998,
+    106.83139,
     -6.4125
 ],
-  "geometry": {"coordinates":[106.83138999999998,-6.4125],"type":"Point"}
+  "geometry": {"coordinates":[106.83139,-6.4125],"type":"Point"}
 }

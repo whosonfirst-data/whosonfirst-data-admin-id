@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072715
+        102072715,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6375486
     },
     "wof:country":"ID",
-    "wof:geomhash":"9720d307da723198420b47af030e4431",
+    "wof:geomhash":"a6df5c2d97df2b99ed2962c25c6987ef",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1226163463,
-    "wof:lastmodified":1537628438,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185532,
     "wof:name":"Nusamangir",
     "wof:parent_id":102072715,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.30306000000002,
+    109.30306,
     -7.61778,
-    109.30306000000002,
+    109.30306,
     -7.61778
 ],
-  "geometry": {"coordinates":[109.30306000000002,-7.61778],"type":"Point"}
+  "geometry": {"coordinates":[109.30306,-7.61778],"type":"Point"}
 }

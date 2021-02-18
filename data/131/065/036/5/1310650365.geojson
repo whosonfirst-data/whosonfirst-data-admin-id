@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072937
+        102072937,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6607208
     },
     "wof:country":"ID",
-    "wof:geomhash":"22a226baa1f52b149bb3f33d12892395",
+    "wof:geomhash":"0e2454616ee85117915bb1f179a96e4a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1310650365,
-    "wof:lastmodified":1537630138,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613180905,
     "wof:name":"Kawista",
     "wof:parent_id":102072937,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.38443999999998,
+    107.38444,
     -6.24778,
-    107.38443999999998,
+    107.38444,
     -6.24778
 ],
-  "geometry": {"coordinates":[107.38443999999998,-6.24778],"type":"Point"}
+  "geometry": {"coordinates":[107.38444,-6.24778],"type":"Point"}
 }

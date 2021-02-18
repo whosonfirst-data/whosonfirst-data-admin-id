@@ -34,8 +34,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671977,
         102072637,
+        85671977,
         1108805993
     ],
     "wof:breaches":[],
@@ -43,7 +43,7 @@
         "gn:id":1632928
     },
     "wof:country":"ID",
-    "wof:geomhash":"4817c176e6546abf107a27a74bfa0234",
+    "wof:geomhash":"e14ff4de546a58b77372950bfaf5f92e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -61,7 +61,14 @@
         }
     ],
     "wof:id":1259418291,
-    "wof:lastmodified":1537626760,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613184616,
     "wof:name":"Pamusian",
     "wof:parent_id":102072637,
     "wof:placetype":"locality",
@@ -71,10 +78,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    117.62118999999998,
+    117.62119,
     3.31111,
-    117.62118999999998,
+    117.62119,
     3.31111
 ],
-  "geometry": {"coordinates":[117.62118999999998,3.31111],"type":"Point"}
+  "geometry": {"coordinates":[117.62119,3.31111],"type":"Point"}
 }

@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072733
+        102072733,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1935346
     },
     "wof:country":"ID",
-    "wof:geomhash":"17d05994a12f61dd0524d083f80b3ebd",
+    "wof:geomhash":"bf64e0f705ac67bc15d7d23264004aed",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1193157841,
-    "wof:lastmodified":1536371327,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179867,
     "wof:name":"Kaling",
     "wof:parent_id":102072733,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.92806000000002,
+    110.92806,
     -7.54833,
-    110.92806000000002,
+    110.92806,
     -7.54833
 ],
-  "geometry": {"coordinates":[110.92806000000002,-7.54833],"type":"Point"}
+  "geometry": {"coordinates":[110.92806,-7.54833],"type":"Point"}
 }

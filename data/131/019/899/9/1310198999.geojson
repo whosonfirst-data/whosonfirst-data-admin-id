@@ -122,15 +122,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072639
+        102072639,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6386213
     },
     "wof:country":"ID",
-    "wof:geomhash":"03239f6b3f6241eed56d025c8fc434d4",
+    "wof:geomhash":"16029f0816b1dd942a6a1d772ead2735",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -141,7 +141,14 @@
         }
     ],
     "wof:id":1310198999,
-    "wof:lastmodified":1564193365,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181434,
     "wof:name":"Sambir",
     "wof:parent_id":102072639,
     "wof:placetype":"locality",
@@ -151,10 +158,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.58556000000002,
+    109.58556,
     -7.68806,
-    109.58556000000002,
+    109.58556,
     -7.68806
 ],
-  "geometry": {"coordinates":[109.58556000000002,-7.68806],"type":"Point"}
+  "geometry": {"coordinates":[109.58556,-7.68806],"type":"Point"}
 }

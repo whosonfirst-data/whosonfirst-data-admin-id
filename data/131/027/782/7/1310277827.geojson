@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672009,
-        1108796809
+        1108796809,
+        85672009
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7665716
     },
     "wof:country":"ID",
-    "wof:geomhash":"c6ea66f563b208fa6f23c54df6502f3d",
+    "wof:geomhash":"e5deb155ed1ff7338e16099305e686a2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1310277827,
-    "wof:lastmodified":1537634189,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181263,
     "wof:name":"Ulakronggong",
     "wof:parent_id":1108796809,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    105.70246000000002,
+    105.70246,
     -5.77663,
-    105.70246000000002,
+    105.70246,
     -5.77663
 ],
-  "geometry": {"coordinates":[105.70246000000002,-5.77663],"type":"Point"}
+  "geometry": {"coordinates":[105.70246,-5.77663],"type":"Point"}
 }

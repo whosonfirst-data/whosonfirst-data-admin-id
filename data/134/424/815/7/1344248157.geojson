@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073169
+        102073169,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6563738
     },
     "wof:country":"ID",
-    "wof:geomhash":"f5ed0afff867501641579041be5afac8",
+    "wof:geomhash":"76f9a7fb07d8173176ab6798e150ea57",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1344248157,
-    "wof:lastmodified":1537629218,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613174233,
     "wof:name":"Karodan",
     "wof:parent_id":102073169,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.20638999999998,
+    110.20639,
     -7.24194,
-    110.20638999999998,
+    110.20639,
     -7.24194
 ],
-  "geometry": {"coordinates":[110.20638999999998,-7.24194],"type":"Point"}
+  "geometry": {"coordinates":[110.20639,-7.24194],"type":"Point"}
 }

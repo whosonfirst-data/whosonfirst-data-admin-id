@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102073013
+        102073013,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6384099
     },
     "wof:country":"ID",
-    "wof:geomhash":"a395ff29bec0490f8c46c5186c1f7ae3",
+    "wof:geomhash":"e02ae2bd1a74c1e1b77f46df8c641a1d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1326715385,
-    "wof:lastmodified":1537628571,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613173051,
     "wof:name":"Betulo",
     "wof:parent_id":102073013,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.08556000000002,
+    111.08556,
     -8.19667,
-    111.08556000000002,
+    111.08556,
     -8.19667
 ],
-  "geometry": {"coordinates":[111.08556000000002,-8.19667],"type":"Point"}
+  "geometry": {"coordinates":[111.08556,-8.19667],"type":"Point"}
 }

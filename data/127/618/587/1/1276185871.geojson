@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672085,
-        102072885
+        102072885,
+        85672085
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1638015
     },
     "wof:country":"ID",
-    "wof:geomhash":"c0455580cb5d2ec9637c7f240c9f222a",
+    "wof:geomhash":"513b6775c2b6a042e43fbe9b1c43b255",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1276185871,
-    "wof:lastmodified":1537626922,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177294,
     "wof:name":"Lemolemo",
     "wof:parent_id":102072885,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    128.00271999999998,
+    128.00272,
     -0.66194,
-    128.00271999999998,
+    128.00272,
     -0.66194
 ],
-  "geometry": {"coordinates":[128.00271999999998,-0.66194],"type":"Point"}
+  "geometry": {"coordinates":[128.00272000000001,-0.66194],"type":"Point"}
 }

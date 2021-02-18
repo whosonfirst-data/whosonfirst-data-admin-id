@@ -37,15 +37,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672115,
-        102072955
+        102072955,
+        85672115
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1634359
     },
     "wof:country":"ID",
-    "wof:geomhash":"9be1d733d6fa5a26aae920e56bf7b78c",
+    "wof:geomhash":"0d60254e274e72ce1d476f1b6ec16b1e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -56,7 +56,14 @@
         }
     ],
     "wof:id":1226765891,
-    "wof:lastmodified":1537626805,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613186035,
     "wof:name":"Napan-yaur",
     "wof:parent_id":102072955,
     "wof:placetype":"locality",
@@ -66,10 +73,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    134.83333000000002,
+    134.83333,
     -2.91667,
-    134.83333000000002,
+    134.83333,
     -2.91667
 ],
-  "geometry": {"coordinates":[134.83333000000002,-2.91667],"type":"Point"}
+  "geometry": {"coordinates":[134.83332999999999,-2.91667],"type":"Point"}
 }

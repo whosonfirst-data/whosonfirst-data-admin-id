@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073471
+        102073471,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6584610
     },
     "wof:country":"ID",
-    "wof:geomhash":"1bd5ab8f9dbdbaea33786ab70d080df9",
+    "wof:geomhash":"218f96eb1cb65bd9394a4cf865f463e9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1293833753,
-    "wof:lastmodified":1537629565,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175746,
     "wof:name":"Kampungcoklat",
     "wof:parent_id":102073471,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.38611000000002,
+    107.38611,
     -6.645,
-    107.38611000000002,
+    107.38611,
     -6.645
 ],
-  "geometry": {"coordinates":[107.38611000000002,-6.645],"type":"Point"}
+  "geometry": {"coordinates":[107.38611,-6.645],"type":"Point"}
 }

@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073189
+        102073189,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6564877
     },
     "wof:country":"ID",
-    "wof:geomhash":"3c1b6b8f5ed17f2d751d164636e9d1af",
+    "wof:geomhash":"857095a7d22b54b20029fd2b2653e8eb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1344046021,
-    "wof:lastmodified":1537629245,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175047,
     "wof:name":"Trengguli",
     "wof:parent_id":102073189,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.57193999999998,
+    110.57194,
     -8.09194,
-    110.57193999999998,
+    110.57194,
     -8.09194
 ],
-  "geometry": {"coordinates":[110.57193999999998,-8.09194],"type":"Point"}
+  "geometry": {"coordinates":[110.57194,-8.09194],"type":"Point"}
 }

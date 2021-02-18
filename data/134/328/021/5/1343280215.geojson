@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672097,
-        1108796843
+        1108796843,
+        85672097
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1626824
     },
     "wof:country":"ID",
-    "wof:geomhash":"c6f2fa2f40ad62a81c6ca9ba9bfeec27",
+    "wof:geomhash":"d27f1b0c729ddb6d2b1f047d21958730",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1343280215,
-    "wof:lastmodified":1537005664,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175192,
     "wof:name":"Sisi",
     "wof:parent_id":1108796843,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    131.31228000000002,
+    131.31228,
     -4.08576,
-    131.31228000000002,
+    131.31228,
     -4.08576
 ],
-  "geometry": {"coordinates":[131.31228000000002,-4.08576],"type":"Point"}
+  "geometry": {"coordinates":[131.31227999999999,-4.08576],"type":"Point"}
 }

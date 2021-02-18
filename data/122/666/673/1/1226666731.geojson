@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072809
+        102072809,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6563060
     },
     "wof:country":"ID",
-    "wof:geomhash":"d9be66dd602e05395ebcaf5f5f70cd04",
+    "wof:geomhash":"26861ee317b698943e62bac20669cd9e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1226666731,
-    "wof:lastmodified":1537629200,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185765,
     "wof:name":"Sumenet",
     "wof:parent_id":102072809,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.99611000000002,
+    109.99611,
     -7.1475,
-    109.99611000000002,
+    109.99611,
     -7.1475
 ],
-  "geometry": {"coordinates":[109.99611000000002,-7.1475],"type":"Point"}
+  "geometry": {"coordinates":[109.99611,-7.1475],"type":"Point"}
 }

@@ -59,15 +59,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072639
+        102072639,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6371843
     },
     "wof:country":"ID",
-    "wof:geomhash":"31ea372c723174bd59b97b7750c2c71f",
+    "wof:geomhash":"0859d7b2631c9d38026485129e9ac9ff",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +78,14 @@
         }
     ],
     "wof:id":1293194425,
-    "wof:lastmodified":1564179597,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613176800,
     "wof:name":"Jati",
     "wof:parent_id":102072639,
     "wof:placetype":"locality",
@@ -88,10 +95,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.51111000000002,
+    109.51111,
     -7.7575,
-    109.51111000000002,
+    109.51111,
     -7.7575
 ],
-  "geometry": {"coordinates":[109.51111000000002,-7.7575],"type":"Point"}
+  "geometry": {"coordinates":[109.51111,-7.7575],"type":"Point"}
 }

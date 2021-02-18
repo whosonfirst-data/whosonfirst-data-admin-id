@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073169
+        102073169,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6563304
     },
     "wof:country":"ID",
-    "wof:geomhash":"4962a30af42691c44977158874c57465",
+    "wof:geomhash":"b52fa6894a6a5dfeb425b6b83f76412d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1242865383,
-    "wof:lastmodified":1537629205,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183086,
     "wof:name":"Ngrimpak",
     "wof:parent_id":102073169,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.03943999999998,
+    110.03944,
     -7.15528,
-    110.03943999999998,
+    110.03944,
     -7.15528
 ],
-  "geometry": {"coordinates":[110.03943999999998,-7.15528],"type":"Point"}
+  "geometry": {"coordinates":[110.03944,-7.15528],"type":"Point"}
 }

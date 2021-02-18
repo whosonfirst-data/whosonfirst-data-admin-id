@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073449
+        102073449,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6593464
     },
     "wof:country":"ID",
-    "wof:geomhash":"447329741e7cf43f2617b2538aedd09e",
+    "wof:geomhash":"2f4ab7fe2b60d4544034dcf2c069574f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1242820225,
-    "wof:lastmodified":1537629767,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183871,
     "wof:name":"Babakanleunca",
     "wof:parent_id":102073449,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.70638999999998,
+    107.70639,
     -6.95333,
-    107.70638999999998,
+    107.70639,
     -6.95333
 ],
-  "geometry": {"coordinates":[107.70638999999998,-6.95333],"type":"Point"}
+  "geometry": {"coordinates":[107.70639,-6.95333],"type":"Point"}
 }

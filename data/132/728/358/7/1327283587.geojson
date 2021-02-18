@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        1108796793
+        1108796793,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6588905
     },
     "wof:country":"ID",
-    "wof:geomhash":"5b5b1b1691416c8248c9b236b1c6635c",
+    "wof:geomhash":"d1b5528b298f6438053d37227fbb9a55",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1327283587,
-    "wof:lastmodified":1537629628,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613173466,
     "wof:name":"Ciodeng Satu",
     "wof:parent_id":1108796793,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.23888999999998,
+    107.23889,
     -6.99083,
-    107.23888999999998,
+    107.23889,
     -6.99083
 ],
-  "geometry": {"coordinates":[107.23888999999998,-6.99083],"type":"Point"}
+  "geometry": {"coordinates":[107.23889,-6.99083],"type":"Point"}
 }

@@ -34,7 +34,7 @@
         "gn:id":1986700
     },
     "wof:country":"ID",
-    "wof:geomhash":"f837a1b1eb00f062e6d239b3c9392a07",
+    "wof:geomhash":"79932a8932e560fc6cc7146b527871b9",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209561245,
-    "wof:lastmodified":1536283384,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179156,
     "wof:name":"Kampungbulak",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -52,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.85056000000002,
-    -6.450830000000002,
-    106.85056000000002,
-    -6.450830000000002
+    106.85056,
+    -6.45083,
+    106.85056,
+    -6.45083
 ],
-  "geometry": {"coordinates":[106.85056000000002,-6.45083],"type":"Point"}
+  "geometry": {"coordinates":[106.85056,-6.45083],"type":"Point"}
 }

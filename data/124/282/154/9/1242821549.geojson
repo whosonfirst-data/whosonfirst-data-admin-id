@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672097,
-        1108796843
+        1108796843,
+        85672097
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1901857
     },
     "wof:country":"ID",
-    "wof:geomhash":"ec8aeadd5fff9a6e6d8120b791ee42c1",
+    "wof:geomhash":"f7ac758036f342cc771840fe0d7489f3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1242821549,
-    "wof:lastmodified":1536712628,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183880,
     "wof:name":"Silohan",
     "wof:parent_id":1108796843,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    130.41443999999998,
+    130.41444,
     -3.0275,
-    130.41443999999998,
+    130.41444,
     -3.0275
 ],
-  "geometry": {"coordinates":[130.41443999999998,-3.0275],"type":"Point"}
+  "geometry": {"coordinates":[130.41444000000001,-3.0275],"type":"Point"}
 }

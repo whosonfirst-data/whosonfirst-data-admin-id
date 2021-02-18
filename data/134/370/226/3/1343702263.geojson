@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672019,
-        102073367
+        102073367,
+        85672019
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8529401
     },
     "wof:country":"ID",
-    "wof:geomhash":"afeda3d4e848abcd4e28901d7ff494a6",
+    "wof:geomhash":"33f87134ba046afeff1795b06ba395de",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1343702263,
-    "wof:lastmodified":1537636325,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613174395,
     "wof:name":"Pelawan",
     "wof:parent_id":102073367,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    105.58601000000002,
+    105.58601,
     -1.58049,
-    105.58601000000002,
+    105.58601,
     -1.58049
 ],
-  "geometry": {"coordinates":[105.58601000000002,-1.58049],"type":"Point"}
+  "geometry": {"coordinates":[105.58601,-1.58049],"type":"Point"}
 }

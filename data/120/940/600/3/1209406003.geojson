@@ -67,7 +67,7 @@
         "gn:id":6381381
     },
     "wof:country":"ID",
-    "wof:geomhash":"e5bec2dc8b75986cb49f0fdb67be0fb2",
+    "wof:geomhash":"9f6f3800a26d15b091efe46f44bd7a4e",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -75,7 +75,14 @@
         }
     ],
     "wof:id":1209406003,
-    "wof:lastmodified":1564185226,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178776,
     "wof:name":"Laban",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -85,10 +92,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.74611000000002,
+    109.74611,
     -7.37333,
-    109.74611000000002,
+    109.74611,
     -7.37333
 ],
-  "geometry": {"coordinates":[109.74611000000002,-7.37333],"type":"Point"}
+  "geometry": {"coordinates":[109.74611,-7.37333],"type":"Point"}
 }

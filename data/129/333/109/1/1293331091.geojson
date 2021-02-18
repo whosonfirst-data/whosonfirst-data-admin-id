@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672019,
-        102073043
+        102073043,
+        85672019
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1626599
     },
     "wof:country":"ID",
-    "wof:geomhash":"e17279c058591ce8377d7e3c5f8e4356",
+    "wof:geomhash":"280f31e8a8872062685565cae1f372d8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1293331091,
-    "wof:lastmodified":1537626581,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613176372,
     "wof:name":"Songhin",
     "wof:parent_id":102073043,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.11263999999998,
+    106.11264,
     -1.98627,
-    106.11263999999998,
+    106.11264,
     -1.98627
 ],
-  "geometry": {"coordinates":[106.11263999999998,-1.98627],"type":"Point"}
+  "geometry": {"coordinates":[106.11264,-1.98627],"type":"Point"}
 }

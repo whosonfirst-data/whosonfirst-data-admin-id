@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072715
+        102072715,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6387605
     },
     "wof:country":"ID",
-    "wof:geomhash":"59ebbe5a388f05ede0c12dd36cde53a4",
+    "wof:geomhash":"177b7022ab57df96835578358e145e7b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1226136931,
-    "wof:lastmodified":1537628646,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185991,
     "wof:name":"Cogrek",
     "wof:parent_id":102072715,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.99611000000002,
+    108.99611,
     -7.40556,
-    108.99611000000002,
+    108.99611,
     -7.40556
 ],
-  "geometry": {"coordinates":[108.99611000000002,-7.40556],"type":"Point"}
+  "geometry": {"coordinates":[108.99611,-7.40556],"type":"Point"}
 }

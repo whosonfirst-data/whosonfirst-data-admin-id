@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072857
+        102072857,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6258853
     },
     "wof:country":"ID",
-    "wof:geomhash":"00d06ab4a04ba2373a3611859fff8a5e",
+    "wof:geomhash":"263971ef49284d0d965a9e85f8fdcd24",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1276142853,
-    "wof:lastmodified":1537032561,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177775,
     "wof:name":"Glagahombo",
     "wof:parent_id":102072857,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.29361000000002,
+    110.29361,
     -7.54111,
-    110.29361000000002,
+    110.29361,
     -7.54111
 ],
-  "geometry": {"coordinates":[110.29361000000002,-7.54111],"type":"Point"}
+  "geometry": {"coordinates":[110.29361,-7.54111],"type":"Point"}
 }

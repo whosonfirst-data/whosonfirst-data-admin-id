@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072947
+        102072947,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6407007
     },
     "wof:country":"ID",
-    "wof:geomhash":"abb211092ea9953951e06a1402d2639c",
+    "wof:geomhash":"3e839e463ed5d0c6fbd6ff6fd17b5e05",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1343852045,
-    "wof:lastmodified":1537628975,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613174461,
     "wof:name":"Sokoboyo",
     "wof:parent_id":102072947,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.18361000000002,
+    111.18361,
     -7.77778,
-    111.18361000000002,
+    111.18361,
     -7.77778
 ],
-  "geometry": {"coordinates":[111.18361000000002,-7.77778],"type":"Point"}
+  "geometry": {"coordinates":[111.18361,-7.77778],"type":"Point"}
 }

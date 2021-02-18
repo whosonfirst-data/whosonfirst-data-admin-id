@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073187
+        102073187,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6565354
     },
     "wof:country":"ID",
-    "wof:geomhash":"5aa5b3a387cdc59e8a4c0809a578233a",
+    "wof:geomhash":"50ead73e08b6d99becea6f415d6a9071",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1225835853,
-    "wof:lastmodified":1537629258,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613186625,
     "wof:name":"Salam Wetan",
     "wof:parent_id":102073187,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.99611000000002,
+    109.99611,
     -7.81583,
-    109.99611000000002,
+    109.99611,
     -7.81583
 ],
-  "geometry": {"coordinates":[109.99611000000002,-7.81583],"type":"Point"}
+  "geometry": {"coordinates":[109.99611,-7.81583],"type":"Point"}
 }

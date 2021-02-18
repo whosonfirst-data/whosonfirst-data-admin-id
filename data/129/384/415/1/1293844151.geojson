@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073529
+        102073529,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6590157
     },
     "wof:country":"ID",
-    "wof:geomhash":"cfea8b92f3a7a97fb946acf2a21a1d8f",
+    "wof:geomhash":"2a3d1a0e3f6a011aa6216c85b909c1ad",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1293844151,
-    "wof:lastmodified":1537629666,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175823,
     "wof:name":"Bangbayang",
     "wof:parent_id":102073529,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.14388999999998,
+    107.14389,
     -6.70056,
-    107.14388999999998,
+    107.14389,
     -6.70056
 ],
-  "geometry": {"coordinates":[107.14388999999998,-6.70056],"type":"Point"}
+  "geometry": {"coordinates":[107.14389,-6.70056],"type":"Point"}
 }

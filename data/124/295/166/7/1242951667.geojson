@@ -50,15 +50,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073189
+        102073189,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1999415
     },
     "wof:country":"ID",
-    "wof:geomhash":"395fa57e55cecc740600281069e5ecbd",
+    "wof:geomhash":"3075b16f2be923598639943b73eff2e5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -69,7 +69,14 @@
         }
     ],
     "wof:id":1242951667,
-    "wof:lastmodified":1564198640,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183224,
     "wof:name":"Suru",
     "wof:parent_id":102073189,
     "wof:placetype":"locality",
@@ -79,10 +86,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.58138999999998,
+    110.58139,
     -7.82722,
-    110.58138999999998,
+    110.58139,
     -7.82722
 ],
-  "geometry": {"coordinates":[110.58138999999998,-7.82722],"type":"Point"}
+  "geometry": {"coordinates":[110.58139,-7.82722],"type":"Point"}
 }

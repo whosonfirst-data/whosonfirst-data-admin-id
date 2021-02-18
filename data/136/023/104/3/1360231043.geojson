@@ -34,15 +34,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073551
+        102073551,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1964556
     },
     "wof:country":"ID",
-    "wof:geomhash":"d22b423a3dbb119acf2ae32d9de8a7b7",
+    "wof:geomhash":"e55bfe29af494635ae7293b826922a1f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +53,14 @@
         }
     ],
     "wof:id":1360231043,
-    "wof:lastmodified":1537627767,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181724,
     "wof:name":"Kayuapu",
     "wof:parent_id":102073551,
     "wof:placetype":"locality",
@@ -63,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.24611000000002,
+    107.24611,
     -6.24944,
-    107.24611000000002,
+    107.24611,
     -6.24944
 ],
-  "geometry": {"coordinates":[107.24611000000002,-6.24944],"type":"Point"}
+  "geometry": {"coordinates":[107.24611,-6.24944],"type":"Point"}
 }

@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072937
+        102072937,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6593782
     },
     "wof:country":"ID",
-    "wof:geomhash":"1074ea3d1c31196683ba21634aa49cde",
+    "wof:geomhash":"5d052e3ecb093a92e2220e76e3d8a1d9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1326579207,
-    "wof:lastmodified":1537629777,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613172659,
     "wof:name":"Rancapaku",
     "wof:parent_id":102072937,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.22556000000002,
+    107.22556,
     -6.31417,
-    107.22556000000002,
+    107.22556,
     -6.31417
 ],
-  "geometry": {"coordinates":[107.22556000000002,-6.31417],"type":"Point"}
+  "geometry": {"coordinates":[107.22556,-6.31417],"type":"Point"}
 }

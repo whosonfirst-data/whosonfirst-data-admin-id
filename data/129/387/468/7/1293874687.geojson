@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073117
+        102073117,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6389008
     },
     "wof:country":"ID",
-    "wof:geomhash":"4be2c4a0730862aeeb6d9045438a50f0",
+    "wof:geomhash":"5e3cd001d55119edb5ac4c717842f233",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1293874687,
-    "wof:lastmodified":1537628686,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613176686,
     "wof:name":"Pamujan",
     "wof:parent_id":102073117,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.24611000000002,
+    109.24611,
     -7.46194,
-    109.24611000000002,
+    109.24611,
     -7.46194
 ],
-  "geometry": {"coordinates":[109.24611000000002,-7.46194],"type":"Point"}
+  "geometry": {"coordinates":[109.24611,-7.46194],"type":"Point"}
 }

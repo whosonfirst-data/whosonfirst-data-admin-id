@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072819
+        102072819,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6384482
     },
     "wof:country":"ID",
-    "wof:geomhash":"13a879b1497add4c7fec544e6329dc31",
+    "wof:geomhash":"24a3b9aaad7c2346ce5aad0d9f403d39",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1209907477,
-    "wof:lastmodified":1537628579,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178562,
     "wof:name":"Citepus",
     "wof:parent_id":102072819,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.99611000000002,
+    108.99611,
     -7.54639,
-    108.99611000000002,
+    108.99611,
     -7.54639
 ],
-  "geometry": {"coordinates":[108.99611000000002,-7.54639],"type":"Point"}
+  "geometry": {"coordinates":[108.99611,-7.54639],"type":"Point"}
 }

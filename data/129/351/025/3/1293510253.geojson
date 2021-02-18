@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072929
+        102072929,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6262903
     },
     "wof:country":"ID",
-    "wof:geomhash":"8f432d018ce4e44a66e0c093ebf86c1f",
+    "wof:geomhash":"b08515a226b53b7924bf564f29f8b338",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1293510253,
-    "wof:lastmodified":1536754293,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613176240,
     "wof:name":"Bulak",
     "wof:parent_id":102072929,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.82361000000002,
+    110.82361,
     -7.42,
-    110.82361000000002,
+    110.82361,
     -7.42
 ],
-  "geometry": {"coordinates":[110.82361000000002,-7.42],"type":"Point"}
+  "geometry": {"coordinates":[110.82361,-7.42],"type":"Point"}
 }

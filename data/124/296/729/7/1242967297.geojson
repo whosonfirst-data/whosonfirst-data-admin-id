@@ -36,15 +36,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072809
+        102072809,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1962844
     },
     "wof:country":"ID",
-    "wof:geomhash":"9c62e937248d4b1937d4cd8cf588e0b3",
+    "wof:geomhash":"ee964d7466cdc39adcd317166cd22aa1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -55,7 +55,14 @@
         }
     ],
     "wof:id":1242967297,
-    "wof:lastmodified":1537627680,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183970,
     "wof:name":"Kebontaman",
     "wof:parent_id":102072809,
     "wof:placetype":"locality",
@@ -65,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.30306000000002,
+    110.30306,
     -7.12806,
-    110.30306000000002,
+    110.30306,
     -7.12806
 ],
-  "geometry": {"coordinates":[110.30306000000002,-7.12806],"type":"Point"}
+  "geometry": {"coordinates":[110.30306,-7.12806],"type":"Point"}
 }

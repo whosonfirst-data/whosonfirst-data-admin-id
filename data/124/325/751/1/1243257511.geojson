@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073189
+        102073189,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6564572
     },
     "wof:country":"ID",
-    "wof:geomhash":"0f87f68d0bbe6d7e71e1b66638da6254",
+    "wof:geomhash":"a6df79cca983cabf7818cc53a9e04592",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1243257511,
-    "wof:lastmodified":1537629235,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183510,
     "wof:name":"Pringwulung",
     "wof:parent_id":102073189,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.48111000000002,
+    110.48111,
     -8.06778,
-    110.48111000000002,
+    110.48111,
     -8.06778
 ],
-  "geometry": {"coordinates":[110.48111000000002,-8.06778],"type":"Point"}
+  "geometry": {"coordinates":[110.48111,-8.06778],"type":"Point"}
 }

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"115.348205,-8.5809275,115.348205,-8.5809275",
+    "geom:bbox":"115.348205,-8.580927,115.348205,-8.580927",
     "geom:latitude":-8.580927,
     "geom:longitude":115.348205,
     "gp:adm0":23424846,
@@ -27,8 +27,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672023,
-        102073127
+        102073127,
+        85672023
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,7 +37,7 @@
     },
     "wof:country":"ID",
     "wof:created":1469055011,
-    "wof:geomhash":"7809ca98d0fde38c40b487373d6d05b5",
+    "wof:geomhash":"7859e4bace62375e66014b6b93a80e68",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":890494989,
-    "wof:lastmodified":1500046139,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613182749,
     "wof:name":"Temesi",
     "wof:parent_id":102073127,
     "wof:placetype":"locality",
@@ -59,9 +66,9 @@
 },
   "bbox": [
     115.348205,
-    -8.5809275,
+    -8.580927,
     115.348205,
-    -8.5809275
+    -8.580927
 ],
-  "geometry": {"coordinates":[115.34820499999999,-8.5809275],"type":"Point"}
+  "geometry": {"coordinates":[115.34820499999999,-8.580927],"type":"Point"}
 }

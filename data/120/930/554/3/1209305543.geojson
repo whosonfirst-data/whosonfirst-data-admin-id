@@ -34,7 +34,7 @@
         "gn:id":6255570
     },
     "wof:country":"ID",
-    "wof:geomhash":"7d53c4b0c793e713394048b199e14269",
+    "wof:geomhash":"11db247fe9dea6efb76679144308b2c1",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209305543,
-    "wof:lastmodified":1536291208,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178485,
     "wof:name":"Ngancar",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     110.99722,
-    -7.964169999999998,
+    -7.96417,
     110.99722,
-    -7.964169999999998
+    -7.96417
 ],
   "geometry": {"coordinates":[110.99722,-7.96417],"type":"Point"}
 }

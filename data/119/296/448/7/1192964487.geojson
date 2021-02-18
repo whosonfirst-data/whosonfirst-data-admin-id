@@ -36,15 +36,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073449
+        102073449,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1963481
     },
     "wof:country":"ID",
-    "wof:geomhash":"d515a350b8e18046a5f6cde2b75f6aaf",
+    "wof:geomhash":"07445ac084f387e53ffdf6963108ad16",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -55,7 +55,14 @@
         }
     ],
     "wof:id":1192964487,
-    "wof:lastmodified":1537627714,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613180010,
     "wof:name":"Cicukang Kidul",
     "wof:parent_id":102073449,
     "wof:placetype":"locality",
@@ -65,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.68361000000002,
+    107.68361,
     -6.91639,
-    107.68361000000002,
+    107.68361,
     -6.91639
 ],
-  "geometry": {"coordinates":[107.68361000000002,-6.91639],"type":"Point"}
+  "geometry": {"coordinates":[107.68361,-6.91639],"type":"Point"}
 }

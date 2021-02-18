@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072937
+        102072937,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6592414
     },
     "wof:country":"ID",
-    "wof:geomhash":"56cff75b385e03dfe7674c18edec29e1",
+    "wof:geomhash":"999186e8f6042632aea1e43c97db6b0f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1243309739,
-    "wof:lastmodified":1537629733,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613182919,
     "wof:name":"Tegalkopi Kidul",
     "wof:parent_id":102072937,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.19693999999998,
+    107.19694,
     -6.505,
-    107.19693999999998,
+    107.19694,
     -6.505
 ],
-  "geometry": {"coordinates":[107.19693999999998,-6.505],"type":"Point"}
+  "geometry": {"coordinates":[107.19694,-6.505],"type":"Point"}
 }

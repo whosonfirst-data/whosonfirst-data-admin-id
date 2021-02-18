@@ -34,15 +34,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672115,
-        1108796891
+        1108796891,
+        85672115
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1651339
     },
     "wof:country":"ID",
-    "wof:geomhash":"fb76581c83e04c341b0ab9ec0f4ca12e",
+    "wof:geomhash":"bc5c5a8700f60d4e1a3967113c73263a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +53,14 @@
         }
     ],
     "wof:id":1209928773,
-    "wof:lastmodified":1537627374,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179016,
     "wof:name":"Anuwe",
     "wof:parent_id":1108796891,
     "wof:placetype":"locality",
@@ -63,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    137.16666999999998,
+    137.16667,
     -4.73333,
-    137.16666999999998,
+    137.16667,
     -4.73333
 ],
-  "geometry": {"coordinates":[137.16666999999998,-4.73333],"type":"Point"}
+  "geometry": {"coordinates":[137.16667000000001,-4.73333],"type":"Point"}
 }

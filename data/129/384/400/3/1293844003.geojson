@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073217
+        102073217,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1988143
     },
     "wof:country":"ID",
-    "wof:geomhash":"cdbdae24c27617c3410e25009bab8e26",
+    "wof:geomhash":"9d0f50ddcb7569a30e3bc644f225b618",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1293844003,
-    "wof:lastmodified":1536770879,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175828,
     "wof:name":"Binong",
     "wof:parent_id":102073217,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.58556000000002,
+    106.58556,
     -6.3625,
-    106.58556000000002,
+    106.58556,
     -6.3625
 ],
-  "geometry": {"coordinates":[106.58556000000002,-6.3625],"type":"Point"}
+  "geometry": {"coordinates":[106.58556,-6.3625],"type":"Point"}
 }

@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073529
+        102073529,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6588040
     },
     "wof:country":"ID",
-    "wof:geomhash":"636c68546e40cfcb0eac0527d9cbeced",
+    "wof:geomhash":"969cf8d3f9638ce2488fba60c55088a7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1259729519,
-    "wof:lastmodified":1537629596,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185160,
     "wof:name":"Cikujang",
     "wof:parent_id":102073529,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.05138999999998,
+    107.05139,
     -6.87722,
-    107.05138999999998,
+    107.05139,
     -6.87722
 ],
-  "geometry": {"coordinates":[107.05138999999998,-6.87722],"type":"Point"}
+  "geometry": {"coordinates":[107.05139,-6.87722],"type":"Point"}
 }

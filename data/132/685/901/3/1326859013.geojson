@@ -41,15 +41,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        1108805993,
-        102073283
+        102073283,
+        1108805993
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1640858
     },
     "wof:country":"ID",
-    "wof:geomhash":"c480dd1fc282bdd3529bd9b3b4bfcbeb",
+    "wof:geomhash":"44671e09876920c7fd667194e1826b13",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -60,7 +60,14 @@
         }
     ],
     "wof:id":1326859013,
-    "wof:lastmodified":1537627006,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613173034,
     "wof:name":"Kayanpura",
     "wof:parent_id":102073283,
     "wof:placetype":"locality",
@@ -70,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    115.15406000000002,
+    115.15406,
     1.95213,
-    115.15406000000002,
+    115.15406,
     1.95213
 ],
-  "geometry": {"coordinates":[115.15406000000002,1.95213],"type":"Point"}
+  "geometry": {"coordinates":[115.15406,1.95213],"type":"Point"}
 }

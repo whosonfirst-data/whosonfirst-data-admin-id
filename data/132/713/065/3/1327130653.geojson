@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072947
+        102072947,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6256248
     },
     "wof:country":"ID",
-    "wof:geomhash":"eed816574bb6548de42de972cf782017",
+    "wof:geomhash":"b67545cb8384f02f7396308cdd5b8f71",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1327130653,
-    "wof:lastmodified":1536616387,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613172722,
     "wof:name":"Pijiharjo",
     "wof:parent_id":102072947,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.82361000000002,
+    110.82361,
     -7.86889,
-    110.82361000000002,
+    110.82361,
     -7.86889
 ],
-  "geometry": {"coordinates":[110.82361000000002,-7.86889],"type":"Point"}
+  "geometry": {"coordinates":[110.82361,-7.86889],"type":"Point"}
 }

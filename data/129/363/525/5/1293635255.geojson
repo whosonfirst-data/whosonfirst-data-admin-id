@@ -47,15 +47,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073295
+        102073295,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6582090
     },
     "wof:country":"ID",
-    "wof:geomhash":"3a1d6b10e512236dc2d2a4fff94fd7a1",
+    "wof:geomhash":"2e6abb4c9cd1e1522f21bdf11b067e44",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -66,7 +66,14 @@
         }
     ],
     "wof:id":1293635255,
-    "wof:lastmodified":1564176484,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175575,
     "wof:name":"Bunder",
     "wof:parent_id":102073295,
     "wof:placetype":"locality",
@@ -76,10 +83,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.73111000000002,
+    107.73111,
     -6.56972,
-    107.73111000000002,
+    107.73111,
     -6.56972
 ],
-  "geometry": {"coordinates":[107.73111000000002,-6.56972],"type":"Point"}
+  "geometry": {"coordinates":[107.73111,-6.56972],"type":"Point"}
 }

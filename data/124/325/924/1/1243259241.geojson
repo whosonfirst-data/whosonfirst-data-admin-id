@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102072775
+        102072775,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6410058
     },
     "wof:country":"ID",
-    "wof:geomhash":"3354568ddd6ebe605488d0e979877d10",
+    "wof:geomhash":"6abfc1a70e0a44a9aa1ff5d3a4dc038d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1243259241,
-    "wof:lastmodified":1537629064,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183507,
     "wof:name":"Pakah Satu",
     "wof:parent_id":102072775,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.14943999999998,
+    111.14944,
     -7.39972,
-    111.14943999999998,
+    111.14944,
     -7.39972
 ],
-  "geometry": {"coordinates":[111.14943999999998,-7.39972],"type":"Point"}
+  "geometry": {"coordinates":[111.14944,-7.39972],"type":"Point"}
 }

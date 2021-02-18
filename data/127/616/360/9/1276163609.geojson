@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672115,
-        1108796879
+        1108796879,
+        85672115
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8526781
     },
     "wof:country":"ID",
-    "wof:geomhash":"efc88c1063cb4901b4bd924b9f51bf7a",
+    "wof:geomhash":"49184bf3b403956de3d2737b8a12178a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1276163609,
-    "wof:lastmodified":1537636298,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177359,
     "wof:name":"Kapahu",
     "wof:parent_id":1108796879,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    140.17328999999998,
+    140.17329,
     -6.63994,
-    140.17328999999998,
+    140.17329,
     -6.63994
 ],
-  "geometry": {"coordinates":[140.17328999999998,-6.63994],"type":"Point"}
+  "geometry": {"coordinates":[140.17329000000001,-6.63994],"type":"Point"}
 }

@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072587
+        102072587,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6567419
     },
     "wof:country":"ID",
-    "wof:geomhash":"715e5287fe8d48aa4c5c4920caf743fd",
+    "wof:geomhash":"3e2c4ebd4915d1c0fd37f635545f5265",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1310597635,
-    "wof:lastmodified":1537629321,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181520,
     "wof:name":"Donglek",
     "wof:parent_id":102072587,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.99056000000002,
+    109.99056,
     -7.45917,
-    109.99056000000002,
+    109.99056,
     -7.45917
 ],
-  "geometry": {"coordinates":[109.99056000000002,-7.45917],"type":"Point"}
+  "geometry": {"coordinates":[109.99056,-7.45917],"type":"Point"}
 }

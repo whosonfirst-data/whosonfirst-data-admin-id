@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672081,
-        102073343
+        102073343,
+        85672081
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1967429
     },
     "wof:country":"ID",
-    "wof:geomhash":"a1c8d763c1c38f811093de00f9567a17",
+    "wof:geomhash":"e762bd18d989639807bdba32049b1423",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1309739353,
-    "wof:lastmodified":1537025853,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613182478,
     "wof:name":"Tangkasi",
     "wof:parent_id":102073343,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    124.75943999999998,
+    124.75944,
     1.73167,
-    124.75943999999998,
+    124.75944,
     1.73167
 ],
-  "geometry": {"coordinates":[124.75943999999998,1.73167],"type":"Point"}
+  "geometry": {"coordinates":[124.75944,1.73167],"type":"Point"}
 }

@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073187
+        102073187,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6566994
     },
     "wof:country":"ID",
-    "wof:geomhash":"2364fe16d6e0e581fccc309120a9f718",
+    "wof:geomhash":"8c7651bb729f7320aae7aa339987218c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1343552137,
-    "wof:lastmodified":1537629309,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613174051,
     "wof:name":"Puluhan",
     "wof:parent_id":102073187,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.92806000000002,
+    109.92806,
     -7.58278,
-    109.92806000000002,
+    109.92806,
     -7.58278
 ],
-  "geometry": {"coordinates":[109.92806000000002,-7.58278],"type":"Point"}
+  "geometry": {"coordinates":[109.92806,-7.58278],"type":"Point"}
 }

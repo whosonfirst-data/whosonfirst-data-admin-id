@@ -38,15 +38,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073515
+        102073515,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6396225
     },
     "wof:country":"ID",
-    "wof:geomhash":"252b110dea2476ab61629eb393001434",
+    "wof:geomhash":"48badb0850573c6bd78ee8daffee57dc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -57,7 +57,14 @@
         }
     ],
     "wof:id":1343322199,
-    "wof:lastmodified":1564174025,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613174688,
     "wof:name":"Sambikerep",
     "wof:parent_id":102073515,
     "wof:placetype":"locality",
@@ -67,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.27306000000002,
+    108.27306,
     -6.64444,
-    108.27306000000002,
+    108.27306,
     -6.64444
 ],
-  "geometry": {"coordinates":[108.27306000000002,-6.64444],"type":"Point"}
+  "geometry": {"coordinates":[108.27306,-6.64444],"type":"Point"}
 }

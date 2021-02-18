@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072947
+        102072947,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6375521
     },
     "wof:country":"ID",
-    "wof:geomhash":"01fd5d308f2e5ade2d49127c309eabbf",
+    "wof:geomhash":"3e88ad14019ae75d13b97e2ba7926211",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1293774857,
-    "wof:lastmodified":1537628439,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175750,
     "wof:name":"Nglaos",
     "wof:parent_id":102072947,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.82361000000002,
+    110.82361,
     -8.12722,
-    110.82361000000002,
+    110.82361,
     -8.12722
 ],
-  "geometry": {"coordinates":[110.82361000000002,-8.12722],"type":"Point"}
+  "geometry": {"coordinates":[110.82361,-8.12722],"type":"Point"}
 }

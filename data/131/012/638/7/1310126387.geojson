@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073153
+        102073153,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6373100
     },
     "wof:country":"ID",
-    "wof:geomhash":"c71e3c6e0f6ac2c0866de78d25f3f4dd",
+    "wof:geomhash":"9a23415546b55f8d6a2f862e73ce00e5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1310126387,
-    "wof:lastmodified":1537628387,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613180749,
     "wof:name":"Gumingsir",
     "wof:parent_id":102073153,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.66443999999998,
+    109.66444,
     -7.38417,
-    109.66443999999998,
+    109.66444,
     -7.38417
 ],
-  "geometry": {"coordinates":[109.66443999999998,-7.38417],"type":"Point"}
+  "geometry": {"coordinates":[109.66444,-7.38417],"type":"Point"}
 }

@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073233
+        102073233,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2003934
     },
     "wof:country":"ID",
-    "wof:geomhash":"1f46eb4921c88cee068415de783d9e55",
+    "wof:geomhash":"b1458ee2750389d80653f3ab59ad4939",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1310597497,
-    "wof:lastmodified":1536784766,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181533,
     "wof:name":"Guyangan",
     "wof:parent_id":102073233,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.71056000000002,
+    110.71056,
     -7.77694,
-    110.71056000000002,
+    110.71056,
     -7.77694
 ],
-  "geometry": {"coordinates":[110.71056000000002,-7.77694],"type":"Point"}
+  "geometry": {"coordinates":[110.71056,-7.77694],"type":"Point"}
 }

@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073405
+        102073405,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2010819
     },
     "wof:country":"ID",
-    "wof:geomhash":"2c43be3117f071cd17f998248af1afd0",
+    "wof:geomhash":"2114c9811c63ab6ccf471a67d82253f1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1293510383,
-    "wof:lastmodified":1536754098,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613176242,
     "wof:name":"Ngantirejo",
     "wof:parent_id":102073405,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.74611000000002,
+    110.74611,
     -7.53639,
-    110.74611000000002,
+    110.74611,
     -7.53639
 ],
-  "geometry": {"coordinates":[110.74611000000002,-7.53639],"type":"Point"}
+  "geometry": {"coordinates":[110.74611,-7.53639],"type":"Point"}
 }

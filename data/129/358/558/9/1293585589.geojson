@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072983
+        102072983,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6253477
     },
     "wof:country":"ID",
-    "wof:geomhash":"2b0f75deb99233331ba247c59129dfd0",
+    "wof:geomhash":"6bffa864aab58379b4ed0cf2b931f9dd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1293585589,
-    "wof:lastmodified":1536645164,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613176252,
     "wof:name":"Pentur",
     "wof:parent_id":102072983,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.69693999999998,
+    110.69694,
     -7.4725,
-    110.69693999999998,
+    110.69694,
     -7.4725
 ],
-  "geometry": {"coordinates":[110.69693999999998,-7.4725],"type":"Point"}
+  "geometry": {"coordinates":[110.69694,-7.4725],"type":"Point"}
 }

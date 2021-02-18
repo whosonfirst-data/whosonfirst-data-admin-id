@@ -41,15 +41,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073083
+        102073083,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1987374
     },
     "wof:country":"ID",
-    "wof:geomhash":"d266ffc86307721be0d327c0498b6bd4",
+    "wof:geomhash":"be56e8a921861ce3e458aeb3ab9d5c33",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -60,7 +60,14 @@
         }
     ],
     "wof:id":1276818117,
-    "wof:lastmodified":1564180357,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177088,
     "wof:name":"Serua",
     "wof:parent_id":102073083,
     "wof:placetype":"locality",
@@ -70,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.74056000000002,
+    106.74056,
     -6.37333,
-    106.74056000000002,
+    106.74056,
     -6.37333
 ],
-  "geometry": {"coordinates":[106.74056000000002,-6.37333],"type":"Point"}
+  "geometry": {"coordinates":[106.74056,-6.37333],"type":"Point"}
 }

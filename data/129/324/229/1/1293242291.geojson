@@ -36,15 +36,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        1108796793
+        1108796793,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1965285
     },
     "wof:country":"ID",
-    "wof:geomhash":"86ce4a5da049c925bd83660a4f2be3f8",
+    "wof:geomhash":"cd6de6e76e9e25c16dd639aa701a2df0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -55,7 +55,14 @@
         }
     ],
     "wof:id":1293242291,
-    "wof:lastmodified":1537627804,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175846,
     "wof:name":"Cinanggeuh",
     "wof:parent_id":1108796793,
     "wof:placetype":"locality",
@@ -65,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.48888999999998,
+    107.48889,
     -6.80806,
-    107.48888999999998,
+    107.48889,
     -6.80806
 ],
-  "geometry": {"coordinates":[107.48888999999998,-6.80806],"type":"Point"}
+  "geometry": {"coordinates":[107.48889,-6.80806],"type":"Point"}
 }

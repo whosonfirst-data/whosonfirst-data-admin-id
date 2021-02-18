@@ -39,7 +39,7 @@
         "gn:id":1962173
     },
     "wof:country":"ID",
-    "wof:geomhash":"df832db93414c4ed8e64a876d52620d0",
+    "wof:geomhash":"abd6c61e6cd627608eb4a38d8ad8e88b",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -47,7 +47,14 @@
         }
     ],
     "wof:id":1209335311,
-    "wof:lastmodified":1537627647,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179231,
     "wof:name":"Ngemplak Satu",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -57,10 +64,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.44861000000002,
+    110.44861,
     -7.01667,
-    110.44861000000002,
+    110.44861,
     -7.01667
 ],
-  "geometry": {"coordinates":[110.44861000000002,-7.01667],"type":"Point"}
+  "geometry": {"coordinates":[110.44861,-7.01667],"type":"Point"}
 }

@@ -33,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073169
+        102073169,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1645168
     },
     "wof:country":"ID",
-    "wof:geomhash":"2054145fb24a6c71eadfeff41222aca1",
+    "wof:geomhash":"828ffe55231c4139b459e5cb2eb0ebd2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,7 +52,14 @@
         }
     ],
     "wof:id":1327424955,
-    "wof:lastmodified":1537627141,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613173511,
     "wof:name":"Dukah",
     "wof:parent_id":102073169,
     "wof:placetype":"locality",
@@ -62,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.10056000000002,
+    110.10056,
     -7.33722,
-    110.10056000000002,
+    110.10056,
     -7.33722
 ],
-  "geometry": {"coordinates":[110.10056000000002,-7.33722],"type":"Point"}
+  "geometry": {"coordinates":[110.10056,-7.33722],"type":"Point"}
 }

@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073217
+        102073217,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6590766
     },
     "wof:country":"ID",
-    "wof:geomhash":"4eddc5e27632fd70bc8e8b9ca03e4025",
+    "wof:geomhash":"615cfe81699eaa4f1cf972c2d84df8cf",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1309855621,
-    "wof:lastmodified":1537629675,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613182327,
     "wof:name":"Cisurian",
     "wof:parent_id":102073217,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.00388999999998,
+    107.00389,
     -6.555,
-    107.00388999999998,
+    107.00389,
     -6.555
 ],
-  "geometry": {"coordinates":[107.00388999999998,-6.555],"type":"Point"}
+  "geometry": {"coordinates":[107.00389,-6.555],"type":"Point"}
 }

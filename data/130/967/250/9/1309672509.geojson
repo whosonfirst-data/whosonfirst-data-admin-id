@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072855
+        102072855,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6589368
     },
     "wof:country":"ID",
-    "wof:geomhash":"9fdec0ae5ca6ca309509807a2e2e84b7",
+    "wof:geomhash":"03e617bf54c44e1cc62128bda7265581",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1309672509,
-    "wof:lastmodified":1537629645,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613182427,
     "wof:name":"Cidadap",
     "wof:parent_id":102072855,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.00388999999998,
+    107.00389,
     -6.86444,
-    107.00388999999998,
+    107.00389,
     -6.86444
 ],
-  "geometry": {"coordinates":[107.00388999999998,-6.86444],"type":"Point"}
+  "geometry": {"coordinates":[107.00389,-6.86444],"type":"Point"}
 }

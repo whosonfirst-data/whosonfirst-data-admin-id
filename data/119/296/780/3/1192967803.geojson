@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        1108796793
+        1108796793,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1961469
     },
     "wof:country":"ID",
-    "wof:geomhash":"b4145ceb8c491848b87b89452699b37f",
+    "wof:geomhash":"13c9424e3025322fefde11ffab0538db",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1192967803,
-    "wof:lastmodified":1536381586,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613180031,
     "wof:name":"Pangragadjian",
     "wof:parent_id":1108796793,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.63611000000002,
+    107.63611,
     -6.81972,
-    107.63611000000002,
+    107.63611,
     -6.81972
 ],
-  "geometry": {"coordinates":[107.63611000000002,-6.81972],"type":"Point"}
+  "geometry": {"coordinates":[107.63611,-6.81972],"type":"Point"}
 }

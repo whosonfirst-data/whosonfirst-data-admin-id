@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672097,
-        1108796829
+        1108796829,
+        85672097
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7040612
     },
     "wof:country":"ID",
-    "wof:geomhash":"3e1207c4785f0a7d1199a348519c4553",
+    "wof:geomhash":"36e44663300d61f04a0fc95901f648bc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,7 +54,14 @@
         }
     ],
     "wof:id":1259931113,
-    "wof:lastmodified":1537632806,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613184859,
     "wof:name":"Suakodo",
     "wof:parent_id":1108796829,
     "wof:placetype":"locality",
@@ -64,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    128.12538999999998,
+    128.12539,
     -3.68238,
-    128.12538999999998,
+    128.12539,
     -3.68238
 ],
-  "geometry": {"coordinates":[128.12538999999998,-3.68238],"type":"Point"}
+  "geometry": {"coordinates":[128.12539000000001,-3.68238],"type":"Point"}
 }

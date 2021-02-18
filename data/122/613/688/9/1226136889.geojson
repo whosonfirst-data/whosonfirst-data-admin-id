@@ -33,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073169
+        102073169,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1964880
     },
     "wof:country":"ID",
-    "wof:geomhash":"75ba862666c90335ea73e80bdadce288",
+    "wof:geomhash":"fa28bede1fac16fab6b09f8a78181c4c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,7 +52,14 @@
         }
     ],
     "wof:id":1226136889,
-    "wof:lastmodified":1537627783,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185986,
     "wof:name":"Krecek",
     "wof:parent_id":102073169,
     "wof:placetype":"locality",
@@ -62,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.28806000000002,
+    110.28806,
     -7.27917,
-    110.28806000000002,
+    110.28806,
     -7.27917
 ],
-  "geometry": {"coordinates":[110.28806000000002,-7.27917],"type":"Point"}
+  "geometry": {"coordinates":[110.28806,-7.27917],"type":"Point"}
 }

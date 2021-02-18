@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"115.251989,-8.6452405,115.251989,-8.6452405",
+    "geom:bbox":"115.251989,-8.64524,115.251989,-8.64524",
     "geom:latitude":-8.64524,
     "geom:longitude":115.251989,
     "gp:adm0":23424846,
@@ -27,8 +27,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672023,
-        102072583
+        102072583,
+        85672023
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,7 +37,7 @@
     },
     "wof:country":"ID",
     "wof:created":1469055177,
-    "wof:geomhash":"8641a9bc7c8c45cf01b52e13dc94a8bb",
+    "wof:geomhash":"fc0b586ae886ac9a91b43370e85b9d01",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":890498497,
-    "wof:lastmodified":1500046167,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613182647,
     "wof:name":"Kesiman Petilan",
     "wof:parent_id":102072583,
     "wof:placetype":"locality",
@@ -59,9 +66,9 @@
 },
   "bbox": [
     115.251989,
-    -8.6452405,
+    -8.64524,
     115.251989,
-    -8.6452405
+    -8.64524
 ],
-  "geometry": {"coordinates":[115.25198899999999,-8.6452405],"type":"Point"}
+  "geometry": {"coordinates":[115.25198899999999,-8.64524],"type":"Point"}
 }

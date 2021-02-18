@@ -44,15 +44,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073217
+        102073217,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1986631
     },
     "wof:country":"ID",
-    "wof:geomhash":"e26aecb5e206fc00cc3da293bc12e544",
+    "wof:geomhash":"286344da62b8361f739c544632946f92",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -63,7 +63,14 @@
         }
     ],
     "wof:id":1310451267,
-    "wof:lastmodified":1564192760,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181236,
     "wof:name":"Babakan",
     "wof:parent_id":102073217,
     "wof:placetype":"locality",
@@ -73,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.77306000000002,
+    106.77306,
     -6.43833,
-    106.77306000000002,
+    106.77306,
     -6.43833
 ],
-  "geometry": {"coordinates":[106.77306000000002,-6.43833],"type":"Point"}
+  "geometry": {"coordinates":[106.77306,-6.43833],"type":"Point"}
 }

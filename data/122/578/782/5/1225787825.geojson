@@ -50,15 +50,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672041,
-        102073379
+        102073379,
+        85672041
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7609306
     },
     "wof:country":"ID",
-    "wof:geomhash":"2fbe067a045e36f7992bc212d7544fc4",
+    "wof:geomhash":"8bfd430c50e253d10827eda45bb1d053",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -69,7 +69,14 @@
         }
     ],
     "wof:id":1225787825,
-    "wof:lastmodified":1564208710,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613186556,
     "wof:name":"Paje",
     "wof:parent_id":102073379,
     "wof:placetype":"locality",
@@ -79,10 +86,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    119.86178999999998,
+    119.86179,
     -3.45105,
-    119.86178999999998,
+    119.86179,
     -3.45105
 ],
-  "geometry": {"coordinates":[119.86178999999998,-3.45105],"type":"Point"}
+  "geometry": {"coordinates":[119.86179,-3.45105],"type":"Point"}
 }

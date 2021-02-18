@@ -41,15 +41,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072733
+        102072733,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1935816
     },
     "wof:country":"ID",
-    "wof:geomhash":"76844d50397b61103f75b432dca972f3",
+    "wof:geomhash":"b1059c1509f5dca17ee697f4cc0dbe47",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -60,7 +60,14 @@
         }
     ],
     "wof:id":1293775009,
-    "wof:lastmodified":1564177006,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175761,
     "wof:name":"Dagen",
     "wof:parent_id":102072733,
     "wof:placetype":"locality",
@@ -70,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.87888999999998,
+    110.87889,
     -7.56917,
-    110.87888999999998,
+    110.87889,
     -7.56917
 ],
-  "geometry": {"coordinates":[110.87888999999998,-7.56917],"type":"Point"}
+  "geometry": {"coordinates":[110.87889,-7.56917],"type":"Point"}
 }

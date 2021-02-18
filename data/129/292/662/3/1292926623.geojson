@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072587
+        102072587,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6199921
     },
     "wof:country":"ID",
-    "wof:geomhash":"37634d7c673125000bd5b14a5f44ae8f",
+    "wof:geomhash":"c23628481f26fdee820c8d2f93124dc3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1292926623,
-    "wof:lastmodified":1537095515,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175654,
     "wof:name":"Grenggeng",
     "wof:parent_id":102072587,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.00388999999998,
+    110.00389,
     -7.405,
-    110.00388999999998,
+    110.00389,
     -7.405
 ],
-  "geometry": {"coordinates":[110.00388999999998,-7.405],"type":"Point"}
+  "geometry": {"coordinates":[110.00389,-7.405],"type":"Point"}
 }

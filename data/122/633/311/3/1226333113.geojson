@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072929
+        102072929,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6263106
     },
     "wof:country":"ID",
-    "wof:geomhash":"13831b7b02bccd43a1cee68f8508bc42",
+    "wof:geomhash":"0d9a22210b7fbad22cb02b2ca72b4299",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1226333113,
-    "wof:lastmodified":1536807456,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185578,
     "wof:name":"Kedungdowo",
     "wof:parent_id":102072929,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.86388999999998,
+    110.86389,
     -7.41472,
-    110.86388999999998,
+    110.86389,
     -7.41472
 ],
-  "geometry": {"coordinates":[110.86388999999998,-7.41472],"type":"Point"}
+  "geometry": {"coordinates":[110.86389,-7.41472],"type":"Point"}
 }

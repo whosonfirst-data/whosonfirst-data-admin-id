@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073169
+        102073169,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6200582
     },
     "wof:country":"ID",
-    "wof:geomhash":"3c909d6a9e3005d673d01c8ba4eb10f4",
+    "wof:geomhash":"253eaf3fbfa7737d69c553faf1302651",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1293194731,
-    "wof:lastmodified":1536712459,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613176799,
     "wof:name":"Kumejing",
     "wof:parent_id":102073169,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.14388999999998,
+    110.14389,
     -7.33611,
-    110.14388999999998,
+    110.14389,
     -7.33611
 ],
-  "geometry": {"coordinates":[110.14388999999998,-7.33611],"type":"Point"}
+  "geometry": {"coordinates":[110.14389,-7.33611],"type":"Point"}
 }

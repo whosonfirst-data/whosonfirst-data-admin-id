@@ -114,8 +114,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672037,
-        102073355
+        102073355,
+        85672037
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -123,7 +123,7 @@
         "wk:page":"Rote_Island"
     },
     "wof:country":"ID",
-    "wof:geomhash":"a52d5187b9e827b7de1cee82af39c404",
+    "wof:geomhash":"98ffea8b13e8da893f99cb22a5985225",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -134,7 +134,14 @@
         }
     ],
     "wof:id":1343337335,
-    "wof:lastmodified":1564174463,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613174853,
     "wof:name":"Rotedale",
     "wof:parent_id":102073355,
     "wof:placetype":"locality",
@@ -144,10 +151,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    123.37373999999998,
+    123.37374,
     -10.46398,
-    123.37373999999998,
+    123.37374,
     -10.46398
 ],
-  "geometry": {"coordinates":[123.37373999999998,-10.46398],"type":"Point"}
+  "geometry": {"coordinates":[123.37374,-10.46398],"type":"Point"}
 }

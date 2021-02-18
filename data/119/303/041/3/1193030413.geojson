@@ -33,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672085,
-        102072979
+        102072979,
+        85672085
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1633736
     },
     "wof:country":"ID",
-    "wof:geomhash":"f0f0b49c255b19406f5c94fc4e9d7593",
+    "wof:geomhash":"c60cc00a2267dde268e8cd34517f81cd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,7 +52,14 @@
         }
     ],
     "wof:id":1193030413,
-    "wof:lastmodified":1537626788,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179960,
     "wof:name":"Nyaolao",
     "wof:parent_id":102072979,
     "wof:placetype":"locality",
@@ -62,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    127.55561000000002,
+    127.55561,
     0.73642,
-    127.55561000000002,
+    127.55561,
     0.73642
 ],
-  "geometry": {"coordinates":[127.55561000000002,0.73642],"type":"Point"}
+  "geometry": {"coordinates":[127.55561,0.73642],"type":"Point"}
 }

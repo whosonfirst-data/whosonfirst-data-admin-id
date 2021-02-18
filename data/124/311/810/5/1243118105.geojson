@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072937
+        102072937,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6606646
     },
     "wof:country":"ID",
-    "wof:geomhash":"db8fa09a4454138d442b7bc4c9eaa1ea",
+    "wof:geomhash":"60b0e89e41d84349aa08e2260f9705d8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,7 +54,14 @@
         }
     ],
     "wof:id":1243118105,
-    "wof:lastmodified":1537630117,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613184079,
     "wof:name":"Pulogadung Satu",
     "wof:parent_id":102072937,
     "wof:placetype":"locality",
@@ -64,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.44693999999998,
+    107.44694,
     -6.25333,
-    107.44693999999998,
+    107.44694,
     -6.25333
 ],
-  "geometry": {"coordinates":[107.44693999999998,-6.25333],"type":"Point"}
+  "geometry": {"coordinates":[107.44694,-6.25333],"type":"Point"}
 }

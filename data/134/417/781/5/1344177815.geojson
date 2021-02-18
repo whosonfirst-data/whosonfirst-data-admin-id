@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072947
+        102072947,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6405954
     },
     "wof:country":"ID",
-    "wof:geomhash":"4bddcf032a463f3f65bd86401c5178ca",
+    "wof:geomhash":"4c8b1dbbbe68b42332a091d56af7a572",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1344177815,
-    "wof:lastmodified":1537628945,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613174900,
     "wof:name":"Sigro",
     "wof:parent_id":102072947,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.07361000000002,
+    111.07361,
     -7.93556,
-    111.07361000000002,
+    111.07361,
     -7.93556
 ],
-  "geometry": {"coordinates":[111.07361000000002,-7.93556],"type":"Point"}
+  "geometry": {"coordinates":[111.07361,-7.93556],"type":"Point"}
 }

@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072937
+        102072937,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6606488
     },
     "wof:country":"ID",
-    "wof:geomhash":"7b6bd08b011c38e9b9716618c7619ace",
+    "wof:geomhash":"6ea5db4f9f4889a1f6b968f2bc73ebcd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1226302883,
-    "wof:lastmodified":1537630112,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613186349,
     "wof:name":"Cibatu",
     "wof:parent_id":102072937,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.28806000000002,
+    107.28806,
     -6.06472,
-    107.28806000000002,
+    107.28806,
     -6.06472
 ],
-  "geometry": {"coordinates":[107.28806000000002,-6.06472],"type":"Point"}
+  "geometry": {"coordinates":[107.28806,-6.06472],"type":"Point"}
 }

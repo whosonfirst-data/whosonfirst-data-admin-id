@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073505
+        102073505,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6396901
     },
     "wof:country":"ID",
-    "wof:geomhash":"661e96822ee911f678ce2d512d10c3be",
+    "wof:geomhash":"52492988ad986d6f5ad7cecb210556fc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1293649519,
-    "wof:lastmodified":1537628767,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175590,
     "wof:name":"Kedungkelutuk",
     "wof:parent_id":102073505,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.48888999999998,
+    108.48889,
     -6.72,
-    108.48888999999998,
+    108.48889,
     -6.72
 ],
-  "geometry": {"coordinates":[108.48888999999998,-6.72],"type":"Point"}
+  "geometry": {"coordinates":[108.48889,-6.72],"type":"Point"}
 }

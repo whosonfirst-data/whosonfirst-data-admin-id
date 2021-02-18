@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102073013
+        102073013,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6387024
     },
     "wof:country":"ID",
-    "wof:geomhash":"9fc70341d8bff6e2bd92296649424e40",
+    "wof:geomhash":"946b59a54e1af21294111a785f83cf61",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1226427283,
-    "wof:lastmodified":1537628626,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185405,
     "wof:name":"Bedali",
     "wof:parent_id":102073013,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.30138999999998,
+    111.30139,
     -8.1325,
-    111.30138999999998,
+    111.30139,
     -8.1325
 ],
-  "geometry": {"coordinates":[111.30138999999998,-8.1325],"type":"Point"}
+  "geometry": {"coordinates":[111.30139,-8.1325],"type":"Point"}
 }

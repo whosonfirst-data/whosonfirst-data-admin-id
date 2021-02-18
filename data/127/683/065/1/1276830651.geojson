@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672097,
-        1108796827
+        1108796827,
+        85672097
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8516338
     },
     "wof:country":"ID",
-    "wof:geomhash":"06f99af38e632fcb70b0c085596859ca",
+    "wof:geomhash":"13fac809c4392201d49bdd1be8a1de7b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,7 +54,14 @@
         }
     ],
     "wof:id":1276830651,
-    "wof:lastmodified":1537636289,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177984,
     "wof:name":"Markalamaar",
     "wof:parent_id":1108796827,
     "wof:placetype":"locality",
@@ -64,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    134.65313999999998,
+    134.65314,
     -5.49645,
-    134.65313999999998,
+    134.65314,
     -5.49645
 ],
-  "geometry": {"coordinates":[134.65313999999998,-5.49645],"type":"Point"}
+  "geometry": {"coordinates":[134.65314000000001,-5.49645],"type":"Point"}
 }

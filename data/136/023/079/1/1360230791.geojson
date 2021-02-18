@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073529
+        102073529,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6589645
     },
     "wof:country":"ID",
-    "wof:geomhash":"fdbbd78a7c1173efa3965addc82a258a",
+    "wof:geomhash":"f1cf06dfb1f55e17e7462e15a6fc1ab8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1360230791,
-    "wof:lastmodified":1537629649,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181727,
     "wof:name":"Bougenville Satu",
     "wof:parent_id":102073529,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.03806000000002,
+    107.03806,
     -6.70389,
-    107.03806000000002,
+    107.03806,
     -6.70389
 ],
-  "geometry": {"coordinates":[107.03806000000002,-6.70389],"type":"Point"}
+  "geometry": {"coordinates":[107.03806,-6.70389],"type":"Point"}
 }

@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        1108796793
+        1108796793,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6583524
     },
     "wof:country":"ID",
-    "wof:geomhash":"c76500dcae74dfbd311b5da86b2cc21f",
+    "wof:geomhash":"2aca73b1d72114b4aa34745bbc049569",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1293340119,
-    "wof:lastmodified":1537629529,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613176343,
     "wof:name":"Cianting",
     "wof:parent_id":1108796793,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.57361000000002,
+    107.57361,
     -6.87417,
-    107.57361000000002,
+    107.57361,
     -6.87417
 ],
-  "geometry": {"coordinates":[107.57361000000002,-6.87417],"type":"Point"}
+  "geometry": {"coordinates":[107.57361,-6.87417],"type":"Point"}
 }

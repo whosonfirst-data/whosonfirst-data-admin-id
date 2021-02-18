@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073471
+        102073471,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6591334
     },
     "wof:country":"ID",
-    "wof:geomhash":"68511beaf319e3b348e87cab6c12ab16",
+    "wof:geomhash":"908ab2341bf2415ed88d7d28e0c90c32",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1343521681,
-    "wof:lastmodified":1537629695,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613174002,
     "wof:name":"Panyingkiran",
     "wof:parent_id":102073471,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.35056000000002,
+    107.35056,
     -6.625,
-    107.35056000000002,
+    107.35056,
     -6.625
 ],
-  "geometry": {"coordinates":[107.35056000000002,-6.625],"type":"Point"}
+  "geometry": {"coordinates":[107.35056,-6.625],"type":"Point"}
 }

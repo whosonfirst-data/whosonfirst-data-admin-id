@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672115,
-        1108796891
+        1108796891,
+        85672115
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1621686
     },
     "wof:country":"ID",
-    "wof:geomhash":"ba0ee858a666b21ca18476fda26bb524",
+    "wof:geomhash":"9380771a5c1a97fbf2b305df621ff494",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,7 +54,14 @@
         }
     ],
     "wof:id":1327343329,
-    "wof:lastmodified":1537626402,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613172908,
     "wof:name":"Waywe",
     "wof:parent_id":1108796891,
     "wof:placetype":"locality",
@@ -64,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    137.16666999999998,
+    137.16667,
     -4.76667,
-    137.16666999999998,
+    137.16667,
     -4.76667
 ],
-  "geometry": {"coordinates":[137.16666999999998,-4.76667],"type":"Point"}
+  "geometry": {"coordinates":[137.16667000000001,-4.76667],"type":"Point"}
 }

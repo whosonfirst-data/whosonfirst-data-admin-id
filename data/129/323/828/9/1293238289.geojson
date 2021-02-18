@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073529
+        102073529,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6589729
     },
     "wof:country":"ID",
-    "wof:geomhash":"8bef2d1ba3a7db01dfd176c7cabd7d4f",
+    "wof:geomhash":"3ac3e9d4d1ec5f8b08e655a22e279c50",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1293238289,
-    "wof:lastmodified":1537629652,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175865,
     "wof:name":"Kawungkluwuk Girang",
     "wof:parent_id":102073529,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.07193999999998,
+    107.07194,
     -6.725,
-    107.07193999999998,
+    107.07194,
     -6.725
 ],
-  "geometry": {"coordinates":[107.07193999999998,-6.725],"type":"Point"}
+  "geometry": {"coordinates":[107.07194,-6.725],"type":"Point"}
 }

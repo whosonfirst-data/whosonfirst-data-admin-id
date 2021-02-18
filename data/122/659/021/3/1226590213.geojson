@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072949
+        102072949,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1986277
     },
     "wof:country":"ID",
-    "wof:geomhash":"a1483dbab15a26d87bc1d552e8331b6d",
+    "wof:geomhash":"650849464de432953a86f2ec61929bbf",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1226590213,
-    "wof:lastmodified":1536937383,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185758,
     "wof:name":"Sukahaji",
     "wof:parent_id":102072949,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.69138999999998,
+    107.69139,
     -7.1675,
-    107.69138999999998,
+    107.69139,
     -7.1675
 ],
-  "geometry": {"coordinates":[107.69138999999998,-7.1675],"type":"Point"}
+  "geometry": {"coordinates":[107.69139,-7.1675],"type":"Point"}
 }

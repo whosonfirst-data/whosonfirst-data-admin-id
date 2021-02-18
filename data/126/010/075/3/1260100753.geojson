@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073187
+        102073187,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6259819
     },
     "wof:country":"ID",
-    "wof:geomhash":"efb83717e238aa4f38e84467bcbde268",
+    "wof:geomhash":"da4f30641652e1ffab15f79ee1884d5a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1260100753,
-    "wof:lastmodified":1536963114,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613180541,
     "wof:name":"Sirebut",
     "wof:parent_id":102073187,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.12888999999998,
+    110.12889,
     -7.63833,
-    110.12888999999998,
+    110.12889,
     -7.63833
 ],
-  "geometry": {"coordinates":[110.12888999999998,-7.63833],"type":"Point"}
+  "geometry": {"coordinates":[110.12889,-7.63833],"type":"Point"}
 }

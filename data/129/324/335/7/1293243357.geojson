@@ -36,15 +36,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672097,
-        1108796833
+        1108796833,
+        85672097
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1629455
     },
     "wof:country":"ID",
-    "wof:geomhash":"8f2e69e2445246ce9966c145160ac2fe",
+    "wof:geomhash":"ecf9d8671bb58002cb81ebd7255b7460",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -55,7 +55,14 @@
         }
     ],
     "wof:id":1293243357,
-    "wof:lastmodified":1537626650,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175855,
     "wof:name":"Rumadai",
     "wof:parent_id":1108796833,
     "wof:placetype":"locality",
@@ -65,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    129.52948999999998,
+    129.52949,
     -6.72858,
-    129.52948999999998,
+    129.52949,
     -6.72858
 ],
-  "geometry": {"coordinates":[129.52948999999998,-6.72858],"type":"Point"}
+  "geometry": {"coordinates":[129.52949000000001,-6.72858],"type":"Point"}
 }

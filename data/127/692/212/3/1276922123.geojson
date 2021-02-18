@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073529
+        102073529,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6588612
     },
     "wof:country":"ID",
-    "wof:geomhash":"6c84d572097f91f1050ad5482e61720d",
+    "wof:geomhash":"3b0cf828369dd712fa4d548fc2f41151",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1276922123,
-    "wof:lastmodified":1537629617,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177561,
     "wof:name":"Sindangjaya",
     "wof:parent_id":102073529,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.23111000000002,
+    107.23111,
     -6.87972,
-    107.23111000000002,
+    107.23111,
     -6.87972
 ],
-  "geometry": {"coordinates":[107.23111000000002,-6.87972],"type":"Point"}
+  "geometry": {"coordinates":[107.23111,-6.87972],"type":"Point"}
 }

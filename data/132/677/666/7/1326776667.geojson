@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072739
+        102072739,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6580850
     },
     "wof:country":"ID",
-    "wof:geomhash":"427e041dc26b39463467d6d92ff8f324",
+    "wof:geomhash":"1399ee67a9f5570be9c48f3142b56d81",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1326776667,
-    "wof:lastmodified":1537629455,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613173150,
     "wof:name":"Renggonglebak",
     "wof:parent_id":102072739,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.85056000000002,
+    107.85056,
     -6.86667,
-    107.85056000000002,
+    107.85056,
     -6.86667
 ],
-  "geometry": {"coordinates":[107.85056000000002,-6.86667],"type":"Point"}
+  "geometry": {"coordinates":[107.85056,-6.86667],"type":"Point"}
 }

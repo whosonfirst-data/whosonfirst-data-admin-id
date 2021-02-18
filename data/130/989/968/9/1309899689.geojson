@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073117
+        102073117,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6388854
     },
     "wof:country":"ID",
-    "wof:geomhash":"4493b6e4547cbc58783b21a7c045d80f",
+    "wof:geomhash":"5af9c99a1c4c2bff869934cba7773a0f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1309899689,
-    "wof:lastmodified":1537628680,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613182509,
     "wof:name":"Kebanaran",
     "wof:parent_id":102073117,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.20638999999998,
+    109.20639,
     -7.41972,
-    109.20638999999998,
+    109.20639,
     -7.41972
 ],
-  "geometry": {"coordinates":[109.20638999999998,-7.41972],"type":"Point"}
+  "geometry": {"coordinates":[109.20639,-7.41972],"type":"Point"}
 }

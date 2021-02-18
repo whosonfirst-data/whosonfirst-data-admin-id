@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102072973
+        102072973,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6408966
     },
     "wof:country":"ID",
-    "wof:geomhash":"9542538c57340849d78d1d33b51c9d49",
+    "wof:geomhash":"b7eea17a18eba456286bed1810f6daee",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1343751979,
-    "wof:lastmodified":1537629025,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175218,
     "wof:name":"Batokan",
     "wof:parent_id":102072973,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.36388999999998,
+    111.36389,
     -7.68028,
-    111.36388999999998,
+    111.36389,
     -7.68028
 ],
-  "geometry": {"coordinates":[111.36388999999998,-7.68028],"type":"Point"}
+  "geometry": {"coordinates":[111.36389,-7.68028],"type":"Point"}
 }

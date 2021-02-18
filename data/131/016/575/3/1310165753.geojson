@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073529
+        102073529,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6579013
     },
     "wof:country":"ID",
-    "wof:geomhash":"89ec536f61e15f66c3b158947b0a82cb",
+    "wof:geomhash":"c8f1f4ce437c8e23cc9b4c8fad5644e4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1310165753,
-    "wof:lastmodified":1537629409,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181294,
     "wof:name":"Kebonmanggu",
     "wof:parent_id":102073529,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.19693999999998,
+    107.19694,
     -6.77861,
-    107.19693999999998,
+    107.19694,
     -6.77861
 ],
-  "geometry": {"coordinates":[107.19693999999998,-6.77861],"type":"Point"}
+  "geometry": {"coordinates":[107.19694,-6.77861],"type":"Point"}
 }

@@ -59,15 +59,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672097,
-        1108796829
+        1108796829,
+        85672097
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7040624
     },
     "wof:country":"ID",
-    "wof:geomhash":"22ba51eb9ec89df6acb0d8c82b3ab185",
+    "wof:geomhash":"aaa2c1a5fc57520263e1f5c6b4013bb3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +78,14 @@
         }
     ],
     "wof:id":1193088013,
-    "wof:lastmodified":1564188100,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179795,
     "wof:name":"Eri",
     "wof:parent_id":1108796829,
     "wof:placetype":"locality",
@@ -88,10 +95,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    128.13253999999998,
+    128.13254,
     -3.75036,
-    128.13253999999998,
+    128.13254,
     -3.75036
 ],
-  "geometry": {"coordinates":[128.13253999999998,-3.75036],"type":"Point"}
+  "geometry": {"coordinates":[128.13254000000001,-3.75036],"type":"Point"}
 }

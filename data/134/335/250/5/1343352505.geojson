@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072639
+        102072639,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6386329
     },
     "wof:country":"ID",
-    "wof:geomhash":"093a8cda2d1ea266c4adc3cd39b5836f",
+    "wof:geomhash":"dd9bea2b8c5cf6405b041b4316d2fe5d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1343352505,
-    "wof:lastmodified":1537628604,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613174715,
     "wof:name":"Pekeyongan",
     "wof:parent_id":102072639,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.61556000000002,
+    109.61556,
     -7.70917,
-    109.61556000000002,
+    109.61556,
     -7.70917
 ],
-  "geometry": {"coordinates":[109.61556000000002,-7.70917],"type":"Point"}
+  "geometry": {"coordinates":[109.61556,-7.70917],"type":"Point"}
 }

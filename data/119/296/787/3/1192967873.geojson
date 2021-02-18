@@ -41,15 +41,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072937
+        102072937,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6594763
     },
     "wof:country":"ID",
-    "wof:geomhash":"dc7900f9b84307fb43f21df0319f753e",
+    "wof:geomhash":"fe00d5348690785ebb76f2d069c34269",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -60,7 +60,14 @@
         }
     ],
     "wof:id":1192967873,
-    "wof:lastmodified":1564188801,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613180030,
     "wof:name":"Sukadana",
     "wof:parent_id":102072937,
     "wof:placetype":"locality",
@@ -70,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.30861000000002,
+    107.30861,
     -6.34,
-    107.30861000000002,
+    107.30861,
     -6.34
 ],
-  "geometry": {"coordinates":[107.30861000000002,-6.34],"type":"Point"}
+  "geometry": {"coordinates":[107.30861,-6.34],"type":"Point"}
 }

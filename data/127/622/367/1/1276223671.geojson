@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073265
+        102073265,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6258368
     },
     "wof:country":"ID",
-    "wof:geomhash":"4365329576a8838ea21456115a671a11",
+    "wof:geomhash":"1b036ae9749503e70982eae22eadd726",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1276223671,
-    "wof:lastmodified":1536926534,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177797,
     "wof:name":"Kurahan",
     "wof:parent_id":102073265,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.30306000000002,
+    110.30306,
     -7.70083,
-    110.30306000000002,
+    110.30306,
     -7.70083
 ],
-  "geometry": {"coordinates":[110.30306000000002,-7.70083],"type":"Point"}
+  "geometry": {"coordinates":[110.30306,-7.70083],"type":"Point"}
 }

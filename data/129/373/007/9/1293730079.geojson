@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072981
+        102072981,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6596161
     },
     "wof:country":"ID",
-    "wof:geomhash":"564519969e8f6054d4de34c7430a0a24",
+    "wof:geomhash":"4394e06acefc424e3b4f1cd1a983da68",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1293730079,
-    "wof:lastmodified":1537629841,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613176637,
     "wof:name":"Babakanpeundeuy",
     "wof:parent_id":102072981,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.91443999999998,
+    106.91444,
     -6.93611,
-    106.91443999999998,
+    106.91444,
     -6.93611
 ],
-  "geometry": {"coordinates":[106.91443999999998,-6.93611],"type":"Point"}
+  "geometry": {"coordinates":[106.91444,-6.93611],"type":"Point"}
 }

@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073313
+        102073313,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2000459
     },
     "wof:country":"ID",
-    "wof:geomhash":"05f4b72591f21624d121172e73fe3339",
+    "wof:geomhash":"a1a92d4d876acad3a66ff2e07d65d2a8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1242666241,
-    "wof:lastmodified":1536936892,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183199,
     "wof:name":"Kedungrejo",
     "wof:parent_id":102073313,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.44861000000002,
+    110.44861,
     -7.87417,
-    110.44861000000002,
+    110.44861,
     -7.87417
 ],
-  "geometry": {"coordinates":[110.44861000000002,-7.87417],"type":"Point"}
+  "geometry": {"coordinates":[110.44861,-7.87417],"type":"Point"}
 }

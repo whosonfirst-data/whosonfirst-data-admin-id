@@ -33,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073169
+        102073169,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1964877
     },
     "wof:country":"ID",
-    "wof:geomhash":"848d6180d38f7dbe2ddaec13800cdc52",
+    "wof:geomhash":"726050d534a194a079c1e6c1afe23b6b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,7 +52,14 @@
         }
     ],
     "wof:id":1292926531,
-    "wof:lastmodified":1537627783,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175654,
     "wof:name":"Ngadiroso",
     "wof:parent_id":102073169,
     "wof:placetype":"locality",
@@ -62,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.30306000000002,
+    110.30306,
     -7.27944,
-    110.30306000000002,
+    110.30306,
     -7.27944
 ],
-  "geometry": {"coordinates":[110.30306000000002,-7.27944],"type":"Point"}
+  "geometry": {"coordinates":[110.30306,-7.27944],"type":"Point"}
 }

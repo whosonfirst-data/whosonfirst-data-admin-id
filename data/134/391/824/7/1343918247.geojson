@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073529
+        102073529,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1963537
     },
     "wof:country":"ID",
-    "wof:geomhash":"78f271bec54d3c308d3f5632614c8534",
+    "wof:geomhash":"978999a9caf45877ada259db8cf86d13",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,7 +54,14 @@
         }
     ],
     "wof:id":1343918247,
-    "wof:lastmodified":1537627717,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613173849,
     "wof:name":"Cibihbul",
     "wof:parent_id":102073529,
     "wof:placetype":"locality",
@@ -64,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.25943999999998,
+    107.25944,
     -6.85361,
-    107.25943999999998,
+    107.25944,
     -6.85361
 ],
-  "geometry": {"coordinates":[107.25943999999998,-6.85361],"type":"Point"}
+  "geometry": {"coordinates":[107.25944,-6.85361],"type":"Point"}
 }

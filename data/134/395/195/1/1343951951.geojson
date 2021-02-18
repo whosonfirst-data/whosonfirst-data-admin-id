@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072733
+        102072733,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6560337
     },
     "wof:country":"ID",
-    "wof:geomhash":"ad71e5ce3451c4c8f89ade2e19a5c6ff",
+    "wof:geomhash":"f55fd58090f3b844d025f6f3961241b2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1343951951,
-    "wof:lastmodified":1537629130,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613174612,
     "wof:name":"Pencol",
     "wof:parent_id":102072733,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.07361000000002,
+    111.07361,
     -7.66611,
-    111.07361000000002,
+    111.07361,
     -7.66611
 ],
-  "geometry": {"coordinates":[111.07361000000002,-7.66611],"type":"Point"}
+  "geometry": {"coordinates":[111.07361,-7.66611],"type":"Point"}
 }

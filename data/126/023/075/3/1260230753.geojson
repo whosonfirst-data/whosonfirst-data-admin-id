@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073217
+        102073217,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1987978
     },
     "wof:country":"ID",
-    "wof:geomhash":"5e3ef7cd33f1ae9f8066eb0f51dcc91b",
+    "wof:geomhash":"dadea0fe3c00d87426059962b541ebc8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1260230753,
-    "wof:lastmodified":1536784124,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613180206,
     "wof:name":"Situbakti",
     "wof:parent_id":102073217,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.73888999999998,
+    106.73889,
     -6.49667,
-    106.73888999999998,
+    106.73889,
     -6.49667
 ],
-  "geometry": {"coordinates":[106.73888999999998,-6.49667],"type":"Point"}
+  "geometry": {"coordinates":[106.73889,-6.49667],"type":"Point"}
 }

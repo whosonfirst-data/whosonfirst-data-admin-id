@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073189
+        102073189,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6564711
     },
     "wof:country":"ID",
-    "wof:geomhash":"e20a4f27ffdcc6b4972614462a4930d9",
+    "wof:geomhash":"2f55a18e412a7088dd63d22e40b82f1c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1343250735,
-    "wof:lastmodified":1537629239,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613174576,
     "wof:name":"Cempluk",
     "wof:parent_id":102073189,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.62111000000002,
+    110.62111,
     -8.02389,
-    110.62111000000002,
+    110.62111,
     -8.02389
 ],
-  "geometry": {"coordinates":[110.62111000000002,-8.02389],"type":"Point"}
+  "geometry": {"coordinates":[110.62111,-8.02389],"type":"Point"}
 }

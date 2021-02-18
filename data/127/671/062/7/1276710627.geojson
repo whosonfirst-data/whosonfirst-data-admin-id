@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072739
+        102072739,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6581135
     },
     "wof:country":"ID",
-    "wof:geomhash":"147e2be6e6222ffdc2527fe8694ca0a2",
+    "wof:geomhash":"ccca7264b5f5893be78c78a0e09a273e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1276710627,
-    "wof:lastmodified":1537629463,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177862,
     "wof:name":"Cicelot",
     "wof:parent_id":102072739,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.96056000000002,
+    107.96056,
     -6.81528,
-    107.96056000000002,
+    107.96056,
     -6.81528
 ],
-  "geometry": {"coordinates":[107.96056000000002,-6.81528],"type":"Point"}
+  "geometry": {"coordinates":[107.96056,-6.81528],"type":"Point"}
 }

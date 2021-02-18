@@ -33,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672097,
-        1108796833
+        1108796833,
+        85672097
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1629449
     },
     "wof:country":"ID",
-    "wof:geomhash":"5a0f9aec9fe833db5c2583d8e1d1b962",
+    "wof:geomhash":"1c4d65e68cc17554ba5fdb09998ce6be",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,7 +52,14 @@
         }
     ],
     "wof:id":1343872811,
-    "wof:lastmodified":1537626650,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175144,
     "wof:name":"Rumah Olat",
     "wof:parent_id":1108796833,
     "wof:placetype":"locality",
@@ -62,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    129.19113000000002,
+    129.19113,
     -2.94909,
-    129.19113000000002,
+    129.19113,
     -2.94909
 ],
-  "geometry": {"coordinates":[129.19113000000002,-2.94909],"type":"Point"}
+  "geometry": {"coordinates":[129.19112999999999,-2.94909],"type":"Point"}
 }

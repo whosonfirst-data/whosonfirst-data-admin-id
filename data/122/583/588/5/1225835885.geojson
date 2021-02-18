@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072639
+        102072639,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6372424
     },
     "wof:country":"ID",
-    "wof:geomhash":"5a0c65fa0fa52273352215762c5f80c9",
+    "wof:geomhash":"c674335615f4486a728f2de409f65821",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1225835885,
-    "wof:lastmodified":1537628367,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613186609,
     "wof:name":"Pogung",
     "wof:parent_id":102072639,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.50388999999998,
+    109.50389,
     -7.58361,
-    109.50388999999998,
+    109.50389,
     -7.58361
 ],
-  "geometry": {"coordinates":[109.50388999999998,-7.58361],"type":"Point"}
+  "geometry": {"coordinates":[109.50389,-7.58361],"type":"Point"}
 }

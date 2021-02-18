@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671995,
-        102072687
+        102072687,
+        85671995
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1960119
     },
     "wof:country":"ID",
-    "wof:geomhash":"faaf5ba35be90e1df22df573a1f3af78",
+    "wof:geomhash":"991e80102f849a3e5e2274939d8f8b6d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1193097401,
-    "wof:lastmodified":1536365040,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179759,
     "wof:name":"Kitamu",
     "wof:parent_id":102072687,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.42806000000002,
+    106.42806,
     -6.1375,
-    106.42806000000002,
+    106.42806,
     -6.1375
 ],
-  "geometry": {"coordinates":[106.42806000000002,-6.1375],"type":"Point"}
+  "geometry": {"coordinates":[106.42806,-6.1375],"type":"Point"}
 }

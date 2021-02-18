@@ -34,15 +34,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671995,
-        102072687
+        102072687,
+        85671995
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1950706
     },
     "wof:country":"ID",
-    "wof:geomhash":"ceedb6252855116a2efd3af7e201531c",
+    "wof:geomhash":"44168b3ba808ad667dda001d764862ad",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +53,14 @@
         }
     ],
     "wof:id":1310446913,
-    "wof:lastmodified":1537627467,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181342,
     "wof:name":"Telaga Satu",
     "wof:parent_id":102072687,
     "wof:placetype":"locality",
@@ -63,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.51111000000002,
+    106.51111,
     -6.21417,
-    106.51111000000002,
+    106.51111,
     -6.21417
 ],
-  "geometry": {"coordinates":[106.51111000000002,-6.21417],"type":"Point"}
+  "geometry": {"coordinates":[106.51111,-6.21417],"type":"Point"}
 }

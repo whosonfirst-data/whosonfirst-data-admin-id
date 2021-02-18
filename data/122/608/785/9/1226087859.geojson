@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073551
+        102073551,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1993020
     },
     "wof:country":"ID",
-    "wof:geomhash":"31f652670996fc32b50d8ac32b3ed098",
+    "wof:geomhash":"70194fcfee078e8878e1b57f2123446c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1226087859,
-    "wof:lastmodified":1536664425,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613186333,
     "wof:name":"Kebonkelapa",
     "wof:parent_id":102073551,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.97693999999998,
+    106.97694,
     -6.1025,
-    106.97693999999998,
+    106.97694,
     -6.1025
 ],
-  "geometry": {"coordinates":[106.97693999999998,-6.1025],"type":"Point"}
+  "geometry": {"coordinates":[106.97694,-6.1025],"type":"Point"}
 }

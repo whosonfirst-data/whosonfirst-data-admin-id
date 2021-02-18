@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073193
+        102073193,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6403894
     },
     "wof:country":"ID",
-    "wof:geomhash":"1f36403d3f1a382475391e555d9b6b00",
+    "wof:geomhash":"97b966ec31acfb40536f70e64f546647",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1326976165,
-    "wof:lastmodified":1537628877,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613173281,
     "wof:name":"Pasih Dua",
     "wof:parent_id":102073193,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.33693999999998,
+    108.33694,
     -6.45056,
-    108.33693999999998,
+    108.33694,
     -6.45056
 ],
-  "geometry": {"coordinates":[108.33693999999998,-6.45056],"type":"Point"}
+  "geometry": {"coordinates":[108.33694,-6.45056],"type":"Point"}
 }

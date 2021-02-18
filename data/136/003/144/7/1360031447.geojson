@@ -50,15 +50,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072739
+        102072739,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6582792
     },
     "wof:country":"ID",
-    "wof:geomhash":"26c4dfb25fd44814a5e64d485ab30ad5",
+    "wof:geomhash":"e122fb98da3ef077aba3d3bdce1b49a7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -69,7 +69,14 @@
         }
     ],
     "wof:id":1360031447,
-    "wof:lastmodified":1564195291,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613182071,
     "wof:name":"Cangkuang",
     "wof:parent_id":102072739,
     "wof:placetype":"locality",
@@ -79,10 +86,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.07361000000002,
+    108.07361,
     -6.92194,
-    108.07361000000002,
+    108.07361,
     -6.92194
 ],
-  "geometry": {"coordinates":[108.07361000000002,-6.92194],"type":"Point"}
+  "geometry": {"coordinates":[108.07361,-6.92194],"type":"Point"}
 }

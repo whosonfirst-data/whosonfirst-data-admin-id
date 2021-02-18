@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072709
+        102072709,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6410676
     },
     "wof:country":"ID",
-    "wof:geomhash":"96b9ec6b0b054dfa33d7d5576efc1d57",
+    "wof:geomhash":"0078c1e8be24dc5ea5e30ab32abe3348",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1293095045,
-    "wof:lastmodified":1537629084,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175367,
     "wof:name":"Secang",
     "wof:parent_id":102072709,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.41443999999998,
+    110.41444,
     -7.205,
-    110.41443999999998,
+    110.41444,
     -7.205
 ],
-  "geometry": {"coordinates":[110.41443999999998,-7.205],"type":"Point"}
+  "geometry": {"coordinates":[110.41444,-7.205],"type":"Point"}
 }

@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073153
+        102073153,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6380843
     },
     "wof:country":"ID",
-    "wof:geomhash":"00a83882f1e55fe35be4316c80dffa3b",
+    "wof:geomhash":"20c31d06ea376972bcb4276acf17c956",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1226743637,
-    "wof:lastmodified":1537628529,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185428,
     "wof:name":"Kecepit",
     "wof:parent_id":102073153,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.55138999999998,
+    109.55139,
     -7.34083,
-    109.55138999999998,
+    109.55139,
     -7.34083
 ],
-  "geometry": {"coordinates":[109.55138999999998,-7.34083],"type":"Point"}
+  "geometry": {"coordinates":[109.55139,-7.34083],"type":"Point"}
 }

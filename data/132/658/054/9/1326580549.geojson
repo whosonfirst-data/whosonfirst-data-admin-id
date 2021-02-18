@@ -41,15 +41,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672097,
-        1108796843
+        1108796843,
+        85672097
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1651403
     },
     "wof:country":"ID",
-    "wof:geomhash":"745899150f1ba89a57213cae0a1824ad",
+    "wof:geomhash":"a8c27a75b987ffdc3cf49ea61dec6fcf",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -60,7 +60,14 @@
         }
     ],
     "wof:id":1326580549,
-    "wof:lastmodified":1564168233,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613172502,
     "wof:name":"Angar",
     "wof:parent_id":1108796843,
     "wof:placetype":"locality",
@@ -70,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    130.83333000000002,
+    130.83333,
     -3.65,
-    130.83333000000002,
+    130.83333,
     -3.65
 ],
-  "geometry": {"coordinates":[130.83333000000002,-3.65],"type":"Point"}
+  "geometry": {"coordinates":[130.83332999999999,-3.65],"type":"Point"}
 }

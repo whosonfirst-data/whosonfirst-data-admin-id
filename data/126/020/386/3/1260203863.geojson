@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073187
+        102073187,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6566307
     },
     "wof:country":"ID",
-    "wof:geomhash":"6a502386af8eb0dac23efa5384976adc",
+    "wof:geomhash":"9067b70b8e77dfe3fb5c5a76d1c7f256",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1260203863,
-    "wof:lastmodified":1537629287,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613180437,
     "wof:name":"Karangjinem",
     "wof:parent_id":102073187,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.92806000000002,
+    109.92806,
     -7.68444,
-    109.92806000000002,
+    109.92806,
     -7.68444
 ],
-  "geometry": {"coordinates":[109.92806000000002,-7.68444],"type":"Point"}
+  "geometry": {"coordinates":[109.92806,-7.68444],"type":"Point"}
 }

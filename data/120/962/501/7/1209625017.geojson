@@ -34,7 +34,7 @@
         "gn:id":1633382
     },
     "wof:country":"ID",
-    "wof:geomhash":"8324520180762e90214b4c86d9d4df92",
+    "wof:geomhash":"1cc3649aebcc7745fc11475db1583ef9",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209625017,
-    "wof:lastmodified":1536281385,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178424,
     "wof:name":"Padang Kelapa",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     102.25,
-    -3.733330000000001,
+    -3.73333,
     102.25,
-    -3.733330000000001
+    -3.73333
 ],
   "geometry": {"coordinates":[102.25,-3.73333],"type":"Point"}
 }

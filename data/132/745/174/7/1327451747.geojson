@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073469
+        102073469,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2011226
     },
     "wof:country":"ID",
-    "wof:geomhash":"5b81cd0f16586b857d3d0305758b125e",
+    "wof:geomhash":"abbac2a7363144eeaaab41ef777e3c6e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1327451747,
-    "wof:lastmodified":1536652769,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613173521,
     "wof:name":"Mejing",
     "wof:parent_id":102073469,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.17638999999998,
+    110.17639,
     -7.76361,
-    110.17638999999998,
+    110.17639,
     -7.76361
 ],
-  "geometry": {"coordinates":[110.17638999999998,-7.76361],"type":"Point"}
+  "geometry": {"coordinates":[110.17639,-7.76361],"type":"Point"}
 }

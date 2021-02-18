@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072715
+        102072715,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6390119
     },
     "wof:country":"ID",
-    "wof:geomhash":"213ab4e974eddcae6be835dfa2f4e656",
+    "wof:geomhash":"45e00d39b6c30a860ce79ca766cb05b1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1327354081,
-    "wof:lastmodified":1537628706,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613172954,
     "wof:name":"Bantarwuni",
     "wof:parent_id":102072715,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.26888999999998,
+    109.26889,
     -7.39722,
-    109.26888999999998,
+    109.26889,
     -7.39722
 ],
-  "geometry": {"coordinates":[109.26888999999998,-7.39722],"type":"Point"}
+  "geometry": {"coordinates":[109.26889,-7.39722],"type":"Point"}
 }

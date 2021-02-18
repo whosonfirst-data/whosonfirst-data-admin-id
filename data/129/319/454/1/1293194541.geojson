@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072929
+        102072929,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6266305
     },
     "wof:country":"ID",
-    "wof:geomhash":"b121d856c81f1df2dda247b5ff5e6d7f",
+    "wof:geomhash":"5431e699de64f6eeb0d522e49da0f522",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1293194541,
-    "wof:lastmodified":1536712727,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613176787,
     "wof:name":"Kajog",
     "wof:parent_id":102072929,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.91861000000002,
+    110.91861,
     -7.43417,
-    110.91861000000002,
+    110.91861,
     -7.43417
 ],
-  "geometry": {"coordinates":[110.91861000000002,-7.43417],"type":"Point"}
+  "geometry": {"coordinates":[110.91861,-7.43417],"type":"Point"}
 }

@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072639
+        102072639,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6376998
     },
     "wof:country":"ID",
-    "wof:geomhash":"4172b5794a72d4af6a01c1bf6be23e3e",
+    "wof:geomhash":"d5ec10c7892281f3b5aa011051cc962c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1293879981,
-    "wof:lastmodified":1537628483,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613176657,
     "wof:name":"Krajan",
     "wof:parent_id":102072639,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.72693999999998,
+    109.72694,
     -7.74556,
-    109.72693999999998,
+    109.72694,
     -7.74556
 ],
-  "geometry": {"coordinates":[109.72693999999998,-7.74556],"type":"Point"}
+  "geometry": {"coordinates":[109.72694,-7.74556],"type":"Point"}
 }

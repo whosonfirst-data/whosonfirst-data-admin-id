@@ -34,7 +34,7 @@
         "gn:id":6252429
     },
     "wof:country":"ID",
-    "wof:geomhash":"3d959f597bc9edc584db4151dfa26ffa",
+    "wof:geomhash":"e544e29d2bed10d1d29b16227f1086e0",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209409079,
-    "wof:lastmodified":1536287899,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178752,
     "wof:name":"Mendok",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     110.56111,
-    -7.298889999999999,
+    -7.29889,
     110.56111,
-    -7.298889999999999
+    -7.29889
 ],
   "geometry": {"coordinates":[110.56111,-7.29889],"type":"Point"}
 }

@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102073013
+        102073013,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6387192
     },
     "wof:country":"ID",
-    "wof:geomhash":"287f7ac6b1c813497bb2dab0744f42f4",
+    "wof:geomhash":"f47e70f39cde33476a491d0a63fc234c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1226561665,
-    "wof:lastmodified":1537628632,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185643,
     "wof:name":"Bolang",
     "wof:parent_id":102073013,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.30138999999998,
+    111.30139,
     -8.16167,
-    111.30138999999998,
+    111.30139,
     -8.16167
 ],
-  "geometry": {"coordinates":[111.30138999999998,-8.16167],"type":"Point"}
+  "geometry": {"coordinates":[111.30139,-8.16167],"type":"Point"}
 }

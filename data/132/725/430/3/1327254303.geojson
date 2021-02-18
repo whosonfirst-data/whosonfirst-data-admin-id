@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072857
+        102072857,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6259223
     },
     "wof:country":"ID",
-    "wof:geomhash":"8c338bc98a00f7ddce52db0764c4b138",
+    "wof:geomhash":"8791010c54bad44b2bdf7109e784e2f7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1327254303,
-    "wof:lastmodified":1536938757,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613172705,
     "wof:name":"Bringin Kulon",
     "wof:parent_id":102072857,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.30861000000002,
+    110.30861,
     -7.58889,
-    110.30861000000002,
+    110.30861,
     -7.58889
 ],
-  "geometry": {"coordinates":[110.30861000000002,-7.58889],"type":"Point"}
+  "geometry": {"coordinates":[110.30861,-7.58889],"type":"Point"}
 }

@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072739
+        102072739,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6584162
     },
     "wof:country":"ID",
-    "wof:geomhash":"09ed04bf01069e96f7f20c6294b8ce5d",
+    "wof:geomhash":"fd5ee29a4fbc6fc8cc296706eccfcf0a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1327080251,
-    "wof:lastmodified":1537629549,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613172044,
     "wof:name":"Caringin",
     "wof:parent_id":102072739,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.76888999999998,
+    107.76889,
     -6.93556,
-    107.76888999999998,
+    107.76889,
     -6.93556
 ],
-  "geometry": {"coordinates":[107.76888999999998,-6.93556],"type":"Point"}
+  "geometry": {"coordinates":[107.76889,-6.93556],"type":"Point"}
 }

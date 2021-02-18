@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073551
+        102073551,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6606050
     },
     "wof:country":"ID",
-    "wof:geomhash":"463876f662010871f9e802ae0d9b836a",
+    "wof:geomhash":"38d88ed3234c3f59195fc016dfedf842",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1276495657,
-    "wof:lastmodified":1537630096,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177838,
     "wof:name":"Utankecil",
     "wof:parent_id":102073551,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.10193999999998,
+    107.10194,
     -6.08278,
-    107.10193999999998,
+    107.10194,
     -6.08278
 ],
-  "geometry": {"coordinates":[107.10193999999998,-6.08278],"type":"Point"}
+  "geometry": {"coordinates":[107.10194,-6.08278],"type":"Point"}
 }

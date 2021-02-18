@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672037,
-        102073481
+        102073481,
+        85672037
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1937342
     },
     "wof:country":"ID",
-    "wof:geomhash":"b1bb9d67c69c20f3ad0fdf5822e4b210",
+    "wof:geomhash":"96526cbff70550b71799f5d25ef5ae2b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1292966575,
-    "wof:lastmodified":1537039390,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613176451,
     "wof:name":"Nunukfehan",
     "wof:parent_id":102073481,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    124.98111000000002,
+    124.98111,
     -9.25333,
-    124.98111000000002,
+    124.98111,
     -9.25333
 ],
-  "geometry": {"coordinates":[124.98111000000002,-9.25333],"type":"Point"}
+  "geometry": {"coordinates":[124.98111,-9.25333],"type":"Point"}
 }

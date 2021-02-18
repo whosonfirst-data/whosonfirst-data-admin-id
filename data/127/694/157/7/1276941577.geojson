@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672111,
-        102073211
+        102073211,
+        85672111
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1968618
     },
     "wof:country":"ID",
-    "wof:geomhash":"c0bb98ce31015a054f59eaa113f9fc9c",
+    "wof:geomhash":"615622d0117df2ca8670f4c5493bef3c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1276941577,
-    "wof:lastmodified":1536958681,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177404,
     "wof:name":"Lapter",
     "wof:parent_id":102073211,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    120.63611000000002,
+    120.63611,
     -1.76,
-    120.63611000000002,
+    120.63611,
     -1.76
 ],
-  "geometry": {"coordinates":[120.63611000000002,-1.76],"type":"Point"}
+  "geometry": {"coordinates":[120.63611,-1.76],"type":"Point"}
 }

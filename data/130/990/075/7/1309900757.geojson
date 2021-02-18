@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073265
+        102073265,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2004896
     },
     "wof:country":"ID",
-    "wof:geomhash":"907d7f36113676dc91f3908665fa2100",
+    "wof:geomhash":"3d309bf2661a55edc6f9a8270067466f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1309900757,
-    "wof:lastmodified":1536794466,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613182180,
     "wof:name":"Brongkul",
     "wof:parent_id":102073265,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.28943999999998,
+    110.28944,
     -7.77917,
-    110.28943999999998,
+    110.28944,
     -7.77917
 ],
-  "geometry": {"coordinates":[110.28943999999998,-7.77917],"type":"Point"}
+  "geometry": {"coordinates":[110.28944,-7.77917],"type":"Point"}
 }

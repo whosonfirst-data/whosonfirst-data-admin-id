@@ -182,15 +182,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073265
+        102073265,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6264713
     },
     "wof:country":"ID",
-    "wof:geomhash":"00a36e37221a52979a9b5ff871bc85be",
+    "wof:geomhash":"2e5d891a55172ae23af2090f02261431",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -201,7 +201,14 @@
         }
     ],
     "wof:id":1309884449,
-    "wof:lastmodified":1564196690,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613182530,
     "wof:name":"Banteng",
     "wof:parent_id":102073265,
     "wof:placetype":"locality",
@@ -211,10 +218,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.39388999999998,
+    110.39389,
     -7.735,
-    110.39388999999998,
+    110.39389,
     -7.735
 ],
-  "geometry": {"coordinates":[110.39388999999998,-7.735],"type":"Point"}
+  "geometry": {"coordinates":[110.39389,-7.735],"type":"Point"}
 }

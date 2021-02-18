@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072639
+        102072639,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6565770
     },
     "wof:country":"ID",
-    "wof:geomhash":"084f4b91456bffe9f316f74b9669c6a9",
+    "wof:geomhash":"787e5d6e0ab28d529f985b8116a05766",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1293480989,
-    "wof:lastmodified":1537629270,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175781,
     "wof:name":"Singluk",
     "wof:parent_id":102072639,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.76111000000002,
+    109.76111,
     -7.69139,
-    109.76111000000002,
+    109.76111,
     -7.69139
 ],
-  "geometry": {"coordinates":[109.76111000000002,-7.69139],"type":"Point"}
+  "geometry": {"coordinates":[109.76111,-7.69139],"type":"Point"}
 }

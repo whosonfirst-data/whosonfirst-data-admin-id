@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073405
+        102073405,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2011328
     },
     "wof:country":"ID",
-    "wof:geomhash":"5f8f16fbafd2294a12afbc58bd8eb1aa",
+    "wof:geomhash":"74d95532b813d5db59ebbf53d1103577",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1243061567,
-    "wof:lastmodified":1536861974,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613182969,
     "wof:name":"Godong",
     "wof:parent_id":102073405,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.72693999999998,
+    110.72694,
     -7.57944,
-    110.72693999999998,
+    110.72694,
     -7.57944
 ],
-  "geometry": {"coordinates":[110.72693999999998,-7.57944],"type":"Point"}
+  "geometry": {"coordinates":[110.72694,-7.57944],"type":"Point"}
 }

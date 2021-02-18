@@ -33,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672115,
-        102073081
+        102073081,
+        85672115
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2082570
     },
     "wof:country":"ID",
-    "wof:geomhash":"e5183a3ee4ef10147d264849258c8a72",
+    "wof:geomhash":"72ab168488937a2f9545bc7368cf8ab3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,7 +52,14 @@
         }
     ],
     "wof:id":1243021231,
-    "wof:lastmodified":1537628279,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183769,
     "wof:name":"Kolonya",
     "wof:parent_id":102073081,
     "wof:placetype":"locality",
@@ -62,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    140.91666999999995,
+    140.91667,
     -2.7,
-    140.91666999999995,
+    140.91667,
     -2.7
 ],
-  "geometry": {"coordinates":[140.91666999999995,-2.7],"type":"Point"}
+  "geometry": {"coordinates":[140.91667000000001,-2.7],"type":"Point"}
 }

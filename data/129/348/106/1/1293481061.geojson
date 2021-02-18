@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072587
+        102072587,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6567348
     },
     "wof:country":"ID",
-    "wof:geomhash":"41119f07baab9d339733aac00ca2dc58",
+    "wof:geomhash":"bd1bdf0550c05d719dfa54522cb1e338",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1293481061,
-    "wof:lastmodified":1537629318,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175788,
     "wof:name":"Bulupayung",
     "wof:parent_id":102072587,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.94693999999998,
+    109.94694,
     -7.42778,
-    109.94693999999998,
+    109.94694,
     -7.42778
 ],
-  "geometry": {"coordinates":[109.94693999999998,-7.42778],"type":"Point"}
+  "geometry": {"coordinates":[109.94694,-7.42778],"type":"Point"}
 }

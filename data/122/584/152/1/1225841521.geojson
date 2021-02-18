@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102072775
+        102072775,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6409634
     },
     "wof:country":"ID",
-    "wof:geomhash":"9b8af93d251196840d96c26c943a4e50",
+    "wof:geomhash":"e388109b31464c8c34d19097ddc152f5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1225841521,
-    "wof:lastmodified":1537629048,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613186593,
     "wof:name":"Tempursari",
     "wof:parent_id":102072775,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.12111000000002,
+    111.12111,
     -7.40972,
-    111.12111000000002,
+    111.12111,
     -7.40972
 ],
-  "geometry": {"coordinates":[111.12111000000002,-7.40972],"type":"Point"}
+  "geometry": {"coordinates":[111.12111,-7.40972],"type":"Point"}
 }

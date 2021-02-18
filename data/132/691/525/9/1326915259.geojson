@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102073013
+        102073013,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6387169
     },
     "wof:country":"ID",
-    "wof:geomhash":"697dbcb6faea0f3270fba34082b58cb6",
+    "wof:geomhash":"d4babea3e68405b5eedc6f9213689a8e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1326915259,
-    "wof:lastmodified":1537628631,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613173355,
     "wof:name":"Wijil",
     "wof:parent_id":102073013,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.26888999999998,
+    111.26889,
     -8.15306,
-    111.26888999999998,
+    111.26889,
     -8.15306
 ],
-  "geometry": {"coordinates":[111.26888999999998,-8.15306],"type":"Point"}
+  "geometry": {"coordinates":[111.26889,-8.15306],"type":"Point"}
 }

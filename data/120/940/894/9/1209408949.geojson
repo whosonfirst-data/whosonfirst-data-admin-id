@@ -34,7 +34,7 @@
         "gn:id":6199478
     },
     "wof:country":"ID",
-    "wof:geomhash":"50d8fc9fab67317b2f6efec8c935afda",
+    "wof:geomhash":"5bee273453827b8927871c9a66f4f2f7",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209408949,
-    "wof:lastmodified":1536287903,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178760,
     "wof:name":"Lembangan",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -52,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.16306000000002,
+    110.16306,
     -7.37944,
-    110.16306000000002,
+    110.16306,
     -7.37944
 ],
-  "geometry": {"coordinates":[110.16306000000002,-7.37944],"type":"Point"}
+  "geometry": {"coordinates":[110.16306,-7.37944],"type":"Point"}
 }

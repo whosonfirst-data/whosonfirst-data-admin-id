@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073529
+        102073529,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6579651
     },
     "wof:country":"ID",
-    "wof:geomhash":"ea634fad4c37c0d12849c5ecff1b0b23",
+    "wof:geomhash":"427c9606ebd4b50ada57ae26793432df",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1310055261,
-    "wof:lastmodified":1537629436,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181594,
     "wof:name":"Pasirrais",
     "wof:parent_id":102073529,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.22556000000002,
+    107.22556,
     -6.87333,
-    107.22556000000002,
+    107.22556,
     -6.87333
 ],
-  "geometry": {"coordinates":[107.22556000000002,-6.87333],"type":"Point"}
+  "geometry": {"coordinates":[107.22556,-6.87333],"type":"Point"}
 }

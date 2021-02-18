@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072947
+        102072947,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6407153
     },
     "wof:country":"ID",
-    "wof:geomhash":"6edf559c4987e245c838e32b4fbe1d24",
+    "wof:geomhash":"89b38ecb60a6c89662ed9ea7181ec0f5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1243192735,
-    "wof:lastmodified":1537628981,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613184177,
     "wof:name":"Ngrandu",
     "wof:parent_id":102072947,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.22693999999998,
+    111.22694,
     -7.80833,
-    111.22693999999998,
+    111.22694,
     -7.80833
 ],
-  "geometry": {"coordinates":[111.22693999999998,-7.80833],"type":"Point"}
+  "geometry": {"coordinates":[111.22694,-7.80833],"type":"Point"}
 }

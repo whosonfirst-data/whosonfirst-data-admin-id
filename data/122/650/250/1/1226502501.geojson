@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073515
+        102073515,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6396232
     },
     "wof:country":"ID",
-    "wof:geomhash":"883245a692f2323d589ea66174dd5025",
+    "wof:geomhash":"386f26d36a91f20c6d9299fac1db7a62",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1226502501,
-    "wof:lastmodified":1537628745,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185801,
     "wof:name":"Wanajaya",
     "wof:parent_id":102073515,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.26111000000002,
+    108.26111,
     -6.65806,
-    108.26111000000002,
+    108.26111,
     -6.65806
 ],
-  "geometry": {"coordinates":[108.26111000000002,-6.65806],"type":"Point"}
+  "geometry": {"coordinates":[108.26111,-6.65806],"type":"Point"}
 }

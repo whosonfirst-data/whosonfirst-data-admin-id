@@ -34,15 +34,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072809
+        102072809,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1963254
     },
     "wof:country":"ID",
-    "wof:geomhash":"30414209da9235839874cfe2bfa91c1e",
+    "wof:geomhash":"dc915051b56d86a8d16035cf3ce9887c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +53,14 @@
         }
     ],
     "wof:id":1310497901,
-    "wof:lastmodified":1537627702,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613180846,
     "wof:name":"Krincing",
     "wof:parent_id":102072809,
     "wof:placetype":"locality",
@@ -63,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.33693999999998,
+    110.33694,
     -7.17083,
-    110.33693999999998,
+    110.33694,
     -7.17083
 ],
-  "geometry": {"coordinates":[110.33693999999998,-7.17083],"type":"Point"}
+  "geometry": {"coordinates":[110.33694,-7.17083],"type":"Point"}
 }

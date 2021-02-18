@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073417
+        102073417,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6388151
     },
     "wof:country":"ID",
-    "wof:geomhash":"a4605b3fa9ffa94936cd1cd2e63f25b1",
+    "wof:geomhash":"d9a743c4c33c0239e17a160535a3b32d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1259474257,
-    "wof:lastmodified":1537628662,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613184638,
     "wof:name":"Tamanwatupolo",
     "wof:parent_id":102073417,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.95638999999998,
+    108.95639,
     -7.12972,
-    108.95638999999998,
+    108.95639,
     -7.12972
 ],
-  "geometry": {"coordinates":[108.95638999999998,-7.12972],"type":"Point"}
+  "geometry": {"coordinates":[108.95639,-7.12972],"type":"Point"}
 }

@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672037,
-        102073481
+        102073481,
+        85672037
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1947017
     },
     "wof:country":"ID",
-    "wof:geomhash":"a347a200e62355567b48db6268b528a4",
+    "wof:geomhash":"7c7ac0f5754e212bc75d1fab1c0f155b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1343624321,
-    "wof:lastmodified":1537006568,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613173913,
     "wof:name":"Kleik",
     "wof:parent_id":102073481,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    124.88611000000002,
+    124.88611,
     -9.63194,
-    124.88611000000002,
+    124.88611,
     -9.63194
 ],
-  "geometry": {"coordinates":[124.88611000000002,-9.63194],"type":"Point"}
+  "geometry": {"coordinates":[124.88611,-9.63194],"type":"Point"}
 }

@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073313
+        102073313,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2005152
     },
     "wof:country":"ID",
-    "wof:geomhash":"ca8d919611586135c6b0fdeb059b9416",
+    "wof:geomhash":"466658c504661adcbac23bf1f816df44",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1310495153,
-    "wof:lastmodified":1536932596,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613180879,
     "wof:name":"Tlogo Kidul",
     "wof:parent_id":102073313,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.31638999999998,
+    110.31639,
     -7.80917,
-    110.31638999999998,
+    110.31639,
     -7.80917
 ],
-  "geometry": {"coordinates":[110.31638999999998,-7.80917],"type":"Point"}
+  "geometry": {"coordinates":[110.31639,-7.80917],"type":"Point"}
 }

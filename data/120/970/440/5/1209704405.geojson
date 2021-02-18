@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073469
+        102073469,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2009257
     },
     "wof:country":"ID",
-    "wof:geomhash":"c73037f8404d1f7b13e3ee1e76741d9e",
+    "wof:geomhash":"592153aff4ae8989a51762b5d0380c64",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1209704405,
-    "wof:lastmodified":1536393512,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178647,
     "wof:name":"Kedungpeluk",
     "wof:parent_id":102073469,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.07193999999998,
+    110.07194,
     -7.89139,
-    110.07193999999998,
+    110.07194,
     -7.89139
 ],
-  "geometry": {"coordinates":[110.07193999999998,-7.89139],"type":"Point"}
+  "geometry": {"coordinates":[110.07194,-7.89139],"type":"Point"}
 }

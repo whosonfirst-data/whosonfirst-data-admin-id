@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671995,
-        102073479
+        102073479,
+        85671995
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1644236
     },
     "wof:country":"ID",
-    "wof:geomhash":"48d80cea18f84793c2d7427b1aa2cba9",
+    "wof:geomhash":"66d2afe8dcd20bb1ad706afb131f6a1c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,7 +54,14 @@
         }
     ],
     "wof:id":1193097359,
-    "wof:lastmodified":1537627114,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179766,
     "wof:name":"Gembor",
     "wof:parent_id":102073479,
     "wof:placetype":"locality",
@@ -64,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.35193999999998,
+    106.35194,
     -6.15639,
-    106.35193999999998,
+    106.35194,
     -6.15639
 ],
-  "geometry": {"coordinates":[106.35193999999998,-6.15639],"type":"Point"}
+  "geometry": {"coordinates":[106.35194,-6.15639],"type":"Point"}
 }

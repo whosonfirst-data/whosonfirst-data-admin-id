@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072709
+        102072709,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6410813
     },
     "wof:country":"ID",
-    "wof:geomhash":"10576e33e5b60f65a55004eb040271fa",
+    "wof:geomhash":"2407ff92435d08f61373011e37b5beab",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1243545405,
-    "wof:lastmodified":1537629088,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613182887,
     "wof:name":"Nyemoh Timur",
     "wof:parent_id":102072709,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.58693999999998,
+    110.58694,
     -7.21583,
-    110.58693999999998,
+    110.58694,
     -7.21583
 ],
-  "geometry": {"coordinates":[110.58693999999998,-7.21583],"type":"Point"}
+  "geometry": {"coordinates":[110.58694,-7.21583],"type":"Point"}
 }

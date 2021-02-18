@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672097,
-        1108796839
+        1108796839,
+        85672097
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8042952
     },
     "wof:country":"ID",
-    "wof:geomhash":"38e26d510557966e8f8a177ce607f328",
+    "wof:geomhash":"97e13c1a9e673ca41d76ec941b6c0cbd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,7 +54,14 @@
         }
     ],
     "wof:id":1277138269,
-    "wof:lastmodified":1537635103,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177649,
     "wof:name":"Murikau",
     "wof:parent_id":1108796839,
     "wof:placetype":"locality",
@@ -64,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    128.28361999999998,
+    128.28362,
     -3.03791,
-    128.28361999999998,
+    128.28362,
     -3.03791
 ],
-  "geometry": {"coordinates":[128.28361999999998,-3.03791],"type":"Point"}
+  "geometry": {"coordinates":[128.28362000000001,-3.03791],"type":"Point"}
 }

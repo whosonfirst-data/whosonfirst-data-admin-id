@@ -37,7 +37,7 @@
         "gn:id":6411518
     },
     "wof:country":"ID",
-    "wof:geomhash":"19a92164405d00b7eab7727813c1f048",
+    "wof:geomhash":"9fce69365760cbe326b18e1b2c11c77a",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -45,7 +45,14 @@
         }
     ],
     "wof:id":1209097139,
-    "wof:lastmodified":1537629111,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178271,
     "wof:name":"Bogoran",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -55,10 +62,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.07361000000002,
+    111.07361,
     -7.29139,
-    111.07361000000002,
+    111.07361,
     -7.29139
 ],
-  "geometry": {"coordinates":[111.07361000000002,-7.29139],"type":"Point"}
+  "geometry": {"coordinates":[111.07361,-7.29139],"type":"Point"}
 }

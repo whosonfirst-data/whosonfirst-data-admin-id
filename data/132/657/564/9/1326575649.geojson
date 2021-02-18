@@ -36,15 +36,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671995,
-        102072687
+        102072687,
+        85671995
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1630650
     },
     "wof:country":"ID",
-    "wof:geomhash":"1f63d2ad67a2f120095f04107a3f4b0c",
+    "wof:geomhash":"82018fafd56daec7607d6dd8bb15e2cf",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -55,7 +55,14 @@
         }
     ],
     "wof:id":1326575649,
-    "wof:lastmodified":1537626691,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613172651,
     "wof:name":"Priang Satu",
     "wof:parent_id":102072687,
     "wof:placetype":"locality",
@@ -65,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.64943999999998,
+    106.64944,
     -6.2575,
-    106.64943999999998,
+    106.64944,
     -6.2575
 ],
-  "geometry": {"coordinates":[106.64943999999998,-6.2575],"type":"Point"}
+  "geometry": {"coordinates":[106.64944,-6.2575],"type":"Point"}
 }

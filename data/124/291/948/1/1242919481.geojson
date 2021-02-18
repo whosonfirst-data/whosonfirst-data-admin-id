@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073551
+        102073551,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1964495
     },
     "wof:country":"ID",
-    "wof:geomhash":"93621a8756c3c44b45582911d688c6f5",
+    "wof:geomhash":"c716c65e78fb17dc132ba477c46f44e5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1242919481,
-    "wof:lastmodified":1537627763,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183977,
     "wof:name":"Bulaklebar",
     "wof:parent_id":102073551,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.12888999999998,
+    107.12889,
     -6.20028,
-    107.12888999999998,
+    107.12889,
     -6.20028
 ],
-  "geometry": {"coordinates":[107.12888999999998,-6.20028],"type":"Point"}
+  "geometry": {"coordinates":[107.12889,-6.20028],"type":"Point"}
 }

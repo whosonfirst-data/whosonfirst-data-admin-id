@@ -34,7 +34,7 @@
         "gn:id":2006983
     },
     "wof:country":"ID",
-    "wof:geomhash":"e041e065bf75f0c29b27d45496ec19aa",
+    "wof:geomhash":"9d1d819d679b0344a7f61cc9066c99da",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209097433,
-    "wof:lastmodified":1536297842,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178283,
     "wof:name":"Pokoh",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     110.57861,
-    -7.7080600000000015,
+    -7.70806,
     110.57861,
-    -7.7080600000000015
+    -7.70806
 ],
   "geometry": {"coordinates":[110.57861,-7.70806],"type":"Point"}
 }

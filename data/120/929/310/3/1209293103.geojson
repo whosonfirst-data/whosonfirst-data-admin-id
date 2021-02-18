@@ -34,7 +34,7 @@
         "gn:id":1999334
     },
     "wof:country":"ID",
-    "wof:geomhash":"e08f8ea9b8e41875b7d816844a4287f6",
+    "wof:geomhash":"7882d35922bc351a90f95595b939ea4c",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209293103,
-    "wof:lastmodified":1536291625,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179282,
     "wof:name":"Klumprit Satu",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -52,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.52306000000002,
+    110.52306,
     -7.805,
-    110.52306000000002,
+    110.52306,
     -7.805
 ],
-  "geometry": {"coordinates":[110.52306000000002,-7.805],"type":"Point"}
+  "geometry": {"coordinates":[110.52306,-7.805],"type":"Point"}
 }

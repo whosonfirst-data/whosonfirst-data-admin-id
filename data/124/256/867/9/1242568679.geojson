@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072733
+        102072733,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1934793
     },
     "wof:country":"ID",
-    "wof:geomhash":"978d0f226cffdba41584ad5d6d919591",
+    "wof:geomhash":"0f6b27a0b875d918968bd11e8cc44b3a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1242568679,
-    "wof:lastmodified":1537073448,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183303,
     "wof:name":"Ngelosari",
     "wof:parent_id":102072733,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.96193999999998,
+    110.96194,
     -7.63917,
-    110.96193999999998,
+    110.96194,
     -7.63917
 ],
-  "geometry": {"coordinates":[110.96193999999998,-7.63917],"type":"Point"}
+  "geometry": {"coordinates":[110.96194,-7.63917],"type":"Point"}
 }

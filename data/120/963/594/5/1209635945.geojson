@@ -34,7 +34,7 @@
         "gn:id":6263736
     },
     "wof:country":"ID",
-    "wof:geomhash":"c516009fba0e1a82c5aa0bad091203dc",
+    "wof:geomhash":"9aabf7a18a9686b125a17b79aca957c9",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209635945,
-    "wof:lastmodified":1536281045,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178522,
     "wof:name":"Dunak",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     110.95028,
-    -7.308610000000002,
+    -7.30861,
     110.95028,
-    -7.308610000000002
+    -7.30861
 ],
   "geometry": {"coordinates":[110.95028000000001,-7.30861],"type":"Point"}
 }

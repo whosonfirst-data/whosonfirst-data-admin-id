@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073295
+        102073295,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6601580
     },
     "wof:country":"ID",
-    "wof:geomhash":"09d32b1f0e1cd2d8b4292c31d51840a8",
+    "wof:geomhash":"fe7d8642d46049218c0d26949f6838c2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1276280275,
-    "wof:lastmodified":1537629989,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177166,
     "wof:name":"Babakanbuah",
     "wof:parent_id":102073295,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.58693999999998,
+    107.58694,
     -6.405,
-    107.58693999999998,
+    107.58694,
     -6.405
 ],
-  "geometry": {"coordinates":[107.58693999999998,-6.405],"type":"Point"}
+  "geometry": {"coordinates":[107.58694,-6.405],"type":"Point"}
 }

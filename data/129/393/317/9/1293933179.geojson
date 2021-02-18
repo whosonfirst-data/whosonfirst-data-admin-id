@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072937
+        102072937,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1949152
     },
     "wof:country":"ID",
-    "wof:geomhash":"ddc101de1bc99faff5e7e1a617d5201e",
+    "wof:geomhash":"f00b4566a650667c7f4a2583be1e1b9c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,7 +54,14 @@
         }
     ],
     "wof:id":1293933179,
-    "wof:lastmodified":1537627447,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613176314,
     "wof:name":"Sarengseng",
     "wof:parent_id":102072937,
     "wof:placetype":"locality",
@@ -64,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.48888999999998,
+    107.48889,
     -6.36361,
-    107.48888999999998,
+    107.48889,
     -6.36361
 ],
-  "geometry": {"coordinates":[107.48888999999998,-6.36361],"type":"Point"}
+  "geometry": {"coordinates":[107.48889,-6.36361],"type":"Point"}
 }

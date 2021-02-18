@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073217
+        102073217,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6605378
     },
     "wof:country":"ID",
-    "wof:geomhash":"28a2b1c32778e0802eb3b9998d9f50eb",
+    "wof:geomhash":"f1e23c38da621ddbb14e3cb982a85ed6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1327180055,
-    "wof:lastmodified":1537630071,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613173628,
     "wof:name":"Bubulak",
     "wof:parent_id":102073217,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.64806000000002,
+    106.64806,
     -6.58806,
-    106.64806000000002,
+    106.64806,
     -6.58806
 ],
-  "geometry": {"coordinates":[106.64806000000002,-6.58806],"type":"Point"}
+  "geometry": {"coordinates":[106.64806,-6.58806],"type":"Point"}
 }

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"115.1754705,-8.164297,115.1754705,-8.164297",
+    "geom:bbox":"115.175471,-8.164297,115.175471,-8.164297",
     "geom:latitude":-8.164297,
     "geom:longitude":115.175471,
     "gp:adm0":23424846,
@@ -69,8 +69,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672023,
-        102072781
+        102072781,
+        85672023
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -80,7 +80,7 @@
     },
     "wof:country":"ID",
     "wof:created":1469055220,
-    "wof:geomhash":"9f4506db69f29c7557c8e230c52eeedf",
+    "wof:geomhash":"9f3086fb00100fc846bcd12dba0552fb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -91,7 +91,14 @@
         }
     ],
     "wof:id":890499527,
-    "wof:lastmodified":1563273810,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613182627,
     "wof:name":"Suwug",
     "wof:parent_id":102072781,
     "wof:placetype":"locality",
@@ -101,10 +108,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    115.1754705,
+    115.175471,
     -8.164297,
-    115.1754705,
+    115.175471,
     -8.164297
 ],
-  "geometry": {"coordinates":[115.1754705,-8.164297],"type":"Point"}
+  "geometry": {"coordinates":[115.175471,-8.164297],"type":"Point"}
 }

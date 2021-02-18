@@ -34,7 +34,7 @@
         "gn:id":6259439
     },
     "wof:country":"ID",
-    "wof:geomhash":"4e9f3719516d9da89aa167130b3e78e4",
+    "wof:geomhash":"abe5bf20d2ab6e3cd8aa7b0fe38883d5",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209506057,
-    "wof:lastmodified":1536285032,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178909,
     "wof:name":"Sucen",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     110.31944,
-    -7.622219999999999,
+    -7.62222,
     110.31944,
-    -7.622219999999999
+    -7.62222
 ],
   "geometry": {"coordinates":[110.31944,-7.62222],"type":"Point"}
 }

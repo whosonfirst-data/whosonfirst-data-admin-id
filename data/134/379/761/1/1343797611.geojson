@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672081,
-        102072597
+        102072597,
+        85672081
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1993235
     },
     "wof:country":"ID",
-    "wof:geomhash":"54a34105726f5004a086024f365ac4c5",
+    "wof:geomhash":"186c7d60d389b3e420238c230fc63268",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1343797611,
-    "wof:lastmodified":1536757467,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613174337,
     "wof:name":"Tuminting",
     "wof:parent_id":102072597,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    124.85193999999998,
+    124.85194,
     1.52028,
-    124.85193999999998,
+    124.85194,
     1.52028
 ],
-  "geometry": {"coordinates":[124.85193999999998,1.52028],"type":"Point"}
+  "geometry": {"coordinates":[124.85194,1.52028],"type":"Point"}
 }

@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073233
+        102073233,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2008687
     },
     "wof:country":"ID",
-    "wof:geomhash":"28402e07cd1a585abe3ac963c3fbd72d",
+    "wof:geomhash":"c314e77fe1069a5f5c69dfc523b18126",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1243474763,
-    "wof:lastmodified":1536765124,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183432,
     "wof:name":"Nyidran",
     "wof:parent_id":102073233,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.70638999999998,
+    110.70639,
     -7.70111,
-    110.70638999999998,
+    110.70639,
     -7.70111
 ],
-  "geometry": {"coordinates":[110.70638999999998,-7.70111],"type":"Point"}
+  "geometry": {"coordinates":[110.70639,-7.70111],"type":"Point"}
 }

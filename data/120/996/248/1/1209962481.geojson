@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073529
+        102073529,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6588751
     },
     "wof:country":"ID",
-    "wof:geomhash":"fecf23043d50bbdb4ea6da2d1e0cd1c3",
+    "wof:geomhash":"7fead738cd400148cc28d1f18bfa3777",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1209962481,
-    "wof:lastmodified":1537629623,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178408,
     "wof:name":"Cogreg Kulon",
     "wof:parent_id":102073529,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.14943999999998,
+    107.14944,
     -6.94278,
-    107.14943999999998,
+    107.14944,
     -6.94278
 ],
-  "geometry": {"coordinates":[107.14943999999998,-6.94278],"type":"Point"}
+  "geometry": {"coordinates":[107.14944,-6.94278],"type":"Point"}
 }

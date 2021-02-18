@@ -33,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672005,
-        102073007
+        102073007,
+        85672005
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1625993
     },
     "wof:country":"ID",
-    "wof:geomhash":"98447463dc4b668f3e27ba987f0ef3a8",
+    "wof:geomhash":"0e37cbdf14bc52b41c065844b1e192f7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,7 +52,14 @@
         }
     ],
     "wof:id":1259857235,
-    "wof:lastmodified":1537626558,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613184676,
     "wof:name":"Sungaiduri",
     "wof:parent_id":102073007,
     "wof:placetype":"locality",
@@ -62,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.92891000000002,
+    108.92891,
     0.5664,
-    108.92891000000002,
+    108.92891,
     0.5664
 ],
-  "geometry": {"coordinates":[108.92891000000002,0.5664],"type":"Point"}
+  "geometry": {"coordinates":[108.92891,0.5664],"type":"Point"}
 }

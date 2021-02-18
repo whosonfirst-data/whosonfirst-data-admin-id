@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072733
+        102072733,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6560549
     },
     "wof:country":"ID",
-    "wof:geomhash":"ca21de02bd46ad17bb3bbf1d3f5c7d32",
+    "wof:geomhash":"cfd4b1333ca257a1de484a9ff9bfb449",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1276758385,
-    "wof:lastmodified":1537629138,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177078,
     "wof:name":"Kalibayan",
     "wof:parent_id":102072733,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.05306000000002,
+    111.05306,
     -7.72028,
-    111.05306000000002,
+    111.05306,
     -7.72028
 ],
-  "geometry": {"coordinates":[111.05306000000002,-7.72028],"type":"Point"}
+  "geometry": {"coordinates":[111.05306,-7.72028],"type":"Point"}
 }

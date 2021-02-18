@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072947
+        102072947,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6256145
     },
     "wof:country":"ID",
-    "wof:geomhash":"87b5662e23913aff6c31653c34a39b44",
+    "wof:geomhash":"3a1a4a112090d097ab92f54bef4fd259",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1242771675,
-    "wof:lastmodified":1536784674,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183803,
     "wof:name":"Pucanganom",
     "wof:parent_id":102072947,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.83556000000002,
+    110.83556,
     -7.84139,
-    110.83556000000002,
+    110.83556,
     -7.84139
 ],
-  "geometry": {"coordinates":[110.83556000000002,-7.84139],"type":"Point"}
+  "geometry": {"coordinates":[110.83556,-7.84139],"type":"Point"}
 }

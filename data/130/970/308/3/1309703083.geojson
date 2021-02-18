@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073233
+        102073233,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2007367
     },
     "wof:country":"ID",
-    "wof:geomhash":"a659cad9ebb0c3fcdb0d3da748c9a16b",
+    "wof:geomhash":"b9536f7448eccdf24129f71fedb85b7b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1309703083,
-    "wof:lastmodified":1537076151,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613182235,
     "wof:name":"Sidokerso",
     "wof:parent_id":102073233,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.52443999999998,
+    110.52444,
     -7.72722,
-    110.52443999999998,
+    110.52444,
     -7.72722
 ],
-  "geometry": {"coordinates":[110.52443999999998,-7.72722],"type":"Point"}
+  "geometry": {"coordinates":[110.52444,-7.72722],"type":"Point"}
 }

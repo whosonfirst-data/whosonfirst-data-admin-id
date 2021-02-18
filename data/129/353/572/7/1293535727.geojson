@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072949
+        102072949,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1986251
     },
     "wof:country":"ID",
-    "wof:geomhash":"5b1c7277928da19e2ab06925c4c6fa47",
+    "wof:geomhash":"0488350cedd24773791fda547b46cca3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1293535727,
-    "wof:lastmodified":1536717953,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175451,
     "wof:name":"Limus",
     "wof:parent_id":102072949,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.69693999999998,
+    107.69694,
     -7.1175,
-    107.69693999999998,
+    107.69694,
     -7.1175
 ],
-  "geometry": {"coordinates":[107.69693999999998,-7.1175],"type":"Point"}
+  "geometry": {"coordinates":[107.69694,-7.1175],"type":"Point"}
 }

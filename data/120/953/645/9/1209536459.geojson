@@ -34,7 +34,7 @@
         "gn:id":6266598
     },
     "wof:country":"ID",
-    "wof:geomhash":"b09fe900cab02222e402e067f17ae0a1",
+    "wof:geomhash":"3c9988dd9db0fbd1da8ca179f581b36e",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209536459,
-    "wof:lastmodified":1536284126,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178349,
     "wof:name":"Gunden",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     110.90222,
-    -7.496110000000002,
+    -7.49611,
     110.90222,
-    -7.496110000000002
+    -7.49611
 ],
   "geometry": {"coordinates":[110.90222,-7.49611],"type":"Point"}
 }

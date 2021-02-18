@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072739
+        102072739,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6582561
     },
     "wof:country":"ID",
-    "wof:geomhash":"8381cb6e4b5b631c033cde2ccc1ecf3d",
+    "wof:geomhash":"64160c3bb31cb3f9db9141d89591834d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1293350687,
-    "wof:lastmodified":1537629503,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613176220,
     "wof:name":"Tegallaja",
     "wof:parent_id":102072739,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.89943999999998,
+    107.89944,
     -6.71417,
-    107.89943999999998,
+    107.89944,
     -6.71417
 ],
-  "geometry": {"coordinates":[107.89943999999998,-6.71417],"type":"Point"}
+  "geometry": {"coordinates":[107.89944,-6.71417],"type":"Point"}
 }

@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073449
+        102073449,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6598935
     },
     "wof:country":"ID",
-    "wof:geomhash":"4be724a36dc2e579ca190302b8e9925c",
+    "wof:geomhash":"891ef339416e789d6311046901cb77d6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1326780187,
-    "wof:lastmodified":1537629944,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613173091,
     "wof:name":"Cirangrang Timur",
     "wof:parent_id":102073449,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.58556000000002,
+    107.58556,
     -6.95306,
-    107.58556000000002,
+    107.58556,
     -6.95306
 ],
-  "geometry": {"coordinates":[107.58556000000002,-6.95306],"type":"Point"}
+  "geometry": {"coordinates":[107.58556,-6.95306],"type":"Point"}
 }

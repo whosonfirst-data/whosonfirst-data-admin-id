@@ -62,15 +62,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102073373
+        102073373,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7083965
     },
     "wof:country":"ID",
-    "wof:geomhash":"4098ec5be780aca730280bc04f670da0",
+    "wof:geomhash":"61809d8f6ccaad71a9b2fc9a93ac74ce",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,7 +81,14 @@
         }
     ],
     "wof:id":1360075323,
-    "wof:lastmodified":1564194610,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181839,
     "wof:name":"Kediri",
     "wof:parent_id":102073373,
     "wof:placetype":"locality",
@@ -91,10 +98,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    114.21708999999998,
+    114.21709,
     -8.20972,
-    114.21708999999998,
+    114.21709,
     -8.20972
 ],
-  "geometry": {"coordinates":[114.21708999999998,-8.20972],"type":"Point"}
+  "geometry": {"coordinates":[114.21709,-8.20972],"type":"Point"}
 }

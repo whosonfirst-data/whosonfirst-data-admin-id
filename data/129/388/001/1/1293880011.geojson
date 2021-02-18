@@ -33,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072929
+        102072929,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1641825
     },
     "wof:country":"ID",
-    "wof:geomhash":"d8953d93d84c827d046bb5b03977d445",
+    "wof:geomhash":"49af155fc5d28fd9ee86324757bcf8b7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,7 +52,14 @@
         }
     ],
     "wof:id":1293880011,
-    "wof:lastmodified":1537627040,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613176907,
     "wof:name":"Kaloran Lor",
     "wof:parent_id":102072929,
     "wof:placetype":"locality",
@@ -62,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.80306000000002,
+    110.80306,
     -7.39444,
-    110.80306000000002,
+    110.80306,
     -7.39444
 ],
-  "geometry": {"coordinates":[110.80306000000002,-7.39444],"type":"Point"}
+  "geometry": {"coordinates":[110.80306,-7.39444],"type":"Point"}
 }

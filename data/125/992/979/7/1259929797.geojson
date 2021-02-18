@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073529
+        102073529,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6590264
     },
     "wof:country":"ID",
-    "wof:geomhash":"a71dd44da42a69c2f03b04fa7e5ca425",
+    "wof:geomhash":"eb3ce314ab4365670c93f1eba4f392d0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1259929797,
-    "wof:lastmodified":1537629669,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613184823,
     "wof:name":"Pasirtengah",
     "wof:parent_id":102073529,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.20638999999998,
+    107.20639,
     -6.73278,
-    107.20638999999998,
+    107.20639,
     -6.73278
 ],
-  "geometry": {"coordinates":[107.20638999999998,-6.73278],"type":"Point"}
+  "geometry": {"coordinates":[107.20639,-6.73278],"type":"Point"}
 }

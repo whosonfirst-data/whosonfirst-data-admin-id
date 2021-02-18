@@ -34,7 +34,7 @@
         "gn:id":6259825
     },
     "wof:country":"ID",
-    "wof:geomhash":"5ee0313ac8610a2c5086f9be16a39249",
+    "wof:geomhash":"87fc58a727acfbac38e6ea63ba834d62",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209100043,
-    "wof:lastmodified":1536297762,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179522,
     "wof:name":"Wonokriyo",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     110.19528,
-    -7.6455600000000015,
+    -7.64556,
     110.19528,
-    -7.6455600000000015
+    -7.64556
 ],
   "geometry": {"coordinates":[110.19528,-7.64556],"type":"Point"}
 }

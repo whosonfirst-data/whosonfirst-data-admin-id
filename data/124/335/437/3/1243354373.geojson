@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072733
+        102072733,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1935367
     },
     "wof:country":"ID",
-    "wof:geomhash":"c8645c984dd9d81e14226ddb9afa4e09",
+    "wof:geomhash":"f22d2509d2e9a1c819adca89e79aa67a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1243354373,
-    "wof:lastmodified":1536939063,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183627,
     "wof:name":"Kalilutung",
     "wof:parent_id":102072733,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.98888999999998,
+    110.98889,
     -7.55306,
-    110.98888999999998,
+    110.98889,
     -7.55306
 ],
-  "geometry": {"coordinates":[110.98888999999998,-7.55306],"type":"Point"}
+  "geometry": {"coordinates":[110.98889,-7.55306],"type":"Point"}
 }

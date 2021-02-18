@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671995,
-        102072687
+        102072687,
+        85671995
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1990375
     },
     "wof:country":"ID",
-    "wof:geomhash":"73b42037ca772603f66050ceb4a543a9",
+    "wof:geomhash":"93f1cdecb249adca01dd8472f0d8b84a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1242933637,
-    "wof:lastmodified":1537046122,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183269,
     "wof:name":"Parungceuri",
     "wof:parent_id":102072687,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.37111000000002,
+    106.37111,
     -6.21306,
-    106.37111000000002,
+    106.37111,
     -6.21306
 ],
-  "geometry": {"coordinates":[106.37111000000002,-6.21306],"type":"Point"}
+  "geometry": {"coordinates":[106.37111,-6.21306],"type":"Point"}
 }

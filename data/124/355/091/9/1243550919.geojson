@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072709
+        102072709,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6257259
     },
     "wof:country":"ID",
-    "wof:geomhash":"9c54f57747e0ea15f3b890851cfd03c4",
+    "wof:geomhash":"a4f9daa638cc67011e432db080512e09",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1243550919,
-    "wof:lastmodified":1536655041,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183001,
     "wof:name":"Cingklok",
     "wof:parent_id":102072709,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.45638999999998,
+    110.45639,
     -7.40167,
-    110.45638999999998,
+    110.45639,
     -7.40167
 ],
-  "geometry": {"coordinates":[110.45638999999998,-7.40167],"type":"Point"}
+  "geometry": {"coordinates":[110.45639,-7.40167],"type":"Point"}
 }

@@ -41,15 +41,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073551
+        102073551,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1648203
     },
     "wof:country":"ID",
-    "wof:geomhash":"83042cb7544a9bd11cdb483267eaf7ec",
+    "wof:geomhash":"36658809dec13758f52996475cbcb94c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -60,7 +60,14 @@
         }
     ],
     "wof:id":1226288633,
-    "wof:lastmodified":1564204917,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185347,
     "wof:name":"Buni",
     "wof:parent_id":102073551,
     "wof:placetype":"locality",
@@ -70,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.04361000000002,
+    107.04361,
     -6.1125,
-    107.04361000000002,
+    107.04361,
     -6.1125
 ],
-  "geometry": {"coordinates":[107.04361000000002,-6.1125],"type":"Point"}
+  "geometry": {"coordinates":[107.04361,-6.1125],"type":"Point"}
 }

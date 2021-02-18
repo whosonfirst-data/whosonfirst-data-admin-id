@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072857
+        102072857,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6257233
     },
     "wof:country":"ID",
-    "wof:geomhash":"802891f0410ef5f4c80cf6d50320e6b7",
+    "wof:geomhash":"50179a999ad4f4fd5cf074f7c94e702f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1243574815,
-    "wof:lastmodified":1536618476,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183570,
     "wof:name":"Pandean Lor",
     "wof:parent_id":102072857,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.39806000000002,
+    110.39806,
     -7.37611,
-    110.39806000000002,
+    110.39806,
     -7.37611
 ],
-  "geometry": {"coordinates":[110.39806000000002,-7.37611],"type":"Point"}
+  "geometry": {"coordinates":[110.39806,-7.37611],"type":"Point"}
 }

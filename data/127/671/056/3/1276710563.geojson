@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073083
+        102073083,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1987409
     },
     "wof:country":"ID",
-    "wof:geomhash":"6b1487a3947de8066dbe938bd0b13ec3",
+    "wof:geomhash":"9e5849be0c37a8206ffbd678a52ec524",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1276710563,
-    "wof:lastmodified":1536770973,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177872,
     "wof:name":"Ciherang",
     "wof:parent_id":102073083,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.89943999999998,
+    106.89944,
     -6.39139,
-    106.89943999999998,
+    106.89944,
     -6.39139
 ],
-  "geometry": {"coordinates":[106.89943999999998,-6.39139],"type":"Point"}
+  "geometry": {"coordinates":[106.89944,-6.39139],"type":"Point"}
 }

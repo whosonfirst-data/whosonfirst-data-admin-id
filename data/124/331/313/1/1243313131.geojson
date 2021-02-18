@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073411
+        102073411,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6597863
     },
     "wof:country":"ID",
-    "wof:geomhash":"978c95a45ad45008f81e47c1703cdc9c",
+    "wof:geomhash":"4d61eb0d8486539395a38d9c260238dc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1243313131,
-    "wof:lastmodified":1537629904,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613182856,
     "wof:name":"Selakopi",
     "wof:parent_id":102073411,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.76111000000002,
+    106.76111,
     -6.57861,
-    106.76111000000002,
+    106.76111,
     -6.57861
 ],
-  "geometry": {"coordinates":[106.76111000000002,-6.57861],"type":"Point"}
+  "geometry": {"coordinates":[106.76111,-6.57861],"type":"Point"}
 }

@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072855
+        102072855,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6604099
     },
     "wof:country":"ID",
-    "wof:geomhash":"9b0f7f6c5586c8710c417ef10cf43cf1",
+    "wof:geomhash":"711f04f8bb58e573a57ba073e12167b0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1360130613,
-    "wof:lastmodified":1537630024,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181789,
     "wof:name":"Cimundu",
     "wof:parent_id":102072855,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.69138999999998,
+    106.69139,
     -6.81278,
-    106.69138999999998,
+    106.69139,
     -6.81278
 ],
-  "geometry": {"coordinates":[106.69138999999998,-6.81278],"type":"Point"}
+  "geometry": {"coordinates":[106.69139,-6.81278],"type":"Point"}
 }

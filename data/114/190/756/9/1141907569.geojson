@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"120.236319538,-3.09992836621,120.236319538,-3.09992836621",
+    "geom:bbox":"120.23632,-3.099928,120.23632,-3.099928",
     "geom:latitude":-3.099928,
     "geom:longitude":120.23632,
     "iso:country":"ID",
@@ -239,8 +239,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672041,
-        102072833
+        102072833,
+        85672041
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -248,7 +248,7 @@
     },
     "wof:country":"ID",
     "wof:created":1499130743,
-    "wof:geomhash":"d620c953d9d473c905a639424aca59cb",
+    "wof:geomhash":"d9fb91673c0cee231d54ff1d51e48c85",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -259,7 +259,14 @@
         }
     ],
     "wof:id":1141907569,
-    "wof:lastmodified":1563285010,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613186628,
     "wof:name":"Palopo",
     "wof:parent_id":102072833,
     "wof:placetype":"locality",
@@ -269,10 +276,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    120.23631953845438,
-    -3.09992836620694,
-    120.23631953845438,
-    -3.09992836620694
+    120.23632,
+    -3.099928,
+    120.23632,
+    -3.099928
 ],
-  "geometry": {"coordinates":[120.23631953845438,-3.09992836620694],"type":"Point"}
+  "geometry": {"coordinates":[120.23632000000001,-3.099928],"type":"Point"}
 }

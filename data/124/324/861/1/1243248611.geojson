@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102073013
+        102073013,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6405667
     },
     "wof:country":"ID",
-    "wof:geomhash":"aa00425ddebc109726e51dc6f5954883",
+    "wof:geomhash":"2e1b5734b807d436841b34e74761f706",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1243248611,
-    "wof:lastmodified":1537628935,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183356,
     "wof:name":"Kepuh",
     "wof:parent_id":102073013,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.30138999999998,
+    111.30139,
     -8.07417,
-    111.30138999999998,
+    111.30139,
     -8.07417
 ],
-  "geometry": {"coordinates":[111.30138999999998,-8.07417],"type":"Point"}
+  "geometry": {"coordinates":[111.30139,-8.07417],"type":"Point"}
 }

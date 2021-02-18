@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072809
+        102072809,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6563059
     },
     "wof:country":"ID",
-    "wof:geomhash":"76bdd4d0b5721a97b78792f9ef676b95",
+    "wof:geomhash":"1f784b1520845b6e27270b81d1766d47",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1259479567,
-    "wof:lastmodified":1537629200,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613184652,
     "wof:name":"Tambakroto",
     "wof:parent_id":102072809,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.98888999999998,
+    109.98889,
     -7.14306,
-    109.98888999999998,
+    109.98889,
     -7.14306
 ],
-  "geometry": {"coordinates":[109.98888999999998,-7.14306],"type":"Point"}
+  "geometry": {"coordinates":[109.98889,-7.14306],"type":"Point"}
 }

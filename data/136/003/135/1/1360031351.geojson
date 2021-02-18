@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073193
+        102073193,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6404429
     },
     "wof:country":"ID",
-    "wof:geomhash":"a5d27060482a1de31416e480ccfac909",
+    "wof:geomhash":"3488c72e7bb321e8ecb4cfe175aaebb1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1360031351,
-    "wof:lastmodified":1537628895,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613182057,
     "wof:name":"Blokkapuan",
     "wof:parent_id":102073193,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.31638999999998,
+    108.31639,
     -6.37028,
-    108.31638999999998,
+    108.31639,
     -6.37028
 ],
-  "geometry": {"coordinates":[108.31638999999998,-6.37028],"type":"Point"}
+  "geometry": {"coordinates":[108.31639,-6.37028],"type":"Point"}
 }

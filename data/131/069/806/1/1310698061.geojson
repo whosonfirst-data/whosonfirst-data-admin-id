@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073169
+        102073169,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6201015
     },
     "wof:country":"ID",
-    "wof:geomhash":"ee3772fe3f0b837f71244e0418fd243d",
+    "wof:geomhash":"675d08699309170517f4f54c271d2ec5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1310698061,
-    "wof:lastmodified":1536638053,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181671,
     "wof:name":"Kelingan",
     "wof:parent_id":102073169,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.17638999999998,
+    110.17639,
     -7.26333,
-    110.17638999999998,
+    110.17639,
     -7.26333
 ],
-  "geometry": {"coordinates":[110.17638999999998,-7.26333],"type":"Point"}
+  "geometry": {"coordinates":[110.17639,-7.26333],"type":"Point"}
 }

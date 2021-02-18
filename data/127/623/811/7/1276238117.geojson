@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672115,
-        102072939
+        102072939,
+        85672115
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8605490
     },
     "wof:country":"ID",
-    "wof:geomhash":"7a140ff951e9968c8767b450a0ed38e8",
+    "wof:geomhash":"e8b89e06728c2e124be5453e5a835d91",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1276238117,
-    "wof:lastmodified":1536906409,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177913,
     "wof:name":"Wambl",
     "wof:parent_id":102072939,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    139.55531000000002,
+    139.55531,
     -8.09686,
-    139.55531000000002,
+    139.55531,
     -8.09686
 ],
-  "geometry": {"coordinates":[139.55531000000002,-8.09686],"type":"Point"}
+  "geometry": {"coordinates":[139.55530999999999,-8.09686],"type":"Point"}
 }

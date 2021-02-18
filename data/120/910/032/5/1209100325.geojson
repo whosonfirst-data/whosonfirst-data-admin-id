@@ -34,7 +34,7 @@
         "gn:id":2006496
     },
     "wof:country":"ID",
-    "wof:geomhash":"6739ad4d1871cbe63d067c84b5d6b70c",
+    "wof:geomhash":"c03a71f230c51e703fa62a7572ff197f",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209100325,
-    "wof:lastmodified":1536297754,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179522,
     "wof:name":"Blimbing",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     110.57028,
-    -7.6658300000000015,
+    -7.66583,
     110.57028,
-    -7.6658300000000015
+    -7.66583
 ],
   "geometry": {"coordinates":[110.57028,-7.66583],"type":"Point"}
 }

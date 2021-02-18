@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073405
+        102073405,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6256043
     },
     "wof:country":"ID",
-    "wof:geomhash":"3febc1077cd736531fc03b766f0d00e5",
+    "wof:geomhash":"8fa37621e3dc92fba5007f39a26e1306",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1327427975,
-    "wof:lastmodified":1536687261,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613173485,
     "wof:name":"Susang",
     "wof:parent_id":102073405,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.83556000000002,
+    110.83556,
     -7.77806,
-    110.83556000000002,
+    110.83556,
     -7.77806
 ],
-  "geometry": {"coordinates":[110.83556000000002,-7.77806],"type":"Point"}
+  "geometry": {"coordinates":[110.83556,-7.77806],"type":"Point"}
 }

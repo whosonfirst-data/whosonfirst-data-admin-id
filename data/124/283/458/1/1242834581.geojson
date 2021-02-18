@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072739
+        102072739,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6584158
     },
     "wof:country":"ID",
-    "wof:geomhash":"ba3f3d588b61bf4e5f13c18fa57f900a",
+    "wof:geomhash":"c7076124518738bee7ea93fed025478f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1242834581,
-    "wof:lastmodified":1537629549,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183795,
     "wof:name":"Cibeusi",
     "wof:parent_id":102072739,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.76111000000002,
+    107.76111,
     -6.93583,
-    107.76111000000002,
+    107.76111,
     -6.93583
 ],
-  "geometry": {"coordinates":[107.76111000000002,-6.93583],"type":"Point"}
+  "geometry": {"coordinates":[107.76111,-6.93583],"type":"Point"}
 }

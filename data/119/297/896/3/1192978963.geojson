@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073217
+        102073217,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6597240
     },
     "wof:country":"ID",
-    "wof:geomhash":"109e2c5ccb3a5d184f351dc97f9a5787",
+    "wof:geomhash":"134d23dcc8c2fa444962fc7cade7191c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1192978963,
-    "wof:lastmodified":1537629880,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613180047,
     "wof:name":"Gajud",
     "wof:parent_id":102073217,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.80138999999998,
+    106.80139,
     -6.72611,
-    106.80138999999998,
+    106.80139,
     -6.72611
 ],
-  "geometry": {"coordinates":[106.80138999999998,-6.72611],"type":"Point"}
+  "geometry": {"coordinates":[106.80139,-6.72611],"type":"Point"}
 }

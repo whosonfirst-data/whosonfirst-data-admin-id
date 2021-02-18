@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102072863
+        102072863,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1999872
     },
     "wof:country":"ID",
-    "wof:geomhash":"d258f6c4eb6169c24e46a5ff88c5b9c3",
+    "wof:geomhash":"af0a6109d91774a8ef97c89985a92aff",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1343836691,
-    "wof:lastmodified":1536701213,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613174362,
     "wof:name":"Iromejan",
     "wof:parent_id":102072863,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.38443999999998,
+    110.38444,
     -7.78028,
-    110.38443999999998,
+    110.38444,
     -7.78028
 ],
-  "geometry": {"coordinates":[110.38443999999998,-7.78028],"type":"Point"}
+  "geometry": {"coordinates":[110.38444,-7.78028],"type":"Point"}
 }

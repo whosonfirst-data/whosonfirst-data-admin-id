@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072739
+        102072739,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6582349
     },
     "wof:country":"ID",
-    "wof:geomhash":"9121aa38bcfefc02ab788dd247b655e8",
+    "wof:geomhash":"3001c2e242cf65af70082d52ed898eb3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1226302955,
-    "wof:lastmodified":1537629498,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613186351,
     "wof:name":"Cikopo",
     "wof:parent_id":102072739,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.85193999999998,
+    107.85194,
     -6.72333,
-    107.85193999999998,
+    107.85194,
     -6.72333
 ],
-  "geometry": {"coordinates":[107.85193999999998,-6.72333],"type":"Point"}
+  "geometry": {"coordinates":[107.85194,-6.72333],"type":"Point"}
 }

@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073217
+        102073217,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6604882
     },
     "wof:country":"ID",
-    "wof:geomhash":"6df13203db342fd0ef66893c7137723f",
+    "wof:geomhash":"9afcc6ed928d540ec1cb9997a7e0b62a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1293146913,
-    "wof:lastmodified":1537630052,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613176026,
     "wof:name":"Tapos",
     "wof:parent_id":102073217,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.55138999999998,
+    106.55139,
     -6.59889,
-    106.55138999999998,
+    106.55139,
     -6.59889
 ],
-  "geometry": {"coordinates":[106.55138999999998,-6.59889],"type":"Point"}
+  "geometry": {"coordinates":[106.55139,-6.59889],"type":"Point"}
 }

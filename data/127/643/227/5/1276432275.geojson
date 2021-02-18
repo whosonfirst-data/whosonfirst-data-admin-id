@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072587
+        102072587,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6381529
     },
     "wof:country":"ID",
-    "wof:geomhash":"271f53d1a3723fd529ce83e271c6566d",
+    "wof:geomhash":"339b7643406964f3ed8dfc665990b9f1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1276432275,
-    "wof:lastmodified":1537628548,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177116,
     "wof:name":"Gending",
     "wof:parent_id":102072587,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.78806000000002,
+    109.78806,
     -7.40306,
-    109.78806000000002,
+    109.78806,
     -7.40306
 ],
-  "geometry": {"coordinates":[109.78806000000002,-7.40306],"type":"Point"}
+  "geometry": {"coordinates":[109.78806,-7.40306],"type":"Point"}
 }

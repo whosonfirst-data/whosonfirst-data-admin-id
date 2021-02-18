@@ -34,7 +34,7 @@
         "gn:id":6255909
     },
     "wof:country":"ID",
-    "wof:geomhash":"6f45364d72015bbcb3b371e47ae5948d",
+    "wof:geomhash":"e27edbf6be179d9b74c4c723c2290b75",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209305363,
-    "wof:lastmodified":1536291214,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178484,
     "wof:name":"Krendetan",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     110.765,
-    -7.802219999999998,
+    -7.80222,
     110.765,
-    -7.802219999999998
+    -7.80222
 ],
   "geometry": {"coordinates":[110.765,-7.80222],"type":"Point"}
 }

@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072937
+        102072937,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6594096
     },
     "wof:country":"ID",
-    "wof:geomhash":"2cdbaf78a67d08e70102a98e105e2863",
+    "wof:geomhash":"7d7485882b6bf837efd214b570be3d6e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1259629465,
-    "wof:lastmodified":1537629787,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613184348,
     "wof:name":"Karajanremaja",
     "wof:parent_id":102072937,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.45638999999998,
+    107.45639,
     -6.40389,
-    107.45638999999998,
+    107.45639,
     -6.40389
 ],
-  "geometry": {"coordinates":[107.45638999999998,-6.40389],"type":"Point"}
+  "geometry": {"coordinates":[107.45639,-6.40389],"type":"Point"}
 }

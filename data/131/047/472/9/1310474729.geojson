@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672009,
-        102072615
+        102072615,
+        85672009
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7667264
     },
     "wof:country":"ID",
-    "wof:geomhash":"680fcc119c4908edc59c5938b6cbc226",
+    "wof:geomhash":"bb719d874fbcf1a3a4ed0b542a1022b8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,7 +54,14 @@
         }
     ],
     "wof:id":1310474729,
-    "wof:lastmodified":1537634242,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613180895,
     "wof:name":"Rajabasalama Lima",
     "wof:parent_id":102072615,
     "wof:placetype":"locality",
@@ -64,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    105.67246000000002,
+    105.67246,
     -5.08077,
-    105.67246000000002,
+    105.67246,
     -5.08077
 ],
-  "geometry": {"coordinates":[105.67246000000002,-5.08077],"type":"Point"}
+  "geometry": {"coordinates":[105.67246,-5.08077],"type":"Point"}
 }

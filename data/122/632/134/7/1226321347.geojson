@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073265
+        102073265,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6264731
     },
     "wof:country":"ID",
-    "wof:geomhash":"487df20581ce81a8677700a5c0bda870",
+    "wof:geomhash":"61a56e304eb24208c6657f7c2a323e5f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1226321347,
-    "wof:lastmodified":1536823820,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185731,
     "wof:name":"Wiyono",
     "wof:parent_id":102073265,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.39943999999998,
+    110.39944,
     -7.70917,
-    110.39943999999998,
+    110.39944,
     -7.70917
 ],
-  "geometry": {"coordinates":[110.39943999999998,-7.70917],"type":"Point"}
+  "geometry": {"coordinates":[110.39944,-7.70917],"type":"Point"}
 }

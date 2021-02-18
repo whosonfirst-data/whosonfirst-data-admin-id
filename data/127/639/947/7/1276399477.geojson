@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072937
+        102072937,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6592432
     },
     "wof:country":"ID",
-    "wof:geomhash":"64e31aba489cb7204d4e7037e5776959",
+    "wof:geomhash":"f91f1cfa9cf3ab659a439ab93df30578",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1276399477,
-    "wof:lastmodified":1537629733,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178109,
     "wof:name":"Lojipasar",
     "wof:parent_id":102072937,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.23111000000002,
+    107.23111,
     -6.51611,
-    107.23111000000002,
+    107.23111,
     -6.51611
 ],
-  "geometry": {"coordinates":[107.23111000000002,-6.51611],"type":"Point"}
+  "geometry": {"coordinates":[107.23111,-6.51611],"type":"Point"}
 }

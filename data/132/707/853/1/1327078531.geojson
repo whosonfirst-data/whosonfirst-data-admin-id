@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672115,
-        102073467
+        102073467,
+        85672115
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8527394
     },
     "wof:country":"ID",
-    "wof:geomhash":"cbfe5234b86f35ca5623dc799a9b5352",
+    "wof:geomhash":"ad615e2802b6f455ba3d5eb4fe67eebd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1327078531,
-    "wof:lastmodified":1537636312,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613172230,
     "wof:name":"Kwirok",
     "wof:parent_id":102073467,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    140.99416000000005,
+    140.99416,
     -5.20139,
-    140.99416000000005,
+    140.99416,
     -5.20139
 ],
-  "geometry": {"coordinates":[140.99416000000005,-5.20139],"type":"Point"}
+  "geometry": {"coordinates":[140.99415999999999,-5.20139],"type":"Point"}
 }

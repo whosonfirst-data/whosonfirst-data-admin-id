@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102073013
+        102073013,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6386678
     },
     "wof:country":"ID",
-    "wof:geomhash":"d3157041f5d84ab699e3a391727b808f",
+    "wof:geomhash":"14f08a82e96e1fb00dde3bb0afef7680",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1343646799,
-    "wof:lastmodified":1537628615,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613174089,
     "wof:name":"Nogosari",
     "wof:parent_id":102073013,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.13611000000002,
+    111.13611,
     -8.20583,
-    111.13611000000002,
+    111.13611,
     -8.20583
 ],
-  "geometry": {"coordinates":[111.13611000000002,-8.20583],"type":"Point"}
+  "geometry": {"coordinates":[111.13611,-8.20583],"type":"Point"}
 }

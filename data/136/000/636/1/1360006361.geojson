@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072709
+        102072709,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1964746
     },
     "wof:country":"ID",
-    "wof:geomhash":"ba87f7717d7661354e3701830dfd96f4",
+    "wof:geomhash":"a30639660006103e8d52a4395e15227e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1360006361,
-    "wof:lastmodified":1537056778,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181883,
     "wof:name":"Sombron",
     "wof:parent_id":102072709,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.49611000000002,
+    110.49611,
     -7.25389,
-    110.49611000000002,
+    110.49611,
     -7.25389
 ],
-  "geometry": {"coordinates":[110.49611000000002,-7.25389],"type":"Point"}
+  "geometry": {"coordinates":[110.49611,-7.25389],"type":"Point"}
 }

@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072947
+        102072947,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6406535
     },
     "wof:country":"ID",
-    "wof:geomhash":"570f135610cb7b49b3ac8c41cb4a319d",
+    "wof:geomhash":"0abd8c6f185f7c7d0ed7696b559efbb9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1226136697,
-    "wof:lastmodified":1537628964,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185990,
     "wof:name":"Karang Kidul",
     "wof:parent_id":102072947,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.03806000000002,
+    111.03806,
     -7.82278,
-    111.03806000000002,
+    111.03806,
     -7.82278
 ],
-  "geometry": {"coordinates":[111.03806000000002,-7.82278],"type":"Point"}
+  "geometry": {"coordinates":[111.03806,-7.82278],"type":"Point"}
 }

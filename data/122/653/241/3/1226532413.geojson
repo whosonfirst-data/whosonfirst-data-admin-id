@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102073063
+        102073063,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1970813
     },
     "wof:country":"ID",
-    "wof:geomhash":"935aa56b3daab1a5140019320cbad528",
+    "wof:geomhash":"33ea0767a4a873e0327e8b9e7b1b226f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1226532413,
-    "wof:lastmodified":1537016586,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613186445,
     "wof:name":"Montaga",
     "wof:parent_id":102073063,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    112.92806000000002,
+    112.92806,
     -7.1225,
-    112.92806000000002,
+    112.92806,
     -7.1225
 ],
-  "geometry": {"coordinates":[112.92806000000002,-7.1225],"type":"Point"}
+  "geometry": {"coordinates":[112.92806,-7.1225],"type":"Point"}
 }

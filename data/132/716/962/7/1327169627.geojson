@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672081,
-        102073343
+        102073343,
+        85672081
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1636219
     },
     "wof:country":"ID",
-    "wof:geomhash":"8a9c89793ca02ba0a221523f29d57c16",
+    "wof:geomhash":"01350411eb88a0e716f52a4ca5eae34b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1327169627,
-    "wof:lastmodified":1537626868,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613173550,
     "wof:name":"Mapanget",
     "wof:parent_id":102073343,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    125.00433999999998,
+    125.00434,
     1.57597,
-    125.00433999999998,
+    125.00434,
     1.57597
 ],
-  "geometry": {"coordinates":[125.00433999999998,1.57597],"type":"Point"}
+  "geometry": {"coordinates":[125.00434,1.57597],"type":"Point"}
 }

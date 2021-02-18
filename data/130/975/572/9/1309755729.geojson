@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072855
+        102072855,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6601371
     },
     "wof:country":"ID",
-    "wof:geomhash":"f3a587499acd2fc44e69150e58ea817c",
+    "wof:geomhash":"7e1b238f3d43223d7a5659b0cecca266",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1309755729,
-    "wof:lastmodified":1537629982,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613182549,
     "wof:name":"Karadenan Kulon",
     "wof:parent_id":102072855,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.85056000000002,
+    106.85056,
     -6.91167,
-    106.85056000000002,
+    106.85056,
     -6.91167
 ],
-  "geometry": {"coordinates":[106.85056000000002,-6.91167],"type":"Point"}
+  "geometry": {"coordinates":[106.85056,-6.91167],"type":"Point"}
 }

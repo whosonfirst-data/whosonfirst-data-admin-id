@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073169
+        102073169,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6200429
     },
     "wof:country":"ID",
-    "wof:geomhash":"b3cdbe8c070c7d7e869ba999227df65c",
+    "wof:geomhash":"8fd1ef97cca67508c5b1b715859ab5df",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1327130619,
-    "wof:lastmodified":1536616439,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613172728,
     "wof:name":"Sikepan",
     "wof:parent_id":102073169,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.16443999999998,
+    110.16444,
     -7.3675,
-    110.16443999999998,
+    110.16444,
     -7.3675
 ],
-  "geometry": {"coordinates":[110.16443999999998,-7.3675],"type":"Point"}
+  "geometry": {"coordinates":[110.16444,-7.3675],"type":"Point"}
 }

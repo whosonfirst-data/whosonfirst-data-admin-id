@@ -34,7 +34,7 @@
         "gn:id":2000460
     },
     "wof:country":"ID",
-    "wof:geomhash":"0eb2a95591313276ecde8beca611e5fe",
+    "wof:geomhash":"c115043ef31853f110a60344a58ba62a",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209094949,
-    "wof:lastmodified":1536297917,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178281,
     "wof:name":"Sambiroto",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     110.45361,
-    -7.868060000000002,
+    -7.86806,
     110.45361,
-    -7.868060000000002
+    -7.86806
 ],
   "geometry": {"coordinates":[110.45361,-7.86806],"type":"Point"}
 }

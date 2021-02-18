@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072937
+        102072937,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6599723
     },
     "wof:country":"ID",
-    "wof:geomhash":"dad6338a05b29e29960b007f1262741c",
+    "wof:geomhash":"861b4cd094118e0a3ec5fc06566676a2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1360034929,
-    "wof:lastmodified":1537629971,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613182080,
     "wof:name":"Maleber Wetan",
     "wof:parent_id":102072937,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.54361000000002,
+    107.54361,
     -6.2825,
-    107.54361000000002,
+    107.54361,
     -6.2825
 ],
-  "geometry": {"coordinates":[107.54361000000002,-6.2825],"type":"Point"}
+  "geometry": {"coordinates":[107.54361,-6.2825],"type":"Point"}
 }

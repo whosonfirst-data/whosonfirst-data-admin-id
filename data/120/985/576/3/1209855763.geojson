@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672115,
-        1108796875
+        1108796875,
+        85672115
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8531621
     },
     "wof:country":"ID",
-    "wof:geomhash":"4dc90a24c8bbb32930b57cd1dcdbf93f",
+    "wof:geomhash":"f4326836dceb6de0f79ddf8796f6f0c1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1209855763,
-    "wof:lastmodified":1537636360,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178838,
     "wof:name":"Maowa",
     "wof:parent_id":1108796875,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    136.06363000000002,
+    136.06363,
     -3.98836,
-    136.06363000000002,
+    136.06363,
     -3.98836
 ],
-  "geometry": {"coordinates":[136.06363000000002,-3.98836],"type":"Point"}
+  "geometry": {"coordinates":[136.06362999999999,-3.98836],"type":"Point"}
 }

@@ -34,7 +34,7 @@
         "gn:id":2011436
     },
     "wof:country":"ID",
-    "wof:geomhash":"2098f61bc6baf833f4bc7cd36c0d0065",
+    "wof:geomhash":"febebcec34942b2f9102105d2a554c50",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209505927,
-    "wof:lastmodified":1536285036,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178901,
     "wof:name":"Tegalsari",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     110.68028,
-    -7.588889999999999,
+    -7.58889,
     110.68028,
-    -7.588889999999999
+    -7.58889
 ],
   "geometry": {"coordinates":[110.68028,-7.58889],"type":"Point"}
 }

@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072929
+        102072929,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6411655
     },
     "wof:country":"ID",
-    "wof:geomhash":"7ff7b814ab49491522138d6aba35fc2d",
+    "wof:geomhash":"cfff2040a3bff1d8f73946ecc58fab63",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1193269393,
-    "wof:lastmodified":1537629116,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613180137,
     "wof:name":"Kutorejo",
     "wof:parent_id":102072929,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.08693999999998,
+    111.08694,
     -7.3425,
-    111.08693999999998,
+    111.08694,
     -7.3425
 ],
-  "geometry": {"coordinates":[111.08693999999998,-7.3425],"type":"Point"}
+  "geometry": {"coordinates":[111.08694,-7.3425],"type":"Point"}
 }

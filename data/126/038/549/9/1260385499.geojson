@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073153
+        102073153,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6381285
     },
     "wof:country":"ID",
-    "wof:geomhash":"4e35ed35d8852bba9823e0dbaea8251c",
+    "wof:geomhash":"48032c2c01f17de680495ea5e5f69c67",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1260385499,
-    "wof:lastmodified":1537628541,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613180328,
     "wof:name":"Sigedong",
     "wof:parent_id":102073153,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.73111000000002,
+    109.73111,
     -7.34667,
-    109.73111000000002,
+    109.73111,
     -7.34667
 ],
-  "geometry": {"coordinates":[109.73111000000002,-7.34667],"type":"Point"}
+  "geometry": {"coordinates":[109.73111,-7.34667],"type":"Point"}
 }

@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072715
+        102072715,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6390226
     },
     "wof:country":"ID",
-    "wof:geomhash":"1cee19c0676750315286d45fb5efa491",
+    "wof:geomhash":"7441bfc9962095e9da8d30f3a18df256",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1310296117,
-    "wof:lastmodified":1537628710,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181311,
     "wof:name":"Kalawiri",
     "wof:parent_id":102072715,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.28806000000002,
+    109.28806,
     -7.4275,
-    109.28806000000002,
+    109.28806,
     -7.4275
 ],
-  "geometry": {"coordinates":[109.28806000000002,-7.4275],"type":"Point"}
+  "geometry": {"coordinates":[109.28806,-7.4275],"type":"Point"}
 }

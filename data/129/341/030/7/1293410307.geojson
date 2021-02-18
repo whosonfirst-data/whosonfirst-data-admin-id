@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072709
+        102072709,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1963832
     },
     "wof:country":"ID",
-    "wof:geomhash":"09a19e764f2703243094dbb08072f305",
+    "wof:geomhash":"07c1074ec3468bc60e7dfcf022492808",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1293410307,
-    "wof:lastmodified":1537627731,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175720,
     "wof:name":"Ngadikerso",
     "wof:parent_id":102072709,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.31638999999998,
+    110.31639,
     -7.24694,
-    110.31638999999998,
+    110.31639,
     -7.24694
 ],
-  "geometry": {"coordinates":[110.31638999999998,-7.24694],"type":"Point"}
+  "geometry": {"coordinates":[110.31639,-7.24694],"type":"Point"}
 }

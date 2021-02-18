@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672009,
-        1108796809
+        1108796809,
+        85672009
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7665957
     },
     "wof:country":"ID",
-    "wof:geomhash":"3ce78acd888c91cb04b7d4bd78fafdf4",
+    "wof:geomhash":"905f39584eb631ea6eb2cf35df2834a4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1327206781,
-    "wof:lastmodified":1537634197,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613173588,
     "wof:name":"Campangkanan",
     "wof:parent_id":1108796809,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    105.46786000000002,
+    105.46786,
     -5.5331,
-    105.46786000000002,
+    105.46786,
     -5.5331
 ],
-  "geometry": {"coordinates":[105.46786000000002,-5.5331],"type":"Point"}
+  "geometry": {"coordinates":[105.46786,-5.5331],"type":"Point"}
 }

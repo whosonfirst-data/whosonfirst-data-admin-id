@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073233
+        102073233,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2008698
     },
     "wof:country":"ID",
-    "wof:geomhash":"8a523d8961ee061e29bd7ccd329057ca",
+    "wof:geomhash":"9c66e0b54c587fb31b5491d5226ce87c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1327130509,
-    "wof:lastmodified":1536616606,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613172729,
     "wof:name":"Sraten",
     "wof:parent_id":102073233,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.69693999999998,
+    110.69694,
     -7.70444,
-    110.69693999999998,
+    110.69694,
     -7.70444
 ],
-  "geometry": {"coordinates":[110.69693999999998,-7.70444],"type":"Point"}
+  "geometry": {"coordinates":[110.69694,-7.70444],"type":"Point"}
 }

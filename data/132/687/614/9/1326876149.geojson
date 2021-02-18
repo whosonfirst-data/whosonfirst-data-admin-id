@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073193
+        102073193,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6404194
     },
     "wof:country":"ID",
-    "wof:geomhash":"af25850df0d02a0715d85c6f38c397fa",
+    "wof:geomhash":"86eec3802a62517a43f7fdd95f06a764",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1326876149,
-    "wof:lastmodified":1537628887,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613172443,
     "wof:name":"Lungmalang",
     "wof:parent_id":102073193,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.39806000000002,
+    108.39806,
     -6.47639,
-    108.39806000000002,
+    108.39806,
     -6.47639
 ],
-  "geometry": {"coordinates":[108.39806000000002,-6.47639],"type":"Point"}
+  "geometry": {"coordinates":[108.39806,-6.47639],"type":"Point"}
 }

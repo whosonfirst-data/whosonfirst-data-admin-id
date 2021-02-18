@@ -70,7 +70,7 @@
         "gn:id":6564719
     },
     "wof:country":"ID",
-    "wof:geomhash":"bd024fb7d36f0f88f9b6b8f933e2aaf6",
+    "wof:geomhash":"245df666db88a7fdef65728e724e9075",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -78,7 +78,14 @@
         }
     ],
     "wof:id":1209203309,
-    "wof:lastmodified":1564186679,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179285,
     "wof:name":"Kandri",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -88,10 +95,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.58556000000002,
+    110.58556,
     -8.02722,
-    110.58556000000002,
+    110.58556,
     -8.02722
 ],
-  "geometry": {"coordinates":[110.58556000000002,-8.02722],"type":"Point"}
+  "geometry": {"coordinates":[110.58556,-8.02722],"type":"Point"}
 }

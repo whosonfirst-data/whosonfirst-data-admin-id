@@ -38,15 +38,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672097,
-        1108796831
+        1108796831,
+        85672097
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1621265
     },
     "wof:country":"ID",
-    "wof:geomhash":"d5861e5b42d45a5b948df5c4c190a7fd",
+    "wof:geomhash":"8b79c4bab1d9f03e53f5187f09a71d92",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -57,7 +57,14 @@
         }
     ],
     "wof:id":1276508215,
-    "wof:lastmodified":1537626390,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177626,
     "wof:name":"Yaltubung",
     "wof:parent_id":1108796831,
     "wof:placetype":"locality",
@@ -67,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    129.71791000000002,
+    129.71791,
     -7.79532,
-    129.71791000000002,
+    129.71791,
     -7.79532
 ],
-  "geometry": {"coordinates":[129.71791000000002,-7.79532],"type":"Point"}
+  "geometry": {"coordinates":[129.71790999999999,-7.79532],"type":"Point"}
 }

@@ -34,15 +34,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672115,
-        102072959
+        102072959,
+        85672115
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2082379
     },
     "wof:country":"ID",
-    "wof:geomhash":"e1f2ee40ad7830bbf66267c594fa93f0",
+    "wof:geomhash":"07dda5926b3dcae1c0aec445c2dfd309",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +53,14 @@
         }
     ],
     "wof:id":1310158565,
-    "wof:lastmodified":1537628271,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613180719,
     "wof:name":"Yafi",
     "wof:parent_id":102072959,
     "wof:placetype":"locality",
@@ -63,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    140.91666999999995,
+    140.91667,
     -3.33333,
-    140.91666999999995,
+    140.91667,
     -3.33333
 ],
-  "geometry": {"coordinates":[140.91666999999995,-3.33333],"type":"Point"}
+  "geometry": {"coordinates":[140.91667000000001,-3.33333],"type":"Point"}
 }

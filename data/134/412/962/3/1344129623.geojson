@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672009,
-        1108796809
+        1108796809,
+        85672009
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7666468
     },
     "wof:country":"ID",
-    "wof:geomhash":"d576c75b57b90114c136d4815bce2b8e",
+    "wof:geomhash":"3a77637ab46f48b192528cd9b6023739",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1344129623,
-    "wof:lastmodified":1537634213,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613174206,
     "wof:name":"Gunungrejo",
     "wof:parent_id":1108796809,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    105.01203999999998,
+    105.01204,
     -5.43334,
-    105.01203999999998,
+    105.01204,
     -5.43334
 ],
-  "geometry": {"coordinates":[105.01203999999998,-5.43334],"type":"Point"}
+  "geometry": {"coordinates":[105.01204,-5.43334],"type":"Point"}
 }

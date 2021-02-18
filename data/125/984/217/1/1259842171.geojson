@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672037,
-        102073481
+        102073481,
+        85672037
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1938465
     },
     "wof:country":"ID",
-    "wof:geomhash":"62fd4b1c4b11a82ff2dae73e255c1f1a",
+    "wof:geomhash":"5d5b519237a5821b7310a5e98eb5c413",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1259842171,
-    "wof:lastmodified":1536837776,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613184579,
     "wof:name":"Tulatudik",
     "wof:parent_id":102073481,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    124.94693999999998,
+    124.94694,
     -9.21278,
-    124.94693999999998,
+    124.94694,
     -9.21278
 ],
-  "geometry": {"coordinates":[124.94693999999998,-9.21278],"type":"Point"}
+  "geometry": {"coordinates":[124.94694,-9.21278],"type":"Point"}
 }

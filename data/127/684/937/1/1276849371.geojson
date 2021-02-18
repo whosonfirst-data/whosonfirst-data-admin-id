@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102072863
+        102072863,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2000117
     },
     "wof:country":"ID",
-    "wof:geomhash":"ea8297d759fd9f4f6ec1e49ff599b8b4",
+    "wof:geomhash":"f89dbfa47838c4e39afc74a2aa966fdd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1276849371,
-    "wof:lastmodified":1537078851,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177972,
     "wof:name":"Peleman",
     "wof:parent_id":102072863,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.39943999999998,
+    110.39944,
     -7.81444,
-    110.39943999999998,
+    110.39944,
     -7.81444
 ],
-  "geometry": {"coordinates":[110.39943999999998,-7.81444],"type":"Point"}
+  "geometry": {"coordinates":[110.39944,-7.81444],"type":"Point"}
 }

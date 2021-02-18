@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102072973
+        102072973,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6409131
     },
     "wof:country":"ID",
-    "wof:geomhash":"7632ed2d40970f8862f1cffb57907cec",
+    "wof:geomhash":"5f0883dd7dbe5ece5e97663c9baedc31",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1276141315,
-    "wof:lastmodified":1537629031,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177771,
     "wof:name":"Jenar",
     "wof:parent_id":102072973,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.28943999999998,
+    111.28944,
     -7.73194,
-    111.28943999999998,
+    111.28944,
     -7.73194
 ],
-  "geometry": {"coordinates":[111.28943999999998,-7.73194],"type":"Point"}
+  "geometry": {"coordinates":[111.28944,-7.73194],"type":"Point"}
 }

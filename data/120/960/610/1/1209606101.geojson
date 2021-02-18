@@ -34,7 +34,7 @@
         "gn:id":1934620
     },
     "wof:country":"ID",
-    "wof:geomhash":"d70472fee639ce39ebecf61af767db63",
+    "wof:geomhash":"72450bc74b6d4965aaa16d221925185c",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209606101,
-    "wof:lastmodified":1536282006,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179103,
     "wof:name":"Doho",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -52,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.85056000000002,
-    -7.729719999999999,
-    110.85056000000002,
-    -7.729719999999999
+    110.85056,
+    -7.72972,
+    110.85056,
+    -7.72972
 ],
-  "geometry": {"coordinates":[110.85056000000002,-7.72972],"type":"Point"}
+  "geometry": {"coordinates":[110.85056,-7.72972],"type":"Point"}
 }

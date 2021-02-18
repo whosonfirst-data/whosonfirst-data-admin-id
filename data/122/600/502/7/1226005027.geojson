@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073569
+        102073569,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6401289
     },
     "wof:country":"ID",
-    "wof:geomhash":"772d84b5fa0b9f8fab9c09c4d277feb9",
+    "wof:geomhash":"4cf53ed2c73c3e81482bf81b8b9fd6da",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1226005027,
-    "wof:lastmodified":1537628837,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613186464,
     "wof:name":"Margaraharja",
     "wof:parent_id":102073569,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.44693999999998,
+    108.44694,
     -6.79528,
-    108.44693999999998,
+    108.44694,
     -6.79528
 ],
-  "geometry": {"coordinates":[108.44693999999998,-6.79528],"type":"Point"}
+  "geometry": {"coordinates":[108.44694,-6.79528],"type":"Point"}
 }

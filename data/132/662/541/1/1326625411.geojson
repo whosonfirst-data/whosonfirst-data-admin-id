@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073313
+        102073313,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2003068
     },
     "wof:country":"ID",
-    "wof:geomhash":"25323e78f714a8176bb4ad5686474e4d",
+    "wof:geomhash":"a8d72570184485e1ed82db2e7ecd1384",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1326625411,
-    "wof:lastmodified":1536848594,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613173341,
     "wof:name":"Pelemantung",
     "wof:parent_id":102073313,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.37111000000002,
+    110.37111,
     -7.95861,
-    110.37111000000002,
+    110.37111,
     -7.95861
 ],
-  "geometry": {"coordinates":[110.37111000000002,-7.95861],"type":"Point"}
+  "geometry": {"coordinates":[110.37111,-7.95861],"type":"Point"}
 }

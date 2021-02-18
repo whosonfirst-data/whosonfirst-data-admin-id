@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073187
+        102073187,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2012288
     },
     "wof:country":"ID",
-    "wof:geomhash":"69c9c69afb9681ea9b1189a1dbb82331",
+    "wof:geomhash":"81ec4925ab5dc245c7ba925bcf67dfa7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,7 +54,14 @@
         }
     ],
     "wof:id":1260172379,
-    "wof:lastmodified":1564190613,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613180519,
     "wof:name":"Tumapel",
     "wof:parent_id":102073187,
     "wof:placetype":"locality",
@@ -64,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.10193999999998,
+    110.10194,
     -7.75111,
-    110.10193999999998,
+    110.10194,
     -7.75111
 ],
-  "geometry": {"coordinates":[110.10193999999998,-7.75111],"type":"Point"}
+  "geometry": {"coordinates":[110.10194,-7.75111],"type":"Point"}
 }

@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073265
+        102073265,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6258235
     },
     "wof:country":"ID",
-    "wof:geomhash":"6c0db766ee4513d313d44d9e199857db",
+    "wof:geomhash":"5a43498ecd0cdb2f07ab182c4030a56b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1343655669,
-    "wof:lastmodified":1536961836,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613173859,
     "wof:name":"Ganjuran",
     "wof:parent_id":102073265,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.33693999999998,
+    110.33694,
     -7.67944,
-    110.33693999999998,
+    110.33694,
     -7.67944
 ],
-  "geometry": {"coordinates":[110.33693999999998,-7.67944],"type":"Point"}
+  "geometry": {"coordinates":[110.33694,-7.67944],"type":"Point"}
 }

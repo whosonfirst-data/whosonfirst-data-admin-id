@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072949
+        102072949,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6584330
     },
     "wof:country":"ID",
-    "wof:geomhash":"d18866beae41c8dded8785c640700ba4",
+    "wof:geomhash":"5e0f9733dc700ab2a00a7dc0a9e9e371",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1343611219,
-    "wof:lastmodified":1537629556,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613174599,
     "wof:name":"Bojongkoneng Kulon",
     "wof:parent_id":102072949,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.80138999999998,
+    107.80139,
     -6.97583,
-    107.80138999999998,
+    107.80139,
     -6.97583
 ],
-  "geometry": {"coordinates":[107.80138999999998,-6.97583],"type":"Point"}
+  "geometry": {"coordinates":[107.80139,-6.97583],"type":"Point"}
 }

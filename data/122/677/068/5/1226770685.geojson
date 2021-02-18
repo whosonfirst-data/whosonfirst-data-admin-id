@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072733
+        102072733,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1935225
     },
     "wof:country":"ID",
-    "wof:geomhash":"49d66b5aee45ecceb810b1bbf6154391",
+    "wof:geomhash":"433d284c2ac4792103aae5268adb314d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1226770685,
-    "wof:lastmodified":1536679672,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613186248,
     "wof:name":"Jelok",
     "wof:parent_id":102072733,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.92638999999998,
+    110.92639,
     -7.52278,
-    110.92638999999998,
+    110.92639,
     -7.52278
 ],
-  "geometry": {"coordinates":[110.92638999999998,-7.52278],"type":"Point"}
+  "geometry": {"coordinates":[110.92639,-7.52278],"type":"Point"}
 }

@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073217
+        102073217,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6604406
     },
     "wof:country":"ID",
-    "wof:geomhash":"605c7702fb50ff4d7264c2ec76177197",
+    "wof:geomhash":"61310b63ea360b1fb738bd0c42c76c1e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1309672531,
-    "wof:lastmodified":1537630035,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613182439,
     "wof:name":"Gadog Tengah",
     "wof:parent_id":102073217,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.72556000000002,
+    106.72556,
     -6.6475,
-    106.72556000000002,
+    106.72556,
     -6.6475
 ],
-  "geometry": {"coordinates":[106.72556000000002,-6.6475],"type":"Point"}
+  "geometry": {"coordinates":[106.72556,-6.6475],"type":"Point"}
 }

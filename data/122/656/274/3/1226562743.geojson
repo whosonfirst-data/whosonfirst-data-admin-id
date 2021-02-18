@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072709
+        102072709,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6257527
     },
     "wof:country":"ID",
-    "wof:geomhash":"97106743ce2558ad422d9b659cffee7b",
+    "wof:geomhash":"b2d77021f615b9eb5fd6e08285c680f1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1226562743,
-    "wof:lastmodified":1536973214,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613185645,
     "wof:name":"Worawari",
     "wof:parent_id":102072709,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.32361000000002,
+    110.32361,
     -7.28083,
-    110.32361000000002,
+    110.32361,
     -7.28083
 ],
-  "geometry": {"coordinates":[110.32361000000002,-7.28083],"type":"Point"}
+  "geometry": {"coordinates":[110.32361,-7.28083],"type":"Point"}
 }

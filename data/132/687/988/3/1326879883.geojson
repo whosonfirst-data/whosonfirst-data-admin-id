@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073359
+        102073359,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7852588
     },
     "wof:country":"ID",
-    "wof:geomhash":"4ca727b8e15a03e55ef84dacca8b1ceb",
+    "wof:geomhash":"2153e82762a1867cdf7a4998a90d81df",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1326879883,
-    "wof:lastmodified":1537634622,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613172451,
     "wof:name":"Babakantarisi",
     "wof:parent_id":102073359,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.60963999999998,
+    107.60964,
     -7.47981,
-    107.60963999999998,
+    107.60964,
     -7.47981
 ],
-  "geometry": {"coordinates":[107.60963999999998,-7.47981],"type":"Point"}
+  "geometry": {"coordinates":[107.60964,-7.47981],"type":"Point"}
 }

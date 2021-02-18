@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073295
+        102073295,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1648402
     },
     "wof:country":"ID",
-    "wof:geomhash":"e8f6edbae890a71992fbd6b1331b6d03",
+    "wof:geomhash":"1b36507b2fc5c067108af1c2aedc611a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,7 +54,14 @@
         }
     ],
     "wof:id":1276614089,
-    "wof:lastmodified":1537627291,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177582,
     "wof:name":"Bojongkeding",
     "wof:parent_id":102073295,
     "wof:placetype":"locality",
@@ -64,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.85056000000002,
+    107.85056,
     -6.355,
-    107.85056000000002,
+    107.85056,
     -6.355
 ],
-  "geometry": {"coordinates":[107.85056000000002,-6.355],"type":"Point"}
+  "geometry": {"coordinates":[107.85056,-6.355],"type":"Point"}
 }

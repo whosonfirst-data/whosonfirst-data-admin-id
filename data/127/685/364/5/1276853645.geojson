@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672009,
-        1108796809
+        1108796809,
+        85672009
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7666936
     },
     "wof:country":"ID",
-    "wof:geomhash":"c3d84189f50f99b38de3c165f30753f3",
+    "wof:geomhash":"b2aa7526214849cd98e81c300d9a0c1e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1276853645,
-    "wof:lastmodified":1537634229,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177849,
     "wof:name":"Purworejo",
     "wof:parent_id":1108796809,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    105.09071000000002,
+    105.09071,
     -5.14359,
-    105.09071000000002,
+    105.09071,
     -5.14359
 ],
-  "geometry": {"coordinates":[105.09071000000002,-5.14359],"type":"Point"}
+  "geometry": {"coordinates":[105.09071,-5.14359],"type":"Point"}
 }

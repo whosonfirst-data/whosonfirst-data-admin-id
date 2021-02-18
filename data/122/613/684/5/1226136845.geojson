@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073233
+        102073233,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2003576
     },
     "wof:country":"ID",
-    "wof:geomhash":"f8aba2cc1e64b3c6714794c40f50f46e",
+    "wof:geomhash":"0b048cf1cede10807f3647aa2946a96e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1226136845,
-    "wof:lastmodified":1537087380,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613186007,
     "wof:name":"Penengahan",
     "wof:parent_id":102073233,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.63443999999998,
+    110.63444,
     -7.78417,
-    110.63443999999998,
+    110.63444,
     -7.78417
 ],
-  "geometry": {"coordinates":[110.63443999999998,-7.78417],"type":"Point"}
+  "geometry": {"coordinates":[110.63444,-7.78417],"type":"Point"}
 }

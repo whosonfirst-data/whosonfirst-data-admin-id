@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072709
+        102072709,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6252462
     },
     "wof:country":"ID",
-    "wof:geomhash":"1618499221b05c7f8e02cf755ed20946",
+    "wof:geomhash":"19313929c7585d8444a1da4d829109fe",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1243061889,
-    "wof:lastmodified":1536861511,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613182975,
     "wof:name":"Perumahan Tangsi",
     "wof:parent_id":102072709,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.50388999999998,
+    110.50389,
     -7.39111,
-    110.50388999999998,
+    110.50389,
     -7.39111
 ],
-  "geometry": {"coordinates":[110.50388999999998,-7.39111],"type":"Point"}
+  "geometry": {"coordinates":[110.50389,-7.39111],"type":"Point"}
 }

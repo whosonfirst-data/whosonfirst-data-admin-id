@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073529
+        102073529,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6589096
     },
     "wof:country":"ID",
-    "wof:geomhash":"047fd1ce7b8444ae3f1cdc21daad82cf",
+    "wof:geomhash":"efa22db8a90ff12437c3bf008d3fe2c7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1326679825,
-    "wof:lastmodified":1537629634,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613172522,
     "wof:name":"Cariu Kulon",
     "wof:parent_id":102073529,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.05861000000002,
+    107.05861,
     -6.80306,
-    107.05861000000002,
+    107.05861,
     -6.80306
 ],
-  "geometry": {"coordinates":[107.05861000000002,-6.80306],"type":"Point"}
+  "geometry": {"coordinates":[107.05861,-6.80306],"type":"Point"}
 }

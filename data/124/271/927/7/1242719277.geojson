@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671995,
-        102073209
+        102073209,
+        85671995
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7846927
     },
     "wof:country":"ID",
-    "wof:geomhash":"58d0c97da88b075d30e56eeaddf1ce93",
+    "wof:geomhash":"26abf03692916fbb9fad7ecea9e955bd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1242719277,
-    "wof:lastmodified":1537634532,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613183909,
     "wof:name":"Bugelheglasari",
     "wof:parent_id":102073209,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.23711000000002,
+    106.23711,
     -6.91719,
-    106.23711000000002,
+    106.23711,
     -6.91719
 ],
-  "geometry": {"coordinates":[106.23711000000002,-6.91719],"type":"Point"}
+  "geometry": {"coordinates":[106.23711,-6.91719],"type":"Point"}
 }

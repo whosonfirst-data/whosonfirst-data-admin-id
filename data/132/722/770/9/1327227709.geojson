@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073405
+        102073405,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1933894
     },
     "wof:country":"ID",
-    "wof:geomhash":"ba0fe949c3bf95af419e4b02c5891f9c",
+    "wof:geomhash":"e6eb7f038b3a93ccb43e535eaaa510a8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1327227709,
-    "wof:lastmodified":1536975863,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613172684,
     "wof:name":"Nungso",
     "wof:parent_id":102073405,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.78943999999998,
+    110.78944,
     -7.59,
-    110.78943999999998,
+    110.78944,
     -7.59
 ],
-  "geometry": {"coordinates":[110.78943999999998,-7.59],"type":"Point"}
+  "geometry": {"coordinates":[110.78944,-7.59],"type":"Point"}
 }

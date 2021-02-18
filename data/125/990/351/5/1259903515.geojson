@@ -35,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672001,
-        102072841
+        102072841,
+        85672001
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1642513
     },
     "wof:country":"ID",
-    "wof:geomhash":"52b1506656e0217eb1795603e4979641",
+    "wof:geomhash":"0d0ace79b69bbe6cdeb9da6d4446454e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,7 +54,14 @@
         }
     ],
     "wof:id":1259903515,
-    "wof:lastmodified":1537627063,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613184456,
     "wof:name":"Jerukmanis",
     "wof:parent_id":102072841,
     "wof:placetype":"locality",
@@ -64,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.72693999999998,
+    106.72694,
     -6.19278,
-    106.72693999999998,
+    106.72694,
     -6.19278
 ],
-  "geometry": {"coordinates":[106.72693999999998,-6.19278],"type":"Point"}
+  "geometry": {"coordinates":[106.72694,-6.19278],"type":"Point"}
 }

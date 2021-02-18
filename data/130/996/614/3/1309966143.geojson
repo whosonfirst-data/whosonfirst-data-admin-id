@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073569
+        102073569,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6400650
     },
     "wof:country":"ID",
-    "wof:geomhash":"23fe842c5b132a7ea2d34464c895803f",
+    "wof:geomhash":"763eb634031d3c36b93b307f284221fe",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1309966143,
-    "wof:lastmodified":1537628818,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613182151,
     "wof:name":"Manis Kidul",
     "wof:parent_id":102073569,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.48888999999998,
+    108.48889,
     -6.90861,
-    108.48888999999998,
+    108.48889,
     -6.90861
 ],
-  "geometry": {"coordinates":[108.48888999999998,-6.90861],"type":"Point"}
+  "geometry": {"coordinates":[108.48889,-6.90861],"type":"Point"}
 }

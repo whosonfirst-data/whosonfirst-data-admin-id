@@ -34,7 +34,7 @@
         "gn:id":2010693
     },
     "wof:country":"ID",
-    "wof:geomhash":"16fb8492ff914d3e79aa1d11bb33fc58",
+    "wof:geomhash":"c60eaac05dabba944111e76c45c28d36",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +42,14 @@
         }
     ],
     "wof:id":1209608909,
-    "wof:lastmodified":1536281913,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613179127,
     "wof:name":"Tompen",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +60,9 @@
 },
   "bbox": [
     110.70694,
-    -7.526669999999998,
+    -7.52667,
     110.70694,
-    -7.526669999999998
+    -7.52667
 ],
   "geometry": {"coordinates":[110.70694,-7.52667],"type":"Point"}
 }

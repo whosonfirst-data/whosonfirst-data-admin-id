@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072857
+        102072857,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6259380
     },
     "wof:country":"ID",
-    "wof:geomhash":"cc9cdc2eb631a849e24d9c8d3c32024c",
+    "wof:geomhash":"bd2fab716a555801d69d64cdf5a73078",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1343454943,
-    "wof:lastmodified":1536754204,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175126,
     "wof:name":"Jombong",
     "wof:parent_id":102072857,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.35056000000002,
+    110.35056,
     -7.6125,
-    110.35056000000002,
+    110.35056,
     -7.6125
 ],
-  "geometry": {"coordinates":[110.35056000000002,-7.6125],"type":"Point"}
+  "geometry": {"coordinates":[110.35056,-7.6125],"type":"Point"}
 }

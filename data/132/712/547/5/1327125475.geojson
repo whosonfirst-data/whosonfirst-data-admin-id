@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072857
+        102072857,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6199332
     },
     "wof:country":"ID",
-    "wof:geomhash":"b404e24b066d14a842e8b34dd0a31746",
+    "wof:geomhash":"98d85e9680dda4adf976eea1d6a45614",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1327125475,
-    "wof:lastmodified":1536624147,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613172815,
     "wof:name":"Bekelan",
     "wof:parent_id":102072857,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.21056000000002,
+    110.21056,
     -7.42556,
-    110.21056000000002,
+    110.21056,
     -7.42556
 ],
-  "geometry": {"coordinates":[110.21056000000002,-7.42556],"type":"Point"}
+  "geometry": {"coordinates":[110.21056,-7.42556],"type":"Point"}
 }

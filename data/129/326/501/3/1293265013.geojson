@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672009,
-        1108796809
+        1108796809,
+        85672009
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7665988
     },
     "wof:country":"ID",
-    "wof:geomhash":"760e983f4cedc7a6f88cae32388f183d",
+    "wof:geomhash":"b5baa9271e9a9a90d53434cada9615c1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1293265013,
-    "wof:lastmodified":1537634198,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613176816,
     "wof:name":"Cintamulya",
     "wof:parent_id":1108796809,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    105.38443999999998,
+    105.38444,
     -5.55907,
-    105.38443999999998,
+    105.38444,
     -5.55907
 ],
-  "geometry": {"coordinates":[105.38443999999998,-5.55907],"type":"Point"}
+  "geometry": {"coordinates":[105.38444,-5.55907],"type":"Point"}
 }

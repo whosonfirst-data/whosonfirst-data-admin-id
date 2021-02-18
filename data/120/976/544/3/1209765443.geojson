@@ -32,15 +32,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072855
+        102072855,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6601357
     },
     "wof:country":"ID",
-    "wof:geomhash":"ca8f130551fba2dbd0921cb01069d8d7",
+    "wof:geomhash":"b92c4257f35fa887c819d81d3a3d1f39",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,14 @@
         }
     ],
     "wof:id":1209765443,
-    "wof:lastmodified":1537629981,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178861,
     "wof:name":"Cilubang",
     "wof:parent_id":102072855,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.80138999999998,
+    106.80139,
     -6.91722,
-    106.80138999999998,
+    106.80139,
     -6.91722
 ],
-  "geometry": {"coordinates":[106.80138999999998,-6.91722],"type":"Point"}
+  "geometry": {"coordinates":[106.80139,-6.91722],"type":"Point"}
 }

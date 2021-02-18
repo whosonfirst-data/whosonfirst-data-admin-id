@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073217
+        102073217,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1987038
     },
     "wof:country":"ID",
-    "wof:geomhash":"1d9023e125e135ac5b26840d425c8659",
+    "wof:geomhash":"f6eec11360736dbec500294daf75ba6d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1209775787,
-    "wof:lastmodified":1536379036,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613178630,
     "wof:name":"Lebakpasar",
     "wof:parent_id":102073217,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.88443999999998,
+    106.88444,
     -6.48889,
-    106.88443999999998,
+    106.88444,
     -6.48889
 ],
-  "geometry": {"coordinates":[106.88443999999998,-6.48889],"type":"Point"}
+  "geometry": {"coordinates":[106.88444,-6.48889],"type":"Point"}
 }

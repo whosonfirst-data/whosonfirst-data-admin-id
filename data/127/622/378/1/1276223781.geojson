@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072857
+        102072857,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6260442
     },
     "wof:country":"ID",
-    "wof:geomhash":"2688178468bfe34cc19b47ef724c0989",
+    "wof:geomhash":"4a9628f39abb711ed6796637ece6627a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1276223781,
-    "wof:lastmodified":1536926388,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613177794,
     "wof:name":"Mantenan",
     "wof:parent_id":102072857,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.22693999999998,
+    110.22694,
     -7.51472,
-    110.22693999999998,
+    110.22694,
     -7.51472
 ],
-  "geometry": {"coordinates":[110.22693999999998,-7.51472],"type":"Point"}
+  "geometry": {"coordinates":[110.22694,-7.51472],"type":"Point"}
 }

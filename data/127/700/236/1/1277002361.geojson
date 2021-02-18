@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072857
+        102072857,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6260342
     },
     "wof:country":"ID",
-    "wof:geomhash":"63e900403785d2166bdc2a441d197984",
+    "wof:geomhash":"2618f6219f29a7b05a98467e32b74831",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1277002361,
-    "wof:lastmodified":1536876170,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613176995,
     "wof:name":"Sudisari",
     "wof:parent_id":102072857,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.24611000000002,
+    110.24611,
     -7.60194,
-    110.24611000000002,
+    110.24611,
     -7.60194
 ],
-  "geometry": {"coordinates":[110.24611000000002,-7.60194],"type":"Point"}
+  "geometry": {"coordinates":[110.24611,-7.60194],"type":"Point"}
 }

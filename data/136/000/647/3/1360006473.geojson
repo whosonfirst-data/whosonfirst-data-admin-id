@@ -38,15 +38,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072921
+        102072921,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6378834
     },
     "wof:country":"ID",
-    "wof:geomhash":"33d616fd58cb9724e2acdc7c7ef483da",
+    "wof:geomhash":"8522e3f342c6a75ac30a2c5581f726bf",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -57,7 +57,14 @@
         }
     ],
     "wof:id":1360006473,
-    "wof:lastmodified":1564194726,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613181879,
     "wof:name":"Sabuk",
     "wof:parent_id":102072921,
     "wof:placetype":"locality",
@@ -67,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.41306000000002,
+    109.41306,
     -7.26972,
-    109.41306000000002,
+    109.41306,
     -7.26972
 ],
-  "geometry": {"coordinates":[109.41306000000002,-7.26972],"type":"Point"}
+  "geometry": {"coordinates":[109.41306,-7.26972],"type":"Point"}
 }

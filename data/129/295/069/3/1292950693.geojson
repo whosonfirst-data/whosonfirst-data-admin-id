@@ -29,15 +29,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073217
+        102073217,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1987422
     },
     "wof:country":"ID",
-    "wof:geomhash":"c3143c0b0de8df1c8e3f340c17dfeddd",
+    "wof:geomhash":"19eeebbf05def117201aabe19c13e72a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,14 @@
         }
     ],
     "wof:id":1292950693,
-    "wof:lastmodified":1537061234,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1613175674,
     "wof:name":"Batutapakpadurenam",
     "wof:parent_id":102073217,
     "wof:placetype":"locality",
@@ -58,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.70638999999998,
+    106.70639,
     -6.38778,
-    106.70638999999998,
+    106.70639,
     -6.38778
 ],
-  "geometry": {"coordinates":[106.70638999999998,-6.38778],"type":"Point"}
+  "geometry": {"coordinates":[106.70639,-6.38778],"type":"Point"}
 }
