@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-03-01",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -25,8 +26,7 @@
     "gn:timezone":"Asia/Jakarta",
     "iso:country":"ID",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":13.0,
+    "mz:is_current":0,
     "name:und_x_variant":[
         "Tjempaka-oedik 2",
         "Campaka-udik",
@@ -57,7 +57,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652213,
+    "wof:lastmodified":1614708064,
     "wof:name":"Cempaka-udik",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
