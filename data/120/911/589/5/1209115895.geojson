@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672073,
+        1108796979
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +47,11 @@
     "wof:geomhash":"548d4bd39ef68f0a0c07f6e9e47a0791",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209115895
+            "county_id":1108796979,
+            "locality_id":1209115895,
+            "region_id":85672073
         }
     ],
     "wof:id":1209115895,
@@ -56,9 +62,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638877,
+    "wof:lastmodified":1614723034,
     "wof:name":"Gajahmati",
-    "wof:parent_id":85632203,
+    "wof:parent_id":1108796979,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

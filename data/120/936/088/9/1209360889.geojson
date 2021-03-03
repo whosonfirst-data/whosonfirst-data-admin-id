@@ -35,7 +35,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671995,
+        102072687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,8 +48,11 @@
     "wof:geomhash":"6d63d297a6a6d7876a750d9f566f76e9",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209360889
+            "county_id":102072687,
+            "locality_id":1209360889,
+            "region_id":85671995
         }
     ],
     "wof:id":1209360889,
@@ -57,9 +63,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614637991,
+    "wof:lastmodified":1614715256,
     "wof:name":"Peusar Kaler",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072687,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

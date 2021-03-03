@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672081,
+        102073343
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"4ec49f34ba6555535a6dfb29a493689e",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209042015
+            "county_id":102073343,
+            "locality_id":1209042015,
+            "region_id":85672081
         }
     ],
     "wof:id":1209042015,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638689,
+    "wof:lastmodified":1614720384,
     "wof:name":"Serwung",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073343,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

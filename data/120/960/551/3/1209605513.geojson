@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672027,
+        102072849
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"3b693e87a1f9f6f5830aca1a02040b9d",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209605513
+            "county_id":102072849,
+            "locality_id":1209605513,
+            "region_id":85672027
         }
     ],
     "wof:id":1209605513,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652218,
+    "wof:lastmodified":1614716654,
     "wof:name":"Sepat",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072849,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

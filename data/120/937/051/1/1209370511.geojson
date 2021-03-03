@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672087,
+        102073381
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"fe2f6a2d8b4c4e5f1a577cd500f15197",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209370511
+            "county_id":102073381,
+            "locality_id":1209370511,
+            "region_id":85672087
         }
     ],
     "wof:id":1209370511,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614651990,
+    "wof:lastmodified":1614720759,
     "wof:name":"Padangalai",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073381,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

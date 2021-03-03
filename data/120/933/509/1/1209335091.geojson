@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102072947
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"55ac2764e4b1c497da039ac102092981",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209335091
+            "county_id":102072947,
+            "locality_id":1209335091,
+            "region_id":85671987
         }
     ],
     "wof:id":1209335091,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638871,
+    "wof:lastmodified":1614717403,
     "wof:name":"Mabang",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072947,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

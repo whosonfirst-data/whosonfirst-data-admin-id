@@ -229,7 +229,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672019,
+        102072881
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -239,8 +242,11 @@
     "wof:geomhash":"d3dcd9a207294416c929834b033bb5aa",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209146291
+            "county_id":102072881,
+            "locality_id":1209146291,
+            "region_id":85672019
         }
     ],
     "wof:id":1209146291,
@@ -251,9 +257,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652149,
+    "wof:lastmodified":1614716954,
     "wof:name":"Palembang",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072881,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

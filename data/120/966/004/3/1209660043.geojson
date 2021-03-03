@@ -37,7 +37,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672019,
+        102073129
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,8 +50,11 @@
     "wof:geomhash":"476afea56406df375941eebf97619c21",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209660043
+            "county_id":102073129,
+            "locality_id":1209660043,
+            "region_id":85672019
         }
     ],
     "wof:id":1209660043,
@@ -59,9 +65,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652187,
+    "wof:lastmodified":1614718693,
     "wof:name":"Sungipadang",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073129,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

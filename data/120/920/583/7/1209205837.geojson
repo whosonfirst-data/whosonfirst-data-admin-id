@@ -136,7 +136,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102072709
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -146,8 +149,11 @@
     "wof:geomhash":"577559929a53820363e8e65112f0e40f",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209205837
+            "county_id":102072709,
+            "locality_id":1209205837,
+            "region_id":85671987
         }
     ],
     "wof:id":1209205837,
@@ -158,9 +164,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638950,
+    "wof:lastmodified":1614715567,
     "wof:name":"Dolo",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072709,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672037,
+        1108796855
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"280c20a56c257c71d780867136b6c82e",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209081811
+            "county_id":1108796855,
+            "locality_id":1209081811,
+            "region_id":85672037
         }
     ],
     "wof:id":1209081811,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638167,
+    "wof:lastmodified":1614722686,
     "wof:name":"Paoreconggo",
-    "wof:parent_id":85632203,
+    "wof:parent_id":1108796855,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

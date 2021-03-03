@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672087,
+        102072683
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +47,11 @@
     "wof:geomhash":"926d5ef9671b61ca0f78a08fadb46205",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209270163
+            "county_id":102072683,
+            "locality_id":1209270163,
+            "region_id":85672087
         }
     ],
     "wof:id":1209270163,
@@ -56,9 +62,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638962,
+    "wof:lastmodified":1614715232,
     "wof:name":"Baharu",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072683,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

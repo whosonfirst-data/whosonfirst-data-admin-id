@@ -85,7 +85,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672027,
+        102073495
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -95,8 +98,11 @@
     "wof:geomhash":"29f942d560da59ea29a0e09fa0fa9d3d",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209299483
+            "county_id":102073495,
+            "locality_id":1209299483,
+            "region_id":85672027
         }
     ],
     "wof:id":1209299483,
@@ -107,9 +113,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638923,
+    "wof:lastmodified":1614721637,
     "wof:name":"Bangle",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073495,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

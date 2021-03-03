@@ -24,12 +24,26 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        102072687,
+        85671995
+    ],
     "wof:breaches":[],
     "wof:country":"ID",
     "wof:created":1613158811,
     "wof:geomhash":"baf47dd3b754db37dab69fdb3f3e2df5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102072687,
+            "locality_id":-1,
+            "neighbourhood_id":1729802573,
+            "region_id":85671995
+        }
+    ],
     "wof:id":1729802573,
     "wof:lang_x_official":[
         "ind"
@@ -38,7 +52,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1613179624,
+    "wof:lastmodified":1614723607,
     "wof:name":"Pakulonan",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672097,
+        1108796843
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +47,11 @@
     "wof:geomhash":"da189df9a7c465d7b2c58d2388d593a5",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209265455
+            "county_id":1108796843,
+            "locality_id":1209265455,
+            "region_id":85672097
         }
     ],
     "wof:id":1209265455,
@@ -56,9 +62,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614639067,
+    "wof:lastmodified":1614722599,
     "wof:name":"Selagor",
-    "wof:parent_id":85632203,
+    "wof:parent_id":1108796843,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

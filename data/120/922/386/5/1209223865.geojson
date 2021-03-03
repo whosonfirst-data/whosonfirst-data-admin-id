@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671973,
+        102072605
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +47,11 @@
     "wof:geomhash":"e90033598a831141dfcc784040931e1f",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209223865
+            "county_id":102072605,
+            "locality_id":1209223865,
+            "region_id":85671973
         }
     ],
     "wof:id":1209223865,
@@ -56,9 +62,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638527,
+    "wof:lastmodified":1614714713,
     "wof:name":"Simpang Uning",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072605,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

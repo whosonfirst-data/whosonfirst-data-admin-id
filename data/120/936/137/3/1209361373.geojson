@@ -32,7 +32,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672085,
+        102073277
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,8 +45,11 @@
     "wof:geomhash":"bf769875eba605411a4607b88b7747d4",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209361373
+            "county_id":102073277,
+            "locality_id":1209361373,
+            "region_id":85672085
         }
     ],
     "wof:id":1209361373,
@@ -54,9 +60,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614637986,
+    "wof:lastmodified":1614719973,
     "wof:name":"Dodaga",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073277,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

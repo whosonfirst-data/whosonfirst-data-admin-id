@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672023,
+        102072905
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +47,11 @@
     "wof:geomhash":"da73d4781e0edba9129901ab64f9f383",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209222763
+            "county_id":102072905,
+            "locality_id":1209222763,
+            "region_id":85672023
         }
     ],
     "wof:id":1209222763,
@@ -56,9 +62,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652147,
+    "wof:lastmodified":1614717070,
     "wof:name":"Daren",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072905,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

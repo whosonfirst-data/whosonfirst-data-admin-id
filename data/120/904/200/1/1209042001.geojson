@@ -34,7 +34,7 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +44,10 @@
     "wof:geomhash":"55ced2d102e2c2f064d9bbae7573f403",
     "wof:hierarchy":[
         {
-            "country_id":85632203,
-            "locality_id":1209042001
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1209042001,
+            "region_id":-1
         }
     ],
     "wof:id":1209042001,
@@ -56,9 +58,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638689,
+    "wof:lastmodified":1614728261,
     "wof:name":"Sumare",
-    "wof:parent_id":85632203,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

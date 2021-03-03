@@ -49,7 +49,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672037,
+        102072803
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,8 +62,11 @@
     "wof:geomhash":"1a7fe31efe824300dc8caba3ce271689",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209069123
+            "county_id":102072803,
+            "locality_id":1209069123,
+            "region_id":85672037
         }
     ],
     "wof:id":1209069123,
@@ -71,9 +77,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638128,
+    "wof:lastmodified":1614716321,
     "wof:name":"Hua",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072803,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

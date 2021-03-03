@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672027,
+        102073495
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"bb05f63bb09b3646c1bd0e4e284df879",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209405093
+            "county_id":102073495,
+            "locality_id":1209405093,
+            "region_id":85672027
         }
     ],
     "wof:id":1209405093,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638422,
+    "wof:lastmodified":1614721648,
     "wof:name":"Gowang",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073495,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

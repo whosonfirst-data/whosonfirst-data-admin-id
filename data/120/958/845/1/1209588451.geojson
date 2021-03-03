@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672009,
+        102072615
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +47,11 @@
     "wof:geomhash":"89bd75bc104a009e1c607bd911cd6f34",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209588451
+            "county_id":102072615,
+            "locality_id":1209588451,
+            "region_id":85672009
         }
     ],
     "wof:id":1209588451,
@@ -56,9 +62,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638731,
+    "wof:lastmodified":1614714923,
     "wof:name":"Karangagung",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072615,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

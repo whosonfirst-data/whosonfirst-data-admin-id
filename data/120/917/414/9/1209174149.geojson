@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671983,
+        102072981
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"c2481cfc7d666fd56e75e2586bebb768",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209174149
+            "county_id":102072981,
+            "locality_id":1209174149,
+            "region_id":85671983
         }
     ],
     "wof:id":1209174149,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652366,
+    "wof:lastmodified":1614717658,
     "wof:name":"Kebonmanggu",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072981,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

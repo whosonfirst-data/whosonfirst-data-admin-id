@@ -76,7 +76,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672111,
+        102073435
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -86,8 +89,11 @@
     "wof:geomhash":"1fa3c9ddc40630a1be5bd435b7e94fb7",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209278689
+            "county_id":102073435,
+            "locality_id":1209278689,
+            "region_id":85672111
         }
     ],
     "wof:id":1209278689,
@@ -98,9 +104,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638955,
+    "wof:lastmodified":1614721079,
     "wof:name":"Buko",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073435,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

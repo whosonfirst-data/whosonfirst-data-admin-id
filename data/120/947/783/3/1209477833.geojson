@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672037,
+        102073045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"ca5905e6925af63d6437c145368ad6e6",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209477833
+            "county_id":102073045,
+            "locality_id":1209477833,
+            "region_id":85672037
         }
     ],
     "wof:id":1209477833,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638450,
+    "wof:lastmodified":1614718095,
     "wof:name":"Paumbateng",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073045,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

@@ -32,7 +32,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672013,
+        102073279
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,8 +45,11 @@
     "wof:geomhash":"3550431334a8ffd74fe71e2c05f364ce",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209675041
+            "county_id":102073279,
+            "locality_id":1209675041,
+            "region_id":85672013
         }
     ],
     "wof:id":1209675041,
@@ -54,9 +60,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638714,
+    "wof:lastmodified":1614719978,
     "wof:name":"Baturusa",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073279,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

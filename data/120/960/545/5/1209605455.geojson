@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672027,
+        102072747
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"21175f1c26cecea8f75c91a0d0ba817c",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209605455
+            "county_id":102072747,
+            "locality_id":1209605455,
+            "region_id":85672027
         }
     ],
     "wof:id":1209605455,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638753,
+    "wof:lastmodified":1614715995,
     "wof:name":"Balongasem",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072747,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

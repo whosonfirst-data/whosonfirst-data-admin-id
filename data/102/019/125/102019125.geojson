@@ -48,12 +48,7 @@
     "src:geom_via":"quattroshapes",
     "src:lbl:centroid":"mapshaper",
     "src:population":"geonames",
-    "wof:belongsto":[
-        102191569,
-        85632203,
-        102073243,
-        85672041
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "fct:id":"1168ab56-8f76-11e1-848f-cfd5bf3ef515",
@@ -68,11 +63,10 @@
     "wof:geomhash":"91523ab14cb95d639bbe5250ce2972ea",
     "wof:hierarchy":[
         {
-            "continent_id":102191569,
-            "country_id":85632203,
-            "county_id":102073243,
+            "continent_id":-1,
+            "country_id":-1,
             "locality_id":102019125,
-            "region_id":85672041
+            "region_id":-1
         }
     ],
     "wof:id":102019125,
@@ -83,9 +77,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1613173766,
+    "wof:lastmodified":1614712882,
     "wof:name":"Kabupaten Selayar",
-    "wof:parent_id":102073243,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:population":122055,
     "wof:population_rank":9,

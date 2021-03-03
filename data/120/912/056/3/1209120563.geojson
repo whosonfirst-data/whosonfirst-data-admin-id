@@ -33,7 +33,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672067,
+        1108796861
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +46,11 @@
     "wof:geomhash":"b961e7ee1ae0ba3dd1d9e5d4cc0acb0f",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209120563
+            "county_id":1108796861,
+            "locality_id":1209120563,
+            "region_id":85672067
         }
     ],
     "wof:id":1209120563,
@@ -55,9 +61,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638394,
+    "wof:lastmodified":1614722753,
     "wof:name":"Takeum",
-    "wof:parent_id":85632203,
+    "wof:parent_id":1108796861,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

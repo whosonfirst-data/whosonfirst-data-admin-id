@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672027,
+        102073375
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"537e341736b226e95ca7752d8955339b",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209611631
+            "county_id":102073375,
+            "locality_id":1209611631,
+            "region_id":85672027
         }
     ],
     "wof:id":1209611631,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652178,
+    "wof:lastmodified":1614720647,
     "wof:name":"Sumberamai",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073375,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

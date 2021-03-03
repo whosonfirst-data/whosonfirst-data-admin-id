@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672041,
+        102073243
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"cd5d982023d4b5f1c934b6d1a84406ba",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209566653
+            "county_id":102073243,
+            "locality_id":1209566653,
+            "region_id":85672041
         }
     ],
     "wof:id":1209566653,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638793,
+    "wof:lastmodified":1614719689,
     "wof:name":"Bitombang",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073243,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

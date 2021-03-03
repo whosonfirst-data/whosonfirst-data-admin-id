@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671991,
+        102072719
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"0a9f887d9fff3dd1bf9a1902db90e7ad",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209421821
+            "county_id":102072719,
+            "locality_id":1209421821,
+            "region_id":85671991
         }
     ],
     "wof:id":1209421821,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614639050,
+    "wof:lastmodified":1614715748,
     "wof:name":"Kolek",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072719,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

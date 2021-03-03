@@ -31,6 +31,7 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191569,
         85632203
     ],
     "wof:breaches":[],
@@ -41,8 +42,10 @@
     "wof:geomhash":"34a8fd00167451552826b8129f23ec18",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209183187
+            "locality_id":1209183187,
+            "region_id":-1
         }
     ],
     "wof:id":1209183187,
@@ -53,9 +56,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638976,
+    "wof:lastmodified":1614726533,
     "wof:name":"Bunginkela",
-    "wof:parent_id":85632203,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672027,
+        102073223
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"a78bf229aa1295844ea74b2ffb3c7ade",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209399735
+            "county_id":102073223,
+            "locality_id":1209399735,
+            "region_id":85672027
         }
     ],
     "wof:id":1209399735,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638118,
+    "wof:lastmodified":1614719532,
     "wof:name":"Embul",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073223,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

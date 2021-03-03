@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672077,
+        1108796907
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"9a98f29168dfc2d20e051eb18f03819f",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209453895
+            "county_id":1108796907,
+            "locality_id":1209453895,
+            "region_id":85672077
         }
     ],
     "wof:id":1209453895,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652341,
+    "wof:lastmodified":1614722832,
     "wof:name":"Sekip Hulu",
-    "wof:parent_id":85632203,
+    "wof:parent_id":1108796907,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

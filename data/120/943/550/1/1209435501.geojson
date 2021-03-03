@@ -52,7 +52,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102073111
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,8 +65,11 @@
     "wof:geomhash":"48cfd2dc3ceabe257ab22d11cb8c702e",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209435501
+            "county_id":102073111,
+            "locality_id":1209435501,
+            "region_id":85671987
         }
     ],
     "wof:id":1209435501,
@@ -74,9 +80,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614639175,
+    "wof:lastmodified":1614718535,
     "wof:name":"Bonang",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073111,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

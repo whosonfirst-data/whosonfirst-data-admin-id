@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672027,
+        102073065
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"941e9dc7a1f1e7f5b0166927d72ffaea",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209611737
+            "county_id":102073065,
+            "locality_id":1209611737,
+            "region_id":85672027
         }
     ],
     "wof:id":1209611737,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652177,
+    "wof:lastmodified":1614718321,
     "wof:name":"Sekarputih",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073065,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

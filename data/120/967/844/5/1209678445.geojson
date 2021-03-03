@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672037,
+        102073145
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"ff317d7877d4078d25a865c8ef0d0dd0",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209678445
+            "county_id":102073145,
+            "locality_id":1209678445,
+            "region_id":85672037
         }
     ],
     "wof:id":1209678445,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638716,
+    "wof:lastmodified":1614718736,
     "wof:name":"Tanatoyo",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073145,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

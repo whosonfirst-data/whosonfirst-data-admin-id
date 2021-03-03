@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672037,
+        102073331
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"512069f7930c0da93e7df34c4e8ee7db",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209176943
+            "county_id":102073331,
+            "locality_id":1209176943,
+            "region_id":85672037
         }
     ],
     "wof:id":1209176943,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614639120,
+    "wof:lastmodified":1614720341,
     "wof:name":"Boentuka",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073331,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

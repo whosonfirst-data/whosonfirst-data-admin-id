@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672103,
+        102073147
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"46fa54a86708084000a1aa54846a3e24",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209072741
+            "county_id":102073147,
+            "locality_id":1209072741,
+            "region_id":85672103
         }
     ],
     "wof:id":1209072741,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638018,
+    "wof:lastmodified":1614718751,
     "wof:name":"Longserangawah",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073147,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

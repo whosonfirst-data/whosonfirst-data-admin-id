@@ -49,7 +49,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671991,
+        102073289
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,8 +62,11 @@
     "wof:geomhash":"3207cdda61a81a248da1276b75a7526d",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209321713
+            "county_id":102073289,
+            "locality_id":1209321713,
+            "region_id":85671991
         }
     ],
     "wof:id":1209321713,
@@ -71,9 +77,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638675,
+    "wof:lastmodified":1614720005,
     "wof:name":"Taba",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073289,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

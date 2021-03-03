@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671983,
+        102072613
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +47,11 @@
     "wof:geomhash":"ab9342d916c6cf60b83d0f74b86da9e9",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209066599
+            "county_id":102072613,
+            "locality_id":1209066599,
+            "region_id":85671983
         }
     ],
     "wof:id":1209066599,
@@ -56,9 +62,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638126,
+    "wof:lastmodified":1614714819,
     "wof:name":"Batubentik",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072613,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

@@ -31,7 +31,7 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +41,10 @@
     "wof:geomhash":"cf8afd7137bd4c49462b88f9bfeaa57f",
     "wof:hierarchy":[
         {
-            "country_id":85632203,
-            "locality_id":1209081831
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1209081831,
+            "region_id":-1
         }
     ],
     "wof:id":1209081831,
@@ -53,9 +55,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638170,
+    "wof:lastmodified":1614727332,
     "wof:name":"Jelela",
-    "wof:parent_id":85632203,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

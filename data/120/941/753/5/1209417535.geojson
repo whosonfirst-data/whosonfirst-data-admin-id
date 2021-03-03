@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672023,
+        102073027
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"401097de8626ba227ca17b181d09c09f",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209417535
+            "county_id":102073027,
+            "locality_id":1209417535,
+            "region_id":85672023
         }
     ],
     "wof:id":1209417535,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652074,
+    "wof:lastmodified":1614718032,
     "wof:name":"Banjar Padangaji Kawan",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073027,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

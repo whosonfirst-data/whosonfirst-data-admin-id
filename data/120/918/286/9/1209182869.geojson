@@ -43,7 +43,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672111,
+        102072695
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,8 +56,11 @@
     "wof:geomhash":"c2a9699d9cd873b09c14023536cbd1ba",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209182869
+            "county_id":102072695,
+            "locality_id":1209182869,
+            "region_id":85672111
         }
     ],
     "wof:id":1209182869,
@@ -65,9 +71,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638970,
+    "wof:lastmodified":1614715360,
     "wof:name":"Paku",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072695,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

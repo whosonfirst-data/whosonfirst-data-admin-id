@@ -28,7 +28,10 @@
     "mz:min_zoom":13.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672093,
+        102073265
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,8 +41,11 @@
     "wof:geomhash":"8569bc8be61adf156a8df005edafd7eb",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209403505
+            "county_id":102073265,
+            "locality_id":1209403505,
+            "region_id":85672093
         }
     ],
     "wof:id":1209403505,
@@ -50,9 +56,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652105,
+    "wof:lastmodified":1614719886,
     "wof:name":"Brayut",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073265,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

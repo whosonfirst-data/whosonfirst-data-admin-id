@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102072727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +47,11 @@
     "wof:geomhash":"5c59daf5afdf2f1f29af16c6f8ab755b",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209305521
+            "county_id":102072727,
+            "locality_id":1209305521,
+            "region_id":85671987
         }
     ],
     "wof:id":1209305521,
@@ -56,9 +62,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614651975,
+    "wof:lastmodified":1614715772,
     "wof:name":"Kebonroto",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072727,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

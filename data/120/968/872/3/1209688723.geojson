@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672009,
+        1108796809
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"617168307e59f1364c2ac9f27f7d5a86",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209688723
+            "county_id":1108796809,
+            "locality_id":1209688723,
+            "region_id":85672009
         }
     ],
     "wof:id":1209688723,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638600,
+    "wof:lastmodified":1614722482,
     "wof:name":"Umbulan Sanip",
-    "wof:parent_id":85632203,
+    "wof:parent_id":1108796809,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

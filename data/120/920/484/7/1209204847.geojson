@@ -40,7 +40,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672027,
+        102073533
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,8 +53,11 @@
     "wof:geomhash":"5edd11c18974bc888169581b756910bd",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209204847
+            "county_id":102073533,
+            "locality_id":1209204847,
+            "region_id":85672027
         }
     ],
     "wof:id":1209204847,
@@ -62,9 +68,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638937,
+    "wof:lastmodified":1614722079,
     "wof:name":"Jirak",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073533,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

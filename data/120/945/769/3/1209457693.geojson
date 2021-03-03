@@ -97,7 +97,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672041,
+        102072845
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -107,8 +110,11 @@
     "wof:geomhash":"2f7b3ba551acd2827fc17203042296dc",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209457693
+            "county_id":102072845,
+            "locality_id":1209457693,
+            "region_id":85672041
         }
     ],
     "wof:id":1209457693,
@@ -119,9 +125,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614639054,
+    "wof:lastmodified":1614716612,
     "wof:name":"Dama",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072845,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

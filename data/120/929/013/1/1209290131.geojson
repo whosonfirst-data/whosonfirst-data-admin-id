@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672037,
+        102072837
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"00fb2f7379faec49604bb1f6b55d2cd7",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209290131
+            "county_id":102072837,
+            "locality_id":1209290131,
+            "region_id":85672037
         }
     ],
     "wof:id":1209290131,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638922,
+    "wof:lastmodified":1614716571,
     "wof:name":"Detuara",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072837,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

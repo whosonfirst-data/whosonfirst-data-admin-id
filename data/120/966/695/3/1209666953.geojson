@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672077,
+        1108796917
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"af6e8e405b8cc5421fb25f5e56308f99",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209666953
+            "county_id":1108796917,
+            "locality_id":1209666953,
+            "region_id":85672077
         }
     ],
     "wof:id":1209666953,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652183,
+    "wof:lastmodified":1614722865,
     "wof:name":"Lembuai",
-    "wof:parent_id":85632203,
+    "wof:parent_id":1108796917,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

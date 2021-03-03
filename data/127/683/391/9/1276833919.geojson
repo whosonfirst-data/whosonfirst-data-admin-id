@@ -27,7 +27,10 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632203
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1899469
@@ -36,8 +39,8 @@
     "wof:geomhash":"d95ce9bc1418ffd5c5ad3bfe1c929c02",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191569,
+            "country_id":85632203,
             "locality_id":1276833919,
             "region_id":-1
         }
@@ -50,7 +53,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614637673,
+    "wof:lastmodified":1614731228,
     "wof:name":"Tamoli",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

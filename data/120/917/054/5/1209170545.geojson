@@ -34,6 +34,7 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191569,
         85632203
     ],
     "wof:breaches":[],
@@ -44,8 +45,10 @@
     "wof:geomhash":"4c0a69d83305c81e3a0b11255dea6187",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209170545
+            "locality_id":1209170545,
+            "region_id":-1
         }
     ],
     "wof:id":1209170545,
@@ -56,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614639119,
+    "wof:lastmodified":1614727362,
     "wof:name":"Kampung Tengah",
-    "wof:parent_id":85632203,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

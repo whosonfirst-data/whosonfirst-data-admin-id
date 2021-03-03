@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672027,
+        102072593
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"b0cf7607625db6b04595289cf703f176",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209605305
+            "county_id":102072593,
+            "locality_id":1209605305,
+            "region_id":85672027
         }
     ],
     "wof:id":1209605305,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638755,
+    "wof:lastmodified":1614714684,
     "wof:name":"Tegal Bere",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072593,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

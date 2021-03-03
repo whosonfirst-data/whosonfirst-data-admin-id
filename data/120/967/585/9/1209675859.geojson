@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671983,
+        102073217
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"8c582fad97fa9c53d85c3ccb694c76ab",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209675859
+            "county_id":102073217,
+            "locality_id":1209675859,
+            "region_id":85671983
         }
     ],
     "wof:id":1209675859,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638726,
+    "wof:lastmodified":1614719430,
     "wof:name":"Babakancipayung",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073217,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

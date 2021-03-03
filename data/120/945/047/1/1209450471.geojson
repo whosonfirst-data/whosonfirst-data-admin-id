@@ -160,7 +160,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672045,
+        102072811
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -170,8 +173,11 @@
     "wof:geomhash":"4ee0aaed06080a50175956dc651b01ba",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209450471
+            "county_id":102072811,
+            "locality_id":1209450471,
+            "region_id":85672045
         }
     ],
     "wof:id":1209450471,
@@ -182,9 +188,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614639052,
+    "wof:lastmodified":1614716399,
     "wof:name":"Labuan",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072811,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

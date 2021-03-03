@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672103,
+        102073395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"9e808ccc835db69f3b4ad09d787b5ae7",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209582181
+            "county_id":102073395,
+            "locality_id":1209582181,
+            "region_id":85672103
         }
     ],
     "wof:id":1209582181,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638731,
+    "wof:lastmodified":1614720793,
     "wof:name":"Karaku",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073395,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

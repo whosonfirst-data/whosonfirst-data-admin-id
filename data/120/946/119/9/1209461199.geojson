@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671983,
+        102072613
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"802bc73ce4a1220616a5ed24cf967b1e",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209461199
+            "county_id":102072613,
+            "locality_id":1209461199,
+            "region_id":85671983
         }
     ],
     "wof:id":1209461199,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638346,
+    "wof:lastmodified":1614714810,
     "wof:name":"Malaheuning",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072613,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

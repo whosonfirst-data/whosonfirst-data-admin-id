@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102073417
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"23ae50ff1c7d77e90d2b23ebcb86da81",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209305427
+            "county_id":102073417,
+            "locality_id":1209305427,
+            "region_id":85671987
         }
     ],
     "wof:id":1209305427,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614651974,
+    "wof:lastmodified":1614720927,
     "wof:name":"Dampyak Lor",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073417,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

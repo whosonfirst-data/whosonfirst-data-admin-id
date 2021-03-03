@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672037,
+        102073235
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"b17e663683a2b23e02b4eabd6fd0a446",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209390393
+            "county_id":102073235,
+            "locality_id":1209390393,
+            "region_id":85672037
         }
     ],
     "wof:id":1209390393,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638110,
+    "wof:lastmodified":1614719668,
     "wof:name":"Ogolidi",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073235,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

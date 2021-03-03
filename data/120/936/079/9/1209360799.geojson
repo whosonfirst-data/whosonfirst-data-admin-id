@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671983,
+        102073193
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"cd6868295c45c0b20ee9b1f1f72a7fd9",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209360799
+            "county_id":102073193,
+            "locality_id":1209360799,
+            "region_id":85671983
         }
     ],
     "wof:id":1209360799,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614637974,
+    "wof:lastmodified":1614719142,
     "wof:name":"Lungsalam",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073193,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

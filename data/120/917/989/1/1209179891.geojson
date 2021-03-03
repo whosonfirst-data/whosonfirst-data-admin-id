@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672037,
+        1108796857
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"b4800ae8bc22cf3a7970d90817b24d2b",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209179891
+            "county_id":1108796857,
+            "locality_id":1209179891,
+            "region_id":85672037
         }
     ],
     "wof:id":1209179891,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614639134,
+    "wof:lastmodified":1614722740,
     "wof:name":"Umapaohi",
-    "wof:parent_id":85632203,
+    "wof:parent_id":1108796857,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

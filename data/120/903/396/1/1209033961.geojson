@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672081,
+        102073343
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +47,11 @@
     "wof:geomhash":"7ebd001e3b858f65a188d7fd378f599f",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209033961
+            "county_id":102073343,
+            "locality_id":1209033961,
+            "region_id":85672081
         }
     ],
     "wof:id":1209033961,
@@ -56,9 +62,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638682,
+    "wof:lastmodified":1614720383,
     "wof:name":"Kawongkoan",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073343,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

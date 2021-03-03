@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672013,
+        102073443
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"ca0ef93558f9a83ddce99b860bae0ac2",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209363589
+            "county_id":102073443,
+            "locality_id":1209363589,
+            "region_id":85672013
         }
     ],
     "wof:id":1209363589,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614637986,
+    "wof:lastmodified":1614721129,
     "wof:name":"Petanggan",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073443,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

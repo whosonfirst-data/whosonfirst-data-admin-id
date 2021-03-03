@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672037,
+        102073355
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"e6e9c637916e5ce5af93d5df76f389c9",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209179927
+            "county_id":102073355,
+            "locality_id":1209179927,
+            "region_id":85672037
         }
     ],
     "wof:id":1209179927,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614639122,
+    "wof:lastmodified":1614720412,
     "wof:name":"Folaoen Dua",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073355,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

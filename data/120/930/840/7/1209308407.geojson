@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102073205
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"429c9161e836c2c1f5881a4c8f5ad488",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209308407
+            "county_id":102073205,
+            "locality_id":1209308407,
+            "region_id":85671987
         }
     ],
     "wof:id":1209308407,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614651978,
+    "wof:lastmodified":1614719215,
     "wof:name":"Kendayaan",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073205,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

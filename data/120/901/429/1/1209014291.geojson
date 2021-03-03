@@ -28,7 +28,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672005,
+        102073335
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,8 +41,11 @@
     "wof:geomhash":"036d9bdb000dffc3cd1c30c0dacda436",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209014291
+            "county_id":102073335,
+            "locality_id":1209014291,
+            "region_id":85672005
         }
     ],
     "wof:id":1209014291,
@@ -50,9 +56,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638103,
+    "wof:lastmodified":1614720373,
     "wof:name":"Mademang",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073335,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

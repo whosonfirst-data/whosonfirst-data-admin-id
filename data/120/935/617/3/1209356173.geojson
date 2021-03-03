@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672013,
+        102073443
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"6c971f4dd648464803ee965800c36c1f",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209356173
+            "county_id":102073443,
+            "locality_id":1209356173,
+            "region_id":85672013
         }
     ],
     "wof:id":1209356173,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638676,
+    "wof:lastmodified":1614721126,
     "wof:name":"Sridadi",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073443,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

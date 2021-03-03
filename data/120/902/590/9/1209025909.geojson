@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672027,
+        102073065
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"8480445341762e86d56810f52da5e39e",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209025909
+            "county_id":102073065,
+            "locality_id":1209025909,
+            "region_id":85672027
         }
     ],
     "wof:id":1209025909,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638848,
+    "wof:lastmodified":1614718321,
     "wof:name":"Banyubiru Kidul",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073065,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

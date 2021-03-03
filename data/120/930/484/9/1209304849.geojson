@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672027,
+        102073533
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"c2950ba8628be279792a1f0b3cb86671",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209304849
+            "county_id":102073533,
+            "locality_id":1209304849,
+            "region_id":85672027
         }
     ],
     "wof:id":1209304849,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638144,
+    "wof:lastmodified":1614722082,
     "wof:name":"Kalitalun Kulon",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073533,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

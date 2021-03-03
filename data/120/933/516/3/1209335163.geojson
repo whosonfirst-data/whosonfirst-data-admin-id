@@ -40,7 +40,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102073405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,8 +53,11 @@
     "wof:geomhash":"a1baca48f3b33c94bb5bc15bc2153ee3",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209335163
+            "county_id":102073405,
+            "locality_id":1209335163,
+            "region_id":85671987
         }
     ],
     "wof:id":1209335163,
@@ -62,9 +68,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652276,
+    "wof:lastmodified":1614720814,
     "wof:name":"Badran",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073405,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

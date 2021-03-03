@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672027,
+        102073123
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"4f3ef9eda63cf4c4c62c6d0b40575994",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209299627
+            "county_id":102073123,
+            "locality_id":1209299627,
+            "region_id":85672027
         }
     ],
     "wof:id":1209299627,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638919,
+    "wof:lastmodified":1614718660,
     "wof:name":"Baruh",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073123,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

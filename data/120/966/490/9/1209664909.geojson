@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671983,
+        102072855
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +47,11 @@
     "wof:geomhash":"25edc1f572cc41dfd96ba5485302d3b4",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209664909
+            "county_id":102072855,
+            "locality_id":1209664909,
+            "region_id":85671983
         }
     ],
     "wof:id":1209664909,
@@ -56,9 +62,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638632,
+    "wof:lastmodified":1614716742,
     "wof:name":"Cipicung",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072855,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

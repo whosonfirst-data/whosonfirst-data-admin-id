@@ -33,7 +33,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672027,
+        102072917
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +46,11 @@
     "wof:geomhash":"2d893987264c3c125ad0ec28a5e2670e",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209500047
+            "county_id":102072917,
+            "locality_id":1209500047,
+            "region_id":85672027
         }
     ],
     "wof:id":1209500047,
@@ -55,9 +61,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638566,
+    "wof:lastmodified":1614717117,
     "wof:name":"Sumbersari Dua",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072917,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

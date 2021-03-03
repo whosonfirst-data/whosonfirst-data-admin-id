@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672031,
+        102072791
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"da9c9caf69a20a0d8852e11f8eefc0bf",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209093077
+            "county_id":102072791,
+            "locality_id":1209093077,
+            "region_id":85672031
         }
     ],
     "wof:id":1209093077,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614637948,
+    "wof:lastmodified":1614716281,
     "wof:name":"Balambus",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072791,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

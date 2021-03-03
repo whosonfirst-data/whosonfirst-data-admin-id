@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672027,
+        102073017
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"d6a8060ce1943710ba0bd75096e9d482",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209210171
+            "county_id":102073017,
+            "locality_id":1209210171,
+            "region_id":85672027
         }
     ],
     "wof:id":1209210171,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614639105,
+    "wof:lastmodified":1614717941,
     "wof:name":"Dompyong Kulon",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073017,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

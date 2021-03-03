@@ -54,7 +54,10 @@
         "Tihu"
     ],
     "src:geom":"geonames",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632203
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8043034
@@ -63,8 +66,8 @@
     "wof:geomhash":"1d88e55589e3214fe93283cb2168090a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191569,
+            "country_id":85632203,
             "locality_id":1327284985,
             "region_id":-1
         }
@@ -77,7 +80,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614633604,
+    "wof:lastmodified":1614734213,
     "wof:name":"Tihu",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

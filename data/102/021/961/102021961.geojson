@@ -37,6 +37,7 @@
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
+        102191569,
         85632203
     ],
     "wof:breaches":[],
@@ -49,8 +50,10 @@
     "wof:geomhash":"1ab617ebdb669a35b6bc1524d4ecccd5",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":102021961
+            "locality_id":102021961,
+            "region_id":-1
         }
     ],
     "wof:id":102021961,
@@ -61,7 +64,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1613173780,
+    "wof:lastmodified":1614714291,
     "wof:name":"Kecamatan Sidoarjo",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

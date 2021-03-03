@@ -28,7 +28,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672097,
+        1108796843
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,8 +41,11 @@
     "wof:geomhash":"e50f70415884056d5cc073191875c8ac",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209625003
+            "county_id":1108796843,
+            "locality_id":1209625003,
+            "region_id":85672097
         }
     ],
     "wof:id":1209625003,
@@ -50,9 +56,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638097,
+    "wof:lastmodified":1614722599,
     "wof:name":"Arnanan",
-    "wof:parent_id":85632203,
+    "wof:parent_id":1108796843,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

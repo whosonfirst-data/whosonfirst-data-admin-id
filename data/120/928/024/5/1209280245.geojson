@@ -46,7 +46,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672037,
+        102072803
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,8 +59,11 @@
     "wof:geomhash":"cf5cb19ce771228dcc9b58026d32d4ca",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209280245
+            "county_id":102072803,
+            "locality_id":1209280245,
+            "region_id":85672037
         }
     ],
     "wof:id":1209280245,
@@ -68,9 +74,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614639135,
+    "wof:lastmodified":1614716316,
     "wof:name":"Ndora",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072803,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

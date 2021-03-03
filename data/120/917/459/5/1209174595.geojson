@@ -33,7 +33,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671983,
+        102072949
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +46,11 @@
     "wof:geomhash":"d5b60606e085c7fd8f0a28980d41e540",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209174595
+            "county_id":102072949,
+            "locality_id":1209174595,
+            "region_id":85671983
         }
     ],
     "wof:id":1209174595,
@@ -55,9 +61,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614639133,
+    "wof:lastmodified":1614717524,
     "wof:name":"Paal Enam",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072949,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

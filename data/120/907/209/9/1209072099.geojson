@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672037,
+        102072671
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"76273657e7c7e6a27f70fcfddb4e4dde",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209072099
+            "county_id":102072671,
+            "locality_id":1209072099,
+            "region_id":85672037
         }
     ],
     "wof:id":1209072099,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638022,
+    "wof:lastmodified":1614715198,
     "wof:name":"Malemu",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072671,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

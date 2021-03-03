@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102072715
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"18a8a7bc686958dfd4f53f22f2c5792b",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209235283
+            "county_id":102072715,
+            "locality_id":1209235283,
+            "region_id":85671987
         }
     ],
     "wof:id":1209235283,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652090,
+    "wof:lastmodified":1614715684,
     "wof:name":"Randegan Wetan",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072715,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

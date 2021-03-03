@@ -67,7 +67,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672041,
+        102072845
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -77,8 +80,11 @@
     "wof:geomhash":"e2015fee32106c190c8f2d28b75d5eae",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209554023
+            "county_id":102072845,
+            "locality_id":1209554023,
+            "region_id":85672041
         }
     ],
     "wof:id":1209554023,
@@ -89,9 +95,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638261,
+    "wof:lastmodified":1614716610,
     "wof:name":"Banga",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072845,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

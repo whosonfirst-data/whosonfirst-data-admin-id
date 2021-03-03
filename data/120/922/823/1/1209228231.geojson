@@ -28,7 +28,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671973,
+        102072873
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,8 +41,11 @@
     "wof:geomhash":"afcea0d22112a3328999401be556053f",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209228231
+            "county_id":102072873,
+            "locality_id":1209228231,
+            "region_id":85671973
         }
     ],
     "wof:id":1209228231,
@@ -50,9 +56,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638524,
+    "wof:lastmodified":1614716945,
     "wof:name":"Blang Garut",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072873,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

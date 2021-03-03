@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672037,
+        102072751
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"cf575fbdc8e1e106dc659f34042e1bb0",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209189983
+            "county_id":102072751,
+            "locality_id":1209189983,
+            "region_id":85672037
         }
     ],
     "wof:id":1209189983,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638968,
+    "wof:lastmodified":1614716029,
     "wof:name":"Oeleno",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072751,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

@@ -33,7 +33,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672031,
+        102072961
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +46,11 @@
     "wof:geomhash":"a8f40fd1f390830ee299deb74f74ab04",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209429419
+            "county_id":102072961,
+            "locality_id":1209429419,
+            "region_id":85672031
         }
     ],
     "wof:id":1209429419,
@@ -55,9 +61,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652339,
+    "wof:lastmodified":1614717603,
     "wof:name":"Sungai Putat",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072961,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

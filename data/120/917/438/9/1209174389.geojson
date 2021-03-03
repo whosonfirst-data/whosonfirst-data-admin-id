@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671983,
+        102072949
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"a0a21f051ea1cfe60f9929ad49b5d47e",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209174389
+            "county_id":102072949,
+            "locality_id":1209174389,
+            "region_id":85671983
         }
     ],
     "wof:id":1209174389,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652368,
+    "wof:lastmodified":1614717510,
     "wof:name":"Citopeng",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072949,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

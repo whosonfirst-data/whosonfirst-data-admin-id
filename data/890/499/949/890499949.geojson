@@ -52,6 +52,7 @@
     "src:population":"geonames",
     "wd:wordcount":222,
     "wof:belongsto":[
+        102191569,
         85632203
     ],
     "wof:breaches":[],
@@ -67,8 +68,10 @@
     "wof:geomhash":"72c6c24527fb64bbad5aa671cb866898",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":890499949
+            "locality_id":890499949,
+            "region_id":-1
         }
     ],
     "wof:id":890499949,
@@ -79,7 +82,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614642126,
+    "wof:lastmodified":1614733873,
     "wof:name":"Paya Lebar",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

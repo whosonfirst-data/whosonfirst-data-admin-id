@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671973,
+        102072659
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +47,11 @@
     "wof:geomhash":"65d4e3df1dee3b10ebc9206a80b37a37",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209524725
+            "county_id":102072659,
+            "locality_id":1209524725,
+            "region_id":85671973
         }
     ],
     "wof:id":1209524725,
@@ -56,9 +62,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638245,
+    "wof:lastmodified":1614715177,
     "wof:name":"Rampong",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072659,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

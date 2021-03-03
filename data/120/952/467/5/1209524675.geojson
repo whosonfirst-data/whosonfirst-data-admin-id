@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671973,
+        102072965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"d869f4b6a1c94a33256452c3a46fe0b4",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209524675
+            "county_id":102072965,
+            "locality_id":1209524675,
+            "region_id":85671973
         }
     ],
     "wof:id":1209524675,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638245,
+    "wof:lastmodified":1614717607,
     "wof:name":"Ngkeran Rumah Kampung",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072965,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

@@ -34,6 +34,7 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191569,
         85632203
     ],
     "wof:breaches":[],
@@ -44,8 +45,10 @@
     "wof:geomhash":"782bff28c6a86a7dc9b59e7caabe41df",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209199345
+            "locality_id":1209199345,
+            "region_id":-1
         }
     ],
     "wof:id":1209199345,
@@ -56,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614639089,
+    "wof:lastmodified":1614726588,
     "wof:name":"Noko",
-    "wof:parent_id":85632203,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

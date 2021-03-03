@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102072611
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"18744f2189e08e17e4af8e031540a00d",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209097453
+            "county_id":102072611,
+            "locality_id":1209097453,
+            "region_id":85671987
         }
     ],
     "wof:id":1209097453,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614637971,
+    "wof:lastmodified":1614714749,
     "wof:name":"Jologan",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072611,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

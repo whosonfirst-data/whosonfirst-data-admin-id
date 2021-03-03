@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672073,
+        102073107
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +47,11 @@
     "wof:geomhash":"ecf3597306ff37a9c6d1c55f5bec0a62",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209369389
+            "county_id":102073107,
+            "locality_id":1209369389,
+            "region_id":85672073
         }
     ],
     "wof:id":1209369389,
@@ -56,9 +62,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614637973,
+    "wof:lastmodified":1614718517,
     "wof:name":"Afdeling Tujuh",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073107,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

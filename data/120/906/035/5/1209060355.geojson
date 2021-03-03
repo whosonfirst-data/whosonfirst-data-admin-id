@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671995,
+        102073209
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"8de010d21d11a9e7ae5cad4b37911e2d",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209060355
+            "county_id":102073209,
+            "locality_id":1209060355,
+            "region_id":85671995
         }
     ],
     "wof:id":1209060355,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614651966,
+    "wof:lastmodified":1614719261,
     "wof:name":"Babakanpadasuka",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073209,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

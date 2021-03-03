@@ -37,12 +37,7 @@
     "src:geom_via":"quattroshapes",
     "src:lbl:centroid":"mapshaper",
     "wof:belongs_to":[],
-    "wof:belongsto":[
-        102191569,
-        85632203,
-        102072689,
-        85672105
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1642007,
@@ -55,11 +50,10 @@
     "wof:geomhash":"eb2791e83a6cf0f645e9ca2481ebb46f",
     "wof:hierarchy":[
         {
-            "continent_id":102191569,
-            "country_id":85632203,
-            "county_id":102072689,
+            "continent_id":-1,
+            "country_id":-1,
             "locality_id":102020331,
-            "region_id":85672105
+            "region_id":-1
         }
     ],
     "wof:id":102020331,
@@ -70,9 +64,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1613173675,
+    "wof:lastmodified":1614713383,
     "wof:name":"Kaledupa",
-    "wof:parent_id":102072689,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

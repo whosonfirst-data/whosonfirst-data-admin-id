@@ -28,6 +28,7 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191569,
         85632203
     ],
     "wof:breaches":[],
@@ -38,8 +39,10 @@
     "wof:geomhash":"622f98f8c5004f4a92713fe42cde2c08",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209633617
+            "locality_id":1209633617,
+            "region_id":-1
         }
     ],
     "wof:id":1209633617,
@@ -50,9 +53,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638193,
+    "wof:lastmodified":1614726779,
     "wof:name":"Rotseli",
-    "wof:parent_id":85632203,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

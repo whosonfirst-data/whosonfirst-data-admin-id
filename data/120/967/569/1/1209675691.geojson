@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671983,
+        102073295
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"cb9e2c9c128e5553ad137959c9984e5d",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209675691
+            "county_id":102073295,
+            "locality_id":1209675691,
+            "region_id":85671983
         }
     ],
     "wof:id":1209675691,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638710,
+    "wof:lastmodified":1614720028,
     "wof:name":"Compreng",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073295,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102072899
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"664a706d251110c4b2cb4c59ea8837f7",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209126651
+            "county_id":102072899,
+            "locality_id":1209126651,
+            "region_id":85671987
         }
     ],
     "wof:id":1209126651,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652087,
+    "wof:lastmodified":1614717047,
     "wof:name":"Trengguluh",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072899,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

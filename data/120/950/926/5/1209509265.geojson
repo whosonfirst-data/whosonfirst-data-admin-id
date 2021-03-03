@@ -33,7 +33,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102072709
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +46,11 @@
     "wof:geomhash":"869e4b9f76c0fb0020c3ce640ed5dcea",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209509265
+            "county_id":102072709,
+            "locality_id":1209509265,
+            "region_id":85671987
         }
     ],
     "wof:id":1209509265,
@@ -55,9 +61,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638572,
+    "wof:lastmodified":1614715590,
     "wof:name":"Losari Dua",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072709,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672103,
+        102073575
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"aa6e67b805256c6ceace3a8e0aac9dd3",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209381365
+            "county_id":102073575,
+            "locality_id":1209381365,
+            "region_id":85672103
         }
     ],
     "wof:id":1209381365,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638012,
+    "wof:lastmodified":1614722337,
     "wof:name":"Meraran",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073575,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

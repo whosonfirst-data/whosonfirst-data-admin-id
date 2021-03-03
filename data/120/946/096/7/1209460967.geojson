@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671983,
+        102073515
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"3251ca17015b0d2ea9c640c897c82f80",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209460967
+            "county_id":102073515,
+            "locality_id":1209460967,
+            "region_id":85671983
         }
     ],
     "wof:id":1209460967,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638341,
+    "wof:lastmodified":1614721767,
     "wof:name":"Bantarmerak",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073515,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

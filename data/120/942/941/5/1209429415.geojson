@@ -28,7 +28,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671983,
+        102073515
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,8 +41,11 @@
     "wof:geomhash":"4747139cea04e1abe86ad275d9dbed64",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209429415
+            "county_id":102073515,
+            "locality_id":1209429415,
+            "region_id":85671983
         }
     ],
     "wof:id":1209429415,
@@ -50,9 +56,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614639047,
+    "wof:lastmodified":1614721770,
     "wof:name":"Pangkalanpari",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073515,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

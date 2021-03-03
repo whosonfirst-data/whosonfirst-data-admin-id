@@ -40,7 +40,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102072913
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,8 +53,11 @@
     "wof:geomhash":"5082ad42e0d368eff5d620a29f55b1f8",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209509079
+            "county_id":102072913,
+            "locality_id":1209509079,
+            "region_id":85671987
         }
     ],
     "wof:id":1209509079,
@@ -62,9 +68,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638544,
+    "wof:lastmodified":1614717106,
     "wof:name":"Beji",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072913,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

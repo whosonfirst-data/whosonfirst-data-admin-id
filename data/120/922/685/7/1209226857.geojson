@@ -28,7 +28,10 @@
     "mz:min_zoom":13.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672023,
+        102072583
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,8 +41,11 @@
     "wof:geomhash":"bb883460d6a39940819472fab65b0657",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209226857
+            "county_id":102072583,
+            "locality_id":1209226857,
+            "region_id":85672023
         }
     ],
     "wof:id":1209226857,
@@ -50,9 +56,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652146,
+    "wof:lastmodified":1614714631,
     "wof:name":"Bali Villas",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072583,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

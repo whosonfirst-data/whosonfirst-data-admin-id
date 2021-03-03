@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672055,
+        102072675
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"c5a5ace4a38b2ae16e6e9daf4bb0ff7b",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209259795
+            "county_id":102072675,
+            "locality_id":1209259795,
+            "region_id":85672055
         }
     ],
     "wof:id":1209259795,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638529,
+    "wof:lastmodified":1614715220,
     "wof:name":"Bintaladulaa",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072675,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

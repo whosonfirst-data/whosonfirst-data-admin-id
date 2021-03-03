@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672077,
+        1108796921
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +47,11 @@
     "wof:geomhash":"a0a65ae8be411b20d4612720c527f19d",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209666967
+            "county_id":1108796921,
+            "locality_id":1209666967,
+            "region_id":85672077
         }
     ],
     "wof:id":1209666967,
@@ -56,9 +62,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638647,
+    "wof:lastmodified":1614722875,
     "wof:name":"Rembau",
-    "wof:parent_id":85632203,
+    "wof:parent_id":1108796921,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672041,
+        102073037
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"7290f4f9b6fb070a2994ce4d19e1795e",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209153113
+            "county_id":102073037,
+            "locality_id":1209153113,
+            "region_id":85672041
         }
     ],
     "wof:id":1209153113,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638380,
+    "wof:lastmodified":1614718072,
     "wof:name":"Bontoraja",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073037,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

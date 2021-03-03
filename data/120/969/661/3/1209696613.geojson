@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672005,
+        102072839
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"ac92ee1b611068e18d3c6045a803bf78",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209696613
+            "county_id":102072839,
+            "locality_id":1209696613,
+            "region_id":85672005
         }
     ],
     "wof:id":1209696613,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638802,
+    "wof:lastmodified":1614716597,
     "wof:name":"Petebang",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072839,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

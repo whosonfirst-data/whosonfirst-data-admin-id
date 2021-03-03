@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672111,
+        102073015
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"d923aa86292cf84292a7eaa9ab6408af",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209278679
+            "county_id":102073015,
+            "locality_id":1209278679,
+            "region_id":85672111
         }
     ],
     "wof:id":1209278679,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638956,
+    "wof:lastmodified":1614717931,
     "wof:name":"Bualemo B",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073015,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

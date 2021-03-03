@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671983,
+        102073359
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"eedf29e5f5a424e3ab27b6177deeb82e",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209475159
+            "county_id":102073359,
+            "locality_id":1209475159,
+            "region_id":85671983
         }
     ],
     "wof:id":1209475159,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638460,
+    "wof:lastmodified":1614720461,
     "wof:name":"Cigentur",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073359,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672087,
+        102073511
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +47,11 @@
     "wof:geomhash":"ec3f24f5617979973d3a043b3da45e44",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209483475
+            "county_id":102073511,
+            "locality_id":1209483475,
+            "region_id":85672087
         }
     ],
     "wof:id":1209483475,
@@ -56,9 +62,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638269,
+    "wof:lastmodified":1614721753,
     "wof:name":"Sopan Kacik",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073511,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

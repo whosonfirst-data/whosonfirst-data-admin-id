@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671983,
+        102072937
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"31a5328e365e51e957531a18208f0401",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209174401
+            "county_id":102072937,
+            "locality_id":1209174401,
+            "region_id":85671983
         }
     ],
     "wof:id":1209174401,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614639114,
+    "wof:lastmodified":1614717311,
     "wof:name":"Gombolkukun",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072937,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

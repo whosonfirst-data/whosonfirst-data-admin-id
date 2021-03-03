@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672073,
+        102073263
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +47,11 @@
     "wof:geomhash":"434557ca453591ddb26d047128c23a38",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209519021
+            "county_id":102073263,
+            "locality_id":1209519021,
+            "region_id":85672073
         }
     ],
     "wof:id":1209519021,
@@ -56,9 +62,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638813,
+    "wof:lastmodified":1614719867,
     "wof:name":"Pematangmayang",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073263,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

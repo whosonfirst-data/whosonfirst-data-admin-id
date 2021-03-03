@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671983,
+        102073505
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"6cb7d03b3c47c00bbd752af38ac9066b",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209460873
+            "county_id":102073505,
+            "locality_id":1209460873,
+            "region_id":85671983
         }
     ],
     "wof:id":1209460873,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652067,
+    "wof:lastmodified":1614721692,
     "wof:name":"Dusun Satu",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073505,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

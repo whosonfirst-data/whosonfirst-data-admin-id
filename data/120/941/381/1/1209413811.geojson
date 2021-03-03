@@ -32,7 +32,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672059,
+        102073009
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,8 +45,11 @@
     "wof:geomhash":"6b946a972747c1bc398c43c3c5edde05",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209413811
+            "county_id":102073009,
+            "locality_id":1209413811,
+            "region_id":85672059
         }
     ],
     "wof:id":1209413811,
@@ -54,9 +60,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638369,
+    "wof:lastmodified":1614717866,
     "wof:name":"Dusuntuo",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073009,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

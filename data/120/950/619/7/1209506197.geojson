@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102072709
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"a7e6bab3c3e4ebe12259318287bce810",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209506197
+            "county_id":102072709,
+            "locality_id":1209506197,
+            "region_id":85671987
         }
     ],
     "wof:id":1209506197,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638549,
+    "wof:lastmodified":1614715574,
     "wof:name":"Penggung",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072709,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

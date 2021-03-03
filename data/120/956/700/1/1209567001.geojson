@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672077,
+        1108796921
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +47,11 @@
     "wof:geomhash":"91c88a744f63b6dec4aac06c1f5b834a",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209567001
+            "county_id":1108796921,
+            "locality_id":1209567001,
+            "region_id":85672077
         }
     ],
     "wof:id":1209567001,
@@ -56,9 +62,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652239,
+    "wof:lastmodified":1614722875,
     "wof:name":"Tanjungtanah",
-    "wof:parent_id":85632203,
+    "wof:parent_id":1108796921,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

@@ -31,7 +31,7 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +41,10 @@
     "wof:geomhash":"b7b755ee698f6b7f4a75d63fa1657e26",
     "wof:hierarchy":[
         {
-            "country_id":85632203,
-            "locality_id":1209443763
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1209443763,
+            "region_id":-1
         }
     ],
     "wof:id":1209443763,
@@ -53,9 +55,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614639161,
+    "wof:lastmodified":1614727500,
     "wof:name":"Biontong",
-    "wof:parent_id":85632203,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

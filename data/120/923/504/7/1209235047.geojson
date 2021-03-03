@@ -46,7 +46,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102072715
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,8 +59,11 @@
     "wof:geomhash":"18a16dabe49cb714ef5aba87f224b55f",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209235047
+            "county_id":102072715,
+            "locality_id":1209235047,
+            "region_id":85671987
         }
     ],
     "wof:id":1209235047,
@@ -68,9 +74,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652089,
+    "wof:lastmodified":1614715671,
     "wof:name":"Ciledug",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072715,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672023,
+        102073127
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"358a6cd9ad5d7a56a99bd7cbdc7bdea6",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209517887
+            "county_id":102073127,
+            "locality_id":1209517887,
+            "region_id":85672023
         }
     ],
     "wof:id":1209517887,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652253,
+    "wof:lastmodified":1614718683,
     "wof:name":"Banjar Umaunyar",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073127,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

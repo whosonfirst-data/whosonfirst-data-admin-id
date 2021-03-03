@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672097,
+        1108796827
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +47,11 @@
     "wof:geomhash":"cc949e794a61235c404c36ff6dd9a62d",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209265449
+            "county_id":1108796827,
+            "locality_id":1209265449,
+            "region_id":85672097
         }
     ],
     "wof:id":1209265449,
@@ -56,9 +62,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614639067,
+    "wof:lastmodified":1614722568,
     "wof:name":"Krei Lama",
-    "wof:parent_id":85632203,
+    "wof:parent_id":1108796827,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

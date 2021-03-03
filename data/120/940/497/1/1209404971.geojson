@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672027,
+        102073373
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"f22d4fea3452ff75d17d362da3ec4475",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209404971
+            "county_id":102073373,
+            "locality_id":1209404971,
+            "region_id":85672027
         }
     ],
     "wof:id":1209404971,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638413,
+    "wof:lastmodified":1614720611,
     "wof:name":"Kemiren",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073373,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

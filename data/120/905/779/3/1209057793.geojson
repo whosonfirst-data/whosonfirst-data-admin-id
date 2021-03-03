@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672041,
+        102073253
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"dc9f18d2e38a959de5b7e6233829f7e9",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209057793
+            "county_id":102073253,
+            "locality_id":1209057793,
+            "region_id":85672041
         }
     ],
     "wof:id":1209057793,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638827,
+    "wof:lastmodified":1614719840,
     "wof:name":"Sapana",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073253,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

@@ -49,9 +49,7 @@
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
     "wof:belongs_to":[],
-    "wof:belongsto":[
-        85632203
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7553258,
@@ -63,8 +61,10 @@
     "wof:geomhash":"0df59c3cef98d1470e6d9472be3f14ab",
     "wof:hierarchy":[
         {
-            "country_id":85632203,
-            "locality_id":102022297
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":102022297,
+            "region_id":-1
         }
     ],
     "wof:id":102022297,
@@ -75,7 +75,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1613173649,
+    "wof:lastmodified":1614714434,
     "wof:name":"Desa Pekutatan",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -43,7 +43,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671983,
+        102072739
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,8 +56,11 @@
     "wof:geomhash":"e32c39fa4880c82e8c7aeb5f7ff631ca",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209056217
+            "county_id":102072739,
+            "locality_id":1209056217,
+            "region_id":85671983
         }
     ],
     "wof:id":1209056217,
@@ -65,9 +71,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638817,
+    "wof:lastmodified":1614715927,
     "wof:name":"Cinangka",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072739,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

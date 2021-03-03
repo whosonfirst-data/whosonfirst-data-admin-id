@@ -36,7 +36,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672031,
+        102073523
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,8 +49,11 @@
     "wof:geomhash":"32e5d5cce905f07da9bd4d5e1fe81efe",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209592541
+            "county_id":102073523,
+            "locality_id":1209592541,
+            "region_id":85672031
         }
     ],
     "wof:id":1209592541,
@@ -58,9 +64,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652194,
+    "wof:lastmodified":1614721871,
     "wof:name":"Kampungbaru",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073523,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

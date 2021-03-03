@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672023,
+        102072583
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"b2a77c6ac50accc004e3fb121c3ecf05",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209322871
+            "county_id":102072583,
+            "locality_id":1209322871,
+            "region_id":85672023
         }
     ],
     "wof:id":1209322871,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652195,
+    "wof:lastmodified":1614714634,
     "wof:name":"Buanapermai",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072583,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

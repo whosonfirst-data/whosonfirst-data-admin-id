@@ -40,7 +40,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672097,
+        1108796835
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,8 +53,11 @@
     "wof:geomhash":"0208d912f4218f49c75ff8e7a58f5884",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209161801
+            "county_id":1108796835,
+            "locality_id":1209161801,
+            "region_id":85672097
         }
     ],
     "wof:id":1209161801,
@@ -62,9 +68,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638905,
+    "wof:lastmodified":1614722586,
     "wof:name":"Fer",
-    "wof:parent_id":85632203,
+    "wof:parent_id":1108796835,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671983,
+        102072613
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"f95efe9a1d3304a032910a4e887384e9",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209174103
+            "county_id":102072613,
+            "locality_id":1209174103,
+            "region_id":85671983
         }
     ],
     "wof:id":1209174103,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614639126,
+    "wof:lastmodified":1614714793,
     "wof:name":"Sawahkasacur",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072613,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

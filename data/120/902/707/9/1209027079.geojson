@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102072947
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"00ae4585395eaeb0cac240971d939f4b",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209027079
+            "county_id":102072947,
+            "locality_id":1209027079,
+            "region_id":85671987
         }
     ],
     "wof:id":1209027079,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638841,
+    "wof:lastmodified":1614717412,
     "wof:name":"Ngroto",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072947,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

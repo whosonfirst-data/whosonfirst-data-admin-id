@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672037,
+        102073179
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"6c8d0c4e0eebe92bc0f792fc56a89f8b",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209179899
+            "county_id":102073179,
+            "locality_id":1209179899,
+            "region_id":85672037
         }
     ],
     "wof:id":1209179899,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614639134,
+    "wof:lastmodified":1614719005,
     "wof:name":"Bahakono",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073179,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

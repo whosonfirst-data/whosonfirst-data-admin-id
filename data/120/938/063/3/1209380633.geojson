@@ -28,7 +28,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672037,
+        102073481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,8 +41,11 @@
     "wof:geomhash":"4c9b601426b0c831fc164b66efffedef",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209380633
+            "county_id":102073481,
+            "locality_id":1209380633,
+            "region_id":85672037
         }
     ],
     "wof:id":1209380633,
@@ -50,9 +56,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638009,
+    "wof:lastmodified":1614721509,
     "wof:name":"Diklaran",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073481,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672073,
+        102072919
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"4950c74c94682c0100a1f69739296f86",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209381853
+            "county_id":102072919,
+            "locality_id":1209381853,
+            "region_id":85672073
         }
     ],
     "wof:id":1209381853,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638016,
+    "wof:lastmodified":1614717133,
     "wof:name":"Namorambejahe",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072919,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

@@ -24,12 +24,26 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        102072687,
+        85671995
+    ],
     "wof:breaches":[],
     "wof:country":"ID",
     "wof:created":1613158788,
     "wof:geomhash":"297d78f17f9f5393efce9287b23174a4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102072687,
+            "locality_id":-1,
+            "neighbourhood_id":1729802507,
+            "region_id":85671995
+        }
+    ],
     "wof:id":1729802507,
     "wof:lang_x_official":[
         "ind"
@@ -38,7 +52,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1613179625,
+    "wof:lastmodified":1614723581,
     "wof:name":"Bambu Apus",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

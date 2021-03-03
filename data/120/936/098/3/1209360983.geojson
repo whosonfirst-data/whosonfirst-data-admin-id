@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671983,
+        102072613
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +47,11 @@
     "wof:geomhash":"5a0e6fb938b4fc7a114bbefc7fb0fca0",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209360983
+            "county_id":102072613,
+            "locality_id":1209360983,
+            "region_id":85671983
         }
     ],
     "wof:id":1209360983,
@@ -56,9 +62,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614637980,
+    "wof:lastmodified":1614714820,
     "wof:name":"Sukawinangun",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072613,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

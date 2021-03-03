@@ -40,7 +40,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672103,
+        102073031
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,8 +53,11 @@
     "wof:geomhash":"f8071f2ecb0463dd9436f7743de501cb",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209491393
+            "county_id":102073031,
+            "locality_id":1209491393,
+            "region_id":85672103
         }
     ],
     "wof:id":1209491393,
@@ -62,9 +68,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638488,
+    "wof:lastmodified":1614718046,
     "wof:name":"Kawi",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073031,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

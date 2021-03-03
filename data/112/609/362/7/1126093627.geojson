@@ -50,7 +50,11 @@
     "woe:name_adm1":"Jakarta Raya",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
-        102020439
+        102191569,
+        85632203,
+        102020433,
+        102072667,
+        85672001
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,11 +70,12 @@
     "wof:geomhash":"5e235584450ef2f6bccca18986859885",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
-            "locality_id":102020439,
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102072667,
+            "locality_id":102020433,
             "neighbourhood_id":1126093627,
-            "region_id":-1
+            "region_id":85672001
         }
     ],
     "wof:id":1126093627,
@@ -81,9 +86,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1613182820,
+    "wof:lastmodified":1614723115,
     "wof:name":"Kebayoran Lama Selatan",
-    "wof:parent_id":102020439,
+    "wof:parent_id":102020433,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

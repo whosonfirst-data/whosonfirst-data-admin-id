@@ -32,7 +32,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672013,
+        102073571
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,8 +45,11 @@
     "wof:geomhash":"c3733d1f1fd40a5f3c132f8fbdf134bf",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209664183
+            "county_id":102073571,
+            "locality_id":1209664183,
+            "region_id":85672013
         }
     ],
     "wof:id":1209664183,
@@ -54,9 +60,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652187,
+    "wof:lastmodified":1614722328,
     "wof:name":"Talang Abab",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073571,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

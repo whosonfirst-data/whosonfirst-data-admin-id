@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672105,
+        102073047
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"c9063c37aff20ab39c55d4bfdff8598f",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209584431
+            "county_id":102073047,
+            "locality_id":1209584431,
+            "region_id":85672105
         }
     ],
     "wof:id":1209584431,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638735,
+    "wof:lastmodified":1614718114,
     "wof:name":"Karooha",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073047,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

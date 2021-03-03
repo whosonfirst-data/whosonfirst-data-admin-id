@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672031,
+        102072791
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"effc8c428355af0637ae71ce513263ff",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209401599
+            "county_id":102072791,
+            "locality_id":1209401599,
+            "region_id":85672031
         }
     ],
     "wof:id":1209401599,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638407,
+    "wof:lastmodified":1614716283,
     "wof:name":"Tungkan",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072791,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

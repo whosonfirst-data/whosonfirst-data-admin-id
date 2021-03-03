@@ -28,7 +28,10 @@
     "mz:min_zoom":13.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102072709
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,8 +41,11 @@
     "wof:geomhash":"574a4984156b4e128c16b660a727735a",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209305495
+            "county_id":102072709,
+            "locality_id":1209305495,
+            "region_id":85671987
         }
     ],
     "wof:id":1209305495,
@@ -50,9 +56,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614651982,
+    "wof:lastmodified":1614715554,
     "wof:name":"Ngumbul",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072709,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672041,
+        102073199
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"a26546505773abb8ad58de1e7fb2466d",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209253333
+            "county_id":102073199,
+            "locality_id":1209253333,
+            "region_id":85672041
         }
     ],
     "wof:id":1209253333,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652148,
+    "wof:lastmodified":1614719195,
     "wof:name":"Barubaru Utara",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073199,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

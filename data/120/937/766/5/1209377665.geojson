@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672037,
+        1108796851
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"b17c17687996ac0087fd0568c0b98d5a",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209377665
+            "county_id":1108796851,
+            "locality_id":1209377665,
+            "region_id":85672037
         }
     ],
     "wof:id":1209377665,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638183,
+    "wof:lastmodified":1614722649,
     "wof:name":"Lokamude",
-    "wof:parent_id":85632203,
+    "wof:parent_id":1108796851,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

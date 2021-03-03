@@ -28,7 +28,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671983,
+        102072949
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,8 +41,11 @@
     "wof:geomhash":"b961a1975afb02c05d7103c79be55e0c",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209160355
+            "county_id":102072949,
+            "locality_id":1209160355,
+            "region_id":85671983
         }
     ],
     "wof:id":1209160355,
@@ -50,9 +56,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638912,
+    "wof:lastmodified":1614717517,
     "wof:name":"Perkebunanwanasuka",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072949,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

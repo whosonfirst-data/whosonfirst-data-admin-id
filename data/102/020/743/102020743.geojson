@@ -67,8 +67,7 @@
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
-        102191569,
-        85632203
+        102191569
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -81,8 +80,9 @@
     "wof:hierarchy":[
         {
             "continent_id":102191569,
-            "country_id":85632203,
-            "locality_id":102020743
+            "country_id":-1,
+            "locality_id":102020743,
+            "region_id":-1
         }
     ],
     "wof:id":102020743,
@@ -93,7 +93,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1613173698,
+    "wof:lastmodified":1614713577,
     "wof:name":"Pulau Burung",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

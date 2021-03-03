@@ -28,7 +28,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672067,
+        102072595
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,8 +41,11 @@
     "wof:geomhash":"f5f35f89e3efe280cb9c971db01ca88e",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209124173
+            "county_id":102072595,
+            "locality_id":1209124173,
+            "region_id":85672067
         }
     ],
     "wof:id":1209124173,
@@ -50,9 +56,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638389,
+    "wof:lastmodified":1614714699,
     "wof:name":"Prori",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072595,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

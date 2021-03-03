@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671983,
+        102073515
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"b802506ed3fb05a1ee3ea77a6df8e580",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209664893
+            "county_id":102073515,
+            "locality_id":1209664893,
+            "region_id":85671983
         }
     ],
     "wof:id":1209664893,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638645,
+    "wof:lastmodified":1614721787,
     "wof:name":"Cipasir",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073515,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

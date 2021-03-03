@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672067,
+        102073445
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"1970a923a4e22738b45187d4d2f41187",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209135103
+            "county_id":102073445,
+            "locality_id":1209135103,
+            "region_id":85672067
         }
     ],
     "wof:id":1209135103,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638535,
+    "wof:lastmodified":1614721138,
     "wof:name":"Urisan",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073445,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

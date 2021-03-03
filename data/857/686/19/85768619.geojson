@@ -57,7 +57,11 @@
     "src:geom_alt":[],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
-        102020439
+        102191569,
+        85632203,
+        102020437,
+        102072841,
+        85672001
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,20 +71,21 @@
     "wof:geomhash":"c99d866e7d09ec61d264138c7e41bac9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
-            "locality_id":102020439,
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102072841,
+            "locality_id":102020437,
             "neighbourhood_id":85768619,
-            "region_id":-1
+            "region_id":85672001
         }
     ],
     "wof:id":85768619,
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1613151812,
+    "wof:lastmodified":1614744964,
     "wof:name":"Wadas",
-    "wof:parent_id":102020439,
+    "wof:parent_id":102020437,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

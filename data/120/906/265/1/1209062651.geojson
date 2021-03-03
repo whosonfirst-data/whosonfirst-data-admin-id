@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672105,
+        102072731
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"27ae6bf8a82b4d8c9ec2db6d9fded727",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209062651
+            "county_id":102072731,
+            "locality_id":1209062651,
+            "region_id":85672105
         }
     ],
     "wof:id":1209062651,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638136,
+    "wof:lastmodified":1614715794,
     "wof:name":"Molowua",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072731,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

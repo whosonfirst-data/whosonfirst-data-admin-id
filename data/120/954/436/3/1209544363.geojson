@@ -36,7 +36,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672081,
+        102073387
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,8 +49,11 @@
     "wof:geomhash":"5d152ba1a5a3a0a795bb2bca5e600e2d",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209544363
+            "county_id":102073387,
+            "locality_id":1209544363,
+            "region_id":85672081
         }
     ],
     "wof:id":1209544363,
@@ -58,9 +64,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614651920,
+    "wof:lastmodified":1614720765,
     "wof:name":"Kanonang Dua",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073387,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

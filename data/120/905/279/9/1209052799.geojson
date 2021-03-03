@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671983,
+        1108796793
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"2bcce1025f0047ddb37d063c133e9d45",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209052799
+            "county_id":1108796793,
+            "locality_id":1209052799,
+            "region_id":85671983
         }
     ],
     "wof:id":1209052799,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638830,
+    "wof:lastmodified":1614722411,
     "wof:name":"Sirnaraja",
-    "wof:parent_id":85632203,
+    "wof:parent_id":1108796793,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

@@ -37,7 +37,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672013,
+        102072985
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,8 +50,11 @@
     "wof:geomhash":"8d895608e5baa3dbe45e9c5dad7a1af1",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209556869
+            "county_id":102072985,
+            "locality_id":1209556869,
+            "region_id":85672013
         }
     ],
     "wof:id":1209556869,
@@ -59,9 +65,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638255,
+    "wof:lastmodified":1614717758,
     "wof:name":"Gedung Agung",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072985,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

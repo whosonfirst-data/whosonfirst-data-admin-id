@@ -35,7 +35,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672073,
+        102073085
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,8 +48,11 @@
     "wof:geomhash":"85df9f4092ea0c1fb72ef89dc8220238",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209060807
+            "county_id":102073085,
+            "locality_id":1209060807,
+            "region_id":85672073
         }
     ],
     "wof:id":1209060807,
@@ -57,9 +63,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638131,
+    "wof:lastmodified":1614718423,
     "wof:name":"Doloksiantar Satu",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073085,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

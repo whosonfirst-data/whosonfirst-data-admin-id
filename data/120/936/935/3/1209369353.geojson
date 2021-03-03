@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672073,
+        102072883
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"dd5ac8d172f78ab4c3c928a095120cfe",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209369353
+            "county_id":102072883,
+            "locality_id":1209369353,
+            "region_id":85672073
         }
     ],
     "wof:id":1209369353,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614637986,
+    "wof:lastmodified":1614716962,
     "wof:name":"Kanopan",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072883,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

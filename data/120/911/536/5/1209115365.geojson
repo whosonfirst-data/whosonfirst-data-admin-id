@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671973,
+        1108796777
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"fd33e76dd552b101414869492ec1261f",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209115365
+            "county_id":1108796777,
+            "locality_id":1209115365,
+            "region_id":85671973
         }
     ],
     "wof:id":1209115365,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638891,
+    "wof:lastmodified":1614722347,
     "wof:name":"Meukokeupula",
-    "wof:parent_id":85632203,
+    "wof:parent_id":1108796777,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

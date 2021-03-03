@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672027,
+        102072581
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"fd329e43141ba33c821cae29e3fb347a",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209310861
+            "county_id":102072581,
+            "locality_id":1209310861,
+            "region_id":85672027
         }
     ],
     "wof:id":1209310861,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638006,
+    "wof:lastmodified":1614714614,
     "wof:name":"Berbunut",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072581,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

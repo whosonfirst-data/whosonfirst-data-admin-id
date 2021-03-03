@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102072733
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"29ba7723f79d51a03ecedfbae5ac63be",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209235237
+            "county_id":102072733,
+            "locality_id":1209235237,
+            "region_id":85671987
         }
     ],
     "wof:id":1209235237,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638404,
+    "wof:lastmodified":1614715819,
     "wof:name":"Wonoleran",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072733,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

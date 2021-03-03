@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671991,
+        102072865
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"fb0f97159910d286a9e4e10c12c471fc",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209416417
+            "county_id":102072865,
+            "locality_id":1209416417,
+            "region_id":85671991
         }
     ],
     "wof:id":1209416417,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638367,
+    "wof:lastmodified":1614716933,
     "wof:name":"Talangsinjau",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072865,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

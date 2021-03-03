@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671977,
+        102072813
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"2c4a4d5c9b126881a5b4669619cefcca",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209187721
+            "county_id":102072813,
+            "locality_id":1209187721,
+            "region_id":85671977
         }
     ],
     "wof:id":1209187721,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638976,
+    "wof:lastmodified":1614716413,
     "wof:name":"Handilbaru",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072813,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

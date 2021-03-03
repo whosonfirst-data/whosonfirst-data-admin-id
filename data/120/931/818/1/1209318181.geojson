@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671973,
+        102072805
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"ba8fb9128a02dbd4c0937f023bce8b36",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209318181
+            "county_id":102072805,
+            "locality_id":1209318181,
+            "region_id":85671973
         }
     ],
     "wof:id":1209318181,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614651912,
+    "wof:lastmodified":1614716353,
     "wof:name":"Surien",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072805,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

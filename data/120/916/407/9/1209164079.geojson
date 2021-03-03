@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671983,
+        102073529
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"48ffc55c0cd7eedb6eb9e4a2f2d45858",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209164079
+            "county_id":102073529,
+            "locality_id":1209164079,
+            "region_id":85671983
         }
     ],
     "wof:id":1209164079,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652286,
+    "wof:lastmodified":1614721926,
     "wof:name":"Pasarkolot",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073529,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

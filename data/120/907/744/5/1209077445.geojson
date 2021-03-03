@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672063,
+        102073055
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"d1c11e17d7521ddfafc02d8ced031775",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209077445
+            "county_id":102073055,
+            "locality_id":1209077445,
+            "region_id":85672063
         }
     ],
     "wof:id":1209077445,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638024,
+    "wof:lastmodified":1614718209,
     "wof:name":"Tapinbini",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073055,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

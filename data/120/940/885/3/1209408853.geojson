@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102072639
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"d9439b7a4f2e10e2e50d67a614acb895",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209408853
+            "county_id":102072639,
+            "locality_id":1209408853,
+            "region_id":85671987
         }
     ],
     "wof:id":1209408853,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652109,
+    "wof:lastmodified":1614715035,
     "wof:name":"Krajan",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072639,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

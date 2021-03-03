@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672009,
+        1108796811
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"bcaeb3b02eb8d663e6d080a0e05bc4e8",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209387831
+            "county_id":1108796811,
+            "locality_id":1209387831,
+            "region_id":85672009
         }
     ],
     "wof:id":1209387831,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638011,
+    "wof:lastmodified":1614722500,
     "wof:name":"Sumbersari",
-    "wof:parent_id":85632203,
+    "wof:parent_id":1108796811,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

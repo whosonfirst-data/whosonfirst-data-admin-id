@@ -36,7 +36,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672031,
+        102072961
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,8 +49,11 @@
     "wof:geomhash":"d28acce4162abf281b89e4933faf3978",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209291349
+            "county_id":102072961,
+            "locality_id":1209291349,
+            "region_id":85672031
         }
     ],
     "wof:id":1209291349,
@@ -58,9 +64,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638920,
+    "wof:lastmodified":1614717603,
     "wof:name":"Mahalima",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072961,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

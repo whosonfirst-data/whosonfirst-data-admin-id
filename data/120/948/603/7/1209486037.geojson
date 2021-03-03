@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671977,
+        102072813
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"8e34c2b365e13c52428718b3cef2a662",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209486037
+            "county_id":102072813,
+            "locality_id":1209486037,
+            "region_id":85671977
         }
     ],
     "wof:id":1209486037,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638266,
+    "wof:lastmodified":1614716413,
     "wof:name":"Sungainyamuk",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072813,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

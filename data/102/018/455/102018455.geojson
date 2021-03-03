@@ -63,9 +63,7 @@
     "src:lbl:centroid":"mapshaper",
     "wd:wordcount":478,
     "wof:belongsto":[
-        102191569,
-        85632203,
-        85672073
+        102191569
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -83,9 +81,9 @@
     "wof:hierarchy":[
         {
             "continent_id":102191569,
-            "country_id":85632203,
+            "country_id":-1,
             "locality_id":102018455,
-            "region_id":85672073
+            "region_id":-1
         }
     ],
     "wof:id":102018455,
@@ -96,7 +94,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1613173709,
+    "wof:lastmodified":1614712564,
     "wof:name":"Lahewa",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

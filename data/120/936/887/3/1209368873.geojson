@@ -49,7 +49,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671983,
+        102073217
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,8 +62,11 @@
     "wof:geomhash":"542684e555fd9b3252b93c74dff2123c",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209368873
+            "county_id":102073217,
+            "locality_id":1209368873,
+            "region_id":85671983
         }
     ],
     "wof:id":1209368873,
@@ -71,9 +77,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614637976,
+    "wof:lastmodified":1614719446,
     "wof:name":"Kebagusan",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073217,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

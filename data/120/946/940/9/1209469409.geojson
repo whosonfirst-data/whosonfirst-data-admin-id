@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672073,
+        1108796991
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"71fdb373a1491ea12e975a89388707e5",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209469409
+            "county_id":1108796991,
+            "locality_id":1209469409,
+            "region_id":85672073
         }
     ],
     "wof:id":1209469409,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638346,
+    "wof:lastmodified":1614723068,
     "wof:name":"Pembangunan",
-    "wof:parent_id":85632203,
+    "wof:parent_id":1108796991,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

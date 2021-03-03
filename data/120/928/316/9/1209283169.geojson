@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672105,
+        102073425
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +47,11 @@
     "wof:geomhash":"bd75c2e94da9181f9279bf2600db5200",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209283169
+            "county_id":102073425,
+            "locality_id":1209283169,
+            "region_id":85672105
         }
     ],
     "wof:id":1209283169,
@@ -56,9 +62,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614639142,
+    "wof:lastmodified":1614720972,
     "wof:name":"Tampoa",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073425,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

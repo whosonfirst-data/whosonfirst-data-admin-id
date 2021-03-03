@@ -43,7 +43,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672041,
+        102072845
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,8 +56,11 @@
     "wof:geomhash":"5248ac9f1d6adf9862241b380163706a",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209049341
+            "county_id":102072845,
+            "locality_id":1209049341,
+            "region_id":85672041
         }
     ],
     "wof:id":1209049341,
@@ -65,9 +71,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638688,
+    "wof:lastmodified":1614716610,
     "wof:name":"Barabara",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072845,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

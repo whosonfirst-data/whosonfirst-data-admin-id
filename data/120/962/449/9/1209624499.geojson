@@ -28,7 +28,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671973,
+        102072619
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,8 +41,11 @@
     "wof:geomhash":"097f4179021d729a9d14e5b26e748317",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209624499
+            "county_id":102072619,
+            "locality_id":1209624499,
+            "region_id":85671973
         }
     ],
     "wof:id":1209624499,
@@ -50,9 +56,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638094,
+    "wof:lastmodified":1614714941,
     "wof:name":"Jelobok",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072619,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

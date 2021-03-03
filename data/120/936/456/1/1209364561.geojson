@@ -202,7 +202,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671983,
+        102073569
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -212,8 +215,11 @@
     "wof:geomhash":"820cb1af61a635c11fb45d4c4d3c437c",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209364561
+            "county_id":102073569,
+            "locality_id":1209364561,
+            "region_id":85671983
         }
     ],
     "wof:id":1209364561,
@@ -224,9 +230,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614637993,
+    "wof:lastmodified":1614722288,
     "wof:name":"Manis",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073569,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

@@ -31,6 +31,7 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191569,
         85632203
     ],
     "wof:breaches":[],
@@ -41,8 +42,10 @@
     "wof:geomhash":"71a3048a55712f5fe0e16e05e964f382",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209189927
+            "locality_id":1209189927,
+            "region_id":-1
         }
     ],
     "wof:id":1209189927,
@@ -53,9 +56,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638973,
+    "wof:lastmodified":1614727168,
     "wof:name":"Lipelobo",
-    "wof:parent_id":85632203,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671973,
+        102073465
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"c0e016b626c010194dbd52a8af090114",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209228209
+            "county_id":102073465,
+            "locality_id":1209228209,
+            "region_id":85671973
         }
     ],
     "wof:id":1209228209,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652145,
+    "wof:lastmodified":1614721331,
     "wof:name":"Blangreungan",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073465,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102072887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"2f98ba67fd7c8ec144f626c47a2117df",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209126841
+            "county_id":102072887,
+            "locality_id":1209126841,
+            "region_id":85671987
         }
     ],
     "wof:id":1209126841,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638391,
+    "wof:lastmodified":1614716978,
     "wof:name":"Tengah",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072887,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

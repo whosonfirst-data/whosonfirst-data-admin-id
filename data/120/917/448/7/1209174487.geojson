@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671983,
+        102073529
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"000098ae0d7e54ec6926b4e34ccf47ce",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209174487
+            "county_id":102073529,
+            "locality_id":1209174487,
+            "region_id":85671983
         }
     ],
     "wof:id":1209174487,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614639116,
+    "wof:lastmodified":1614721919,
     "wof:name":"Cigombong",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073529,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

@@ -28,7 +28,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672093,
+        102073469
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,8 +41,11 @@
     "wof:geomhash":"4f6d2dfcd360b92311d7c8e714b6b6ed",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209303235
+            "county_id":102073469,
+            "locality_id":1209303235,
+            "region_id":85672093
         }
     ],
     "wof:id":1209303235,
@@ -50,9 +56,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638150,
+    "wof:lastmodified":1614721345,
     "wof:name":"Taubeng",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073469,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

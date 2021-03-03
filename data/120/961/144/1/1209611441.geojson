@@ -118,7 +118,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672027,
+        102073495
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -128,8 +131,11 @@
     "wof:geomhash":"0286ee0e3bedb3b77fa5c8bfdefbbb41",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209611441
+            "county_id":102073495,
+            "locality_id":1209611441,
+            "region_id":85672027
         }
     ],
     "wof:id":1209611441,
@@ -140,9 +146,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652177,
+    "wof:lastmodified":1614721637,
     "wof:name":"Toro",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073495,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

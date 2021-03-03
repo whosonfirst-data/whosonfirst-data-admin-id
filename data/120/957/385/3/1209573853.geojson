@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672105,
+        102072761
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"1c0fb7bf49745cbffb229f33caac92fb",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209573853
+            "county_id":102072761,
+            "locality_id":1209573853,
+            "region_id":85672105
         }
     ],
     "wof:id":1209573853,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638583,
+    "wof:lastmodified":1614716108,
     "wof:name":"Wamorapa",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072761,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

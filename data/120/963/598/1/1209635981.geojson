@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102073119
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"1946511c9ffba97789ba688d45e26806",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209635981
+            "county_id":102073119,
+            "locality_id":1209635981,
+            "region_id":85671987
         }
     ],
     "wof:id":1209635981,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638194,
+    "wof:lastmodified":1614718600,
     "wof:name":"Parereja",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073119,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

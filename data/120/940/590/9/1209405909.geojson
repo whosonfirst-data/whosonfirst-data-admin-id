@@ -40,7 +40,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102072929
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,8 +53,11 @@
     "wof:geomhash":"889e798aba6387955272a6196bfd5aad",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209405909
+            "county_id":102072929,
+            "locality_id":1209405909,
+            "region_id":85671987
         }
     ],
     "wof:id":1209405909,
@@ -62,9 +68,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638420,
+    "wof:lastmodified":1614717236,
     "wof:name":"Kembangan",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072929,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

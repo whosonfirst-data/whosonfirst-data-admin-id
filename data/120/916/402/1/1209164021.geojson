@@ -28,7 +28,10 @@
     "mz:min_zoom":13.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671983,
+        102073163
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,8 +41,11 @@
     "wof:geomhash":"047a7cf3b402be8f3e38bd0474ad39ba",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209164021
+            "county_id":102073163,
+            "locality_id":1209164021,
+            "region_id":85671983
         }
     ],
     "wof:id":1209164021,
@@ -50,9 +56,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652289,
+    "wof:lastmodified":1614718906,
     "wof:name":"Kemitan",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073163,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

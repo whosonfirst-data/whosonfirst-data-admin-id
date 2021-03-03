@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672037,
+        102073439
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"0661ad52120f0ccd2559f8d6f9425625",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209072085
+            "county_id":102073439,
+            "locality_id":1209072085,
+            "region_id":85672037
         }
     ],
     "wof:id":1209072085,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638023,
+    "wof:lastmodified":1614721086,
     "wof:name":"Tia",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073439,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

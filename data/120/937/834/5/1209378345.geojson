@@ -36,7 +36,7 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,8 +46,10 @@
     "wof:geomhash":"46a38f27bd1374f89fec9e2c55802b4c",
     "wof:hierarchy":[
         {
-            "country_id":85632203,
-            "locality_id":1209378345
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1209378345,
+            "region_id":-1
         }
     ],
     "wof:id":1209378345,
@@ -58,9 +60,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638175,
+    "wof:lastmodified":1614727931,
     "wof:name":"Motongbuwuh",
-    "wof:parent_id":85632203,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

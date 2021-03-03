@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672009,
+        102073429
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"98373b0adb4382d641cb75ef3835ff26",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209297059
+            "county_id":102073429,
+            "locality_id":1209297059,
+            "region_id":85672009
         }
     ],
     "wof:id":1209297059,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652294,
+    "wof:lastmodified":1614720980,
     "wof:name":"Tanjunganom",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073429,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

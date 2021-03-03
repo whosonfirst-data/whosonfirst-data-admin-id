@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102073153
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"abe5e8ee7bf7b43a4833e93025cd9c63",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209205573
+            "county_id":102073153,
+            "locality_id":1209205573,
+            "region_id":85671987
         }
     ],
     "wof:id":1209205573,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638935,
+    "wof:lastmodified":1614718779,
     "wof:name":"Bakalan",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073153,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

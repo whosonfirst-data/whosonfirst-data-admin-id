@@ -64,7 +64,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672037,
+        1108796849
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -74,8 +77,11 @@
     "wof:geomhash":"97f97548eaa3f6b5735b16afb7db0252",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209477759
+            "county_id":1108796849,
+            "locality_id":1209477759,
+            "region_id":85672037
         }
     ],
     "wof:id":1209477759,
@@ -86,9 +92,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638455,
+    "wof:lastmodified":1614722628,
     "wof:name":"Kenda",
-    "wof:parent_id":85632203,
+    "wof:parent_id":1108796849,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102072857
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"eb5acdf742de0e294d9e083e5cae36df",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209509071
+            "county_id":102072857,
+            "locality_id":1209509071,
+            "region_id":85671987
         }
     ],
     "wof:id":1209509071,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638544,
+    "wof:lastmodified":1614716871,
     "wof:name":"Gerdu",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072857,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

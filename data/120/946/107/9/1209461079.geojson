@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671983,
+        1108796793
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"6c9453b7fe3e908e5af9dc207e6ce1f4",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209461079
+            "county_id":1108796793,
+            "locality_id":1209461079,
+            "region_id":85671983
         }
     ],
     "wof:id":1209461079,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638348,
+    "wof:lastmodified":1614722383,
     "wof:name":"Cibukur",
-    "wof:parent_id":85632203,
+    "wof:parent_id":1108796793,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

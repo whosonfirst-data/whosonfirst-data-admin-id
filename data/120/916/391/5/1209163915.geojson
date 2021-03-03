@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671983,
+        102073359
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +47,11 @@
     "wof:geomhash":"adb1ee0cf0892e87cb3386304a63bd9d",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209163915
+            "county_id":102073359,
+            "locality_id":1209163915,
+            "region_id":85671983
         }
     ],
     "wof:id":1209163915,
@@ -56,9 +62,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638894,
+    "wof:lastmodified":1614720454,
     "wof:name":"Cigambi",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073359,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

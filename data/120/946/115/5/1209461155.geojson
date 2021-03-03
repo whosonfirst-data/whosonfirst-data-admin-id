@@ -67,7 +67,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671983,
+        102073359
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -77,8 +80,11 @@
     "wof:geomhash":"fb5a6879cb8d7c2179c6cce9bb26735d",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209461155
+            "county_id":102073359,
+            "locality_id":1209461155,
+            "region_id":85671983
         }
     ],
     "wof:id":1209461155,
@@ -89,9 +95,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652071,
+    "wof:lastmodified":1614720465,
     "wof:name":"Lio",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073359,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102072715
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"c39d6a67505074988beee73afa4e3c93",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209606211
+            "county_id":102072715,
+            "locality_id":1209606211,
+            "region_id":85671987
         }
     ],
     "wof:id":1209606211,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638744,
+    "wof:lastmodified":1614715709,
     "wof:name":"Karangbawang",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072715,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

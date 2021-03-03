@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102073153
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"15c9e6e5cd3b374921c945e6e5b55b14",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209126549
+            "county_id":102073153,
+            "locality_id":1209126549,
+            "region_id":85671987
         }
     ],
     "wof:id":1209126549,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638394,
+    "wof:lastmodified":1614718773,
     "wof:name":"Klantang",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073153,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

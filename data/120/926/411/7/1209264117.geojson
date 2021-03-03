@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671983,
+        102072981
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"09fe84d3a6f0c79685e13561209f736b",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209264117
+            "county_id":102072981,
+            "locality_id":1209264117,
+            "region_id":85671983
         }
     ],
     "wof:id":1209264117,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652347,
+    "wof:lastmodified":1614717657,
     "wof:name":"Caringinnumbang",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072981,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

@@ -35,7 +35,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672009,
+        102072783
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,8 +48,11 @@
     "wof:geomhash":"971b3f4d24037a22087790bb40101a6d",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209688727
+            "county_id":102072783,
+            "locality_id":1209688727,
+            "region_id":85672009
         }
     ],
     "wof:id":1209688727,
@@ -57,9 +63,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638600,
+    "wof:lastmodified":1614716271,
     "wof:name":"Umbulan Megeti",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072783,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672027,
+        102073157
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"4c574f9544017e6e3d365a6718d12b4b",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209404969
+            "county_id":102073157,
+            "locality_id":1209404969,
+            "region_id":85672027
         }
     ],
     "wof:id":1209404969,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638415,
+    "wof:lastmodified":1614718870,
     "wof:name":"Jogopaten",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073157,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671983,
+        102072937
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"fd75b6b39b8a3e819a63a3c14ff0846a",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209364585
+            "county_id":102072937,
+            "locality_id":1209364585,
+            "region_id":85671983
         }
     ],
     "wof:id":1209364585,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614651908,
+    "wof:lastmodified":1614717323,
     "wof:name":"Krajan Satu",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072937,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672023,
+        102072703
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"71680e70003544ad10b18f4047015cca",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209217247
+            "county_id":102072703,
+            "locality_id":1209217247,
+            "region_id":85672023
         }
     ],
     "wof:id":1209217247,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652359,
+    "wof:lastmodified":1614715392,
     "wof:name":"Banjar Tegalwangi",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072703,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

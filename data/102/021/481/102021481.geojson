@@ -49,9 +49,7 @@
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
     "wof:belongs_to":[],
-    "wof:belongsto":[
-        85632203
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6404192,
@@ -61,8 +59,10 @@
     "wof:geomhash":"b3f833d8bb337ad3ba3aaad6c2f13f63",
     "wof:hierarchy":[
         {
-            "country_id":85632203,
-            "locality_id":102021481
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":102021481,
+            "region_id":-1
         }
     ],
     "wof:id":102021481,
@@ -73,7 +73,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1613173784,
+    "wof:lastmodified":1614714099,
     "wof:name":"Tegal",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

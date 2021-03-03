@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672037,
+        102072803
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"f1dc0f835c8f8d7f2ed8d140d90c9bb0",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209069143
+            "county_id":102072803,
+            "locality_id":1209069143,
+            "region_id":85672037
         }
     ],
     "wof:id":1209069143,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638129,
+    "wof:lastmodified":1614716322,
     "wof:name":"Parimpaha",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072803,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

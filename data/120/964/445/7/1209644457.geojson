@@ -35,7 +35,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672045,
+        102073385
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,8 +48,11 @@
     "wof:geomhash":"833c8d3c7b1dce14b02f7208edf8288f",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209644457
+            "county_id":102073385,
+            "locality_id":1209644457,
+            "region_id":85672045
         }
     ],
     "wof:id":1209644457,
@@ -57,9 +63,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638241,
+    "wof:lastmodified":1614720761,
     "wof:name":"Simajo",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073385,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

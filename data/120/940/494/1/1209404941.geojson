@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672027,
+        102073487
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"e564509fb4bd7e92b38bb027cef80e73",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209404941
+            "county_id":102073487,
+            "locality_id":1209404941,
+            "region_id":85672027
         }
     ],
     "wof:id":1209404941,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638426,
+    "wof:lastmodified":1614721590,
     "wof:name":"Begendul",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073487,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

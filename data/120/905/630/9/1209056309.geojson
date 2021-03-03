@@ -52,7 +52,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671995,
+        102073479
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,8 +65,11 @@
     "wof:geomhash":"810cee26fb23ab203a748adaedd71be5",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209056309
+            "county_id":102073479,
+            "locality_id":1209056309,
+            "region_id":85671995
         }
     ],
     "wof:id":1209056309,
@@ -74,9 +80,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638834,
+    "wof:lastmodified":1614721454,
     "wof:name":"Parung",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073479,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672031,
+        102073523
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"aa36379eab3c50af1fdfbf1fa52bf172",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209086167
+            "county_id":102073523,
+            "locality_id":1209086167,
+            "region_id":85672031
         }
     ],
     "wof:id":1209086167,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614651983,
+    "wof:lastmodified":1614721870,
     "wof:name":"Batu Licin",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073523,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

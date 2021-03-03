@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672081,
+        102073137
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"0acc2675b534ec6fc22e7d0c52f0a452",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209242041
+            "county_id":102073137,
+            "locality_id":1209242041,
+            "region_id":85672081
         }
     ],
     "wof:id":1209242041,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638395,
+    "wof:lastmodified":1614718709,
     "wof:name":"Mawira",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073137,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

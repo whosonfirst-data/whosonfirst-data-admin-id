@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672023,
+        102072781
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"285962b4b8880049220057517c12482b",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209016637
+            "county_id":102072781,
+            "locality_id":1209016637,
+            "region_id":85672023
         }
     ],
     "wof:id":1209016637,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638104,
+    "wof:lastmodified":1614716251,
     "wof:name":"Juntal",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072781,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

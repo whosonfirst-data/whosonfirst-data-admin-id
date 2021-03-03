@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672087,
+        102072729
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"7bdb6b4b04a01d9956c7f92d2b33f290",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209074413
+            "county_id":102072729,
+            "locality_id":1209074413,
+            "region_id":85672087
         }
     ],
     "wof:id":1209074413,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638018,
+    "wof:lastmodified":1614715788,
     "wof:name":"Ranahhoatung",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072729,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

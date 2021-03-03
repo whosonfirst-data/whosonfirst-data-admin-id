@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672073,
+        102072767
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +47,11 @@
     "wof:geomhash":"a50476c2ba08442a64933e73c2129881",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209582677
+            "county_id":102072767,
+            "locality_id":1209582677,
+            "region_id":85672073
         }
     ],
     "wof:id":1209582677,
@@ -56,9 +62,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638732,
+    "wof:lastmodified":1614716135,
     "wof:name":"Sitampurung Dua",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072767,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672027,
+        102073063
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"2b9a333b5582cb9f4e3978b0a96f424e",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209025757
+            "county_id":102073063,
+            "locality_id":1209025757,
+            "region_id":85672027
         }
     ],
     "wof:id":1209025757,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638845,
+    "wof:lastmodified":1614718275,
     "wof:name":"Klompek",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073063,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

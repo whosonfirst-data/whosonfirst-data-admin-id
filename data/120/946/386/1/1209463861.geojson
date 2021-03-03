@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672013,
+        102072629
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"6bb9db172c6539ad58c1cbb06c158d90",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209463861
+            "county_id":102072629,
+            "locality_id":1209463861,
+            "region_id":85672013
         }
     ],
     "wof:id":1209463861,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638359,
+    "wof:lastmodified":1614714954,
     "wof:name":"Talang Airseluang",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072629,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

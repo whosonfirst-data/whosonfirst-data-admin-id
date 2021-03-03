@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671983,
+        102072739
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"3af9f933ab49b5b894be1e84178ccbaa",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209260893
+            "county_id":102072739,
+            "locality_id":1209260893,
+            "region_id":85671983
         }
     ],
     "wof:id":1209260893,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614639069,
+    "wof:lastmodified":1614715915,
     "wof:name":"Babakanteureup",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072739,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

@@ -36,7 +36,10 @@
         "Pantai"
     ],
     "src:geom":"geonames",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632203
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1967729
@@ -45,8 +48,8 @@
     "wof:geomhash":"86833705df143b51ffbcd67b1421ce6f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191569,
+            "country_id":85632203,
             "locality_id":1327279111,
             "region_id":-1
         }
@@ -59,7 +62,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614633734,
+    "wof:lastmodified":1614734428,
     "wof:name":"Pantai",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

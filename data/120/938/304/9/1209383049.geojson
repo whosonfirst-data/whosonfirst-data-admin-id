@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672087,
+        102072691
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"fa2be9612f01ffa4eb0bd4617341381a",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209383049
+            "county_id":102072691,
+            "locality_id":1209383049,
+            "region_id":85672087
         }
     ],
     "wof:id":1209383049,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614651917,
+    "wof:lastmodified":1614715331,
     "wof:name":"Tabatgadang",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072691,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

@@ -337,7 +337,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672037,
+        102073045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -347,8 +350,11 @@
     "wof:geomhash":"ba567e6bf6c7a4046b6b1226f8ad8f03",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209081791
+            "county_id":102073045,
+            "locality_id":1209081791,
+            "region_id":85672037
         }
     ],
     "wof:id":1209081791,
@@ -359,9 +365,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638170,
+    "wof:lastmodified":1614718093,
     "wof:name":"Bari",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073045,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

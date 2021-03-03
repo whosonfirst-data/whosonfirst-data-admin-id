@@ -41,7 +41,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102072611
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,8 +54,11 @@
     "wof:geomhash":"a118ac4d668437fdca6024aeffda3346",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209308339
+            "county_id":102072611,
+            "locality_id":1209308339,
+            "region_id":85671987
         }
     ],
     "wof:id":1209308339,
@@ -63,9 +69,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638149,
+    "wof:lastmodified":1614714742,
     "wof:name":"Jabung",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072611,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

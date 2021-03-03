@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672027,
+        102073305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"37805734b06fe63d4e5777fc7ac86a1c",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209399751
+            "county_id":102073305,
+            "locality_id":1209399751,
+            "region_id":85672027
         }
     ],
     "wof:id":1209399751,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638119,
+    "wof:lastmodified":1614720141,
     "wof:name":"Sumberejo",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073305,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

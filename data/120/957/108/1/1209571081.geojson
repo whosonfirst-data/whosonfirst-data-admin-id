@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672087,
+        102072835
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"d2eacf745cbd185bf41e2358646174bc",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209571081
+            "county_id":102072835,
+            "locality_id":1209571081,
+            "region_id":85672087
         }
     ],
     "wof:id":1209571081,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638588,
+    "wof:lastmodified":1614716560,
     "wof:name":"Ambacanglabuh",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072835,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

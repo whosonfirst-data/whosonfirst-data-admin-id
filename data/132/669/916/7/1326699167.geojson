@@ -30,7 +30,10 @@
         "Katambua"
     ],
     "src:geom":"geonames",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632203
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1968289
@@ -39,8 +42,8 @@
     "wof:geomhash":"58b29cfeb92f3fa0f08e1851bf217d4f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191569,
+            "country_id":85632203,
             "locality_id":1326699167,
             "region_id":-1
         }
@@ -53,7 +56,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614632666,
+    "wof:lastmodified":1614729539,
     "wof:name":"Katambua",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

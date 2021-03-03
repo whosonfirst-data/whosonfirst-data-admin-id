@@ -37,7 +37,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672115,
+        1108796871
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,8 +50,11 @@
     "wof:geomhash":"42a3e575fe2f19aa9cb521262b880a6a",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209258901
+            "county_id":1108796871,
+            "locality_id":1209258901,
+            "region_id":85672115
         }
     ],
     "wof:id":1209258901,
@@ -59,9 +65,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638532,
+    "wof:lastmodified":1614722773,
     "wof:name":"Parai",
-    "wof:parent_id":85632203,
+    "wof:parent_id":1108796871,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

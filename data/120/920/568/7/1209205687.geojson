@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102073119
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +47,11 @@
     "wof:geomhash":"fc02e5e20689cddebacf39dc64b3887d",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209205687
+            "county_id":102073119,
+            "locality_id":1209205687,
+            "region_id":85671987
         }
     ],
     "wof:id":1209205687,
@@ -56,9 +62,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638935,
+    "wof:lastmodified":1614718602,
     "wof:name":"Kenari",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073119,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

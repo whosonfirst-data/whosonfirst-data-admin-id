@@ -37,7 +37,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672081,
+        102073387
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,8 +50,11 @@
     "wof:geomhash":"5d635f3ce5569854ffac44fabd90143e",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209650727
+            "county_id":102073387,
+            "locality_id":1209650727,
+            "region_id":85672081
         }
     ],
     "wof:id":1209650727,
@@ -59,9 +65,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614651929,
+    "wof:lastmodified":1614720766,
     "wof:name":"Timu",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073387,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

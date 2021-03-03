@@ -186,7 +186,10 @@
         "\u5df4\u4e1c"
     ],
     "src:geom":"geonames",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632203
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7339400
@@ -195,8 +198,8 @@
     "wof:geomhash":"d3e2f2f47c2b89974bbfdd426137c3a0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191569,
+            "country_id":85632203,
             "locality_id":1309934989,
             "region_id":-1
         }
@@ -209,7 +212,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614653661,
+    "wof:lastmodified":1614730859,
     "wof:name":"Padang",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

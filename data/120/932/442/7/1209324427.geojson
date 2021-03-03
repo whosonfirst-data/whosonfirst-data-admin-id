@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672031,
+        102073513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"0b46d084b844631cebd1e6d2aaddb3d2",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209324427
+            "county_id":102073513,
+            "locality_id":1209324427,
+            "region_id":85672031
         }
     ],
     "wof:id":1209324427,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638674,
+    "wof:lastmodified":1614721759,
     "wof:name":"Pansan",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073513,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

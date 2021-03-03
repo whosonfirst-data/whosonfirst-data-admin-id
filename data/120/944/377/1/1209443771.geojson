@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672045,
+        102073105
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"54040ca091c4f641d98cc7734be9c237",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209443771
+            "county_id":102073105,
+            "locality_id":1209443771,
+            "region_id":85672045
         }
     ],
     "wof:id":1209443771,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614639161,
+    "wof:lastmodified":1614718492,
     "wof:name":"Pappang",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073105,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

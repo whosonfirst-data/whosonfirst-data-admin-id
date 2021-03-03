@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671983,
+        102073245
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +47,11 @@
     "wof:geomhash":"70b027c3999d2cc4bab5e21384640f8a",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209464599
+            "county_id":102073245,
+            "locality_id":1209464599,
+            "region_id":85671983
         }
     ],
     "wof:id":1209464599,
@@ -56,9 +62,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638356,
+    "wof:lastmodified":1614719729,
     "wof:name":"Cidawung",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073245,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

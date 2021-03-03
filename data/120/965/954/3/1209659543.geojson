@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672115,
+        102073507
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"1a0b7c9b706b01ef244737b87fbf2c5c",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209659543
+            "county_id":102073507,
+            "locality_id":1209659543,
+            "region_id":85672115
         }
     ],
     "wof:id":1209659543,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638049,
+    "wof:lastmodified":1614721749,
     "wof:name":"Suwi",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073507,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

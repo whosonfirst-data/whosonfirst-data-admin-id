@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671983,
+        102072949
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +47,11 @@
     "wof:geomhash":"c5dc154ecdd79e560e5629c0f4ee2e10",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209675909
+            "county_id":102072949,
+            "locality_id":1209675909,
+            "region_id":85671983
         }
     ],
     "wof:id":1209675909,
@@ -56,9 +62,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638720,
+    "wof:lastmodified":1614717530,
     "wof:name":"Cileubak",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072949,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

@@ -28,7 +28,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672067,
+        102073445
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,8 +41,11 @@
     "wof:geomhash":"a35e867d550773ebb038c1c5c4137eaf",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209444211
+            "county_id":102073445,
+            "locality_id":1209444211,
+            "region_id":85672067
         }
     ],
     "wof:id":1209444211,
@@ -50,9 +56,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614639161,
+    "wof:lastmodified":1614721138,
     "wof:name":"Ibonma",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073445,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

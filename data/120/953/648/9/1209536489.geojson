@@ -262,7 +262,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102073417
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -272,8 +275,11 @@
     "wof:geomhash":"c18c24beb66af51d5181c945967c06bd",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209536489
+            "county_id":102073417,
+            "locality_id":1209536489,
+            "region_id":85671987
         }
     ],
     "wof:id":1209536489,
@@ -284,9 +290,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638035,
+    "wof:lastmodified":1614720930,
     "wof:name":"Bandung",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073417,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

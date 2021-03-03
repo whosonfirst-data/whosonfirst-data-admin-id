@@ -37,7 +37,10 @@
         "Pulias"
     ],
     "src:geom":"geonames",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632203
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1630492
@@ -46,8 +49,8 @@
     "wof:geomhash":"a7f5e968e5c52d82346ad9e89e82469b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191569,
+            "country_id":85632203,
             "locality_id":1293251217,
             "region_id":-1
         }
@@ -60,7 +63,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614635901,
+    "wof:lastmodified":1614727093,
     "wof:name":"Pulias",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

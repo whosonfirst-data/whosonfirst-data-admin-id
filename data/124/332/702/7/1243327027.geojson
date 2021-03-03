@@ -30,7 +30,10 @@
         "Kramat"
     ],
     "src:geom":"geonames",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632203
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7377761
@@ -39,8 +42,8 @@
     "wof:geomhash":"83659da1f235017beb33b548e9a8d60f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191569,
+            "country_id":85632203,
             "locality_id":1243327027,
             "region_id":-1
         }
@@ -53,7 +56,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614654014,
+    "wof:lastmodified":1614733097,
     "wof:name":"Kramat",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

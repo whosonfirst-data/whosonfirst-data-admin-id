@@ -32,7 +32,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672115,
+        102073081
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,8 +45,11 @@
     "wof:geomhash":"02d23e36e336929754c1c8bdf11259f8",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209559575
+            "county_id":102073081,
+            "locality_id":1209559575,
+            "region_id":85672115
         }
     ],
     "wof:id":1209559575,
@@ -54,9 +60,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638259,
+    "wof:lastmodified":1614718401,
     "wof:name":"Jaram",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073081,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

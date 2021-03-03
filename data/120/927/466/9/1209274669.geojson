@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671983,
+        102073529
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"80196baa97bf24bf999fc3431206e30e",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209274669
+            "county_id":102073529,
+            "locality_id":1209274669,
+            "region_id":85671983
         }
     ],
     "wof:id":1209274669,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638966,
+    "wof:lastmodified":1614721939,
     "wof:name":"Sawahrandu",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073529,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

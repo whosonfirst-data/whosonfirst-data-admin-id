@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672081,
+        1108796953
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +47,11 @@
     "wof:geomhash":"2842c1bde18408e42b21cbc4f993bf4f",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209141329
+            "county_id":1108796953,
+            "locality_id":1209141329,
+            "region_id":85672081
         }
     ],
     "wof:id":1209141329,
@@ -56,9 +62,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638537,
+    "wof:lastmodified":1614722982,
     "wof:name":"Laghaeng",
-    "wof:parent_id":85632203,
+    "wof:parent_id":1108796953,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

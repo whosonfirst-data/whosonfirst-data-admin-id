@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672087,
+        102072853
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"9da72523ed75e783eab0f81d14d34b77",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209472661
+            "county_id":102072853,
+            "locality_id":1209472661,
+            "region_id":85672087
         }
     ],
     "wof:id":1209472661,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638445,
+    "wof:lastmodified":1614716676,
     "wof:name":"Telukbatung",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072853,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

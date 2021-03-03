@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672037,
+        102073439
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"ff8d53c6f57c6e41a7c9f00baf956d57",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209377639
+            "county_id":102073439,
+            "locality_id":1209377639,
+            "region_id":85672037
         }
     ],
     "wof:id":1209377639,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638171,
+    "wof:lastmodified":1614721090,
     "wof:name":"Waekang",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073439,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

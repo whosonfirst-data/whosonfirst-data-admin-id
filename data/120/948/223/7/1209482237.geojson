@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672073,
+        102073109
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"7305f09d2c338f8470be9b73d2a4e115",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209482237
+            "county_id":102073109,
+            "locality_id":1209482237,
+            "region_id":85672073
         }
     ],
     "wof:id":1209482237,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638270,
+    "wof:lastmodified":1614718528,
     "wof:name":"Bangko",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073109,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

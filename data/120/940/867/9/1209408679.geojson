@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102073111
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"f51fd30f92dcf4fc426683a8cb85050c",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209408679
+            "county_id":102073111,
+            "locality_id":1209408679,
+            "region_id":85671987
         }
     ],
     "wof:id":1209408679,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638414,
+    "wof:lastmodified":1614718543,
     "wof:name":"Sriwulan",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073111,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

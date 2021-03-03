@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671973,
+        102073525
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"9d33b7e6f5717e753f776684cd38082e",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209218205
+            "county_id":102073525,
+            "locality_id":1209218205,
+            "region_id":85671973
         }
     ],
     "wof:id":1209218205,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614639094,
+    "wof:lastmodified":1614721877,
     "wof:name":"Menanggini",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073525,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

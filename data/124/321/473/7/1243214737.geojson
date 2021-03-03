@@ -27,7 +27,10 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632203
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1900207
@@ -36,8 +39,8 @@
     "wof:geomhash":"fc4b4189bf2b7dca2b64f3e3b59fcced",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191569,
+            "country_id":85632203,
             "locality_id":1243214737,
             "region_id":-1
         }
@@ -50,7 +53,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614643645,
+    "wof:lastmodified":1614733162,
     "wof:name":"Ohoier",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

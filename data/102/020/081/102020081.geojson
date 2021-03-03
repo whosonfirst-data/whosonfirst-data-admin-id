@@ -55,9 +55,7 @@
     "src:lbl:centroid":"mapshaper",
     "wd:wordcount":101,
     "wof:belongs_to":[],
-    "wof:belongsto":[
-        85632203
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1639246,
@@ -71,8 +69,10 @@
     "wof:geomhash":"7c40ca3a92c8d6882f1739d8d03925b5",
     "wof:hierarchy":[
         {
-            "country_id":85632203,
-            "locality_id":102020081
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":102020081,
+            "region_id":-1
         }
     ],
     "wof:id":102020081,
@@ -83,7 +83,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1613173693,
+    "wof:lastmodified":1614713284,
     "wof:name":"Kubu",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

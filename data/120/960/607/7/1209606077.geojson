@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102072759
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"37928a0b6b077568abb0bb94530fda1a",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209606077
+            "county_id":102072759,
+            "locality_id":1209606077,
+            "region_id":85671987
         }
     ],
     "wof:id":1209606077,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638766,
+    "wof:lastmodified":1614716092,
     "wof:name":"Kantong Barat",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072759,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

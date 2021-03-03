@@ -35,7 +35,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671983,
+        102073449
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,8 +48,11 @@
     "wof:geomhash":"df4bccfec0c471fa43bf9b79e4e84d80",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209160487
+            "county_id":102073449,
+            "locality_id":1209160487,
+            "region_id":85671983
         }
     ],
     "wof:id":1209160487,
@@ -57,9 +63,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652282,
+    "wof:lastmodified":1614721152,
     "wof:name":"Cijambe",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073449,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

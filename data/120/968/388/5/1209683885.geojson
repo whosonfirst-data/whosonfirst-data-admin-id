@@ -32,7 +32,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672087,
+        102072697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,8 +45,11 @@
     "wof:geomhash":"5ea27d0d23d1c20647afb8ff6ad6a787",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209683885
+            "county_id":102072697,
+            "locality_id":1209683885,
+            "region_id":85672087
         }
     ],
     "wof:id":1209683885,
@@ -54,9 +60,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638608,
+    "wof:lastmodified":1614715377,
     "wof:name":"Taraet",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072697,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672019,
+        102072881
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +47,11 @@
     "wof:geomhash":"716758a2ffc858eb17605c8fbdcbc520",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209655831
+            "county_id":102072881,
+            "locality_id":1209655831,
+            "region_id":85672019
         }
     ],
     "wof:id":1209655831,
@@ -56,9 +62,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638057,
+    "wof:lastmodified":1614716955,
     "wof:name":"Rekrek",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072881,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

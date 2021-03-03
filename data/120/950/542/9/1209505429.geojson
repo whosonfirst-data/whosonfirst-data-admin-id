@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672027,
+        102073065
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"ae20a487e2c2c93d153a567080e7bf2e",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209505429
+            "county_id":102073065,
+            "locality_id":1209505429,
+            "region_id":85672027
         }
     ],
     "wof:id":1209505429,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652158,
+    "wof:lastmodified":1614718333,
     "wof:name":"Mojokopek",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073065,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

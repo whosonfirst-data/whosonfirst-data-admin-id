@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672077,
+        1108796917
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"2aecd2a12110e6724d93765e5bbc8136",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209153397
+            "county_id":1108796917,
+            "locality_id":1209153397,
+            "region_id":85672077
         }
     ],
     "wof:id":1209153397,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652079,
+    "wof:lastmodified":1614722864,
     "wof:name":"Rumbaibukit",
-    "wof:parent_id":85632203,
+    "wof:parent_id":1108796917,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

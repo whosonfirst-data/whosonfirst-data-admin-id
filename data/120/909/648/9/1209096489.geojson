@@ -79,7 +79,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672027,
+        102073377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -89,8 +92,11 @@
     "wof:geomhash":"e7e1e9d31280cebb85dd6900dc621f1d",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209096489
+            "county_id":102073377,
+            "locality_id":1209096489,
+            "region_id":85672027
         }
     ],
     "wof:id":1209096489,
@@ -101,9 +107,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614637965,
+    "wof:lastmodified":1614720697,
     "wof:name":"Banjar",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073377,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

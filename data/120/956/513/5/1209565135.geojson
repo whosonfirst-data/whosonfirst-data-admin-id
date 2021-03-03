@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671983,
+        1108796793
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"ff35a2e24c0e85a805e1bc6b21a638dd",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209565135
+            "county_id":1108796793,
+            "locality_id":1209565135,
+            "region_id":85671983
         }
     ],
     "wof:id":1209565135,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638795,
+    "wof:lastmodified":1614722411,
     "wof:name":"Citapos",
-    "wof:parent_id":85632203,
+    "wof:parent_id":1108796793,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

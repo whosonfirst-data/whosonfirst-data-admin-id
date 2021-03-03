@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672013,
+        102073279
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"2f965f787bba6607adf74cf2a70c461e",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209173537
+            "county_id":102073279,
+            "locality_id":1209173537,
+            "region_id":85672013
         }
     ],
     "wof:id":1209173537,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614639112,
+    "wof:lastmodified":1614719977,
     "wof:name":"Merindu",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073279,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

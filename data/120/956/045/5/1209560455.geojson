@@ -70,7 +70,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672055,
+        102072737
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -80,8 +83,11 @@
     "wof:geomhash":"598fb361a11fb67b36fb91b24d0b91b0",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209560455
+            "county_id":102072737,
+            "locality_id":1209560455,
+            "region_id":85672055
         }
     ],
     "wof:id":1209560455,
@@ -92,9 +98,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638789,
+    "wof:lastmodified":1614715883,
     "wof:name":"Tumba",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072737,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

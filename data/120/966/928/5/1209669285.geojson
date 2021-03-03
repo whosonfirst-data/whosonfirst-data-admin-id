@@ -52,7 +52,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671995,
+        102073281
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,8 +65,11 @@
     "wof:geomhash":"d402a5081ef26d00c5f5044996e1c85d",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209669285
+            "county_id":102073281,
+            "locality_id":1209669285,
+            "region_id":85671995
         }
     ],
     "wof:id":1209669285,
@@ -74,9 +80,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638651,
+    "wof:lastmodified":1614719987,
     "wof:name":"Parigi",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073281,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

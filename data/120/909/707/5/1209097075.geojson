@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102072587
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"ab145e89050e32e78eba32e7767a7afd",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209097075
+            "county_id":102072587,
+            "locality_id":1209097075,
+            "region_id":85671987
         }
     ],
     "wof:id":1209097075,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614651887,
+    "wof:lastmodified":1614714652,
     "wof:name":"Surengede",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072587,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

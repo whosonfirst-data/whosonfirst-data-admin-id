@@ -37,7 +37,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671973,
+        1108796779
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,8 +50,11 @@
     "wof:geomhash":"1ddd1660697afe858d613e76dd7cf3c8",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209223855
+            "county_id":1108796779,
+            "locality_id":1209223855,
+            "region_id":85671973
         }
     ],
     "wof:id":1209223855,
@@ -59,9 +65,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638523,
+    "wof:lastmodified":1614722353,
     "wof:name":"Dah",
-    "wof:parent_id":85632203,
+    "wof:parent_id":1108796779,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

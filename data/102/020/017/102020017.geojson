@@ -111,10 +111,7 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
-    "wof:belongsto":[
-        102191569,
-        85632203
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1638479,
@@ -125,9 +122,10 @@
     "wof:geomhash":"2dbd006f0a30b2b2afca853fe800fd7c",
     "wof:hierarchy":[
         {
-            "continent_id":102191569,
-            "country_id":85632203,
-            "locality_id":102020017
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":102020017,
+            "region_id":-1
         }
     ],
     "wof:id":102020017,
@@ -138,7 +136,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1613173693,
+    "wof:lastmodified":1614713258,
     "wof:name":"Langgur",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

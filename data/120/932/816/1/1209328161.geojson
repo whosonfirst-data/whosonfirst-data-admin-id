@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671973,
+        102073069
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"e2b8fd60b7a4a98f2c67d571bfaa5489",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209328161
+            "county_id":102073069,
+            "locality_id":1209328161,
+            "region_id":85671973
         }
     ],
     "wof:id":1209328161,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638670,
+    "wof:lastmodified":1614718371,
     "wof:name":"Putoh",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073069,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

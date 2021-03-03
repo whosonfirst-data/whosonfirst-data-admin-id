@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102072611
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"95751927fa73fe5ccf2eb56a2137e222",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209305539
+            "county_id":102072611,
+            "locality_id":1209305539,
+            "region_id":85671987
         }
     ],
     "wof:id":1209305539,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638154,
+    "wof:lastmodified":1614714731,
     "wof:name":"Termulus",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072611,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671983,
+        102072937
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"89f9156fd8d66029406056506ad4882e",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209475263
+            "county_id":102072937,
+            "locality_id":1209475263,
+            "region_id":85671983
         }
     ],
     "wof:id":1209475263,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652118,
+    "wof:lastmodified":1614717308,
     "wof:name":"Kompa",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072937,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

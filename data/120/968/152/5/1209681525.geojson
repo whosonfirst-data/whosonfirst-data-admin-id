@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672037,
+        1108796853
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"dd5890d14b8d19c0e88a52c387296676",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209681525
+            "county_id":1108796853,
+            "locality_id":1209681525,
+            "region_id":85672037
         }
     ],
     "wof:id":1209681525,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638604,
+    "wof:lastmodified":1614722662,
     "wof:name":"Kebelaae",
-    "wof:parent_id":85632203,
+    "wof:parent_id":1108796853,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

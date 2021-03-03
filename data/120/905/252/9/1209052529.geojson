@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671983,
+        1108796793
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"51509c56b5b95744f4fc4180cf3b3943",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209052529
+            "county_id":1108796793,
+            "locality_id":1209052529,
+            "region_id":85671983
         }
     ],
     "wof:id":1209052529,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638836,
+    "wof:lastmodified":1614722378,
     "wof:name":"Coblong",
-    "wof:parent_id":85632203,
+    "wof:parent_id":1108796793,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

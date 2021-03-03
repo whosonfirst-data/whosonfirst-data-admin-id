@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672027,
+        102072581
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"94ad995ae0885808bfa236a9cd611e83",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209091263
+            "county_id":102072581,
+            "locality_id":1209091263,
+            "region_id":85672027
         }
     ],
     "wof:id":1209091263,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614637959,
+    "wof:lastmodified":1614714610,
     "wof:name":"Rembeng",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072581,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

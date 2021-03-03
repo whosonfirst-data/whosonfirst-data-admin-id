@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102072709
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"767aef5d2212adc02c84ebc03306d7ba",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209305699
+            "county_id":102072709,
+            "locality_id":1209305699,
+            "region_id":85671987
         }
     ],
     "wof:id":1209305699,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614651967,
+    "wof:lastmodified":1614715566,
     "wof:name":"Gintungan",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072709,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

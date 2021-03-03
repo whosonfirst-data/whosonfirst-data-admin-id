@@ -37,7 +37,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672073,
+        102073431
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,8 +50,11 @@
     "wof:geomhash":"201a0aa7b2e913222271d0ef77e4a45a",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209060813
+            "county_id":102073431,
+            "locality_id":1209060813,
+            "region_id":85672073
         }
     ],
     "wof:id":1209060813,
@@ -59,9 +65,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638132,
+    "wof:lastmodified":1614721008,
     "wof:name":"Simpang Tiga",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073431,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

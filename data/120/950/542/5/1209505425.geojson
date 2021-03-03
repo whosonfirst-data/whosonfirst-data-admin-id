@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672027,
+        102073017
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"743ffb83652671c047431a55afc5b5ca",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209505425
+            "county_id":102073017,
+            "locality_id":1209505425,
+            "region_id":85672027
         }
     ],
     "wof:id":1209505425,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638559,
+    "wof:lastmodified":1614717951,
     "wof:name":"Tumpakrejo",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073017,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

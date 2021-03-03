@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672037,
+        102073045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"e25943612af418bc2803562726c5cf63",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209691681
+            "county_id":102073045,
+            "locality_id":1209691681,
+            "region_id":85672037
         }
     ],
     "wof:id":1209691681,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638798,
+    "wof:lastmodified":1614718091,
     "wof:name":"Golondalas",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073045,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

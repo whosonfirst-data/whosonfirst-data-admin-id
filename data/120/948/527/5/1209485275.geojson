@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672009,
+        1108796811
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"e8f462714908d9e843c7fa2bfa1371e2",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209485275
+            "county_id":1108796811,
+            "locality_id":1209485275,
+            "region_id":85672009
         }
     ],
     "wof:id":1209485275,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638268,
+    "wof:lastmodified":1614722498,
     "wof:name":"Gumukmas",
-    "wof:parent_id":85632203,
+    "wof:parent_id":1108796811,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

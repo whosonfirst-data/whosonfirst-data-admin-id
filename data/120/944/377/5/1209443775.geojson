@@ -58,7 +58,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        1108805993,
+        102072657
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -68,8 +71,11 @@
     "wof:geomhash":"653d73c8c2738ac0103a09019be9c7a0",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209443775
+            "county_id":102072657,
+            "locality_id":1209443775,
+            "region_id":1108805993
         }
     ],
     "wof:id":1209443775,
@@ -80,9 +86,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652380,
+    "wof:lastmodified":1614715173,
     "wof:name":"Skip",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072657,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

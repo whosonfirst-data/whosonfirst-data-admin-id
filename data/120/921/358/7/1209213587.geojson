@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672059,
+        102072953
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"b5a48f579985bac36c66205e85c6f4b1",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209213587
+            "county_id":102072953,
+            "locality_id":1209213587,
+            "region_id":85672059
         }
     ],
     "wof:id":1209213587,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614639102,
+    "wof:lastmodified":1614717591,
     "wof:name":"Paritmuhamad",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072953,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

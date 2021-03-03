@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672103,
+        102072705
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"b1de29422c119312c86d61786b5d8f09",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209381337
+            "county_id":102072705,
+            "locality_id":1209381337,
+            "region_id":85672103
         }
     ],
     "wof:id":1209381337,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614651916,
+    "wof:lastmodified":1614715411,
     "wof:name":"Embung Bengkel",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072705,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

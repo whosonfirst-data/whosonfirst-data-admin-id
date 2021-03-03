@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672059,
+        102072673
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"e78bb3c0804c5cb161c6527a53e1e4d8",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209104885
+            "county_id":102072673,
+            "locality_id":1209104885,
+            "region_id":85672059
         }
     ],
     "wof:id":1209104885,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614639153,
+    "wof:lastmodified":1614715215,
     "wof:name":"Kotarendah",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072673,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

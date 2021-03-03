@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102072639
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"6a8a0417b5a0bcb15fb825e92bfc9735",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209308557
+            "county_id":102072639,
+            "locality_id":1209308557,
+            "region_id":85671987
         }
     ],
     "wof:id":1209308557,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614651982,
+    "wof:lastmodified":1614715031,
     "wof:name":"Gesikan",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072639,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672027,
+        102073065
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"e5476802d5982e0520ffde88c97885a1",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209611485
+            "county_id":102073065,
+            "locality_id":1209611485,
+            "region_id":85672027
         }
     ],
     "wof:id":1209611485,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652179,
+    "wof:lastmodified":1614718323,
     "wof:name":"Wedoro",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073065,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

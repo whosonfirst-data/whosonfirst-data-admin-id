@@ -24,12 +24,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        102020433,
+        102072667,
+        85672001
+    ],
     "wof:breaches":[],
     "wof:country":"ID",
     "wof:created":1613158500,
     "wof:geomhash":"95c99f7701b24a30adcf25efca4b5f01",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102072667,
+            "locality_id":102020433,
+            "neighbourhood_id":1729801757,
+            "region_id":85672001
+        }
+    ],
     "wof:id":1729801757,
     "wof:lang_x_official":[
         "ind"
@@ -38,9 +53,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1613179630,
+    "wof:lastmodified":1614723279,
     "wof:name":"Duren Tiga",
-    "wof:parent_id":-1,
+    "wof:parent_id":102020433,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

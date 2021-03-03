@@ -49,7 +49,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102072733
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,8 +62,11 @@
     "wof:geomhash":"8348e3df4e551439a90f771d0d82d26c",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209606139
+            "county_id":102072733,
+            "locality_id":1209606139,
+            "region_id":85671987
         }
     ],
     "wof:id":1209606139,
@@ -71,9 +77,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638758,
+    "wof:lastmodified":1614715846,
     "wof:name":"Tanjung",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072733,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102072611
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"67a70ee7ec066b8a69b9f3ba2dfac029",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209536331
+            "county_id":102072611,
+            "locality_id":1209536331,
+            "region_id":85671987
         }
     ],
     "wof:id":1209536331,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638031,
+    "wof:lastmodified":1614714735,
     "wof:name":"Kedungwaru",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072611,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

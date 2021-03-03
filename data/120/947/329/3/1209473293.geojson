@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672105,
+        102073461
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"d10485f1b65602b99706bea29ae8ae24",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209473293
+            "county_id":102073461,
+            "locality_id":1209473293,
+            "region_id":85672105
         }
     ],
     "wof:id":1209473293,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638455,
+    "wof:lastmodified":1614721310,
     "wof:name":"Sandale",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073461,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

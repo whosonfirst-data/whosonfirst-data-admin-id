@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671995,
+        102072687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +47,11 @@
     "wof:geomhash":"414df0251c5b1cd43311e7723cd426ac",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209464711
+            "county_id":102072687,
+            "locality_id":1209464711,
+            "region_id":85671995
         }
     ],
     "wof:id":1209464711,
@@ -56,9 +62,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638335,
+    "wof:lastmodified":1614715284,
     "wof:name":"Ciakar",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072687,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

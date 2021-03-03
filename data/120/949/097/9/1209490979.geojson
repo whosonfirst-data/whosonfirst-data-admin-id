@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672037,
+        102072777
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"12ee64dd0691e3fab6d0c3e5b5476700",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209490979
+            "county_id":102072777,
+            "locality_id":1209490979,
+            "region_id":85672037
         }
     ],
     "wof:id":1209490979,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638486,
+    "wof:lastmodified":1614716228,
     "wof:name":"Bira Dua",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072777,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

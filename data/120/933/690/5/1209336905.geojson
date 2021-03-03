@@ -35,7 +35,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672059,
+        102073009
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,8 +48,11 @@
     "wof:geomhash":"ebbf7b256eb34af5cf5fd8cb986e824d",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209336905
+            "county_id":102073009,
+            "locality_id":1209336905,
+            "region_id":85672059
         }
     ],
     "wof:id":1209336905,
@@ -57,9 +63,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638871,
+    "wof:lastmodified":1614717866,
     "wof:name":"Ulakmakani",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073009,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

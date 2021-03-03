@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672027,
+        102073063
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"53ba5d30efb89ee9faa9a911d001577e",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209411811
+            "county_id":102073063,
+            "locality_id":1209411811,
+            "region_id":85672027
         }
     ],
     "wof:id":1209411811,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638365,
+    "wof:lastmodified":1614718277,
     "wof:name":"Sacan",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073063,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

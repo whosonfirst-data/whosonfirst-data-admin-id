@@ -32,7 +32,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102072857
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,8 +45,11 @@
     "wof:geomhash":"d5f3d97ffcc74f73069b23fab42d8d4f",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209606389
+            "county_id":102072857,
+            "locality_id":1209606389,
+            "region_id":85671987
         }
     ],
     "wof:id":1209606389,
@@ -54,9 +60,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652234,
+    "wof:lastmodified":1614716871,
     "wof:name":"Tempuran",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072857,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

@@ -40,7 +40,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672077,
+        1108796919
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,8 +53,11 @@
     "wof:geomhash":"b8967340e238304b3d4b42c4cdab7bba",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209658353
+            "county_id":1108796919,
+            "locality_id":1209658353,
+            "region_id":85672077
         }
     ],
     "wof:id":1209658353,
@@ -62,9 +68,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638051,
+    "wof:lastmodified":1614722868,
     "wof:name":"Gunung",
-    "wof:parent_id":85632203,
+    "wof:parent_id":1108796919,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

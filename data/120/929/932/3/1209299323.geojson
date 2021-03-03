@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672027,
+        102073157
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +47,11 @@
     "wof:geomhash":"57265f1e6823579a9a56fadd53ec517e",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209299323
+            "county_id":102073157,
+            "locality_id":1209299323,
+            "region_id":85672027
         }
     ],
     "wof:id":1209299323,
@@ -56,9 +62,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638925,
+    "wof:lastmodified":1614718879,
     "wof:name":"Lumbang",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073157,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

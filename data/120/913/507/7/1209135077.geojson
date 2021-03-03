@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672081,
+        1108796951
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"70e82462c44f43700d247098d0daf8a9",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209135077
+            "county_id":1108796951,
+            "locality_id":1209135077,
+            "region_id":85672081
         }
     ],
     "wof:id":1209135077,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638535,
+    "wof:lastmodified":1614722978,
     "wof:name":"Batutajam",
-    "wof:parent_id":85632203,
+    "wof:parent_id":1108796951,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

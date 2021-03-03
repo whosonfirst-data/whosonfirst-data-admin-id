@@ -30,7 +30,10 @@
         "Bukide"
     ],
     "src:geom":"geonames",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632203
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6923798
@@ -39,8 +42,8 @@
     "wof:geomhash":"155700697c95017181b03a56c7846cb1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191569,
+            "country_id":85632203,
             "locality_id":1309739343,
             "region_id":-1
         }
@@ -53,7 +56,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614641988,
+    "wof:lastmodified":1614728020,
     "wof:name":"Bukide",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

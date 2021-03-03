@@ -35,7 +35,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671973,
+        102073353
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,8 +48,11 @@
     "wof:geomhash":"357d0bf705346c266e45bae2731072ee",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209529311
+            "county_id":102073353,
+            "locality_id":1209529311,
+            "region_id":85671973
         }
     ],
     "wof:id":1209529311,
@@ -57,9 +63,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638241,
+    "wof:lastmodified":1614720396,
     "wof:name":"Lhotimon",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073353,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

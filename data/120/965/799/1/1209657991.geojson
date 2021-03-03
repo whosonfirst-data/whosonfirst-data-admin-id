@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672041,
+        102073433
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"34e7cb9993b164e66104b9df440121c1",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209657991
+            "county_id":102073433,
+            "locality_id":1209657991,
+            "region_id":85672041
         }
     ],
     "wof:id":1209657991,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638049,
+    "wof:lastmodified":1614721047,
     "wof:name":"Arasoe",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073433,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

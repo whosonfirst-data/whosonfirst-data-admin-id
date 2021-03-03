@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672023,
+        102072703
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"c616181dcd6875c77d5f00aa33d50a1e",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209523615
+            "county_id":102072703,
+            "locality_id":1209523615,
+            "region_id":85672023
         }
     ],
     "wof:id":1209523615,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652022,
+    "wof:lastmodified":1614715386,
     "wof:name":"Banjar Swalegiri",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072703,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

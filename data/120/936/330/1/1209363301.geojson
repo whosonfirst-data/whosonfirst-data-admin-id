@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671995,
+        102073479
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"d732f49093d0502de62ea71120e3f831",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209363301
+            "county_id":102073479,
+            "locality_id":1209363301,
+            "region_id":85671995
         }
     ],
     "wof:id":1209363301,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614651901,
+    "wof:lastmodified":1614721436,
     "wof:name":"Kubanglaban",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073479,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

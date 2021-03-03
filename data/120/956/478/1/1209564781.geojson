@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671983,
+        102073245
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"cb66c0f83f17382a4113eaa43dcd78b6",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209564781
+            "county_id":102073245,
+            "locality_id":1209564781,
+            "region_id":85671983
         }
     ],
     "wof:id":1209564781,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638775,
+    "wof:lastmodified":1614719705,
     "wof:name":"Karangsalam",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073245,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

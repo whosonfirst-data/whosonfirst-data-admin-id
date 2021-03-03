@@ -37,7 +37,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102073309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,8 +50,11 @@
     "wof:geomhash":"0306ba726cdae3e79004bfd9431846cc",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209305545
+            "county_id":102073309,
+            "locality_id":1209305545,
+            "region_id":85671987
         }
     ],
     "wof:id":1209305545,
@@ -59,9 +65,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638154,
+    "wof:lastmodified":1614720203,
     "wof:name":"Ledok",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073309,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

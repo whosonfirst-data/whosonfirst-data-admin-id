@@ -64,7 +64,7 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -74,8 +74,10 @@
     "wof:geomhash":"83684e700c6189d53935a3719fdf9b40",
     "wof:hierarchy":[
         {
-            "country_id":85632203,
-            "locality_id":1209373687
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1209373687,
+            "region_id":-1
         }
     ],
     "wof:id":1209373687,
@@ -86,9 +88,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638181,
+    "wof:lastmodified":1614726321,
     "wof:name":"Tondo",
-    "wof:parent_id":85632203,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

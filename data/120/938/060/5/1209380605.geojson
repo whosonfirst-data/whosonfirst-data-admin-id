@@ -79,7 +79,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672037,
+        1108796853
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -89,8 +92,11 @@
     "wof:geomhash":"f40ef42d763490dbf7506edc7c7ff434",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209380605
+            "county_id":1108796853,
+            "locality_id":1209380605,
+            "region_id":85672037
         }
     ],
     "wof:id":1209380605,
@@ -101,9 +107,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638015,
+    "wof:lastmodified":1614722663,
     "wof:name":"Baka",
-    "wof:parent_id":85632203,
+    "wof:parent_id":1108796853,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

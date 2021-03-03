@@ -30,7 +30,10 @@
         "Losari"
     ],
     "src:geom":"geonames",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632203
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7061329
@@ -39,8 +42,8 @@
     "wof:geomhash":"6bfb5e5eeac5f721aaed5bdcd10bae43",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191569,
+            "country_id":85632203,
             "locality_id":1326468961,
             "region_id":-1
         }
@@ -53,7 +56,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614650039,
+    "wof:lastmodified":1614727505,
     "wof:name":"Losari",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

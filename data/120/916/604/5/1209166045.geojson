@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672077,
+        1108796911
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"c5fb0f35abc8b28c83ea6d43625dc3b3",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209166045
+            "county_id":1108796911,
+            "locality_id":1209166045,
+            "region_id":85672077
         }
     ],
     "wof:id":1209166045,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638902,
+    "wof:lastmodified":1614722858,
     "wof:name":"Sedulur",
-    "wof:parent_id":85632203,
+    "wof:parent_id":1108796911,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

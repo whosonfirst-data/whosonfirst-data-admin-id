@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102072707
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"b27e03f461e9000699fe740479d22903",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209435725
+            "county_id":102072707,
+            "locality_id":1209435725,
+            "region_id":85671987
         }
     ],
     "wof:id":1209435725,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652382,
+    "wof:lastmodified":1614715499,
     "wof:name":"Jambean",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072707,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

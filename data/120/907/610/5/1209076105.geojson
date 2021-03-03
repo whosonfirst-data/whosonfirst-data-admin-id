@@ -43,7 +43,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672009,
+        1108796809
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,8 +56,11 @@
     "wof:geomhash":"5d8e28c290357f957e3b4e3327e158a7",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209076105
+            "county_id":1108796809,
+            "locality_id":1209076105,
+            "region_id":85672009
         }
     ],
     "wof:id":1209076105,
@@ -65,9 +71,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638017,
+    "wof:lastmodified":1614722477,
     "wof:name":"Banding",
-    "wof:parent_id":85632203,
+    "wof:parent_id":1108796809,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

@@ -24,12 +24,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        102020889,
+        102072621,
+        85671983
+    ],
     "wof:breaches":[],
     "wof:country":"ID",
     "wof:created":1613158629,
     "wof:geomhash":"63b18025db52f51c4bf0c10568643397",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102072621,
+            "locality_id":102020889,
+            "neighbourhood_id":1729802085,
+            "region_id":85671983
+        }
+    ],
     "wof:id":1729802085,
     "wof:lang_x_official":[
         "ind"
@@ -38,9 +53,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1613179639,
+    "wof:lastmodified":1614723411,
     "wof:name":"Harapan Baru",
-    "wof:parent_id":-1,
+    "wof:parent_id":102020889,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

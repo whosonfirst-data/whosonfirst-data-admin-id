@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672077,
+        1108796909
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +47,11 @@
     "wof:geomhash":"3c257d20532f4aab3909c283981ec0f7",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209654133
+            "county_id":1108796909,
+            "locality_id":1209654133,
+            "region_id":85672077
         }
     ],
     "wof:id":1209654133,
@@ -56,9 +62,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638050,
+    "wof:lastmodified":1614722846,
     "wof:name":"Bencahgaharu",
-    "wof:parent_id":85632203,
+    "wof:parent_id":1108796909,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

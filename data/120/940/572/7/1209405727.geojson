@@ -31,6 +31,7 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191569,
         85632203
     ],
     "wof:breaches":[],
@@ -41,8 +42,10 @@
     "wof:geomhash":"ac174334ac8620502d42a1ce8c4bc4fc",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209405727
+            "locality_id":1209405727,
+            "region_id":-1
         }
     ],
     "wof:id":1209405727,
@@ -53,9 +56,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638416,
+    "wof:lastmodified":1614726591,
     "wof:name":"Babalan",
-    "wof:parent_id":85632203,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671983,
+        102073411
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"debfbb7532b15194b3d5d6cf7beb2195",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209056297
+            "county_id":102073411,
+            "locality_id":1209056297,
+            "region_id":85671983
         }
     ],
     "wof:id":1209056297,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652256,
+    "wof:lastmodified":1614720889,
     "wof:name":"Cilibende",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073411,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

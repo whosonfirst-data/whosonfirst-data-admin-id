@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672103,
+        102072655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"f84165af3cf0bd4787b51e37aa4ebe52",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209692127
+            "county_id":102072655,
+            "locality_id":1209692127,
+            "region_id":85672103
         }
     ],
     "wof:id":1209692127,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638804,
+    "wof:lastmodified":1614715153,
     "wof:name":"Boak B",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072655,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

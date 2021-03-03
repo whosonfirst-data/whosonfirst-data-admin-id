@@ -28,7 +28,10 @@
     "mz:min_zoom":13.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672093,
+        102072863
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,8 +41,11 @@
     "wof:geomhash":"b72ae3a5f559a2cfa36837bc52872303",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209603925
+            "county_id":102072863,
+            "locality_id":1209603925,
+            "region_id":85672093
         }
     ],
     "wof:id":1209603925,
@@ -50,9 +56,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652227,
+    "wof:lastmodified":1614716928,
     "wof:name":"Napan",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072863,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

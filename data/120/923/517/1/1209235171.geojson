@@ -175,7 +175,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102072587
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -185,8 +188,11 @@
     "wof:geomhash":"bd38f7aebeee5989254f04ebfbc037dd",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209235171
+            "county_id":102072587,
+            "locality_id":1209235171,
+            "region_id":85671987
         }
     ],
     "wof:id":1209235171,
@@ -197,9 +203,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652090,
+    "wof:lastmodified":1614714646,
     "wof:name":"Depok",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072587,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

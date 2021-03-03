@@ -60,7 +60,11 @@
     "src:geom_alt":[],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
-        102020439
+        102191569,
+        85632203,
+        102020437,
+        102072841,
+        85672001
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -72,20 +76,21 @@
     "wof:geomhash":"15bc5fd3a41edf1b83440e5a798d8f97",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
-            "locality_id":102020439,
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102072841,
+            "locality_id":102020437,
             "neighbourhood_id":85783723,
-            "region_id":-1
+            "region_id":85672001
         }
     ],
     "wof:id":85783723,
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1613151817,
+    "wof:lastmodified":1614744982,
     "wof:name":"Kembang",
-    "wof:parent_id":102020439,
+    "wof:parent_id":102020437,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

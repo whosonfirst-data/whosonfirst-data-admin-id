@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672105,
+        102072793
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"d4e44082b23e6a9b0f1dc937a0e83b9f",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209473281
+            "county_id":102072793,
+            "locality_id":1209473281,
+            "region_id":85672105
         }
     ],
     "wof:id":1209473281,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638457,
+    "wof:lastmodified":1614716290,
     "wof:name":"Kangkele",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072793,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

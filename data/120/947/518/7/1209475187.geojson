@@ -43,7 +43,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671983,
+        102073515
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,8 +56,11 @@
     "wof:geomhash":"8f49741c858d940425af302328efc30d",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209475187
+            "county_id":102073515,
+            "locality_id":1209475187,
+            "region_id":85671983
         }
     ],
     "wof:id":1209475187,
@@ -65,9 +71,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638448,
+    "wof:lastmodified":1614721775,
     "wof:name":"Koja",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073515,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

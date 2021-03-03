@@ -35,7 +35,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672115,
+        102072959
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,8 +48,11 @@
     "wof:geomhash":"6146142f88f5c7637e9b5b81ec649364",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209354765
+            "county_id":102072959,
+            "locality_id":1209354765,
+            "region_id":85672115
         }
     ],
     "wof:id":1209354765,
@@ -57,9 +63,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638676,
+    "wof:lastmodified":1614717599,
     "wof:name":"Muflaer",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072959,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672027,
+        102073375
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"8427aac570ea22902f206a3b92ea49a3",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209204995
+            "county_id":102073375,
+            "locality_id":1209204995,
+            "region_id":85672027
         }
     ],
     "wof:id":1209204995,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652300,
+    "wof:lastmodified":1614720645,
     "wof:name":"Pandean",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073375,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

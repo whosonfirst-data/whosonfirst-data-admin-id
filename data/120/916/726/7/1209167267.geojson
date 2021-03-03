@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672115,
+        1108796879
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +47,11 @@
     "wof:geomhash":"41fa70e6afa0b40145c2e1bdbf5bace7",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209167267
+            "county_id":1108796879,
+            "locality_id":1209167267,
+            "region_id":85672115
         }
     ],
     "wof:id":1209167267,
@@ -56,9 +62,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638916,
+    "wof:lastmodified":1614722784,
     "wof:name":"Yauta",
-    "wof:parent_id":85632203,
+    "wof:parent_id":1108796879,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

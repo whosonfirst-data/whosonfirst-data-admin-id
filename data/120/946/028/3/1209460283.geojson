@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671995,
+        102073281
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"37c1eb2467004b82d02c44616269794c",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209460283
+            "county_id":102073281,
+            "locality_id":1209460283,
+            "region_id":85671995
         }
     ],
     "wof:id":1209460283,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652068,
+    "wof:lastmodified":1614719986,
     "wof:name":"Kampungbaru Satu",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073281,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

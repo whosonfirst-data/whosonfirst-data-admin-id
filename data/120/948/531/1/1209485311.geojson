@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672009,
+        102072869
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"c43b7a5f004e860df8e616e2a002d941",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209485311
+            "county_id":102072869,
+            "locality_id":1209485311,
+            "region_id":85672009
         }
     ],
     "wof:id":1209485311,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652029,
+    "wof:lastmodified":1614716938,
     "wof:name":"Kebonbaru",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072869,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

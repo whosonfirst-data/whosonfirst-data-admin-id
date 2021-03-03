@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672041,
+        102073037
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"9355242edc6d46dc1e1ecb5fa7aa0c87",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209147619
+            "county_id":102073037,
+            "locality_id":1209147619,
+            "region_id":85672041
         }
     ],
     "wof:id":1209147619,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638541,
+    "wof:lastmodified":1614718073,
     "wof:name":"Tamarunang",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073037,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

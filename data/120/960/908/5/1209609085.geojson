@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102072929
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"662b8caf9b640967a8260673728fe1a4",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209609085
+            "county_id":102072929,
+            "locality_id":1209609085,
+            "region_id":85671987
         }
     ],
     "wof:id":1209609085,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638741,
+    "wof:lastmodified":1614717253,
     "wof:name":"Ngoncol",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072929,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

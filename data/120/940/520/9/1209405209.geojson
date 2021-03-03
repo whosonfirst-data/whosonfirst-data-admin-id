@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672027,
+        102073533
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +47,11 @@
     "wof:geomhash":"11bdc32e717524b8021185f3adff3791",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209405209
+            "county_id":102073533,
+            "locality_id":1209405209,
+            "region_id":85672027
         }
     ],
     "wof:id":1209405209,
@@ -56,9 +62,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652104,
+    "wof:lastmodified":1614722090,
     "wof:name":"Jayan",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073533,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

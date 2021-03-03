@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672103,
+        102072705
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"29b886232c0ec19d42b407b5a07745e4",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209478607
+            "county_id":102072705,
+            "locality_id":1209478607,
+            "region_id":85672103
         }
     ],
     "wof:id":1209478607,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638445,
+    "wof:lastmodified":1614715441,
     "wof:name":"Penyaya",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072705,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

@@ -115,9 +115,7 @@
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
     "wof:belongs_to":[],
-    "wof:belongsto":[
-        85632203
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1640043,
@@ -128,8 +126,10 @@
     "wof:geomhash":"eef62015738b749f98b63dd4d5b1a2cd",
     "wof:hierarchy":[
         {
-            "country_id":85632203,
-            "locality_id":102020169
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":102020169,
+            "region_id":-1
         }
     ],
     "wof:id":102020169,
@@ -140,7 +140,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1613173678,
+    "wof:lastmodified":1614713319,
     "wof:name":"Pulau Kijang",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

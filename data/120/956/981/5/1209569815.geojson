@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672073,
+        102072713
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"5a150c283f8dfd8a8aac40916183a28f",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209569815
+            "county_id":102072713,
+            "locality_id":1209569815,
+            "region_id":85672073
         }
     ],
     "wof:id":1209569815,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652247,
+    "wof:lastmodified":1614715664,
     "wof:name":"Hutaimbaru",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072713,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

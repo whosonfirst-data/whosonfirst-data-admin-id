@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672037,
+        102073355
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"d41e27ad39b929a10632f0f789ae6172",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209176981
+            "county_id":102073355,
+            "locality_id":1209176981,
+            "region_id":85672037
         }
     ],
     "wof:id":1209176981,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614639133,
+    "wof:lastmodified":1614720411,
     "wof:name":"Kosamodanon",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073355,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

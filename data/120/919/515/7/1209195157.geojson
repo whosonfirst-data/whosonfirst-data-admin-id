@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672005,
+        102073007
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"3f46bc9e07806c3fc5bfbaa828bddd09",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209195157
+            "county_id":102073007,
+            "locality_id":1209195157,
+            "region_id":85672005
         }
     ],
     "wof:id":1209195157,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614639092,
+    "wof:lastmodified":1614717861,
     "wof:name":"Sekadong",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073007,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

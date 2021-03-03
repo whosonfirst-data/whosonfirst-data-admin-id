@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671983,
+        102072739
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"37df7a0228d76bf67b7b7cc8ea45e416",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209464881
+            "county_id":102072739,
+            "locality_id":1209464881,
+            "region_id":85671983
         }
     ],
     "wof:id":1209464881,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652067,
+    "wof:lastmodified":1614715932,
     "wof:name":"Kiarapanda",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072739,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

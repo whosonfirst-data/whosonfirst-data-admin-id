@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671983,
+        102072855
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +47,11 @@
     "wof:geomhash":"80eb5fa28669976d83ba50e3bd1d93b5",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209464863
+            "county_id":102072855,
+            "locality_id":1209464863,
+            "region_id":85671983
         }
     ],
     "wof:id":1209464863,
@@ -56,9 +62,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638351,
+    "wof:lastmodified":1614716745,
     "wof:name":"Cisarua",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072855,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

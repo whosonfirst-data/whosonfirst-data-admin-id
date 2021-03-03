@@ -35,7 +35,11 @@
     ],
     "src:population":"geonames",
     "wof:belongsto":[
-        102020439
+        102191569,
+        85632203,
+        102020437,
+        102072841,
+        85672001
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,11 +55,12 @@
     "wof:geomhash":"c228478e08047bdbebbe502350ffeb47",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
-            "locality_id":102020439,
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102072841,
+            "locality_id":102020437,
             "neighbourhood_id":890498783,
-            "region_id":-1
+            "region_id":85672001
         }
     ],
     "wof:id":890498783,
@@ -66,9 +71,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1613182651,
+    "wof:lastmodified":1614744889,
     "wof:name":"Sukabumi Selatan",
-    "wof:parent_id":102020439,
+    "wof:parent_id":102020437,
     "wof:placetype":"neighbourhood",
     "wof:population":0,
     "wof:repo":"whosonfirst-data-admin-id",

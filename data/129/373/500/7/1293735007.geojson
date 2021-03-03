@@ -31,7 +31,10 @@
         "Koiseer"
     ],
     "src:geom":"geonames",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632203
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1900133
@@ -40,8 +43,8 @@
     "wof:geomhash":"a9163f19af29e914094b27b243eafea4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191569,
+            "country_id":85632203,
             "locality_id":1293735007,
             "region_id":-1
         }
@@ -54,7 +57,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614651174,
+    "wof:lastmodified":1614735586,
     "wof:name":"Koiseer",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -28,7 +28,10 @@
     "mz:min_zoom":13.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672087,
+        102073317
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,8 +41,11 @@
     "wof:geomhash":"86a0794de91b72a6acad497f73493685",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209383047
+            "county_id":102073317,
+            "locality_id":1209383047,
+            "region_id":85672087
         }
     ],
     "wof:id":1209383047,
@@ -50,9 +56,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614651917,
+    "wof:lastmodified":1614720277,
     "wof:name":"Sinapa Piliang",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073317,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

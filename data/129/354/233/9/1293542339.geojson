@@ -33,7 +33,10 @@
         "Poraoka"
     ],
     "src:geom":"geonames",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632203
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1630749
@@ -42,8 +45,8 @@
     "wof:geomhash":"c45738bb054f5eaeabd3ef03224ae190",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191569,
+            "country_id":85632203,
             "locality_id":1293542339,
             "region_id":-1
         }
@@ -56,7 +59,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614635319,
+    "wof:lastmodified":1614730338,
     "wof:name":"Poraoka",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672027,
+        102072747
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"721840ebfd625ddc11ba0d7e76664b20",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209499969
+            "county_id":102072747,
+            "locality_id":1209499969,
+            "region_id":85672027
         }
     ],
     "wof:id":1209499969,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638484,
+    "wof:lastmodified":1614715991,
     "wof:name":"Kedungkajar",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072747,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

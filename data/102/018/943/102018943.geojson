@@ -139,8 +139,7 @@
     "src:lbl:centroid":"mapshaper",
     "wd:wordcount":953,
     "wof:belongsto":[
-        102191569,
-        85632203
+        102191569
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -157,8 +156,9 @@
     "wof:hierarchy":[
         {
             "continent_id":102191569,
-            "country_id":85632203,
-            "locality_id":102018943
+            "country_id":-1,
+            "locality_id":102018943,
+            "region_id":-1
         }
     ],
     "wof:id":102018943,
@@ -169,7 +169,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1613173723,
+    "wof:lastmodified":1614712804,
     "wof:name":"Sumalata",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

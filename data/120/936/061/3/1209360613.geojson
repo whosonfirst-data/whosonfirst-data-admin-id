@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671983,
+        102072855
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"e1a3b89d3e1fcfe45eae5017d97e24ec",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209360613
+            "county_id":102072855,
+            "locality_id":1209360613,
+            "region_id":85671983
         }
     ],
     "wof:id":1209360613,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614637993,
+    "wof:lastmodified":1614716720,
     "wof:name":"Bojongtipar",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072855,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

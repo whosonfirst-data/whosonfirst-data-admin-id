@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671983,
+        102073359
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"f5ddf82dda69e102ebd2c0d3d7fa7256",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209464841
+            "county_id":102073359,
+            "locality_id":1209464841,
+            "region_id":85671983
         }
     ],
     "wof:id":1209464841,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638338,
+    "wof:lastmodified":1614720497,
     "wof:name":"Hanjuang",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073359,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672041,
+        102073199
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"11bad31f8b432ac4281a961765ba32e0",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209558067
+            "county_id":102073199,
+            "locality_id":1209558067,
+            "region_id":85672041
         }
     ],
     "wof:id":1209558067,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638261,
+    "wof:lastmodified":1614719194,
     "wof:name":"Katapang",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073199,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

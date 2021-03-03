@@ -40,7 +40,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672041,
+        102072633
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,8 +53,11 @@
     "wof:geomhash":"db3bb3f76d7116101d0388ce654beffc",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209653827
+            "county_id":102072633,
+            "locality_id":1209653827,
+            "region_id":85672041
         }
     ],
     "wof:id":1209653827,
@@ -62,9 +68,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638053,
+    "wof:lastmodified":1614714968,
     "wof:name":"Lero",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072633,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

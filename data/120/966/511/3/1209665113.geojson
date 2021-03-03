@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671983,
+        102073295
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"d8cba323f1f3c453a6aa1053bf691037",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209665113
+            "county_id":102073295,
+            "locality_id":1209665113,
+            "region_id":85671983
         }
     ],
     "wof:id":1209665113,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652184,
+    "wof:lastmodified":1614720041,
     "wof:name":"Sukamenak",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073295,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

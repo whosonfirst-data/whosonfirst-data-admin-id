@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672041,
+        102073549
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"05e40227de1ff249303e7c4f392ce032",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209453517
+            "county_id":102073549,
+            "locality_id":1209453517,
+            "region_id":85672041
         }
     ],
     "wof:id":1209453517,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614639054,
+    "wof:lastmodified":1614722154,
     "wof:name":"Lanitilabuaja",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073549,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

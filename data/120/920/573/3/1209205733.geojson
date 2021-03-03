@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102072639
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"0c81588c3ded8396797d16b3ab8221b7",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209205733
+            "county_id":102072639,
+            "locality_id":1209205733,
+            "region_id":85671987
         }
     ],
     "wof:id":1209205733,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638940,
+    "wof:lastmodified":1614715010,
     "wof:name":"Mrentul",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072639,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

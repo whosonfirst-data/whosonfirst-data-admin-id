@@ -33,7 +33,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671983,
+        102072949
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +46,11 @@
     "wof:geomhash":"e4b702335356ab8d1e5f2fa71c107b3a",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209264109
+            "county_id":102072949,
+            "locality_id":1209264109,
+            "region_id":85671983
         }
     ],
     "wof:id":1209264109,
@@ -55,9 +61,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614639070,
+    "wof:lastmodified":1614717505,
     "wof:name":"Cikyara",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072949,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

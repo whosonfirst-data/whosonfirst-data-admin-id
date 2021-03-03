@@ -37,9 +37,7 @@
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
     "wof:belongs_to":[],
-    "wof:belongsto":[
-        85632203
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6751279,
@@ -49,8 +47,10 @@
     "wof:geomhash":"036b00d7024b87a8930ab582261621e3",
     "wof:hierarchy":[
         {
-            "country_id":85632203,
-            "locality_id":102021887
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":102021887,
+            "region_id":-1
         }
     ],
     "wof:id":102021887,
@@ -61,7 +61,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1613173772,
+    "wof:lastmodified":1614714263,
     "wof:name":"Desa Jatibening",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -28,7 +28,10 @@
     "mz:min_zoom":13.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102072733
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,8 +41,11 @@
     "wof:geomhash":"b9729017d5db01a6b1cb78bcd693370b",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209635959
+            "county_id":102072733,
+            "locality_id":1209635959,
+            "region_id":85671987
         }
     ],
     "wof:id":1209635959,
@@ -50,9 +56,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614651991,
+    "wof:lastmodified":1614715815,
     "wof:name":"Malangganten",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072733,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

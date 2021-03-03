@@ -30,7 +30,10 @@
         "Juppai"
     ],
     "src:geom":"geonames",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632203
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7061115
@@ -39,8 +42,8 @@
     "wof:geomhash":"6b0d319026e86e3d1f6c0edf2be7c48d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191569,
+            "country_id":85632203,
             "locality_id":1209955283,
             "region_id":-1
         }
@@ -53,7 +56,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638610,
+    "wof:lastmodified":1614734941,
     "wof:name":"Juppai",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

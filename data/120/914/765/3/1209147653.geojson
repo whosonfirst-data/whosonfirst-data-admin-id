@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672041,
+        102073269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"8944cfa0b5733c43dd68f0890bc1f61c",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209147653
+            "county_id":102073269,
+            "locality_id":1209147653,
+            "region_id":85672041
         }
     ],
     "wof:id":1209147653,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652149,
+    "wof:lastmodified":1614719947,
     "wof:name":"Tinco",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073269,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

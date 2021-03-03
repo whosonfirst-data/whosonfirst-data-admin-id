@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672027,
+        102073487
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"d1d03ea6b85cf4a30d24462e8c56babb",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209304609
+            "county_id":102073487,
+            "locality_id":1209304609,
+            "region_id":85672027
         }
     ],
     "wof:id":1209304609,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614651980,
+    "wof:lastmodified":1614721587,
     "wof:name":"Puhgunung",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073487,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

@@ -49,7 +49,7 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,8 +59,10 @@
     "wof:geomhash":"07224adc158d36607ff6a1db34014be3",
     "wof:hierarchy":[
         {
-            "country_id":85632203,
-            "locality_id":1209650767
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1209650767,
+            "region_id":-1
         }
     ],
     "wof:id":1209650767,
@@ -71,9 +73,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638051,
+    "wof:lastmodified":1614726836,
     "wof:name":"Babo",
-    "wof:parent_id":85632203,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

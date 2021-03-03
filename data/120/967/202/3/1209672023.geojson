@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672073,
+        1108796975
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"8e5dd45f946d897c6d81fc8cf4b1dd19",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209672023
+            "county_id":1108796975,
+            "locality_id":1209672023,
+            "region_id":85672073
         }
     ],
     "wof:id":1209672023,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652212,
+    "wof:lastmodified":1614723025,
     "wof:name":"Sungaisuka",
-    "wof:parent_id":85632203,
+    "wof:parent_id":1108796975,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

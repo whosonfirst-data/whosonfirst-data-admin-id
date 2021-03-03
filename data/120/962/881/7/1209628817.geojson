@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671973,
+        102073301
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"dd9d8e4484c7e4b73630e54981dfcb5c",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209628817
+            "county_id":102073301,
+            "locality_id":1209628817,
+            "region_id":85671973
         }
     ],
     "wof:id":1209628817,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638095,
+    "wof:lastmodified":1614720121,
     "wof:name":"Kulam Jeureuneh",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073301,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

@@ -37,9 +37,7 @@
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
     "wof:belongs_to":[],
-    "wof:belongsto":[
-        85632203
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7664896,
@@ -49,8 +47,10 @@
     "wof:geomhash":"976298f0d7958e2262ca5b2a0aebe2ed",
     "wof:hierarchy":[
         {
-            "country_id":85632203,
-            "locality_id":102022343
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":102022343,
+            "region_id":-1
         }
     ],
     "wof:id":102022343,
@@ -61,7 +61,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1613173652,
+    "wof:lastmodified":1614714453,
     "wof:name":"Kecamatan Batanghari",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

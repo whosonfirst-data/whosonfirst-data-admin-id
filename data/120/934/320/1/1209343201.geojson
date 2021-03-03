@@ -28,7 +28,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672067,
+        102072725
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,8 +41,11 @@
     "wof:geomhash":"9de0814f3ef1de6e02629a8e25b6e4f0",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209343201
+            "county_id":102072725,
+            "locality_id":1209343201,
+            "region_id":85672067
         }
     ],
     "wof:id":1209343201,
@@ -50,9 +56,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638861,
+    "wof:lastmodified":1614715762,
     "wof:name":"Maldan",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072725,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

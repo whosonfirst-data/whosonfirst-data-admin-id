@@ -24,12 +24,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        102018911,
+        102073397,
+        85672027
+    ],
     "wof:breaches":[],
     "wof:country":"ID",
     "wof:created":1613065455,
     "wof:geomhash":"026e053b396f2fbf84e7d13f26390ac2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102073397,
+            "locality_id":102018911,
+            "neighbourhood_id":1729797683,
+            "region_id":85672027
+        }
+    ],
     "wof:id":1729797683,
     "wof:lang_x_official":[
         "ind"
@@ -38,9 +53,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1613179616,
+    "wof:lastmodified":1614723148,
     "wof:name":"Kedung Baruk",
-    "wof:parent_id":-1,
+    "wof:parent_id":102018911,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

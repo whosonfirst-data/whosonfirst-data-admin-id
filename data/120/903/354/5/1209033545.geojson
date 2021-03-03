@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672045,
+        102073105
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"8dc23d036acda57afa9a592a3a2a2803",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209033545
+            "county_id":102073105,
+            "locality_id":1209033545,
+            "region_id":85672045
         }
     ],
     "wof:id":1209033545,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638682,
+    "wof:lastmodified":1614718497,
     "wof:name":"Kalukaluku",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073105,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

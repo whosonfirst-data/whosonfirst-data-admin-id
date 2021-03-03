@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672027,
+        102073487
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"d999d3f0fdb4d9f43770a8d2b6f220c0",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209096595
+            "county_id":102073487,
+            "locality_id":1209096595,
+            "region_id":85672027
         }
     ],
     "wof:id":1209096595,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614637954,
+    "wof:lastmodified":1614721601,
     "wof:name":"Klampisan",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073487,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

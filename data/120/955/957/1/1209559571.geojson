@@ -36,7 +36,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672115,
+        1108796871
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,8 +49,11 @@
     "wof:geomhash":"48dd372527520b67ce0cddaaf5edcbf4",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209559571
+            "county_id":1108796871,
+            "locality_id":1209559571,
+            "region_id":85672115
         }
     ],
     "wof:id":1209559571,
@@ -58,9 +64,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652027,
+    "wof:lastmodified":1614722774,
     "wof:name":"Boruku",
-    "wof:parent_id":85632203,
+    "wof:parent_id":1108796871,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671983,
+        102073295
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"62db3a1522e7c2dba33a36481ee8e026",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209575789
+            "county_id":102073295,
+            "locality_id":1209575789,
+            "region_id":85671983
         }
     ],
     "wof:id":1209575789,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638593,
+    "wof:lastmodified":1614720018,
     "wof:name":"Cibeureum",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073295,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

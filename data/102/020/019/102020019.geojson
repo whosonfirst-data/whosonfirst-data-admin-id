@@ -64,9 +64,7 @@
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
     "wof:belongs_to":[],
-    "wof:belongsto":[
-        85632203
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1638501,
@@ -78,8 +76,10 @@
     "wof:geomhash":"2b0d994f827f40394da2fe8379f7414c",
     "wof:hierarchy":[
         {
-            "country_id":85632203,
-            "locality_id":102020019
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":102020019,
+            "region_id":-1
         }
     ],
     "wof:id":102020019,
@@ -90,7 +90,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1613173694,
+    "wof:lastmodified":1614713259,
     "wof:name":"Pulau Pramuka",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

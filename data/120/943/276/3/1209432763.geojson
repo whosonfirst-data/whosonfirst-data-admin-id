@@ -33,7 +33,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672041,
+        1108796929
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +46,11 @@
     "wof:geomhash":"1b7206a64153924815d53f2dc70ce5f3",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209432763
+            "county_id":1108796929,
+            "locality_id":1209432763,
+            "region_id":85672041
         }
     ],
     "wof:id":1209432763,
@@ -55,9 +61,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614639179,
+    "wof:lastmodified":1614722904,
     "wof:name":"Dodonga",
-    "wof:parent_id":85632203,
+    "wof:parent_id":1108796929,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

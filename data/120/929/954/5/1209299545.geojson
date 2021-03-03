@@ -37,7 +37,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672027,
+        102072973
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,8 +50,11 @@
     "wof:geomhash":"e89535df87dc6246001a534c1b7c1e82",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209299545
+            "county_id":102072973,
+            "locality_id":1209299545,
+            "region_id":85672027
         }
     ],
     "wof:id":1209299545,
@@ -59,9 +65,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652292,
+    "wof:lastmodified":1614717628,
     "wof:name":"Kauman",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072973,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

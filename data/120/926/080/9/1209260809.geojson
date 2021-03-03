@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671983,
+        102073191
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"3e052b96858e91a4890c4576dd2019a2",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209260809
+            "county_id":102073191,
+            "locality_id":1209260809,
+            "region_id":85671983
         }
     ],
     "wof:id":1209260809,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652346,
+    "wof:lastmodified":1614719130,
     "wof:name":"Citapen",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073191,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

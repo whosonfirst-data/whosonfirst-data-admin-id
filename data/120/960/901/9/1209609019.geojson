@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102072639
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"f8947764e0be22d07f1e5f2041c381fe",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209609019
+            "county_id":102072639,
+            "locality_id":1209609019,
+            "region_id":85671987
         }
     ],
     "wof:id":1209609019,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652219,
+    "wof:lastmodified":1614715046,
     "wof:name":"Wonoresik",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072639,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

@@ -28,7 +28,10 @@
     "mz:min_zoom":13.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102073233
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,8 +41,11 @@
     "wof:geomhash":"7d6f13eab238b19b4f28b29b055acac9",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209235057
+            "county_id":102073233,
+            "locality_id":1209235057,
+            "region_id":85671987
         }
     ],
     "wof:id":1209235057,
@@ -50,9 +56,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652089,
+    "wof:lastmodified":1614719578,
     "wof:name":"Lodadi",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073233,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

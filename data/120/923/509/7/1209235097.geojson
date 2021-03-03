@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102072727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"02055e9f034dd95b2062e7a49a4c8b4d",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209235097
+            "county_id":102072727,
+            "locality_id":1209235097,
+            "region_id":85671987
         }
     ],
     "wof:id":1209235097,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652093,
+    "wof:lastmodified":1614715766,
     "wof:name":"Kaligarang",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072727,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

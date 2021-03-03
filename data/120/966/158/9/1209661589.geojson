@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671983,
+        102073217
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"a9440de3416433ff6ad2a3964a7917af",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209661589
+            "county_id":102073217,
+            "locality_id":1209661589,
+            "region_id":85671983
         }
     ],
     "wof:id":1209661589,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638630,
+    "wof:lastmodified":1614719414,
     "wof:name":"Pasirkandang",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073217,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

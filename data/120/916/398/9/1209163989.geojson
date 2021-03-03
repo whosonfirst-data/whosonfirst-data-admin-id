@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671983,
+        102073551
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"37f68789886e28490c2a9d6efc044972",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209163989
+            "county_id":102073551,
+            "locality_id":1209163989,
+            "region_id":85671983
         }
     ],
     "wof:id":1209163989,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638894,
+    "wof:lastmodified":1614722167,
     "wof:name":"Tanahgabus",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073551,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

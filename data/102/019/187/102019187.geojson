@@ -51,9 +51,7 @@
     "src:lbl:centroid":"mapshaper",
     "wd:wordcount":357,
     "wof:belongs_to":[],
-    "wof:belongsto":[
-        85632203
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1628673
@@ -62,8 +60,10 @@
     "wof:geomhash":"ec09660d8f3620507e269f65870d9e6b",
     "wof:hierarchy":[
         {
-            "country_id":85632203,
-            "locality_id":102019187
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":102019187,
+            "region_id":-1
         }
     ],
     "wof:id":102019187,
@@ -74,7 +74,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1613173750,
+    "wof:lastmodified":1614712907,
     "wof:name":"Sape",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

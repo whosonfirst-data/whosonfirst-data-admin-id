@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672073,
+        102072607
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"d424daa6df9cc0c2893d969542e6900c",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209271037
+            "county_id":102072607,
+            "locality_id":1209271037,
+            "region_id":85672073
         }
     ],
     "wof:id":1209271037,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638950,
+    "wof:lastmodified":1614714719,
     "wof:name":"Pondok Nagodang",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072607,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

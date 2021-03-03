@@ -37,7 +37,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672073,
+        102073263
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,8 +50,11 @@
     "wof:geomhash":"c82fb4dd7f9b5bb99b835f3c3d63ebf9",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209271089
+            "county_id":102073263,
+            "locality_id":1209271089,
+            "region_id":85672073
         }
     ],
     "wof:id":1209271089,
@@ -59,9 +65,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638961,
+    "wof:lastmodified":1614719864,
     "wof:name":"Kampung Baru",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073263,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

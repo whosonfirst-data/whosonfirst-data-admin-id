@@ -45,7 +45,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671983,
+        102072949
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,8 +58,11 @@
     "wof:geomhash":"48ce5d6be959f814e533c8ccb52c2a23",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209274495
+            "county_id":102072949,
+            "locality_id":1209274495,
+            "region_id":85671983
         }
     ],
     "wof:id":1209274495,
@@ -67,9 +73,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638953,
+    "wof:lastmodified":1614717497,
     "wof:name":"Talun",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072949,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

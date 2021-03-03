@@ -35,7 +35,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671995,
+        102073053
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,8 +48,11 @@
     "wof:geomhash":"707a54ec0f6ded36cd9f75c90cfdda13",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209669305
+            "county_id":102073053,
+            "locality_id":1209669305,
+            "region_id":85671995
         }
     ],
     "wof:id":1209669305,
@@ -57,9 +63,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652180,
+    "wof:lastmodified":1614718174,
     "wof:name":"Muruy",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073053,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

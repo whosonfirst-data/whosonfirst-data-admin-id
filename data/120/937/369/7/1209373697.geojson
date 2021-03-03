@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672111,
+        102073413
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"42e2edb9ff0ac43f5c1e7f28a8e994a8",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209373697
+            "county_id":102073413,
+            "locality_id":1209373697,
+            "region_id":85672111
         }
     ],
     "wof:id":1209373697,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638182,
+    "wof:lastmodified":1614720896,
     "wof:name":"Pulege",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073413,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

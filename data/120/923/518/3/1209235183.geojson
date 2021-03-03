@@ -40,7 +40,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102073119
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,8 +53,11 @@
     "wof:geomhash":"eb4e22c68b71ed51de9d4fe9743cdcfe",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209235183
+            "county_id":102073119,
+            "locality_id":1209235183,
+            "region_id":85671987
         }
     ],
     "wof:id":1209235183,
@@ -62,9 +68,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638400,
+    "wof:lastmodified":1614718603,
     "wof:name":"Wates",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073119,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

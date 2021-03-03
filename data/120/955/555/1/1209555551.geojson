@@ -160,7 +160,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672115,
+        102072939
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -170,8 +173,11 @@
     "wof:geomhash":"a2e95c4a12ad60ace193524d14c11c68",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209555551
+            "county_id":102072939,
+            "locality_id":1209555551,
+            "region_id":85672115
         }
     ],
     "wof:id":1209555551,
@@ -182,9 +188,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638259,
+    "wof:lastmodified":1614717365,
     "wof:name":"Polka",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072939,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

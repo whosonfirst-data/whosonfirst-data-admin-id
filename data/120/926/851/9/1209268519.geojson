@@ -32,7 +32,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671995,
+        102073053
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,8 +45,11 @@
     "wof:geomhash":"424a3f92952841be7977bc82d2bbe672",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209268519
+            "county_id":102073053,
+            "locality_id":1209268519,
+            "region_id":85671995
         }
     ],
     "wof:id":1209268519,
@@ -54,9 +60,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652344,
+    "wof:lastmodified":1614718162,
     "wof:name":"Cikondang",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073053,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

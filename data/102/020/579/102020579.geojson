@@ -34,9 +34,7 @@
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
     "wof:belongs_to":[],
-    "wof:belongsto":[
-        85632203
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1645513,
@@ -46,8 +44,10 @@
     "wof:geomhash":"3f57f34f37ba7d6a2975a80aa3b40584",
     "wof:hierarchy":[
         {
-            "country_id":85632203,
-            "locality_id":102020579
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":102020579,
+            "region_id":-1
         }
     ],
     "wof:id":102020579,
@@ -58,7 +58,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1613173700,
+    "wof:lastmodified":1614713511,
     "wof:name":"Pulau Derawan",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

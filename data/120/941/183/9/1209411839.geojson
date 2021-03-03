@@ -91,7 +91,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672027,
+        102072973
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -101,8 +104,11 @@
     "wof:geomhash":"fdac20833a0a5e0a69c258014f5947d9",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209411839
+            "county_id":102072973,
+            "locality_id":1209411839,
+            "region_id":85672027
         }
     ],
     "wof:id":1209411839,
@@ -113,9 +119,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652077,
+    "wof:lastmodified":1614717626,
     "wof:name":"Sale",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072973,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

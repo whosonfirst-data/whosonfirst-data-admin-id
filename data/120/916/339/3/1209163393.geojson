@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672013,
+        102073247
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"7b9030ad8ae0ea0007418681de985106",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209163393
+            "county_id":102073247,
+            "locality_id":1209163393,
+            "region_id":85672013
         }
     ],
     "wof:id":1209163393,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638895,
+    "wof:lastmodified":1614719798,
     "wof:name":"Talangsungailungga",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073247,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

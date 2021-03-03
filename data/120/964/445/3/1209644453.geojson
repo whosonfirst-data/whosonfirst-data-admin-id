@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672067,
+        1108796863
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +47,11 @@
     "wof:geomhash":"7b12ba36c66613398e3ad2b79158e3e2",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209644453
+            "county_id":1108796863,
+            "locality_id":1209644453,
+            "region_id":85672067
         }
     ],
     "wof:id":1209644453,
@@ -56,9 +62,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638241,
+    "wof:lastmodified":1614722757,
     "wof:name":"Sapokreng",
-    "wof:parent_id":85632203,
+    "wof:parent_id":1108796863,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

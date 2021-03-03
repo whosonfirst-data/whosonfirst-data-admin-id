@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672073,
+        102072711
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +47,11 @@
     "wof:geomhash":"c837f087ead0d229569567ffbcf8e047",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209281471
+            "county_id":102072711,
+            "locality_id":1209281471,
+            "region_id":85672073
         }
     ],
     "wof:id":1209281471,
@@ -56,9 +62,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614639143,
+    "wof:lastmodified":1614715624,
     "wof:name":"Ronggur Nihuta",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072711,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

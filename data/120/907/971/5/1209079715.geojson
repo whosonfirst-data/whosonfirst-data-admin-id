@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671977,
+        102072721
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"4887c02f691cedba8cb5b6402e66a948",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209079715
+            "county_id":102072721,
+            "locality_id":1209079715,
+            "region_id":85671977
         }
     ],
     "wof:id":1209079715,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638020,
+    "wof:lastmodified":1614715754,
     "wof:name":"Senaken",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072721,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

@@ -30,7 +30,10 @@
         "Kasilihang"
     ],
     "src:geom":"geonames",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632203
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6923372
@@ -39,8 +42,8 @@
     "wof:geomhash":"65fe02bc77252a5db4b5d9db7cd68bc5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191569,
+            "country_id":85632203,
             "locality_id":1326865479,
             "region_id":-1
         }
@@ -53,7 +56,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614632487,
+    "wof:lastmodified":1614728143,
     "wof:name":"Kasilihang",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

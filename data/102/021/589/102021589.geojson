@@ -74,8 +74,7 @@
     "src:lbl:centroid":"mapshaper",
     "wd:wordcount":173,
     "wof:belongsto":[
-        102191569,
-        85632203
+        102191569
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -92,8 +91,9 @@
     "wof:hierarchy":[
         {
             "continent_id":102191569,
-            "country_id":85632203,
-            "locality_id":102021589
+            "country_id":-1,
+            "locality_id":102021589,
+            "region_id":-1
         }
     ],
     "wof:id":102021589,
@@ -104,7 +104,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1613173779,
+    "wof:lastmodified":1614714139,
     "wof:name":"Senggigi",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

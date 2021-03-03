@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672037,
+        102072751
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"e85813c6a9d3a36782d50e0604eef441",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209290159
+            "county_id":102072751,
+            "locality_id":1209290159,
+            "region_id":85672037
         }
     ],
     "wof:id":1209290159,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638921,
+    "wof:lastmodified":1614716019,
     "wof:name":"Mnelakoto",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072751,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

@@ -254,11 +254,9 @@
     "src:lbl:centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        0,
+        102191569,
         85632203,
-        1108701743,
         85671995,
-        102073291,
         1108796785
     ],
     "wof:breaches":[],
@@ -278,16 +276,9 @@
     "wof:geomhash":"ec5a140626a2b94d84908095fb4dc577",
     "wof:hierarchy":[
         {
-            "continent_id":0,
+            "continent_id":102191569,
             "country_id":85632203,
-            "county_id":1108701743,
-            "locality_id":102018849,
-            "region_id":85671995
-        },
-        {
-            "continent_id":0,
-            "country_id":0,
-            "county_id":102073291,
+            "county_id":1108796785,
             "locality_id":102018849,
             "region_id":85671995
         }
@@ -300,7 +291,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1613173717,
+    "wof:lastmodified":1614712745,
     "wof:name":"Tangerang",
     "wof:parent_id":1108796785,
     "wof:placetype":"locality",

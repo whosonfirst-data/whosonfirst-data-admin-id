@@ -33,7 +33,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102072983
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +46,11 @@
     "wof:geomhash":"b92e7e1f9a79e7aa294951bcf6404762",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209324441
+            "county_id":102072983,
+            "locality_id":1209324441,
+            "region_id":85671987
         }
     ],
     "wof:id":1209324441,
@@ -55,9 +61,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652197,
+    "wof:lastmodified":1614717665,
     "wof:name":"Jatimalang",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072983,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

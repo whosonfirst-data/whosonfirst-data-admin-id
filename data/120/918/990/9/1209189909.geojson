@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672037,
+        102072803
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"f9c9fd8a666cf2aa2c33e694593e73a3",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209189909
+            "county_id":102072803,
+            "locality_id":1209189909,
+            "region_id":85672037
         }
     ],
     "wof:id":1209189909,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638969,
+    "wof:lastmodified":1614716309,
     "wof:name":"Waikudu",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072803,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672013,
+        102073409
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"556e950207541a73a773031cbe6174bc",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209048107
+            "county_id":102073409,
+            "locality_id":1209048107,
+            "region_id":85672013
         }
     ],
     "wof:id":1209048107,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638685,
+    "wof:lastmodified":1614720883,
     "wof:name":"Gunungagung",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073409,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

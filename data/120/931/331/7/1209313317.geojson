@@ -39,7 +39,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672059,
+        102072875
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,8 +52,11 @@
     "wof:geomhash":"5fc8772c223acfeeefe2d8c2ea631417",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209313317
+            "county_id":102072875,
+            "locality_id":1209313317,
+            "region_id":85672059
         }
     ],
     "wof:id":1209313317,
@@ -61,9 +67,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614637999,
+    "wof:lastmodified":1614716947,
     "wof:name":"Jebus",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072875,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

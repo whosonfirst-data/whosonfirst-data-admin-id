@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671983,
+        102073245
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +47,11 @@
     "wof:geomhash":"65e7c4c99fc6966cf9a038e4e9d8cc6f",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209375217
+            "county_id":102073245,
+            "locality_id":1209375217,
+            "region_id":85671983
         }
     ],
     "wof:id":1209375217,
@@ -56,9 +62,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638176,
+    "wof:lastmodified":1614719711,
     "wof:name":"Cinangsi",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073245,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

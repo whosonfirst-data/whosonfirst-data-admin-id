@@ -34,7 +34,10 @@
         "Bonganang"
     ],
     "src:geom":"geonames",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632203
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1648237
@@ -43,8 +46,8 @@
     "wof:geomhash":"7a669efd3499927ed52972fe067a1538",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191569,
+            "country_id":85632203,
             "locality_id":1343625909,
             "region_id":-1
         }
@@ -57,7 +60,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614650230,
+    "wof:lastmodified":1614729158,
     "wof:name":"Bongganan",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

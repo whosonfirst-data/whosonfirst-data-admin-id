@@ -28,7 +28,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672045,
+        102072895
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,8 +41,11 @@
     "wof:geomhash":"f00338a71fa850b21d81bf33f577c9e5",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209124093
+            "county_id":102072895,
+            "locality_id":1209124093,
+            "region_id":85672045
         }
     ],
     "wof:id":1209124093,
@@ -50,9 +56,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638388,
+    "wof:lastmodified":1614717028,
     "wof:name":"Lakahan",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072895,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

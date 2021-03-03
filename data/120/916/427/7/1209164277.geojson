@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671983,
+        102072855
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"ef28598f4d6091fee3294749ce2d3918",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209164277
+            "county_id":102072855,
+            "locality_id":1209164277,
+            "region_id":85671983
         }
     ],
     "wof:id":1209164277,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638912,
+    "wof:lastmodified":1614716737,
     "wof:name":"Citamiang Dua",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072855,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

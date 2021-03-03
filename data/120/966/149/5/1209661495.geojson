@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671983,
+        102073245
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +47,11 @@
     "wof:geomhash":"a7d19e7dd82342b643698f410c6652be",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209661495
+            "county_id":102073245,
+            "locality_id":1209661495,
+            "region_id":85671983
         }
     ],
     "wof:id":1209661495,
@@ -56,9 +62,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652189,
+    "wof:lastmodified":1614719705,
     "wof:name":"Pasirgintung",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073245,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

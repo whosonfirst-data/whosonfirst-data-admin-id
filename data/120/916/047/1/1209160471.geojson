@@ -40,7 +40,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671983,
+        102072981
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,8 +53,11 @@
     "wof:geomhash":"a61f982c44c483e6b07ba5546af657e4",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209160471
+            "county_id":102072981,
+            "locality_id":1209160471,
+            "region_id":85671983
         }
     ],
     "wof:id":1209160471,
@@ -62,9 +68,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652284,
+    "wof:lastmodified":1614717657,
     "wof:name":"Muara",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072981,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

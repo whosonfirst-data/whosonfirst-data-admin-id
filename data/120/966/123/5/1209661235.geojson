@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671983,
+        102073551
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"7e0b35ee8b2f04d33483cf00a9d49973",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209661235
+            "county_id":102073551,
+            "locality_id":1209661235,
+            "region_id":85671983
         }
     ],
     "wof:id":1209661235,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638649,
+    "wof:lastmodified":1614722172,
     "wof:name":"Tanahungkukponcol",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073551,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

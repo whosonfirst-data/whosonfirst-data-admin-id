@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672027,
+        102073495
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"2af9aba5eac4213515edf4cc6a2f132a",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209091367
+            "county_id":102073495,
+            "locality_id":1209091367,
+            "region_id":85672027
         }
     ],
     "wof:id":1209091367,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614651893,
+    "wof:lastmodified":1614721635,
     "wof:name":"Keplekan",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073495,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

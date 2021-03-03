@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672115,
+        102072957
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"8cba3486fd75ebb9472012060987f81b",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209668207
+            "county_id":102072957,
+            "locality_id":1209668207,
+            "region_id":85672115
         }
     ],
     "wof:id":1209668207,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638631,
+    "wof:lastmodified":1614717597,
     "wof:name":"Armopa",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072957,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

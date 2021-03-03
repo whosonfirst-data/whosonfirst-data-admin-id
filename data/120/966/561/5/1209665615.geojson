@@ -32,7 +32,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672085,
+        102072979
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,8 +45,11 @@
     "wof:geomhash":"3ecd501e7cb54c31b0703042c4455d77",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209665615
+            "county_id":102072979,
+            "locality_id":1209665615,
+            "region_id":85672085
         }
     ],
     "wof:id":1209665615,
@@ -54,9 +60,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638629,
+    "wof:lastmodified":1614717655,
     "wof:name":"Ake Turi",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072979,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

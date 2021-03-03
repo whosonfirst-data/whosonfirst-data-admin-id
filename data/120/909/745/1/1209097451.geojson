@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102073117
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"bca9b1bbd558b26b3538ea3e4cf9836f",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209097451
+            "county_id":102073117,
+            "locality_id":1209097451,
+            "region_id":85671987
         }
     ],
     "wof:id":1209097451,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614651899,
+    "wof:lastmodified":1614718591,
     "wof:name":"Sitapen",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073117,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

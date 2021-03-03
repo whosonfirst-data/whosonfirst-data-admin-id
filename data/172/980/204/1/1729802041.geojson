@@ -24,12 +24,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        102020889,
+        102072621,
+        85671983
+    ],
     "wof:breaches":[],
     "wof:country":"ID",
     "wof:created":1613158615,
     "wof:geomhash":"021f5d952c25bba3539da379c5fa4223",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102072621,
+            "locality_id":102020889,
+            "neighbourhood_id":1729802041,
+            "region_id":85671983
+        }
+    ],
     "wof:id":1729802041,
     "wof:lang_x_official":[
         "ind"
@@ -38,9 +53,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1613179626,
+    "wof:lastmodified":1614723394,
     "wof:name":"Sepanjang Jaya",
-    "wof:parent_id":-1,
+    "wof:parent_id":102020889,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

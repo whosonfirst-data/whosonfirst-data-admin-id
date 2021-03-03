@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672077,
+        1108796925
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +47,11 @@
     "wof:geomhash":"814fa8794d5374f395058a0eac9d2837",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209554311
+            "county_id":1108796925,
+            "locality_id":1209554311,
+            "region_id":85672077
         }
     ],
     "wof:id":1209554311,
@@ -56,9 +62,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652026,
+    "wof:lastmodified":1614722886,
     "wof:name":"Pulaulawas",
-    "wof:parent_id":85632203,
+    "wof:parent_id":1108796925,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

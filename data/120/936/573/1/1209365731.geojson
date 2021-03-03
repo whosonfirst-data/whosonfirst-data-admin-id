@@ -32,7 +32,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672097,
+        1108796839
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,8 +45,11 @@
     "wof:geomhash":"d5f46ddebff0aabf642fbf3851755814",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209365731
+            "county_id":1108796839,
+            "locality_id":1209365731,
+            "region_id":85672097
         }
     ],
     "wof:id":1209365731,
@@ -54,9 +60,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614637985,
+    "wof:lastmodified":1614722595,
     "wof:name":"Seriholu",
-    "wof:parent_id":85632203,
+    "wof:parent_id":1108796839,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

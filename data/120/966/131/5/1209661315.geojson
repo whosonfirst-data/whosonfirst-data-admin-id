@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671983,
+        102073359
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"86549edf0261fa8486a98042b87ac6af",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209661315
+            "county_id":102073359,
+            "locality_id":1209661315,
+            "region_id":85671983
         }
     ],
     "wof:id":1209661315,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638641,
+    "wof:lastmodified":1614720464,
     "wof:name":"Cisereh",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073359,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

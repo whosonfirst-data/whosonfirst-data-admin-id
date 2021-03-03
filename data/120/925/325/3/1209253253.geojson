@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672041,
+        102072633
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"a36088959696aa2a88ae587996b3294d",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209253253
+            "county_id":102072633,
+            "locality_id":1209253253,
+            "region_id":85672041
         }
     ],
     "wof:id":1209253253,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638530,
+    "wof:lastmodified":1614714969,
     "wof:name":"Linggalingga",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072633,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

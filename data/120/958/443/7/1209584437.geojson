@@ -32,7 +32,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672105,
+        1108796939
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,8 +45,11 @@
     "wof:geomhash":"9f4623abc217da9bd9cd6a300947ad72",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209584437
+            "county_id":1108796939,
+            "locality_id":1209584437,
+            "region_id":85672105
         }
     ],
     "wof:id":1209584437,
@@ -54,9 +60,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638735,
+    "wof:lastmodified":1614722955,
     "wof:name":"Tolutu",
-    "wof:parent_id":85632203,
+    "wof:parent_id":1108796939,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

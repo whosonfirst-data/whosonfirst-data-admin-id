@@ -31,6 +31,7 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191569,
         85632203
     ],
     "wof:breaches":[],
@@ -41,8 +42,10 @@
     "wof:geomhash":"8f48f6682305b0099be7c4fe6981b7cc",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209179973
+            "locality_id":1209179973,
+            "region_id":-1
         }
     ],
     "wof:id":1209179973,
@@ -53,9 +56,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614639112,
+    "wof:lastmodified":1614728810,
     "wof:name":"Watupuli",
-    "wof:parent_id":85632203,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

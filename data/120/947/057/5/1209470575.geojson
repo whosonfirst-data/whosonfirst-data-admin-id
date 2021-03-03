@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672087,
+        102072835
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"f854b5c58e0140e8fd4109742c23f206",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209470575
+            "county_id":102072835,
+            "locality_id":1209470575,
+            "region_id":85672087
         }
     ],
     "wof:id":1209470575,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638454,
+    "wof:lastmodified":1614716560,
     "wof:name":"Tanggalo",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072835,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

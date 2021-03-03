@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672027,
+        102073553
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +47,11 @@
     "wof:geomhash":"9f2667544913d19e27d33d881b522779",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209199461
+            "county_id":102073553,
+            "locality_id":1209199461,
+            "region_id":85672027
         }
     ],
     "wof:id":1209199461,
@@ -56,9 +62,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652352,
+    "wof:lastmodified":1614722211,
     "wof:name":"Wonokerto",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073553,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

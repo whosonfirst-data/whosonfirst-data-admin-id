@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672103,
+        102072655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"ddb44a55d428ec1b7787583c41381841",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209290577
+            "county_id":102072655,
+            "locality_id":1209290577,
+            "region_id":85672103
         }
     ],
     "wof:id":1209290577,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638929,
+    "wof:lastmodified":1614715151,
     "wof:name":"Tatede Luar",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072655,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

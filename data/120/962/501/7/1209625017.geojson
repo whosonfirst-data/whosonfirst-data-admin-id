@@ -28,7 +28,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671991,
+        1108796789
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,8 +41,11 @@
     "wof:geomhash":"1cc3649aebcc7745fc11475db1583ef9",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209625017
+            "county_id":1108796789,
+            "locality_id":1209625017,
+            "region_id":85671991
         }
     ],
     "wof:id":1209625017,
@@ -50,9 +56,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638096,
+    "wof:lastmodified":1614722366,
     "wof:name":"Padang Kelapa",
-    "wof:parent_id":85632203,
+    "wof:parent_id":1108796789,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

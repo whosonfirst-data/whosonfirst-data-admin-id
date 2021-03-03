@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671973,
+        102072965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"f3f2649ce152c6bce4ac1aceef406f6b",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209618769
+            "county_id":102072965,
+            "locality_id":1209618769,
+            "region_id":85671973
         }
     ],
     "wof:id":1209618769,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638624,
+    "wof:lastmodified":1614717608,
     "wof:name":"Batu Dua Ratus",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072965,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

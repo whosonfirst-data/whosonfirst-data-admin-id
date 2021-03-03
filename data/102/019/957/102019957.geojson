@@ -38,7 +38,12 @@
     "src:geom_via":"quattroshapes",
     "src:lbl:centroid":"mapshaper",
     "wof:belongs_to":[],
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        85672081,
+        102072801
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1637555,
@@ -51,10 +56,11 @@
     "wof:geomhash":"1d2040b667055823d25ae072bbaaecbc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102072801,
             "locality_id":102019957,
-            "region_id":-1
+            "region_id":85672081
         }
     ],
     "wof:id":102019957,
@@ -65,9 +71,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1613173754,
+    "wof:lastmodified":1614713233,
     "wof:name":"Lirung",
-    "wof:parent_id":-1,
+    "wof:parent_id":102072801,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

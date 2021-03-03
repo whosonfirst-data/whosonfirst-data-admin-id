@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672105,
+        1108796939
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"cfa3e041f7938165327853f9f1558973",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209471235
+            "county_id":1108796939,
+            "locality_id":1209471235,
+            "region_id":85672105
         }
     ],
     "wof:id":1209471235,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638455,
+    "wof:lastmodified":1614722956,
     "wof:name":"Lapulu",
-    "wof:parent_id":85632203,
+    "wof:parent_id":1108796939,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

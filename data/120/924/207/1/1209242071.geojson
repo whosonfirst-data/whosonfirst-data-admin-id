@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672081,
+        1108796957
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +47,11 @@
     "wof:geomhash":"d8f17b189cd769bb0e47728d1e9362d4",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209242071
+            "county_id":1108796957,
+            "locality_id":1209242071,
+            "region_id":85672081
         }
     ],
     "wof:id":1209242071,
@@ -56,9 +62,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638396,
+    "wof:lastmodified":1614722988,
     "wof:name":"Ritey",
-    "wof:parent_id":85632203,
+    "wof:parent_id":1108796957,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

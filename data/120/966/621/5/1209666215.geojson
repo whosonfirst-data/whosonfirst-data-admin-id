@@ -32,7 +32,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672097,
+        1108796833
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,8 +45,11 @@
     "wof:geomhash":"570be6aca825eea4bafb90e15366b68d",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209666215
+            "county_id":1108796833,
+            "locality_id":1209666215,
+            "region_id":85672097
         }
     ],
     "wof:id":1209666215,
@@ -54,9 +60,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638632,
+    "wof:lastmodified":1614722582,
     "wof:name":"Hururu",
-    "wof:parent_id":85632203,
+    "wof:parent_id":1108796833,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

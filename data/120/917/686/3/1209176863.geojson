@@ -100,7 +100,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672037,
+        102073439
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -110,8 +113,11 @@
     "wof:geomhash":"ab548972323e874149c507c2a7be22e4",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209176863
+            "county_id":102073439,
+            "locality_id":1209176863,
+            "region_id":85672037
         }
     ],
     "wof:id":1209176863,
@@ -122,9 +128,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614639113,
+    "wof:lastmodified":1614721094,
     "wof:name":"Bung",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073439,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

@@ -121,7 +121,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672027,
+        102073553
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -131,8 +134,11 @@
     "wof:geomhash":"d462d533165e6389f485850aebb8ae21",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209209987
+            "county_id":102073553,
+            "locality_id":1209209987,
+            "region_id":85672027
         }
     ],
     "wof:id":1209209987,
@@ -143,9 +149,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652297,
+    "wof:lastmodified":1614722221,
     "wof:name":"Pager",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073553,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

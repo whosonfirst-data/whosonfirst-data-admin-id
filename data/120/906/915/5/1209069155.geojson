@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672037,
+        102072803
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"d1cc63748b6e771359eb31b3b5ba29de",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209069155
+            "county_id":102072803,
+            "locality_id":1209069155,
+            "region_id":85672037
         }
     ],
     "wof:id":1209069155,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638128,
+    "wof:lastmodified":1614716322,
     "wof:name":"Lawinu",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072803,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672027,
+        102073061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"0a9444bacb3893edf6c62e457783af95",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209405139
+            "county_id":102073061,
+            "locality_id":1209405139,
+            "region_id":85672027
         }
     ],
     "wof:id":1209405139,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638431,
+    "wof:lastmodified":1614718227,
     "wof:name":"Sumberjambe",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073061,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

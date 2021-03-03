@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671973,
+        102072659
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"d9360ad5d2a3466dc18481041ca1d3b3",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209624501
+            "county_id":102072659,
+            "locality_id":1209624501,
+            "region_id":85671973
         }
     ],
     "wof:id":1209624501,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638098,
+    "wof:lastmodified":1614715178,
     "wof:name":"Uyemroa",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072659,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

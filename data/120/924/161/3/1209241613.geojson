@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672067,
+        1108796863
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +47,11 @@
     "wof:geomhash":"e0f4579b9a45d60fe2dc7190083c02fe",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209241613
+            "county_id":1108796863,
+            "locality_id":1209241613,
+            "region_id":85672067
         }
     ],
     "wof:id":1209241613,
@@ -56,9 +62,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638395,
+    "wof:lastmodified":1614722757,
     "wof:name":"Gom",
-    "wof:parent_id":85632203,
+    "wof:parent_id":1108796863,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

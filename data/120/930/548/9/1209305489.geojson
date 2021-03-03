@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102073417
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"133605713cee8545eb0b3a3dfeeb51dc",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209305489
+            "county_id":102073417,
+            "locality_id":1209305489,
+            "region_id":85671987
         }
     ],
     "wof:id":1209305489,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638164,
+    "wof:lastmodified":1614720927,
     "wof:name":"Rembul",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073417,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

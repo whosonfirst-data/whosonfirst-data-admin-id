@@ -28,7 +28,10 @@
     "mz:min_zoom":13.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672093,
+        102073189
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,8 +41,11 @@
     "wof:geomhash":"2f55237fcde8925ccd48f9bb215f1127",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209208631
+            "county_id":102073189,
+            "locality_id":1209208631,
+            "region_id":85672093
         }
     ],
     "wof:id":1209208631,
@@ -50,9 +56,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652304,
+    "wof:lastmodified":1614719096,
     "wof:name":"Dengok Empat",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073189,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

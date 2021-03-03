@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672013,
+        102072629
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"4543ee21852e7936d0a5858e573b4bf5",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209263379
+            "county_id":102072629,
+            "locality_id":1209263379,
+            "region_id":85672013
         }
     ],
     "wof:id":1209263379,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614639058,
+    "wof:lastmodified":1614714956,
     "wof:name":"Seteria",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072629,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

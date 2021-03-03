@@ -32,7 +32,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671977,
+        102072721
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,8 +45,11 @@
     "wof:geomhash":"5c7b19de6d375cb7d18d3b48ac39d441",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209388461
+            "county_id":102072721,
+            "locality_id":1209388461,
+            "region_id":85671977
         }
     ],
     "wof:id":1209388461,
@@ -54,9 +60,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638013,
+    "wof:lastmodified":1614715752,
     "wof:name":"Muaralangun",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072721,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102073169
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"ddb6e181d3c1572781e7c968ea5ba5e2",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209027145
+            "county_id":102073169,
+            "locality_id":1209027145,
+            "region_id":85671987
         }
     ],
     "wof:id":1209027145,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638844,
+    "wof:lastmodified":1614718920,
     "wof:name":"Ngemplak",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073169,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

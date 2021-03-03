@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672037,
+        102073045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"35e87e1533476d8b8e0a10b010bcbc56",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209490913
+            "county_id":102073045,
+            "locality_id":1209490913,
+            "region_id":85672037
         }
     ],
     "wof:id":1209490913,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638485,
+    "wof:lastmodified":1614718088,
     "wof:name":"Nampar",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073045,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

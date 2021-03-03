@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672009,
+        102072927
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +47,11 @@
     "wof:geomhash":"e17e527d48ec88f04abef8e5f2996426",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209688739
+            "county_id":102072927,
+            "locality_id":1209688739,
+            "region_id":85672009
         }
     ],
     "wof:id":1209688739,
@@ -56,9 +62,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652173,
+    "wof:lastmodified":1614717206,
     "wof:name":"Komeringagung",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072927,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

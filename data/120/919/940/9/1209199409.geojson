@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672027,
+        102073063
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +47,11 @@
     "wof:geomhash":"4028f477de905fc636f91ff95bf7f2fa",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209199409
+            "county_id":102073063,
+            "locality_id":1209199409,
+            "region_id":85672027
         }
     ],
     "wof:id":1209199409,
@@ -56,9 +62,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652352,
+    "wof:lastmodified":1614718278,
     "wof:name":"Gilih",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073063,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

@@ -37,6 +37,7 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191569,
         85632203
     ],
     "wof:breaches":[],
@@ -47,8 +48,10 @@
     "wof:geomhash":"c38bcb074b1cf0a08e36e8f0ce5c4120",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209633163
+            "locality_id":1209633163,
+            "region_id":-1
         }
     ],
     "wof:id":1209633163,
@@ -59,9 +62,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638197,
+    "wof:lastmodified":1614726561,
     "wof:name":"Silungbelanak",
-    "wof:parent_id":85632203,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

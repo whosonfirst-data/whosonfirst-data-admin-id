@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102072715
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"ae8e03cfbd2a26dd4564493cc80de2fc",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209097091
+            "county_id":102072715,
+            "locality_id":1209097091,
+            "region_id":85671987
         }
     ],
     "wof:id":1209097091,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614651886,
+    "wof:lastmodified":1614715695,
     "wof:name":"Kedungmalang",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072715,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

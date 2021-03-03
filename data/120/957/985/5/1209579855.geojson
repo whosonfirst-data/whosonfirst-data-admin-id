@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672111,
+        102073435
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"07a8c1376d8d0b5799d72eba3c1ad791",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209579855
+            "county_id":102073435,
+            "locality_id":1209579855,
+            "region_id":85672111
         }
     ],
     "wof:id":1209579855,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638583,
+    "wof:lastmodified":1614721080,
     "wof:name":"Kayubet",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073435,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

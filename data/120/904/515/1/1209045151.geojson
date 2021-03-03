@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672041,
+        102073243
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"b4ccce18c9e1a859a5ad66fa8f86e668",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209045151
+            "county_id":102073243,
+            "locality_id":1209045151,
+            "region_id":85672041
         }
     ],
     "wof:id":1209045151,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638692,
+    "wof:lastmodified":1614719686,
     "wof:name":"Tajuiabaru",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073243,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

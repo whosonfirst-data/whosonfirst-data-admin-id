@@ -37,9 +37,7 @@
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
     "wof:belongs_to":[],
-    "wof:belongsto":[
-        85632203
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1650577,
@@ -49,8 +47,10 @@
     "wof:geomhash":"2a0511db404c7fbe833f9cdcf9bc069b",
     "wof:hierarchy":[
         {
-            "country_id":85632203,
-            "locality_id":102021029
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":102021029,
+            "region_id":-1
         }
     ],
     "wof:id":102021029,
@@ -61,7 +61,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1613173784,
+    "wof:lastmodified":1614713931,
     "wof:name":"Balantak",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

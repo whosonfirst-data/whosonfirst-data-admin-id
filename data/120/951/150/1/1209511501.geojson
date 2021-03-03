@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672027,
+        102073487
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"8edda7f992c28122ac77adad0541c1bd",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209511501
+            "county_id":102073487,
+            "locality_id":1209511501,
+            "region_id":85672027
         }
     ],
     "wof:id":1209511501,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652249,
+    "wof:lastmodified":1614721588,
     "wof:name":"Sarasehan",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073487,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

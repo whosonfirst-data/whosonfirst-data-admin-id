@@ -58,7 +58,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671983,
+        102072613
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -68,8 +71,11 @@
     "wof:geomhash":"f6c78caae8f8c101ecda8131e57ad8cb",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209164137
+            "county_id":102072613,
+            "locality_id":1209164137,
+            "region_id":85671983
         }
     ],
     "wof:id":1209164137,
@@ -80,9 +86,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638896,
+    "wof:lastmodified":1614714832,
     "wof:name":"Jati",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072613,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

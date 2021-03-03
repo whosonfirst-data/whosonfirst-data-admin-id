@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672067,
+        102072595
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"09ee1467d62035fe4ba33cc1c9180fe6",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209343179
+            "county_id":102072595,
+            "locality_id":1209343179,
+            "region_id":85672067
         }
     ],
     "wof:id":1209343179,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638862,
+    "wof:lastmodified":1614714699,
     "wof:name":"Warsnembri",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072595,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

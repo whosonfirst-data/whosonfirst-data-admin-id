@@ -24,12 +24,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        102018849,
+        1108796785,
+        85671995
+    ],
     "wof:breaches":[],
     "wof:country":"ID",
     "wof:created":1613158703,
     "wof:geomhash":"19fc113b92dbbe32a8e94ac3b8336eb5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":1108796785,
+            "locality_id":102018849,
+            "neighbourhood_id":1729802273,
+            "region_id":85671995
+        }
+    ],
     "wof:id":1729802273,
     "wof:lang_x_official":[
         "ind"
@@ -38,9 +53,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1613179621,
+    "wof:lastmodified":1614723487,
     "wof:name":"Karang Timur",
-    "wof:parent_id":-1,
+    "wof:parent_id":102018849,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

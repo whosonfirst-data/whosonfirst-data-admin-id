@@ -28,7 +28,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102072857
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,8 +41,11 @@
     "wof:geomhash":"acf141f03b8bf9aa39263241abf524af",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209505983
+            "county_id":102072857,
+            "locality_id":1209505983,
+            "region_id":85671987
         }
     ],
     "wof:id":1209505983,
@@ -50,9 +56,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638563,
+    "wof:lastmodified":1614716852,
     "wof:name":"Gabe Lor",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072857,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

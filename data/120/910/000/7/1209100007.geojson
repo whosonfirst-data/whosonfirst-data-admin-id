@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102072809
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"739605cea6887fe33637fb51f323bdae",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209100007
+            "county_id":102072809,
+            "locality_id":1209100007,
+            "region_id":85671987
         }
     ],
     "wof:id":1209100007,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614639148,
+    "wof:lastmodified":1614716369,
     "wof:name":"Pegangan",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072809,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

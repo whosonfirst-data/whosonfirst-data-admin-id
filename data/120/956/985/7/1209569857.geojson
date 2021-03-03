@@ -73,7 +73,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672073,
+        1108796991
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -83,8 +86,11 @@
     "wof:geomhash":"0f2d340a3f4c13c05014889f19fb60d6",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209569857
+            "county_id":1108796991,
+            "locality_id":1209569857,
+            "region_id":85672073
         }
     ],
     "wof:id":1209569857,
@@ -95,9 +101,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638784,
+    "wof:lastmodified":1614723066,
     "wof:name":"Huta",
-    "wof:parent_id":85632203,
+    "wof:parent_id":1108796991,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

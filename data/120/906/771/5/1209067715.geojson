@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672097,
+        1108796837
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"e14c0bcb105dbcf3c0f04ccb8d9a8a2d",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209067715
+            "county_id":1108796837,
+            "locality_id":1209067715,
+            "region_id":85672097
         }
     ],
     "wof:id":1209067715,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638128,
+    "wof:lastmodified":1614722590,
     "wof:name":"Kilaan",
-    "wof:parent_id":85632203,
+    "wof:parent_id":1108796837,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

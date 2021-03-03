@@ -36,7 +36,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671983,
+        102073217
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,8 +49,11 @@
     "wof:geomhash":"f00590cda31322badb3883564e83239a",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209052653
+            "county_id":102073217,
+            "locality_id":1209052653,
+            "region_id":85671983
         }
     ],
     "wof:id":1209052653,
@@ -58,9 +64,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652263,
+    "wof:lastmodified":1614719386,
     "wof:name":"Bojong",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073217,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

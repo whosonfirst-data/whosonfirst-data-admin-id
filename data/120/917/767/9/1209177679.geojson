@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672103,
+        102072705
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"744b7a67d3b9ff4cba3977b65de94f69",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209177679
+            "county_id":102072705,
+            "locality_id":1209177679,
+            "region_id":85672103
         }
     ],
     "wof:id":1209177679,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614639123,
+    "wof:lastmodified":1614715448,
     "wof:name":"Bokoklima",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072705,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672041,
+        102072999
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"02604991cc85e9f9518efeb1761d8a42",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209253309
+            "county_id":102072999,
+            "locality_id":1209253309,
+            "region_id":85672041
         }
     ],
     "wof:id":1209253309,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638528,
+    "wof:lastmodified":1614717828,
     "wof:name":"Batujala",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072999,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

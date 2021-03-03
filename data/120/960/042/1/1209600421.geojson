@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672027,
+        102073487
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"4c3c845e035746c52fff05ab0a4565db",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209600421
+            "county_id":102073487,
+            "locality_id":1209600421,
+            "region_id":85672027
         }
     ],
     "wof:id":1209600421,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638758,
+    "wof:lastmodified":1614721595,
     "wof:name":"Petungsewu",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073487,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

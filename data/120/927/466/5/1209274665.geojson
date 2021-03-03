@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671983,
+        102073471
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"c6c815e2051894e237cf658ef0f4a890",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209274665
+            "county_id":102073471,
+            "locality_id":1209274665,
+            "region_id":85671983
         }
     ],
     "wof:id":1209274665,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652311,
+    "wof:lastmodified":1614721377,
     "wof:name":"Hegarmanah",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073471,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

@@ -28,7 +28,10 @@
     "mz:min_zoom":13.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102072947
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,8 +41,11 @@
     "wof:geomhash":"ea60b432f2902c6deab357fc746f3535",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209636181
+            "county_id":102072947,
+            "locality_id":1209636181,
+            "region_id":85671987
         }
     ],
     "wof:id":1209636181,
@@ -50,9 +56,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614651991,
+    "wof:lastmodified":1614717426,
     "wof:name":"Talun Kidul",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072947,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

@@ -40,7 +40,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672037,
+        102073439
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,8 +53,11 @@
     "wof:geomhash":"387aaec5cca30287f354e9ddc9854b93",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209176987
+            "county_id":102073439,
+            "locality_id":1209176987,
+            "region_id":85672037
         }
     ],
     "wof:id":1209176987,
@@ -62,9 +68,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614639133,
+    "wof:lastmodified":1614721095,
     "wof:name":"Nangka",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073439,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

@@ -40,10 +40,7 @@
     "src:geom_via":"quattroshapes",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
-        102191569,
-        85632203,
-        102072695,
-        85672111
+        102191569
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,10 +56,9 @@
     "wof:hierarchy":[
         {
             "continent_id":102191569,
-            "country_id":85632203,
-            "county_id":102072695,
+            "country_id":-1,
             "locality_id":102022085,
-            "region_id":85672111
+            "region_id":-1
         }
     ],
     "wof:id":102022085,
@@ -73,9 +69,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1613173637,
+    "wof:lastmodified":1614714344,
     "wof:name":"Kecamatan Bungku Selatan",
-    "wof:parent_id":102072695,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

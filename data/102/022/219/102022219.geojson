@@ -37,9 +37,7 @@
     "src:geom_via":"quattroshapes",
     "src:lbl:centroid":"mapshaper",
     "wof:belongs_to":[],
-    "wof:belongsto":[
-        85632203
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7351355,
@@ -53,8 +51,10 @@
     "wof:geomhash":"b6eb7445f9d369ed93d208ef8fd77999",
     "wof:hierarchy":[
         {
-            "country_id":85632203,
-            "locality_id":102022219
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":102022219,
+            "region_id":-1
         }
     ],
     "wof:id":102022219,
@@ -65,7 +65,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1613173636,
+    "wof:lastmodified":1614714402,
     "wof:name":"Desa Sekotong Barat",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

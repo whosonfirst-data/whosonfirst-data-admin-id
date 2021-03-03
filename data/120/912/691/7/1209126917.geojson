@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102072587
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"9dafe9ee389954d59e21fda9dc56d891",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209126917
+            "county_id":102072587,
+            "locality_id":1209126917,
+            "region_id":85671987
         }
     ],
     "wof:id":1209126917,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638393,
+    "wof:lastmodified":1614714647,
     "wof:name":"Gedekan",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072587,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

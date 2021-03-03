@@ -55,7 +55,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672037,
+        1108796853
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -65,8 +68,11 @@
     "wof:geomhash":"4205ed7ba13c893ffc1d5d49107629a0",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209176983
+            "county_id":1108796853,
+            "locality_id":1209176983,
+            "region_id":85672037
         }
     ],
     "wof:id":1209176983,
@@ -77,9 +83,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614639133,
+    "wof:lastmodified":1614722665,
     "wof:name":"Kao",
-    "wof:parent_id":85632203,
+    "wof:parent_id":1108796853,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

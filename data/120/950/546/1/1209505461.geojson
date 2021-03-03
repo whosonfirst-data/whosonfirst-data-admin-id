@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672027,
+        102072669
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"e1b46c88691ed009d83d9d0cc2df732d",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209505461
+            "county_id":102072669,
+            "locality_id":1209505461,
+            "region_id":85672027
         }
     ],
     "wof:id":1209505461,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652166,
+    "wof:lastmodified":1614715194,
     "wof:name":"Tambaan",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072669,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

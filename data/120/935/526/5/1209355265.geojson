@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672019,
+        102073367
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"fbb524ac80fa11c3a0597ba23c07e3c3",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209355265
+            "county_id":102073367,
+            "locality_id":1209355265,
+            "region_id":85672019
         }
     ],
     "wof:id":1209355265,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638677,
+    "wof:lastmodified":1614720582,
     "wof:name":"Pangkalberas",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073367,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

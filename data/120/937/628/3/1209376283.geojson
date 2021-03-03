@@ -35,7 +35,7 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,8 +45,10 @@
     "wof:geomhash":"b5f4af6fe37a8133f70b18616ad18650",
     "wof:hierarchy":[
         {
-            "country_id":85632203,
-            "locality_id":1209376283
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1209376283,
+            "region_id":-1
         }
     ],
     "wof:id":1209376283,
@@ -57,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638173,
+    "wof:lastmodified":1614726748,
     "wof:name":"Wamulan",
-    "wof:parent_id":85632203,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

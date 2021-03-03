@@ -33,7 +33,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671983,
+        102072937
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +46,11 @@
     "wof:geomhash":"07326fcb03f5f4877f347b028bd2c0d3",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209174429
+            "county_id":102072937,
+            "locality_id":1209174429,
+            "region_id":85671983
         }
     ],
     "wof:id":1209174429,
@@ -55,9 +61,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614639130,
+    "wof:lastmodified":1614717306,
     "wof:name":"Babakan-kidul",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072937,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

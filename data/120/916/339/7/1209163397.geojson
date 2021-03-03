@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672013,
+        102073571
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"bd7685b65ca7a4e6ee10f7de42a98854",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209163397
+            "county_id":102073571,
+            "locality_id":1209163397,
+            "region_id":85672013
         }
     ],
     "wof:id":1209163397,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638895,
+    "wof:lastmodified":1614722324,
     "wof:name":"Talangairrotan",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073571,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

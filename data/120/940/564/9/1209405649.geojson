@@ -61,7 +61,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102073119
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -71,8 +74,11 @@
     "wof:geomhash":"417293f473cf3f50981931ce2c5a4322",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209405649
+            "county_id":102073119,
+            "locality_id":1209405649,
+            "region_id":85671987
         }
     ],
     "wof:id":1209405649,
@@ -83,9 +89,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638420,
+    "wof:lastmodified":1614718604,
     "wof:name":"Taman",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073119,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

@@ -33,7 +33,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671995,
+        102073479
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +46,11 @@
     "wof:geomhash":"bdf09de8ba2bfd1bbfd152cdabde1694",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209360687
+            "county_id":102073479,
+            "locality_id":1209360687,
+            "region_id":85671995
         }
     ],
     "wof:id":1209360687,
@@ -55,9 +61,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614637995,
+    "wof:lastmodified":1614721423,
     "wof:name":"Jeruktipis",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073479,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

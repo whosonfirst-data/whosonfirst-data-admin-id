@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671973,
+        102072659
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"414ecca043bd0f6923e1e1974d13b32e",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209628823
+            "county_id":102072659,
+            "locality_id":1209628823,
+            "region_id":85671973
         }
     ],
     "wof:id":1209628823,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638097,
+    "wof:lastmodified":1614715181,
     "wof:name":"Kupur",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072659,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

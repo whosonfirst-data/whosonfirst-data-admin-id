@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672037,
+        102072817
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"d6ffd510c77432e9b8497736b70c1cd6",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209691615
+            "county_id":102072817,
+            "locality_id":1209691615,
+            "region_id":85672037
         }
     ],
     "wof:id":1209691615,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638799,
+    "wof:lastmodified":1614716425,
     "wof:name":"Lewokluok",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072817,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

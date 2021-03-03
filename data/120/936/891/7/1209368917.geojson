@@ -61,7 +61,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671995,
+        102073053
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -71,8 +74,11 @@
     "wof:geomhash":"95a1b51458b2b9039539ec991268aaab",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209368917
+            "county_id":102073053,
+            "locality_id":1209368917,
+            "region_id":85671995
         }
     ],
     "wof:id":1209368917,
@@ -83,9 +89,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614637994,
+    "wof:lastmodified":1614718169,
     "wof:name":"Sangiang",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073053,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

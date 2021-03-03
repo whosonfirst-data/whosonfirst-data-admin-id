@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672037,
+        1108796851
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"48822d3b7b2126bbdf7834b123e3fee9",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209176895
+            "county_id":1108796851,
+            "locality_id":1209176895,
+            "region_id":85672037
         }
     ],
     "wof:id":1209176895,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614639116,
+    "wof:lastmodified":1614722650,
     "wof:name":"Pauleka",
-    "wof:parent_id":85632203,
+    "wof:parent_id":1108796851,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

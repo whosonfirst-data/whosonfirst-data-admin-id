@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671991,
+        102072847
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +47,11 @@
     "wof:geomhash":"20103357207b69831b0b0b1d333d1348",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209622249
+            "county_id":102072847,
+            "locality_id":1209622249,
+            "region_id":85671991
         }
     ],
     "wof:id":1209622249,
@@ -56,9 +62,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638097,
+    "wof:lastmodified":1614716637,
     "wof:name":"Karangdapau",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072847,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

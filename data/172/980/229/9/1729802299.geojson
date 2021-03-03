@@ -24,12 +24,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        102018849,
+        1108796785,
+        85671995
+    ],
     "wof:breaches":[],
     "wof:country":"ID",
     "wof:created":1613158713,
     "wof:geomhash":"cd4c6a7a3528df83d56b5a1b3081d7bf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":1108796785,
+            "locality_id":102018849,
+            "neighbourhood_id":1729802299,
+            "region_id":85671995
+        }
+    ],
     "wof:id":1729802299,
     "wof:lang_x_official":[
         "ind"
@@ -38,9 +53,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1613179620,
+    "wof:lastmodified":1614723497,
     "wof:name":"Cipondoh Makmur",
-    "wof:parent_id":-1,
+    "wof:parent_id":102018849,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

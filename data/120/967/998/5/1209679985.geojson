@@ -223,7 +223,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672111,
+        102073015
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -233,8 +236,11 @@
     "wof:geomhash":"8f2a395093ea0ee758a0b95a5962d891",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209679985
+            "county_id":102073015,
+            "locality_id":1209679985,
+            "region_id":85672111
         }
     ],
     "wof:id":1209679985,
@@ -245,9 +251,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638711,
+    "wof:lastmodified":1614717932,
     "wof:name":"Polo",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073015,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

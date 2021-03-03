@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102072809
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"ddb67bb9ba7216c1270fe74c8f9e2b91",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209405901
+            "county_id":102072809,
+            "locality_id":1209405901,
+            "region_id":85671987
         }
     ],
     "wof:id":1209405901,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638420,
+    "wof:lastmodified":1614716366,
     "wof:name":"Karangbalikan",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072809,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

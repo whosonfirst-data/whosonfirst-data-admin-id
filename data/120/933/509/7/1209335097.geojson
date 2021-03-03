@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102072759
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"b6b39a4288d5b002f5a6e8b8dd2fe385",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209335097
+            "county_id":102072759,
+            "locality_id":1209335097,
+            "region_id":85671987
         }
     ],
     "wof:id":1209335097,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638871,
+    "wof:lastmodified":1614716085,
     "wof:name":"Kalijero",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072759,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

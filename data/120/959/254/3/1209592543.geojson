@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672031,
+        102073025
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"e1459e69f411a21d11f8215984dc8f3e",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209592543
+            "county_id":102073025,
+            "locality_id":1209592543,
+            "region_id":85672031
         }
     ],
     "wof:id":1209592543,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638668,
+    "wof:lastmodified":1614718025,
     "wof:name":"Takisung",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073025,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

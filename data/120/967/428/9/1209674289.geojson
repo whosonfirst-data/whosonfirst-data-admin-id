@@ -31,7 +31,7 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +41,10 @@
     "wof:geomhash":"1ef8b031523f866593571022b55d69df",
     "wof:hierarchy":[
         {
-            "country_id":85632203,
-            "locality_id":1209674289
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1209674289,
+            "region_id":-1
         }
     ],
     "wof:id":1209674289,
@@ -53,9 +55,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638723,
+    "wof:lastmodified":1614727597,
     "wof:name":"Sukawangi",
-    "wof:parent_id":85632203,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

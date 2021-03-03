@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        1108805993,
+        102073283
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +47,11 @@
     "wof:geomhash":"708ca0a761ed6e25ed8d5cd315d0ad0d",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209250185
+            "county_id":102073283,
+            "locality_id":1209250185,
+            "region_id":1108805993
         }
     ],
     "wof:id":1209250185,
@@ -56,9 +62,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638531,
+    "wof:lastmodified":1614719995,
     "wof:name":"Merau",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073283,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

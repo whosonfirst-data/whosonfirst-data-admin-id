@@ -28,7 +28,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671995,
+        102073479
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,8 +41,11 @@
     "wof:geomhash":"cd70e68ab4e06d2de431b221b22afbc8",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209164161
+            "county_id":102073479,
+            "locality_id":1209164161,
+            "region_id":85671995
         }
     ],
     "wof:id":1209164161,
@@ -50,9 +56,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638911,
+    "wof:lastmodified":1614721449,
     "wof:name":"Tongsan",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073479,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

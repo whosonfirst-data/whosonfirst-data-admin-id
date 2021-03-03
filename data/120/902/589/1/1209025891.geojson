@@ -127,7 +127,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672027,
+        102073123
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -137,8 +140,11 @@
     "wof:geomhash":"e6cd9ee97b8da8170f91ba796ebb2b75",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209025891
+            "county_id":102073123,
+            "locality_id":1209025891,
+            "region_id":85672027
         }
     ],
     "wof:id":1209025891,
@@ -149,9 +155,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652268,
+    "wof:lastmodified":1614718654,
     "wof:name":"Lada",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073123,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

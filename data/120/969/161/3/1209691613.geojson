@@ -73,7 +73,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672037,
+        102072751
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -83,8 +86,11 @@
     "wof:geomhash":"614d232185d58827d4a1bdf1bb78e542",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209691613
+            "county_id":102072751,
+            "locality_id":1209691613,
+            "region_id":85672037
         }
     ],
     "wof:id":1209691613,
@@ -95,9 +101,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638799,
+    "wof:lastmodified":1614716028,
     "wof:name":"Kolo",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072751,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

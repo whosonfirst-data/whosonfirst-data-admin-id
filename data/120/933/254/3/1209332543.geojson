@@ -28,7 +28,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672105,
+        102073461
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,8 +41,11 @@
     "wof:geomhash":"2e774fea61927b785ef95ec2aab9aa7e",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209332543
+            "county_id":102073461,
+            "locality_id":1209332543,
+            "region_id":85672105
         }
     ],
     "wof:id":1209332543,
@@ -50,9 +56,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638871,
+    "wof:lastmodified":1614721314,
     "wof:name":"Tetehao",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073461,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

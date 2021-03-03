@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672027,
+        102073533
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"f7eb69720fb504307bf4971e00d35f90",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209405045
+            "county_id":102073533,
+            "locality_id":1209405045,
+            "region_id":85672027
         }
     ],
     "wof:id":1209405045,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652098,
+    "wof:lastmodified":1614722083,
     "wof:name":"Potrojayan",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073533,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

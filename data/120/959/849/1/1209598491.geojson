@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671977,
+        102072813
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"15676e3595bec0b1d216a054d2ef6e5b",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209598491
+            "county_id":102072813,
+            "locality_id":1209598491,
+            "region_id":85671977
         }
     ],
     "wof:id":1209598491,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638667,
+    "wof:lastmodified":1614716414,
     "wof:name":"Telukdalam",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072813,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

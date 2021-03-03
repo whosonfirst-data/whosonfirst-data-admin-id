@@ -35,7 +35,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671983,
+        1108796793
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,8 +48,11 @@
     "wof:geomhash":"18536d64743315651764eef63c15eade",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209174353
+            "county_id":1108796793,
+            "locality_id":1209174353,
+            "region_id":85671983
         }
     ],
     "wof:id":1209174353,
@@ -57,9 +63,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614639134,
+    "wof:lastmodified":1614722391,
     "wof:name":"Cikurutug Lebak",
-    "wof:parent_id":85632203,
+    "wof:parent_id":1108796793,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

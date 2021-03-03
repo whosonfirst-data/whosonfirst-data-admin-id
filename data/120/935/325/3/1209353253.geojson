@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672041,
+        102073567
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"d859d017a57a6ac7d4c736d4b2fe23e6",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209353253
+            "county_id":102073567,
+            "locality_id":1209353253,
+            "region_id":85672041
         }
     ],
     "wof:id":1209353253,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638679,
+    "wof:lastmodified":1614722260,
     "wof:name":"Kertoraharjo",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073567,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

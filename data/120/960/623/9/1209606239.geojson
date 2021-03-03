@@ -61,7 +61,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102072947
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -71,8 +74,11 @@
     "wof:geomhash":"b4aa251073d675a4cef38d8d11097b8d",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209606239
+            "county_id":102072947,
+            "locality_id":1209606239,
+            "region_id":85671987
         }
     ],
     "wof:id":1209606239,
@@ -83,9 +89,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638760,
+    "wof:lastmodified":1614717441,
     "wof:name":"Tempel",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072947,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

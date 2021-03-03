@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672073,
+        102073085
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"f9d709b2fd5784be61c3678be8952c21",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209682757
+            "county_id":102073085,
+            "locality_id":1209682757,
+            "region_id":85672073
         }
     ],
     "wof:id":1209682757,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638600,
+    "wof:lastmodified":1614718425,
     "wof:name":"Silau Doyong",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073085,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

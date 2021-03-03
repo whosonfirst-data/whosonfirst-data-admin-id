@@ -67,7 +67,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671983,
+        102072613
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -77,8 +80,11 @@
     "wof:geomhash":"2506b69c2f8f8b6f69a50a3e68c1e237",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209475401
+            "county_id":102072613,
+            "locality_id":1209475401,
+            "region_id":85671983
         }
     ],
     "wof:id":1209475401,
@@ -89,9 +95,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652120,
+    "wof:lastmodified":1614714806,
     "wof:name":"Patrol",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072613,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

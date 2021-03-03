@@ -61,7 +61,10 @@
     "src:geom_alt":[],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
-        102020439
+        102191569,
+        85632203,
+        102072687,
+        85671995
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -71,20 +74,21 @@
     "wof:geomhash":"dce75c72dfd7e181c57c2aba0f82d3a6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
-            "locality_id":102020439,
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102072687,
+            "locality_id":-1,
             "neighbourhood_id":85768297,
-            "region_id":-1
+            "region_id":85671995
         }
     ],
     "wof:id":85768297,
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1613151814,
+    "wof:lastmodified":1614744926,
     "wof:name":"Gebrug",
-    "wof:parent_id":102020439,
+    "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671991,
+        102073577
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"fc4c769998b791a999d2ea4dcfcfca1f",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209616595
+            "county_id":102073577,
+            "locality_id":1209616595,
+            "region_id":85671991
         }
     ],
     "wof:id":1209616595,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638621,
+    "wof:lastmodified":1614722341,
     "wof:name":"Tabahpenyengat",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073577,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

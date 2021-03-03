@@ -32,7 +32,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672059,
+        102073075
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,8 +45,11 @@
     "wof:geomhash":"68a626716d293c13c64e5bc2f6cc5540",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209246189
+            "county_id":102073075,
+            "locality_id":1209246189,
+            "region_id":85672059
         }
     ],
     "wof:id":1209246189,
@@ -54,9 +60,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638395,
+    "wof:lastmodified":1614718396,
     "wof:name":"Teluklangkap",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073075,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

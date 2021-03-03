@@ -40,7 +40,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671983,
+        102072855
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,8 +53,11 @@
     "wof:geomhash":"23381cde1b0ef005ae4a7c0a428222b2",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209364325
+            "county_id":102072855,
+            "locality_id":1209364325,
+            "region_id":85671983
         }
     ],
     "wof:id":1209364325,
@@ -62,9 +68,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614637997,
+    "wof:lastmodified":1614716698,
     "wof:name":"Wado",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072855,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

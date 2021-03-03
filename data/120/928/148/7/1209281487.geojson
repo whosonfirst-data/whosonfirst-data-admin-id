@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672073,
+        102073263
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"dfa3a3183c95ba23bd1d8f89fb9efc1b",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209281487
+            "county_id":102073263,
+            "locality_id":1209281487,
+            "region_id":85672073
         }
     ],
     "wof:id":1209281487,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614639143,
+    "wof:lastmodified":1614719866,
     "wof:name":"Sriutama",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073263,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

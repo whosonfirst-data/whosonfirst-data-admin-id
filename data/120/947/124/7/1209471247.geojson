@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672105,
+        102073461
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"f56907ce87b154d8495d97ec06887acf",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209471247
+            "county_id":102073461,
+            "locality_id":1209471247,
+            "region_id":85672105
         }
     ],
     "wof:id":1209471247,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638456,
+    "wof:lastmodified":1614721309,
     "wof:name":"Mokolai",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073461,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

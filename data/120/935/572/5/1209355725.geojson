@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672055,
+        102072891
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"452dbf9a5eb9e5035daee2c9079fc957",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209355725
+            "county_id":102072891,
+            "locality_id":1209355725,
+            "region_id":85672055
         }
     ],
     "wof:id":1209355725,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638677,
+    "wof:lastmodified":1614717001,
     "wof:name":"Huluwone",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072891,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

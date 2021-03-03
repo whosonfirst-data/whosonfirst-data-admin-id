@@ -40,7 +40,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102072639
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,8 +53,11 @@
     "wof:geomhash":"9eb9bff739e0d74fafbe150f5dbafb88",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209305719
+            "county_id":102072639,
+            "locality_id":1209305719,
+            "region_id":85671987
         }
     ],
     "wof:id":1209305719,
@@ -62,9 +68,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614651982,
+    "wof:lastmodified":1614715016,
     "wof:name":"Banjaran",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072639,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102073111
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"5b3985beea280e8c7daa6897fb04b27b",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209097077
+            "county_id":102073111,
+            "locality_id":1209097077,
+            "region_id":85671987
         }
     ],
     "wof:id":1209097077,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614637952,
+    "wof:lastmodified":1614718540,
     "wof:name":"Terban",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073111,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

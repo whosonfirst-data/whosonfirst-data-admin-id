@@ -40,7 +40,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672009,
+        102072943
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,8 +53,11 @@
     "wof:geomhash":"c1b35debe9b1ea312aca079e645081b4",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209187005
+            "county_id":102072943,
+            "locality_id":1209187005,
+            "region_id":85672009
         }
     ],
     "wof:id":1209187005,
@@ -62,9 +68,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638969,
+    "wof:lastmodified":1614717378,
     "wof:name":"Besuki",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072943,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

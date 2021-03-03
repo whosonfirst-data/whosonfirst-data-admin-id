@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672041,
+        102072833
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +47,11 @@
     "wof:geomhash":"5869e13bddb1567193835f463558fe09",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209357463
+            "county_id":102072833,
+            "locality_id":1209357463,
+            "region_id":85672041
         }
     ],
     "wof:id":1209357463,
@@ -56,9 +62,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638678,
+    "wof:lastmodified":1614716541,
     "wof:name":"Limbongkata",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072833,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

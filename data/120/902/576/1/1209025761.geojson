@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672027,
+        102073495
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"83c56ed80f127302657e76790b267929",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209025761
+            "county_id":102073495,
+            "locality_id":1209025761,
+            "region_id":85672027
         }
     ],
     "wof:id":1209025761,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638852,
+    "wof:lastmodified":1614721635,
     "wof:name":"Popongan",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073495,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

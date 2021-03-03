@@ -64,7 +64,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672023,
+        102073027
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -74,8 +77,11 @@
     "wof:geomhash":"bf759c2f74ab62ca740b9253b8b4afc7",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209226837
+            "county_id":102073027,
+            "locality_id":1209226837,
+            "region_id":85672023
         }
     ],
     "wof:id":1209226837,
@@ -86,9 +92,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638526,
+    "wof:lastmodified":1614718028,
     "wof:name":"Yeha",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073027,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

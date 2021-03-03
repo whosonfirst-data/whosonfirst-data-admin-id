@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672081,
+        102073137
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +47,11 @@
     "wof:geomhash":"9c58a2283b71df47f12d06e38a49e467",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209625005
+            "county_id":102073137,
+            "locality_id":1209625005,
+            "region_id":85672081
         }
     ],
     "wof:id":1209625005,
@@ -56,9 +62,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638097,
+    "wof:lastmodified":1614718708,
     "wof:name":"Kaluwatu",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073137,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

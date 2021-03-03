@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671995,
+        102072687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +47,11 @@
     "wof:geomhash":"ed6783245056e24f805cfef843f772aa",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209464897
+            "county_id":102072687,
+            "locality_id":1209464897,
+            "region_id":85671995
         }
     ],
     "wof:id":1209464897,
@@ -56,9 +62,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652069,
+    "wof:lastmodified":1614715291,
     "wof:name":"Gabus",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072687,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

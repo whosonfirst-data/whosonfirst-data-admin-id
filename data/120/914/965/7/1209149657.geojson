@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672019,
+        102073043
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"30922900c1a3932ec81ef7d39b7d8e77",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209149657
+            "county_id":102073043,
+            "locality_id":1209149657,
+            "region_id":85672019
         }
     ],
     "wof:id":1209149657,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652149,
+    "wof:lastmodified":1614718081,
     "wof:name":"Kenanga",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073043,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

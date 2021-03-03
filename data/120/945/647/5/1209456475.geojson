@@ -32,7 +32,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672013,
+        102072629
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,8 +45,11 @@
     "wof:geomhash":"f3f7230dfecad5c6c694d9fad71ba617",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209456475
+            "county_id":102072629,
+            "locality_id":1209456475,
+            "region_id":85672013
         }
     ],
     "wof:id":1209456475,
@@ -54,9 +60,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614639055,
+    "wof:lastmodified":1614714954,
     "wof:name":"Sebalik",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072629,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

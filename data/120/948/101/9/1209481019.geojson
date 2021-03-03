@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672037,
+        102072837
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"2e5272972ca1ff55552faea451294210",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209481019
+            "county_id":102072837,
+            "locality_id":1209481019,
+            "region_id":85672037
         }
     ],
     "wof:id":1209481019,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638269,
+    "wof:lastmodified":1614716565,
     "wof:name":"Wolondopo",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072837,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671983,
+        102072937
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"6e8c81224e0e628c1b6a77c9ab4135a0",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209264283
+            "county_id":102072937,
+            "locality_id":1209264283,
+            "region_id":85671983
         }
     ],
     "wof:id":1209264283,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614639069,
+    "wof:lastmodified":1614717319,
     "wof:name":"Babakansampeu",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072937,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

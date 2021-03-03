@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672103,
+        102073575
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"e3e9f4c844ba7d28bcb261279b7b6881",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209290603
+            "county_id":102073575,
+            "locality_id":1209290603,
+            "region_id":85672103
         }
     ],
     "wof:id":1209290603,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638930,
+    "wof:lastmodified":1614722338,
     "wof:name":"Joroktiram",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073575,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

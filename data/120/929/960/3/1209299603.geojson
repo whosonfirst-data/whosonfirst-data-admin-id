@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672027,
+        102073377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +47,11 @@
     "wof:geomhash":"e69ef2a88d36a3b230ec46ba188434b6",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209299603
+            "county_id":102073377,
+            "locality_id":1209299603,
+            "region_id":85672027
         }
     ],
     "wof:id":1209299603,
@@ -56,9 +62,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638926,
+    "wof:lastmodified":1614720707,
     "wof:name":"Sendanggiwak",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073377,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

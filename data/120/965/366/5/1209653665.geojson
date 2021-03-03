@@ -52,7 +52,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672049,
+        102073089
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,8 +65,11 @@
     "wof:geomhash":"428966dbc48a2ff885eac0310f79b4db",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209653665
+            "county_id":102073089,
+            "locality_id":1209653665,
+            "region_id":85672049
         }
     ],
     "wof:id":1209653665,
@@ -74,9 +80,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638054,
+    "wof:lastmodified":1614718467,
     "wof:name":"Monos",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073089,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

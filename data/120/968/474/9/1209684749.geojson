@@ -46,7 +46,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672111,
+        102073447
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,8 +59,11 @@
     "wof:geomhash":"715b01a7130a07afb1068b41e5a62b50",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209684749
+            "county_id":102073447,
+            "locality_id":1209684749,
+            "region_id":85672111
         }
     ],
     "wof:id":1209684749,
@@ -68,9 +74,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638606,
+    "wof:lastmodified":1614721144,
     "wof:name":"Gio",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073447,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

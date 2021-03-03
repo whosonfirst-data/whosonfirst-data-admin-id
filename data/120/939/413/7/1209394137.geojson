@@ -32,7 +32,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672063,
+        102072911
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,8 +45,11 @@
     "wof:geomhash":"9c6b830dc046f9f6cc5b1b8ad0c121a9",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209394137
+            "county_id":102072911,
+            "locality_id":1209394137,
+            "region_id":85672063
         }
     ],
     "wof:id":1209394137,
@@ -54,9 +60,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638108,
+    "wof:lastmodified":1614717094,
     "wof:name":"Pangkalansengat",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072911,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

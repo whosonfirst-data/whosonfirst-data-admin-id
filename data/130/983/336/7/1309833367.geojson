@@ -33,7 +33,10 @@
         "Solal"
     ],
     "src:geom":"geonames",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632203
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1906651
@@ -42,8 +45,8 @@
     "wof:geomhash":"8fcdb11c9ce7b414e29b66c93a6bbf15",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191569,
+            "country_id":85632203,
             "locality_id":1309833367,
             "region_id":-1
         }
@@ -56,7 +59,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614641733,
+    "wof:lastmodified":1614728816,
     "wof:name":"Solal",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

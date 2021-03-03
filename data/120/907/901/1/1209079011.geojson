@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672009,
+        102073475
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +47,11 @@
     "wof:geomhash":"351621d97f5c4581a3a4a70a10a2f3fa",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209079011
+            "county_id":102073475,
+            "locality_id":1209079011,
+            "region_id":85672009
         }
     ],
     "wof:id":1209079011,
@@ -56,9 +62,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638017,
+    "wof:lastmodified":1614721406,
     "wof:name":"Umbulan Kangonan",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073475,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

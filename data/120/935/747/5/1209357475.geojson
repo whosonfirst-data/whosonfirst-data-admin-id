@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672041,
+        102072931
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"c75121957320c7f8ccc5cbe27be91570",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209357475
+            "county_id":102072931,
+            "locality_id":1209357475,
+            "region_id":85672041
         }
     ],
     "wof:id":1209357475,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652198,
+    "wof:lastmodified":1614717286,
     "wof:name":"Mariso",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072931,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

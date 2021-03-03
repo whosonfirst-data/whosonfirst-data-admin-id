@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672087,
+        102072853
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"84626c4563445aa7ff621ec49456a38c",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209383035
+            "county_id":102072853,
+            "locality_id":1209383035,
+            "region_id":85672087
         }
     ],
     "wof:id":1209383035,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638012,
+    "wof:lastmodified":1614716677,
     "wof:name":"Sungaituru",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072853,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

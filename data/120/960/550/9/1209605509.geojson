@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672027,
+        102073485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +47,11 @@
     "wof:geomhash":"f6d630b5c8ff4a19f41ef4b9f649d7ba",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209605509
+            "county_id":102073485,
+            "locality_id":1209605509,
+            "region_id":85672027
         }
     ],
     "wof:id":1209605509,
@@ -56,9 +62,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652219,
+    "wof:lastmodified":1614721563,
     "wof:name":"Kebonagung",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073485,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

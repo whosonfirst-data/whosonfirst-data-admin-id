@@ -33,7 +33,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672097,
+        1108796827
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +46,11 @@
     "wof:geomhash":"0376c67c9b6910f69b88ed42e7185f79",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209057361
+            "county_id":1108796827,
+            "locality_id":1209057361,
+            "region_id":85672097
         }
     ],
     "wof:id":1209057361,
@@ -55,9 +61,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638815,
+    "wof:lastmodified":1614722569,
     "wof:name":"Wakuabaru",
-    "wof:parent_id":85632203,
+    "wof:parent_id":1108796827,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

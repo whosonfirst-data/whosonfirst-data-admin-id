@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671973,
+        102072965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +47,11 @@
     "wof:geomhash":"22e09f48ebbd54239df9386eb9dd0e90",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209428591
+            "county_id":102072965,
+            "locality_id":1209428591,
+            "region_id":85671973
         }
     ],
     "wof:id":1209428591,
@@ -56,9 +62,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614639045,
+    "wof:lastmodified":1614717609,
     "wof:name":"Biakmuli",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072965,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

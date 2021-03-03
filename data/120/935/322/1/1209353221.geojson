@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672041,
+        102073115
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +47,11 @@
     "wof:geomhash":"04b177f03b9909b28e47d3c02717700a",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209353221
+            "county_id":102073115,
+            "locality_id":1209353221,
+            "region_id":85672041
         }
     ],
     "wof:id":1209353221,
@@ -56,9 +62,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638678,
+    "wof:lastmodified":1614718572,
     "wof:name":"Sileo Dua",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073115,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

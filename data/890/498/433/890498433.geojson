@@ -29,9 +29,7 @@
     "qs:pop_sr":"0",
     "src:population":"geonames",
     "wof:belongsto":[
-        102191569,
-        85632203,
-        85672077
+        102191569
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,9 +43,9 @@
     "wof:hierarchy":[
         {
             "continent_id":102191569,
-            "country_id":85632203,
+            "country_id":-1,
             "locality_id":890498433,
-            "region_id":85672077
+            "region_id":-1
         }
     ],
     "wof:id":890498433,
@@ -58,9 +56,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614642151,
+    "wof:lastmodified":1614731693,
     "wof:name":"Merbau",
-    "wof:parent_id":85672077,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:population":0,
     "wof:repo":"whosonfirst-data-admin-id",

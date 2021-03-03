@@ -61,7 +61,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672087,
+        102072729
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -71,8 +74,11 @@
     "wof:geomhash":"0a1dfaf1754dab254e2ad1f0505f7aad",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209583929
+            "county_id":102072729,
+            "locality_id":1209583929,
+            "region_id":85672087
         }
     ],
     "wof:id":1209583929,
@@ -83,9 +89,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638734,
+    "wof:lastmodified":1614715789,
     "wof:name":"Rimbo",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072729,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

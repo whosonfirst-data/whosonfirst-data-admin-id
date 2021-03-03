@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672055,
+        1108796791
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"d030b5d1ddf8a96563fe25c7675c7050",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209359867
+            "county_id":1108796791,
+            "locality_id":1209359867,
+            "region_id":85672055
         }
     ],
     "wof:id":1209359867,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638682,
+    "wof:lastmodified":1614722369,
     "wof:name":"Sipatana",
-    "wof:parent_id":85632203,
+    "wof:parent_id":1108796791,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

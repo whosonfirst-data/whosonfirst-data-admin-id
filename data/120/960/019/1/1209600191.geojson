@@ -43,7 +43,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672027,
+        102073485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,8 +56,11 @@
     "wof:geomhash":"52a67798071ee3fb459602c5c76d0457",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209600191
+            "county_id":102073485,
+            "locality_id":1209600191,
+            "region_id":85672027
         }
     ],
     "wof:id":1209600191,
@@ -65,9 +71,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638762,
+    "wof:lastmodified":1614721547,
     "wof:name":"Karangtengah",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073485,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

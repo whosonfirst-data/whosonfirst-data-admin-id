@@ -28,7 +28,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672093,
+        102073189
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,8 +41,11 @@
     "wof:geomhash":"f951c2518c75e7b5d1c411b1e71fc906",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209603935
+            "county_id":102073189,
+            "locality_id":1209603935,
+            "region_id":85672093
         }
     ],
     "wof:id":1209603935,
@@ -50,9 +56,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638756,
+    "wof:lastmodified":1614719082,
     "wof:name":"Wakul",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073189,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

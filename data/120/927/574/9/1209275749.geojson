@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672085,
+        1108796815
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +47,11 @@
     "wof:geomhash":"df61c3d044f30ca2c51d1fc8f93cad46",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209275749
+            "county_id":1108796815,
+            "locality_id":1209275749,
+            "region_id":85672085
         }
     ],
     "wof:id":1209275749,
@@ -56,9 +62,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638959,
+    "wof:lastmodified":1614722510,
     "wof:name":"Watelelalmata",
-    "wof:parent_id":85632203,
+    "wof:parent_id":1108796815,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

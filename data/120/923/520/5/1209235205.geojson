@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102072759
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"f6705694ece3da15433f1bd67e21ad0c",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209235205
+            "county_id":102072759,
+            "locality_id":1209235205,
+            "region_id":85671987
         }
     ],
     "wof:id":1209235205,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638400,
+    "wof:lastmodified":1614716087,
     "wof:name":"Blimbing",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072759,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

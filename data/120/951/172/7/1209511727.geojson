@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672027,
+        102073325
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"ff3b91e5f161bee62a5978285044ecc9",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209511727
+            "county_id":102073325,
+            "locality_id":1209511727,
+            "region_id":85672027
         }
     ],
     "wof:id":1209511727,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638810,
+    "wof:lastmodified":1614720287,
     "wof:name":"Sukogunungkrajan",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073325,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672037,
+        102072837
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"1a7934b6110aeb30ce7339b7ffbc17df",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209578327
+            "county_id":102072837,
+            "locality_id":1209578327,
+            "region_id":85672037
         }
     ],
     "wof:id":1209578327,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638580,
+    "wof:lastmodified":1614716577,
     "wof:name":"Aedoa",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072837,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

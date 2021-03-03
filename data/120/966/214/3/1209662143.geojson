@@ -35,7 +35,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672085,
+        102072651
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,8 +48,11 @@
     "wof:geomhash":"be819a899219682fb1eddebb9001c7b7",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209662143
+            "county_id":102072651,
+            "locality_id":1209662143,
+            "region_id":85672085
         }
     ],
     "wof:id":1209662143,
@@ -57,9 +63,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638645,
+    "wof:lastmodified":1614715140,
     "wof:name":"Fegudu",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072651,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

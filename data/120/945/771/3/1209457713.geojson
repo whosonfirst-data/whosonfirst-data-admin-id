@@ -46,7 +46,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672041,
+        102073433
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,8 +59,11 @@
     "wof:geomhash":"17d86f7eb5b47250b69e51d63e4db0a8",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209457713
+            "county_id":102073433,
+            "locality_id":1209457713,
+            "region_id":85672041
         }
     ],
     "wof:id":1209457713,
@@ -68,9 +74,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614639052,
+    "wof:lastmodified":1614721039,
     "wof:name":"Kum",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073433,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

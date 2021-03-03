@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672059,
+        102073075
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"3df5d2794c818e55da195f7bf8097245",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209613963
+            "county_id":102073075,
+            "locality_id":1209613963,
+            "region_id":85672059
         }
     ],
     "wof:id":1209613963,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638618,
+    "wof:lastmodified":1614718396,
     "wof:name":"Penapalan",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073075,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

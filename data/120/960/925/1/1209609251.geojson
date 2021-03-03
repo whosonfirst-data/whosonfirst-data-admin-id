@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102073417
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"b1de23e4a591e79835d98fcf379e46d8",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209609251
+            "county_id":102073417,
+            "locality_id":1209609251,
+            "region_id":85671987
         }
     ],
     "wof:id":1209609251,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652226,
+    "wof:lastmodified":1614720938,
     "wof:name":"Dukuhmalang",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073417,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

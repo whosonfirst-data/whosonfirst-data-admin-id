@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671973,
+        102073139
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"a48fd5bfb2a229a02c74630f633ef3a8",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209529285
+            "county_id":102073139,
+            "locality_id":1209529285,
+            "region_id":85671973
         }
     ],
     "wof:id":1209529285,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652024,
+    "wof:lastmodified":1614718717,
     "wof:name":"Uleerabo",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073139,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

@@ -47,10 +47,11 @@
         "state_id":2345721
     },
     "wof:belongsto":[
+        85672031,
+        102191569,
         85632203,
-        102073523,
         102020919,
-        85672031
+        102073523
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -65,9 +66,11 @@
     "wof:hierarchy":[
         {
             "campus_id":102552161,
+            "continent_id":102191569,
             "country_id":85632203,
             "county_id":102073523,
             "locality_id":102020919,
+            "neighbourhood_id":-1,
             "region_id":85672031
         }
     ],
@@ -79,7 +82,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1613173652,
+    "wof:lastmodified":1614713664,
     "wof:name":"Batulicin Airport",
     "wof:parent_id":102020919,
     "wof:placetype":"campus",

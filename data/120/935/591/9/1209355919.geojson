@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671995,
+        102073053
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"4c5a9a9ac4bf60d92dea66d9caea4635",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209355919
+            "county_id":102073053,
+            "locality_id":1209355919,
+            "region_id":85671995
         }
     ],
     "wof:id":1209355919,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638679,
+    "wof:lastmodified":1614718128,
     "wof:name":"Cimarat",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073053,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

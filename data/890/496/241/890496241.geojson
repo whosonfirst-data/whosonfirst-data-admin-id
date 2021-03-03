@@ -27,6 +27,7 @@
     "qs:pop_sr":"0",
     "src:population":"geonames",
     "wof:belongsto":[
+        102191569,
         85632203
     ],
     "wof:breaches":[],
@@ -39,8 +40,10 @@
     "wof:geomhash":"65665b9ab9ac66643d9848129c215510",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "localadmin_id":890496241
+            "localadmin_id":890496241,
+            "region_id":-1
         }
     ],
     "wof:id":890496241,
@@ -51,7 +54,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1613182678,
+    "wof:lastmodified":1614726105,
     "wof:name":"Kelurahan Polagan",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

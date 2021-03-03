@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102072759
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"07a04bdd0cb6c2336782247c43ad67d2",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209508949
+            "county_id":102072759,
+            "locality_id":1209508949,
+            "region_id":85671987
         }
     ],
     "wof:id":1209508949,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638554,
+    "wof:lastmodified":1614716094,
     "wof:name":"Bentar",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072759,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

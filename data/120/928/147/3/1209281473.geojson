@@ -37,7 +37,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672073,
+        102072919
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,8 +50,11 @@
     "wof:geomhash":"d173328b9f894c6d08284567884a95f8",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209281473
+            "county_id":102072919,
+            "locality_id":1209281473,
+            "region_id":85672073
         }
     ],
     "wof:id":1209281473,
@@ -59,9 +65,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614639143,
+    "wof:lastmodified":1614717127,
     "wof:name":"Pasar",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072919,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

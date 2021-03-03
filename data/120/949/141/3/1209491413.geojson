@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672103,
+        102072923
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"0d0080b1c194c2949b5f32acd950f371",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209491413
+            "county_id":102072923,
+            "locality_id":1209491413,
+            "region_id":85672103
         }
     ],
     "wof:id":1209491413,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652134,
+    "wof:lastmodified":1614717195,
     "wof:name":"Penanae",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072923,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

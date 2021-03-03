@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672115,
+        102073081
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"9e51ffcc5770b8666fa4875777dfedba",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209358963
+            "county_id":102073081,
+            "locality_id":1209358963,
+            "region_id":85672115
         }
     ],
     "wof:id":1209358963,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652199,
+    "wof:lastmodified":1614718401,
     "wof:name":"Yulianadora",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073081,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

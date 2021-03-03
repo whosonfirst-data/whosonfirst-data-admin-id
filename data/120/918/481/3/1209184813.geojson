@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671977,
+        102072785
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +47,11 @@
     "wof:geomhash":"9b8dbbfa786662560af32c46d063f1cc",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209184813
+            "county_id":102072785,
+            "locality_id":1209184813,
+            "region_id":85671977
         }
     ],
     "wof:id":1209184813,
@@ -56,9 +62,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638974,
+    "wof:lastmodified":1614716274,
     "wof:name":"Tumbak",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072785,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

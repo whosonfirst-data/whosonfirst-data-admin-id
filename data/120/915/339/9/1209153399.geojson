@@ -28,7 +28,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672077,
+        1108796927
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,8 +41,11 @@
     "wof:geomhash":"35d71d780d5d02ed2947b33fb8c38fdc",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209153399
+            "county_id":1108796927,
+            "locality_id":1209153399,
+            "region_id":85672077
         }
     ],
     "wof:id":1209153399,
@@ -50,9 +56,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638371,
+    "wof:lastmodified":1614722894,
     "wof:name":"Belading",
-    "wof:parent_id":85632203,
+    "wof:parent_id":1108796927,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

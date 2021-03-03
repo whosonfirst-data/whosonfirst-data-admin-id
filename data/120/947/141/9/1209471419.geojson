@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672073,
+        1108796987
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"063c9ac9daeafa43e397793bbbe8119a",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209471419
+            "county_id":1108796987,
+            "locality_id":1209471419,
+            "region_id":85672073
         }
     ],
     "wof:id":1209471419,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638457,
+    "wof:lastmodified":1614723041,
     "wof:name":"Lauru",
-    "wof:parent_id":85632203,
+    "wof:parent_id":1108796987,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

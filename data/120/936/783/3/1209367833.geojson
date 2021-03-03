@@ -33,7 +33,7 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +43,10 @@
     "wof:geomhash":"d0068dff0803d330bab6dec5511c48a7",
     "wof:hierarchy":[
         {
-            "country_id":85632203,
-            "locality_id":1209367833
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1209367833,
+            "region_id":-1
         }
     ],
     "wof:id":1209367833,
@@ -55,9 +57,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614637985,
+    "wof:lastmodified":1614728669,
     "wof:name":"Aiduna",
-    "wof:parent_id":85632203,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

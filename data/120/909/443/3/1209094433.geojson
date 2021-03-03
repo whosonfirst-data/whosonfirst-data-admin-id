@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672005,
+        102072839
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"93416f5f8d288629d10be8e98f2a54ca",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209094433
+            "county_id":102072839,
+            "locality_id":1209094433,
+            "region_id":85672005
         }
     ],
     "wof:id":1209094433,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614637964,
+    "wof:lastmodified":1614716596,
     "wof:name":"Legung",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072839,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

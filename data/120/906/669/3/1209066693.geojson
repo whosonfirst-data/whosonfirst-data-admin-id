@@ -40,7 +40,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671995,
+        102072687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,8 +53,11 @@
     "wof:geomhash":"45382fb8b46eeed382c7b634457cdc57",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209066693
+            "county_id":102072687,
+            "locality_id":1209066693,
+            "region_id":85671995
         }
     ],
     "wof:id":1209066693,
@@ -62,9 +68,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638125,
+    "wof:lastmodified":1614715253,
     "wof:name":"Gebang",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072687,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

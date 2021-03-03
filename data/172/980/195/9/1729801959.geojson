@@ -24,12 +24,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        102020429,
+        102073125,
+        85672001
+    ],
     "wof:breaches":[],
     "wof:country":"ID",
     "wof:created":1613158583,
     "wof:geomhash":"4940a60ddc0c7b637f81e91604c90749",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102073125,
+            "locality_id":102020429,
+            "neighbourhood_id":1729801959,
+            "region_id":85672001
+        }
+    ],
     "wof:id":1729801959,
     "wof:lang_x_official":[
         "ind"
@@ -38,9 +53,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1613179619,
+    "wof:lastmodified":1614723360,
     "wof:name":"Marunda",
-    "wof:parent_id":-1,
+    "wof:parent_id":102020429,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

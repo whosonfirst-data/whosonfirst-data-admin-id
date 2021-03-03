@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102072733
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"94f979fbb8a5d3ff8b9ba8d3f79a1b05",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209205797
+            "county_id":102072733,
+            "locality_id":1209205797,
+            "region_id":85671987
         }
     ],
     "wof:id":1209205797,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638949,
+    "wof:lastmodified":1614715828,
     "wof:name":"Supan",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072733,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

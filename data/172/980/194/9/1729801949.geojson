@@ -24,12 +24,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        102020429,
+        102073125,
+        85672001
+    ],
     "wof:breaches":[],
     "wof:country":"ID",
     "wof:created":1613158579,
     "wof:geomhash":"8300905940a46c65ddbe8cae7d9db61e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102073125,
+            "locality_id":102020429,
+            "neighbourhood_id":1729801949,
+            "region_id":85672001
+        }
+    ],
     "wof:id":1729801949,
     "wof:lang_x_official":[
         "ind"
@@ -38,9 +53,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1613179620,
+    "wof:lastmodified":1614723357,
     "wof:name":"Rawabadak Selatan",
-    "wof:parent_id":-1,
+    "wof:parent_id":102020429,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

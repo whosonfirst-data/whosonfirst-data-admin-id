@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102072887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"32850fc3962d98e2aba4086a474f1cc8",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209097401
+            "county_id":102072887,
+            "locality_id":1209097401,
+            "region_id":85671987
         }
     ],
     "wof:id":1209097401,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614637956,
+    "wof:lastmodified":1614716984,
     "wof:name":"Lemahputih Kidul",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072887,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

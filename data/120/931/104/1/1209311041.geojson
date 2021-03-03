@@ -79,7 +79,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672027,
+        102073519
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -89,8 +92,11 @@
     "wof:geomhash":"d78e8cfc47fbd76330e10f87b2fedf79",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209311041
+            "county_id":102073519,
+            "locality_id":1209311041,
+            "region_id":85672027
         }
     ],
     "wof:id":1209311041,
@@ -101,9 +107,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614651911,
+    "wof:lastmodified":1614721842,
     "wof:name":"Butan",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073519,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

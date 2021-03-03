@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102073111
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"a8a4125e39327b48a3a20d95d1694fb2",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209609073
+            "county_id":102073111,
+            "locality_id":1209609073,
+            "region_id":85671987
         }
     ],
     "wof:id":1209609073,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638740,
+    "wof:lastmodified":1614718548,
     "wof:name":"Menur",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073111,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

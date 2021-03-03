@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102073169
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"b31cb1fa9209f7a5908627e0ac681c0a",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209308617
+            "county_id":102073169,
+            "locality_id":1209308617,
+            "region_id":85671987
         }
     ],
     "wof:id":1209308617,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638146,
+    "wof:lastmodified":1614718934,
     "wof:name":"Cepoko",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073169,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

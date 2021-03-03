@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102073169
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"f50af0ba3cc49477ccea35c859f48df3",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209205725
+            "county_id":102073169,
+            "locality_id":1209205725,
+            "region_id":85671987
         }
     ],
     "wof:id":1209205725,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638939,
+    "wof:lastmodified":1614718920,
     "wof:name":"Toyamerto",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073169,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672041,
+        102072845
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +47,11 @@
     "wof:geomhash":"32123ac5270c3c45c22f546cb86b0fe9",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209558055
+            "county_id":102072845,
+            "locality_id":1209558055,
+            "region_id":85672041
         }
     ],
     "wof:id":1209558055,
@@ -56,9 +62,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652027,
+    "wof:lastmodified":1614716613,
     "wof:name":"Leatung",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072845,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

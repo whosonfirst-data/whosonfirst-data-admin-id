@@ -35,9 +35,7 @@
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
     "wof:belongs_to":[],
-    "wof:belongsto":[
-        85632203
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1630916,
@@ -47,8 +45,10 @@
     "wof:geomhash":"626fc9aa3d6bad827f61729bf2c46265",
     "wof:hierarchy":[
         {
-            "country_id":85632203,
-            "locality_id":102019391
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":102019391,
+            "region_id":-1
         }
     ],
     "wof:id":102019391,
@@ -59,7 +59,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1613173741,
+    "wof:lastmodified":1614712992,
     "wof:name":"Pomalaa",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

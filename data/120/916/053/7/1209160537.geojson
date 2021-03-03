@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671983,
+        102073307
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"abbed638d4f3c64d93cc343e5b3bf298",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209160537
+            "county_id":102073307,
+            "locality_id":1209160537,
+            "region_id":85671983
         }
     ],
     "wof:id":1209160537,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652285,
+    "wof:lastmodified":1614720175,
     "wof:name":"Puncaksukawargi",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073307,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672105,
+        102073461
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"9b11ad44d412503ae32028d831c837c6",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209573849
+            "county_id":102073461,
+            "locality_id":1209573849,
+            "region_id":85672105
         }
     ],
     "wof:id":1209573849,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638581,
+    "wof:lastmodified":1614721311,
     "wof:name":"Andeposando",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073461,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

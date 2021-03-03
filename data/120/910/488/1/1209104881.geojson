@@ -49,7 +49,10 @@
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672059,
+        102073285
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,8 +63,11 @@
     "wof:geomhash":"ea239a6fef892d7e2213a453d52c4e33",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209104881
+            "county_id":102073285,
+            "locality_id":1209104881,
+            "region_id":85672059
         }
     ],
     "wof:id":1209104881,
@@ -72,9 +78,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614639153,
+    "wof:lastmodified":1614720000,
     "wof:name":"Bejubang Dua",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073285,
     "wof:placetype":"locality",
     "wof:population":7957,
     "wof:population_rank":5,

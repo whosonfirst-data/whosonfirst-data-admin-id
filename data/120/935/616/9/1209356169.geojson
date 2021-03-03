@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672013,
+        102073033
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"5bd3fb625ff3ed25c88e8a6559e250eb",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209356169
+            "county_id":102073033,
+            "locality_id":1209356169,
+            "region_id":85672013
         }
     ],
     "wof:id":1209356169,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638676,
+    "wof:lastmodified":1614718064,
     "wof:name":"Tanahabang",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073033,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

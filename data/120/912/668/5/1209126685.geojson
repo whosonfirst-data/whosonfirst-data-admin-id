@@ -43,7 +43,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102072887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,8 +56,11 @@
     "wof:geomhash":"ec5cb74ac3013fae0cc1ec877ca2175e",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209126685
+            "county_id":102072887,
+            "locality_id":1209126685,
+            "region_id":85671987
         }
     ],
     "wof:id":1209126685,
@@ -65,9 +71,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638389,
+    "wof:lastmodified":1614716974,
     "wof:name":"Karangasem",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072887,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

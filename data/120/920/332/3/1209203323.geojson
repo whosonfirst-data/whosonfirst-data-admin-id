@@ -28,7 +28,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672093,
+        102073265
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,8 +41,11 @@
     "wof:geomhash":"df9a45af67e68af43b2fd94a5bce25aa",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209203323
+            "county_id":102073265,
+            "locality_id":1209203323,
+            "region_id":85672093
         }
     ],
     "wof:id":1209203323,
@@ -50,9 +56,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638941,
+    "wof:lastmodified":1614719904,
     "wof:name":"Kranggan",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073265,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

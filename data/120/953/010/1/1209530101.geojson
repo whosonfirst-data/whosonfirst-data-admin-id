@@ -28,7 +28,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672115,
+        102072939
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,8 +41,11 @@
     "wof:geomhash":"d9dabd6eb9641b8f076a0a70d1ccd17a",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209530101
+            "county_id":102072939,
+            "locality_id":1209530101,
+            "region_id":85672115
         }
     ],
     "wof:id":1209530101,
@@ -50,9 +56,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638035,
+    "wof:lastmodified":1614717362,
     "wof:name":"Wan",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072939,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

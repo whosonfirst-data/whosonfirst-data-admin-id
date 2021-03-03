@@ -28,7 +28,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672067,
+        1108796869
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,8 +41,11 @@
     "wof:geomhash":"8f30f61fbf06813d0ef39d66fb123ca9",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209258893
+            "county_id":1108796869,
+            "locality_id":1209258893,
+            "region_id":85672067
         }
     ],
     "wof:id":1209258893,
@@ -50,9 +56,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638529,
+    "wof:lastmodified":1614722770,
     "wof:name":"Maniwak",
-    "wof:parent_id":85632203,
+    "wof:parent_id":1108796869,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

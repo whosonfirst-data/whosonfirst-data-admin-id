@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671995,
+        102073479
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"e5c259733ce6da7e3ba2daabe591f1fb",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209460297
+            "county_id":102073479,
+            "locality_id":1209460297,
+            "region_id":85671995
         }
     ],
     "wof:id":1209460297,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652067,
+    "wof:lastmodified":1614721445,
     "wof:name":"Lebakjero",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073479,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

@@ -31,7 +31,7 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +41,10 @@
     "wof:geomhash":"8d8ec13ee5f7fc0283d488a779b9ed28",
     "wof:hierarchy":[
         {
-            "country_id":85632203,
-            "locality_id":1209480927
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1209480927,
+            "region_id":-1
         }
     ],
     "wof:id":1209480927,
@@ -53,9 +55,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638271,
+    "wof:lastmodified":1614726307,
     "wof:name":"Woloabi",
-    "wof:parent_id":85632203,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

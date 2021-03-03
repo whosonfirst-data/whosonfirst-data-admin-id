@@ -40,8 +40,7 @@
     "src:geom_via":"quattroshapes",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
-        102191569,
-        85632203
+        102191569
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,8 +55,9 @@
     "wof:hierarchy":[
         {
             "continent_id":102191569,
-            "country_id":85632203,
-            "locality_id":102022457
+            "country_id":-1,
+            "locality_id":102022457,
+            "region_id":-1
         }
     ],
     "wof:id":102022457,
@@ -68,7 +68,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1613173649,
+    "wof:lastmodified":1614714501,
     "wof:name":"Kecamatan Cibalong",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

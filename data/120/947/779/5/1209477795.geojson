@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672037,
+        1108796857
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"717c8555f1f704878f650ec14b426761",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209477795
+            "county_id":1108796857,
+            "locality_id":1209477795,
+            "region_id":85672037
         }
     ],
     "wof:id":1209477795,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652119,
+    "wof:lastmodified":1614722736,
     "wof:name":"Ngadujara",
-    "wof:parent_id":85632203,
+    "wof:parent_id":1108796857,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

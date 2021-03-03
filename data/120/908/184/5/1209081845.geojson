@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672037,
+        102072751
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"b1e3ffefb733f3798636fb12bc3918ea",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209081845
+            "county_id":102072751,
+            "locality_id":1209081845,
+            "region_id":85672037
         }
     ],
     "wof:id":1209081845,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638169,
+    "wof:lastmodified":1614716017,
     "wof:name":"Kune",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072751,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

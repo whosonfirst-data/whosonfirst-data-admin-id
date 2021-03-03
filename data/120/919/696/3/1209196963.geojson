@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672009,
+        102072989
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"d62b0606747cc365b7024f90091aed9b",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209196963
+            "county_id":102072989,
+            "locality_id":1209196963,
+            "region_id":85672009
         }
     ],
     "wof:id":1209196963,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614639091,
+    "wof:lastmodified":1614717765,
     "wof:name":"Talang Karet",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072989,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

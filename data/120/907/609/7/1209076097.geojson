@@ -31,6 +31,7 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191569,
         85632203
     ],
     "wof:breaches":[],
@@ -41,8 +42,10 @@
     "wof:geomhash":"279d0d4d765f3d5ecb61d036d1d2a8cb",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209076097
+            "locality_id":1209076097,
+            "region_id":-1
         }
     ],
     "wof:id":1209076097,
@@ -53,9 +56,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638024,
+    "wof:lastmodified":1614727108,
     "wof:name":"Tanjungagung",
-    "wof:parent_id":85632203,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

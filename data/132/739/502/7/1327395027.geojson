@@ -33,7 +33,10 @@
         "Menanga"
     ],
     "src:geom":"geonames",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632203
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1635600
@@ -42,8 +45,8 @@
     "wof:geomhash":"2f339d1f2a7250118fa70e4992eabdcb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191569,
+            "country_id":85632203,
             "locality_id":1327395027,
             "region_id":-1
         }
@@ -56,7 +59,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614632324,
+    "wof:lastmodified":1614735249,
     "wof:name":"Menange",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

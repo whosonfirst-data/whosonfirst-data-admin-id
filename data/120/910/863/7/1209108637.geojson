@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672023,
+        102072703
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"2414f272c7d7388b9a5d4da4eeb15677",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209108637
+            "county_id":102072703,
+            "locality_id":1209108637,
+            "region_id":85672023
         }
     ],
     "wof:id":1209108637,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614639160,
+    "wof:lastmodified":1614715392,
     "wof:name":"Jepun",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072703,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

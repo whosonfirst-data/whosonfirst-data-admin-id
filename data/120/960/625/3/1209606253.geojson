@@ -28,7 +28,10 @@
     "mz:min_zoom":13.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102073405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,8 +41,11 @@
     "wof:geomhash":"2c68c2a138520c7eca4b0f5d1e5fe1b3",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209606253
+            "county_id":102073405,
+            "locality_id":1209606253,
+            "region_id":85671987
         }
     ],
     "wof:id":1209606253,
@@ -50,9 +56,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652230,
+    "wof:lastmodified":1614720837,
     "wof:name":"Combongan",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073405,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

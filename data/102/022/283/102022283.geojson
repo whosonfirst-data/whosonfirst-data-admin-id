@@ -50,9 +50,7 @@
     "src:lbl:centroid":"mapshaper",
     "wd:wordcount":257,
     "wof:belongs_to":[],
-    "wof:belongsto":[
-        85632203
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7473646
@@ -61,8 +59,10 @@
     "wof:geomhash":"51fe9f11275829d837ff35ea60365589",
     "wof:hierarchy":[
         {
-            "country_id":85632203,
-            "locality_id":102022283
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":102022283,
+            "region_id":-1
         }
     ],
     "wof:id":102022283,
@@ -73,7 +73,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1613173644,
+    "wof:lastmodified":1614714427,
     "wof:name":"Masamba",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

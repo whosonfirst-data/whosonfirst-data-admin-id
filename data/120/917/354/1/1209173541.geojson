@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672013,
+        102073571
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +47,11 @@
     "wof:geomhash":"0676df81b2106f722e90bfc7705a0fd7",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209173541
+            "county_id":102073571,
+            "locality_id":1209173541,
+            "region_id":85672013
         }
     ],
     "wof:id":1209173541,
@@ -56,9 +62,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614639111,
+    "wof:lastmodified":1614722323,
     "wof:name":"Baru Dua",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073571,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

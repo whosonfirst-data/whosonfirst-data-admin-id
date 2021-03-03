@@ -37,7 +37,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671977,
+        102073357
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,8 +50,11 @@
     "wof:geomhash":"cd1b10291db3e8818f3c413bc89bcf87",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209589103
+            "county_id":102073357,
+            "locality_id":1209589103,
+            "region_id":85671977
         }
     ],
     "wof:id":1209589103,
@@ -59,9 +65,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652218,
+    "wof:lastmodified":1614720424,
     "wof:name":"Damai",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073357,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

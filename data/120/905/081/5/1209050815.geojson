@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672115,
+        102073467
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"cef700d1e5aad8ed0603e7a81fc12f84",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209050815
+            "county_id":102073467,
+            "locality_id":1209050815,
+            "region_id":85672115
         }
     ],
     "wof:id":1209050815,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638831,
+    "wof:lastmodified":1614721334,
     "wof:name":"Kaningbitip",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073467,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

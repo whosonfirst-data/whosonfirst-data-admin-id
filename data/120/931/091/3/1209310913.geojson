@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672027,
+        102072973
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"e250276bc4712cd0b34708969967f80f",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209310913
+            "county_id":102072973,
+            "locality_id":1209310913,
+            "region_id":85672027
         }
     ],
     "wof:id":1209310913,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614651913,
+    "wof:lastmodified":1614717621,
     "wof:name":"Cigrok",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072973,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

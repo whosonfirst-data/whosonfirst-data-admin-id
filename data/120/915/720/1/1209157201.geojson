@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672041,
+        102073433
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"2912d18ddb5001382827d31347be4e4a",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209157201
+            "county_id":102073433,
+            "locality_id":1209157201,
+            "region_id":85672041
         }
     ],
     "wof:id":1209157201,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638382,
+    "wof:lastmodified":1614721040,
     "wof:name":"Bububanga",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073433,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

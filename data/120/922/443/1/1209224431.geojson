@@ -33,7 +33,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672087,
+        102073151
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +46,11 @@
     "wof:geomhash":"d8d4af7fd91bc10e99d7dc98f83c5820",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209224431
+            "county_id":102073151,
+            "locality_id":1209224431,
+            "region_id":85672087
         }
     ],
     "wof:id":1209224431,
@@ -55,9 +61,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638525,
+    "wof:lastmodified":1614718767,
     "wof:name":"Talau",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073151,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

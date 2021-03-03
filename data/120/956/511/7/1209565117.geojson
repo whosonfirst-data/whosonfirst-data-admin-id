@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671983,
+        102072739
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"86dabf041577fdbb2fd9b1dfd61304ba",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209565117
+            "county_id":102072739,
+            "locality_id":1209565117,
+            "region_id":85671983
         }
     ],
     "wof:id":1209565117,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638784,
+    "wof:lastmodified":1614715931,
     "wof:name":"Sindangsono",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072739,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

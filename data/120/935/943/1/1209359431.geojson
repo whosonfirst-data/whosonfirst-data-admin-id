@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672019,
+        102073129
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"9a6655a84e0bd6c82f4cbce89c8bc0de",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209359431
+            "county_id":102073129,
+            "locality_id":1209359431,
+            "region_id":85672019
         }
     ],
     "wof:id":1209359431,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638682,
+    "wof:lastmodified":1614718693,
     "wof:name":"Batuitam",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073129,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

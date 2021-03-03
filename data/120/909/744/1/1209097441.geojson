@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102072921
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"24d4d1a1e261befc16f81fcafb6d5d7e",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209097441
+            "county_id":102072921,
+            "locality_id":1209097441,
+            "region_id":85671987
         }
     ],
     "wof:id":1209097441,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614637968,
+    "wof:lastmodified":1614717173,
     "wof:name":"Comberan",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072921,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

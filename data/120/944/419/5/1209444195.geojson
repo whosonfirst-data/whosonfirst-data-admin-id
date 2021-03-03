@@ -70,7 +70,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672081,
+        102073343
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -80,8 +83,11 @@
     "wof:geomhash":"ddfad207163bcb9959db60784d6c966e",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209444195
+            "county_id":102073343,
+            "locality_id":1209444195,
+            "region_id":85672081
         }
     ],
     "wof:id":1209444195,
@@ -92,9 +98,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652380,
+    "wof:lastmodified":1614720384,
     "wof:name":"Batu",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073343,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

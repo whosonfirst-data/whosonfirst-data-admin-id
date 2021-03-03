@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102072819
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +47,11 @@
     "wof:geomhash":"40b2d5ae7e32df37a07f5aafe4ae1155",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209126863
+            "county_id":102072819,
+            "locality_id":1209126863,
+            "region_id":85671987
         }
     ],
     "wof:id":1209126863,
@@ -56,9 +62,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638382,
+    "wof:lastmodified":1614716456,
     "wof:name":"Timbang Satu",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072819,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

@@ -43,7 +43,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671995,
+        102072687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,8 +56,11 @@
     "wof:geomhash":"7089141c5a7174f30f4d1a69118c1f99",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209664839
+            "county_id":102072687,
+            "locality_id":1209664839,
+            "region_id":85671995
         }
     ],
     "wof:id":1209664839,
@@ -65,9 +71,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638632,
+    "wof:lastmodified":1614715287,
     "wof:name":"Pinang",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072687,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

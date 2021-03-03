@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672081,
+        102073137
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"1d35c094578bac2f3c482423a9c76c56",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209033959
+            "county_id":102073137,
+            "locality_id":1209033959,
+            "region_id":85672081
         }
     ],
     "wof:id":1209033959,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638683,
+    "wof:lastmodified":1614718708,
     "wof:name":"Bowoliang",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073137,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

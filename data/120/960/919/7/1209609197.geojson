@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102072715
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"15d3c130e6e6eed24f52cb4ee709f118",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209609197
+            "county_id":102072715,
+            "locality_id":1209609197,
+            "region_id":85671987
         }
     ],
     "wof:id":1209609197,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638770,
+    "wof:lastmodified":1614715718,
     "wof:name":"Tipar",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072715,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

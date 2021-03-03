@@ -35,7 +35,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102073169
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,8 +48,11 @@
     "wof:geomhash":"f8c224179eabbada8d6c8621c7204f7f",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209405847
+            "county_id":102073169,
+            "locality_id":1209405847,
+            "region_id":85671987
         }
     ],
     "wof:id":1209405847,
@@ -57,9 +63,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638431,
+    "wof:lastmodified":1614718926,
     "wof:name":"Bejenbeji",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073169,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

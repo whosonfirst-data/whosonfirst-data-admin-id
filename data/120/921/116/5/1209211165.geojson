@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102073153
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"112e0b66efadce7c41729f65941f630d",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209211165
+            "county_id":102073153,
+            "locality_id":1209211165,
+            "region_id":85671987
         }
     ],
     "wof:id":1209211165,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614639099,
+    "wof:lastmodified":1614718777,
     "wof:name":"Semagung",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073153,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

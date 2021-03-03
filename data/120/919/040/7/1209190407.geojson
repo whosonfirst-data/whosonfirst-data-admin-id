@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672103,
+        102072655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"9d77630cd6b845563dc02d3d9e0105dc",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209190407
+            "county_id":102072655,
+            "locality_id":1209190407,
+            "region_id":85672103
         }
     ],
     "wof:id":1209190407,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614639083,
+    "wof:lastmodified":1614715156,
     "wof:name":"Desaberu",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072655,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102072913
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"c66ed922b6c5f0de617d0b0efbbe0580",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209409097
+            "county_id":102072913,
+            "locality_id":1209409097,
+            "region_id":85671987
         }
     ],
     "wof:id":1209409097,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652095,
+    "wof:lastmodified":1614717105,
     "wof:name":"Tanjungsari",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072913,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

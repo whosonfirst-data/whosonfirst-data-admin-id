@@ -43,7 +43,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672027,
+        102073065
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,8 +56,11 @@
     "wof:geomhash":"4028c7fe7a850f6ecddfdc15115d73e2",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209274573
+            "county_id":102073065,
+            "locality_id":1209274573,
+            "region_id":85672027
         }
     ],
     "wof:id":1209274573,
@@ -65,9 +71,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638965,
+    "wof:lastmodified":1614718322,
     "wof:name":"Jambu",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073065,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

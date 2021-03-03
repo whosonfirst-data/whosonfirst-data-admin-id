@@ -242,7 +242,9 @@
     "wd:wordcount":37,
     "wof:belongsto":[
         102191569,
-        85632203
+        85632203,
+        85672049,
+        102073089
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -262,7 +264,9 @@
         {
             "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":102022663
+            "county_id":102073089,
+            "locality_id":102022663,
+            "region_id":85672049
         }
     ],
     "wof:id":102022663,
@@ -273,9 +277,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1613173647,
+    "wof:lastmodified":1614714584,
     "wof:name":"kundur",
-    "wof:parent_id":-1,
+    "wof:parent_id":102073089,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

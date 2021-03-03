@@ -36,7 +36,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672085,
+        102072651
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,8 +49,11 @@
     "wof:geomhash":"efb19bc52796836f4f65c79e1d9ea3f8",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209275463
+            "county_id":102072651,
+            "locality_id":1209275463,
+            "region_id":85672085
         }
     ],
     "wof:id":1209275463,
@@ -58,9 +64,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638967,
+    "wof:lastmodified":1614715138,
     "wof:name":"Samuya",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072651,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

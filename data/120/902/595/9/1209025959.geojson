@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672027,
+        102073305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"875b4ce474aa4690a8427220dcd0df1b",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209025959
+            "county_id":102073305,
+            "locality_id":1209025959,
+            "region_id":85672027
         }
     ],
     "wof:id":1209025959,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652265,
+    "wof:lastmodified":1614720143,
     "wof:name":"Antokan",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073305,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

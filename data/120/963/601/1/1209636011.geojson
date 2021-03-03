@@ -28,7 +28,10 @@
     "mz:min_zoom":13.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102073233
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,8 +41,11 @@
     "wof:geomhash":"9bf5d25b5e5f699cb262c6d66e674ddf",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209636011
+            "county_id":102073233,
+            "locality_id":1209636011,
+            "region_id":85671987
         }
     ],
     "wof:id":1209636011,
@@ -50,9 +56,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614651995,
+    "wof:lastmodified":1614719581,
     "wof:name":"Pason",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073233,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

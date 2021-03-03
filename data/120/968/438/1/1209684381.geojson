@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672105,
+        102072731
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"5c2fe4b1970dd199ebdd6ff7a4f52a47",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209684381
+            "county_id":102072731,
+            "locality_id":1209684381,
+            "region_id":85672105
         }
     ],
     "wof:id":1209684381,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638601,
+    "wof:lastmodified":1614715799,
     "wof:name":"Puutabu",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072731,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

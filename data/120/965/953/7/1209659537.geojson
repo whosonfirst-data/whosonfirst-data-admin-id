@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672115,
+        1108796879
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"c87c866ce2501c52e8cd09e9be9b9a67",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209659537
+            "county_id":1108796879,
+            "locality_id":1209659537,
+            "region_id":85672115
         }
     ],
     "wof:id":1209659537,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638049,
+    "wof:lastmodified":1614722783,
     "wof:name":"Tenarop",
-    "wof:parent_id":85632203,
+    "wof:parent_id":1108796879,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

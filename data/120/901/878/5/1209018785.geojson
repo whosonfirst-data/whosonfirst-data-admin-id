@@ -106,7 +106,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672027,
+        102072849
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -116,8 +119,11 @@
     "wof:geomhash":"3f5c2ad7020e762d9ad9d272f1d69e3c",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209018785
+            "county_id":102072849,
+            "locality_id":1209018785,
+            "region_id":85672027
         }
     ],
     "wof:id":1209018785,
@@ -128,9 +134,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638104,
+    "wof:lastmodified":1614716643,
     "wof:name":"Pomona",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072849,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672105,
+        102072793
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"25d74cab0d8b758e9b02434455def2f9",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209170555
+            "county_id":102072793,
+            "locality_id":1209170555,
+            "region_id":85672105
         }
     ],
     "wof:id":1209170555,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614639121,
+    "wof:lastmodified":1614716291,
     "wof:name":"Lalibo",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072793,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672027,
+        102073375
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"ce76ff4fbc41c1aa262546da0d3ca0a5",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209310977
+            "county_id":102073375,
+            "locality_id":1209310977,
+            "region_id":85672027
         }
     ],
     "wof:id":1209310977,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614651914,
+    "wof:lastmodified":1614720640,
     "wof:name":"Tawangsari",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073375,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

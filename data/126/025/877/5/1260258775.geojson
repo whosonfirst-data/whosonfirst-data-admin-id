@@ -30,7 +30,10 @@
         "Papakkebon"
     ],
     "src:geom":"geonames",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632203
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7554503
@@ -39,8 +42,8 @@
     "wof:geomhash":"0d5b76a95ddebab0df1051ef550fe86b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191569,
+            "country_id":85632203,
             "locality_id":1260258775,
             "region_id":-1
         }
@@ -53,7 +56,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652986,
+    "wof:lastmodified":1614729829,
     "wof:name":"Papakkebon",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

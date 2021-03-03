@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672027,
+        102072775
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"ab8f9e6f908850b0ff14f98a036580a2",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209310897
+            "county_id":102072775,
+            "locality_id":1209310897,
+            "region_id":85672027
         }
     ],
     "wof:id":1209310897,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614651915,
+    "wof:lastmodified":1614716188,
     "wof:name":"Sondrian",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072775,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

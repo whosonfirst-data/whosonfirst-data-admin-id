@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102073169
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"19db1d695e1d174a6e3c76ea027aac3b",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209308345
+            "county_id":102073169,
+            "locality_id":1209308345,
+            "region_id":85671987
         }
     ],
     "wof:id":1209308345,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638149,
+    "wof:lastmodified":1614718929,
     "wof:name":"Logede",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073169,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

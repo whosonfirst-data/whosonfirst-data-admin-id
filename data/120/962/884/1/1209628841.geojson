@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671973,
+        102073537
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"4ff5b247294e55c80355f6b4306fb5be",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209628841
+            "county_id":102073537,
+            "locality_id":1209628841,
+            "region_id":85671973
         }
     ],
     "wof:id":1209628841,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638097,
+    "wof:lastmodified":1614722126,
     "wof:name":"Alue Tho",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073537,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

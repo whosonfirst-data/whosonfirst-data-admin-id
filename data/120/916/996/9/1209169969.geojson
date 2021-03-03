@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672087,
+        102073181
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"a91b59529a4db3d9e4790575eba9220e",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209169969
+            "county_id":102073181,
+            "locality_id":1209169969,
+            "region_id":85672087
         }
     ],
     "wof:id":1209169969,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652281,
+    "wof:lastmodified":1614719019,
     "wof:name":"Cimparuh",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073181,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

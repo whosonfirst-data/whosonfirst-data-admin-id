@@ -25,9 +25,7 @@
     "qs:pop_sr":"0",
     "src:population":"geonames",
     "wof:belongsto":[
-        102191569,
-        85632203,
-        85672027
+        102191569
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +39,9 @@
     "wof:hierarchy":[
         {
             "continent_id":102191569,
-            "country_id":85632203,
+            "country_id":-1,
             "locality_id":890500447,
-            "region_id":85672027
+            "region_id":-1
         }
     ],
     "wof:id":890500447,
@@ -54,9 +52,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614642164,
+    "wof:lastmodified":1614735262,
     "wof:name":"Masjid",
-    "wof:parent_id":85672027,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:population":0,
     "wof:repo":"whosonfirst-data-admin-id",

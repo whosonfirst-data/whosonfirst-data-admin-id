@@ -33,7 +33,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672115,
+        102072939
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +46,11 @@
     "wof:geomhash":"70aca0189d196ecb723174a5d23a790c",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209120535
+            "county_id":102072939,
+            "locality_id":1209120535,
+            "region_id":85672115
         }
     ],
     "wof:id":1209120535,
@@ -55,9 +61,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638385,
+    "wof:lastmodified":1614717366,
     "wof:name":"Yawali",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072939,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

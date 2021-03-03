@@ -64,9 +64,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        102072667,
-        102020433,
-        85672001
+        102072687,
+        85671995
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -81,10 +80,10 @@
         {
             "continent_id":102191569,
             "country_id":85632203,
-            "county_id":102072667,
-            "locality_id":102020433,
+            "county_id":102072687,
+            "locality_id":-1,
             "neighbourhood_id":85768509,
-            "region_id":85672001
+            "region_id":85671995
         }
     ],
     "wof:id":85768509,
@@ -95,9 +94,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1613175298,
+    "wof:lastmodified":1614744823,
     "wof:name":"Pisangan",
-    "wof:parent_id":102020433,
+    "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

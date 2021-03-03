@@ -55,7 +55,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672037,
+        102073439
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -65,8 +68,11 @@
     "wof:geomhash":"6a7da3e470f8a1a6d423953f5d70a9de",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209578187
+            "county_id":102073439,
+            "locality_id":1209578187,
+            "region_id":85672037
         }
     ],
     "wof:id":1209578187,
@@ -77,9 +83,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638577,
+    "wof:lastmodified":1614721095,
     "wof:name":"Sano",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073439,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

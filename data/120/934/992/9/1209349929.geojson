@@ -31,7 +31,7 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +41,10 @@
     "wof:geomhash":"ee7ce5937edd396bcf7d764fc6df16f8",
     "wof:hierarchy":[
         {
-            "country_id":85632203,
-            "locality_id":1209349929
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1209349929,
+            "region_id":-1
         }
     ],
     "wof:id":1209349929,
@@ -53,9 +55,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652273,
+    "wof:lastmodified":1614728391,
     "wof:name":"Kasiwa",
-    "wof:parent_id":85632203,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

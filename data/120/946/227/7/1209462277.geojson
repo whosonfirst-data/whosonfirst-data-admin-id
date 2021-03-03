@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672097,
+        1108796839
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"3dd6c58a4619a266a36cd3a2a3a4fb5a",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209462277
+            "county_id":1108796839,
+            "locality_id":1209462277,
+            "region_id":85672097
         }
     ],
     "wof:id":1209462277,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652060,
+    "wof:lastmodified":1614722594,
     "wof:name":"Waimital",
-    "wof:parent_id":85632203,
+    "wof:parent_id":1108796839,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

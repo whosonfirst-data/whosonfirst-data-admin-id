@@ -40,7 +40,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102073405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,8 +53,11 @@
     "wof:geomhash":"0f2c6e4b35c3b966b8651fe1781735e4",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209211325
+            "county_id":102073405,
+            "locality_id":1209211325,
+            "region_id":85671987
         }
     ],
     "wof:id":1209211325,
@@ -62,9 +68,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652355,
+    "wof:lastmodified":1614720828,
     "wof:name":"Samin",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073405,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

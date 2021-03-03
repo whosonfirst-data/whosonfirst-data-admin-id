@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102072947
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"b48505f5a79ed161fb3d1ed17a350780",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209126631
+            "county_id":102072947,
+            "locality_id":1209126631,
+            "region_id":85671987
         }
     ],
     "wof:id":1209126631,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638393,
+    "wof:lastmodified":1614717404,
     "wof:name":"Kalianom",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072947,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

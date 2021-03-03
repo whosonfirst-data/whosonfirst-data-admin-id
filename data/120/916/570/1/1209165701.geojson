@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672041,
+        102072633
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"47c0df2b0fb5e2c89189b2d7f2acf3c5",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209165701
+            "county_id":102072633,
+            "locality_id":1209165701,
+            "region_id":85672041
         }
     ],
     "wof:id":1209165701,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638917,
+    "wof:lastmodified":1614714972,
     "wof:name":"Tasama",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072633,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

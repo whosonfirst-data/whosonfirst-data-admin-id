@@ -58,7 +58,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102072707
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -68,8 +71,11 @@
     "wof:geomhash":"b4d94212ecf6541a41526c77d959b963",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209097145
+            "county_id":102072707,
+            "locality_id":1209097145,
+            "region_id":85671987
         }
     ],
     "wof:id":1209097145,
@@ -80,9 +86,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614637956,
+    "wof:lastmodified":1614715505,
     "wof:name":"Beran",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072707,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

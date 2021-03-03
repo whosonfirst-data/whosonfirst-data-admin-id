@@ -50,7 +50,11 @@
     "woe:name_adm1":"Jakarta Raya",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
-        102020439
+        102191569,
+        85632203,
+        102020429,
+        102073125,
+        85672001
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,11 +70,12 @@
     "wof:geomhash":"59465917b1ea938a1705e3ed68e52acd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
-            "locality_id":102020439,
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102073125,
+            "locality_id":102020429,
             "neighbourhood_id":1126087415,
-            "region_id":-1
+            "region_id":85672001
         }
     ],
     "wof:id":1126087415,
@@ -81,9 +86,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1613182819,
+    "wof:lastmodified":1614723108,
     "wof:name":"Pejagalan",
-    "wof:parent_id":102020439,
+    "wof:parent_id":102020429,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

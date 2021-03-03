@@ -58,7 +58,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672067,
+        1108796863
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -68,8 +71,11 @@
     "wof:geomhash":"f8bdcfeecffd167247ac5e14edd418b1",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209443755
+            "county_id":1108796863,
+            "locality_id":1209443755,
+            "region_id":85672067
         }
     ],
     "wof:id":1209443755,
@@ -80,9 +86,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614639162,
+    "wof:lastmodified":1614722757,
     "wof:name":"Kasim",
-    "wof:parent_id":85632203,
+    "wof:parent_id":1108796863,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

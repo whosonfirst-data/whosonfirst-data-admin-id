@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672105,
+        102072731
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"11323c0479a5096c94defe210e71f4dd",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209571801
+            "county_id":102072731,
+            "locality_id":1209571801,
+            "region_id":85672105
         }
     ],
     "wof:id":1209571801,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638581,
+    "wof:lastmodified":1614715794,
     "wof:name":"Tosiba",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072731,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

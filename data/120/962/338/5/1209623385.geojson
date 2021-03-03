@@ -37,7 +37,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672023,
+        102072905
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,8 +50,11 @@
     "wof:geomhash":"00cc50c1ac4b0e6322bde596d39734a7",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209623385
+            "county_id":102072905,
+            "locality_id":1209623385,
+            "region_id":85672023
         }
     ],
     "wof:id":1209623385,
@@ -59,9 +65,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614651950,
+    "wof:lastmodified":1614717066,
     "wof:name":"Labak",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072905,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

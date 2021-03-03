@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102072727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +47,11 @@
     "wof:geomhash":"0f2d1f58b8fa0d35a7d935458567404a",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209335129
+            "county_id":102072727,
+            "locality_id":1209335129,
+            "region_id":85671987
         }
     ],
     "wof:id":1209335129,
@@ -56,9 +62,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652278,
+    "wof:lastmodified":1614715766,
     "wof:name":"Pucung",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072727,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

@@ -28,7 +28,10 @@
     "mz:min_zoom":13.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102072857
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,8 +41,11 @@
     "wof:geomhash":"6585632acb5b9fa6449d81f7f53732b8",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209305747
+            "county_id":102072857,
+            "locality_id":1209305747,
+            "region_id":85671987
         }
     ],
     "wof:id":1209305747,
@@ -50,9 +56,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614651974,
+    "wof:lastmodified":1614716851,
     "wof:name":"Kembang",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072857,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672009,
+        102072943
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +47,11 @@
     "wof:geomhash":"eb3e75d679713001479bf042ac7cf6d0",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209588447
+            "county_id":102072943,
+            "locality_id":1209588447,
+            "region_id":85672009
         }
     ],
     "wof:id":1209588447,
@@ -56,9 +62,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638731,
+    "wof:lastmodified":1614717378,
     "wof:name":"Negeribesar",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072943,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

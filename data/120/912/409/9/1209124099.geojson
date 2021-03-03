@@ -28,7 +28,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671977,
+        102072993
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,8 +41,11 @@
     "wof:geomhash":"7a0db89e05d6ed451a6a5854efaf8e10",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209124099
+            "county_id":102072993,
+            "locality_id":1209124099,
+            "region_id":85671977
         }
     ],
     "wof:id":1209124099,
@@ -50,9 +56,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638388,
+    "wof:lastmodified":1614717791,
     "wof:name":"Namis",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072993,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

@@ -55,7 +55,7 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -65,8 +65,10 @@
     "wof:geomhash":"d3ace7a2bc047e34fc007bb1e7e827c5",
     "wof:hierarchy":[
         {
-            "country_id":85632203,
-            "locality_id":1209170551
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1209170551,
+            "region_id":-1
         }
     ],
     "wof:id":1209170551,
@@ -77,9 +79,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614639121,
+    "wof:lastmodified":1614727371,
     "wof:name":"Topa",
-    "wof:parent_id":85632203,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

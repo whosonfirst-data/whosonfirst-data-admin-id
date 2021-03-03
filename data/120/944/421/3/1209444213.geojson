@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672045,
+        102072975
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +47,11 @@
     "wof:geomhash":"26021949fbca2a54c3eadf35d8be509b",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209444213
+            "county_id":102072975,
+            "locality_id":1209444213,
+            "region_id":85672045
         }
     ],
     "wof:id":1209444213,
@@ -56,9 +62,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614639161,
+    "wof:lastmodified":1614717647,
     "wof:name":"Belalang",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072975,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

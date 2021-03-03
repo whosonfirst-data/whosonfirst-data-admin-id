@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672081,
+        102073387
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"19b10a7f7cbe67be749c3f916e8f2904",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209343199
+            "county_id":102073387,
+            "locality_id":1209343199,
+            "region_id":85672081
         }
     ],
     "wof:id":1209343199,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652274,
+    "wof:lastmodified":1614720767,
     "wof:name":"Kamanga",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073387,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

@@ -24,12 +24,26 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        102072687,
+        85671995
+    ],
     "wof:breaches":[],
     "wof:country":"ID",
     "wof:created":1613158778,
     "wof:geomhash":"6ea7dd111458aa5d989ec887b531b08d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102072687,
+            "locality_id":-1,
+            "neighbourhood_id":1729802479,
+            "region_id":85671995
+        }
+    ],
     "wof:id":1729802479,
     "wof:lang_x_official":[
         "ind"
@@ -38,7 +52,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1613179634,
+    "wof:lastmodified":1614723569,
     "wof:name":"Rawa Mekar Jaya",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

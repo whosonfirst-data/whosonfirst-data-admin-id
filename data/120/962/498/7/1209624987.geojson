@@ -33,7 +33,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672067,
+        102073049
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +46,11 @@
     "wof:geomhash":"fd0e2b4fb09c3aba261ae9b53efa67fa",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209624987
+            "county_id":102073049,
+            "locality_id":1209624987,
+            "region_id":85672067
         }
     ],
     "wof:id":1209624987,
@@ -55,9 +61,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638096,
+    "wof:lastmodified":1614718119,
     "wof:name":"Puarankan",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073049,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

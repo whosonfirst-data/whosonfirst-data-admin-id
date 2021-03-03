@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672105,
+        102073461
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"530faf83f0f1438bb2698c1fffbce412",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209074899
+            "county_id":102073461,
+            "locality_id":1209074899,
+            "region_id":85672105
         }
     ],
     "wof:id":1209074899,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614651919,
+    "wof:lastmodified":1614721311,
     "wof:name":"Puundaipa",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073461,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

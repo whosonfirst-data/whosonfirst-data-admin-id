@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672077,
+        1108796905
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"34507f654663cd7a30f9e5987731a4db",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209357779
+            "county_id":1108796905,
+            "locality_id":1209357779,
+            "region_id":85672077
         }
     ],
     "wof:id":1209357779,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638678,
+    "wof:lastmodified":1614722818,
     "wof:name":"Parit Jelutung Lima",
-    "wof:parent_id":85632203,
+    "wof:parent_id":1108796905,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

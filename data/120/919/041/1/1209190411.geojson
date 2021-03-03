@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672103,
+        102072705
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"698cfd3e26c07a9ca8dc5921c46a41f8",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209190411
+            "county_id":102072705,
+            "locality_id":1209190411,
+            "region_id":85672103
         }
     ],
     "wof:id":1209190411,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614639083,
+    "wof:lastmodified":1614715429,
     "wof:name":"Lempape",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072705,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

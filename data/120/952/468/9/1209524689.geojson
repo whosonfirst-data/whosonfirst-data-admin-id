@@ -35,7 +35,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671973,
+        1108796779
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,8 +48,11 @@
     "wof:geomhash":"04a0113c20164b0cb5d4f3534e656594",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209524689
+            "county_id":1108796779,
+            "locality_id":1209524689,
+            "region_id":85671973
         }
     ],
     "wof:id":1209524689,
@@ -57,9 +63,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638246,
+    "wof:lastmodified":1614722352,
     "wof:name":"Beluruh",
-    "wof:parent_id":85632203,
+    "wof:parent_id":1108796779,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

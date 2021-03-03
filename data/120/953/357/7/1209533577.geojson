@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672027,
+        102073325
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +47,11 @@
     "wof:geomhash":"f22d8a7420429d92e992de2a59662df7",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209533577
+            "county_id":102073325,
+            "locality_id":1209533577,
+            "region_id":85672027
         }
     ],
     "wof:id":1209533577,
@@ -56,9 +62,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638033,
+    "wof:lastmodified":1614720285,
     "wof:name":"Senori",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073325,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

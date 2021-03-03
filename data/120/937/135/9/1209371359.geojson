@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672073,
+        102073085
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"a7f334d2842130b05e91d254130979b4",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209371359
+            "county_id":102073085,
+            "locality_id":1209371359,
+            "region_id":85672073
         }
     ],
     "wof:id":1209371359,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638171,
+    "wof:lastmodified":1614718423,
     "wof:name":"Kampung Keling",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073085,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

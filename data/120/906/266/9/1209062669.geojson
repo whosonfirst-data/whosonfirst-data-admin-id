@@ -28,7 +28,10 @@
     "mz:min_zoom":13.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672105,
+        102072877
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,8 +41,11 @@
     "wof:geomhash":"b70933781ea6b2c98967f448b9bec983",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209062669
+            "county_id":102072877,
+            "locality_id":1209062669,
+            "region_id":85672105
         }
     ],
     "wof:id":1209062669,
@@ -50,9 +56,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614651961,
+    "wof:lastmodified":1614716951,
     "wof:name":"Tekaleano",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072877,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

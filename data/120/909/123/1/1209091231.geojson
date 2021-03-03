@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672027,
+        102073305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"a290d8130913915b36656d5b3d28bce9",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209091231
+            "county_id":102073305,
+            "locality_id":1209091231,
+            "region_id":85672027
         }
     ],
     "wof:id":1209091231,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614637968,
+    "wof:lastmodified":1614720146,
     "wof:name":"Kebonlangsep",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073305,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

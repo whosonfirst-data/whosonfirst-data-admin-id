@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672037,
+        102073355
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"8bd69c8899b6d0fe1843dda5d45cf195",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209691671
+            "county_id":102073355,
+            "locality_id":1209691671,
+            "region_id":85672037
         }
     ],
     "wof:id":1209691671,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638800,
+    "wof:lastmodified":1614720405,
     "wof:name":"Paohu",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073355,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672023,
+        102072583
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"22627a2d5c9528602afb5b2c6dc26c43",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209427153
+            "county_id":102072583,
+            "locality_id":1209427153,
+            "region_id":85672023
         }
     ],
     "wof:id":1209427153,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652339,
+    "wof:lastmodified":1614714632,
     "wof:name":"Banjar Laplap Kauh",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072583,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

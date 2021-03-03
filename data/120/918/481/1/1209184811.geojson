@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671977,
+        102073369
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +47,11 @@
     "wof:geomhash":"5b960b379da9de44fd1174ee88b346ff",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209184811
+            "county_id":102073369,
+            "locality_id":1209184811,
+            "region_id":85671977
         }
     ],
     "wof:id":1209184811,
@@ -56,9 +62,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638974,
+    "wof:lastmodified":1614720586,
     "wof:name":"Satuan Pemukiman IV Kaubun",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073369,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

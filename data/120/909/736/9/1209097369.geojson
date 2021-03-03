@@ -49,7 +49,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102072921
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,8 +62,11 @@
     "wof:geomhash":"d73d97996068aa9d65f69513b9692d0a",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209097369
+            "county_id":102072921,
+            "locality_id":1209097369,
+            "region_id":85671987
         }
     ],
     "wof:id":1209097369,
@@ -71,9 +77,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614637951,
+    "wof:lastmodified":1614717172,
     "wof:name":"Batur",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072921,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

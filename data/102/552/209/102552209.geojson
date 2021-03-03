@@ -64,12 +64,11 @@
         "state_id":2345723
     },
     "wof:belongsto":[
+        1108805993,
         102191569,
         85632203,
-        102072637,
         102018809,
-        85671977,
-        1108805993
+        102072637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -90,14 +89,7 @@
             "country_id":85632203,
             "county_id":102072637,
             "locality_id":102018809,
-            "region_id":85671977
-        },
-        {
-            "campus_id":102552209,
-            "continent_id":102191569,
-            "country_id":85632203,
-            "county_id":102072637,
-            "locality_id":102018809,
+            "neighbourhood_id":-1,
             "region_id":1108805993
         }
     ],
@@ -109,7 +101,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1613173652,
+    "wof:lastmodified":1614714986,
     "wof:name":"Tarakan Airport",
     "wof:parent_id":102018809,
     "wof:placetype":"campus",

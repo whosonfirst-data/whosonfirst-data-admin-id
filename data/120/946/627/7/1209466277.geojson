@@ -43,7 +43,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672041,
+        102073253
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,8 +56,11 @@
     "wof:geomhash":"54fa513b0b5b791e4011d1d699e4cd25",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209466277
+            "county_id":102073253,
+            "locality_id":1209466277,
+            "region_id":85672041
         }
     ],
     "wof:id":1209466277,
@@ -65,9 +71,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652062,
+    "wof:lastmodified":1614719841,
     "wof:name":"Pacing",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073253,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

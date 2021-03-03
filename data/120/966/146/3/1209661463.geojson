@@ -46,7 +46,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671983,
+        102072613
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,8 +59,11 @@
     "wof:geomhash":"af70e93ce2918f7e2934598dda4f8c62",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209661463
+            "county_id":102072613,
+            "locality_id":1209661463,
+            "region_id":85671983
         }
     ],
     "wof:id":1209661463,
@@ -68,9 +74,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638650,
+    "wof:lastmodified":1614714799,
     "wof:name":"Cibiru",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072613,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

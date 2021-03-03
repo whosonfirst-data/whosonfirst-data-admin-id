@@ -40,7 +40,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        1108805993,
+        102073283
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,8 +53,11 @@
     "wof:geomhash":"584e735e80b673678b3ecb8bf7d3ae59",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209343647
+            "county_id":102073283,
+            "locality_id":1209343647,
+            "region_id":1108805993
         }
     ],
     "wof:id":1209343647,
@@ -62,9 +68,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638860,
+    "wof:lastmodified":1614719996,
     "wof:name":"Long Uru",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073283,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672023,
+        102072583
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"02f501e43e6082c5f3ef2a63ff43f1b7",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209226855
+            "county_id":102072583,
+            "locality_id":1209226855,
+            "region_id":85672023
         }
     ],
     "wof:id":1209226855,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652147,
+    "wof:lastmodified":1614714632,
     "wof:name":"Hitbhuana",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072583,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

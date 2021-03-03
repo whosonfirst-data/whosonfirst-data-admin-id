@@ -76,7 +76,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672027,
+        102073017
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -86,8 +89,11 @@
     "wof:geomhash":"44da5c7e3f8fa5278abad607e1fb3e64",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209511537
+            "county_id":102073017,
+            "locality_id":1209511537,
+            "region_id":85672027
         }
     ],
     "wof:id":1209511537,
@@ -98,9 +104,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652252,
+    "wof:lastmodified":1614717944,
     "wof:name":"Karas",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073017,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

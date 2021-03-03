@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672013,
+        102072985
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"da7e5a27af7cf4ba01f76967e93ee591",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209474523
+            "county_id":102072985,
+            "locality_id":1209474523,
+            "region_id":85672013
         }
     ],
     "wof:id":1209474523,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652117,
+    "wof:lastmodified":1614717756,
     "wof:name":"Sungaibinjai",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072985,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

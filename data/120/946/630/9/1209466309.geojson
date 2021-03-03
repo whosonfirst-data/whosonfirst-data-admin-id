@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672041,
+        102073243
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"60cec520c46b1a484ddc61f49d9410fb",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209466309
+            "county_id":102073243,
+            "locality_id":1209466309,
+            "region_id":85672041
         }
     ],
     "wof:id":1209466309,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652070,
+    "wof:lastmodified":1614719689,
     "wof:name":"Panggiliang Utara",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073243,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

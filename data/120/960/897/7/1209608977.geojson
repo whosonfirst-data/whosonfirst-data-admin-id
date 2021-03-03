@@ -46,7 +46,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102073153
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,8 +59,11 @@
     "wof:geomhash":"5f13b7d20783faa8aead3343a88cc5ed",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209608977
+            "county_id":102073153,
+            "locality_id":1209608977,
+            "region_id":85671987
         }
     ],
     "wof:id":1209608977,
@@ -68,9 +74,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638767,
+    "wof:lastmodified":1614718798,
     "wof:name":"Babakan",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073153,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672027,
+        102072773
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"0df9221dce87c42577b932406eaab8c5",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209310765
+            "county_id":102072773,
+            "locality_id":1209310765,
+            "region_id":85672027
         }
     ],
     "wof:id":1209310765,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638002,
+    "wof:lastmodified":1614716166,
     "wof:name":"Kemuningan",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072773,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

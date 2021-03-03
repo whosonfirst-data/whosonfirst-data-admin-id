@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672037,
+        102072817
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"f68fef1dc14fb426965c1c9c3e0e6c43",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209691553
+            "county_id":102072817,
+            "locality_id":1209691553,
+            "region_id":85672037
         }
     ],
     "wof:id":1209691553,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638803,
+    "wof:lastmodified":1614716424,
     "wof:name":"Lamawolo",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072817,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

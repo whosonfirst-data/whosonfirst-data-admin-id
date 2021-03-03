@@ -33,7 +33,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672013,
+        102073561
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +46,11 @@
     "wof:geomhash":"f761f1f1527f9d6d4a2193f2f09f957c",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209273897
+            "county_id":102073561,
+            "locality_id":1209273897,
+            "region_id":85672013
         }
     ],
     "wof:id":1209273897,
@@ -55,9 +61,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638966,
+    "wof:lastmodified":1614722252,
     "wof:name":"Batugajah",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073561,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

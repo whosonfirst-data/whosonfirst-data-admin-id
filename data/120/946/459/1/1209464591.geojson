@@ -28,7 +28,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671995,
+        102073209
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,8 +41,11 @@
     "wof:geomhash":"6e4463eeedc20351653ebe7954c04d43",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209464591
+            "county_id":102073209,
+            "locality_id":1209464591,
+            "region_id":85671995
         }
     ],
     "wof:id":1209464591,
@@ -50,9 +56,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638356,
+    "wof:lastmodified":1614719267,
     "wof:name":"Babahtengeng",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073209,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

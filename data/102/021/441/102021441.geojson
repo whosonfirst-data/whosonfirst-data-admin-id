@@ -61,7 +61,12 @@
     ],
     "src:geom_via":"quattroshapes",
     "src:lbl:centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        85671987,
+        102072819
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6373615,
@@ -76,10 +81,11 @@
     "wof:geomhash":"833747a0c56c45d416f5568eb61ba643",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102072819,
             "locality_id":102021441,
-            "region_id":-1
+            "region_id":85671987
         }
     ],
     "wof:id":102021441,
@@ -90,9 +96,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1613173773,
+    "wof:lastmodified":1614714083,
     "wof:name":"Adipala",
-    "wof:parent_id":-1,
+    "wof:parent_id":102072819,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

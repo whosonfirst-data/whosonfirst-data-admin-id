@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672027,
+        102072773
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"f7a5ba94253b9173535196d5fb51d52e",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209360745
+            "county_id":102072773,
+            "locality_id":1209360745,
+            "region_id":85672027
         }
     ],
     "wof:id":1209360745,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614637989,
+    "wof:lastmodified":1614716160,
     "wof:name":"Sengonan",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072773,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

@@ -64,7 +64,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672105,
+        102073361
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -74,8 +77,11 @@
     "wof:geomhash":"9a3e85bcf44c4b9a5a78518e4481e3a9",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209383585
+            "county_id":102073361,
+            "locality_id":1209383585,
+            "region_id":85672105
         }
     ],
     "wof:id":1209383585,
@@ -86,9 +92,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638012,
+    "wof:lastmodified":1614720577,
     "wof:name":"Dimba",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073361,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

@@ -27,7 +27,10 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632203
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":11242725
@@ -36,8 +39,8 @@
     "wof:geomhash":"febd8007f442eef57064f8670a9029b3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191569,
+            "country_id":85632203,
             "locality_id":1326576373,
             "region_id":-1
         }
@@ -50,7 +53,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614632833,
+    "wof:lastmodified":1614728957,
     "wof:name":"Loleo Mekar",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

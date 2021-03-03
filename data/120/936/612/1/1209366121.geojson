@@ -64,7 +64,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672041,
+        102072845
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -74,8 +77,11 @@
     "wof:geomhash":"f4bebad69ffb78321b645d2191913ef7",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209366121
+            "county_id":102072845,
+            "locality_id":1209366121,
+            "region_id":85672041
         }
     ],
     "wof:id":1209366121,
@@ -86,9 +92,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614637991,
+    "wof:lastmodified":1614716620,
     "wof:name":"Kani",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072845,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

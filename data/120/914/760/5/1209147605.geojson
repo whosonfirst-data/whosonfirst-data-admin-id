@@ -277,7 +277,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672041,
+        102073115
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -287,8 +290,11 @@
     "wof:geomhash":"6c41f7107835ade4c1a785ecb4b4f832",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209147605
+            "county_id":102073115,
+            "locality_id":1209147605,
+            "region_id":85672041
         }
     ],
     "wof:id":1209147605,
@@ -299,9 +305,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638540,
+    "wof:lastmodified":1614718567,
     "wof:name":"Surabaya",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073115,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

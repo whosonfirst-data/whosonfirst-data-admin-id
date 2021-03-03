@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672027,
+        102073223
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"072282e101571e7af1a679aed07d1f10",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209299587
+            "county_id":102073223,
+            "locality_id":1209299587,
+            "region_id":85672027
         }
     ],
     "wof:id":1209299587,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638926,
+    "wof:lastmodified":1614719539,
     "wof:name":"Karanglembana",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073223,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

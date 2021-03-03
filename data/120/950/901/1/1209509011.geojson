@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102072707
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"915f9338e969ba32621e4b8afa8b2675",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209509011
+            "county_id":102072707,
+            "locality_id":1209509011,
+            "region_id":85671987
         }
     ],
     "wof:id":1209509011,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638545,
+    "wof:lastmodified":1614715516,
     "wof:name":"Banggeni",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072707,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672073,
+        102072919
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"d09e47ac2ca91cf3e8fe279351197f13",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209060877
+            "county_id":102072919,
+            "locality_id":1209060877,
+            "region_id":85672073
         }
     ],
     "wof:id":1209060877,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638131,
+    "wof:lastmodified":1614717124,
     "wof:name":"Merikat",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072919,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

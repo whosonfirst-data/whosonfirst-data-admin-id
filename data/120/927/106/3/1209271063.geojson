@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672073,
+        1108796989
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"887f93e99fca4ac491e4cfc49e208c79",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209271063
+            "county_id":1108796989,
+            "locality_id":1209271063,
+            "region_id":85672073
         }
     ],
     "wof:id":1209271063,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638961,
+    "wof:lastmodified":1614723046,
     "wof:name":"Sihapung",
-    "wof:parent_id":85632203,
+    "wof:parent_id":1108796989,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

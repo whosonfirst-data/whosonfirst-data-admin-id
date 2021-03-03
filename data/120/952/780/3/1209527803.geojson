@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672023,
+        102072893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"93213369612b384060ddfd4301ac799a",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209527803
+            "county_id":102072893,
+            "locality_id":1209527803,
+            "region_id":85672023
         }
     ],
     "wof:id":1209527803,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652024,
+    "wof:lastmodified":1614717015,
     "wof:name":"Pengubengan Kangin",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072893,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

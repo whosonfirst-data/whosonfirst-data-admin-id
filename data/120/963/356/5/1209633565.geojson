@@ -33,7 +33,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672063,
+        102073543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +46,11 @@
     "wof:geomhash":"064c4a748670427221a8c6de355a7b05",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209633565
+            "county_id":102073543,
+            "locality_id":1209633565,
+            "region_id":85672063
         }
     ],
     "wof:id":1209633565,
@@ -55,9 +61,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638194,
+    "wof:lastmodified":1614722143,
     "wof:name":"Betung",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073543,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

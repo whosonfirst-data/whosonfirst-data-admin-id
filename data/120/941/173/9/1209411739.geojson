@@ -33,7 +33,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672027,
+        102073223
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +46,11 @@
     "wof:geomhash":"68c1a99f13c6491fd593f34b938ed78e",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209411739
+            "county_id":102073223,
+            "locality_id":1209411739,
+            "region_id":85672027
         }
     ],
     "wof:id":1209411739,
@@ -55,9 +61,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638364,
+    "wof:lastmodified":1614719528,
     "wof:name":"Nyapar",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073223,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

@@ -30,7 +30,10 @@
         "Dasanlontar"
     ],
     "src:geom":"geonames",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632203
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7336281
@@ -39,8 +42,8 @@
     "wof:geomhash":"b04ce29656721139e06481be0ede57a8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191569,
+            "country_id":85632203,
             "locality_id":1360148281,
             "region_id":-1
         }
@@ -53,7 +56,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614653463,
+    "wof:lastmodified":1614730340,
     "wof:name":"Dasanlontar",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

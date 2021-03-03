@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102073111
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"c8c1a99a8289dc4b277d4bd09e8b8c93",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209536427
+            "county_id":102073111,
+            "locality_id":1209536427,
+            "region_id":85671987
         }
     ],
     "wof:id":1209536427,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638029,
+    "wof:lastmodified":1614718539,
     "wof:name":"Bogorame",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073111,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

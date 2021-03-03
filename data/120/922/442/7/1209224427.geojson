@@ -28,7 +28,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672063,
+        102072749
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,8 +41,11 @@
     "wof:geomhash":"9e2ae815359c842e4051d3f7e477139f",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209224427
+            "county_id":102072749,
+            "locality_id":1209224427,
+            "region_id":85672063
         }
     ],
     "wof:id":1209224427,
@@ -50,9 +56,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638525,
+    "wof:lastmodified":1614716014,
     "wof:name":"Tapalan",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072749,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

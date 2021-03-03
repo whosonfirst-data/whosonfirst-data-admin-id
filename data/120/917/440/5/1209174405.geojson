@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671983,
+        102073411
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"587dff1cac355f098f7578e6aa3c1691",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209174405
+            "county_id":102073411,
+            "locality_id":1209174405,
+            "region_id":85671983
         }
     ],
     "wof:id":1209174405,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652365,
+    "wof:lastmodified":1614720887,
     "wof:name":"Gang Karet",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073411,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

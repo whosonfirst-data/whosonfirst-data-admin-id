@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672097,
+        1108796843
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"6e5d09c475aa276992f06a4eddbc62c9",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209053857
+            "county_id":1108796843,
+            "locality_id":1209053857,
+            "region_id":85672097
         }
     ],
     "wof:id":1209053857,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638826,
+    "wof:lastmodified":1614722598,
     "wof:name":"Matul",
-    "wof:parent_id":85632203,
+    "wof:parent_id":1108796843,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

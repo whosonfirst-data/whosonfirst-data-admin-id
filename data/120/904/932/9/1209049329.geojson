@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672041,
+        102073037
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +47,11 @@
     "wof:geomhash":"8bbd817f44d0d53943b2e0179bad7bc5",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209049329
+            "county_id":102073037,
+            "locality_id":1209049329,
+            "region_id":85672041
         }
     ],
     "wof:id":1209049329,
@@ -56,9 +62,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638687,
+    "wof:lastmodified":1614718073,
     "wof:name":"Bungaya Satu",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073037,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

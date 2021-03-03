@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671973,
+        102073421
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +47,11 @@
     "wof:geomhash":"5cd74e92879a7609bf2d106fd2e84b8b",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209017937
+            "county_id":102073421,
+            "locality_id":1209017937,
+            "region_id":85671973
         }
     ],
     "wof:id":1209017937,
@@ -56,9 +62,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638101,
+    "wof:lastmodified":1614720953,
     "wof:name":"Kunyet",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073421,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

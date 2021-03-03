@@ -45,7 +45,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671983,
+        102072613
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,8 +58,11 @@
     "wof:geomhash":"e96022824d7b06de199d9460c4b5cbfd",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209174285
+            "county_id":102072613,
+            "locality_id":1209174285,
+            "region_id":85671983
         }
     ],
     "wof:id":1209174285,
@@ -67,9 +73,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614639126,
+    "wof:lastmodified":1614714816,
     "wof:name":"Cibuntu",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072613,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

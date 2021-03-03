@@ -73,7 +73,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102072733
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -83,8 +86,11 @@
     "wof:geomhash":"0cf90df24bc0b8444c667288d53ee32f",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209235121
+            "county_id":102072733,
+            "locality_id":1209235121,
+            "region_id":85671987
         }
     ],
     "wof:id":1209235121,
@@ -95,9 +101,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652095,
+    "wof:lastmodified":1614715808,
     "wof:name":"Mojo",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072733,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

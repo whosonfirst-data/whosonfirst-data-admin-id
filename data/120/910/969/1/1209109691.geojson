@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671973,
+        102073099
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"161fa32f1f6b958b07c9528944f8a288",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209109691
+            "county_id":102073099,
+            "locality_id":1209109691,
+            "region_id":85671973
         }
     ],
     "wof:id":1209109691,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614639152,
+    "wof:lastmodified":1614718483,
     "wof:name":"Kuatateubu",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073099,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

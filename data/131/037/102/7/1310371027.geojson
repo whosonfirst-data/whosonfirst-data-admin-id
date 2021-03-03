@@ -28,9 +28,7 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        102191569,
-        85632583,
-        85678971
+        102191569
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +39,9 @@
     "wof:hierarchy":[
         {
             "continent_id":102191569,
-            "country_id":85632583,
+            "country_id":-1,
             "locality_id":1310371027,
-            "region_id":85678971
+            "region_id":-1
         }
     ],
     "wof:id":1310371027,
@@ -54,9 +52,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614640662,
+    "wof:lastmodified":1614729058,
     "wof:name":"Seroja",
-    "wof:parent_id":85678971,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

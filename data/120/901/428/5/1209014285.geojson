@@ -33,6 +33,7 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191569,
         85632203
     ],
     "wof:breaches":[],
@@ -43,8 +44,10 @@
     "wof:geomhash":"e96ef58adcd5166099ff17b2d21ed576",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209014285
+            "locality_id":1209014285,
+            "region_id":-1
         }
     ],
     "wof:id":1209014285,
@@ -55,9 +58,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638103,
+    "wof:lastmodified":1614726319,
     "wof:name":"Wirango",
-    "wof:parent_id":85632203,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

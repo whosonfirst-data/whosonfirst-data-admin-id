@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672081,
+        102073087
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"9210ce11c703c59cf03c6755c31256d7",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209343213
+            "county_id":102073087,
+            "locality_id":1209343213,
+            "region_id":85672081
         }
     ],
     "wof:id":1209343213,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638862,
+    "wof:lastmodified":1614718463,
     "wof:name":"Danowudu",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073087,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

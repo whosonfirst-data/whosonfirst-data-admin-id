@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671983,
+        102072739
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"b25d5c6ff52e6ac3c9f1024562a91e5a",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209675563
+            "county_id":102072739,
+            "locality_id":1209675563,
+            "region_id":85671983
         }
     ],
     "wof:id":1209675563,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638710,
+    "wof:lastmodified":1614715913,
     "wof:name":"Awibaraja",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072739,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

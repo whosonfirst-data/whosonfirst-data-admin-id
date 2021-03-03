@@ -56,9 +56,7 @@
     "src:lbl:centroid":"mapshaper",
     "wd:wordcount":188,
     "wof:belongs_to":[],
-    "wof:belongsto":[
-        85632203
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8018346
@@ -67,8 +65,10 @@
     "wof:geomhash":"8eefbcd3fd568b7cda7e1771d03242f1",
     "wof:hierarchy":[
         {
-            "country_id":85632203,
-            "locality_id":102022495
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":102022495,
+            "region_id":-1
         }
     ],
     "wof:id":102022495,
@@ -79,7 +79,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1613173649,
+    "wof:lastmodified":1614714516,
     "wof:name":"Kebon Jeruk",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

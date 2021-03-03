@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672037,
+        102072751
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"b1e63e7d53a78162e94e0095551c1e20",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209678479
+            "county_id":102072751,
+            "locality_id":1209678479,
+            "region_id":85672037
         }
     ],
     "wof:id":1209678479,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638723,
+    "wof:lastmodified":1614716046,
     "wof:name":"Nekana",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072751,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

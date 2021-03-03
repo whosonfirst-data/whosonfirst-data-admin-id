@@ -37,7 +37,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671983,
+        102073505
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,8 +50,11 @@
     "wof:geomhash":"b20b0bbac44b4209bd8778600d50505b",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209174299
+            "county_id":102073505,
+            "locality_id":1209174299,
+            "region_id":85671983
         }
     ],
     "wof:id":1209174299,
@@ -59,9 +65,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652369,
+    "wof:lastmodified":1614721705,
     "wof:name":"Singkil",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073505,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

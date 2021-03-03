@@ -34,6 +34,7 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191569,
         85632203
     ],
     "wof:breaches":[],
@@ -44,8 +45,10 @@
     "wof:geomhash":"83b59efaea4df5b28b7f5800c48f58f2",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209388459
+            "locality_id":1209388459,
+            "region_id":-1
         }
     ],
     "wof:id":1209388459,
@@ -56,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614651917,
+    "wof:lastmodified":1614726949,
     "wof:name":"Baru Tengah",
-    "wof:parent_id":85632203,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

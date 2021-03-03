@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671983,
+        102073569
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +47,11 @@
     "wof:geomhash":"a46ee4207d52745480e6ed22fe310e7c",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209661427
+            "county_id":102073569,
+            "locality_id":1209661427,
+            "region_id":85671983
         }
     ],
     "wof:id":1209661427,
@@ -56,9 +62,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638636,
+    "wof:lastmodified":1614722283,
     "wof:name":"Kemancing",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073569,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

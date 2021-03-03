@@ -30,7 +30,10 @@
         "Tilai"
     ],
     "src:geom":"geonames",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632203
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1623894
@@ -39,8 +42,8 @@
     "wof:geomhash":"20d999b86b931112870f95238a23a711",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191569,
+            "country_id":85632203,
             "locality_id":1343512331,
             "region_id":-1
         }
@@ -53,7 +56,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614634661,
+    "wof:lastmodified":1614728987,
     "wof:name":"Tilai",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

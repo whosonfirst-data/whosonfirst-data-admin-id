@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672041,
+        102073549
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"6e7b1e349bcef597adb05bf0ea46f9e1",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209566643
+            "county_id":102073549,
+            "locality_id":1209566643,
+            "region_id":85672041
         }
     ],
     "wof:id":1209566643,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638793,
+    "wof:lastmodified":1614722156,
     "wof:name":"Salometti",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073549,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

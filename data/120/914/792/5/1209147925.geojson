@@ -37,7 +37,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672077,
+        1108796923
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,8 +50,11 @@
     "wof:geomhash":"3d59816e77e912125c8fb585d2e69f1f",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209147925
+            "county_id":1108796923,
+            "locality_id":1209147925,
+            "region_id":85672077
         }
     ],
     "wof:id":1209147925,
@@ -59,9 +65,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638541,
+    "wof:lastmodified":1614722881,
     "wof:name":"Menggala",
-    "wof:parent_id":85632203,
+    "wof:parent_id":1108796923,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

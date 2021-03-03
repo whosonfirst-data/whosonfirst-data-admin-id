@@ -28,7 +28,10 @@
     "mz:min_zoom":13.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672081,
+        102072597
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,8 +41,11 @@
     "wof:geomhash":"c72ec25eab0aa2ceabbc8be2347b6ada",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209042005
+            "county_id":102072597,
+            "locality_id":1209042005,
+            "region_id":85672081
         }
     ],
     "wof:id":1209042005,
@@ -50,9 +56,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652200,
+    "wof:lastmodified":1614714703,
     "wof:name":"Batusaiki",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072597,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

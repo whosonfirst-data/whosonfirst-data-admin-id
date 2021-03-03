@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671973,
+        102072659
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"47eeb0558eec5d3dbf0972d1eb3506a2",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209418583
+            "county_id":102072659,
+            "locality_id":1209418583,
+            "region_id":85671973
         }
     ],
     "wof:id":1209418583,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638364,
+    "wof:lastmodified":1614715179,
     "wof:name":"Kala Keruh",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072659,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672067,
+        102073445
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +47,11 @@
     "wof:geomhash":"79358fb5044b91909ffc69476948e22f",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209429443
+            "county_id":102073445,
+            "locality_id":1209429443,
+            "region_id":85672067
         }
     ],
     "wof:id":1209429443,
@@ -56,9 +62,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614639050,
+    "wof:lastmodified":1614721137,
     "wof:name":"Tanggiri",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073445,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

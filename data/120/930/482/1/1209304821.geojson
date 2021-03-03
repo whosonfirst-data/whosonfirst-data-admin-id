@@ -28,7 +28,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672027,
+        102073063
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,8 +41,11 @@
     "wof:geomhash":"adc4aae88a42221b7a029a0c156ff5bb",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209304821
+            "county_id":102073063,
+            "locality_id":1209304821,
+            "region_id":85672027
         }
     ],
     "wof:id":1209304821,
@@ -50,9 +56,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638143,
+    "wof:lastmodified":1614718276,
     "wof:name":"Karangleman",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073063,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

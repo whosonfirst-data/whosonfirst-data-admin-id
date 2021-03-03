@@ -32,7 +32,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672087,
+        1108796965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,8 +45,11 @@
     "wof:geomhash":"96a8373e76e1e2485269deb9f8f1b40d",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209483469
+            "county_id":1108796965,
+            "locality_id":1209483469,
+            "region_id":85672087
         }
     ],
     "wof:id":1209483469,
@@ -54,9 +60,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638267,
+    "wof:lastmodified":1614723000,
     "wof:name":"Pulaukaram",
-    "wof:parent_id":85632203,
+    "wof:parent_id":1108796965,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

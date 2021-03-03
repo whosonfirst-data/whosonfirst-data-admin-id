@@ -79,7 +79,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672027,
+        102073553
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -89,8 +92,11 @@
     "wof:geomhash":"23cbb9b812fe528c2bc7a53eb12af69c",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209299647
+            "county_id":102073553,
+            "locality_id":1209299647,
+            "region_id":85672027
         }
     ],
     "wof:id":1209299647,
@@ -101,9 +107,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652293,
+    "wof:lastmodified":1614722219,
     "wof:name":"Turi",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073553,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

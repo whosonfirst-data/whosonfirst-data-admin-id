@@ -28,7 +28,10 @@
     "mz:min_zoom":13.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672093,
+        102073265
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,8 +41,11 @@
     "wof:geomhash":"dbff18d11f1cb3464bf0065f3bb9f0fa",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209403457
+            "county_id":102073265,
+            "locality_id":1209403457,
+            "region_id":85672093
         }
     ],
     "wof:id":1209403457,
@@ -50,9 +56,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652112,
+    "wof:lastmodified":1614719903,
     "wof:name":"Jumeneng Kidul",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073265,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

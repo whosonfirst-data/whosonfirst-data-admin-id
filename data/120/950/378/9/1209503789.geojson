@@ -28,7 +28,10 @@
     "mz:min_zoom":13.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672093,
+        102073265
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,8 +41,11 @@
     "wof:geomhash":"8c98b7757e57b1377c1db12ce1c36098",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209503789
+            "county_id":102073265,
+            "locality_id":1209503789,
+            "region_id":85672093
         }
     ],
     "wof:id":1209503789,
@@ -50,9 +56,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652158,
+    "wof:lastmodified":1614719898,
     "wof:name":"Bedog",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073265,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

@@ -24,12 +24,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        102020433,
+        102072667,
+        85672001
+    ],
     "wof:breaches":[],
     "wof:country":"ID",
     "wof:created":1613158491,
     "wof:geomhash":"3a7df54e5f9bcb49e0c8b0d20e8d12cb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102072667,
+            "locality_id":102020433,
+            "neighbourhood_id":1729801733,
+            "region_id":85672001
+        }
+    ],
     "wof:id":1729801733,
     "wof:lang_x_official":[
         "ind"
@@ -38,9 +53,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1613179629,
+    "wof:lastmodified":1614723270,
     "wof:name":"Pondok Pinang",
-    "wof:parent_id":-1,
+    "wof:parent_id":102020433,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672037,
+        1108796849
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"38e257b95b7f6b4b8e1b2f0f2e1ec9d1",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209578201
+            "county_id":1108796849,
+            "locality_id":1209578201,
+            "region_id":85672037
         }
     ],
     "wof:id":1209578201,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638578,
+    "wof:lastmodified":1614722630,
     "wof:name":"Ongkol",
-    "wof:parent_id":85632203,
+    "wof:parent_id":1108796849,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

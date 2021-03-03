@@ -43,7 +43,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672009,
+        102072615
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,8 +56,11 @@
     "wof:geomhash":"1a4bf7b15336d5a242bbac0c721519fd",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209284421
+            "county_id":102072615,
+            "locality_id":1209284421,
+            "region_id":85672009
         }
     ],
     "wof:id":1209284421,
@@ -65,9 +71,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614639141,
+    "wof:lastmodified":1614714923,
     "wof:name":"Curup",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072615,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

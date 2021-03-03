@@ -32,7 +32,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671977,
+        102072785
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,8 +45,11 @@
     "wof:geomhash":"81ee35efd199754c9078afa096854fb3",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209498245
+            "county_id":102072785,
+            "locality_id":1209498245,
+            "region_id":85671977
         }
     ],
     "wof:id":1209498245,
@@ -54,9 +60,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638489,
+    "wof:lastmodified":1614716274,
     "wof:name":"Batulembu",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072785,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

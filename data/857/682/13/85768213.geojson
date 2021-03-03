@@ -62,7 +62,11 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
-        102020439
+        102191569,
+        85632203,
+        102020429,
+        102073125,
+        85672001
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -78,20 +82,21 @@
     "wof:geomhash":"136d9b778af574b2b4a9350cc7f36fd9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
-            "locality_id":102020439,
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102073125,
+            "locality_id":102020429,
             "neighbourhood_id":85768213,
-            "region_id":-1
+            "region_id":85672001
         }
     ],
     "wof:id":85768213,
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1613151814,
+    "wof:lastmodified":1614744915,
     "wof:name":"Berok",
-    "wof:parent_id":102020439,
+    "wof:parent_id":102020429,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

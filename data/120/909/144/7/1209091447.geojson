@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672027,
+        102073017
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"137b298115c41b97a483cb52f942e7a5",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209091447
+            "county_id":102073017,
+            "locality_id":1209091447,
+            "region_id":85672027
         }
     ],
     "wof:id":1209091447,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614637958,
+    "wof:lastmodified":1614717947,
     "wof:name":"Ngenep Barat",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073017,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

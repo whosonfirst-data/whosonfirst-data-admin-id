@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671973,
+        102073465
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"b5212d25d7768538b2d0e9cb08efea4f",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209218233
+            "county_id":102073465,
+            "locality_id":1209218233,
+            "region_id":85671973
         }
     ],
     "wof:id":1209218233,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614639103,
+    "wof:lastmodified":1614721332,
     "wof:name":"Jambur Labu",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073465,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

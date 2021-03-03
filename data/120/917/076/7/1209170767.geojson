@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672073,
+        102072919
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"7ee5b658bc8583d46592aa4a317de59b",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209170767
+            "county_id":102072919,
+            "locality_id":1209170767,
+            "region_id":85672073
         }
     ],
     "wof:id":1209170767,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614639118,
+    "wof:lastmodified":1614717132,
     "wof:name":"Kota Datar",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072919,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

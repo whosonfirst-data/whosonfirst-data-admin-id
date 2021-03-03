@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672019,
+        102073043
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +47,11 @@
     "wof:geomhash":"ffca553af1f94799e04324b01bef5679",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209059669
+            "county_id":102073043,
+            "locality_id":1209059669,
+            "region_id":85672019
         }
     ],
     "wof:id":1209059669,
@@ -56,9 +62,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638827,
+    "wof:lastmodified":1614718083,
     "wof:name":"Merawanglama",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073043,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

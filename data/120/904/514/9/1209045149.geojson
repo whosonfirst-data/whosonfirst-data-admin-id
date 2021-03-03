@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672041,
+        102072833
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"ca3616c9be314f35102aa4270e4e46a2",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209045149
+            "county_id":102072833,
+            "locality_id":1209045149,
+            "region_id":85672041
         }
     ],
     "wof:id":1209045149,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638690,
+    "wof:lastmodified":1614716544,
     "wof:name":"Karomate",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072833,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

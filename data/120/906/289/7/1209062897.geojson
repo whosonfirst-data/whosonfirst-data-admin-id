@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672073,
+        102072991
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"29e0cc218cf4a65f80b412e61c485fa9",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209062897
+            "county_id":102072991,
+            "locality_id":1209062897,
+            "region_id":85672073
         }
     ],
     "wof:id":1209062897,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614651960,
+    "wof:lastmodified":1614717786,
     "wof:name":"Pasar Merah Barat",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072991,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

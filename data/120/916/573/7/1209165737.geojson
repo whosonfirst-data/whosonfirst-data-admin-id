@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672041,
+        102072999
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +47,11 @@
     "wof:geomhash":"cfbab9ede087886a65fd3456d04fd431",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209165737
+            "county_id":102072999,
+            "locality_id":1209165737,
+            "region_id":85672041
         }
     ],
     "wof:id":1209165737,
@@ -56,9 +62,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638906,
+    "wof:lastmodified":1614717834,
     "wof:name":"Labbua",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072999,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

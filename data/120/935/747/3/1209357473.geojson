@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672041,
+        102073115
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"e9623732c0c12ff08307e8a8f5da2525",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209357473
+            "county_id":102073115,
+            "locality_id":1209357473,
+            "region_id":85672041
         }
     ],
     "wof:id":1209357473,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652198,
+    "wof:lastmodified":1614718568,
     "wof:name":"Tompotonjong",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073115,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

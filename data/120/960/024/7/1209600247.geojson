@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672027,
+        102073061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"9d0ca2379ae742954dd3c5bda019a764",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209600247
+            "county_id":102073061,
+            "locality_id":1209600247,
+            "region_id":85672027
         }
     ],
     "wof:id":1209600247,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638742,
+    "wof:lastmodified":1614718223,
     "wof:name":"Jublang",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073061,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

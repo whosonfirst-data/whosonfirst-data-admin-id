@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672041,
+        102072633
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +47,11 @@
     "wof:geomhash":"0d6afc36489d360776f830a727edc22c",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209049361
+            "county_id":102072633,
+            "locality_id":1209049361,
+            "region_id":85672041
         }
     ],
     "wof:id":1209049361,
@@ -56,9 +62,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652200,
+    "wof:lastmodified":1614714966,
     "wof:name":"Kalupang",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072633,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

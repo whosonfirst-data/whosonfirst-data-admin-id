@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672027,
+        102072775
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +47,11 @@
     "wof:geomhash":"2ddc29bb3ab26476d2f54f7230aea64b",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209102541
+            "county_id":102072775,
+            "locality_id":1209102541,
+            "region_id":85672027
         }
     ],
     "wof:id":1209102541,
@@ -56,9 +62,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614639158,
+    "wof:lastmodified":1614716201,
     "wof:name":"Gembol",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072775,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

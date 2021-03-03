@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672027,
+        102073375
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"0c44aa397f23b247f2d0c2d3b4e7c662",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209411501
+            "county_id":102073375,
+            "locality_id":1209411501,
+            "region_id":85672027
         }
     ],
     "wof:id":1209411501,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652073,
+    "wof:lastmodified":1614720653,
     "wof:name":"Semampir Lor",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073375,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

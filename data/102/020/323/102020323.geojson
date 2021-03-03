@@ -212,9 +212,7 @@
     "src:lbl:centroid":"mapshaper",
     "wd:wordcount":268,
     "wof:belongs_to":[],
-    "wof:belongsto":[
-        85632203
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1641902,
@@ -228,8 +226,10 @@
     "wof:geomhash":"7b504f9ed5cb34867c71ad65a34f02f9",
     "wof:hierarchy":[
         {
-            "country_id":85632203,
-            "locality_id":102020323
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":102020323,
+            "region_id":-1
         }
     ],
     "wof:id":102020323,
@@ -240,7 +240,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1613173685,
+    "wof:lastmodified":1614713379,
     "wof:name":"Kalimantan",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672027,
+        102072593
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"abbebd75b1a12192e08e4bd8597541b8",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209299347
+            "county_id":102072593,
+            "locality_id":1209299347,
+            "region_id":85672027
         }
     ],
     "wof:id":1209299347,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638926,
+    "wof:lastmodified":1614714683,
     "wof:name":"Batukodung",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072593,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

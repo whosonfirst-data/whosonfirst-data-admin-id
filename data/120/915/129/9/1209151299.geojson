@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672077,
+        1108796915
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"b1326c095b1ea75db0ac87068e92647e",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209151299
+            "county_id":1108796915,
+            "locality_id":1209151299,
+            "region_id":85672077
         }
     ],
     "wof:id":1209151299,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652080,
+    "wof:lastmodified":1614722861,
     "wof:name":"Muarasungaidumai",
-    "wof:parent_id":85632203,
+    "wof:parent_id":1108796915,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

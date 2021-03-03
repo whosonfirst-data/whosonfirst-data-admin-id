@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671973,
+        102073525
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"01db8c4efd67014a67439f8e80fc5005",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209628869
+            "county_id":102073525,
+            "locality_id":1209628869,
+            "region_id":85671973
         }
     ],
     "wof:id":1209628869,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614651951,
+    "wof:lastmodified":1614721875,
     "wof:name":"Perdamaian",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073525,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

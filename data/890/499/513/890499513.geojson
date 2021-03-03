@@ -56,7 +56,11 @@
     "src:population":"geonames",
     "wd:wordcount":41,
     "wof:belongsto":[
-        102020439
+        102191569,
+        85632203,
+        102020437,
+        102072841,
+        85672001
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -74,11 +78,12 @@
     "wof:geomhash":"fddbbb8ec0ce89a0eabea904f13c77fb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
-            "locality_id":102020439,
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102072841,
+            "locality_id":102020437,
             "neighbourhood_id":890499513,
-            "region_id":-1
+            "region_id":85672001
         }
     ],
     "wof:id":890499513,
@@ -89,9 +94,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1613182638,
+    "wof:lastmodified":1614744899,
     "wof:name":"Semanan",
-    "wof:parent_id":102020439,
+    "wof:parent_id":102020437,
     "wof:placetype":"neighbourhood",
     "wof:population":0,
     "wof:repo":"whosonfirst-data-admin-id",

@@ -268,7 +268,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672027,
+        102073013
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -278,8 +281,11 @@
     "wof:geomhash":"3f40fe6d9ddcb739bb98a1bd535bf705",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209511803
+            "county_id":102073013,
+            "locality_id":1209511803,
+            "region_id":85672027
         }
     ],
     "wof:id":1209511803,
@@ -290,9 +296,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638810,
+    "wof:lastmodified":1614717889,
     "wof:name":"Semen",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073013,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

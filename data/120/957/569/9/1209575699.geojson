@@ -106,7 +106,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671983,
+        102073505
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -116,8 +119,11 @@
     "wof:geomhash":"f97a8a0c66e1027625e637796794ede6",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209575699
+            "county_id":102073505,
+            "locality_id":1209575699,
+            "region_id":85671983
         }
     ],
     "wof:id":1209575699,
@@ -128,9 +134,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652167,
+    "wof:lastmodified":1614721703,
     "wof:name":"Wage",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073505,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

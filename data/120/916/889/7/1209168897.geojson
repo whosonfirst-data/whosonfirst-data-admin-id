@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672073,
+        102072883
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"ca657b60487455ce3b914b088cb83aaf",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209168897
+            "county_id":102072883,
+            "locality_id":1209168897,
+            "region_id":85672073
         }
     ],
     "wof:id":1209168897,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638896,
+    "wof:lastmodified":1614716962,
     "wof:name":"Buluhujung",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072883,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

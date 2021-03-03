@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672009,
+        102073475
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +47,11 @@
     "wof:geomhash":"7df1200e867692be7620bc68f291a20b",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209287355
+            "county_id":102073475,
+            "locality_id":1209287355,
+            "region_id":85672009
         }
     ],
     "wof:id":1209287355,
@@ -56,9 +62,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614639139,
+    "wof:lastmodified":1614721407,
     "wof:name":"Way Narta",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073475,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672081,
+        102073137
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"298ef0f2f402c115a15e541d046508fc",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209141327
+            "county_id":102073137,
+            "locality_id":1209141327,
+            "region_id":85672081
         }
     ],
     "wof:id":1209141327,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638537,
+    "wof:lastmodified":1614718709,
     "wof:name":"Kemibatu",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073137,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

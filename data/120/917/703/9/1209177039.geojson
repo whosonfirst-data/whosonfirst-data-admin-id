@@ -364,7 +364,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672037,
+        1108796851
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -374,8 +377,11 @@
     "wof:geomhash":"e0ba58cc1e8a540190b0d28766417284",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209177039
+            "county_id":1108796851,
+            "locality_id":1209177039,
+            "region_id":85672037
         }
     ],
     "wof:id":1209177039,
@@ -386,9 +392,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614639123,
+    "wof:lastmodified":1614722651,
     "wof:name":"Malabo",
-    "wof:parent_id":85632203,
+    "wof:parent_id":1108796851,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

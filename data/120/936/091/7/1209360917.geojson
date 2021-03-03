@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671983,
+        102073551
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"9e57dd1dc0180c470e6db1aed6427095",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209360917
+            "county_id":102073551,
+            "locality_id":1209360917,
+            "region_id":85671983
         }
     ],
     "wof:id":1209360917,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614637979,
+    "wof:lastmodified":1614722172,
     "wof:name":"Dukuh Dua",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073551,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

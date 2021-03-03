@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672037,
+        1108796849
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"42d689c831dd28d878e418f7f67b1123",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209280259
+            "county_id":1108796849,
+            "locality_id":1209280259,
+            "region_id":85672037
         }
     ],
     "wof:id":1209280259,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614639136,
+    "wof:lastmodified":1614722620,
     "wof:name":"Joeng",
-    "wof:parent_id":85632203,
+    "wof:parent_id":1108796849,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

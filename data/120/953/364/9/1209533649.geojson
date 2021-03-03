@@ -28,6 +28,7 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191569,
         85632203
     ],
     "wof:breaches":[],
@@ -38,8 +39,10 @@
     "wof:geomhash":"5b5f1b343def7a9f18f9d7900ce33eed",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209533649
+            "locality_id":1209533649,
+            "region_id":-1
         }
     ],
     "wof:id":1209533649,
@@ -50,9 +53,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638028,
+    "wof:lastmodified":1614726418,
     "wof:name":"Weitar",
-    "wof:parent_id":85632203,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

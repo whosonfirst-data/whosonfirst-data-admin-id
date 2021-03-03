@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672027,
+        102073373
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"d81bc3cfd705e84de42a9f6afc73023b",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209091355
+            "county_id":102073373,
+            "locality_id":1209091355,
+            "region_id":85672027
         }
     ],
     "wof:id":1209091355,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614637948,
+    "wof:lastmodified":1614720599,
     "wof:name":"Kongsipringgodani",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073373,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

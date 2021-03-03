@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102072899
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"61a4c28c61c91d6e0eec33b2469ec73b",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209210929
+            "county_id":102072899,
+            "locality_id":1209210929,
+            "region_id":85671987
         }
     ],
     "wof:id":1209210929,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614639107,
+    "wof:lastmodified":1614717045,
     "wof:name":"Suren",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072899,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672103,
+        102073213
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +47,11 @@
     "wof:geomhash":"8ea5ad285fa06d9bccfb3b67d72525fb",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209082243
+            "county_id":102073213,
+            "locality_id":1209082243,
+            "region_id":85672103
         }
     ],
     "wof:id":1209082243,
@@ -56,9 +62,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638168,
+    "wof:lastmodified":1614719329,
     "wof:name":"Longkang",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073213,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

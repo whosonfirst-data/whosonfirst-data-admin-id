@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672103,
+        1108796847
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"8f3e7164005ebaae8dd33c54886b8428",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209177663
+            "county_id":1108796847,
+            "locality_id":1209177663,
+            "region_id":85672103
         }
     ],
     "wof:id":1209177663,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614639124,
+    "wof:lastmodified":1614722611,
     "wof:name":"Kayusangka",
-    "wof:parent_id":85632203,
+    "wof:parent_id":1108796847,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

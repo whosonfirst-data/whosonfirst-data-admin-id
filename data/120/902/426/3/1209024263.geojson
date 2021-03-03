@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672093,
+        102073189
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"4e937bfd94781013f400325677c82119",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209024263
+            "county_id":102073189,
+            "locality_id":1209024263,
+            "region_id":85672093
         }
     ],
     "wof:id":1209024263,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652270,
+    "wof:lastmodified":1614719091,
     "wof:name":"Ngelo",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073189,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

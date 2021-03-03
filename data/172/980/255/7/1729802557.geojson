@@ -24,12 +24,26 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        102072687,
+        85671995
+    ],
     "wof:breaches":[],
     "wof:country":"ID",
     "wof:created":1613158806,
     "wof:geomhash":"13ceec65ab364a6cc4ee97572753d8da",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102072687,
+            "locality_id":-1,
+            "neighbourhood_id":1729802557,
+            "region_id":85671995
+        }
+    ],
     "wof:id":1729802557,
     "wof:lang_x_official":[
         "ind"
@@ -38,7 +52,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1613179639,
+    "wof:lastmodified":1614723601,
     "wof:name":"Jurang Manggu Timur",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

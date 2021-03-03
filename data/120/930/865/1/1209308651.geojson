@@ -28,7 +28,10 @@
     "mz:min_zoom":13.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102072857
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,8 +41,11 @@
     "wof:geomhash":"2a24b2e280773bad0380f3f1a624143f",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209308651
+            "county_id":102072857,
+            "locality_id":1209308651,
+            "region_id":85671987
         }
     ],
     "wof:id":1209308651,
@@ -50,9 +56,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614651980,
+    "wof:lastmodified":1614716865,
     "wof:name":"Kaliduren",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072857,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

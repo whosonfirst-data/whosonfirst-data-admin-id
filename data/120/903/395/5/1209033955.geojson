@@ -35,7 +35,7 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,8 +45,10 @@
     "wof:geomhash":"92139546376418421b6d99f81f9a146d",
     "wof:hierarchy":[
         {
-            "country_id":85632203,
-            "locality_id":1209033955
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1209033955,
+            "region_id":-1
         }
     ],
     "wof:id":1209033955,
@@ -57,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638683,
+    "wof:lastmodified":1614727444,
     "wof:name":"Tolinggula",
-    "wof:parent_id":85632203,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

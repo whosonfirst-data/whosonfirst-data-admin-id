@@ -28,6 +28,7 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191569,
         85632203
     ],
     "wof:breaches":[],
@@ -38,8 +39,10 @@
     "wof:geomhash":"35492c939fe6889e1b320979db2bfb10",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209261845
+            "locality_id":1209261845,
+            "region_id":-1
         }
     ],
     "wof:id":1209261845,
@@ -50,9 +53,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614639079,
+    "wof:lastmodified":1614727585,
     "wof:name":"Litman",
-    "wof:parent_id":85632203,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

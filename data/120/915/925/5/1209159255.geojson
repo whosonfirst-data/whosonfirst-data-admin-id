@@ -43,7 +43,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672019,
+        102073043
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,8 +56,11 @@
     "wof:geomhash":"3f60db7dc644e6108e8abfc91d2c8b71",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209159255
+            "county_id":102073043,
+            "locality_id":1209159255,
+            "region_id":85672019
         }
     ],
     "wof:id":1209159255,
@@ -65,9 +71,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652081,
+    "wof:lastmodified":1614718083,
     "wof:name":"Panji",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073043,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

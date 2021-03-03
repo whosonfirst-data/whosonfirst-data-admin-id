@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671973,
+        102073421
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"a8a2f52071e2f93f073a39909ad06e2f",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209524723
+            "county_id":102073421,
+            "locality_id":1209524723,
+            "region_id":85671973
         }
     ],
     "wof:id":1209524723,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638245,
+    "wof:lastmodified":1614720954,
     "wof:name":"Palong",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073421,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

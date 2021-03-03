@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672085,
+        1108796819
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"43c3f5d02bfa3722f5f8fef73a0b64f8",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209662141
+            "county_id":1108796819,
+            "locality_id":1209662141,
+            "region_id":85672085
         }
     ],
     "wof:id":1209662141,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638645,
+    "wof:lastmodified":1614722561,
     "wof:name":"Binongko",
-    "wof:parent_id":85632203,
+    "wof:parent_id":1108796819,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

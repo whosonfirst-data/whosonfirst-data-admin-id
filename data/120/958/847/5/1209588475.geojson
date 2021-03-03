@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672009,
+        102072943
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"548860241b65b1cfb95e31331b43a0ff",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209588475
+            "county_id":102072943,
+            "locality_id":1209588475,
+            "region_id":85672009
         }
     ],
     "wof:id":1209588475,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638736,
+    "wof:lastmodified":1614717383,
     "wof:name":"Campanghulu",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072943,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

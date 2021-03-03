@@ -64,7 +64,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672041,
+        102073433
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -74,8 +77,11 @@
     "wof:geomhash":"46bf43a49ab7936c5b8ee1e4f9d42f53",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209366125
+            "county_id":102073433,
+            "locality_id":1209366125,
+            "region_id":85672041
         }
     ],
     "wof:id":1209366125,
@@ -86,9 +92,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614637991,
+    "wof:lastmodified":1614721052,
     "wof:name":"Pole",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073433,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

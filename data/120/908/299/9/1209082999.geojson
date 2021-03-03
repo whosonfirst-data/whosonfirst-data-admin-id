@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672031,
+        102072791
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"908ff93fd4be7a28c52737082ed6666e",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209082999
+            "county_id":102072791,
+            "locality_id":1209082999,
+            "region_id":85672031
         }
     ],
     "wof:id":1209082999,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638169,
+    "wof:lastmodified":1614716280,
     "wof:name":"Lasung",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072791,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672027,
+        102073373
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"606c17f99e6586410a659677a52b2657",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209210067
+            "county_id":102073373,
+            "locality_id":1209210067,
+            "region_id":85672027
         }
     ],
     "wof:id":1209210067,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614639098,
+    "wof:lastmodified":1614720611,
     "wof:name":"Pekiringan Barat",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073373,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

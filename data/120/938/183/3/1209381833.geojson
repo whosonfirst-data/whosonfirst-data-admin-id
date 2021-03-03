@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672073,
+        102072767
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"a0c3744f1eb78887ed3a11764bbbba4e",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209381833
+            "county_id":102072767,
+            "locality_id":1209381833,
+            "region_id":85672073
         }
     ],
     "wof:id":1209381833,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638016,
+    "wof:lastmodified":1614716134,
     "wof:name":"Batuhapur",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072767,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

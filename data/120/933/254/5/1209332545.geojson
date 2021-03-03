@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672037,
+        102073331
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +47,11 @@
     "wof:geomhash":"93cb7811df844a3725a696388db2d2ba",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209332545
+            "county_id":102073331,
+            "locality_id":1209332545,
+            "region_id":85672037
         }
     ],
     "wof:id":1209332545,
@@ -56,9 +62,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638871,
+    "wof:lastmodified":1614720342,
     "wof:name":"Poonbaun",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073331,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

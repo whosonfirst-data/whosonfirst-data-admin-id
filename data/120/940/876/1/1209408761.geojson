@@ -61,7 +61,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102072887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -71,8 +74,11 @@
     "wof:geomhash":"cf0fae0b9a93aa1b361060910658084d",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209408761
+            "county_id":102072887,
+            "locality_id":1209408761,
+            "region_id":85671987
         }
     ],
     "wof:id":1209408761,
@@ -83,9 +89,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638425,
+    "wof:lastmodified":1614716983,
     "wof:name":"Simo",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072887,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

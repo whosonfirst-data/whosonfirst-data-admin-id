@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102073119
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"508c7db7e42420699b5b6f5dd463c77a",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209100317
+            "county_id":102073119,
+            "locality_id":1209100317,
+            "region_id":85671987
         }
     ],
     "wof:id":1209100317,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614639149,
+    "wof:lastmodified":1614718600,
     "wof:name":"Gunungkarang",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073119,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

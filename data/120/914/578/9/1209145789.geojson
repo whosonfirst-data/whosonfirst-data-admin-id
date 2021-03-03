@@ -32,7 +32,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672115,
+        102072957
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,8 +45,11 @@
     "wof:geomhash":"e630b6fd74739c6abbbbb974359c2d8c",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209145789
+            "county_id":102072957,
+            "locality_id":1209145789,
+            "region_id":85672115
         }
     ],
     "wof:id":1209145789,
@@ -54,9 +60,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638543,
+    "wof:lastmodified":1614717596,
     "wof:name":"Jomen",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072957,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

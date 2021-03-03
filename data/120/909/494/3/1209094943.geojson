@@ -28,7 +28,10 @@
     "mz:min_zoom":13.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672093,
+        102073469
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,8 +41,11 @@
     "wof:geomhash":"4dff1ae46e81d1b24f0524959b01ed03",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209094943
+            "county_id":102073469,
+            "locality_id":1209094943,
+            "region_id":85672093
         }
     ],
     "wof:id":1209094943,
@@ -50,9 +56,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614651895,
+    "wof:lastmodified":1614721342,
     "wof:name":"Panggang",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073469,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

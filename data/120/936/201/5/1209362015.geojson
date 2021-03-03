@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672097,
+        1108796839
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"8384c5a4708d8279b7642109dca489d9",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209362015
+            "county_id":1108796839,
+            "locality_id":1209362015,
+            "region_id":85672097
         }
     ],
     "wof:id":1209362015,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614637995,
+    "wof:lastmodified":1614722594,
     "wof:name":"Tamanjaya",
-    "wof:parent_id":85632203,
+    "wof:parent_id":1108796839,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

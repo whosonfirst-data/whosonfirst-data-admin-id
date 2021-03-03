@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672041,
+        102073567
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +47,11 @@
     "wof:geomhash":"c48f4b8b6348df9649f1785525ffed74",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209049291
+            "county_id":102073567,
+            "locality_id":1209049291,
+            "region_id":85672041
         }
     ],
     "wof:id":1209049291,
@@ -56,9 +62,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652201,
+    "wof:lastmodified":1614722260,
     "wof:name":"Maleku",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073567,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

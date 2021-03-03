@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672027,
+        102073377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"fd6bceb5dea06244199bac23f99c7f1f",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209411645
+            "county_id":102073377,
+            "locality_id":1209411645,
+            "region_id":85672027
         }
     ],
     "wof:id":1209411645,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638366,
+    "wof:lastmodified":1614720691,
     "wof:name":"Banaran",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073377,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672073,
+        102072919
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +47,11 @@
     "wof:geomhash":"bcab22c68b3f9a5993dc4db2a7ee7888",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209569813
+            "county_id":102072919,
+            "locality_id":1209569813,
+            "region_id":85672073
         }
     ],
     "wof:id":1209569813,
@@ -56,9 +62,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652247,
+    "wof:lastmodified":1614717139,
     "wof:name":"Buntu Bedimbar Enam",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072919,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

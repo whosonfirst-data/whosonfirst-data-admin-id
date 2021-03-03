@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672041,
+        102073001
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +47,11 @@
     "wof:geomhash":"47a2254e410284b0f35ef43078c66236",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209566613
+            "county_id":102073001,
+            "locality_id":1209566613,
+            "region_id":85672041
         }
     ],
     "wof:id":1209566613,
@@ -56,9 +62,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638779,
+    "wof:lastmodified":1614717848,
     "wof:name":"Marrepang",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073001,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

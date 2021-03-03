@@ -52,7 +52,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671995,
+        102073209
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,8 +65,11 @@
     "wof:geomhash":"6eae81d3ef5995aee759683edb55ba11",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209047855
+            "county_id":102073209,
+            "locality_id":1209047855,
+            "region_id":85671995
         }
     ],
     "wof:id":1209047855,
@@ -74,9 +80,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652200,
+    "wof:lastmodified":1614719242,
     "wof:name":"Semi",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073209,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

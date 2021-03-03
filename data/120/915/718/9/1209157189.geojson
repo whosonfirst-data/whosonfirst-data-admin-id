@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672041,
+        102073549
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +47,11 @@
     "wof:geomhash":"8c2a36c49e17cc0ff9e5ec4c9b80c4d8",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209157189
+            "county_id":102073549,
+            "locality_id":1209157189,
+            "region_id":85672041
         }
     ],
     "wof:id":1209157189,
@@ -56,9 +62,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652081,
+    "wof:lastmodified":1614722151,
     "wof:name":"Kalumpang",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073549,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

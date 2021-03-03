@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672027,
+        102072775
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"5a9636e4f63e5293f923356ab7f65915",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209056383
+            "county_id":102072775,
+            "locality_id":1209056383,
+            "region_id":85672027
         }
     ],
     "wof:id":1209056383,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652263,
+    "wof:lastmodified":1614716205,
     "wof:name":"Kedungglagah Satu",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072775,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

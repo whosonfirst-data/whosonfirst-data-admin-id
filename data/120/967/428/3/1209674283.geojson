@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672111,
+        1108796935
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"1dbde82ccdd367e351f9ce17cec9834a",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209674283
+            "county_id":1108796935,
+            "locality_id":1209674283,
+            "region_id":85672111
         }
     ],
     "wof:id":1209674283,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638723,
+    "wof:lastmodified":1614722936,
     "wof:name":"Malakosa",
-    "wof:parent_id":85632203,
+    "wof:parent_id":1108796935,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

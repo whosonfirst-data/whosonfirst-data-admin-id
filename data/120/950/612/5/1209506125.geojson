@@ -32,7 +32,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102072587
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,8 +45,11 @@
     "wof:geomhash":"5a89eed804d1332aa729b86332f0229f",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209506125
+            "county_id":102072587,
+            "locality_id":1209506125,
+            "region_id":85671987
         }
     ],
     "wof:id":1209506125,
@@ -54,9 +60,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652162,
+    "wof:lastmodified":1614714655,
     "wof:name":"Reco",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072587,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

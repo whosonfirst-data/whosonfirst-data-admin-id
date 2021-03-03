@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672105,
+        1108796937
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"5c0a221852a0697eba88c66653cb4afe",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209062645
+            "county_id":1108796937,
+            "locality_id":1209062645,
+            "region_id":85672105
         }
     ],
     "wof:id":1209062645,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638138,
+    "wof:lastmodified":1614722947,
     "wof:name":"Wesalo",
-    "wof:parent_id":85632203,
+    "wof:parent_id":1108796937,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

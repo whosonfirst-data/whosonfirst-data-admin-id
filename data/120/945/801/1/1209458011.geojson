@@ -43,7 +43,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672077,
+        1108796911
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,8 +56,11 @@
     "wof:geomhash":"d7abb8d81ed6ee012f62599df40d083b",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209458011
+            "county_id":1108796911,
+            "locality_id":1209458011,
+            "region_id":85672077
         }
     ],
     "wof:id":1209458011,
@@ -65,9 +71,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614639056,
+    "wof:lastmodified":1614722857,
     "wof:name":"Jora",
-    "wof:parent_id":85632203,
+    "wof:parent_id":1108796911,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

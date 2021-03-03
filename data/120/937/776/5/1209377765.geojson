@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672037,
+        1108796857
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +47,11 @@
     "wof:geomhash":"bb1bc11f260add48650f7850da0d4ada",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209377765
+            "county_id":1108796857,
+            "locality_id":1209377765,
+            "region_id":85672037
         }
     ],
     "wof:id":1209377765,
@@ -56,9 +62,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638178,
+    "wof:lastmodified":1614722736,
     "wof:name":"Tapu",
-    "wof:parent_id":85632203,
+    "wof:parent_id":1108796857,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

@@ -28,7 +28,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672077,
+        1108796903
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,8 +41,11 @@
     "wof:geomhash":"cce11d6b80ee94887e3fd8fe8de9324d",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209453889
+            "county_id":1108796903,
+            "locality_id":1209453889,
+            "region_id":85672077
         }
     ],
     "wof:id":1209453889,
@@ -50,9 +56,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614639057,
+    "wof:lastmodified":1614722809,
     "wof:name":"Dompas",
-    "wof:parent_id":85632203,
+    "wof:parent_id":1108796903,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

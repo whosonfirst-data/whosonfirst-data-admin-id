@@ -91,7 +91,6 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671977,
         1108805993
     ],
     "wof:breaches":[],
@@ -107,12 +106,6 @@
             "continent_id":102191569,
             "country_id":85632203,
             "county_id":1108796801,
-            "region_id":85671977
-        },
-        {
-            "continent_id":102191569,
-            "country_id":85632203,
-            "county_id":1108796801,
             "region_id":1108805993
         }
     ],
@@ -124,9 +117,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1613180697,
+    "wof:lastmodified":1614722465,
     "wof:name":"Tana Tidung",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108805993,
     "wof:placetype":"county",
     "wof:placetype_local":"regency",
     "wof:population":15202,

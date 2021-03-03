@@ -24,12 +24,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        102020431,
+        102073493,
+        85672001
+    ],
     "wof:breaches":[],
     "wof:country":"ID",
     "wof:created":1613158521,
     "wof:geomhash":"e30c32d39f479f771e553a7703682596",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102073493,
+            "locality_id":102020431,
+            "neighbourhood_id":1729801805,
+            "region_id":85672001
+        }
+    ],
     "wof:id":1729801805,
     "wof:lang_x_official":[
         "ind"
@@ -38,9 +53,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1613179628,
+    "wof:lastmodified":1614723299,
     "wof:name":"Cipinang Besar Utara",
-    "wof:parent_id":-1,
+    "wof:parent_id":102020431,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

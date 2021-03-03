@@ -28,7 +28,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672111,
+        102073015
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,8 +41,11 @@
     "wof:geomhash":"3064e407041af23a1048c1725f38ed01",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209680003
+            "county_id":102073015,
+            "locality_id":1209680003,
+            "region_id":85672111
         }
     ],
     "wof:id":1209680003,
@@ -50,9 +56,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638601,
+    "wof:lastmodified":1614717928,
     "wof:name":"Sidoharjo",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073015,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

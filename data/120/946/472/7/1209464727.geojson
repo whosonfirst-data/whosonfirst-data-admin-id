@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671983,
+        102073449
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"07e7f6e878ac14235473d76d42924c1d",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209464727
+            "county_id":102073449,
+            "locality_id":1209464727,
+            "region_id":85671983
         }
     ],
     "wof:id":1209464727,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652067,
+    "wof:lastmodified":1614721160,
     "wof:name":"Pasirjaya",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073449,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

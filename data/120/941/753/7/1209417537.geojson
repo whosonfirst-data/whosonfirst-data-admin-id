@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672023,
+        102072905
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"ee7619773f7b45a641d215cfceda64fc",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209417537
+            "county_id":102072905,
+            "locality_id":1209417537,
+            "region_id":85672023
         }
     ],
     "wof:id":1209417537,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652074,
+    "wof:lastmodified":1614717069,
     "wof:name":"Banjar Bonganmunduk",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072905,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

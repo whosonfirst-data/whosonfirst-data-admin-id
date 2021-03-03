@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672073,
+        102072711
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"662f5bb78846af31a355401e2ece733b",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209572017
+            "county_id":102072711,
+            "locality_id":1209572017,
+            "region_id":85672073
         }
     ],
     "wof:id":1209572017,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638591,
+    "wof:lastmodified":1614715619,
     "wof:name":"Sibandol",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072711,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

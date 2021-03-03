@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672073,
+        102073463
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"027049a92fe42e84a4fbab04d96609f8",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209170811
+            "county_id":102073463,
+            "locality_id":1209170811,
+            "region_id":85672073
         }
     ],
     "wof:id":1209170811,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614639128,
+    "wof:lastmodified":1614721322,
     "wof:name":"Pancurbatu",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073463,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

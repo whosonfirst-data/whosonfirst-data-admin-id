@@ -97,7 +97,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672037,
+        102072837
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -107,8 +110,11 @@
     "wof:geomhash":"b360f0d10f23cf3f1284d455a87db894",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209578323
+            "county_id":102072837,
+            "locality_id":1209578323,
+            "region_id":85672037
         }
     ],
     "wof:id":1209578323,
@@ -119,9 +125,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638580,
+    "wof:lastmodified":1614716577,
     "wof:name":"Kepi",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072837,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

@@ -91,7 +91,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672041,
+        102072845
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -101,8 +104,11 @@
     "wof:geomhash":"356b12b24fcfccecfe946e84081de8a1",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209353217
+            "county_id":102072845,
+            "locality_id":1209353217,
+            "region_id":85672041
         }
     ],
     "wof:id":1209353217,
@@ -113,9 +119,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638681,
+    "wof:lastmodified":1614716616,
     "wof:name":"Tempe",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072845,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

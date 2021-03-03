@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672115,
+        1108796875
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +47,11 @@
     "wof:geomhash":"311690d380b45730b3291c011f6cc3ac",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209354767
+            "county_id":1108796875,
+            "locality_id":1209354767,
+            "region_id":85672115
         }
     ],
     "wof:id":1209354767,
@@ -56,9 +62,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638676,
+    "wof:lastmodified":1614722779,
     "wof:name":"Worri",
-    "wof:parent_id":85632203,
+    "wof:parent_id":1108796875,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

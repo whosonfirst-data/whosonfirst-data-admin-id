@@ -85,8 +85,7 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672085,
-        85672097
+        85672085
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -102,12 +101,6 @@
             "country_id":85632203,
             "county_id":1108796817,
             "region_id":85672085
-        },
-        {
-            "continent_id":102191569,
-            "country_id":85632203,
-            "county_id":1108796817,
-            "region_id":85672097
         }
     ],
     "wof:id":1108796817,
@@ -118,9 +111,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1613180696,
+    "wof:lastmodified":1614722560,
     "wof:name":"Buru Selatan",
-    "wof:parent_id":-1,
+    "wof:parent_id":85672085,
     "wof:placetype":"county",
     "wof:placetype_local":"regency",
     "wof:population":53671,

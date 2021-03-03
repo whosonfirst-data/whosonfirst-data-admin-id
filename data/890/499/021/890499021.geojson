@@ -31,9 +31,7 @@
     "qs:pop_sr":"0",
     "src:population":"geonames",
     "wof:belongsto":[
-        102191569,
-        85632203,
-        85672115
+        102191569
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +45,9 @@
     "wof:hierarchy":[
         {
             "continent_id":102191569,
-            "country_id":85632203,
+            "country_id":-1,
             "locality_id":890499021,
-            "region_id":85672115
+            "region_id":-1
         }
     ],
     "wof:id":890499021,
@@ -60,9 +58,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614642132,
+    "wof:lastmodified":1614732857,
     "wof:name":"Mimika",
-    "wof:parent_id":85672115,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:population":0,
     "wof:repo":"whosonfirst-data-admin-id",

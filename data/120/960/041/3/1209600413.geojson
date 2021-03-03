@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672027,
+        102073061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"28f64fc424cc56432ca7c9e54f7e7059",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209600413
+            "county_id":102073061,
+            "locality_id":1209600413,
+            "region_id":85672027
         }
     ],
     "wof:id":1209600413,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638744,
+    "wof:lastmodified":1614718229,
     "wof:name":"Landean",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073061,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

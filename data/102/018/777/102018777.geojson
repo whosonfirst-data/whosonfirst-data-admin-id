@@ -66,9 +66,7 @@
     "src:lbl:centroid":"mapshaper",
     "wd:wordcount":335,
     "wof:belongs_to":[],
-    "wof:belongsto":[
-        85632203
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1624356,
@@ -79,8 +77,10 @@
     "wof:geomhash":"585a37cdc84b0e09406410756d39498d",
     "wof:hierarchy":[
         {
-            "country_id":85632203,
-            "locality_id":102018777
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":102018777,
+            "region_id":-1
         }
     ],
     "wof:id":102018777,
@@ -91,7 +91,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1613173712,
+    "wof:lastmodified":1614712701,
     "wof:name":"Tello",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

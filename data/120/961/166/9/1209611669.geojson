@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672027,
+        102073485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"3c3b2f30bdc861fa64e053c040f3ccf0",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209611669
+            "county_id":102073485,
+            "locality_id":1209611669,
+            "region_id":85672027
         }
     ],
     "wof:id":1209611669,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652176,
+    "wof:lastmodified":1614721554,
     "wof:name":"Rekso",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073485,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

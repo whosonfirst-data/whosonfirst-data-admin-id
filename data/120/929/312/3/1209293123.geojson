@@ -28,7 +28,10 @@
     "mz:min_zoom":13.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672093,
+        102073189
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,8 +41,11 @@
     "wof:geomhash":"6916cf6286ee5f2c8770a8faf7c6a33f",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209293123
+            "county_id":102073189,
+            "locality_id":1209293123,
+            "region_id":85672093
         }
     ],
     "wof:id":1209293123,
@@ -50,9 +56,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652293,
+    "wof:lastmodified":1614719084,
     "wof:name":"Winong",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073189,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

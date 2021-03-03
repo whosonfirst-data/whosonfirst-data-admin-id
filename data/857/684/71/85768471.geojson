@@ -63,7 +63,11 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
-        102020439
+        102191569,
+        85632203,
+        102020429,
+        102073125,
+        85672001
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -79,20 +83,21 @@
     "wof:geomhash":"ca4cb88889ed8c8c08d7bb3b5a526bec",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
-            "locality_id":102020439,
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102073125,
+            "locality_id":102020429,
             "neighbourhood_id":85768471,
-            "region_id":-1
+            "region_id":85672001
         }
     ],
     "wof:id":85768471,
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1613151816,
+    "wof:lastmodified":1614744951,
     "wof:name":"Pekoelitan",
-    "wof:parent_id":102020439,
+    "wof:parent_id":102020429,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

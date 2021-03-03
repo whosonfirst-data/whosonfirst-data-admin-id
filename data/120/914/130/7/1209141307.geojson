@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672081,
+        1108796945
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +47,11 @@
     "wof:geomhash":"5be7f9f9f5f52cbb0afcdf315793d31d",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209141307
+            "county_id":1108796945,
+            "locality_id":1209141307,
+            "region_id":85672081
         }
     ],
     "wof:id":1209141307,
@@ -56,9 +62,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638541,
+    "wof:lastmodified":1614722973,
     "wof:name":"Dominanga Dusun Satu",
-    "wof:parent_id":85632203,
+    "wof:parent_id":1108796945,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

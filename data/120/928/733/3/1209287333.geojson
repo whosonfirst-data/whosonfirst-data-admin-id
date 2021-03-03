@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672009,
+        102072927
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"73064c31fdcd8c6e894e410c32b23970",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209287333
+            "county_id":102072927,
+            "locality_id":1209287333,
+            "region_id":85672009
         }
     ],
     "wof:id":1209287333,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614639139,
+    "wof:lastmodified":1614717204,
     "wof:name":"Astomulyo",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072927,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

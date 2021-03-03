@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672073,
+        1108796991
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"e0158d29b54412b4280b9996743e7210",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209369323
+            "county_id":1108796991,
+            "locality_id":1209369323,
+            "region_id":85672073
         }
     ],
     "wof:id":1209369323,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614637986,
+    "wof:lastmodified":1614723064,
     "wof:name":"Salusuhan",
-    "wof:parent_id":85632203,
+    "wof:parent_id":1108796991,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

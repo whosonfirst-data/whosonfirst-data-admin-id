@@ -35,7 +35,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672073,
+        1108796991
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,8 +48,11 @@
     "wof:geomhash":"afeac01154ade83da630bcee6fd8c483",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209062841
+            "county_id":1108796991,
+            "locality_id":1209062841,
+            "region_id":85672073
         }
     ],
     "wof:id":1209062841,
@@ -57,9 +63,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638130,
+    "wof:lastmodified":1614723054,
     "wof:name":"Ujungbatujulu",
-    "wof:parent_id":85632203,
+    "wof:parent_id":1108796991,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

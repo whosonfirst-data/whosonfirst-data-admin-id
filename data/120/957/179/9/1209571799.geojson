@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672105,
+        1108796939
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"80d240a4e549e7695ffb8a1e950f2f00",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209571799
+            "county_id":1108796939,
+            "locality_id":1209571799,
+            "region_id":85672105
         }
     ],
     "wof:id":1209571799,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638593,
+    "wof:lastmodified":1614722953,
     "wof:name":"Ahuangguluri",
-    "wof:parent_id":85632203,
+    "wof:parent_id":1108796939,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

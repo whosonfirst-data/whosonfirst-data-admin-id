@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672041,
+        102072745
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"be47a55de1ab45164dffaaade71e708d",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209144265
+            "county_id":102072745,
+            "locality_id":1209144265,
+            "region_id":85672041
         }
     ],
     "wof:id":1209144265,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638541,
+    "wof:lastmodified":1614715967,
     "wof:name":"Latacipi",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072745,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672023,
+        102072859
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"ce07d2f2aa483d49965de793deec1132",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209118309
+            "county_id":102072859,
+            "locality_id":1209118309,
+            "region_id":85672023
         }
     ],
     "wof:id":1209118309,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638891,
+    "wof:lastmodified":1614716918,
     "wof:name":"Banjar Lampu",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072859,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

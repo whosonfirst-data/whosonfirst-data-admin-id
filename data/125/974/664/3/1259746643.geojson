@@ -34,7 +34,10 @@
         "Labuhanlalar"
     ],
     "src:geom":"geonames",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632203
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1638848
@@ -43,8 +46,8 @@
     "wof:geomhash":"a623e72401000f8881348611cbb1f591",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191569,
+            "country_id":85632203,
             "locality_id":1259746643,
             "region_id":-1
         }
@@ -57,7 +60,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614644502,
+    "wof:lastmodified":1614734220,
     "wof:name":"Labuhanlalar",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

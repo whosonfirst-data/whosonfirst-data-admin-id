@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672085,
+        1108796817
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +47,11 @@
     "wof:geomhash":"926eb104727ead2de03b61c26a603eac",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209562505
+            "county_id":1108796817,
+            "locality_id":1209562505,
+            "region_id":85672085
         }
     ],
     "wof:id":1209562505,
@@ -56,9 +62,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638777,
+    "wof:lastmodified":1614722532,
     "wof:name":"Mngeswain",
-    "wof:parent_id":85632203,
+    "wof:parent_id":1108796817,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672103,
+        102073213
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"a6036209370d8798fb711f3daa294147",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209381343
+            "county_id":102073213,
+            "locality_id":1209381343,
+            "region_id":85672103
         }
     ],
     "wof:id":1209381343,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638008,
+    "wof:lastmodified":1614719330,
     "wof:name":"Timbaledang",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073213,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

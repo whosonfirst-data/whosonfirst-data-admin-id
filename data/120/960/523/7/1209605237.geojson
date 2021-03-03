@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672027,
+        102073061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"a9fd740dd0c605ff966498b2f9f5f812",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209605237
+            "county_id":102073061,
+            "locality_id":1209605237,
+            "region_id":85672027
         }
     ],
     "wof:id":1209605237,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652237,
+    "wof:lastmodified":1614718222,
     "wof:name":"Pajangan",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073061,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

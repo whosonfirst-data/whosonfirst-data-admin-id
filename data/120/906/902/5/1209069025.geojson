@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672037,
+        102073331
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"eae762b74ef0682c76e034b8740b5034",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209069025
+            "county_id":102073331,
+            "locality_id":1209069025,
+            "region_id":85672037
         }
     ],
     "wof:id":1209069025,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614651964,
+    "wof:lastmodified":1614720339,
     "wof:name":"Hatinusa",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073331,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

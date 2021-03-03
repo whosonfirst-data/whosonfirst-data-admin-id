@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671973,
+        102072605
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"e24b2623bf4d759c9f6a761e5bd6bbd0",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209013765
+            "county_id":102072605,
+            "locality_id":1209013765,
+            "region_id":85671973
         }
     ],
     "wof:id":1209013765,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638101,
+    "wof:lastmodified":1614714714,
     "wof:name":"Bandarseilan",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072605,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

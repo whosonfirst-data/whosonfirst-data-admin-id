@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672087,
+        102072691
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"2715f4020ab062b10a5fb98903c27174",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209573201
+            "county_id":102072691,
+            "locality_id":1209573201,
+            "region_id":85672087
         }
     ],
     "wof:id":1209573201,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638592,
+    "wof:lastmodified":1614715333,
     "wof:name":"Simpangkarun",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072691,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

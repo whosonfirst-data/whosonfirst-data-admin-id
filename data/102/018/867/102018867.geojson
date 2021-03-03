@@ -87,9 +87,7 @@
     "src:lbl:centroid":"mapshaper",
     "wd:wordcount":131,
     "wof:belongs_to":[],
-    "wof:belongsto":[
-        85632203
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1625279,
@@ -100,8 +98,10 @@
     "wof:geomhash":"88839a21fc69f4ebe37978fd74a34db8",
     "wof:hierarchy":[
         {
-            "country_id":85632203,
-            "locality_id":102018867
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":102018867,
+            "region_id":-1
         }
     ],
     "wof:id":102018867,
@@ -112,7 +112,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1613173709,
+    "wof:lastmodified":1614712751,
     "wof:name":"Tanjung Pandan",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

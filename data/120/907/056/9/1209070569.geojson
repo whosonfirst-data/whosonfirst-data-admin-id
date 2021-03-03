@@ -67,7 +67,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672111,
+        1108796935
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -77,8 +80,11 @@
     "wof:geomhash":"de593644fe60c2688cc9572d518b5ed4",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209070569
+            "county_id":1108796935,
+            "locality_id":1209070569,
+            "region_id":85672111
         }
     ],
     "wof:id":1209070569,
@@ -89,9 +95,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638023,
+    "wof:lastmodified":1614722937,
     "wof:name":"Bobo",
-    "wof:parent_id":85632203,
+    "wof:parent_id":1108796935,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

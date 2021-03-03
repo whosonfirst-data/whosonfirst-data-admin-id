@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671973,
+        102073099
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"6a3f3ff98a20cdf4d702270295f7567e",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209418591
+            "county_id":102073099,
+            "locality_id":1209418591,
+            "region_id":85671973
         }
     ],
     "wof:id":1209418591,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638362,
+    "wof:lastmodified":1614718481,
     "wof:name":"Drienklpah",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073099,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

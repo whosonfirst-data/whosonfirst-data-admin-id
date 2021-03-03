@@ -376,7 +376,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671983,
+        102073505
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -386,8 +389,11 @@
     "wof:geomhash":"a5586d7de31f112f03d3fda6f65f4724",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209066455
+            "county_id":102073505,
+            "locality_id":1209066455,
+            "region_id":85671983
         }
     ],
     "wof:id":1209066455,
@@ -398,9 +404,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638122,
+    "wof:lastmodified":1614721703,
     "wof:name":"Timur",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073505,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

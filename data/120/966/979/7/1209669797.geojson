@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672073,
+        102073107
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"d5e7a39a6f5d948aab5cd81886c4f037",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209669797
+            "county_id":102073107,
+            "locality_id":1209669797,
+            "region_id":85672073
         }
     ],
     "wof:id":1209669797,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638636,
+    "wof:lastmodified":1614718518,
     "wof:name":"Pergambiran",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073107,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

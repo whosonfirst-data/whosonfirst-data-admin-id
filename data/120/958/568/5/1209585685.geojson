@@ -34,6 +34,7 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191569,
         85632203
     ],
     "wof:breaches":[],
@@ -44,8 +45,10 @@
     "wof:geomhash":"db0eb6bac9fbbe93774703b362284a9c",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209585685
+            "locality_id":1209585685,
+            "region_id":-1
         }
     ],
     "wof:id":1209585685,
@@ -56,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638730,
+    "wof:lastmodified":1614726909,
     "wof:name":"Waylubuk",
-    "wof:parent_id":85632203,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

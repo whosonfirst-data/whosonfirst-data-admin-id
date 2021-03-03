@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672045,
+        102072975
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"82af5ea639dbc9511700430fa89755b5",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209349915
+            "county_id":102072975,
+            "locality_id":1209349915,
+            "region_id":85672045
         }
     ],
     "wof:id":1209349915,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638858,
+    "wof:lastmodified":1614717647,
     "wof:name":"Salewang",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072975,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

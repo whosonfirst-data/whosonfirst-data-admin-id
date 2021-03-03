@@ -50,7 +50,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672067,
+        102072595
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,8 +63,11 @@
     "wof:geomhash":"782a61d3686493e870f62b2da5d8fcbb",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209140105
+            "county_id":102072595,
+            "locality_id":1209140105,
+            "region_id":85672067
         }
     ],
     "wof:id":1209140105,
@@ -72,9 +78,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638542,
+    "wof:lastmodified":1614714698,
     "wof:name":"Jalia",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072595,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

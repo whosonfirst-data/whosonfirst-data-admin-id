@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672115,
+        102073035
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"053f25c130fa7e7ddafa0f0f21ecf65a",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209354763
+            "county_id":102073035,
+            "locality_id":1209354763,
+            "region_id":85672115
         }
     ],
     "wof:id":1209354763,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638676,
+    "wof:lastmodified":1614718069,
     "wof:name":"Puso",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073035,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

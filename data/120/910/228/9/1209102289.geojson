@@ -61,7 +61,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672027,
+        102073373
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -71,8 +74,11 @@
     "wof:geomhash":"e89e80215b12e58d2befc372b0ffb204",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209102289
+            "county_id":102073373,
+            "locality_id":1209102289,
+            "region_id":85672027
         }
     ],
     "wof:id":1209102289,
@@ -83,9 +89,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614639147,
+    "wof:lastmodified":1614720608,
     "wof:name":"Persil",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073373,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

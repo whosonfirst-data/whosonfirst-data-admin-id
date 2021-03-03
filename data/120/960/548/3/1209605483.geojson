@@ -32,7 +32,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672027,
+        102073553
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,8 +45,11 @@
     "wof:geomhash":"bc03fa1802ce4a31fd5718a95ca77095",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209605483
+            "county_id":102073553,
+            "locality_id":1209605483,
+            "region_id":85672027
         }
     ],
     "wof:id":1209605483,
@@ -54,9 +60,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652237,
+    "wof:lastmodified":1614722220,
     "wof:name":"Tambakcemandi",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073553,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

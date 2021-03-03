@@ -64,7 +64,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672027,
+        102072995
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -74,8 +77,11 @@
     "wof:geomhash":"83c5d69bab9cca230259fe834d51b287",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209399879
+            "county_id":102072995,
+            "locality_id":1209399879,
+            "region_id":85672027
         }
     ],
     "wof:id":1209399879,
@@ -86,9 +92,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638118,
+    "wof:lastmodified":1614717800,
     "wof:name":"Kamara",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072995,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

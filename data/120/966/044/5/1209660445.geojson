@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672055,
+        1108796791
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"9fbef613362f55de219cff398211020c",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209660445
+            "county_id":1108796791,
+            "locality_id":1209660445,
+            "region_id":85672055
         }
     ],
     "wof:id":1209660445,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652187,
+    "wof:lastmodified":1614722368,
     "wof:name":"Beringin",
-    "wof:parent_id":85632203,
+    "wof:parent_id":1108796791,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

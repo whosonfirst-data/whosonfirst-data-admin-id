@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671983,
+        102073505
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"b873052f82c1c8a8e49e5155d4add17e",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209661309
+            "county_id":102073505,
+            "locality_id":1209661309,
+            "region_id":85671983
         }
     ],
     "wof:id":1209661309,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652186,
+    "wof:lastmodified":1614721705,
     "wof:name":"Telargunung",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073505,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

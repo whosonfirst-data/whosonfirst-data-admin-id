@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672037,
+        102073355
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"2daed3a0c591037285d217d216cf7b26",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209380611
+            "county_id":102073355,
+            "locality_id":1209380611,
+            "region_id":85672037
         }
     ],
     "wof:id":1209380611,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638013,
+    "wof:lastmodified":1614720407,
     "wof:name":"Oeledo",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073355,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

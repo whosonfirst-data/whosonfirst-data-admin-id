@@ -103,7 +103,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672027,
+        102073013
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -113,8 +116,11 @@
     "wof:geomhash":"696b864f2f2ff14fa8b4520b50e0d3a4",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209500205
+            "county_id":102073013,
+            "locality_id":1209500205,
+            "region_id":85672027
         }
     ],
     "wof:id":1209500205,
@@ -125,9 +131,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638564,
+    "wof:lastmodified":1614717881,
     "wof:name":"Tawang",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073013,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

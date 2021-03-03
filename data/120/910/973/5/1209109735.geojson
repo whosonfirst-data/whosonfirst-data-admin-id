@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671973,
+        102072965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"91a3c4c3b114a0c17e71daf9be58b833",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209109735
+            "county_id":102072965,
+            "locality_id":1209109735,
+            "region_id":85671973
         }
     ],
     "wof:id":1209109735,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614639160,
+    "wof:lastmodified":1614717610,
     "wof:name":"Lawe Desky Sabas",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072965,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

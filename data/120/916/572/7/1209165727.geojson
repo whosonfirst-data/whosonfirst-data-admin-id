@@ -85,7 +85,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672041,
+        1108796933
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -95,8 +98,11 @@
     "wof:geomhash":"3874fc280cd0933c50235dbfc6abeb97",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209165727
+            "county_id":1108796933,
+            "locality_id":1209165727,
+            "region_id":85672041
         }
     ],
     "wof:id":1209165727,
@@ -107,9 +113,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638905,
+    "wof:lastmodified":1614722924,
     "wof:name":"Kira",
-    "wof:parent_id":85632203,
+    "wof:parent_id":1108796933,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

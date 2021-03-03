@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102072647
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"afe4fc28a2f956d8631262a730c20a2e",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209509135
+            "county_id":102072647,
+            "locality_id":1209509135,
+            "region_id":85671987
         }
     ],
     "wof:id":1209509135,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652158,
+    "wof:lastmodified":1614715118,
     "wof:name":"Begal",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072647,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

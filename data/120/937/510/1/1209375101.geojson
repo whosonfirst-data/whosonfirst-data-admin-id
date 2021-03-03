@@ -37,7 +37,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671983,
+        102073193
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,8 +50,11 @@
     "wof:geomhash":"c244b6dce19e2ebd5be7c0cdfd4ba3cf",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209375101
+            "county_id":102073193,
+            "locality_id":1209375101,
+            "region_id":85671983
         }
     ],
     "wof:id":1209375101,
@@ -59,9 +65,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614651986,
+    "wof:lastmodified":1614719148,
     "wof:name":"Sukamulya",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073193,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

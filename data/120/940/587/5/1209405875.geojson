@@ -28,7 +28,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102073233
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,8 +41,11 @@
     "wof:geomhash":"4acc9a2610ef7bc52a041981bbf7a8a7",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209405875
+            "county_id":102073233,
+            "locality_id":1209405875,
+            "region_id":85671987
         }
     ],
     "wof:id":1209405875,
@@ -50,9 +56,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638419,
+    "wof:lastmodified":1614719596,
     "wof:name":"Mergan",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073233,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

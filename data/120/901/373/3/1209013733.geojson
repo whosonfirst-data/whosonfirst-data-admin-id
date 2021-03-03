@@ -32,7 +32,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671973,
+        102072619
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,8 +45,11 @@
     "wof:geomhash":"8110c586e716b5bc7db552177252561e",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209013733
+            "county_id":102072619,
+            "locality_id":1209013733,
+            "region_id":85671973
         }
     ],
     "wof:id":1209013733,
@@ -54,9 +60,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638105,
+    "wof:lastmodified":1614714943,
     "wof:name":"Ramung",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072619,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

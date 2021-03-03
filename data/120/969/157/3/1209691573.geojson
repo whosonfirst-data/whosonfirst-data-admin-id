@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672037,
+        102073039
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"b56cc40bf7c8dabc826bb2e451a27869",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209691573
+            "county_id":102073039,
+            "locality_id":1209691573,
+            "region_id":85672037
         }
     ],
     "wof:id":1209691573,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652247,
+    "wof:lastmodified":1614718079,
     "wof:name":"Airmata",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073039,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

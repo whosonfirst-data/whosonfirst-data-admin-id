@@ -24,12 +24,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        102020437,
+        102072841,
+        85672001
+    ],
     "wof:breaches":[],
     "wof:country":"ID",
     "wof:created":1613158552,
     "wof:geomhash":"4a9b1f605d508ff634c69cc2b900579a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102072841,
+            "locality_id":102020437,
+            "neighbourhood_id":1729801879,
+            "region_id":85672001
+        }
+    ],
     "wof:id":1729801879,
     "wof:lang_x_official":[
         "ind"
@@ -38,9 +53,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1613179628,
+    "wof:lastmodified":1614723329,
     "wof:name":"Meruya Selatan",
-    "wof:parent_id":-1,
+    "wof:parent_id":102020437,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

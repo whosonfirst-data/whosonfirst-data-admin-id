@@ -48,7 +48,9 @@
     "wd:wordcount":84,
     "wof:belongsto":[
         102191569,
-        85632203
+        85632203,
+        85672103,
+        102073031
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -64,7 +66,9 @@
         {
             "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":102022235
+            "county_id":102073031,
+            "locality_id":102022235,
+            "region_id":85672103
         }
     ],
     "wof:id":102022235,
@@ -75,9 +79,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1613173638,
+    "wof:lastmodified":1614714409,
     "wof:name":"Wera",
-    "wof:parent_id":-1,
+    "wof:parent_id":102073031,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672023,
+        102073027
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"da7d5b50a6c7b2b8a7439e5fe40b5c6b",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209222759
+            "county_id":102073027,
+            "locality_id":1209222759,
+            "region_id":85672023
         }
     ],
     "wof:id":1209222759,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652146,
+    "wof:lastmodified":1614718033,
     "wof:name":"Dukunsampih",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073027,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

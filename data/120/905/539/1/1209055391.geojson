@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672013,
+        1108796971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"84b1bae336726f9039949c76de769a9f",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209055391
+            "county_id":1108796971,
+            "locality_id":1209055391,
+            "region_id":85672013
         }
     ],
     "wof:id":1209055391,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638827,
+    "wof:lastmodified":1614723008,
     "wof:name":"Kotabumi",
-    "wof:parent_id":85632203,
+    "wof:parent_id":1108796971,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

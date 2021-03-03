@@ -37,7 +37,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672041,
+        102072833
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,8 +50,11 @@
     "wof:geomhash":"b6139eb8f702dd82bfbbf05b1b665f4f",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209147555
+            "county_id":102072833,
+            "locality_id":1209147555,
+            "region_id":85672041
         }
     ],
     "wof:id":1209147555,
@@ -59,9 +65,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638537,
+    "wof:lastmodified":1614716539,
     "wof:name":"Posi",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072833,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

@@ -43,7 +43,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672041,
+        1108796933
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,8 +56,11 @@
     "wof:geomhash":"422bc6ccbee4227220f27e6bb4c781a4",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209045161
+            "county_id":1108796933,
+            "locality_id":1209045161,
+            "region_id":85672041
         }
     ],
     "wof:id":1209045161,
@@ -65,9 +71,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638686,
+    "wof:lastmodified":1614722921,
     "wof:name":"Podon",
-    "wof:parent_id":85632203,
+    "wof:parent_id":1108796933,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

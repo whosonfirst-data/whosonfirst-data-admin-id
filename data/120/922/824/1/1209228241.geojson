@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671973,
+        102073537
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"7324db1a8d8517dbc6a8edcc35949873",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209228241
+            "county_id":102073537,
+            "locality_id":1209228241,
+            "region_id":85671973
         }
     ],
     "wof:id":1209228241,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638525,
+    "wof:lastmodified":1614722120,
     "wof:name":"Blang Ara",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073537,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

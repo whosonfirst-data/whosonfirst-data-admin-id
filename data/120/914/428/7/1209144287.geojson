@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672041,
+        102073433
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"15634940f54457d65f530f21ebf327c8",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209144287
+            "county_id":102073433,
+            "locality_id":1209144287,
+            "region_id":85672041
         }
     ],
     "wof:id":1209144287,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638542,
+    "wof:lastmodified":1614721045,
     "wof:name":"Pajea",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073433,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

@@ -160,7 +160,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672037,
+        1108796855
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -170,8 +173,11 @@
     "wof:geomhash":"15e9a0a6ea2a8ed2c2f05150b9dff2e7",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209481013
+            "county_id":1108796855,
+            "locality_id":1209481013,
+            "region_id":85672037
         }
     ],
     "wof:id":1209481013,
@@ -182,9 +188,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638269,
+    "wof:lastmodified":1614722677,
     "wof:name":"Kale",
-    "wof:parent_id":85632203,
+    "wof:parent_id":1108796855,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672077,
+        1108796911
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"4996109c91ef4fd18df9e8b97f7a5acb",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209658335
+            "county_id":1108796911,
+            "locality_id":1209658335,
+            "region_id":85672077
         }
     ],
     "wof:id":1209658335,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638052,
+    "wof:lastmodified":1614722857,
     "wof:name":"Deremi",
-    "wof:parent_id":85632203,
+    "wof:parent_id":1108796911,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

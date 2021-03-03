@@ -28,7 +28,10 @@
     "mz:min_zoom":13.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672093,
+        102073189
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,8 +41,11 @@
     "wof:geomhash":"8bab295818e78b16cb35ce8f3d61b80e",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209192967
+            "county_id":102073189,
+            "locality_id":1209192967,
+            "region_id":85672093
         }
     ],
     "wof:id":1209192967,
@@ -50,9 +56,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652354,
+    "wof:lastmodified":1614719076,
     "wof:name":"Trimulyo Dua",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073189,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

@@ -64,7 +64,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672027,
+        102073553
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -74,8 +77,11 @@
     "wof:geomhash":"cdb5b07ddf18ace4d8e825cca3e63733",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209304645
+            "county_id":102073553,
+            "locality_id":1209304645,
+            "region_id":85672027
         }
     ],
     "wof:id":1209304645,
@@ -86,9 +92,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614651972,
+    "wof:lastmodified":1614722207,
     "wof:name":"Sono",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073553,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

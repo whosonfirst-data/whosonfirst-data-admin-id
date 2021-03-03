@@ -34,6 +34,7 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        102191569,
         85632203
     ],
     "wof:breaches":[],
@@ -44,8 +45,10 @@
     "wof:geomhash":"d74318f49036b13066b9527656e43f00",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209371161
+            "locality_id":1209371161,
+            "region_id":-1
         }
     ],
     "wof:id":1209371161,
@@ -56,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614651987,
+    "wof:lastmodified":1614727398,
     "wof:name":"Usuku",
-    "wof:parent_id":85632203,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

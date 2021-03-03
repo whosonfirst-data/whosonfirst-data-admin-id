@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672009,
+        102072927
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"a3c79efe6b0c07aaebbc1a89271876da",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209585719
+            "county_id":102072927,
+            "locality_id":1209585719,
+            "region_id":85672009
         }
     ],
     "wof:id":1209585719,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638737,
+    "wof:lastmodified":1614717201,
     "wof:name":"Karangrejo",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072927,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

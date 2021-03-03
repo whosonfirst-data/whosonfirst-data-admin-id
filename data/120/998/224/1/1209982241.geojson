@@ -30,7 +30,10 @@
         "Habibola"
     ],
     "src:geom":"geonames",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632203
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7574409
@@ -39,8 +42,8 @@
     "wof:geomhash":"bd0b730016501dd7da3ccf905740990d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191569,
+            "country_id":85632203,
             "locality_id":1209982241,
             "region_id":-1
         }
@@ -53,7 +56,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638046,
+    "wof:lastmodified":1614734942,
     "wof:name":"Habibola",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

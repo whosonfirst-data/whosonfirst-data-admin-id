@@ -62,9 +62,7 @@
     "qs:placetype":"Town",
     "qs:pop_sr":"0",
     "wof:belongsto":[
-        102191569,
-        85632203,
-        85672023
+        102191569
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -78,9 +76,9 @@
     "wof:hierarchy":[
         {
             "continent_id":102191569,
-            "country_id":85632203,
+            "country_id":-1,
             "locality_id":890498587,
-            "region_id":85672023
+            "region_id":-1
         }
     ],
     "wof:id":890498587,
@@ -91,9 +89,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614653736,
+    "wof:lastmodified":1614731923,
     "wof:name":"Benoa",
-    "wof:parent_id":85672023,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

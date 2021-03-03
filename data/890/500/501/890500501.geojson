@@ -25,6 +25,7 @@
     "qs:pop_sr":"7",
     "src:population":"geonames",
     "wof:belongsto":[
+        102191569,
         85632203
     ],
     "wof:breaches":[],
@@ -38,8 +39,10 @@
     "wof:geomhash":"077b8095b34e6933311010f4ade44fc7",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":890500501
+            "locality_id":890500501,
+            "region_id":-1
         }
     ],
     "wof:id":890500501,
@@ -50,7 +53,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614653749,
+    "wof:lastmodified":1614735299,
     "wof:name":"Kalianget",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

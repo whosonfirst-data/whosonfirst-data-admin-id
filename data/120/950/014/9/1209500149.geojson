@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672027,
+        102073325
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"2502e4eb5007e10f953b314a4c1ab860",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209500149
+            "county_id":102073325,
+            "locality_id":1209500149,
+            "region_id":85672027
         }
     ],
     "wof:id":1209500149,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638550,
+    "wof:lastmodified":1614720286,
     "wof:name":"Dukoh",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073325,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

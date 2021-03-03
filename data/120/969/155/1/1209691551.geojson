@@ -40,7 +40,7 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,8 +50,10 @@
     "wof:geomhash":"66003e0b339c60c7308eec70d753f4fb",
     "wof:hierarchy":[
         {
-            "country_id":85632203,
-            "locality_id":1209691551
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1209691551,
+            "region_id":-1
         }
     ],
     "wof:id":1209691551,
@@ -62,9 +64,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638803,
+    "wof:lastmodified":1614726838,
     "wof:name":"Paga",
-    "wof:parent_id":85632203,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

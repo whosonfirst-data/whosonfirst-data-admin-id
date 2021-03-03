@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672013,
+        102073279
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"230bd4722315acb3af6e9fcb9af30d84",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209173545
+            "county_id":102073279,
+            "locality_id":1209173545,
+            "region_id":85672013
         }
     ],
     "wof:id":1209173545,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614639112,
+    "wof:lastmodified":1614719977,
     "wof:name":"Mangkenanglebak",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073279,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

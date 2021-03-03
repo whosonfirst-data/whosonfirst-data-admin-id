@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672077,
+        1108796923
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"9e61b150d2f39a69250f1e30aebd95e6",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209151277
+            "county_id":1108796923,
+            "locality_id":1209151277,
+            "region_id":85672077
         }
     ],
     "wof:id":1209151277,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638374,
+    "wof:lastmodified":1614722880,
     "wof:name":"Kasangbangsawan",
-    "wof:parent_id":85632203,
+    "wof:parent_id":1108796923,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

@@ -24,12 +24,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        102020437,
+        102072841,
+        85672001
+    ],
     "wof:breaches":[],
     "wof:country":"ID",
     "wof:created":1613158552,
     "wof:geomhash":"f0469163e8d7ddd58a4e8ec5d75b6599",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102072841,
+            "locality_id":102020437,
+            "neighbourhood_id":1729801883,
+            "region_id":85672001
+        }
+    ],
     "wof:id":1729801883,
     "wof:lang_x_official":[
         "ind"
@@ -38,9 +53,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1613179629,
+    "wof:lastmodified":1614723330,
     "wof:name":"Kembangan Selatan",
-    "wof:parent_id":-1,
+    "wof:parent_id":102020437,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

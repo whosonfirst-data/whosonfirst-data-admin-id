@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672023,
+        102073027
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"2f9e2f1f64a1c05f58a8da76c86db322",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209517913
+            "county_id":102073027,
+            "locality_id":1209517913,
+            "region_id":85672023
         }
     ],
     "wof:id":1209517913,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652250,
+    "wof:lastmodified":1614718031,
     "wof:name":"Banjar Tihingan Tengah",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073027,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

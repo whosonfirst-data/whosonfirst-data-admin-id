@@ -69,9 +69,7 @@
     "src:lbl:centroid":"mapshaper",
     "wd:wordcount":703,
     "wof:belongs_to":[],
-    "wof:belongsto":[
-        85632203
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1638048,
@@ -82,8 +80,10 @@
     "wof:geomhash":"7fb278ab78b20987f80af15fbbe4be95",
     "wof:hierarchy":[
         {
-            "country_id":85632203,
-            "locality_id":102019991
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":102019991,
+            "region_id":-1
         }
     ],
     "wof:id":102019991,
@@ -94,7 +94,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1613173741,
+    "wof:lastmodified":1614713247,
     "wof:name":"Nusa Lembongan",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

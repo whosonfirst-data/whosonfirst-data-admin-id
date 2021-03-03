@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672111,
+        102073211
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"12560b3b724c790dc05ce7990f3d8d8f",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209283487
+            "county_id":102073211,
+            "locality_id":1209283487,
+            "region_id":85672111
         }
     ],
     "wof:id":1209283487,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614639138,
+    "wof:lastmodified":1614719322,
     "wof:name":"Winowanga",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073211,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672013,
+        1108796973
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"19033ff52ddf111abe595e197bfba99c",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209163389
+            "county_id":1108796973,
+            "locality_id":1209163389,
+            "region_id":85672013
         }
     ],
     "wof:id":1209163389,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638893,
+    "wof:lastmodified":1614723016,
     "wof:name":"Sipim",
-    "wof:parent_id":85632203,
+    "wof:parent_id":1108796973,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

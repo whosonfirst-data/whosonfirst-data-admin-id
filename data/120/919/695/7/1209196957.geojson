@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672009,
+        102072615
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"e8af1a3f06a6aed72198de59a5d036f7",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209196957
+            "county_id":102072615,
+            "locality_id":1209196957,
+            "region_id":85672009
         }
     ],
     "wof:id":1209196957,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614639085,
+    "wof:lastmodified":1614714923,
     "wof:name":"Umbulan Tua",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072615,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

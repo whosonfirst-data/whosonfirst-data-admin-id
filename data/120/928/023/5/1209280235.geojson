@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672037,
+        102073331
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"cd46efedf59fd5c1c60f04d9b087914e",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209280235
+            "county_id":102073331,
+            "locality_id":1209280235,
+            "region_id":85672037
         }
     ],
     "wof:id":1209280235,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614639135,
+    "wof:lastmodified":1614720327,
     "wof:name":"Tufen",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073331,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

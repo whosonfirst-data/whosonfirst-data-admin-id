@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672027,
+        102073297
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"8fa6fc5e3e32f8dd05e71981012a48bc",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209411655
+            "county_id":102073297,
+            "locality_id":1209411655,
+            "region_id":85672027
         }
     ],
     "wof:id":1209411655,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638366,
+    "wof:lastmodified":1614720076,
     "wof:name":"Kapringan",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073297,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

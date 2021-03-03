@@ -36,7 +36,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672077,
+        1108796907
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,8 +49,11 @@
     "wof:geomhash":"98017159f9de0dab8bd09418cadae543",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209049643
+            "county_id":1108796907,
+            "locality_id":1209049643,
+            "region_id":85672077
         }
     ],
     "wof:id":1209049643,
@@ -58,9 +64,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638685,
+    "wof:lastmodified":1614722832,
     "wof:name":"Puntianan",
-    "wof:parent_id":85632203,
+    "wof:parent_id":1108796907,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

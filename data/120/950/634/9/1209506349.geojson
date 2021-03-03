@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102072929
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +47,11 @@
     "wof:geomhash":"025a956ec0bc2774843a9bdadd057578",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209506349
+            "county_id":102072929,
+            "locality_id":1209506349,
+            "region_id":85671987
         }
     ],
     "wof:id":1209506349,
@@ -56,9 +62,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638552,
+    "wof:lastmodified":1614717248,
     "wof:name":"Sedati",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072929,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

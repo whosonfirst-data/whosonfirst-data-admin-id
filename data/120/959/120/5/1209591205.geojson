@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672037,
+        1108796855
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"a022d27ed689524b816f021c99cc6773",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209591205
+            "county_id":1108796855,
+            "locality_id":1209591205,
+            "region_id":85672037
         }
     ],
     "wof:id":1209591205,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638664,
+    "wof:lastmodified":1614722678,
     "wof:name":"Dedeka",
-    "wof:parent_id":85632203,
+    "wof:parent_id":1108796855,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

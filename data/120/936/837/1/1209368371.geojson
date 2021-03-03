@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672055,
+        102072737
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"45a175bd323bcb13b0275de429c4e183",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209368371
+            "county_id":102072737,
+            "locality_id":1209368371,
+            "region_id":85672055
         }
     ],
     "wof:id":1209368371,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614637995,
+    "wof:lastmodified":1614715889,
     "wof:name":"Wubudu",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072737,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

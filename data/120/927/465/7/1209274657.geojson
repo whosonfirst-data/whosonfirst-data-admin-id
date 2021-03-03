@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671983,
+        102073551
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"3a304cb56a963d9ff77dc7b5982ece0b",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209274657
+            "county_id":102073551,
+            "locality_id":1209274657,
+            "region_id":85671983
         }
     ],
     "wof:id":1209274657,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652308,
+    "wof:lastmodified":1614722173,
     "wof:name":"Pacing Barat",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073551,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672073,
+        102073107
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +47,11 @@
     "wof:geomhash":"7ad85f024ebad20c39e9c70c12c3a1a2",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209060857
+            "county_id":102073107,
+            "locality_id":1209060857,
+            "region_id":85672073
         }
     ],
     "wof:id":1209060857,
@@ -56,9 +62,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638123,
+    "wof:lastmodified":1614718508,
     "wof:name":"Airputih Dua",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073107,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

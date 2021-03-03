@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672073,
+        102072711
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"b482997c9caf75d5ba58b3d2b05e6212",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209572045
+            "county_id":102072711,
+            "locality_id":1209572045,
+            "region_id":85672073
         }
     ],
     "wof:id":1209572045,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638580,
+    "wof:lastmodified":1614715623,
     "wof:name":"Huta Raja",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072711,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

@@ -40,7 +40,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672027,
+        102073013
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,8 +53,11 @@
     "wof:geomhash":"64cc09778d3da5c1f1c08436d7fb4ca4",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209304567
+            "county_id":102073013,
+            "locality_id":1209304567,
+            "region_id":85672027
         }
     ],
     "wof:id":1209304567,
@@ -62,9 +68,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638159,
+    "wof:lastmodified":1614717893,
     "wof:name":"Baru",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073013,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

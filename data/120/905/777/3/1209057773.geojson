@@ -127,7 +127,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672041,
+        102072845
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -137,8 +140,11 @@
     "wof:geomhash":"6b4442b34107b631ea85b763b44b7b42",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209057773
+            "county_id":102072845,
+            "locality_id":1209057773,
+            "region_id":85672041
         }
     ],
     "wof:id":1209057773,
@@ -149,9 +155,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638827,
+    "wof:lastmodified":1614716621,
     "wof:name":"Maleo",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072845,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

@@ -61,7 +61,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672027,
+        102073123
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -71,8 +74,11 @@
     "wof:geomhash":"5898414c089689c9a481563db4bf0b00",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209299503
+            "county_id":102073123,
+            "locality_id":1209299503,
+            "region_id":85672027
         }
     ],
     "wof:id":1209299503,
@@ -83,9 +89,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652294,
+    "wof:lastmodified":1614718654,
     "wof:name":"Barat",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073123,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

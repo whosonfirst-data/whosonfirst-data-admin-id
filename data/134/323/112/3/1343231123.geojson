@@ -33,7 +33,10 @@
         "Nambo"
     ],
     "src:geom":"geonames",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632203
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1634533
@@ -42,8 +45,8 @@
     "wof:geomhash":"0d191f287fb64784c4955771d4194b5d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191569,
+            "country_id":85632203,
             "locality_id":1343231123,
             "region_id":-1
         }
@@ -56,7 +59,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614634375,
+    "wof:lastmodified":1614727207,
     "wof:name":"Nambolempek",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

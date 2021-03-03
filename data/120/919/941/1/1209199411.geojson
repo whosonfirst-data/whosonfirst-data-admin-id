@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672027,
+        102073305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"f0629b05ab9592d128590d3c2ac711fe",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209199411
+            "county_id":102073305,
+            "locality_id":1209199411,
+            "region_id":85672027
         }
     ],
     "wof:id":1209199411,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614639086,
+    "wof:lastmodified":1614720139,
     "wof:name":"Sumberkijing Dua",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073305,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

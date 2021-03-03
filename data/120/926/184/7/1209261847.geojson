@@ -32,7 +32,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672097,
+        1108796837
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,8 +45,11 @@
     "wof:geomhash":"2628cfd423cbcd700ce148ae84dd26e8",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209261847
+            "county_id":1108796837,
+            "locality_id":1209261847,
+            "region_id":85672097
         }
     ],
     "wof:id":1209261847,
@@ -54,9 +60,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614639079,
+    "wof:lastmodified":1614722591,
     "wof:name":"Kiliaum",
-    "wof:parent_id":85632203,
+    "wof:parent_id":1108796837,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

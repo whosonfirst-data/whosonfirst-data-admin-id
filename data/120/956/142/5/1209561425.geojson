@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671983,
+        102073245
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"78364fb20884ed03769d64751e5bc604",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209561425
+            "county_id":102073245,
+            "locality_id":1209561425,
+            "region_id":85671983
         }
     ],
     "wof:id":1209561425,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638782,
+    "wof:lastmodified":1614719719,
     "wof:name":"Sukamaju",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073245,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

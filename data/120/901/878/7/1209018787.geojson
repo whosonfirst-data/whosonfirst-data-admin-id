@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672105,
+        1108796939
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"ebb0445e153f1acfa2676ec43f0488e4",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209018787
+            "county_id":1108796939,
+            "locality_id":1209018787,
+            "region_id":85672105
         }
     ],
     "wof:id":1209018787,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638104,
+    "wof:lastmodified":1614722953,
     "wof:name":"Motaha",
-    "wof:parent_id":85632203,
+    "wof:parent_id":1108796939,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

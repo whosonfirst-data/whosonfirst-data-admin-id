@@ -43,7 +43,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672037,
+        1108796849
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,8 +56,11 @@
     "wof:geomhash":"f9085de9fbaf23b9c79b20e441017ede",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209578257
+            "county_id":1108796849,
+            "locality_id":1209578257,
+            "region_id":85672037
         }
     ],
     "wof:id":1209578257,
@@ -65,9 +71,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638590,
+    "wof:lastmodified":1614722631,
     "wof:name":"Waru",
-    "wof:parent_id":85632203,
+    "wof:parent_id":1108796849,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

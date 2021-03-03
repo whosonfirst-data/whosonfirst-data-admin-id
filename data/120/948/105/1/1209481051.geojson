@@ -151,7 +151,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672037,
+        1108796851
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -161,8 +164,11 @@
     "wof:geomhash":"26cde500792ed25ce7cc689cacbca7ab",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209481051
+            "county_id":1108796851,
+            "locality_id":1209481051,
+            "region_id":85672037
         }
     ],
     "wof:id":1209481051,
@@ -173,9 +179,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638262,
+    "wof:lastmodified":1614722645,
     "wof:name":"Yoda",
-    "wof:parent_id":85632203,
+    "wof:parent_id":1108796851,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

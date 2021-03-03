@@ -24,12 +24,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        102020581,
+        102073083,
+        85671983
+    ],
     "wof:breaches":[],
     "wof:country":"ID",
     "wof:created":1613158663,
     "wof:geomhash":"100f888cb80b8f9ef199041f53d1a935",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102073083,
+            "locality_id":102020581,
+            "neighbourhood_id":1729802171,
+            "region_id":85671983
+        }
+    ],
     "wof:id":1729802171,
     "wof:lang_x_official":[
         "ind"
@@ -38,9 +53,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1613179623,
+    "wof:lastmodified":1614723446,
     "wof:name":"Sukamaju",
-    "wof:parent_id":-1,
+    "wof:parent_id":102020581,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

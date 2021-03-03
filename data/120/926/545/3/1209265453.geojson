@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672097,
+        1108796839
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +47,11 @@
     "wof:geomhash":"80c9ba2d427567bb28011b9d5a4e1f6a",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209265453
+            "county_id":1108796839,
+            "locality_id":1209265453,
+            "region_id":85672097
         }
     ],
     "wof:id":1209265453,
@@ -56,9 +62,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614639067,
+    "wof:lastmodified":1614722595,
     "wof:name":"Watuilama",
-    "wof:parent_id":85632203,
+    "wof:parent_id":1108796839,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

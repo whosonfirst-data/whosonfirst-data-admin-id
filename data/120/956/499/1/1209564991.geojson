@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671983,
+        102073471
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +47,11 @@
     "wof:geomhash":"14af7be43e0db94775109dfd2fa6e752",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209564991
+            "county_id":102073471,
+            "locality_id":1209564991,
+            "region_id":85671983
         }
     ],
     "wof:id":1209564991,
@@ -56,9 +62,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652241,
+    "wof:lastmodified":1614721382,
     "wof:name":"Nagrog",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073471,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

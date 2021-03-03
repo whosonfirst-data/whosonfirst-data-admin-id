@@ -52,7 +52,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672041,
+        102073243
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,8 +65,11 @@
     "wof:geomhash":"9c556aecbcadb94bbcbdf46d86b7ab02",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209150955
+            "county_id":102073243,
+            "locality_id":1209150955,
+            "region_id":85672041
         }
     ],
     "wof:id":1209150955,
@@ -74,9 +80,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638378,
+    "wof:lastmodified":1614719686,
     "wof:name":"Limba",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073243,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

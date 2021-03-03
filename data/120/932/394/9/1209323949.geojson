@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671973,
+        102072805
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +47,11 @@
     "wof:geomhash":"a8566e62ebc45d4caf306092d492680d",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209323949
+            "county_id":102072805,
+            "locality_id":1209323949,
+            "region_id":85671973
         }
     ],
     "wof:id":1209323949,
@@ -56,9 +62,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638673,
+    "wof:lastmodified":1614716354,
     "wof:name":"Lampanoih",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072805,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

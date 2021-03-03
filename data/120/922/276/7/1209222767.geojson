@@ -58,7 +58,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672023,
+        102072781
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -68,8 +71,11 @@
     "wof:geomhash":"a5137f33516cd60abadd425eaf446cfe",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209222767
+            "county_id":102072781,
+            "locality_id":1209222767,
+            "region_id":85672023
         }
     ],
     "wof:id":1209222767,
@@ -80,9 +86,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638525,
+    "wof:lastmodified":1614716256,
     "wof:name":"Musi",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072781,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

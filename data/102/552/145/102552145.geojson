@@ -38,7 +38,9 @@
         "state_id":2345712
     },
     "wof:belongsto":[
+        102191569,
         85632203,
+        102073019,
         85671991
     ],
     "wof:breaches":[],
@@ -54,7 +56,11 @@
     "wof:hierarchy":[
         {
             "campus_id":102552145,
+            "continent_id":102191569,
             "country_id":85632203,
+            "county_id":102073019,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
             "region_id":85671991
         }
     ],
@@ -66,9 +72,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1613173652,
+    "wof:lastmodified":1614718022,
     "wof:name":"Muko Muko Airport",
-    "wof:parent_id":85671991,
+    "wof:parent_id":-1,
     "wof:placetype":"campus",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

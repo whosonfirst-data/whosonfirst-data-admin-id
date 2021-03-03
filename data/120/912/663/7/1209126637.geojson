@@ -79,7 +79,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102073187
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -89,8 +92,11 @@
     "wof:geomhash":"a956e424e7ec8f4755b1114fa9782c5a",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209126637
+            "county_id":102073187,
+            "locality_id":1209126637,
+            "region_id":85671987
         }
     ],
     "wof:id":1209126637,
@@ -101,9 +107,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638393,
+    "wof:lastmodified":1614719021,
     "wof:name":"Jagir",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073187,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

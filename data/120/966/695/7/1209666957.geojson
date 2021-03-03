@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672077,
+        1108796927
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"58b599fb3f81064f2259e06adb03f2a5",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209666957
+            "county_id":1108796927,
+            "locality_id":1209666957,
+            "region_id":85672077
         }
     ],
     "wof:id":1209666957,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652183,
+    "wof:lastmodified":1614722896,
     "wof:name":"Minas Timur",
-    "wof:parent_id":85632203,
+    "wof:parent_id":1108796927,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

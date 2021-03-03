@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672111,
+        102073413
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"b3cdd357715baa9b0a3b32671289f312",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209579865
+            "county_id":102073413,
+            "locality_id":1209579865,
+            "region_id":85672111
         }
     ],
     "wof:id":1209579865,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638595,
+    "wof:lastmodified":1614720898,
     "wof:name":"Kanagalungka",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073413,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

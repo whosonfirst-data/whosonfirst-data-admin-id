@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102072707
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"752dc269931763b81628dcd4bf573bf0",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209211253
+            "county_id":102072707,
+            "locality_id":1209211253,
+            "region_id":85671987
         }
     ],
     "wof:id":1209211253,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614639109,
+    "wof:lastmodified":1614715501,
     "wof:name":"Bancak Wetan",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072707,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

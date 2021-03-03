@@ -64,7 +64,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672037,
+        102072777
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -74,8 +77,11 @@
     "wof:geomhash":"21781334b9ab00e2b50d38c2ad470bfa",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209176935
+            "county_id":102072777,
+            "locality_id":1209176935,
+            "region_id":85672037
         }
     ],
     "wof:id":1209176935,
@@ -86,9 +92,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614639120,
+    "wof:lastmodified":1614716232,
     "wof:name":"Lawar",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072777,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

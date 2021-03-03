@@ -33,7 +33,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672063,
+        102073097
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +46,11 @@
     "wof:geomhash":"69221bb4933826e97bb72861d39b2b81",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209533785
+            "county_id":102073097,
+            "locality_id":1209533785,
+            "region_id":85672063
         }
     ],
     "wof:id":1209533785,
@@ -55,9 +61,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638032,
+    "wof:lastmodified":1614718477,
     "wof:name":"Kahukup",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073097,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

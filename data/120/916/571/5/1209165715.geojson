@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672041,
+        102073393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"83c334f0d1cb7a19226196976a387dd6",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209165715
+            "county_id":102073393,
+            "locality_id":1209165715,
+            "region_id":85672041
         }
     ],
     "wof:id":1209165715,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638916,
+    "wof:lastmodified":1614720780,
     "wof:name":"Lapoko",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073393,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

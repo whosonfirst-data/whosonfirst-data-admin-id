@@ -96,7 +96,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672103,
+        102073031
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -106,8 +109,11 @@
     "wof:geomhash":"dc2fc91fd3d66ea5a4c93f2df12dbe52",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209629657
+            "county_id":102073031,
+            "locality_id":1209629657,
+            "region_id":85672103
         }
     ],
     "wof:id":1209629657,
@@ -118,9 +124,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638093,
+    "wof:lastmodified":1614718047,
     "wof:name":"Kuta",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073031,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

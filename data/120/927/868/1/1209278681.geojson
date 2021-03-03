@@ -35,7 +35,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672111,
+        102072695
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,8 +48,11 @@
     "wof:geomhash":"82bbf715c27e75af95b132f15be28648",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209278681
+            "county_id":102072695,
+            "locality_id":1209278681,
+            "region_id":85672111
         }
     ],
     "wof:id":1209278681,
@@ -57,9 +63,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638955,
+    "wof:lastmodified":1614715364,
     "wof:name":"Lamontoli",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072695,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

@@ -38,9 +38,7 @@
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
-        85632203,
-        102073147,
-        85672103
+        85632203
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,9 +56,8 @@
         {
             "continent_id":102191569,
             "country_id":85632203,
-            "county_id":102073147,
             "locality_id":102019495,
-            "region_id":85672103
+            "region_id":-1
         }
     ],
     "wof:id":102019495,
@@ -71,7 +68,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1613173763,
+    "wof:lastmodified":1614713033,
     "wof:name":"Pemenang",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

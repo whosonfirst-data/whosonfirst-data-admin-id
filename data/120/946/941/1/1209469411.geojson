@@ -43,7 +43,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672073,
+        102073085
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,8 +56,11 @@
     "wof:geomhash":"e35c03e8fe1d5268302e387e367f056d",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209469411
+            "county_id":102073085,
+            "locality_id":1209469411,
+            "region_id":85672073
         }
     ],
     "wof:id":1209469411,
@@ -65,9 +71,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638344,
+    "wof:lastmodified":1614718434,
     "wof:name":"Karanganyar",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073085,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

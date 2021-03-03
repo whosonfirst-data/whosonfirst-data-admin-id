@@ -37,7 +37,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671995,
+        102072687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,8 +51,11 @@
     "wof:geomhash":"15cfcd89950cf6bcb4fcb4bc7c5ad7b3",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209468871
+            "county_id":102072687,
+            "locality_id":1209468871,
+            "region_id":85671995
         }
     ],
     "wof:id":1209468871,
@@ -60,9 +66,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652061,
+    "wof:lastmodified":1614715293,
     "wof:name":"Tigaraksa",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072687,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

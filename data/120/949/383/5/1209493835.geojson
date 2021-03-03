@@ -51,7 +51,10 @@
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672093,
+        102073313
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,8 +65,11 @@
     "wof:geomhash":"c45eb75d2bb5256d511d83e0abf31edf",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209493835
+            "county_id":102073313,
+            "locality_id":1209493835,
+            "region_id":85672093
         }
     ],
     "wof:id":1209493835,
@@ -74,9 +80,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652133,
+    "wof:lastmodified":1614720248,
     "wof:name":"Parangtritis",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073313,
     "wof:placetype":"locality",
     "wof:population":500,
     "wof:population_rank":2,

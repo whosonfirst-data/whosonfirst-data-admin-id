@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672037,
+        1108796857
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,11 @@
     "wof:geomhash":"e1c09e7875f0efce50c2b8dc08d7390f",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209180005
+            "county_id":1108796857,
+            "locality_id":1209180005,
+            "region_id":85672037
         }
     ],
     "wof:id":1209180005,
@@ -53,9 +59,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638971,
+    "wof:lastmodified":1614722739,
     "wof:name":"Praikawilu",
-    "wof:parent_id":85632203,
+    "wof:parent_id":1108796857,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

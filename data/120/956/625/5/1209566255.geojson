@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672085,
+        1108796817
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +47,11 @@
     "wof:geomhash":"e943f9376df53a786b63577f97421cd7",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209566255
+            "county_id":1108796817,
+            "locality_id":1209566255,
+            "region_id":85672085
         }
     ],
     "wof:id":1209566255,
@@ -56,9 +62,9 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638790,
+    "wof:lastmodified":1614722534,
     "wof:name":"Wangadeolon",
-    "wof:parent_id":85632203,
+    "wof:parent_id":1108796817,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
