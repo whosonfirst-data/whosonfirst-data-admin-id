@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Amiol",
         "Awom"
@@ -33,15 +34,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672115,
-        1108796879
+        1108796879,
+        85672115
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2082696
     },
     "wof:country":"ID",
-    "wof:geomhash":"3f3cec6e5716b7c13240ea0632475bb4",
+    "wof:geomhash":"9af865efd49435863fc9cf7230e7559d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,7 +53,14 @@
         }
     ],
     "wof:id":1293798335,
-    "wof:lastmodified":1537628282,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614635594,
     "wof:name":"Awom",
     "wof:parent_id":1108796879,
     "wof:placetype":"locality",
@@ -62,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    140.66666999999998,
+    140.66667,
     -5.3,
-    140.66666999999998,
+    140.66667,
     -5.3
 ],
-  "geometry": {"coordinates":[140.66666999999998,-5.3],"type":"Point"}
+  "geometry": {"coordinates":[140.66667000000001,-5.3],"type":"Point"}
 }

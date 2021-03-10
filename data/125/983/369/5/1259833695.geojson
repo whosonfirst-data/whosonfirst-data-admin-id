@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Sukamaju"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671995,
-        102073209
+        102073209,
+        85671995
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7846872
     },
     "wof:country":"ID",
-    "wof:geomhash":"9978dc6f04ce638824d746d36b9a9451",
+    "wof:geomhash":"417855f3251dd6fb5728d1a0f77ff499",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1259833695,
-    "wof:lastmodified":1537634531,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614644035,
     "wof:name":"Sukamaju",
     "wof:parent_id":102073209,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.23378999999998,
+    106.23379,
     -6.89311,
-    106.23378999999998,
+    106.23379,
     -6.89311
 ],
-  "geometry": {"coordinates":[106.23378999999998,-6.89311],"type":"Point"}
+  "geometry": {"coordinates":[106.23379,-6.89311],"type":"Point"}
 }

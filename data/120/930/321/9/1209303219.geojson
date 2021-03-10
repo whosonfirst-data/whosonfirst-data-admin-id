@@ -25,26 +25,40 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672093,
+        102073265
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6264700
     },
     "wof:country":"ID",
-    "wof:geomhash":"62801343e4fcd77448f3a7ae8fef2077",
+    "wof:geomhash":"4d9174d63324217f707c5b462696572c",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209303219
+            "county_id":102073265,
+            "locality_id":1209303219,
+            "region_id":85672093
         }
     ],
     "wof:id":1209303219,
-    "wof:lastmodified":1536291284,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614719903,
     "wof:name":"Kayen",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073265,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
@@ -53,9 +67,9 @@
 },
   "bbox": [
     110.38583,
-    -7.7427800000000016,
+    -7.74278,
     110.38583,
-    -7.7427800000000016
+    -7.74278
 ],
   "geometry": {"coordinates":[110.38583,-7.74278],"type":"Point"}
 }

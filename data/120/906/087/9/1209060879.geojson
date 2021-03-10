@@ -25,12 +25,16 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Hasahatan"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672073,
+        1108796989
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +44,24 @@
     "wof:geomhash":"d2caa82084ded73d4e1b909b97d590fa",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209060879
+            "county_id":1108796989,
+            "locality_id":1209060879,
+            "region_id":85672073
         }
     ],
     "wof:id":1209060879,
-    "wof:lastmodified":1537636538,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614723044,
     "wof:name":"Hasahatan",
-    "wof:parent_id":85632203,
+    "wof:parent_id":1108796989,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

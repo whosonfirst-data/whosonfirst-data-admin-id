@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Rakit"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072715
+        102072715,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6390249
     },
     "wof:country":"ID",
-    "wof:geomhash":"9fc1dbadd2434484640ca0e74612dfc8",
+    "wof:geomhash":"649b676a7c9b0963fdfba2368b97fc6e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1259970653,
-    "wof:lastmodified":1537628711,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614654286,
     "wof:name":"Rakit",
     "wof:parent_id":102072715,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.33138999999998,
+    109.33139,
     -7.43694,
-    109.33138999999998,
+    109.33139,
     -7.43694
 ],
-  "geometry": {"coordinates":[109.33138999999998,-7.43694],"type":"Point"}
+  "geometry": {"coordinates":[109.33139,-7.43694],"type":"Point"}
 }

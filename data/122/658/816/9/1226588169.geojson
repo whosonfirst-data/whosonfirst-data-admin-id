@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Wuptem"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672115,
-        1108796879
+        1108796879,
+        85672115
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8527591
     },
     "wof:country":"ID",
-    "wof:geomhash":"0a185c4fd614313f56a451d7087c4424",
+    "wof:geomhash":"f86e62cefec54a5f2fa6f4bb4bd1fd3b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1226588169,
-    "wof:lastmodified":1537636315,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614645138,
     "wof:name":"Wuptem",
     "wof:parent_id":1108796879,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    140.91828999999996,
+    140.91829,
     -5.55631,
-    140.91828999999996,
+    140.91829,
     -5.55631
 ],
-  "geometry": {"coordinates":[140.91828999999996,-5.55631],"type":"Point"}
+  "geometry": {"coordinates":[140.91829000000001,-5.55631],"type":"Point"}
 }

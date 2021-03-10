@@ -1,0 +1,72 @@
+{
+  "id": 1729797717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000109,
+    "geom:area_square_m":1331955.361778,
+    "geom:bbox":"112.754304,-7.30624,112.763149,-7.287159",
+    "geom:latitude":-7.297058,
+    "geom:longitude":112.759212,
+    "iso:country":"ID",
+    "lbl:latitude":-7.297194,
+    "lbl:longitude":112.759128,
+    "mps:latitude":-7.297194,
+    "mps:longitude":112.759128,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Baratajaya"
+    ],
+    "name:ind_x_preferred":[
+        "Baratajaya"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        102018911,
+        102073397,
+        85672027
+    ],
+    "wof:breaches":[],
+    "wof:country":"ID",
+    "wof:created":1613065466,
+    "wof:geomhash":"0f93dc2513b8ec9c742227faecacef4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102073397,
+            "locality_id":102018911,
+            "neighbourhood_id":1729797717,
+            "region_id":85672027
+        }
+    ],
+    "wof:id":1729797717,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614723161,
+    "wof:name":"Baratajaya",
+    "wof:parent_id":102018911,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    112.754304,
+    -7.30624,
+    112.763149,
+    -7.287159
+],
+  "geometry": {"coordinates":[[[112.763149,-7.287443],[112.76216700000001,-7.293586],[112.761921,-7.299606],[112.762044,-7.30624],[112.759095,-7.305626],[112.757006,-7.305135],[112.754304,-7.304152],[112.757006,-7.293709],[112.75725199999999,-7.292603],[112.757744,-7.289286],[112.757571,-7.287159],[112.763149,-7.287443]]],"type":"Polygon"}
+}

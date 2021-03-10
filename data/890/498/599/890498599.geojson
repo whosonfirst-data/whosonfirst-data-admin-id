@@ -13,6 +13,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:name":"Pulukan",
     "qs:name_adm0":"Indonesia",
     "qs:name_adm1":"Bali",
@@ -27,8 +28,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672023,
-        102073261
+        102073261,
+        85672023
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,7 +49,14 @@
         }
     ],
     "wof:id":890498599,
-    "wof:lastmodified":1500046168,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614642147,
     "wof:name":"Pulukan",
     "wof:parent_id":102073261,
     "wof:placetype":"locality",

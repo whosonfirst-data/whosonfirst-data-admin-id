@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Kampunggondrong"
     ],
@@ -36,15 +37,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073551
+        102073551,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1942114
     },
     "wof:country":"ID",
-    "wof:geomhash":"79d1e15a700a95b57714c955ffc009c1",
+    "wof:geomhash":"f85064122c93fcf93e3715e46a804260",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -55,7 +56,14 @@
         }
     ],
     "wof:id":1293238261,
-    "wof:lastmodified":1537627439,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614650878,
     "wof:name":"Kampunggondrong",
     "wof:parent_id":102073551,
     "wof:placetype":"locality",
@@ -65,10 +73,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.06638999999998,
+    107.06639,
     -6.22667,
-    107.06638999999998,
+    107.06639,
     -6.22667
 ],
-  "geometry": {"coordinates":[107.06638999999998,-6.22667],"type":"Point"}
+  "geometry": {"coordinates":[107.06639,-6.22667],"type":"Point"}
 }

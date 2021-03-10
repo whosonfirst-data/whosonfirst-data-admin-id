@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:bpy_x_preferred":[
         "\u09a4\u09c1\u09a8\u09bf"
     ],
@@ -68,8 +69,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672097,
-        1108796829
+        1108796829,
+        85672097
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -87,7 +88,14 @@
         }
     ],
     "wof:id":1293451127,
-    "wof:lastmodified":1564179131,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614651167,
     "wof:name":"Tuni",
     "wof:parent_id":1108796829,
     "wof:placetype":"locality",

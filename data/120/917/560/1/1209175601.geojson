@@ -25,29 +25,43 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Wotai"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672097,
+        1108796833
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1621346
     },
     "wof:country":"ID",
-    "wof:geomhash":"915a8eb75d496cbc785a489155845ea7",
+    "wof:geomhash":"e0b259dd0602e3fcd77ac92734ed38e4",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209175601
+            "county_id":1108796833,
+            "locality_id":1209175601,
+            "region_id":85672097
         }
     ],
     "wof:id":1209175601,
-    "wof:lastmodified":1537626392,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614722581,
     "wof:name":"Wotai",
-    "wof:parent_id":85632203,
+    "wof:parent_id":1108796833,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
@@ -55,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    129.50253999999998,
+    129.50254,
     -6.75492,
-    129.50253999999998,
+    129.50254,
     -6.75492
 ],
-  "geometry": {"coordinates":[129.50253999999998,-6.75492],"type":"Point"}
+  "geometry": {"coordinates":[129.50254000000001,-6.75492],"type":"Point"}
 }

@@ -25,19 +25,20 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073189
+        102073189,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1999491
     },
     "wof:country":"ID",
-    "wof:geomhash":"831cae5ebf07f13473579ad9495646d0",
+    "wof:geomhash":"d34f7f81ef4fa9f3b32b2429c72dfd8f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +49,14 @@
         }
     ],
     "wof:id":1293862423,
-    "wof:lastmodified":1536743465,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614636574,
     "wof:name":"Buyutan",
     "wof:parent_id":102073189,
     "wof:placetype":"locality",
@@ -58,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.58138999999998,
+    110.58139,
     -7.85417,
-    110.58138999999998,
+    110.58139,
     -7.85417
 ],
-  "geometry": {"coordinates":[110.58138999999998,-7.85417],"type":"Point"}
+  "geometry": {"coordinates":[110.58139,-7.85417],"type":"Point"}
 }

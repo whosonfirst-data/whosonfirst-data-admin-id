@@ -25,29 +25,43 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Sidokerto"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672009,
+        102072989
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8364242
     },
     "wof:country":"ID",
-    "wof:geomhash":"6fe6f91b92e91abd5becf8c5bfd4013c",
+    "wof:geomhash":"edf4e720dfab025954c7abb4d9d77b2a",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209497727
+            "county_id":102072989,
+            "locality_id":1209497727,
+            "region_id":85672009
         }
     ],
     "wof:id":1209497727,
-    "wof:lastmodified":1537635738,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614717770,
     "wof:name":"Sidokerto",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072989,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
@@ -55,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    104.95631000000002,
+    104.95631,
     -4.88118,
-    104.95631000000002,
+    104.95631,
     -4.88118
 ],
-  "geometry": {"coordinates":[104.95631000000002,-4.88118],"type":"Point"}
+  "geometry": {"coordinates":[104.95631,-4.88118],"type":"Point"}
 }

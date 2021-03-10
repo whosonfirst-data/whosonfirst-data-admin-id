@@ -25,13 +25,17 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:und_x_variant":[
         "Iffar",
         "Ifaar"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672115,
+        102073081
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +45,24 @@
     "wof:geomhash":"d2dde309b447c3d30fa37d18eb68deef",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209354761
+            "county_id":102073081,
+            "locality_id":1209354761,
+            "region_id":85672115
         }
     ],
     "wof:id":1209354761,
-    "wof:lastmodified":1537628280,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614718400,
     "wof:name":"Ifaar",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073081,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

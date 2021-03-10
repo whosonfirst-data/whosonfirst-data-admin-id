@@ -25,19 +25,20 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        85672037,
-        102073481
+        102073481,
+        85672037
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1939361
     },
     "wof:country":"ID",
-    "wof:geomhash":"8e6fc130aed034ec0be011e9e9cef5d1",
+    "wof:geomhash":"50eb77d96abdac66502f67800f40bfb8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +49,14 @@
         }
     ],
     "wof:id":1326896373,
-    "wof:lastmodified":1536956548,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614632586,
     "wof:name":"Lolobat",
     "wof:parent_id":102073481,
     "wof:placetype":"locality",
@@ -58,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    124.88443999999998,
+    124.88444,
     -9.51944,
-    124.88443999999998,
+    124.88444,
     -9.51944
 ],
-  "geometry": {"coordinates":[124.88443999999998,-9.51944],"type":"Point"}
+  "geometry": {"coordinates":[124.88444,-9.51944],"type":"Point"}
 }

@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-02-12",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":18719618.224531,
@@ -17,7 +18,7 @@
     "mps:latitude":-10.165867,
     "mps:longitude":123.580014,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -62,11 +63,11 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
-        85672037,
         102191569,
         85632203,
+        102073331,
         102021397,
-        102073331
+        85672037
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -95,7 +96,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582353983,
+    "wof:lastmodified":1613151692,
     "wof:name":"Benting",
     "wof:parent_id":102021397,
     "wof:placetype":"neighbourhood",

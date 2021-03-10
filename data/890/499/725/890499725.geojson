@@ -16,6 +16,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ace_x_preferred":[
         "Sicincin"
     ],
@@ -60,8 +61,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672087,
-        102073151
+        102073151,
+        85672087
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -83,7 +84,14 @@
         }
     ],
     "wof:id":890499725,
-    "wof:lastmodified":1563273805,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614642125,
     "wof:name":"Sicincin",
     "wof:parent_id":102073151,
     "wof:placetype":"locality",

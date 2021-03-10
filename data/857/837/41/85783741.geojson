@@ -4,20 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.00001,
-    "geom:area_square_m":126915.059511,
-    "geom:bbox":"106.828308105,-6.16240091958,106.831054687,-6.15830483008",
-    "geom:latitude":-6.160496,
-    "geom:longitude":106.829764,
+    "geom:area":0.000064,
+    "geom:area_square_m":785776.115112,
+    "geom:bbox":"106.818997,-6.168275,106.830276,-6.159496",
+    "geom:latitude":-6.164239,
+    "geom:longitude":106.824401,
     "gn:latitude":-6.1651,
     "gn:longitude":106.8224,
     "iso:country":"ID",
-    "lbl:latitude":-6.161036,
-    "lbl:longitude":106.829681,
-    "mps:latitude":-6.160518,
-    "mps:longitude":106.829691,
+    "lbl:latitude":-6.164179,
+    "lbl:longitude":106.824401,
+    "mps:latitude":-6.164179,
+    "mps:longitude":106.824401,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -59,17 +59,19 @@
     "qs:woe_lau":0,
     "qs:woe_local":1047378,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"quattroshapes",
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85672001,
         102191569,
         85632203,
         102021905,
-        102073177
+        102073177,
+        85672001
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -80,9 +82,10 @@
     },
     "wof:country":"ID",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
-    "wof:geomhash":"74a1a3644f795792d92fe7c2f7d0839f",
+    "wof:geomhash":"e06b9524c5505013f5563ee2cf4d812c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -94,10 +97,14 @@
         }
     ],
     "wof:id":85783741,
-    "wof:lang":[
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
         "eng"
     ],
-    "wof:lastmodified":1582353985,
+    "wof:lastmodified":1614744840,
     "wof:name":"Kebon Kelapa",
     "wof:parent_id":102021905,
     "wof:placetype":"neighbourhood",
@@ -107,10 +114,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.82830810500008,
-    -6.16240091957698,
-    106.83105468725034,
-    -6.1583048300822
+    106.818997,
+    -6.168275,
+    106.830276,
+    -6.159496
 ],
-  "geometry": {"coordinates":[[[106.82830810500008,-6.16240091957698],[106.82830810500008,-6.15967020121231],[106.82966559204453,-6.1583048300822],[106.83105468725034,-6.1583048300822],[106.83105468714075,-6.15967020325992],[106.83105468715638,-6.16240091933291],[106.82830810500008,-6.16240091957698]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[106.828412,-6.162727],[106.829232,-6.16373],[106.830215,-6.165265],[106.830276,-6.168275],[106.82702,-6.167661],[106.823887,-6.167231],[106.820657,-6.167627],[106.818997,-6.159727],[106.82065799999999,-6.159496],[106.828412,-6.162727]]],"type":"Polygon"}
 }

@@ -25,29 +25,43 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Galumpit"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671983,
+        102072855
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6603542
     },
     "wof:country":"ID",
-    "wof:geomhash":"245bf931cb142f20c8862aa47e7b18c9",
+    "wof:geomhash":"0ba3af047bdec08cb9af63447416ebeb",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209364499
+            "county_id":102072855,
+            "locality_id":1209364499,
+            "region_id":85671983
         }
     ],
     "wof:id":1209364499,
-    "wof:lastmodified":1537630005,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614716732,
     "wof:name":"Galumpit",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072855,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
@@ -55,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.64806000000002,
+    106.64806,
     -6.91417,
-    106.64806000000002,
+    106.64806,
     -6.91417
 ],
-  "geometry": {"coordinates":[106.64806000000002,-6.91417],"type":"Point"}
+  "geometry": {"coordinates":[106.64806,-6.91417],"type":"Point"}
 }

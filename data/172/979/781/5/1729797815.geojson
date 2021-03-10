@@ -1,0 +1,72 @@
+{
+  "id": 1729797815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00005,
+    "geom:area_square_m":612408.098692,
+    "geom:bbox":"112.712168,-7.274819,112.728841,-7.26671",
+    "geom:latitude":-7.26986,
+    "geom:longitude":112.721905,
+    "iso:country":"ID",
+    "lbl:latitude":-7.2712,
+    "lbl:longitude":112.725505,
+    "mps:latitude":-7.2712,
+    "mps:longitude":112.725505,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Kupang Krajan"
+    ],
+    "name:ind_x_preferred":[
+        "Kupang Krajan"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        102018911,
+        102073397,
+        85672027
+    ],
+    "wof:breaches":[],
+    "wof:country":"ID",
+    "wof:created":1613065501,
+    "wof:geomhash":"15f8563444d1625f04f60c844bc1a8b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102073397,
+            "locality_id":102018911,
+            "neighbourhood_id":1729797815,
+            "region_id":85672027
+        }
+    ],
+    "wof:id":1729797815,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614723200,
+    "wof:name":"Kupang Krajan",
+    "wof:parent_id":102018911,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    112.712168,
+    -7.274819,
+    112.728841,
+    -7.26671
+],
+  "geometry": {"coordinates":[[[112.72693599999999,-7.273836],[112.725708,-7.274819],[112.72177600000001,-7.270396],[112.71821300000001,-7.270273],[112.717476,-7.269659],[112.71216800000001,-7.268274],[112.712807,-7.26671],[112.723373,-7.268184],[112.728841,-7.269167],[112.72693599999999,-7.273836]]],"type":"Polygon"}
+}

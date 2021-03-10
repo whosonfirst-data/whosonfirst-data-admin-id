@@ -16,6 +16,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:deu_x_preferred":[
         "Gurah"
     ],
@@ -42,8 +43,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102073487
+        102073487,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,7 +67,14 @@
         }
     ],
     "wof:id":890498989,
-    "wof:lastmodified":1563273939,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614653740,
     "wof:name":"Gurah",
     "wof:parent_id":102073487,
     "wof:placetype":"locality",

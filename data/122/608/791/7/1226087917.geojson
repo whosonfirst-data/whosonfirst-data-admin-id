@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Wanajaya"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073295
+        102073295,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6595521
     },
     "wof:country":"ID",
-    "wof:geomhash":"562087a2261ac6facb817e3151e8db02",
+    "wof:geomhash":"542a2b0c08da0d43165539eb658f5aed",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1226087917,
-    "wof:lastmodified":1537629818,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614645787,
     "wof:name":"Wanajaya",
     "wof:parent_id":102073295,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.69138999999998,
+    107.69139,
     -6.32667,
-    107.69138999999998,
+    107.69139,
     -6.32667
 ],
-  "geometry": {"coordinates":[107.69138999999998,-6.32667],"type":"Point"}
+  "geometry": {"coordinates":[107.69139,-6.32667],"type":"Point"}
 }

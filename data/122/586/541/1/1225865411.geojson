@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bonagung 1",
         "Bonagung Satu",
@@ -34,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072983
+        102072983,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1972959
     },
     "wof:country":"ID",
-    "wof:geomhash":"a58e8fac25396b3961e4bd76d3306406",
+    "wof:geomhash":"a9baf2e5052a21e722d61c4b70053bb5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +54,14 @@
         }
     ],
     "wof:id":1225865411,
-    "wof:lastmodified":1537628102,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614645284,
     "wof:name":"Kebonagung",
     "wof:parent_id":102072983,
     "wof:placetype":"locality",
@@ -63,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.66306000000002,
+    110.66306,
     -7.29611,
-    110.66306000000002,
+    110.66306,
     -7.29611
 ],
-  "geometry": {"coordinates":[110.66306000000002,-7.29611],"type":"Point"}
+  "geometry": {"coordinates":[110.66306,-7.29611],"type":"Point"}
 }

@@ -25,26 +25,40 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102072929
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6263610
     },
     "wof:country":"ID",
-    "wof:geomhash":"d14621852a621af2be75fa9827410ce8",
+    "wof:geomhash":"7cc12b8b0c168a7b0d6f1bc3e70b9781",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209308389
+            "county_id":102072929,
+            "locality_id":1209308389,
+            "region_id":85671987
         }
     ],
     "wof:id":1209308389,
-    "wof:lastmodified":1536291114,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614717240,
     "wof:name":"Sendangwuni",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072929,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
@@ -52,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.91306000000002,
-    -7.368889999999999,
-    110.91306000000002,
-    -7.368889999999999
+    110.91306,
+    -7.36889,
+    110.91306,
+    -7.36889
 ],
-  "geometry": {"coordinates":[110.91306000000002,-7.36889],"type":"Point"}
+  "geometry": {"coordinates":[110.91306,-7.36889],"type":"Point"}
 }

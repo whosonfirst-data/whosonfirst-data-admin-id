@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ceb_x_preferred":[
         "Tugu"
     ],
@@ -41,15 +42,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072855
+        102072855,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6595975
     },
     "wof:country":"ID",
-    "wof:geomhash":"c01765235a33d601a5f1bdca004d8d66",
+    "wof:geomhash":"0ee06236a3bd9ef5cce7b38f92c82e3a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -60,7 +61,14 @@
         }
     ],
     "wof:id":1326579457,
-    "wof:lastmodified":1564168663,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614649881,
     "wof:name":"Tugu",
     "wof:parent_id":102072855,
     "wof:placetype":"locality",
@@ -70,10 +78,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.97556000000002,
+    106.97556,
     -6.91722,
-    106.97556000000002,
+    106.97556,
     -6.91722
 ],
-  "geometry": {"coordinates":[106.97556000000002,-6.91722],"type":"Point"}
+  "geometry": {"coordinates":[106.97556,-6.91722],"type":"Point"}
 }

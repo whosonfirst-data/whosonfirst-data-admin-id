@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Jambu Kidul"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072739
+        102072739,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6581009
     },
     "wof:country":"ID",
-    "wof:geomhash":"05d36f4f2c13b5f93eaaa495c4a73c30",
+    "wof:geomhash":"0e0d18d96202834329f4043879ca12fc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1326976329,
-    "wof:lastmodified":1537629459,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614650089,
     "wof:name":"Jambu Kidul",
     "wof:parent_id":102072739,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.99611000000002,
+    107.99611,
     -6.78194,
-    107.99611000000002,
+    107.99611,
     -6.78194
 ],
-  "geometry": {"coordinates":[107.99611000000002,-6.78194],"type":"Point"}
+  "geometry": {"coordinates":[107.99611,-6.78194],"type":"Point"}
 }

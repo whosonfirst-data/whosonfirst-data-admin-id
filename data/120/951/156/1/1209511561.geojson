@@ -25,12 +25,16 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Tumpuk"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672027,
+        102073485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +44,24 @@
     "wof:geomhash":"d767e2573fe3c54000608e4c7f3bfbfc",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209511561
+            "county_id":102073485,
+            "locality_id":1209511561,
+            "region_id":85672027
         }
     ],
     "wof:id":1209511561,
-    "wof:lastmodified":1537635605,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614721546,
     "wof:name":"Tumpuk",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073485,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

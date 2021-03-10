@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-03-01",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -25,7 +26,7 @@
     "gn:timezone":"Asia/Jakarta",
     "iso:country":"ID",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "name:und_x_variant":[
         "Babakan 2",
         "Babakan Dua"
@@ -34,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671995,
-        102072687
+        102072687,
+        85671995
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1987308
     },
     "wof:country":"ID",
-    "wof:geomhash":"c892402e4c9e7fb5b47fb7c60da25f56",
+    "wof:geomhash":"c554e686a0a8de5d02e6c368deef79b8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +54,14 @@
         }
     ],
     "wof:id":1276169957,
-    "wof:lastmodified":1537628245,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614708045,
     "wof:name":"Babakan Dua",
     "wof:parent_id":102072687,
     "wof:placetype":"locality",
@@ -63,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.69138999999998,
+    106.69139,
     -6.35417,
-    106.69138999999998,
+    106.69139,
     -6.35417
 ],
-  "geometry": {"coordinates":[106.69138999999998,-6.35417],"type":"Point"}
+  "geometry": {"coordinates":[106.69139,-6.35417],"type":"Point"}
 }

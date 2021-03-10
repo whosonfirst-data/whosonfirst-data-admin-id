@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Sawabaru"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671995,
-        102073209
+        102073209,
+        85671995
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7787615
     },
     "wof:country":"ID",
-    "wof:geomhash":"dae2e19915a415c25570c2ecc6be7dbe",
+    "wof:geomhash":"e8b1a9de381c913b0527d9d3cfc6ead9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1259732111,
-    "wof:lastmodified":1537634471,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614654463,
     "wof:name":"Sawabaru",
     "wof:parent_id":102073209,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.01966000000002,
+    106.01966,
     -6.77291,
-    106.01966000000002,
+    106.01966,
     -6.77291
 ],
-  "geometry": {"coordinates":[106.01966000000002,-6.77291],"type":"Point"}
+  "geometry": {"coordinates":[106.01966,-6.77291],"type":"Point"}
 }

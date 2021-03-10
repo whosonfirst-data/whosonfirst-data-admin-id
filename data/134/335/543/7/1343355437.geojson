@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ceb_x_preferred":[
         "Bero"
     ],
@@ -50,8 +51,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073169
+        102073169,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -69,7 +70,14 @@
         }
     ],
     "wof:id":1343355437,
-    "wof:lastmodified":1564174108,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614650473,
     "wof:name":"Bero",
     "wof:parent_id":102073169,
     "wof:placetype":"locality",

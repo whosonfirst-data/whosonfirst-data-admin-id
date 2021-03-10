@@ -25,26 +25,40 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102073169
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6199410
     },
     "wof:country":"ID",
-    "wof:geomhash":"93cb2a3d55a06b8b4e9a330b20c10f06",
+    "wof:geomhash":"d51577c33b2d89be4c9e663b4a7b0b13",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209406029
+            "county_id":102073169,
+            "locality_id":1209406029,
+            "region_id":85671987
         }
     ],
     "wof:id":1209406029,
-    "wof:lastmodified":1536287994,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614718929,
     "wof:name":"Sabrangbanyu",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073169,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
@@ -53,9 +67,9 @@
 },
   "bbox": [
     110.18667,
-    -7.378610000000001,
+    -7.37861,
     110.18667,
-    -7.378610000000001
+    -7.37861
 ],
   "geometry": {"coordinates":[110.18667000000001,-7.37861],"type":"Point"}
 }

@@ -1,0 +1,72 @@
+{
+  "id": 1729797909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000039,
+    "geom:area_square_m":483195.446314,
+    "geom:bbox":"112.728104,-7.234643,112.738199,-7.222357",
+    "geom:latitude":-7.227201,
+    "geom:longitude":112.732554,
+    "iso:country":"ID",
+    "lbl:latitude":-7.226932,
+    "lbl:longitude":112.73221,
+    "mps:latitude":-7.226932,
+    "mps:longitude":112.73221,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Perak Timur"
+    ],
+    "name:ind_x_preferred":[
+        "Perak Timur"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        102018911,
+        102073397,
+        85672027
+    ],
+    "wof:breaches":[],
+    "wof:country":"ID",
+    "wof:created":1613065533,
+    "wof:geomhash":"2fc2dd34a47d00ffaedda20626db622d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102073397,
+            "locality_id":102018911,
+            "neighbourhood_id":1729797909,
+            "region_id":85672027
+        }
+    ],
+    "wof:id":1729797909,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614723237,
+    "wof:name":"Perak Timur",
+    "wof:parent_id":102018911,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    112.728104,
+    -7.234643,
+    112.738199,
+    -7.222357
+],
+  "geometry": {"coordinates":[[[112.73819899999999,-7.223987],[112.734247,-7.225429],[112.73105200000001,-7.232616],[112.730684,-7.234643],[112.728104,-7.232186],[112.732035,-7.224507],[112.73197399999999,-7.22248],[112.738178,-7.222357],[112.73819899999999,-7.223987]]],"type":"Polygon"}
+}

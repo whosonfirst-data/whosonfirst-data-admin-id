@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Wates"
     ],
@@ -45,15 +46,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072709
+        102072709,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1972859
     },
     "wof:country":"ID",
-    "wof:geomhash":"19827d77625d1b634cea6f477fa3e4ac",
+    "wof:geomhash":"c42297f9791aee0dfabbb93fd574823b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -64,7 +65,14 @@
         }
     ],
     "wof:id":1226637227,
-    "wof:lastmodified":1564207915,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614645764,
     "wof:name":"Wates",
     "wof:parent_id":102072709,
     "wof:placetype":"locality",
@@ -74,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.53943999999998,
+    110.53944,
     -7.2425,
-    110.53943999999998,
+    110.53944,
     -7.2425
 ],
-  "geometry": {"coordinates":[110.53943999999998,-7.2425],"type":"Point"}
+  "geometry": {"coordinates":[110.53944,-7.2425],"type":"Point"}
 }

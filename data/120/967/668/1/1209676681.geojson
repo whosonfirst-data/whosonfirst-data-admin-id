@@ -25,29 +25,43 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Akelamo"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672085,
+        102073277
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1651706
     },
     "wof:country":"ID",
-    "wof:geomhash":"2b4e31bb1ba8dd3f2a78429870f8f0e8",
+    "wof:geomhash":"5b3883fbe40865d88fa03a23be5a428b",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209676681
+            "county_id":102073277,
+            "locality_id":1209676681,
+            "region_id":85672085
         }
     ],
     "wof:id":1209676681,
-    "wof:lastmodified":1537627383,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614719973,
     "wof:name":"Akelamo",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073277,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
@@ -55,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    128.65618999999998,
+    128.65619,
     1.44985,
-    128.65618999999998,
+    128.65619,
     1.44985
 ],
-  "geometry": {"coordinates":[128.65618999999998,1.44985],"type":"Point"}
+  "geometry": {"coordinates":[128.65619000000001,1.44985],"type":"Point"}
 }

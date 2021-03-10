@@ -26,6 +26,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:und_x_variant":[
         "Wadana 2",
         "Wadana Dua"
@@ -34,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073449
+        102073449,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1964936
     },
     "wof:country":"ID",
-    "wof:geomhash":"615a0e8e6ddb0b679cb16dacde39e0c9",
+    "wof:geomhash":"834c9587bb583360a361ff427c543b98",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +54,14 @@
         }
     ],
     "wof:id":1226488445,
-    "wof:lastmodified":1537627786,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614654832,
     "wof:name":"Wadana Dua",
     "wof:parent_id":102073449,
     "wof:placetype":"locality",
@@ -63,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.67638999999998,
+    107.67639,
     -6.95417,
-    107.67638999999998,
+    107.67639,
     -6.95417
 ],
-  "geometry": {"coordinates":[107.67638999999998,-6.95417],"type":"Point"}
+  "geometry": {"coordinates":[107.67639,-6.95417],"type":"Point"}
 }

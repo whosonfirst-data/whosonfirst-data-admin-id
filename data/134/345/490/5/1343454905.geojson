@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kubang"
     ],
@@ -47,15 +48,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072759
+        102072759,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6561940
     },
     "wof:country":"ID",
-    "wof:geomhash":"f49979e394dc68ebbbdbaa720682de75",
+    "wof:geomhash":"8c6d7fd7774d9f437b3e8ed709b94a78",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -66,7 +67,14 @@
         }
     ],
     "wof:id":1343454905,
-    "wof:lastmodified":1564175165,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614635013,
     "wof:name":"Kubang",
     "wof:parent_id":102072759,
     "wof:placetype":"locality",
@@ -76,10 +84,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.27306000000002,
+    109.27306,
     -7.14667,
-    109.27306000000002,
+    109.27306,
     -7.14667
 ],
-  "geometry": {"coordinates":[109.27306000000002,-7.14667],"type":"Point"}
+  "geometry": {"coordinates":[109.27306,-7.14667],"type":"Point"}
 }

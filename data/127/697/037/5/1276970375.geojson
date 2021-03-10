@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Pereng"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073153
+        102073153,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6370860
     },
     "wof:country":"ID",
-    "wof:geomhash":"20d304b32cd8e874694a0323f99c05db",
+    "wof:geomhash":"82e7ada488933b844c3f1d27af83a1b8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1276970375,
-    "wof:lastmodified":1537628323,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614651790,
     "wof:name":"Pereng",
     "wof:parent_id":102073153,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.47693999999998,
+    109.47694,
     -7.46639,
-    109.47693999999998,
+    109.47694,
     -7.46639
 ],
-  "geometry": {"coordinates":[109.47693999999998,-7.46639],"type":"Point"}
+  "geometry": {"coordinates":[109.47694,-7.46639],"type":"Point"}
 }

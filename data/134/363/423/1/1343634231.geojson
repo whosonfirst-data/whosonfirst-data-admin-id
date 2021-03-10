@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Umbulan Burung Tamiang"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672009,
-        102072989
+        102072989,
+        85672009
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8363177
     },
     "wof:country":"ID",
-    "wof:geomhash":"9ebbd1ed9a22d34e79d56ae29a5ca90f",
+    "wof:geomhash":"994bf3d0a015c57e5417d2dc93c25932",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1343634231,
-    "wof:lastmodified":1537635702,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614634016,
     "wof:name":"Umbulan Burung Tamiang",
     "wof:parent_id":102072989,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    104.95286000000002,
+    104.95286,
     -4.68658,
-    104.95286000000002,
+    104.95286,
     -4.68658
 ],
-  "geometry": {"coordinates":[104.95286000000002,-4.68658],"type":"Point"}
+  "geometry": {"coordinates":[104.95286,-4.68658],"type":"Point"}
 }

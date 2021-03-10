@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Cibojong"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073529
+        102073529,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6588674
     },
     "wof:country":"ID",
-    "wof:geomhash":"c90fb9d1255a51bd09a833c931992f6a",
+    "wof:geomhash":"a28a063b80ed441f5cd2bde764e0234d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1326679717,
-    "wof:lastmodified":1537629620,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614632704,
     "wof:name":"Cibojong",
     "wof:parent_id":102073529,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.19861000000002,
+    107.19861,
     -6.90306,
-    107.19861000000002,
+    107.19861,
     -6.90306
 ],
-  "geometry": {"coordinates":[107.19861000000002,-6.90306],"type":"Point"}
+  "geometry": {"coordinates":[107.19861,-6.90306],"type":"Point"}
 }

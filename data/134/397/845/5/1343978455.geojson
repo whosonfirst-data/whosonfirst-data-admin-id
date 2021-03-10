@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Cetan"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073233
+        102073233,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2007798
     },
     "wof:country":"ID",
-    "wof:geomhash":"b5da986c6f8e3080b39256b38017b3e2",
+    "wof:geomhash":"6a9df956bbaa6222b2386c7e289e9531",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1343978455,
-    "wof:lastmodified":1564172282,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614650269,
     "wof:name":"Cetan",
     "wof:parent_id":102073233,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.70638999999998,
+    110.70639,
     -7.62556,
-    110.70638999999998,
+    110.70639,
     -7.62556
 ],
-  "geometry": {"coordinates":[110.70638999999998,-7.62556],"type":"Point"}
+  "geometry": {"coordinates":[110.70639,-7.62556],"type":"Point"}
 }

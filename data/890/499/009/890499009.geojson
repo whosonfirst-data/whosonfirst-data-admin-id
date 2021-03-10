@@ -16,6 +16,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ace_x_preferred":[
         "Dayah"
     ],
@@ -54,8 +55,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102073267
+        102073267,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -78,7 +79,14 @@
         }
     ],
     "wof:id":890499009,
-    "wof:lastmodified":1563273794,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614653722,
     "wof:name":"Pesantren",
     "wof:parent_id":102073267,
     "wof:placetype":"locality",

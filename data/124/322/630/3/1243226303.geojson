@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Kokang"
     ],
@@ -56,8 +57,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672037,
-        102072817
+        102072817,
+        85672037
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -75,7 +76,14 @@
         }
     ],
     "wof:id":1243226303,
-    "wof:lastmodified":1564199447,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614642899,
     "wof:name":"Kokang",
     "wof:parent_id":102072817,
     "wof:placetype":"locality",

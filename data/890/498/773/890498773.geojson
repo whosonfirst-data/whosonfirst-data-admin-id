@@ -16,6 +16,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Sinduharjo"
     ],
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072733
+        102072733,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,7 +53,14 @@
         }
     ],
     "wof:id":890498773,
-    "wof:lastmodified":1505343834,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614642154,
     "wof:name":"Sinduharjo",
     "wof:parent_id":102072733,
     "wof:placetype":"locality",

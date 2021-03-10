@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Kiambo"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672067,
-        1108796867
+        1108796867,
+        85672067
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8531489
     },
     "wof:country":"ID",
-    "wof:geomhash":"544ffb315161fe489fb1b0b703bd8dd3",
+    "wof:geomhash":"47b7c35fae969b2a4edb1f002ce22387",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1344186415,
-    "wof:lastmodified":1537636354,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614634894,
     "wof:name":"Kiambo",
     "wof:parent_id":1108796867,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    133.05438999999998,
+    133.05439,
     -2.12916,
-    133.05438999999998,
+    133.05439,
     -2.12916
 ],
-  "geometry": {"coordinates":[133.05438999999998,-2.12916],"type":"Point"}
+  "geometry": {"coordinates":[133.05439000000001,-2.12916],"type":"Point"}
 }

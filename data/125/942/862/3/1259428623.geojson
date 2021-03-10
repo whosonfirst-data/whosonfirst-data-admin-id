@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Parungbesi"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073295
+        102073295,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6568429
     },
     "wof:country":"ID",
-    "wof:geomhash":"02f0da54f34f81a87262123fd74ffcb7",
+    "wof:geomhash":"212914d602dc2461ac1462874c12f87f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1259428623,
-    "wof:lastmodified":1537629350,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614644534,
     "wof:name":"Parungbesi",
     "wof:parent_id":102073295,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.75388999999998,
+    107.75389,
     -6.43028,
-    107.75388999999998,
+    107.75389,
     -6.43028
 ],
-  "geometry": {"coordinates":[107.75388999999998,-6.43028],"type":"Point"}
+  "geometry": {"coordinates":[107.75389,-6.43028],"type":"Point"}
 }

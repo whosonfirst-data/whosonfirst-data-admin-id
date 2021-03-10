@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Karyabakti"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072739
+        102072739,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6582955
     },
     "wof:country":"ID",
-    "wof:geomhash":"f9605eeea7c8857dcd0893a17a8b0b1d",
+    "wof:geomhash":"9b929b7a356b7cd8db3c968a5ef48d9f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1260242045,
-    "wof:lastmodified":1537629514,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614639756,
     "wof:name":"Karyabakti",
     "wof:parent_id":102072739,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.11388999999998,
+    108.11389,
     -6.985,
-    108.11388999999998,
+    108.11389,
     -6.985
 ],
-  "geometry": {"coordinates":[108.11388999999998,-6.985],"type":"Point"}
+  "geometry": {"coordinates":[108.11389,-6.985],"type":"Point"}
 }

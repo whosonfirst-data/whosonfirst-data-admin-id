@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Cibungur"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072855
+        102072855,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6603639
     },
     "wof:country":"ID",
-    "wof:geomhash":"40d90b83e98b381a5bf7e55819dd0c21",
+    "wof:geomhash":"84f93ef00e2f42b1e41ed5b6103326c9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1326476633,
-    "wof:lastmodified":1537630008,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614650031,
     "wof:name":"Cibungur",
     "wof:parent_id":102072855,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.69693999999998,
+    106.69694,
     -6.99389,
-    106.69693999999998,
+    106.69694,
     -6.99389
 ],
-  "geometry": {"coordinates":[106.69693999999998,-6.99389],"type":"Point"}
+  "geometry": {"coordinates":[106.69694,-6.99389],"type":"Point"}
 }

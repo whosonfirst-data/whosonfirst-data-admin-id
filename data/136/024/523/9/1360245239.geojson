@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Kubangjaran"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073295
+        102073295,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6568899
     },
     "wof:country":"ID",
-    "wof:geomhash":"e39a8bf8c506f548d1c8cfa23cc7637a",
+    "wof:geomhash":"4418437e33f8f231c23980f152804cfe",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1360245239,
-    "wof:lastmodified":1537629365,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614641236,
     "wof:name":"Kubangjaran",
     "wof:parent_id":102073295,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.91306000000002,
+    107.91306,
     -6.29778,
-    107.91306000000002,
+    107.91306,
     -6.29778
 ],
-  "geometry": {"coordinates":[107.91306000000002,-6.29778],"type":"Point"}
+  "geometry": {"coordinates":[107.91306,-6.29778],"type":"Point"}
 }

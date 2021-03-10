@@ -25,19 +25,20 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073313
+        102073313,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2003000
     },
     "wof:country":"ID",
-    "wof:geomhash":"287ad521454c5310bf70a5c3ecfa74af",
+    "wof:geomhash":"e503be938d10989bbffdce8f9ab32de8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +49,14 @@
         }
     ],
     "wof:id":1260068933,
-    "wof:lastmodified":1537008295,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614653029,
     "wof:name":"Sawahan",
     "wof:parent_id":102073313,
     "wof:placetype":"locality",
@@ -58,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.25388999999998,
+    110.25389,
     -7.94778,
-    110.25388999999998,
+    110.25389,
     -7.94778
 ],
-  "geometry": {"coordinates":[110.25388999999998,-7.94778],"type":"Point"}
+  "geometry": {"coordinates":[110.25389,-7.94778],"type":"Point"}
 }

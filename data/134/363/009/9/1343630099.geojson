@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0423\u0435\u0442\u0435"
     ],
@@ -77,8 +78,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672105,
-        1108796937
+        1108796937,
+        85672105
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -96,7 +97,14 @@
         }
     ],
     "wof:id":1343630099,
-    "wof:lastmodified":1564172321,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614634016,
     "wof:name":"Wete",
     "wof:parent_id":1108796937,
     "wof:placetype":"locality",

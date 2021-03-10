@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:afr_x_preferred":[
         "Palanga"
     ],
@@ -182,8 +183,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672041,
-        102072617
+        102072617,
+        85672041
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -201,7 +202,14 @@
         }
     ],
     "wof:id":1309857109,
-    "wof:lastmodified":1564196091,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614653635,
     "wof:name":"Palanga",
     "wof:parent_id":102072617,
     "wof:placetype":"locality",

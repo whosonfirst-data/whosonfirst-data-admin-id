@@ -25,19 +25,20 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        85672115,
-        102072997
+        102072997,
+        85672115
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1633170
     },
     "wof:country":"ID",
-    "wof:geomhash":"5383ff5cde3e503dc210b48dbecc45a1",
+    "wof:geomhash":"ec36f17e04ea895e4e6230f8fe8117f7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +49,14 @@
         }
     ],
     "wof:id":1259832513,
-    "wof:lastmodified":1536851639,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614644028,
     "wof:name":"Pakriki",
     "wof:parent_id":102072997,
     "wof:placetype":"locality",
@@ -58,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    134.91666999999998,
+    134.91667,
     -1.13333,
-    134.91666999999998,
+    134.91667,
     -1.13333
 ],
-  "geometry": {"coordinates":[134.91666999999998,-1.13333],"type":"Point"}
+  "geometry": {"coordinates":[134.91667000000001,-1.13333],"type":"Point"}
 }

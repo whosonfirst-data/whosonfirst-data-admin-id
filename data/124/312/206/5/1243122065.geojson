@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Tirtajaya Satu"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073515
+        102073515,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6398534
     },
     "wof:country":"ID",
-    "wof:geomhash":"5f4f3d86664d34b432c2a1dd691dce03",
+    "wof:geomhash":"6285dc53a2f6a3013de44bf21c6bd689",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1243122065,
-    "wof:lastmodified":1537628797,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614642811,
     "wof:name":"Tirtajaya Satu",
     "wof:parent_id":102073515,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.31638999999998,
+    108.31639,
     -6.85694,
-    108.31638999999998,
+    108.31639,
     -6.85694
 ],
-  "geometry": {"coordinates":[108.31638999999998,-6.85694],"type":"Point"}
+  "geometry": {"coordinates":[108.31639,-6.85694],"type":"Point"}
 }

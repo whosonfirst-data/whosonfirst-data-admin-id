@@ -1,0 +1,72 @@
+{
+  "id": 1729801831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000054,
+    "geom:area_square_m":663584.77021,
+    "geom:bbox":"106.862279,-6.214778,106.87426,-6.208297",
+    "geom:latitude":-6.211513,
+    "geom:longitude":106.869108,
+    "iso:country":"ID",
+    "lbl:latitude":-6.211506,
+    "lbl:longitude":106.869108,
+    "mps:latitude":-6.211506,
+    "mps:longitude":106.869108,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Pisangan Baru"
+    ],
+    "name:ind_x_preferred":[
+        "Pisangan Baru"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        102020431,
+        102073493,
+        85672001
+    ],
+    "wof:breaches":[],
+    "wof:country":"ID",
+    "wof:created":1613158532,
+    "wof:geomhash":"e1d4d6ca966468edc79bfdfc1e73d9ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102073493,
+            "locality_id":102020431,
+            "neighbourhood_id":1729801831,
+            "region_id":85672001
+        }
+    ],
+    "wof:id":1729801831,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614723309,
+    "wof:name":"Pisangan Baru",
+    "wof:parent_id":102020431,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.862279,
+    -6.214778,
+    106.87426,
+    -6.208297
+],
+  "geometry": {"coordinates":[[[106.87392199999999,-6.210017],[106.87426000000001,-6.214778],[106.867626,-6.214532],[106.86357099999999,-6.211092],[106.862404,-6.209772],[106.862279,-6.209263],[106.866336,-6.208881],[106.86854700000001,-6.208297],[106.871127,-6.208881],[106.87392199999999,-6.210017]]],"type":"Polygon"}
+}

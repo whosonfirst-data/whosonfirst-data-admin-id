@@ -25,26 +25,40 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102072857
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6259341
     },
     "wof:country":"ID",
-    "wof:geomhash":"778965f2c54b2bcba87665eab53f38d5",
+    "wof:geomhash":"931a30ccde5ea7749ac7d02e0539fd81",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209305627
+            "county_id":102072857,
+            "locality_id":1209305627,
+            "region_id":85671987
         }
     ],
     "wof:id":1209305627,
-    "wof:lastmodified":1536291206,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614716846,
     "wof:name":"Gempol",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072857,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
@@ -53,9 +67,9 @@
 },
   "bbox": [
     110.29861,
-    -7.604719999999999,
+    -7.60472,
     110.29861,
-    -7.604719999999999
+    -7.60472
 ],
   "geometry": {"coordinates":[110.29861,-7.60472],"type":"Point"}
 }

@@ -25,19 +25,20 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073189
+        102073189,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1621418
     },
     "wof:country":"ID",
-    "wof:geomhash":"62193681f14868c70fcbb9f409720671",
+    "wof:geomhash":"7443d991df217b974b2b53ca985e7857",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +49,14 @@
         }
     ],
     "wof:id":1326719185,
-    "wof:lastmodified":1536714904,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614633226,
     "wof:name":"Wonolagi",
     "wof:parent_id":102073189,
     "wof:placetype":"locality",
@@ -58,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.49611000000002,
+    110.49611,
     -7.88889,
-    110.49611000000002,
+    110.49611,
     -7.88889
 ],
-  "geometry": {"coordinates":[110.49611000000002,-7.88889],"type":"Point"}
+  "geometry": {"coordinates":[110.49611,-7.88889],"type":"Point"}
 }

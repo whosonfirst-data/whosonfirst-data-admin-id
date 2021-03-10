@@ -25,26 +25,40 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671995,
+        102073479
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1960368
     },
     "wof:country":"ID",
-    "wof:geomhash":"8375b23bc4246ef82a6f45cfe9137f7d",
+    "wof:geomhash":"094b2584bb781600f8c5f1dde1497065",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209160407
+            "county_id":102073479,
+            "locality_id":1209160407,
+            "region_id":85671995
         }
     ],
     "wof:id":1209160407,
-    "wof:lastmodified":1536295918,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614721442,
     "wof:name":"Lembursawah",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073479,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
@@ -53,9 +67,9 @@
 },
   "bbox": [
     106.32028,
-    -6.2436099999999985,
+    -6.24361,
     106.32028,
-    -6.2436099999999985
+    -6.24361
 ],
   "geometry": {"coordinates":[106.32028,-6.24361],"type":"Point"}
 }

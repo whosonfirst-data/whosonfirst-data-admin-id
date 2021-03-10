@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Adoki"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672115,
-        1108796871
+        1108796871,
+        85672115
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7649355
     },
     "wof:country":"ID",
-    "wof:geomhash":"5e90b05fb1fad2f89ae84b92ad9c5a58",
+    "wof:geomhash":"b0ee8862be7964be594789f79931651a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1243594211,
-    "wof:lastmodified":1537634177,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614642941,
     "wof:name":"Adoki",
     "wof:parent_id":1108796871,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    135.98758999999998,
+    135.98759,
     -1.14323,
-    135.98758999999998,
+    135.98759,
     -1.14323
 ],
-  "geometry": {"coordinates":[135.98758999999998,-1.14323],"type":"Point"}
+  "geometry": {"coordinates":[135.98759000000001,-1.14323],"type":"Point"}
 }

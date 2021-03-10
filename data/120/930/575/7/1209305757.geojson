@@ -25,26 +25,40 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102072929
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6266133
     },
     "wof:country":"ID",
-    "wof:geomhash":"63d67c125a1d352a4d4b65c70e55439f",
+    "wof:geomhash":"40e930bf2b11528fa82e6a6dab7aab7c",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209305757
+            "county_id":102072929,
+            "locality_id":1209305757,
+            "region_id":85671987
         }
     ],
     "wof:id":1209305757,
-    "wof:lastmodified":1536291203,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614717238,
     "wof:name":"Sembungan",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072929,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
@@ -53,9 +67,9 @@
 },
   "bbox": [
     110.97,
-    -7.411389999999999,
+    -7.41139,
     110.97,
-    -7.411389999999999
+    -7.41139
 ],
   "geometry": {"coordinates":[110.97,-7.41139],"type":"Point"}
 }

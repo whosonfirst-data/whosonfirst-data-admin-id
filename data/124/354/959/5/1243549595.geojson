@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Ngamblu"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102073013
+        102073013,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6405383
     },
     "wof:country":"ID",
-    "wof:geomhash":"9d36ab161cd3a0cd726cad93a59c7174",
+    "wof:geomhash":"d726a7ea56f0fd05980fe695283dd932",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1243549595,
-    "wof:lastmodified":1537628925,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614642275,
     "wof:name":"Ngamblu",
     "wof:parent_id":102073013,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.24611000000002,
+    111.24611,
     -8.0925,
-    111.24611000000002,
+    111.24611,
     -8.0925
 ],
-  "geometry": {"coordinates":[111.24611000000002,-8.0925],"type":"Point"}
+  "geometry": {"coordinates":[111.24611,-8.0925],"type":"Point"}
 }

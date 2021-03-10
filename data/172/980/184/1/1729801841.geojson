@@ -1,0 +1,72 @@
+{
+  "id": 1729801841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000062,
+    "geom:area_square_m":765934.366929,
+    "geom:bbox":"106.842101,-6.190206,106.851466,-6.175528",
+    "geom:latitude":-6.183537,
+    "geom:longitude":106.846203,
+    "iso:country":"ID",
+    "lbl:latitude":-6.18401,
+    "lbl:longitude":106.846132,
+    "mps:latitude":-6.18401,
+    "mps:longitude":106.846132,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Kramat"
+    ],
+    "name:ind_x_preferred":[
+        "Kramat"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        102021905,
+        102073177,
+        85672001
+    ],
+    "wof:breaches":[],
+    "wof:country":"ID",
+    "wof:created":1613158537,
+    "wof:geomhash":"9fde04d6102e9d15efc13d16f73aba46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102073177,
+            "locality_id":102021905,
+            "neighbourhood_id":1729801841,
+            "region_id":85672001
+        }
+    ],
+    "wof:id":1729801841,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614723313,
+    "wof:name":"Kramat",
+    "wof:parent_id":102021905,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.842101,
+    -6.190206,
+    106.851466,
+    -6.175528
+],
+  "geometry": {"coordinates":[[[106.851466,-6.187138],[106.85107000000001,-6.187749],[106.847016,-6.190206],[106.84382100000001,-6.185107],[106.84240800000001,-6.181422],[106.842101,-6.178596],[106.84513800000001,-6.175528],[106.846244,-6.179644],[106.851466,-6.187138]]],"type":"Polygon"}
+}

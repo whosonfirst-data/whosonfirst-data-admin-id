@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Sambiunggul"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072929
+        102072929,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6411775
     },
     "wof:country":"ID",
-    "wof:geomhash":"ae90ac83b637c2ae450671a0096b0ae4",
+    "wof:geomhash":"3f2da395a27b4ec6ab4e7d1c5ef1be6f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1343552281,
-    "wof:lastmodified":1537629121,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614633975,
     "wof:name":"Sambiunggul",
     "wof:parent_id":102072929,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.11556000000002,
+    111.11556,
     -7.35111,
-    111.11556000000002,
+    111.11556,
     -7.35111
 ],
-  "geometry": {"coordinates":[111.11556000000002,-7.35111],"type":"Point"}
+  "geometry": {"coordinates":[111.11556,-7.35111],"type":"Point"}
 }

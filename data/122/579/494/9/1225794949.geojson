@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Pulobata"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072937
+        102072937,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6606650
     },
     "wof:country":"ID",
-    "wof:geomhash":"12efcf3f22acfb81b5b53ac03358cfd2",
+    "wof:geomhash":"328cc54dd7c0eec81811800c026ea1db",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1225794949,
-    "wof:lastmodified":1537630117,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614646073,
     "wof:name":"Pulobata",
     "wof:parent_id":102072937,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.48111000000002,
+    107.48111,
     -6.25139,
-    107.48111000000002,
+    107.48111,
     -6.25139
 ],
-  "geometry": {"coordinates":[107.48111000000002,-6.25139],"type":"Point"}
+  "geometry": {"coordinates":[107.48111,-6.25139],"type":"Point"}
 }

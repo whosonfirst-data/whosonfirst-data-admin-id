@@ -25,12 +25,16 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Sarimulyo"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102072587
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +44,24 @@
     "wof:geomhash":"166d712d2f95c15da9add129db3ad4bb",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209536529
+            "county_id":102072587,
+            "locality_id":1209536529,
+            "region_id":85671987
         }
     ],
     "wof:id":1209536529,
-    "wof:lastmodified":1537629313,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614714644,
     "wof:name":"Sarimulyo",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072587,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

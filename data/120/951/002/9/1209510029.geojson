@@ -25,26 +25,40 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672093,
+        102073189
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2004405
     },
     "wof:country":"ID",
-    "wof:geomhash":"ab5c9676d9326d37651b427501fa0e6a",
+    "wof:geomhash":"390d9c1f5cb7491688d59b546789df01",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209510029
+            "county_id":102073189,
+            "locality_id":1209510029,
+            "region_id":85672093
         }
     ],
     "wof:id":1209510029,
-    "wof:lastmodified":1536284911,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614719077,
     "wof:name":"Pilangrejo",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073189,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
@@ -53,9 +67,9 @@
 },
   "bbox": [
     110.64472,
-    -7.8505600000000015,
+    -7.85056,
     110.64472,
-    -7.8505600000000015
+    -7.85056
 ],
   "geometry": {"coordinates":[110.64472000000001,-7.85056],"type":"Point"}
 }

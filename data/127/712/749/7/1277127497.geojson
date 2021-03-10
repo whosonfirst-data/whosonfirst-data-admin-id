@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Wa Samparo",
         "Wanibe"
@@ -34,15 +35,14 @@
         102191569,
         85632203,
         85672085,
-        1108796815,
-        85672097
+        1108796815
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1621911
     },
     "wof:country":"ID",
-    "wof:geomhash":"5e319b729ac08ab6165c2a34fcb66596",
+    "wof:geomhash":"e998553101717080b06093ef7100857a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -50,17 +50,17 @@
             "county_id":1108796815,
             "locality_id":1277127497,
             "region_id":85672085
-        },
-        {
-            "continent_id":102191569,
-            "country_id":85632203,
-            "county_id":1108796815,
-            "locality_id":1277127497,
-            "region_id":85672097
         }
     ],
     "wof:id":1277127497,
-    "wof:lastmodified":1537626410,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614722522,
     "wof:name":"Wasamparo",
     "wof:parent_id":1108796815,
     "wof:placetype":"locality",
@@ -70,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    126.61303999999998,
+    126.61304,
     -3.0721,
-    126.61303999999998,
+    126.61304,
     -3.0721
 ],
-  "geometry": {"coordinates":[126.61303999999998,-3.0721],"type":"Point"}
+  "geometry": {"coordinates":[126.61304,-3.0721],"type":"Point"}
 }

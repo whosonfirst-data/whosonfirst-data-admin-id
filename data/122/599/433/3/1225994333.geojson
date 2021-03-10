@@ -25,19 +25,20 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072949
+        102072949,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1962484
     },
     "wof:country":"ID",
-    "wof:geomhash":"063da2846c6b5cbaaf95f69c3936cd9b",
+    "wof:geomhash":"69d3c50094f763dc5f30be7c70e735b8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +49,14 @@
         }
     ],
     "wof:id":1225994333,
-    "wof:lastmodified":1536799479,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614645373,
     "wof:name":"Tegalilat",
     "wof:parent_id":102072949,
     "wof:placetype":"locality",
@@ -58,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.53806000000002,
+    107.53806,
     -7.01083,
-    107.53806000000002,
+    107.53806,
     -7.01083
 ],
-  "geometry": {"coordinates":[107.53806000000002,-7.01083],"type":"Point"}
+  "geometry": {"coordinates":[107.53806,-7.01083],"type":"Point"}
 }

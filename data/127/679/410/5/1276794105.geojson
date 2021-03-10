@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Nangguru"
     ],
@@ -36,15 +37,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672067,
-        102073445
+        102073445,
+        85672067
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1634393
     },
     "wof:country":"ID",
-    "wof:geomhash":"af5cab5b8d0449ed734bee55095bded7",
+    "wof:geomhash":"b3b88acb6bdfe71417d295f2c8e5dec2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -55,7 +56,14 @@
         }
     ],
     "wof:id":1276794105,
-    "wof:lastmodified":1537626806,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614637649,
     "wof:name":"Nangguru",
     "wof:parent_id":102073445,
     "wof:placetype":"locality",
@@ -65,10 +73,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    133.63299999999998,
+    133.633,
     -3.2096,
-    133.63299999999998,
+    133.633,
     -3.2096
 ],
-  "geometry": {"coordinates":[133.63299999999998,-3.2096],"type":"Point"}
+  "geometry": {"coordinates":[133.63300000000001,-3.2096],"type":"Point"}
 }

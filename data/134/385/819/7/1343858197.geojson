@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-03-01",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -24,7 +25,7 @@
     "gn:timezone":"Asia/Jakarta",
     "iso:country":"ID",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "name:ind_x_preferred":[
         "Sarangbango"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672001,
-        102073125
+        102073125,
+        85672001
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1628629
     },
     "wof:country":"ID",
-    "wof:geomhash":"9f9d2068753113bd1660eeb1f40ad411",
+    "wof:geomhash":"17375848db4dc04865082e43f8f63775",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1343858197,
-    "wof:lastmodified":1537626630,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614708017,
     "wof:name":"Sarangbango",
     "wof:parent_id":102073125,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.95638999999998,
+    106.95639,
     -6.12889,
-    106.95638999999998,
+    106.95639,
     -6.12889
 ],
-  "geometry": {"coordinates":[106.95638999999998,-6.12889],"type":"Point"}
+  "geometry": {"coordinates":[106.95639,-6.12889],"type":"Point"}
 }

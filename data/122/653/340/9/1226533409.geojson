@@ -25,19 +25,20 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073169
+        102073169,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6200187
     },
     "wof:country":"ID",
-    "wof:geomhash":"f061c39efaa167aa7011b66d61e2035e",
+    "wof:geomhash":"e916ed2f652c592231f347b79327ccd9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +49,14 @@
         }
     ],
     "wof:id":1226533409,
-    "wof:lastmodified":1537015166,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614654891,
     "wof:name":"Jubug",
     "wof:parent_id":102073169,
     "wof:placetype":"locality",
@@ -58,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.10611000000002,
+    110.10611,
     -7.2875,
-    110.10611000000002,
+    110.10611,
     -7.2875
 ],
-  "geometry": {"coordinates":[110.10611000000002,-7.2875],"type":"Point"}
+  "geometry": {"coordinates":[110.10611,-7.2875],"type":"Point"}
 }

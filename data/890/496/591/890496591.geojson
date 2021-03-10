@@ -16,6 +16,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Pejaten"
     ],
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072937
+        102072937,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,7 +53,14 @@
         }
     ],
     "wof:id":890496591,
-    "wof:lastmodified":1505343822,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614653744,
     "wof:name":"Pejaten",
     "wof:parent_id":102072937,
     "wof:placetype":"locality",

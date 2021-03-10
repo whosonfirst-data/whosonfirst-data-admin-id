@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Dusun Kliwon"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073569
+        102073569,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6401297
     },
     "wof:country":"ID",
-    "wof:geomhash":"5030d67e11e87e589337894b0b72e3b0",
+    "wof:geomhash":"21aa5345d8ebdffd6098f10af2cf7e5c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1276291969,
-    "wof:lastmodified":1537628837,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614651515,
     "wof:name":"Dusun Kliwon",
     "wof:parent_id":102073569,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.43361000000002,
+    108.43361,
     -6.80528,
-    108.43361000000002,
+    108.43361,
     -6.80528
 ],
-  "geometry": {"coordinates":[108.43361000000002,-6.80528],"type":"Point"}
+  "geometry": {"coordinates":[108.43361,-6.80528],"type":"Point"}
 }

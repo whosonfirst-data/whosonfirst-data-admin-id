@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Sojadiatas"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672097,
-        1108796829
+        1108796829,
+        85672097
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7040618
     },
     "wof:country":"ID",
-    "wof:geomhash":"fddbdef7cf1892fa889afec5d4795025",
+    "wof:geomhash":"01a17a6ee59908591f33c79d0c147f68",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1243123189,
-    "wof:lastmodified":1537632807,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614653958,
     "wof:name":"Sojadiatas",
     "wof:parent_id":1108796829,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    128.21126999999998,
+    128.21127,
     -3.71127,
-    128.21126999999998,
+    128.21127,
     -3.71127
 ],
-  "geometry": {"coordinates":[128.21126999999998,-3.71127],"type":"Point"}
+  "geometry": {"coordinates":[128.21127000000001,-3.71127],"type":"Point"}
 }

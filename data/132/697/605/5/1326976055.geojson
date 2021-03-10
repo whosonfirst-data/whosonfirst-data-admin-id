@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Genteng"
     ],
@@ -36,15 +37,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        1108796793
+        1108796793,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1962338
     },
     "wof:country":"ID",
-    "wof:geomhash":"1a33f58642af16270b17b1cba655f81f",
+    "wof:geomhash":"0c1c6e6d5241209d8315b31d5af454d9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -55,7 +56,14 @@
         }
     ],
     "wof:id":1326976055,
-    "wof:lastmodified":1537627654,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614633438,
     "wof:name":"Genteng",
     "wof:parent_id":1108796793,
     "wof:placetype":"locality",
@@ -65,10 +73,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.31638999999998,
+    107.31639,
     -6.95889,
-    107.31638999999998,
+    107.31639,
     -6.95889
 ],
-  "geometry": {"coordinates":[107.31638999999998,-6.95889],"type":"Point"}
+  "geometry": {"coordinates":[107.31639,-6.95889],"type":"Point"}
 }

@@ -25,12 +25,13 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102073017
+        102073017,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,7 +49,14 @@
         }
     ],
     "wof:id":1327025077,
-    "wof:lastmodified":1536771616,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614633060,
     "wof:name":"Babatan",
     "wof:parent_id":102073017,
     "wof:placetype":"locality",

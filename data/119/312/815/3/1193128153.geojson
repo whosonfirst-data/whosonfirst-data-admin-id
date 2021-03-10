@@ -25,19 +25,20 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073405
+        102073405,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1934099
     },
     "wof:country":"ID",
-    "wof:geomhash":"b2633fbc7c29036922e042d27a843a4f",
+    "wof:geomhash":"3c64633825f05b3202aea7b15236da4b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +49,14 @@
         }
     ],
     "wof:id":1193128153,
-    "wof:lastmodified":1536378700,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614652648,
     "wof:name":"Adidoyo",
     "wof:parent_id":102073405,
     "wof:placetype":"locality",
@@ -58,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.79361000000002,
+    110.79361,
     -7.63972,
-    110.79361000000002,
+    110.79361,
     -7.63972
 ],
-  "geometry": {"coordinates":[110.79361000000002,-7.63972],"type":"Point"}
+  "geometry": {"coordinates":[110.79361,-7.63972],"type":"Point"}
 }

@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ceb_x_preferred":[
         "Setan"
     ],
@@ -36,24 +37,37 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102072857
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6199271
     },
     "wof:country":"ID",
-    "wof:geomhash":"cb7937196aa3cd5092ec55ff2c351a04",
+    "wof:geomhash":"082e92091d2325036a9ec3db368f454c",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209100101
+            "county_id":102072857,
+            "locality_id":1209100101,
+            "region_id":85671987
         }
     ],
     "wof:id":1209100101,
-    "wof:lastmodified":1564187366,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614716844,
     "wof:name":"Setan",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072857,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
@@ -61,10 +75,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.24611000000002,
+    110.24611,
     -7.44056,
-    110.24611000000002,
+    110.24611,
     -7.44056
 ],
-  "geometry": {"coordinates":[110.24611000000002,-7.44056],"type":"Point"}
+  "geometry": {"coordinates":[110.24611,-7.44056],"type":"Point"}
 }

@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Sukawangi"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072739
+        102072739,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6581024
     },
     "wof:country":"ID",
-    "wof:geomhash":"82f54f51b532e4d2b971746fb1ad41af",
+    "wof:geomhash":"0a869769e237aa4fa305c618e1e0017d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1310254603,
-    "wof:lastmodified":1537629459,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614653150,
     "wof:name":"Sukawangi",
     "wof:parent_id":102072739,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.89943999999998,
+    107.89944,
     -6.78083,
-    107.89943999999998,
+    107.89944,
     -6.78083
 ],
-  "geometry": {"coordinates":[107.89943999999998,-6.78083],"type":"Point"}
+  "geometry": {"coordinates":[107.89944,-6.78083],"type":"Point"}
 }

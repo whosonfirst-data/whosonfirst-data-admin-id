@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Sukabakti"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073217
+        102073217,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6604849
     },
     "wof:country":"ID",
-    "wof:geomhash":"8541b111ecd465c0fbcc7ea51f25bd5b",
+    "wof:geomhash":"ed9376676cb6c729f58e921058096515",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1226188453,
-    "wof:lastmodified":1537630051,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614654600,
     "wof:name":"Sukabakti",
     "wof:parent_id":102073217,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.61556000000002,
+    106.61556,
     -6.585,
-    106.61556000000002,
+    106.61556,
     -6.585
 ],
-  "geometry": {"coordinates":[106.61556000000002,-6.585],"type":"Point"}
+  "geometry": {"coordinates":[106.61556,-6.585],"type":"Point"}
 }

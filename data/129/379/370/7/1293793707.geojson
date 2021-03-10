@@ -25,19 +25,20 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        85672115,
-        102072939
+        102072939,
+        85672115
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8605447
     },
     "wof:country":"ID",
-    "wof:geomhash":"b1ea727991c79f852e17556c87cdf49c",
+    "wof:geomhash":"588b8a087c8e8d4dc1ef865d404e4f07",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +49,14 @@
         }
     ],
     "wof:id":1293793707,
-    "wof:lastmodified":1536841563,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614635594,
     "wof:name":"Yawasi",
     "wof:parent_id":102072939,
     "wof:placetype":"locality",
@@ -58,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    138.20341000000002,
+    138.20341,
     -8.33904,
-    138.20341000000002,
+    138.20341,
     -8.33904
 ],
-  "geometry": {"coordinates":[138.20341000000002,-8.33904],"type":"Point"}
+  "geometry": {"coordinates":[138.20340999999999,-8.33904],"type":"Point"}
 }

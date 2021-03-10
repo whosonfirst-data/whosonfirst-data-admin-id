@@ -26,6 +26,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Rantjaselang",
         "Rancaselang"
@@ -34,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072949
+        102072949,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1966014
     },
     "wof:country":"ID",
-    "wof:geomhash":"d4002ce0e75aa523abf38fbc051a03f8",
+    "wof:geomhash":"14193b64015f30d4e5e4b8792e1fded8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +54,14 @@
         }
     ],
     "wof:id":1193224035,
-    "wof:lastmodified":1537627838,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614639529,
     "wof:name":"Rancaselang",
     "wof:parent_id":102072949,
     "wof:placetype":"locality",
@@ -63,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.67806000000002,
+    107.67806,
     -7.07028,
-    107.67806000000002,
+    107.67806,
     -7.07028
 ],
-  "geometry": {"coordinates":[107.67806000000002,-7.07028],"type":"Point"}
+  "geometry": {"coordinates":[107.67806,-7.07028],"type":"Point"}
 }

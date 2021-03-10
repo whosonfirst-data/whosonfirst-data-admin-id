@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Babakanbalong"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073529
+        102073529,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6589995
     },
     "wof:country":"ID",
-    "wof:geomhash":"3ee9d88e2d976092d5b6664a39fe175d",
+    "wof:geomhash":"38f210769e11014f74679926c99108b4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1259829353,
-    "wof:lastmodified":1537629661,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614654372,
     "wof:name":"Babakanbalong",
     "wof:parent_id":102073529,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.08556000000002,
+    107.08556,
     -6.715,
-    107.08556000000002,
+    107.08556,
     -6.715
 ],
-  "geometry": {"coordinates":[107.08556000000002,-6.715],"type":"Point"}
+  "geometry": {"coordinates":[107.08556,-6.715],"type":"Point"}
 }

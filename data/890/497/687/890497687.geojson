@@ -4,18 +4,21 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"106.79111,-6.25583,106.79111,-6.25583",
-    "geom:latitude":-6.25583,
-    "geom:longitude":106.79111,
+    "geom:area":0.000124,
+    "geom:area_square_m":1527314.671769,
+    "geom:bbox":"106.784783,-6.264233,106.797315,-6.24906",
+    "geom:latitude":-6.257789,
+    "geom:longitude":106.791238,
     "gn:country":"ID",
     "gn:fcode":"PPL",
     "gn:pop":0,
     "gp:adm0":23424846,
     "iso:country":"ID",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
+    "name:ind_x_preferred":[
+        "Gandaria-Utara"
+    ],
     "name:unk_x_variant":[
         "Gandaria-noord"
     ],
@@ -30,13 +33,17 @@
     "qs:photos_sr":2,
     "qs:placetype":"Suburb",
     "qs:pop_sr":"0",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "unknown"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
-        85672001,
         102191569,
         85632203,
-        102020241,
-        102072667
+        102020433,
+        102072667,
+        85672001
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,21 +53,31 @@
     },
     "wof:country":"ID",
     "wof:created":1469055141,
-    "wof:geomhash":"0156679a35fcee6796e90f7323293610",
+    "wof:geom_alt":[
+        "unknown"
+    ],
+    "wof:geomhash":"52da801cb4b472c34e5109267a8fdd8d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632203,
             "county_id":102072667,
-            "locality_id":102020241,
+            "locality_id":102020433,
             "neighbourhood_id":890497687,
             "region_id":85672001
         }
     ],
     "wof:id":890497687,
-    "wof:lastmodified":1505343828,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614744870,
     "wof:name":"Gandaria-Utara",
-    "wof:parent_id":102020241,
+    "wof:parent_id":102020433,
     "wof:placetype":"neighbourhood",
     "wof:population":0,
     "wof:repo":"whosonfirst-data-admin-id",
@@ -69,10 +86,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.79111,
-    -6.25583,
-    106.79111,
-    -6.25583
+    106.784783,
+    -6.264233,
+    106.797315,
+    -6.24906
 ],
-  "geometry": {"coordinates":[106.79111,-6.25583],"type":"Point"}
+  "geometry": {"coordinates":[[[106.797315,-6.257537],[106.796701,-6.259257],[106.79645499999999,-6.2611],[106.79700800000001,-6.26325],[106.797253,-6.264172],[106.796086,-6.263865],[106.79418200000001,-6.264233],[106.791786,-6.264172],[106.790127,-6.263742],[106.78484400000001,-6.261469],[106.785459,-6.260179],[106.785275,-6.259135],[106.784783,-6.25852],[106.785213,-6.257537],[106.78570499999999,-6.257292],[106.786012,-6.256862],[106.786012,-6.25551],[106.78631900000001,-6.254036],[106.787425,-6.253729],[106.7881,-6.253237],[106.78859199999999,-6.252377],[106.788899,-6.25164],[106.78886,-6.251447],[106.789452,-6.25121],[106.79129500000001,-6.250719],[106.791172,-6.24906],[106.79283,-6.249306],[106.793875,-6.24992],[106.79429500000001,-6.249943],[106.79418200000001,-6.251149],[106.79498,-6.25207],[106.794366,-6.25336],[106.793813,-6.254712],[106.79498,-6.256555],[106.797192,-6.2568],[106.797315,-6.257537]]],"type":"Polygon"}
 }

@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Pasirgedang"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073529
+        102073529,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6579586
     },
     "wof:country":"ID",
-    "wof:geomhash":"917be7683562ac6963ee4ab10457dcbd",
+    "wof:geomhash":"cc663c704111a415bacfc5c5f742b3d0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1276814089,
-    "wof:lastmodified":1537629433,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614636808,
     "wof:name":"Pasirgedang",
     "wof:parent_id":102073529,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.17806000000002,
+    107.17806,
     -6.86361,
-    107.17806000000002,
+    107.17806,
     -6.86361
 ],
-  "geometry": {"coordinates":[107.17806000000002,-6.86361],"type":"Point"}
+  "geometry": {"coordinates":[107.17806,-6.86361],"type":"Point"}
 }

@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ajamaroe",
         "Ajamaru",
@@ -34,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672067,
-        1108796861
+        1108796861,
+        85672067
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1650999
     },
     "wof:country":"ID",
-    "wof:geomhash":"85f90da8ed53b291aa72dfdce68cc8d4",
+    "wof:geomhash":"802504be39b96354a065b6f86b969303",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +54,14 @@
         }
     ],
     "wof:id":1242606733,
-    "wof:lastmodified":1537627366,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614642658,
     "wof:name":"Ayamaru",
     "wof:parent_id":1108796861,
     "wof:placetype":"locality",
@@ -63,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    132.19333999999998,
+    132.19334,
     -1.27448,
-    132.19333999999998,
+    132.19334,
     -1.27448
 ],
-  "geometry": {"coordinates":[132.19333999999998,-1.27448],"type":"Point"}
+  "geometry": {"coordinates":[132.19334000000001,-1.27448],"type":"Point"}
 }

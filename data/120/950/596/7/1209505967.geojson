@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ara_x_preferred":[
         "\u0643\u064a\u062a\u0627\u0628\u0627\u0646\u063a"
     ],
@@ -51,7 +52,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102073417
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,14 +65,24 @@
     "wof:geomhash":"e08dffad6855b79b2d52b6a55d1f2eb7",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209505967
+            "county_id":102073417,
+            "locality_id":1209505967,
+            "region_id":85671987
         }
     ],
     "wof:id":1209505967,
-    "wof:lastmodified":1564185634,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614720932,
     "wof:name":"Ketapang",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073417,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

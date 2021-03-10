@@ -26,6 +26,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Tanah Merah"
     ],
@@ -49,9 +50,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671977,
-        102073415,
-        1108805993
+        1108805993,
+        102073415
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -65,18 +65,18 @@
             "country_id":85632203,
             "county_id":102073415,
             "locality_id":1226629373,
-            "region_id":85671977
-        },
-        {
-            "continent_id":102191569,
-            "country_id":85632203,
-            "county_id":102073415,
-            "locality_id":1226629373,
             "region_id":1108805993
         }
     ],
     "wof:id":1226629373,
-    "wof:lastmodified":1564208243,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614720922,
     "wof:name":"Tanahmerah",
     "wof:parent_id":102073415,
     "wof:placetype":"locality",

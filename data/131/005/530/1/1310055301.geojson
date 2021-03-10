@@ -25,19 +25,20 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073217
+        102073217,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1987035
     },
     "wof:country":"ID",
-    "wof:geomhash":"aadddbd21ef3b469c7cc36c71d9b71d5",
+    "wof:geomhash":"ba75f7aeedf74e28dd557d413f4b5537",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +49,14 @@
         }
     ],
     "wof:id":1310055301,
-    "wof:lastmodified":1537066133,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614653404,
     "wof:name":"Bojong Engsel",
     "wof:parent_id":102073217,
     "wof:placetype":"locality",
@@ -58,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.89388999999998,
+    106.89389,
     -6.49,
-    106.89388999999998,
+    106.89389,
     -6.49
 ],
-  "geometry": {"coordinates":[106.89388999999998,-6.49],"type":"Point"}
+  "geometry": {"coordinates":[106.89389,-6.49],"type":"Point"}
 }

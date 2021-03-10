@@ -25,12 +25,16 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Bibang"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672041,
+        102072833
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +44,24 @@
     "wof:geomhash":"3cf59fdce668ae54bc6bd6e105a2cd0c",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209153091
+            "county_id":102072833,
+            "locality_id":1209153091,
+            "region_id":85672041
         }
     ],
     "wof:id":1209153091,
-    "wof:lastmodified":1537633339,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614716539,
     "wof:name":"Bibang",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072833,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

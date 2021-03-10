@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Dusun Satu"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073187
+        102073187,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6565398
     },
     "wof:country":"ID",
-    "wof:geomhash":"7c6368660c8d1264c350db9b754dece1",
+    "wof:geomhash":"646ac34944feb272dd81ceb6262d8978",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1310295991,
-    "wof:lastmodified":1537629260,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614653319,
     "wof:name":"Dusun Satu",
     "wof:parent_id":102073187,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.99611000000002,
+    109.99611,
     -7.82222,
-    109.99611000000002,
+    109.99611,
     -7.82222
 ],
-  "geometry": {"coordinates":[109.99611000000002,-7.82222],"type":"Point"}
+  "geometry": {"coordinates":[109.99611,-7.82222],"type":"Point"}
 }

@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-03-01",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -24,20 +25,20 @@
     "gn:timezone":"Asia/Jakarta",
     "iso:country":"ID",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        85671995,
-        1108796785
+        1108796785,
+        85671995
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1988389
     },
     "wof:country":"ID",
-    "wof:geomhash":"c43781d57cc11adce7b9abce75056444",
+    "wof:geomhash":"cb938d6032c27bec1fce022d686bfedd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +49,14 @@
         }
     ],
     "wof:id":1259443319,
-    "wof:lastmodified":1536917214,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614708128,
     "wof:name":"Lebakwangi",
     "wof:parent_id":1108796785,
     "wof:placetype":"locality",
@@ -58,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.62888999999998,
+    106.62889,
     -6.15611,
-    106.62888999999998,
+    106.62889,
     -6.15611
 ],
-  "geometry": {"coordinates":[106.62888999999998,-6.15611],"type":"Point"}
+  "geometry": {"coordinates":[106.62889,-6.15611],"type":"Point"}
 }

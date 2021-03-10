@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Paloh"
     ],
@@ -33,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671973,
+        102073273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +47,24 @@
     "wof:geomhash":"cb4c0d868c6d5e7f035863cd327bcb7c",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209328165
+            "county_id":102073273,
+            "locality_id":1209328165,
+            "region_id":85671973
         }
     ],
     "wof:id":1209328165,
-    "wof:lastmodified":1564185942,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614719965,
     "wof:name":"Paloh",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073273,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

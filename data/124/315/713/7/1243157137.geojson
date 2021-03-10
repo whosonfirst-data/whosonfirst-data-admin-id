@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Jodok"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102073013
+        102073013,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6384042
     },
     "wof:country":"ID",
-    "wof:geomhash":"58365b73dbbff5478f7ad6baa8c67ea1",
+    "wof:geomhash":"b9572f3976863f0a522019a291a82a32",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1243157137,
-    "wof:lastmodified":1537628569,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614653952,
     "wof:name":"Jodok",
     "wof:parent_id":102073013,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.03806000000002,
+    111.03806,
     -8.17111,
-    111.03806000000002,
+    111.03806,
     -8.17111
 ],
-  "geometry": {"coordinates":[111.03806000000002,-8.17111],"type":"Point"}
+  "geometry": {"coordinates":[111.03806,-8.17111],"type":"Point"}
 }

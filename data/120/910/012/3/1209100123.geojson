@@ -25,26 +25,40 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102073169
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6199998
     },
     "wof:country":"ID",
-    "wof:geomhash":"78cc6e4f9961878fb0d1a7f0b510e658",
+    "wof:geomhash":"f2b5effbbaeca8772b3132501a6c28cc",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209100123
+            "county_id":102073169,
+            "locality_id":1209100123,
+            "region_id":85671987
         }
     ],
     "wof:id":1209100123,
-    "wof:lastmodified":1536297760,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614718914,
     "wof:name":"Kalianggrung",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073169,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
@@ -52,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.03806000000002,
+    110.03806,
     -7.33472,
-    110.03806000000002,
+    110.03806,
     -7.33472
 ],
-  "geometry": {"coordinates":[110.03806000000002,-7.33472],"type":"Point"}
+  "geometry": {"coordinates":[110.03806,-7.33472],"type":"Point"}
 }

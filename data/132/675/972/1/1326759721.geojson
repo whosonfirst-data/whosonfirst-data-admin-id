@@ -25,19 +25,20 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        85672081,
-        102072597
+        102072597,
+        85672081
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1993230
     },
     "wof:country":"ID",
-    "wof:geomhash":"bd8f522b9b3be5446923d58b28d79fd1",
+    "wof:geomhash":"fc4637c2896dd03bb62f309e0b4d69f8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +49,14 @@
         }
     ],
     "wof:id":1326759721,
-    "wof:lastmodified":1536656257,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614649792,
     "wof:name":"Parigituju",
     "wof:parent_id":102072597,
     "wof:placetype":"locality",
@@ -58,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    124.86388999999998,
+    124.86389,
     1.50083,
-    124.86388999999998,
+    124.86389,
     1.50083
 ],
-  "geometry": {"coordinates":[124.86388999999998,1.50083],"type":"Point"}
+  "geometry": {"coordinates":[124.86389,1.50083],"type":"Point"}
 }

@@ -25,19 +25,20 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073233
+        102073233,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6265491
     },
     "wof:country":"ID",
-    "wof:geomhash":"384759428a3ac6eef70bca2cb682ae52",
+    "wof:geomhash":"f4ca75f34fef787493f839431e642980",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +49,14 @@
         }
     ],
     "wof:id":1260175713,
-    "wof:lastmodified":1536857445,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614640093,
     "wof:name":"Jembungan",
     "wof:parent_id":102073233,
     "wof:placetype":"locality",
@@ -58,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.48888999999998,
+    110.48889,
     -7.68167,
-    110.48888999999998,
+    110.48889,
     -7.68167
 ],
-  "geometry": {"coordinates":[110.48888999999998,-7.68167],"type":"Point"}
+  "geometry": {"coordinates":[110.48889,-7.68167],"type":"Point"}
 }

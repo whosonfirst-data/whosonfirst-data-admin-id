@@ -26,6 +26,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kasintoe",
         "Kesintoe",
@@ -35,8 +36,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672063,
-        102072779
+        102072779,
+        85672063
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,7 +55,14 @@
         }
     ],
     "wof:id":1327152409,
-    "wof:lastmodified":1537626985,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614632966,
     "wof:name":"Kesintu",
     "wof:parent_id":102072779,
     "wof:placetype":"locality",

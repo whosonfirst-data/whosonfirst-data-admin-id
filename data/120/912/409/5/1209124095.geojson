@@ -26,13 +26,17 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sinondo\u00f6",
         "Tinondoo"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672055,
+        102073303
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +46,24 @@
     "wof:geomhash":"7c281899e802bc3c4b58fcab37355438",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209124095
+            "county_id":102073303,
+            "locality_id":1209124095,
+            "region_id":85672055
         }
     ],
     "wof:id":1209124095,
-    "wof:lastmodified":1537626474,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614720127,
     "wof:name":"Tinondoo",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073303,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

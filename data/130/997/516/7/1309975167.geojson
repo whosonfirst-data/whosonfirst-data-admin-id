@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Bankois"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672111,
-        102073015
+        102073015,
+        85672111
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8553598
     },
     "wof:country":"ID",
-    "wof:geomhash":"911a34a35aee02d14f7e600095b7698e",
+    "wof:geomhash":"5fa3e422b9cf34b17c35981542de6e17",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1309975167,
-    "wof:lastmodified":1537636408,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614641673,
     "wof:name":"Bankois",
     "wof:parent_id":102073015,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    122.78128999999998,
+    122.78129,
     -1.00273,
-    122.78128999999998,
+    122.78129,
     -1.00273
 ],
-  "geometry": {"coordinates":[122.78128999999998,-1.00273],"type":"Point"}
+  "geometry": {"coordinates":[122.78129,-1.00273],"type":"Point"}
 }

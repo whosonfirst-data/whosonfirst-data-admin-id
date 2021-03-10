@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Tumpeng"
     ],
@@ -56,8 +57,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102072773
+        102072773,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -75,7 +76,14 @@
         }
     ],
     "wof:id":1309855489,
-    "wof:lastmodified":1564196093,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614641841,
     "wof:name":"Tumpeng",
     "wof:parent_id":102072773,
     "wof:placetype":"locality",

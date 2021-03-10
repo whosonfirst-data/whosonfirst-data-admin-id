@@ -25,19 +25,20 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072983
+        102072983,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6262632
     },
     "wof:country":"ID",
-    "wof:geomhash":"ecbbb3d5c37911fcad7b5395b9af9d1b",
+    "wof:geomhash":"1fb0f0eabfa2d610288c353fc159c056",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +49,14 @@
         }
     ],
     "wof:id":1310199141,
-    "wof:lastmodified":1536860107,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614653351,
     "wof:name":"Betongan",
     "wof:parent_id":102072983,
     "wof:placetype":"locality",
@@ -58,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.77443999999998,
+    110.77444,
     -7.48639,
-    110.77443999999998,
+    110.77444,
     -7.48639
 ],
-  "geometry": {"coordinates":[110.77443999999998,-7.48639],"type":"Point"}
+  "geometry": {"coordinates":[110.77444,-7.48639],"type":"Point"}
 }

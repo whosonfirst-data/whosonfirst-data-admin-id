@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Wirunkidul Dua"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073187
+        102073187,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6566311
     },
     "wof:country":"ID",
-    "wof:geomhash":"c9fda4c9131cea2ef5123fc2a82f9093",
+    "wof:geomhash":"b8cd797f683d82cbfa78e5a89703e2b3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1243545739,
-    "wof:lastmodified":1537629287,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614642273,
     "wof:name":"Wirunkidul Dua",
     "wof:parent_id":102073187,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.91861000000002,
+    109.91861,
     -7.68778,
-    109.91861000000002,
+    109.91861,
     -7.68778
 ],
-  "geometry": {"coordinates":[109.91861000000002,-7.68778],"type":"Point"}
+  "geometry": {"coordinates":[109.91861,-7.68778],"type":"Point"}
 }

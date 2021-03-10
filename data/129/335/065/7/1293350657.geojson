@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Salongok"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073529
+        102073529,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6588726
     },
     "wof:country":"ID",
-    "wof:geomhash":"321afb5918160f97f07d5ba1876ccce5",
+    "wof:geomhash":"a3150e43aa6abe76354077e34883809e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1293350657,
-    "wof:lastmodified":1537629622,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614651005,
     "wof:name":"Salongok",
     "wof:parent_id":102073529,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.14388999999998,
+    107.14389,
     -6.94028,
-    107.14388999999998,
+    107.14389,
     -6.94028
 ],
-  "geometry": {"coordinates":[107.14388999999998,-6.94028],"type":"Point"}
+  "geometry": {"coordinates":[107.14389,-6.94028],"type":"Point"}
 }

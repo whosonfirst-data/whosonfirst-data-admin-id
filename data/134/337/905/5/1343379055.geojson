@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u0631\u0648\u062d"
     ],
@@ -41,15 +42,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073189
+        102073189,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6564757
     },
     "wof:country":"ID",
-    "wof:geomhash":"9d01ea726507409e9b1cf6a60a584af6",
+    "wof:geomhash":"24bf2614fbd24f81291c4efb69ab2b68",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -60,7 +61,14 @@
         }
     ],
     "wof:id":1343379055,
-    "wof:lastmodified":1564172080,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614633933,
     "wof:name":"Suruh",
     "wof:parent_id":102073189,
     "wof:placetype":"locality",
@@ -70,10 +78,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.50943999999998,
+    110.50944,
     -8.05611,
-    110.50943999999998,
+    110.50944,
     -8.05611
 ],
-  "geometry": {"coordinates":[110.50943999999998,-8.05611],"type":"Point"}
+  "geometry": {"coordinates":[110.50944,-8.05611],"type":"Point"}
 }

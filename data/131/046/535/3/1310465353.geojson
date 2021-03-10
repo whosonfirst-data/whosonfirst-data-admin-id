@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ceb_x_preferred":[
         "Tegal"
     ],
@@ -47,8 +48,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672103,
-        102073231
+        102073231,
+        85672103
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,7 +67,14 @@
         }
     ],
     "wof:id":1310465353,
-    "wof:lastmodified":1564191292,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614653127,
     "wof:name":"Tegal",
     "wof:parent_id":102073231,
     "wof:placetype":"locality",

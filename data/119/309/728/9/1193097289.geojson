@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Cigoong"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072937
+        102072937,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6606556
     },
     "wof:country":"ID",
-    "wof:geomhash":"a5144f692ac235bb7693b852cc7b99f6",
+    "wof:geomhash":"579ef63393ba46d6edfdbd4d587181d7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1193097289,
-    "wof:lastmodified":1537630116,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614639361,
     "wof:name":"Cigoong",
     "wof:parent_id":102072937,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.35611000000002,
+    107.35611,
     -6.11944,
-    107.35611000000002,
+    107.35611,
     -6.11944
 ],
-  "geometry": {"coordinates":[107.35611000000002,-6.11944],"type":"Point"}
+  "geometry": {"coordinates":[107.35611,-6.11944],"type":"Point"}
 }

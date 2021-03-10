@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Tenger"
     ],
@@ -35,8 +36,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102072849
+        102072849,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,7 +55,14 @@
         }
     ],
     "wof:id":1293190897,
-    "wof:lastmodified":1564179587,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614651257,
     "wof:name":"Tenger",
     "wof:parent_id":102072849,
     "wof:placetype":"locality",

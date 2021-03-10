@@ -26,6 +26,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Batoemengail",
         "Batumengail"
@@ -34,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672097,
-        1108796843
+        1108796843,
+        85672097
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1649653
     },
     "wof:country":"ID",
-    "wof:geomhash":"882f9cfb457dcc66c6ca53f26ddce100",
+    "wof:geomhash":"d09789fadf40f9745789b65e25edf10d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +54,14 @@
         }
     ],
     "wof:id":1326448641,
-    "wof:lastmodified":1537627325,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614632557,
     "wof:name":"Batumengail",
     "wof:parent_id":1108796843,
     "wof:placetype":"locality",
@@ -63,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    130.66666999999998,
+    130.66667,
     -3.8,
-    130.66666999999998,
+    130.66667,
     -3.8
 ],
-  "geometry": {"coordinates":[130.66666999999998,-3.8],"type":"Point"}
+  "geometry": {"coordinates":[130.66667000000001,-3.8],"type":"Point"}
 }

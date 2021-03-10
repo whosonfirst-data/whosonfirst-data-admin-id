@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Somalin",
         "Somlain"
@@ -33,15 +34,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672097,
-        1108796835
+        1108796835,
+        85672097
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1626625
     },
     "wof:country":"ID",
-    "wof:geomhash":"262ea82ce7f990564f1a74ac9631e195",
+    "wof:geomhash":"9a024a2c87f9ccfbcb02eccffe0864bd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,7 +53,14 @@
         }
     ],
     "wof:id":1276171193,
-    "wof:lastmodified":1537626582,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614636897,
     "wof:name":"Somlain",
     "wof:parent_id":1108796835,
     "wof:placetype":"locality",
@@ -62,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    132.67283999999998,
+    132.67284,
     -5.86541,
-    132.67283999999998,
+    132.67284,
     -5.86541
 ],
-  "geometry": {"coordinates":[132.67283999999998,-5.86541],"type":"Point"}
+  "geometry": {"coordinates":[132.67284000000001,-5.86541],"type":"Point"}
 }

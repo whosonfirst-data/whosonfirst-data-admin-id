@@ -25,19 +25,20 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073313
+        102073313,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2004249
     },
     "wof:country":"ID",
-    "wof:geomhash":"18e28043994590c4abde553560e9581f",
+    "wof:geomhash":"ac6ff3d588baaf6728d6766e8ae405c8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +49,14 @@
         }
     ],
     "wof:id":1192996933,
-    "wof:lastmodified":1536374844,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614639631,
     "wof:name":"Banyusemurub",
     "wof:parent_id":102073313,
     "wof:placetype":"locality",
@@ -58,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.39806000000002,
+    110.39806,
     -7.92806,
-    110.39806000000002,
+    110.39806,
     -7.92806
 ],
-  "geometry": {"coordinates":[110.39806000000002,-7.92806],"type":"Point"}
+  "geometry": {"coordinates":[110.39806,-7.92806],"type":"Point"}
 }

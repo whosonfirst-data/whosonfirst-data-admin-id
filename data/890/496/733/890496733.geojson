@@ -15,6 +15,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:bul_x_preferred":[
         "\u0411\u043e\u043d\u0430\u043d\u0433"
     ],
@@ -63,8 +64,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072887
+        102072887,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -87,7 +88,14 @@
         }
     ],
     "wof:id":890496733,
-    "wof:lastmodified":1563273991,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614653743,
     "wof:name":"Bonang",
     "wof:parent_id":102072887,
     "wof:placetype":"locality",

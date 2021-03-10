@@ -26,6 +26,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ranggoengan",
         "Teloek Ranggoengan",
@@ -34,7 +35,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672005,
+        102072839
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,14 +48,24 @@
     "wof:geomhash":"978d0559f06aacae6ec1cce2bd526ddb",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209525181
+            "county_id":102072839,
+            "locality_id":1209525181,
+            "region_id":85672005
         }
     ],
     "wof:id":1209525181,
-    "wof:lastmodified":1537626485,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614716596,
     "wof:name":"Teluk Ranggungan",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072839,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

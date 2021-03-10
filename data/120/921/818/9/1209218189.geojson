@@ -25,12 +25,16 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Blangpaku"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671973,
+        102072619
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +44,24 @@
     "wof:geomhash":"3a8e589af3e4e101560f886cfe940b0e",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209218189
+            "county_id":102072619,
+            "locality_id":1209218189,
+            "region_id":85671973
         }
     ],
     "wof:id":1209218189,
-    "wof:lastmodified":1537630782,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614714944,
     "wof:name":"Blangpaku",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072619,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

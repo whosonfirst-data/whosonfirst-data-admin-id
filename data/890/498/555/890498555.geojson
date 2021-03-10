@@ -4,18 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"106.9453,-6.2263,106.9453,-6.2263",
-    "geom:latitude":-6.2263,
-    "geom:longitude":106.9453,
+    "geom:area":0.000177,
+    "geom:area_square_m":2171603.554778,
+    "geom:bbox":"106.934492,-6.23786,106.95068,-6.217967",
+    "geom:latitude":-6.227456,
+    "geom:longitude":106.942389,
     "gn:country":"ID",
     "gn:fcode":"PPL",
     "gn:pop":0,
     "gp:adm0":23424846,
     "iso:country":"ID",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "name:ind_x_preferred":[
         "Pondokkopi"
     ],
@@ -30,13 +30,17 @@
     "qs:photos_sr":1,
     "qs:placetype":"Suburb",
     "qs:pop_sr":"0",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "unknown"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
-        85672001,
         102191569,
         85632203,
         102020431,
-        102073493
+        102073493,
+        85672001
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,7 +50,10 @@
     },
     "wof:country":"ID",
     "wof:created":1469055180,
-    "wof:geomhash":"1715b76c158b6d94e36f91855d29f9d5",
+    "wof:geom_alt":[
+        "unknown"
+    ],
+    "wof:geomhash":"ee30757af369fdccf272dabf08bd1b3d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -58,7 +65,14 @@
         }
     ],
     "wof:id":890498555,
-    "wof:lastmodified":1505343833,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614744886,
     "wof:name":"Pondokkopi",
     "wof:parent_id":102020431,
     "wof:placetype":"neighbourhood",
@@ -69,10 +83,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.9453,
-    -6.2263,
-    106.9453,
-    -6.2263
+    106.934492,
+    -6.23786,
+    106.95068,
+    -6.217967
 ],
-  "geometry": {"coordinates":[106.9453,-6.2263],"type":"Point"}
+  "geometry": {"coordinates":[[[106.942798,-6.23786],[106.939161,-6.236647],[106.93891499999999,-6.234067],[106.937933,-6.232961],[106.93449200000001,-6.232716],[106.935107,-6.230996],[106.935598,-6.228784],[106.93682699999999,-6.227187],[106.93805500000001,-6.227064],[106.93805500000001,-6.225098],[106.938793,-6.223993],[106.939284,-6.22043],[106.938985,-6.217967],[106.94125,-6.218218],[106.95068000000001,-6.219251],[106.949549,-6.220382],[106.94761,-6.223774],[106.946479,-6.228621],[106.94696399999999,-6.229913],[106.94534899999999,-6.237021],[106.944541,-6.236698],[106.942798,-6.23786]]],"type":"Polygon"}
 }

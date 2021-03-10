@@ -1,0 +1,72 @@
+{
+  "id": 1729797853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000056,
+    "geom:area_square_m":684443.577191,
+    "geom:bbox":"112.759372,-7.251137,112.768893,-7.242829",
+    "geom:latitude":-7.247093,
+    "geom:longitude":112.764226,
+    "iso:country":"ID",
+    "lbl:latitude":-7.247046,
+    "lbl:longitude":112.764226,
+    "mps:latitude":-7.247046,
+    "mps:longitude":112.764226,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Rangkah"
+    ],
+    "name:ind_x_preferred":[
+        "Rangkah"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        102018911,
+        102073397,
+        85672027
+    ],
+    "wof:breaches":[],
+    "wof:country":"ID",
+    "wof:created":1613065514,
+    "wof:geomhash":"dfa9af00451fb38350b7acdae827eada",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102073397,
+            "locality_id":102018911,
+            "neighbourhood_id":1729797853,
+            "region_id":85672027
+        }
+    ],
+    "wof:id":1729797853,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614723215,
+    "wof:name":"Rangkah",
+    "wof:parent_id":102018911,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    112.759372,
+    -7.251137,
+    112.768893,
+    -7.242829
+],
+  "geometry": {"coordinates":[[[112.76889300000001,-7.245148],[112.768801,-7.248434],[112.767695,-7.251137],[112.759372,-7.249141],[112.75961700000001,-7.246622],[112.760846,-7.243305],[112.76094399999999,-7.242829],[112.76889300000001,-7.245148]]],"type":"Polygon"}
+}

@@ -13,6 +13,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Districts of West Sumatra"
     ],
@@ -37,8 +38,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672087,
-        102073151
+        102073151,
+        85672087
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,7 +61,14 @@
         }
     ],
     "wof:id":890499233,
-    "wof:lastmodified":1563273804,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614642124,
     "wof:name":"Iv Koto Aur Malintang",
     "wof:parent_id":102073151,
     "wof:placetype":"locality",

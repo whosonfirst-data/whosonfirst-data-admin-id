@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632203
@@ -34,7 +35,7 @@
         "gn:id":1989686
     },
     "wof:country":"ID",
-    "wof:geomhash":"d47de05aa6648d89674d65693b44dba2",
+    "wof:geomhash":"0933d2f9e5eedc185e5f1ced474040b9",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +43,14 @@
         }
     ],
     "wof:id":1209661333,
-    "wof:lastmodified":1536280245,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614638629,
     "wof:name":"Palelangan",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +61,9 @@
 },
   "bbox": [
     106.45861,
-    -6.0408300000000015,
+    -6.04083,
     106.45861,
-    -6.0408300000000015
+    -6.04083
 ],
   "geometry": {"coordinates":[106.45860999999999,-6.04083],"type":"Point"}
 }

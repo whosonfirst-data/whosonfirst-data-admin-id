@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Ngasem"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072947
+        102072947,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6255530
     },
     "wof:country":"ID",
-    "wof:geomhash":"eaeacb08a621a4495bbf6f650bde14dc",
+    "wof:geomhash":"97308e0a6b2918756f17a41410a20bf6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1242870549,
-    "wof:lastmodified":1537628284,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614642439,
     "wof:name":"Ngasem",
     "wof:parent_id":102072947,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.00388999999998,
+    111.00389,
     -7.90722,
-    111.00388999999998,
+    111.00389,
     -7.90722
 ],
-  "geometry": {"coordinates":[111.00388999999998,-7.90722],"type":"Point"}
+  "geometry": {"coordinates":[111.00389,-7.90722],"type":"Point"}
 }

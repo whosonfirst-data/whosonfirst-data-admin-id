@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Brubahan"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073153
+        102073153,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6372876
     },
     "wof:country":"ID",
-    "wof:geomhash":"69e7fbae5e3ad00e47f8f767b856f66d",
+    "wof:geomhash":"c649d8b1ec645725a1df839021915ce0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1360205547,
-    "wof:lastmodified":1537628381,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614653506,
     "wof:name":"Brubahan",
     "wof:parent_id":102073153,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.52306000000002,
+    109.52306,
     -7.43778,
-    109.52306000000002,
+    109.52306,
     -7.43778
 ],
-  "geometry": {"coordinates":[109.52306000000002,-7.43778],"type":"Point"}
+  "geometry": {"coordinates":[109.52306,-7.43778],"type":"Point"}
 }

@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:bjn_x_preferred":[
         "Dauh"
     ],
@@ -47,8 +48,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102073519
+        102073519,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,7 +67,14 @@
         }
     ],
     "wof:id":1226139585,
-    "wof:lastmodified":1564206958,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614654756,
     "wof:name":"Bedug",
     "wof:parent_id":102073519,
     "wof:placetype":"locality",

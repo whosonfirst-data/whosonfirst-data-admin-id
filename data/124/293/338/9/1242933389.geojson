@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Dukumire"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073505
+        102073505,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6396782
     },
     "wof:country":"ID",
-    "wof:geomhash":"a3f8b5c0d09f864339b25ac6e451e787",
+    "wof:geomhash":"fda55eef9dc7f50870ac7c8972fdd58c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1242933389,
-    "wof:lastmodified":1537628763,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614653918,
     "wof:name":"Dukumire",
     "wof:parent_id":102073505,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.38443999999998,
+    108.38444,
     -6.68583,
-    108.38443999999998,
+    108.38444,
     -6.68583
 ],
-  "geometry": {"coordinates":[108.38443999999998,-6.68583],"type":"Point"}
+  "geometry": {"coordinates":[108.38444,-6.68583],"type":"Point"}
 }

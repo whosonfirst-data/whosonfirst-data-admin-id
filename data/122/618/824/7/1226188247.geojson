@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Pasantren"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073515
+        102073515,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6401573
     },
     "wof:country":"ID",
-    "wof:geomhash":"a6509cc6a69a1c5ba53aa791a26df313",
+    "wof:geomhash":"6578d4ea526f8982429f6c03b8b25306",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1226188247,
-    "wof:lastmodified":1537628844,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614644930,
     "wof:name":"Pasantren",
     "wof:parent_id":102073515,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.23111000000002,
+    108.23111,
     -6.65028,
-    108.23111000000002,
+    108.23111,
     -6.65028
 ],
-  "geometry": {"coordinates":[108.23111000000002,-6.65028],"type":"Point"}
+  "geometry": {"coordinates":[108.23111,-6.65028],"type":"Point"}
 }

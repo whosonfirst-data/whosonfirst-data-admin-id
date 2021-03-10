@@ -12,6 +12,8 @@
     "gp:adm0":23424846,
     "iso:country":"ID",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:name":"Toyapakeh",
     "qs:name_adm0":"Indonesia",
     "qs:name_adm1":"Bali",
@@ -24,6 +26,7 @@
     "qs:placetype":"Town",
     "qs:pop_sr":"0",
     "wof:belongsto":[
+        102191569,
         85632203
     ],
     "wof:breaches":[],
@@ -33,15 +36,24 @@
     },
     "wof:country":"ID",
     "wof:created":1469055182,
-    "wof:geomhash":"bf4d50483fdc1c0f72c6e57d1f16f279",
+    "wof:geomhash":"31090a331d0fee236711b472bbeaf2ea",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":890498623
+            "locality_id":890498623,
+            "region_id":-1
         }
     ],
     "wof:id":890498623,
-    "wof:lastmodified":1470255699,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614731978,
     "wof:name":"Toyapakeh",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

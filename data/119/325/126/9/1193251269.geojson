@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Rejomulyo"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672009,
-        1108796809
+        1108796809,
+        85672009
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7665051
     },
     "wof:country":"ID",
-    "wof:geomhash":"37f08291a5ae9361b9980e345b6d378c",
+    "wof:geomhash":"6a00e5e826c52980754d700969d47460",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1193251269,
-    "wof:lastmodified":1537634180,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614639535,
     "wof:name":"Rejomulyo",
     "wof:parent_id":1108796809,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    105.29668999999998,
+    105.29669,
     -5.25554,
-    105.29668999999998,
+    105.29669,
     -5.25554
 ],
-  "geometry": {"coordinates":[105.29668999999998,-5.25554],"type":"Point"}
+  "geometry": {"coordinates":[105.29669,-5.25554],"type":"Point"}
 }

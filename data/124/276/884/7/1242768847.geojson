@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Kemirikerep"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073309
+        102073309,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6561702
     },
     "wof:country":"ID",
-    "wof:geomhash":"3d04ade5ba255d7758d2ab788c6bed4a",
+    "wof:geomhash":"178c9d33f3253db15b9e96f436e614bf",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1242768847,
-    "wof:lastmodified":1537629165,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614643273,
     "wof:name":"Kemirikerep",
     "wof:parent_id":102073309,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.37111000000002,
+    111.37111,
     -7.23972,
-    111.37111000000002,
+    111.37111,
     -7.23972
 ],
-  "geometry": {"coordinates":[111.37111000000002,-7.23972],"type":"Point"}
+  "geometry": {"coordinates":[111.37111,-7.23972],"type":"Point"}
 }

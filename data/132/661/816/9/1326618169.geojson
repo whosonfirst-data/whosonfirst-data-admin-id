@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Tanap"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672005,
-        102073327
+        102073327,
+        85672005
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8431005
     },
     "wof:country":"ID",
-    "wof:geomhash":"dc9a5e1485fabe796a55c33a1cfd15d2",
+    "wof:geomhash":"9c30ab3302fb4459ea06607392c4ffee",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1326618169,
-    "wof:lastmodified":1537636160,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614632783,
     "wof:name":"Tanap",
     "wof:parent_id":102073327,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.38488999999998,
+    110.38489,
     0.54009,
-    110.38488999999998,
+    110.38489,
     0.54009
 ],
-  "geometry": {"coordinates":[110.38488999999998,0.54009],"type":"Point"}
+  "geometry": {"coordinates":[110.38489,0.54009],"type":"Point"}
 }

@@ -25,19 +25,20 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073405
+        102073405,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6256066
     },
     "wof:country":"ID",
-    "wof:geomhash":"cb3f443e004b58fe411868bfc9f658c9",
+    "wof:geomhash":"18b7a2952bf579f47974aa2a1eb4085e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +49,14 @@
         }
     ],
     "wof:id":1326551005,
-    "wof:lastmodified":1536957041,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614650061,
     "wof:name":"Topanan",
     "wof:parent_id":102073405,
     "wof:placetype":"locality",
@@ -58,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.85193999999998,
+    110.85194,
     -7.79917,
-    110.85193999999998,
+    110.85194,
     -7.79917
 ],
-  "geometry": {"coordinates":[110.85193999999998,-7.79917],"type":"Point"}
+  "geometry": {"coordinates":[110.85194,-7.79917],"type":"Point"}
 }

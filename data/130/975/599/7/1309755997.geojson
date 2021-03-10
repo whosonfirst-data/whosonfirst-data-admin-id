@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-03-01",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -25,7 +26,7 @@
     "gn:timezone":"Asia/Jakarta",
     "iso:country":"ID",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "name:und_x_variant":[
         "Warungnangka",
         "Waroengnangka",
@@ -35,15 +36,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671995,
-        1108796785
+        1108796785,
+        85671995
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1621925
     },
     "wof:country":"ID",
-    "wof:geomhash":"cf58a6bc77fa8e9e0f9070f65a229072",
+    "wof:geomhash":"c9a6a6455ce6b185943759a015a15bef",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,7 +55,14 @@
         }
     ],
     "wof:id":1309755997,
-    "wof:lastmodified":1537626411,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614708097,
     "wof:name":"Warungmangga",
     "wof:parent_id":1108796785,
     "wof:placetype":"locality",
@@ -64,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.63611000000002,
+    106.63611,
     -6.22444,
-    106.63611000000002,
+    106.63611,
     -6.22444
 ],
-  "geometry": {"coordinates":[106.63611000000002,-6.22444],"type":"Point"}
+  "geometry": {"coordinates":[106.63611,-6.22444],"type":"Point"}
 }

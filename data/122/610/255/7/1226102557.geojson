@@ -26,6 +26,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tanahguha 2",
         "Tanahguha Dua"
@@ -34,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072949
+        102072949,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1962197
     },
     "wof:country":"ID",
-    "wof:geomhash":"ae661052f323650017ff1653cb42d882",
+    "wof:geomhash":"1f741e9e0088f76be3d6f5b968c686e5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +54,14 @@
         }
     ],
     "wof:id":1226102557,
-    "wof:lastmodified":1537627648,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614644789,
     "wof:name":"Tanahguha Dua",
     "wof:parent_id":102072949,
     "wof:placetype":"locality",
@@ -63,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.66443999999998,
+    107.66444,
     -7.205,
-    107.66443999999998,
+    107.66444,
     -7.205
 ],
-  "geometry": {"coordinates":[107.66443999999998,-7.205],"type":"Point"}
+  "geometry": {"coordinates":[107.66444,-7.205],"type":"Point"}
 }

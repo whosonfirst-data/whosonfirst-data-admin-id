@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Citengah Wetan"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072739
+        102072739,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6583136
     },
     "wof:country":"ID",
-    "wof:geomhash":"0464cd9aec699f272598caa7b8b3a3d6",
+    "wof:geomhash":"6ac3ec2c0dbb0ae2f49bf04aaa7fa537",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1344018389,
-    "wof:lastmodified":1537629519,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614634198,
     "wof:name":"Citengah Wetan",
     "wof:parent_id":102072739,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.94693999999998,
+    107.94694,
     -6.91417,
-    107.94693999999998,
+    107.94694,
     -6.91417
 ],
-  "geometry": {"coordinates":[107.94693999999998,-6.91417],"type":"Point"}
+  "geometry": {"coordinates":[107.94694,-6.91417],"type":"Point"}
 }

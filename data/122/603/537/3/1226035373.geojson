@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Dero"
     ],
@@ -41,8 +42,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102073297
+        102073297,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,7 +61,14 @@
         }
     ],
     "wof:id":1226035373,
-    "wof:lastmodified":1564206059,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614645167,
     "wof:name":"Dero",
     "wof:parent_id":102073297,
     "wof:placetype":"locality",

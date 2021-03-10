@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Pecokoran"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072639
+        102072639,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6386096
     },
     "wof:country":"ID",
-    "wof:geomhash":"3db3e0120405d7b0e01fe6e28e4d5fc9",
+    "wof:geomhash":"724b5540902576257139006c194396c5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1343552371,
-    "wof:lastmodified":1537628595,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614650265,
     "wof:name":"Pecokoran",
     "wof:parent_id":102072639,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.56638999999998,
+    109.56639,
     -7.65056,
-    109.56638999999998,
+    109.56639,
     -7.65056
 ],
-  "geometry": {"coordinates":[109.56638999999998,-7.65056],"type":"Point"}
+  "geometry": {"coordinates":[109.56639,-7.65056],"type":"Point"}
 }

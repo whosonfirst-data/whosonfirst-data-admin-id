@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Geibu"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672115,
-        102073423
+        102073423,
+        85672115
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8520202
     },
     "wof:country":"ID",
-    "wof:geomhash":"ebf6aed32a844bb0dc3b65e8d94600b9",
+    "wof:geomhash":"4634d6adc5cc10db115c31ad247fc3ce",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1293936465,
-    "wof:lastmodified":1537636294,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614636117,
     "wof:name":"Geibu",
     "wof:parent_id":102073423,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    138.84828000000002,
+    138.84828,
     -6.35761,
-    138.84828000000002,
+    138.84828,
     -6.35761
 ],
-  "geometry": {"coordinates":[138.84828000000002,-6.35761],"type":"Point"}
+  "geometry": {"coordinates":[138.84827999999999,-6.35761],"type":"Point"}
 }

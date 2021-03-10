@@ -1,0 +1,72 @@
+{
+  "id": 1729801843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000056,
+    "geom:area_square_m":688676.227616,
+    "geom:bbox":"106.842335,-6.175528,106.852263,-6.168464",
+    "geom:latitude":-6.17176,
+    "geom:longitude":106.847581,
+    "iso:country":"ID",
+    "lbl:latitude":-6.171854,
+    "lbl:longitude":106.847581,
+    "mps:latitude":-6.171854,
+    "mps:longitude":106.847581,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Bungur"
+    ],
+    "name:ind_x_preferred":[
+        "Bungur"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        102021905,
+        102073177,
+        85672001
+    ],
+    "wof:breaches":[],
+    "wof:country":"ID",
+    "wof:created":1613158538,
+    "wof:geomhash":"96c06793e1b03c0ebc54200b4950d9e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102073177,
+            "locality_id":102021905,
+            "neighbourhood_id":1729801843,
+            "region_id":85672001
+        }
+    ],
+    "wof:id":1729801843,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614723314,
+    "wof:name":"Bungur",
+    "wof:parent_id":102021905,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.842335,
+    -6.175528,
+    106.852263,
+    -6.168464
+],
+  "geometry": {"coordinates":[[[106.848271,-6.168464],[106.84993,-6.169139],[106.85226299999999,-6.169087],[106.852141,-6.174607],[106.84513800000001,-6.175528],[106.842681,-6.171166],[106.84249699999999,-6.169324],[106.84233500000001,-6.168796],[106.848271,-6.168464]]],"type":"Polygon"}
+}

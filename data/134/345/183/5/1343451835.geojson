@@ -25,19 +25,20 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073405
+        102073405,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2010677
     },
     "wof:country":"ID",
-    "wof:geomhash":"b31a029877b2598752787048f9a30756",
+    "wof:geomhash":"62973935d41e7f1266943d7b9ee3f177",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +49,14 @@
         }
     ],
     "wof:id":1343451835,
-    "wof:lastmodified":1536758842,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614650595,
     "wof:name":"Gonggongan",
     "wof:parent_id":102073405,
     "wof:placetype":"locality",
@@ -58,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.72693999999998,
+    110.72694,
     -7.53139,
-    110.72693999999998,
+    110.72694,
     -7.53139
 ],
-  "geometry": {"coordinates":[110.72693999999998,-7.53139],"type":"Point"}
+  "geometry": {"coordinates":[110.72694,-7.53139],"type":"Point"}
 }

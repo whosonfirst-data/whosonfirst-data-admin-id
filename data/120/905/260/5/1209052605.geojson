@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Rahayu"
     ],
@@ -36,24 +37,37 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671983,
+        102073505
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6396844
     },
     "wof:country":"ID",
-    "wof:geomhash":"7a33b065fb03bc4e8abf828a30b00610",
+    "wof:geomhash":"96a27f7d1ce2b3e529f5cacba80698ec",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209052605
+            "county_id":102073505,
+            "locality_id":1209052605,
+            "region_id":85671983
         }
     ],
     "wof:id":1209052605,
-    "wof:lastmodified":1564186394,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614721692,
     "wof:name":"Rahayu",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073505,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
@@ -61,10 +75,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.41861000000002,
+    108.41861,
     -6.70722,
-    108.41861000000002,
+    108.41861,
     -6.70722
 ],
-  "geometry": {"coordinates":[108.41861000000002,-6.70722],"type":"Point"}
+  "geometry": {"coordinates":[108.41861,-6.70722],"type":"Point"}
 }

@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-03-01",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -25,7 +26,7 @@
     "gn:timezone":"Asia/Jakarta",
     "iso:country":"ID",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "name:und_x_variant":[
         "Djombangkramat",
         "Jombangkramat"
@@ -34,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671995,
-        102072687
+        102072687,
+        85671995
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1964356
     },
     "wof:country":"ID",
-    "wof:geomhash":"31db28d7728f9f46421898c9a24990eb",
+    "wof:geomhash":"31199073b54ede6561ce14fb1ee2a517",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +54,14 @@
         }
     ],
     "wof:id":1326840113,
-    "wof:lastmodified":1537627757,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614708007,
     "wof:name":"Jombangkramat",
     "wof:parent_id":102072687,
     "wof:placetype":"locality",
@@ -63,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.69693999999998,
+    106.69694,
     -6.29194,
-    106.69693999999998,
+    106.69694,
     -6.29194
 ],
-  "geometry": {"coordinates":[106.69693999999998,-6.29194],"type":"Point"}
+  "geometry": {"coordinates":[106.69694,-6.29194],"type":"Point"}
 }

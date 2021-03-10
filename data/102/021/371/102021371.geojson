@@ -5,8 +5,8 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000002,
-    "geom:area_square_m":22887.205012,
-    "geom:bbox":"110.330200195,-7.8293709607,110.331573486,-7.82801046909",
+    "geom:area_square_m":22890.905935,
+    "geom:bbox":"110.3302,-7.829371,110.331573,-7.82801",
     "geom:latitude":-7.828691,
     "geom:longitude":110.330887,
     "gn:latitude":-7.82694,
@@ -55,7 +55,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"dac35ac78e817f3a0f8c94824682a644",
+    "wof:geomhash":"5e8c0eb71d6cb751793e7abcdc221bf0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -66,7 +66,14 @@
         }
     ],
     "wof:id":102021371,
-    "wof:lastmodified":1582353820,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614714054,
     "wof:name":"Kasihan",
     "wof:parent_id":102073313,
     "wof:placetype":"locality",
@@ -78,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.330200195,
-    -7.8293709607,
-    110.331573486,
-    -7.82801046909
+    110.3302,
+    -7.829371,
+    110.331573,
+    -7.82801
 ],
-  "geometry": {"coordinates":[[[110.330200195,-7.8293709607],[110.330200195,-7.82801046909],[110.331573486,-7.82801046909],[110.331573486,-7.8293709607],[110.330200195,-7.8293709607]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[110.3302,-7.829371],[110.3302,-7.82801],[110.33157300000001,-7.82801],[110.33157300000001,-7.829371],[110.3302,-7.829371]]],"type":"Polygon"}
 }

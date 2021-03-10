@@ -25,19 +25,20 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072947
+        102072947,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6256664
     },
     "wof:country":"ID",
-    "wof:geomhash":"01c99edfc86972254021234725e2bd55",
+    "wof:geomhash":"6a048613f7dac59bf21b6c6ab0de441e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +49,14 @@
         }
     ],
     "wof:id":1293874691,
-    "wof:lastmodified":1536726443,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614651197,
     "wof:name":"Kamplong",
     "wof:parent_id":102072947,
     "wof:placetype":"locality",
@@ -58,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.97693999999998,
+    110.97694,
     -7.87389,
-    110.97693999999998,
+    110.97694,
     -7.87389
 ],
-  "geometry": {"coordinates":[110.97693999999998,-7.87389],"type":"Point"}
+  "geometry": {"coordinates":[110.97694,-7.87389],"type":"Point"}
 }

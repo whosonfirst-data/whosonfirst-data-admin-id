@@ -25,19 +25,20 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072949
+        102072949,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1986227
     },
     "wof:country":"ID",
-    "wof:geomhash":"70896948f7d7858e4138c4002265d34d",
+    "wof:geomhash":"875a98d101791f9357e1729ef5d47734",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +49,14 @@
         }
     ],
     "wof:id":1326790769,
-    "wof:lastmodified":1536608774,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614633279,
     "wof:name":"Cigagak",
     "wof:parent_id":102072949,
     "wof:placetype":"locality",
@@ -58,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.71056000000002,
+    107.71056,
     -7.105,
-    107.71056000000002,
+    107.71056,
     -7.105
 ],
-  "geometry": {"coordinates":[107.71056000000002,-7.105],"type":"Point"}
+  "geometry": {"coordinates":[107.71056,-7.105],"type":"Point"}
 }

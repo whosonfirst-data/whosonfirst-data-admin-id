@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Rentangindah"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073515
+        102073515,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6401611
     },
     "wof:country":"ID",
-    "wof:geomhash":"306d65efb1c84f959f430cb9bcc38580",
+    "wof:geomhash":"898a1858607970a3f4bb0a20cc2ba72b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1309755885,
-    "wof:lastmodified":1537628845,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614642061,
     "wof:name":"Rentangindah",
     "wof:parent_id":102073515,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.23111000000002,
+    108.23111,
     -6.66167,
-    108.23111000000002,
+    108.23111,
     -6.66167
 ],
-  "geometry": {"coordinates":[108.23111000000002,-6.66167],"type":"Point"}
+  "geometry": {"coordinates":[108.23111,-6.66167],"type":"Point"}
 }

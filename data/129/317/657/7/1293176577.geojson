@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Fatumaka"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672037,
-        102073331
+        102073331,
+        85672037
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8393145
     },
     "wof:country":"ID",
-    "wof:geomhash":"9be2c9d823faa656fd6894c68de9d322",
+    "wof:geomhash":"87d2551ee72b10e599376b12b269c087",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1293176577,
-    "wof:lastmodified":1537635913,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614636503,
     "wof:name":"Fatumaka",
     "wof:parent_id":102073331,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    123.92931000000002,
+    123.92931,
     -10.29345,
-    123.92931000000002,
+    123.92931,
     -10.29345
 ],
-  "geometry": {"coordinates":[123.92931000000002,-10.29345],"type":"Point"}
+  "geometry": {"coordinates":[123.92931,-10.29345],"type":"Point"}
 }

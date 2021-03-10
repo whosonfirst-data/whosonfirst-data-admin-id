@@ -25,19 +25,20 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073217
+        102073217,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1986377
     },
     "wof:country":"ID",
-    "wof:geomhash":"41e74c42f5ae301a5ed7f35047bf0b63",
+    "wof:geomhash":"48ca8b63469b9fb75ce7986100ea00ba",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +49,14 @@
         }
     ],
     "wof:id":1276721849,
-    "wof:lastmodified":1536755408,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614651382,
     "wof:name":"Cipajung Selatan",
     "wof:parent_id":102073217,
     "wof:placetype":"locality",
@@ -58,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.82361000000002,
+    106.82361,
     -6.48722,
-    106.82361000000002,
+    106.82361,
     -6.48722
 ],
-  "geometry": {"coordinates":[106.82361000000002,-6.48722],"type":"Point"}
+  "geometry": {"coordinates":[106.82361,-6.48722],"type":"Point"}
 }

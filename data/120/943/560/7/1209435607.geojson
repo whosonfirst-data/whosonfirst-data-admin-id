@@ -26,13 +26,17 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:und_x_variant":[
         "Ngelo 3",
         "Ngelo Tiga"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102072983
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +46,24 @@
     "wof:geomhash":"4bcaa94112df1371d31c1e49ead0a53e",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209435607
+            "county_id":102072983,
+            "locality_id":1209435607,
+            "region_id":85671987
         }
     ],
     "wof:id":1209435607,
-    "wof:lastmodified":1537628115,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614717681,
     "wof:name":"Ngelo Tiga",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072983,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

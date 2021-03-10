@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Fumire"
     ],
@@ -35,15 +36,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672115,
-        102073423
+        102073423,
+        85672115
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8520144
     },
     "wof:country":"ID",
-    "wof:geomhash":"d15bfa932885141db793859350304c66",
+    "wof:geomhash":"399b862fd91d15993ddac1bc33c70750",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,7 +55,14 @@
         }
     ],
     "wof:id":1293144961,
-    "wof:lastmodified":1537636292,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614635866,
     "wof:name":"Fumire",
     "wof:parent_id":102073423,
     "wof:placetype":"locality",
@@ -64,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    138.44933999999998,
+    138.44934,
     -6.37815,
-    138.44933999999998,
+    138.44934,
     -6.37815
 ],
-  "geometry": {"coordinates":[138.44933999999998,-6.37815],"type":"Point"}
+  "geometry": {"coordinates":[138.44934000000001,-6.37815],"type":"Point"}
 }

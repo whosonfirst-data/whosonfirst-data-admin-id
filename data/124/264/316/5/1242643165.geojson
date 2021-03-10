@@ -25,19 +25,20 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        85672037,
-        102073481
+        102073481,
+        85672037
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1938572
     },
     "wof:country":"ID",
-    "wof:geomhash":"ee2ab1eec46f01f2641f836563658d52",
+    "wof:geomhash":"ff4637086f6e31cc3df157b6e862cd38",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +49,14 @@
         }
     ],
     "wof:id":1242643165,
-    "wof:lastmodified":1536969226,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614643437,
     "wof:name":"Subarukotaikun",
     "wof:parent_id":102073481,
     "wof:placetype":"locality",
@@ -58,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    124.87111000000002,
+    124.87111,
     -9.31389,
-    124.87111000000002,
+    124.87111,
     -9.31389
 ],
-  "geometry": {"coordinates":[124.87111000000002,-9.31389],"type":"Point"}
+  "geometry": {"coordinates":[124.87111,-9.31389],"type":"Point"}
 }

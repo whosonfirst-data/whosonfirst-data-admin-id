@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Kauman"
     ],
@@ -38,15 +39,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073187
+        102073187,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6566042
     },
     "wof:country":"ID",
-    "wof:geomhash":"6a1686ae7df4603b12c51fff9c920d6e",
+    "wof:geomhash":"449ddefa132795b46d43b7e6e5cb7d83",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -57,7 +58,14 @@
         }
     ],
     "wof:id":1293683433,
-    "wof:lastmodified":1564177965,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614635974,
     "wof:name":"Kauman",
     "wof:parent_id":102073187,
     "wof:placetype":"locality",
@@ -67,10 +75,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.85611000000002,
+    109.85611,
     -7.73778,
-    109.85611000000002,
+    109.85611,
     -7.73778
 ],
-  "geometry": {"coordinates":[109.85611000000002,-7.73778],"type":"Point"}
+  "geometry": {"coordinates":[109.85611,-7.73778],"type":"Point"}
 }

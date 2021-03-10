@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"106.8089,-6.1447,106.8089,-6.1447",
-    "geom:latitude":-6.1447,
-    "geom:longitude":106.8089,
+    "geom:area":0.000024,
+    "geom:area_square_m":290316.349899,
+    "geom:bbox":"106.806546,-6.148448,106.811177,-6.14143",
+    "geom:latitude":-6.144643,
+    "geom:longitude":106.808711,
     "gn:country":"ID",
     "gn:fcode":"PPL",
     "gn:pop":0,
@@ -53,14 +53,18 @@
     "qs:photos_sr":0,
     "qs:placetype":"Suburb",
     "qs:pop_sr":"0",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "unknown"
+    ],
     "src:population":"geonames",
     "wd:wordcount":82,
     "wof:belongsto":[
-        85672001,
         102191569,
         85632203,
         102020437,
-        102072841
+        102072841,
+        85672001
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -71,7 +75,10 @@
     },
     "wof:country":"ID",
     "wof:created":1469055185,
-    "wof:geomhash":"80db08569429669141717543f13c298c",
+    "wof:geom_alt":[
+        "unknown"
+    ],
+    "wof:geomhash":"0222e90ffa685cdbf8372a95ea8578d5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,7 +90,14 @@
         }
     ],
     "wof:id":890498685,
-    "wof:lastmodified":1564197053,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614744888,
     "wof:name":"Tambora",
     "wof:parent_id":102020437,
     "wof:placetype":"neighbourhood",
@@ -94,10 +108,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.8089,
-    -6.1447,
-    106.8089,
-    -6.1447
+    106.806546,
+    -6.148448,
+    106.811177,
+    -6.14143
 ],
-  "geometry": {"coordinates":[106.80889999999999,-6.1447],"type":"Point"}
+  "geometry": {"coordinates":[[[106.811177,-6.147023],[106.807299,-6.148448],[106.80723999999999,-6.147696],[106.806546,-6.141508],[106.807485,-6.14143],[106.810987,-6.141676],[106.810434,-6.142413],[106.810434,-6.144625],[106.811048,-6.146713],[106.811177,-6.147023]]],"type":"Polygon"}
 }

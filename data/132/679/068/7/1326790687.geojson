@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ara_x_preferred":[
         "\u0631\u0628\u0639\u0648"
     ],
@@ -44,8 +45,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073505
+        102073505,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,7 +64,14 @@
         }
     ],
     "wof:id":1326790687,
-    "wof:lastmodified":1564169967,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614650045,
     "wof:name":"Rabu",
     "wof:parent_id":102073505,
     "wof:placetype":"locality",

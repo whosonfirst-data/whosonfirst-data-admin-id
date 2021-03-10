@@ -26,6 +26,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ginaroe",
         "Ginaru"
@@ -34,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672067,
-        102073049
+        102073049,
+        85672067
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1644063
     },
     "wof:country":"ID",
-    "wof:geomhash":"63a41a4e4e336717446ea85482ee2558",
+    "wof:geomhash":"a308517c53c92461fa2b4085016bfe40",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +54,14 @@
         }
     ],
     "wof:id":1243568841,
-    "wof:lastmodified":1537627110,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614643068,
     "wof:name":"Ginaru",
     "wof:parent_id":102073049,
     "wof:placetype":"locality",
@@ -63,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    132.66666999999998,
+    132.66667,
     -3.03333,
-    132.66666999999998,
+    132.66667,
     -3.03333
 ],
-  "geometry": {"coordinates":[132.66666999999998,-3.03333],"type":"Point"}
+  "geometry": {"coordinates":[132.66667000000001,-3.03333],"type":"Point"}
 }

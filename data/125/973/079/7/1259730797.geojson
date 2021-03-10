@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Gobeltien"
     ],
@@ -35,15 +36,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672097,
-        1108796827
+        1108796827,
+        85672097
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8516335
     },
     "wof:country":"ID",
-    "wof:geomhash":"c415ec9d464aadd1d27f00930355b90c",
+    "wof:geomhash":"4fd1ff4d392f5fece720f311447ca177",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,7 +55,14 @@
         }
     ],
     "wof:id":1259730797,
-    "wof:lastmodified":1537636289,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614644470,
     "wof:name":"Gobelfien",
     "wof:parent_id":1108796827,
     "wof:placetype":"locality",
@@ -64,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    134.65008999999998,
+    134.65009,
     -5.62017,
-    134.65008999999998,
+    134.65009,
     -5.62017
 ],
-  "geometry": {"coordinates":[134.65008999999998,-5.62017],"type":"Point"}
+  "geometry": {"coordinates":[134.65009000000001,-5.62017],"type":"Point"}
 }

@@ -26,6 +26,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Krobjokan",
         "Krobyokan"
@@ -34,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102073017
+        102073017,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1972241
     },
     "wof:country":"ID",
-    "wof:geomhash":"c744c736f9834b466cb62d668dc052b3",
+    "wof:geomhash":"a2350792810f2c05586ace278eaaf81e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +54,14 @@
         }
     ],
     "wof:id":1259964731,
-    "wof:lastmodified":1537628074,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614643783,
     "wof:name":"Krobyokan",
     "wof:parent_id":102073017,
     "wof:placetype":"locality",
@@ -63,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    112.58138999999998,
+    112.58139,
     -7.98917,
-    112.58138999999998,
+    112.58139,
     -7.98917
 ],
-  "geometry": {"coordinates":[112.58138999999998,-7.98917],"type":"Point"}
+  "geometry": {"coordinates":[112.58139,-7.98917],"type":"Point"}
 }

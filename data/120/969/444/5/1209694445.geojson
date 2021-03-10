@@ -25,26 +25,40 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672093,
+        102073189
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6255242
     },
     "wof:country":"ID",
-    "wof:geomhash":"93a83b97116f0efdba076595030ecbc7",
+    "wof:geomhash":"c74a4e754bdb266a625506cb41635486",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209694445
+            "county_id":102073189,
+            "locality_id":1209694445,
+            "region_id":85672093
         }
     ],
     "wof:id":1209694445,
-    "wof:lastmodified":1536279125,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614719082,
     "wof:name":"Salam",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073189,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
@@ -53,9 +67,9 @@
 },
   "bbox": [
     110.755,
-    -7.973330000000002,
+    -7.97333,
     110.755,
-    -7.973330000000002
+    -7.97333
 ],
   "geometry": {"coordinates":[110.755,-7.97333],"type":"Point"}
 }

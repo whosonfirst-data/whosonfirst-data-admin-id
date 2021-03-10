@@ -25,19 +25,20 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073265
+        102073265,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6258093
     },
     "wof:country":"ID",
-    "wof:geomhash":"cbbfb53f5cf92bfcb45e56b945af7789",
+    "wof:geomhash":"5db513f2ac77496d417b2d6d4a1642a6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +49,14 @@
         }
     ],
     "wof:id":1209811699,
-    "wof:lastmodified":1536386142,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614652388,
     "wof:name":"Tekik",
     "wof:parent_id":102073265,
     "wof:placetype":"locality",
@@ -58,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.35611000000002,
+    110.35611,
     -7.65472,
-    110.35611000000002,
+    110.35611,
     -7.65472
 ],
-  "geometry": {"coordinates":[110.35611000000002,-7.65472],"type":"Point"}
+  "geometry": {"coordinates":[110.35611,-7.65472],"type":"Point"}
 }

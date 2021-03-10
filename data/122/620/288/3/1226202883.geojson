@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Cipicung"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073471
+        102073471,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6591025
     },
     "wof:country":"ID",
-    "wof:geomhash":"b831f7140d37138233a95b638c7ef150",
+    "wof:geomhash":"20f3828d275b4162f80805446977c983",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1226202883,
-    "wof:lastmodified":1537629683,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614644942,
     "wof:name":"Cipicung",
     "wof:parent_id":102073471,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.32193999999998,
+    107.32194,
     -6.70139,
-    107.32193999999998,
+    107.32194,
     -6.70139
 ],
-  "geometry": {"coordinates":[107.32193999999998,-6.70139],"type":"Point"}
+  "geometry": {"coordinates":[107.32194,-6.70139],"type":"Point"}
 }

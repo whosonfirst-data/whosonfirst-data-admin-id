@@ -25,19 +25,20 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        85671995,
-        102072687
+        102072687,
+        85671995
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1990869
     },
     "wof:country":"ID",
-    "wof:geomhash":"9fb3bf250210633cc8f2e9c8be10029e",
+    "wof:geomhash":"19201dd7614982f7b66ebd68cdad6342",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +49,14 @@
         }
     ],
     "wof:id":1259443051,
-    "wof:lastmodified":1536917599,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614644561,
     "wof:name":"Kondang",
     "wof:parent_id":102072687,
     "wof:placetype":"locality",
@@ -58,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.56638999999998,
+    106.56639,
     -6.09028,
-    106.56638999999998,
+    106.56639,
     -6.09028
 ],
-  "geometry": {"coordinates":[106.56638999999998,-6.09028],"type":"Point"}
+  "geometry": {"coordinates":[106.56639,-6.09028],"type":"Point"}
 }

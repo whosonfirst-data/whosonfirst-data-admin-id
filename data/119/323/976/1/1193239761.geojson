@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Kaimer"
     ],
@@ -35,8 +36,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672097,
-        1108796845
+        1108796845,
+        85672097
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,7 +55,14 @@
         }
     ],
     "wof:id":1193239761,
-    "wof:lastmodified":1537627398,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614639436,
     "wof:name":"Kaimer",
     "wof:parent_id":1108796845,
     "wof:placetype":"locality",

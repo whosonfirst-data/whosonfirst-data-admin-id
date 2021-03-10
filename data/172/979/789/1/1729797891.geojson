@@ -1,0 +1,72 @@
+{
+  "id": 1729797891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000035,
+    "geom:area_square_m":428034.033329,
+    "geom:bbox":"112.740931,-7.234091,112.746537,-7.225122",
+    "geom:latitude":-7.229051,
+    "geom:longitude":112.7434,
+    "iso:country":"ID",
+    "lbl:latitude":-7.229138,
+    "lbl:longitude":112.74368,
+    "mps:latitude":-7.229138,
+    "mps:longitude":112.74368,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Ampel"
+    ],
+    "name:ind_x_preferred":[
+        "Ampel"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        102018911,
+        102073397,
+        85672027
+    ],
+    "wof:breaches":[],
+    "wof:country":"ID",
+    "wof:created":1613065527,
+    "wof:geomhash":"81defe0ad7a2fe19efb804d29555d162",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102073397,
+            "locality_id":102018911,
+            "neighbourhood_id":1729797891,
+            "region_id":85672027
+        }
+    ],
+    "wof:id":1729797891,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614723230,
+    "wof:name":"Ampel",
+    "wof:parent_id":102018911,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    112.740931,
+    -7.234091,
+    112.746537,
+    -7.225122
+],
+  "geometry": {"coordinates":[[[112.742847,-7.234091],[112.74118799999999,-7.23366],[112.74112700000001,-7.231388],[112.741495,-7.22893],[112.741311,-7.227149],[112.740931,-7.225332],[112.741004,-7.225367],[112.74260099999999,-7.225122],[112.744383,-7.22549],[112.745857,-7.22549],[112.746348,-7.226412],[112.746537,-7.226475],[112.745673,-7.230159],[112.742847,-7.234091]]],"type":"Polygon"}
+}

@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Ulat"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672097,
-        1108796833
+        1108796833,
+        85672097
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8043985
     },
     "wof:country":"ID",
-    "wof:geomhash":"3bddbc896eef506619abad5a4e59dcb8",
+    "wof:geomhash":"3d623c9850e3e6419ab054449b5ef1fb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1343508493,
-    "wof:lastmodified":1537635111,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614634578,
     "wof:name":"Ulat",
     "wof:parent_id":1108796833,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    128.71708999999998,
+    128.71709,
     -3.60446,
-    128.71708999999998,
+    128.71709,
     -3.60446
 ],
-  "geometry": {"coordinates":[128.71708999999998,-3.60446],"type":"Point"}
+  "geometry": {"coordinates":[128.71709000000001,-3.60446],"type":"Point"}
 }

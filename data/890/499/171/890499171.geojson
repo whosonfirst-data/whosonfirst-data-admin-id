@@ -16,6 +16,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "qs:name":"Melinggih Kelod",
     "qs:name_adm0":"Indonesia",
     "qs:name_adm1":"Bali",
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672023,
-        102073127
+        102073127,
+        85672023
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,7 +54,14 @@
         }
     ],
     "wof:id":890499171,
-    "wof:lastmodified":1505343836,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614653731,
     "wof:name":"Melinggih Kelod",
     "wof:parent_id":102073127,
     "wof:placetype":"locality",

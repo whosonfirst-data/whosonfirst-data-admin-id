@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"100.416650756,-0.449599183254,100.416650756,-0.449599183254",
+    "geom:bbox":"100.416651,-0.449599,100.416651,-0.449599",
     "geom:latitude":-0.449599,
     "geom:longitude":100.416651,
     "iso:country":"ID",
@@ -14,6 +14,7 @@
     "lbl:longitude":100.416651,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:ace_x_preferred":[
         "Padang Panjang"
     ],
@@ -344,8 +345,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672087,
-        102073501
+        102073501,
+        85672087
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -353,7 +354,7 @@
     },
     "wof:country":"ID",
     "wof:created":1499130735,
-    "wof:geomhash":"ebc21b397ec6eb6bff729018c7d827bd",
+    "wof:geomhash":"fbb697eb97a875f2a6fff3ef02d20590",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -364,7 +365,14 @@
         }
     ],
     "wof:id":1141907513,
-    "wof:lastmodified":1563285012,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614654949,
     "wof:name":"Padangpanjang",
     "wof:parent_id":102073501,
     "wof:placetype":"locality",
@@ -374,10 +382,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    100.41665075582307,
-    -0.44959918325361,
-    100.41665075582307,
-    -0.44959918325361
+    100.416651,
+    -0.449599,
+    100.416651,
+    -0.449599
 ],
-  "geometry": {"coordinates":[100.41665075582307,-0.44959918325361],"type":"Point"}
+  "geometry": {"coordinates":[100.416651,-0.449599],"type":"Point"}
 }

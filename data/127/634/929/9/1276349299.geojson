@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Kampung Pipa"
     ],
@@ -35,8 +36,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671973,
-        102073525
+        102073525,
+        85671973
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,7 +55,14 @@
         }
     ],
     "wof:id":1276349299,
-    "wof:lastmodified":1537630594,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614637096,
     "wof:name":"Kampung Pipa",
     "wof:parent_id":102073525,
     "wof:placetype":"locality",

@@ -25,19 +25,20 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072857
+        102072857,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6198855
     },
     "wof:country":"ID",
-    "wof:geomhash":"c89a3486f945eb57f67dc5fbaca254b3",
+    "wof:geomhash":"0a937294f91c08623c62e4fdb716c2e5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +49,14 @@
         }
     ],
     "wof:id":1343451877,
-    "wof:lastmodified":1536758782,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614635015,
     "wof:name":"Jetis",
     "wof:parent_id":102072857,
     "wof:placetype":"locality",
@@ -58,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.17638999999998,
+    110.17639,
     -7.38778,
-    110.17638999999998,
+    110.17639,
     -7.38778
 ],
-  "geometry": {"coordinates":[110.17638999999998,-7.38778],"type":"Point"}
+  "geometry": {"coordinates":[110.17639,-7.38778],"type":"Point"}
 }

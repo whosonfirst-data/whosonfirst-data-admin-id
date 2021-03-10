@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Leumur"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073529
+        102073529,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6579477
     },
     "wof:country":"ID",
-    "wof:geomhash":"db58e27090a483ced58e5b6fdd06f7cd",
+    "wof:geomhash":"7b59d7d30f72a2fc23ea82977c04c675",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1226202743,
-    "wof:lastmodified":1537629428,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614654605,
     "wof:name":"Leumur",
     "wof:parent_id":102073529,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.16861000000002,
+    107.16861,
     -6.84611,
-    107.16861000000002,
+    107.16861,
     -6.84611
 ],
-  "geometry": {"coordinates":[107.16861000000002,-6.84611],"type":"Point"}
+  "geometry": {"coordinates":[107.16861,-6.84611],"type":"Point"}
 }

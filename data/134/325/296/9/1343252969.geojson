@@ -25,19 +25,20 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073233
+        102073233,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2008778
     },
     "wof:country":"ID",
-    "wof:geomhash":"ce825c3e973ef7cc833cc04f33191899",
+    "wof:geomhash":"98ad9665ff5410ec334a684f78de0576",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +49,14 @@
         }
     ],
     "wof:id":1343252969,
-    "wof:lastmodified":1537043958,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614650434,
     "wof:name":"Keringan",
     "wof:parent_id":102073233,
     "wof:placetype":"locality",
@@ -58,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.64943999999998,
+    110.64944,
     -7.71417,
-    110.64943999999998,
+    110.64944,
     -7.71417
 ],
-  "geometry": {"coordinates":[110.64943999999998,-7.71417],"type":"Point"}
+  "geometry": {"coordinates":[110.64944,-7.71417],"type":"Point"}
 }

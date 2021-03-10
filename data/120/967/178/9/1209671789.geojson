@@ -25,29 +25,43 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:por_x_preferred":[
         "Adia"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672105,
+        102072877
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1974297
     },
     "wof:country":"ID",
-    "wof:geomhash":"27b891f56d6b5097dbd0512f85232be0",
+    "wof:geomhash":"7e08b44507e20625b8c9032357d9fcb9",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209671789
+            "county_id":102072877,
+            "locality_id":1209671789,
+            "region_id":85672105
         }
     ],
     "wof:id":1209671789,
-    "wof:lastmodified":1564186112,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614716952,
     "wof:name":"Adia",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072877,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
@@ -55,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    122.50943999999998,
+    122.50944,
     -3.97111,
-    122.50943999999998,
+    122.50944,
     -3.97111
 ],
-  "geometry": {"coordinates":[122.50943999999998,-3.97111],"type":"Point"}
+  "geometry": {"coordinates":[122.50944,-3.97111],"type":"Point"}
 }

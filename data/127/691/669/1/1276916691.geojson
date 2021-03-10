@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Djangkareumenes",
         "Jangkareunmenes",
@@ -34,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671995,
-        102073053
+        102073053,
+        85671995
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1642803
     },
     "wof:country":"ID",
-    "wof:geomhash":"2f73ab0dd7907681344838752bc86384",
+    "wof:geomhash":"d1628eb8cc95e4b48c07561c97ad7ff8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +54,14 @@
         }
     ],
     "wof:id":1276916691,
-    "wof:lastmodified":1537627074,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614637835,
     "wof:name":"Jangkareunmenes",
     "wof:parent_id":102073053,
     "wof:placetype":"locality",
@@ -63,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    105.90066000000002,
+    105.90066,
     -6.4381,
-    105.90066000000002,
+    105.90066,
     -6.4381
 ],
-  "geometry": {"coordinates":[105.90066000000002,-6.4381],"type":"Point"}
+  "geometry": {"coordinates":[105.90066,-6.4381],"type":"Point"}
 }

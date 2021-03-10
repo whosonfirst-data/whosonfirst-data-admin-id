@@ -25,19 +25,20 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072733
+        102072733,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1935238
     },
     "wof:country":"ID",
-    "wof:geomhash":"581049efe34e787f42237f0f7cd194f8",
+    "wof:geomhash":"9ceba7e3c6ecf824251d945ce2dffe43",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +49,14 @@
         }
     ],
     "wof:id":1209937135,
-    "wof:lastmodified":1536390139,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614652204,
     "wof:name":"Kopaan",
     "wof:parent_id":102072733,
     "wof:placetype":"locality",
@@ -58,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.89806000000002,
+    110.89806,
     -7.525,
-    110.89806000000002,
+    110.89806,
     -7.525
 ],
-  "geometry": {"coordinates":[110.89806000000002,-7.525],"type":"Point"}
+  "geometry": {"coordinates":[110.89806,-7.525],"type":"Point"}
 }

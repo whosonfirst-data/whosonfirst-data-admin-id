@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kedungdowo",
         "Kedungrowo"
@@ -33,15 +34,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072983
+        102072983,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1972907
     },
     "wof:country":"ID",
-    "wof:geomhash":"521f375638015882bec8814c28f24134",
+    "wof:geomhash":"85e4b819731c605c12574603f3ad082f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,7 +53,14 @@
         }
     ],
     "wof:id":1242598431,
-    "wof:lastmodified":1537628098,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614642622,
     "wof:name":"Kedungrowo",
     "wof:parent_id":102072983,
     "wof:placetype":"locality",
@@ -62,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.69138999999998,
+    110.69139,
     -7.31333,
-    110.69138999999998,
+    110.69139,
     -7.31333
 ],
-  "geometry": {"coordinates":[110.69138999999998,-7.31333],"type":"Point"}
+  "geometry": {"coordinates":[110.69139,-7.31333],"type":"Point"}
 }

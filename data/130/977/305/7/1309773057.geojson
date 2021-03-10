@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Nagori"
     ],
@@ -41,8 +42,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672073,
-        102073263
+        102073263,
+        85672073
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,7 +61,14 @@
         }
     ],
     "wof:id":1309773057,
-    "wof:lastmodified":1564195728,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614641728,
     "wof:name":"Nagori",
     "wof:parent_id":102073263,
     "wof:placetype":"locality",

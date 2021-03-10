@@ -17,6 +17,7 @@
     "lbl:longitude":102.13333,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:deu_x_preferred":[
         "Bengkalis"
@@ -63,8 +64,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672077,
-        1108796903
+        1108796903,
+        85672077
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -85,7 +86,14 @@
         }
     ],
     "wof:id":1125865943,
-    "wof:lastmodified":1564197374,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614653776,
     "wof:name":"Bengkalis",
     "wof:parent_id":1108796903,
     "wof:placetype":"locality",

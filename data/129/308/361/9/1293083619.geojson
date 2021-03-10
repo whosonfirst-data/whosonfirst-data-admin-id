@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fas_x_preferred":[
         "\u0622\u0646\u06af\u0644\u0648"
     ],
@@ -41,8 +42,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672009,
-        1108796809
+        1108796809,
+        85672009
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,7 +61,14 @@
         }
     ],
     "wof:id":1293083619,
-    "wof:lastmodified":1564176238,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614635382,
     "wof:name":"Anglo",
     "wof:parent_id":1108796809,
     "wof:placetype":"locality",

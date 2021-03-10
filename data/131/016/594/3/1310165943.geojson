@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-03-01",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -24,20 +25,20 @@
     "gn:timezone":"Asia/Jakarta",
     "iso:country":"ID",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        85671995,
-        102072687
+        102072687,
+        85671995
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1987245
     },
     "wof:country":"ID",
-    "wof:geomhash":"203b7f35788d67d5b2f3edc5a4ba3e35",
+    "wof:geomhash":"8a690ebb7d21c0b2e600c227aed579eb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +49,14 @@
         }
     ],
     "wof:id":1310165943,
-    "wof:lastmodified":1536909839,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614708086,
     "wof:name":"Ciledug Selatan",
     "wof:parent_id":102072687,
     "wof:placetype":"locality",
@@ -58,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.72556000000002,
+    106.72556,
     -6.33306,
-    106.72556000000002,
+    106.72556,
     -6.33306
 ],
-  "geometry": {"coordinates":[106.72556000000002,-6.33306],"type":"Point"}
+  "geometry": {"coordinates":[106.72556,-6.33306],"type":"Point"}
 }

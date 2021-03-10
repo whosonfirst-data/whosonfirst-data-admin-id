@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Kalimnyawuk"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072819
+        102072819,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6384480
     },
     "wof:country":"ID",
-    "wof:geomhash":"5f2c4125e61384717d893944614eae25",
+    "wof:geomhash":"62979dbcba1bb912badf5067a3ac9c11",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1293095069,
-    "wof:lastmodified":1537628579,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614635271,
     "wof:name":"Kalimnyawuk",
     "wof:parent_id":102072819,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.98888999999998,
+    108.98889,
     -7.54833,
-    108.98888999999998,
+    108.98889,
     -7.54833
 ],
-  "geometry": {"coordinates":[108.98888999999998,-7.54833],"type":"Point"}
+  "geometry": {"coordinates":[108.98889,-7.54833],"type":"Point"}
 }

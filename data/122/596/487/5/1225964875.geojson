@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Versapper"
     ],
@@ -137,15 +138,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073169
+        102073169,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6563770
     },
     "wof:country":"ID",
-    "wof:geomhash":"615f1aa4aa3aee96e679475d9fc4c32b",
+    "wof:geomhash":"e4749d70e2a497e21945e6e9b76dbc2f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -156,7 +157,14 @@
         }
     ],
     "wof:id":1225964875,
-    "wof:lastmodified":1564206807,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614645408,
     "wof:name":"Blender",
     "wof:parent_id":102073169,
     "wof:placetype":"locality",
@@ -166,10 +174,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.21193999999998,
+    110.21194,
     -7.20111,
-    110.21193999999998,
+    110.21194,
     -7.20111
 ],
-  "geometry": {"coordinates":[110.21193999999998,-7.20111],"type":"Point"}
+  "geometry": {"coordinates":[110.21194,-7.20111],"type":"Point"}
 }

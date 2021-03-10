@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Mandalawangi"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073449
+        102073449,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6593260
     },
     "wof:country":"ID",
-    "wof:geomhash":"9d63fd4033564d8ee26734c8e71fa916",
+    "wof:geomhash":"e95b71910a1d8bf93994fd7dea08a23a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1344008023,
-    "wof:lastmodified":1537629758,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614650348,
     "wof:name":"Mandalawangi",
     "wof:parent_id":102073449,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.71056000000002,
+    107.71056,
     -6.91472,
-    107.71056000000002,
+    107.71056,
     -6.91472
 ],
-  "geometry": {"coordinates":[107.71056000000002,-6.91472],"type":"Point"}
+  "geometry": {"coordinates":[107.71056,-6.91472],"type":"Point"}
 }

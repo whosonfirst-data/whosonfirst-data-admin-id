@@ -1,0 +1,72 @@
+{
+  "id": 1729797907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000042,
+    "geom:area_square_m":510855.374682,
+    "geom:bbox":"112.731052,-7.234091,112.738301,-7.223987",
+    "geom:latitude":-7.229072,
+    "geom:longitude":112.735282,
+    "iso:country":"ID",
+    "lbl:latitude":-7.228258,
+    "lbl:longitude":112.735639,
+    "mps:latitude":-7.228258,
+    "mps:longitude":112.735639,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Krembangan Utara"
+    ],
+    "name:ind_x_preferred":[
+        "Krembangan Utara"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        102018911,
+        102073397,
+        85672027
+    ],
+    "wof:breaches":[],
+    "wof:country":"ID",
+    "wof:created":1613065532,
+    "wof:geomhash":"39b817bac007f6088738627e474914d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102073397,
+            "locality_id":102018911,
+            "neighbourhood_id":1729797907,
+            "region_id":85672027
+        }
+    ],
+    "wof:id":1729797907,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614723236,
+    "wof:name":"Krembangan Utara",
+    "wof:parent_id":102018911,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    112.731052,
+    -7.234091,
+    112.738301,
+    -7.223987
+],
+  "geometry": {"coordinates":[[[112.73105200000001,-7.232616],[112.734247,-7.225429],[112.73819899999999,-7.223987],[112.73830100000001,-7.23194],[112.735045,-7.230712],[112.73406199999999,-7.232432],[112.735659,-7.232432],[112.73535200000001,-7.234091],[112.73105200000001,-7.232616]]],"type":"Polygon"}
+}

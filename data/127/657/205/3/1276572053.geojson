@@ -25,19 +25,20 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073169
+        102073169,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6200476
     },
     "wof:country":"ID",
-    "wof:geomhash":"b5b078853ad6953d045e8a03ea1614db",
+    "wof:geomhash":"8dd491c96b41bb1484123a96db2ff8a9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +49,14 @@
         }
     ],
     "wof:id":1276572053,
-    "wof:lastmodified":1536956434,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614651614,
     "wof:name":"Wonokerso Wetan",
     "wof:parent_id":102073169,
     "wof:placetype":"locality",
@@ -58,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.19861000000002,
+    110.19861,
     -7.35917,
-    110.19861000000002,
+    110.19861,
     -7.35917
 ],
-  "geometry": {"coordinates":[110.19861000000002,-7.35917],"type":"Point"}
+  "geometry": {"coordinates":[110.19861,-7.35917],"type":"Point"}
 }

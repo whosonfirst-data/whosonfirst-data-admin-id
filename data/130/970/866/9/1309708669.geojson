@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Pringwatang Wetan"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072947
+        102072947,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6371672
     },
     "wof:country":"ID",
-    "wof:geomhash":"2ed50fb666ab6edcd40e5fbba3678fb0",
+    "wof:geomhash":"d11c6e4ea15ad2fea1bd46aec5af0586",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1309708669,
-    "wof:lastmodified":1537628350,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614641750,
     "wof:name":"Pringwatang Wetan",
     "wof:parent_id":102072947,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.80861000000002,
+    110.80861,
     -8.09667,
-    110.80861000000002,
+    110.80861,
     -8.09667
 ],
-  "geometry": {"coordinates":[110.80861000000002,-8.09667],"type":"Point"}
+  "geometry": {"coordinates":[110.80861,-8.09667],"type":"Point"}
 }

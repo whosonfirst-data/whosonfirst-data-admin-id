@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Umbulan Pager Satu"
     ],
@@ -33,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672009,
+        102072943
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +47,24 @@
     "wof:geomhash":"0b0e88c7c13395fc03f42059f16c7ffd",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209497737
+            "county_id":102072943,
+            "locality_id":1209497737,
+            "region_id":85672009
         }
     ],
     "wof:id":1209497737,
-    "wof:lastmodified":1537635657,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614717383,
     "wof:name":"Umbulan Pager Satu",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072943,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Sigogor"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072759
+        102072759,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6562004
     },
     "wof:country":"ID",
-    "wof:geomhash":"a2387e00adad7ee9f60295b6d3a44cc3",
+    "wof:geomhash":"9a954830c4d775283ab414cf93704e1e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1226333373,
-    "wof:lastmodified":1537629173,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614645003,
     "wof:name":"Sigogor",
     "wof:parent_id":102072759,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.33556000000002,
+    109.33556,
     -7.18111,
-    109.33556000000002,
+    109.33556,
     -7.18111
 ],
-  "geometry": {"coordinates":[109.33556000000002,-7.18111],"type":"Point"}
+  "geometry": {"coordinates":[109.33556,-7.18111],"type":"Point"}
 }

@@ -16,6 +16,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Ambal"
     ],
@@ -49,8 +50,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073153
+        102073153,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,7 +74,14 @@
         }
     ],
     "wof:id":890498851,
-    "wof:lastmodified":1563273885,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614642143,
     "wof:name":"Ambal",
     "wof:parent_id":102073153,
     "wof:placetype":"locality",

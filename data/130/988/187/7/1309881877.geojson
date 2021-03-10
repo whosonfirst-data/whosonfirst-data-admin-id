@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Baktijaya"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672103,
-        102072655
+        102072655,
+        85672103
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8458399
     },
     "wof:country":"ID",
-    "wof:geomhash":"3eca88f28f0548e6ab5e93f30846215e",
+    "wof:geomhash":"898fc3174c58b2978a8b8aa02ffbe487",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1309881877,
-    "wof:lastmodified":1537636223,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614642037,
     "wof:name":"Baktijaya",
     "wof:parent_id":102072655,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    117.13136000000002,
+    117.13136,
     -8.76608,
-    117.13136000000002,
+    117.13136,
     -8.76608
 ],
-  "geometry": {"coordinates":[117.13136000000002,-8.76608],"type":"Point"}
+  "geometry": {"coordinates":[117.13136,-8.76608],"type":"Point"}
 }

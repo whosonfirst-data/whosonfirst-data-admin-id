@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Simpang Empat"
     ],
@@ -41,8 +42,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672073,
-        102073107
+        102073107,
+        85672073
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,7 +61,14 @@
         }
     ],
     "wof:id":1276772401,
-    "wof:lastmodified":1564182928,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614651766,
     "wof:name":"Simpang Empat",
     "wof:parent_id":102073107,
     "wof:placetype":"locality",

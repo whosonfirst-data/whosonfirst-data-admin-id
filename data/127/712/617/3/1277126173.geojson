@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Pasirmasigit"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072739
+        102072739,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6580716
     },
     "wof:country":"ID",
-    "wof:geomhash":"bf71c2c5a9b9ceebecc4c917e56c31f0",
+    "wof:geomhash":"5365d60cd5a6591db31ffb10dcd89452",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1277126173,
-    "wof:lastmodified":1537629450,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614637376,
     "wof:name":"Pasirmasigit",
     "wof:parent_id":102072739,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.85611000000002,
+    107.85611,
     -6.79972,
-    107.85611000000002,
+    107.85611,
     -6.79972
 ],
-  "geometry": {"coordinates":[107.85611000000002,-6.79972],"type":"Point"}
+  "geometry": {"coordinates":[107.85611,-6.79972],"type":"Point"}
 }

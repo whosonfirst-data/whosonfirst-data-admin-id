@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bak_x_preferred":[
         "\u0410\u0443\u043c\u0430"
     ],
@@ -92,8 +93,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672111,
-        1108796935
+        1108796935,
+        85672111
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -111,7 +112,14 @@
         }
     ],
     "wof:id":1192977375,
-    "wof:lastmodified":1564188807,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614639611,
     "wof:name":"Auma",
     "wof:parent_id":1108796935,
     "wof:placetype":"locality",

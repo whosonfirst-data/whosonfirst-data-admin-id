@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Rawasari"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072937
+        102072937,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6607185
     },
     "wof:country":"ID",
-    "wof:geomhash":"954e0fac3d7259f66f94672389cee35a",
+    "wof:geomhash":"d4f9560a26b0f67aeaab1b6cf85a6c4a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1226491889,
-    "wof:lastmodified":1537630137,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614645517,
     "wof:name":"Rawasari",
     "wof:parent_id":102072937,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.37888999999998,
+    107.37889,
     -6.22194,
-    107.37888999999998,
+    107.37889,
     -6.22194
 ],
-  "geometry": {"coordinates":[107.37888999999998,-6.22194],"type":"Point"}
+  "geometry": {"coordinates":[107.37889,-6.22194],"type":"Point"}
 }

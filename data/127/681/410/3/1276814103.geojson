@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Pasundan"
     ],
@@ -44,15 +45,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073449
+        102073449,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6598827
     },
     "wof:country":"ID",
-    "wof:geomhash":"279ab84e20b2fac705608332884f703b",
+    "wof:geomhash":"ee66ea03670e64fa8a0df195659f45a1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -63,7 +64,14 @@
         }
     ],
     "wof:id":1276814103,
-    "wof:lastmodified":1564180393,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614651408,
     "wof:name":"Pasundan",
     "wof:parent_id":102073449,
     "wof:placetype":"locality",
@@ -73,10 +81,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.60611000000002,
+    107.60611,
     -6.92639,
-    107.60611000000002,
+    107.60611,
     -6.92639
 ],
-  "geometry": {"coordinates":[107.60611000000002,-6.92639],"type":"Point"}
+  "geometry": {"coordinates":[107.60611,-6.92639],"type":"Point"}
 }

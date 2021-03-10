@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Suka"
     ],
@@ -59,8 +60,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672041,
-        102073115
+        102073115,
+        85672041
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -78,7 +79,14 @@
         }
     ],
     "wof:id":1326672605,
-    "wof:lastmodified":1564168274,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614632700,
     "wof:name":"Suka",
     "wof:parent_id":102073115,
     "wof:placetype":"locality",

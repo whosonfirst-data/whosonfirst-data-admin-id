@@ -17,6 +17,7 @@
     "lbl:longitude":119.7402,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ind_x_preferred":[
         "Donggala"
@@ -51,8 +52,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672111,
-        102073413
+        102073413,
+        85672111
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,7 +74,14 @@
         }
     ],
     "wof:id":1125965865,
-    "wof:lastmodified":1509403651,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614653777,
     "wof:name":"Donggala",
     "wof:parent_id":102073413,
     "wof:placetype":"locality",

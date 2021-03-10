@@ -25,19 +25,20 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073233
+        102073233,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1999046
     },
     "wof:country":"ID",
-    "wof:geomhash":"afa2aab94fae7b60deefd77ceaa5e895",
+    "wof:geomhash":"759a14b3ed8efd7c9b7802eb254374a6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +49,14 @@
         }
     ],
     "wof:id":1226770635,
-    "wof:lastmodified":1536679741,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614654827,
     "wof:name":"Ponjongan",
     "wof:parent_id":102073233,
     "wof:placetype":"locality",
@@ -58,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.60611000000002,
+    110.60611,
     -7.78,
-    110.60611000000002,
+    110.60611,
     -7.78
 ],
-  "geometry": {"coordinates":[110.60611000000002,-7.78],"type":"Point"}
+  "geometry": {"coordinates":[110.60611,-7.78],"type":"Point"}
 }

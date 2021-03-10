@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Tamelang"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073529
+        102073529,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6579558
     },
     "wof:country":"ID",
-    "wof:geomhash":"28f318b7d57e6987c7d5cbcf970ba346",
+    "wof:geomhash":"0c172cf41fee75a1479479d13ac576dd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1276937429,
-    "wof:lastmodified":1537629432,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614651562,
     "wof:name":"Tamelang",
     "wof:parent_id":102073529,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.24611000000002,
+    107.24611,
     -6.85194,
-    107.24611000000002,
+    107.24611,
     -6.85194
 ],
-  "geometry": {"coordinates":[107.24611000000002,-6.85194],"type":"Point"}
+  "geometry": {"coordinates":[107.24611,-6.85194],"type":"Point"}
 }

@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u062c\u0631"
     ],
@@ -119,15 +120,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073189
+        102073189,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2002544
     },
     "wof:country":"ID",
-    "wof:geomhash":"47dc840b99889f6547fcadc63e04408f",
+    "wof:geomhash":"5b603b2b4d790a1631a1e1f7bc646f3b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -138,7 +139,14 @@
         }
     ],
     "wof:id":1360281185,
-    "wof:lastmodified":1564195159,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614641539,
     "wof:name":"Pager",
     "wof:parent_id":102073189,
     "wof:placetype":"locality",
@@ -148,10 +156,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.57361000000002,
+    110.57361,
     -7.92472,
-    110.57361000000002,
+    110.57361,
     -7.92472
 ],
-  "geometry": {"coordinates":[110.57361000000002,-7.92472],"type":"Point"}
+  "geometry": {"coordinates":[110.57361,-7.92472],"type":"Point"}
 }

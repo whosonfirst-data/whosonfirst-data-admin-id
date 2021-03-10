@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u0995\u09be\u09a8\u09cd\u09a6\u09cd\u09b0\u09bf"
     ],
@@ -63,24 +64,37 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672093,
+        102073189
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6564719
     },
     "wof:country":"ID",
-    "wof:geomhash":"bd024fb7d36f0f88f9b6b8f933e2aaf6",
+    "wof:geomhash":"245df666db88a7fdef65728e724e9075",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209203309
+            "county_id":102073189,
+            "locality_id":1209203309,
+            "region_id":85672093
         }
     ],
     "wof:id":1209203309,
-    "wof:lastmodified":1564186679,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614719091,
     "wof:name":"Kandri",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073189,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
@@ -88,10 +102,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.58556000000002,
+    110.58556,
     -8.02722,
-    110.58556000000002,
+    110.58556,
     -8.02722
 ],
-  "geometry": {"coordinates":[110.58556000000002,-8.02722],"type":"Point"}
+  "geometry": {"coordinates":[110.58556,-8.02722],"type":"Point"}
 }

@@ -15,6 +15,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Berbek"
     ],
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102073553
+        102073553,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,7 +51,14 @@
         }
     ],
     "wof:id":890493695,
-    "wof:lastmodified":1505343805,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614653755,
     "wof:name":"Berbek",
     "wof:parent_id":102073553,
     "wof:placetype":"locality",

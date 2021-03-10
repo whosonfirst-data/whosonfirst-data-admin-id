@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Haniwung"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073217
+        102073217,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6604583
     },
     "wof:country":"ID",
-    "wof:geomhash":"4807ab7fc9118f9fa1406527e43a7b81",
+    "wof:geomhash":"db73731398f94d9b4b9158115199aee6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1277023559,
-    "wof:lastmodified":1537630041,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614637407,
     "wof:name":"Haniwung",
     "wof:parent_id":102073217,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.62111000000002,
+    106.62111,
     -6.50389,
-    106.62111000000002,
+    106.62111,
     -6.50389
 ],
-  "geometry": {"coordinates":[106.62111000000002,-6.50389],"type":"Point"}
+  "geometry": {"coordinates":[106.62111,-6.50389],"type":"Point"}
 }

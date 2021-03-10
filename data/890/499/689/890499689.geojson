@@ -6,13 +6,14 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"115.3113315,-8.423098,115.3113315,-8.423098",
+    "geom:bbox":"115.311331,-8.423098,115.311331,-8.423098",
     "geom:latitude":-8.423098,
     "geom:longitude":115.311331,
     "gp:adm0":23424846,
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "qs:name":"Kedisan",
     "qs:name_adm0":"Indonesia",
     "qs:name_adm1":"Bali",
@@ -27,8 +28,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672023,
-        102073127
+        102073127,
+        85672023
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,7 +38,7 @@
     },
     "wof:country":"ID",
     "wof:created":1469055230,
-    "wof:geomhash":"e82bed62ba2381cb1e4cb143a42883c2",
+    "wof:geomhash":"0afee4acbb99980d8dc23838ce278059",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +49,14 @@
         }
     ],
     "wof:id":890499689,
-    "wof:lastmodified":1500046155,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614653720,
     "wof:name":"Kedisan",
     "wof:parent_id":102073127,
     "wof:placetype":"locality",
@@ -58,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    115.3113315,
+    115.311331,
     -8.423098,
-    115.3113315,
+    115.311331,
     -8.423098
 ],
-  "geometry": {"coordinates":[115.31133149999999,-8.423098],"type":"Point"}
+  "geometry": {"coordinates":[115.311331,-8.423098],"type":"Point"}
 }

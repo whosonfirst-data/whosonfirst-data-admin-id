@@ -1,0 +1,72 @@
+{
+  "id": 1729801851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000024,
+    "geom:area_square_m":293602.622692,
+    "geom:bbox":"106.85191,-6.178415,106.858653,-6.173808",
+    "geom:latitude":-6.176224,
+    "geom:longitude":106.855221,
+    "iso:country":"ID",
+    "lbl:latitude":-6.176191,
+    "lbl:longitude":106.85596,
+    "mps:latitude":-6.176191,
+    "mps:longitude":106.85596,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Galur"
+    ],
+    "name:ind_x_preferred":[
+        "Galur"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        102021905,
+        102073177,
+        85672001
+    ],
+    "wof:breaches":[],
+    "wof:country":"ID",
+    "wof:created":1613158540,
+    "wof:geomhash":"e882097e3510d41563127d8cba69f487",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102073177,
+            "locality_id":102021905,
+            "neighbourhood_id":1729801851,
+            "region_id":85672001
+        }
+    ],
+    "wof:id":1729801851,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614723317,
+    "wof:name":"Galur",
+    "wof:parent_id":102021905,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.85191,
+    -6.178415,
+    106.858653,
+    -6.173808
+],
+  "geometry": {"coordinates":[[[106.857547,-6.173808],[106.858653,-6.178047],[106.85527399999999,-6.178415],[106.85453699999999,-6.17774],[106.85337,-6.177617],[106.85300100000001,-6.178292],[106.85191,-6.178213],[106.852141,-6.174607],[106.857547,-6.173808]]],"type":"Polygon"}
+}

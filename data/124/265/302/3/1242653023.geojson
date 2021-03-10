@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kataka"
     ],
@@ -41,15 +42,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672037,
-        102072803
+        102072803,
+        85672037
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1638714
     },
     "wof:country":"ID",
-    "wof:geomhash":"98739819449629dd020987e757092098",
+    "wof:geomhash":"44fdc6ddbd6420a19ae8d58b75a53d9c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -60,7 +61,14 @@
         }
     ],
     "wof:id":1242653023,
-    "wof:lastmodified":1564200960,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614643424,
     "wof:name":"Kataka",
     "wof:parent_id":102072803,
     "wof:placetype":"locality",
@@ -70,10 +78,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    120.53128999999998,
+    120.53129,
     -9.87822,
-    120.53128999999998,
+    120.53129,
     -9.87822
 ],
-  "geometry": {"coordinates":[120.53128999999998,-9.87822],"type":"Point"}
+  "geometry": {"coordinates":[120.53129,-9.87822],"type":"Point"}
 }

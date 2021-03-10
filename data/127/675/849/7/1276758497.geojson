@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Dukuh Lor"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073119
+        102073119,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6389708
     },
     "wof:country":"ID",
-    "wof:geomhash":"1641aa63e896b350243a1567c0af3651",
+    "wof:geomhash":"aa7c2ea6b5de95593367bf078b7c16c0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1276758497,
-    "wof:lastmodified":1537628696,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614651395,
     "wof:name":"Dukuh Lor",
     "wof:parent_id":102073119,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.03806000000002,
+    109.03806,
     -7.27611,
-    109.03806000000002,
+    109.03806,
     -7.27611
 ],
-  "geometry": {"coordinates":[109.03806000000002,-7.27611],"type":"Point"}
+  "geometry": {"coordinates":[109.03806,-7.27611],"type":"Point"}
 }

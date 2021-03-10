@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Jurjoga"
     ],
@@ -37,15 +38,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672085,
-        102072651
+        102072651,
+        85672085
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1642325
     },
     "wof:country":"ID",
-    "wof:geomhash":"e0a930ab12be7527e9812479409c8405",
+    "wof:geomhash":"40d1cfc9a3389d57507c5b6182417861",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -56,7 +57,14 @@
         }
     ],
     "wof:id":1226590765,
-    "wof:lastmodified":1537627055,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614645201,
     "wof:name":"Jurjoga",
     "wof:parent_id":102072651,
     "wof:placetype":"locality",
@@ -66,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    124.80013999999998,
+    124.80014,
     -1.68399,
-    124.80013999999998,
+    124.80014,
     -1.68399
 ],
-  "geometry": {"coordinates":[124.80013999999998,-1.68399],"type":"Point"}
+  "geometry": {"coordinates":[124.80014,-1.68399],"type":"Point"}
 }

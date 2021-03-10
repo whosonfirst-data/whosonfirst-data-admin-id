@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ara_x_preferred":[
         "\u062d\u0648\u0636"
     ],
@@ -74,8 +75,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073233
+        102073233,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -93,7 +94,14 @@
         }
     ],
     "wof:id":1360006279,
-    "wof:lastmodified":1564194710,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614653486,
     "wof:name":"Basin",
     "wof:parent_id":102073233,
     "wof:placetype":"locality",

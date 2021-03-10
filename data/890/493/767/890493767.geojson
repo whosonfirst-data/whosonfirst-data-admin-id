@@ -4,18 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"106.9356,-6.2211,106.9356,-6.2211",
-    "geom:latitude":-6.2211,
-    "geom:longitude":106.9356,
+    "geom:area":0.00009,
+    "geom:area_square_m":1108016.56326,
+    "geom:bbox":"106.93087,-6.232716,106.939284,-6.217096",
+    "geom:latitude":-6.224028,
+    "geom:longitude":106.934757,
     "gn:country":"ID",
     "gn:fcode":"PPL",
     "gn:pop":0,
     "gp:adm0":23424846,
     "iso:country":"ID",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "name:ind_x_preferred":[
         "Malakajaya"
     ],
@@ -30,13 +30,17 @@
     "qs:photos_sr":1,
     "qs:placetype":"Suburb",
     "qs:pop_sr":"0",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "unknown"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
-        85672001,
         102191569,
         85632203,
         102020431,
-        102073493
+        102073493,
+        85672001
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,7 +50,10 @@
     },
     "wof:country":"ID",
     "wof:created":1469054949,
-    "wof:geomhash":"ef004ec56a1bca2cadfb53f709f74b97",
+    "wof:geom_alt":[
+        "unknown"
+    ],
+    "wof:geomhash":"30a5695af05a69342562a814d14b2e5d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -58,7 +65,14 @@
         }
     ],
     "wof:id":890493767,
-    "wof:lastmodified":1505343806,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614744854,
     "wof:name":"Malakajaya",
     "wof:parent_id":102020431,
     "wof:placetype":"neighbourhood",
@@ -69,10 +83,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.9356,
-    -6.2211,
-    106.9356,
-    -6.2211
+    106.93087,
+    -6.232716,
+    106.939284,
+    -6.217096
 ],
-  "geometry": {"coordinates":[106.93559999999999,-6.2211],"type":"Point"}
+  "geometry": {"coordinates":[[[106.93087,-6.2324],[106.93105199999999,-6.22989],[106.931298,-6.229521],[106.931912,-6.229276],[106.93179000000001,-6.228539],[106.931421,-6.226941],[106.931912,-6.225836],[106.932035,-6.224484],[106.932281,-6.222027],[106.931912,-6.220798],[106.93105199999999,-6.218955],[106.931145,-6.217096],[106.938985,-6.217967],[106.939284,-6.22043],[106.938793,-6.223993],[106.93805500000001,-6.225098],[106.93805500000001,-6.227064],[106.93682699999999,-6.227187],[106.935598,-6.228784],[106.935107,-6.230996],[106.93449200000001,-6.232716],[106.932281,-6.232593],[106.93087,-6.2324]]],"type":"Polygon"}
 }

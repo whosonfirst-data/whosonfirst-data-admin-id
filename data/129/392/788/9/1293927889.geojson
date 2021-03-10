@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Burmeso"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672115,
-        1108796887
+        1108796887,
+        85672115
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":11012570
     },
     "wof:country":"ID",
-    "wof:geomhash":"eddeb6b70aa80343fe7eb3ca9d0eae3a",
+    "wof:geomhash":"de9825946be96235a6c57190a0cab7b8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1293927889,
-    "wof:lastmodified":1537636715,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614635936,
     "wof:name":"Burmeso",
     "wof:parent_id":1108796887,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    138.04138999999998,
+    138.04139,
     -2.32611,
-    138.04138999999998,
+    138.04139,
     -2.32611
 ],
-  "geometry": {"coordinates":[138.04138999999998,-2.32611],"type":"Point"}
+  "geometry": {"coordinates":[138.04139000000001,-2.32611],"type":"Point"}
 }

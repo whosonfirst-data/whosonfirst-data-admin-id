@@ -25,19 +25,20 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        85671995,
-        102073479
+        102073479,
+        85671995
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1989961
     },
     "wof:country":"ID",
-    "wof:geomhash":"ee19da4da08d8828662e7034e6edcc6d",
+    "wof:geomhash":"6e2cc561ce9dc906c96e12435db38040",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +49,14 @@
         }
     ],
     "wof:id":1259729605,
-    "wof:lastmodified":1536999967,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614644616,
     "wof:name":"Pabuaranindah",
     "wof:parent_id":102073479,
     "wof:placetype":"locality",
@@ -58,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.28943999999998,
+    106.28944,
     -6.14111,
-    106.28943999999998,
+    106.28944,
     -6.14111
 ],
-  "geometry": {"coordinates":[106.28943999999998,-6.14111],"type":"Point"}
+  "geometry": {"coordinates":[106.28944,-6.14111],"type":"Point"}
 }

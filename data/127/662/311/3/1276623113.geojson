@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Liwoto",
         "Liwoeto",
@@ -34,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672105,
-        102072689
+        102072689,
+        85672105
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1637525
     },
     "wof:country":"ID",
-    "wof:geomhash":"ff1e304ada7cb7192b8a2819362f4b28",
+    "wof:geomhash":"1fc7587f7b94af49f78d997bb093ec0a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +54,14 @@
         }
     ],
     "wof:id":1276623113,
-    "wof:lastmodified":1537626909,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614637814,
     "wof:name":"Liwuto",
     "wof:parent_id":102072689,
     "wof:placetype":"locality",
@@ -63,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    123.71708999999998,
+    123.71709,
     -5.48046,
-    123.71708999999998,
+    123.71709,
     -5.48046
 ],
-  "geometry": {"coordinates":[123.71708999999998,-5.48046],"type":"Point"}
+  "geometry": {"coordinates":[123.71709,-5.48046],"type":"Point"}
 }

@@ -26,6 +26,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Wairoe",
         "Wairor",
@@ -35,15 +36,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672067,
-        1108796869
+        1108796869,
+        85672067
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1636576
     },
     "wof:country":"ID",
-    "wof:geomhash":"4caa04d3ee61b86ee4df5bd5328baccb",
+    "wof:geomhash":"fd47482f862b43cb3b7a4653f6e76590",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,7 +55,14 @@
         }
     ],
     "wof:id":1343876359,
-    "wof:lastmodified":1537626879,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614635046,
     "wof:name":"Mamisi",
     "wof:parent_id":1108796869,
     "wof:placetype":"locality",
@@ -64,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    134.16666999999998,
+    134.16667,
     -2.3,
-    134.16666999999998,
+    134.16667,
     -2.3
 ],
-  "geometry": {"coordinates":[134.16666999999998,-2.3],"type":"Point"}
+  "geometry": {"coordinates":[134.16667000000001,-2.3],"type":"Point"}
 }

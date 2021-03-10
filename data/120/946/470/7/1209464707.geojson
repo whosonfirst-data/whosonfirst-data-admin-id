@@ -25,26 +25,40 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671983,
+        102073217
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1959642
     },
     "wof:country":"ID",
-    "wof:geomhash":"548b541a4cdbf65ae0ad291cf41ef694",
+    "wof:geomhash":"491b37d1bf0ae912ef87d597328910fb",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209464707
+            "county_id":102073217,
+            "locality_id":1209464707,
+            "region_id":85671983
         }
     ],
     "wof:id":1209464707,
-    "wof:lastmodified":1536286273,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614719432,
     "wof:name":"Kadupugur",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073217,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
@@ -53,9 +67,9 @@
 },
   "bbox": [
     106.91972,
-    -6.4069400000000005,
+    -6.40694,
     106.91972,
-    -6.4069400000000005
+    -6.40694
 ],
   "geometry": {"coordinates":[106.91972,-6.40694],"type":"Point"}
 }

@@ -18,6 +18,7 @@
     "lbl:longitude":101.45,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ace_x_preferred":[
         "Dumai"
@@ -334,8 +335,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672077,
-        1108796915
+        1108796915,
+        85672077
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -357,7 +358,14 @@
         }
     ],
     "wof:id":1126040477,
-    "wof:lastmodified":1563274358,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614653775,
     "wof:name":"Dumai",
     "wof:parent_id":1108796915,
     "wof:placetype":"locality",

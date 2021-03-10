@@ -25,26 +25,40 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672093,
+        102073265
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6258312
     },
     "wof:country":"ID",
-    "wof:geomhash":"4cc2077bef4b909a4908c753ccd9b6a8",
+    "wof:geomhash":"77aa8516ad7aca550b4bcb425efa2ca5",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209027265
+            "county_id":102073265,
+            "locality_id":1209027265,
+            "region_id":85672093
         }
     ],
     "wof:id":1209027265,
-    "wof:lastmodified":1536299957,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614719908,
     "wof:name":"Ngetalbeteng",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073265,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
@@ -53,9 +67,9 @@
 },
   "bbox": [
     110.3175,
-    -7.697780000000002,
+    -7.69778,
     110.3175,
-    -7.697780000000002
+    -7.69778
 ],
   "geometry": {"coordinates":[110.3175,-7.69778],"type":"Point"}
 }

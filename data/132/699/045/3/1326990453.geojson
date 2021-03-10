@@ -26,6 +26,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Pitjung",
         "Picung"
@@ -34,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671995,
-        102072687
+        102072687,
+        85671995
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1960477
     },
     "wof:country":"ID",
-    "wof:geomhash":"095e18f897e9e69908508e54a3924050",
+    "wof:geomhash":"13ea2d276c015a67709ce665229ae6c7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +54,14 @@
         }
     ],
     "wof:id":1326990453,
-    "wof:lastmodified":1537627559,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614633377,
     "wof:name":"Picung",
     "wof:parent_id":102072687,
     "wof:placetype":"locality",
@@ -63,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.44693999999998,
+    106.44694,
     -6.23528,
-    106.44693999999998,
+    106.44694,
     -6.23528
 ],
-  "geometry": {"coordinates":[106.44693999999998,-6.23528],"type":"Point"}
+  "geometry": {"coordinates":[106.44694,-6.23528],"type":"Point"}
 }

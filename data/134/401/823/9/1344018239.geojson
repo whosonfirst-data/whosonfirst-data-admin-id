@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Jenguk Kidul"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073193
+        102073193,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6569189
     },
     "wof:country":"ID",
-    "wof:geomhash":"3750786f0e1da10a7b5f53e080e3186a",
+    "wof:geomhash":"7010b8c848d8252068f469f9fec288ab",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1344018239,
-    "wof:lastmodified":1537629372,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614634194,
     "wof:name":"Jenguk Kidul",
     "wof:parent_id":102073193,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.06638999999998,
+    108.06639,
     -6.41389,
-    108.06638999999998,
+    108.06639,
     -6.41389
 ],
-  "geometry": {"coordinates":[108.06638999999998,-6.41389],"type":"Point"}
+  "geometry": {"coordinates":[108.06639,-6.41389],"type":"Point"}
 }

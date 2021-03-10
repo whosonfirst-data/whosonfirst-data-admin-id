@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Polerejo"
     ],
@@ -37,15 +38,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102073065
+        102073065,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1630325
     },
     "wof:country":"ID",
-    "wof:geomhash":"2c7d1e303dacc3048f343e825e0183e7",
+    "wof:geomhash":"e0d8d0a474aab7134ea1d3fd0b8b71fa",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -56,7 +57,14 @@
         }
     ],
     "wof:id":1343746731,
-    "wof:lastmodified":1537626677,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614650613,
     "wof:name":"Polerejo",
     "wof:parent_id":102073065,
     "wof:placetype":"locality",
@@ -66,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    112.73888999999998,
+    112.73889,
     -7.76361,
-    112.73888999999998,
+    112.73889,
     -7.76361
 ],
-  "geometry": {"coordinates":[112.73888999999998,-7.76361],"type":"Point"}
+  "geometry": {"coordinates":[112.73889,-7.76361],"type":"Point"}
 }

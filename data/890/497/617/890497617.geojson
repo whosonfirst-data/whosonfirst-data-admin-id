@@ -6,13 +6,14 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"115.316,-8.4144715,115.316,-8.4144715",
+    "geom:bbox":"115.316,-8.414471,115.316,-8.414471",
     "geom:latitude":-8.414471,
     "geom:longitude":115.316,
     "gp:adm0":23424846,
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "qs:name":"Manukaya",
     "qs:name_adm0":"Indonesia",
     "qs:name_adm1":"Bali",
@@ -27,8 +28,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672023,
-        102073127
+        102073127,
+        85672023
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,7 +38,7 @@
     },
     "wof:country":"ID",
     "wof:created":1469055138,
-    "wof:geomhash":"1ba9144321d5870cc06719927494e30a",
+    "wof:geomhash":"48b0784561fd50c0fe27d48d117b4eb4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +49,14 @@
         }
     ],
     "wof:id":890497617,
-    "wof:lastmodified":1500046147,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614653711,
     "wof:name":"Manukaya",
     "wof:parent_id":102073127,
     "wof:placetype":"locality",
@@ -59,9 +67,9 @@
 },
   "bbox": [
     115.316,
-    -8.4144715,
+    -8.414471,
     115.316,
-    -8.4144715
+    -8.414471
 ],
-  "geometry": {"coordinates":[115.316,-8.4144715],"type":"Point"}
+  "geometry": {"coordinates":[115.316,-8.414471],"type":"Point"}
 }

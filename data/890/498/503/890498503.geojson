@@ -13,6 +13,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:name":"Danau/waduk",
     "qs:name_adm0":"Indonesia",
     "qs:name_adm1":"Bali",
@@ -27,8 +28,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672023,
-        102072781
+        102072781,
+        85672023
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,7 +53,14 @@
         }
     ],
     "wof:id":890498503,
-    "wof:lastmodified":1534379335,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614642139,
     "wof:name":"Danau/waduk",
     "wof:parent_id":102072781,
     "wof:placetype":"locality",

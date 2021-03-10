@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0633\u06cc\u0644\u0626\u0627"
     ],
@@ -134,8 +135,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672105,
-        1108796941
+        1108796941,
+        85672105
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -153,7 +154,14 @@
         }
     ],
     "wof:id":1226706441,
-    "wof:lastmodified":1564207679,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614645682,
     "wof:name":"Silea",
     "wof:parent_id":1108796941,
     "wof:placetype":"locality",

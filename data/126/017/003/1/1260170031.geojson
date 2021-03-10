@@ -25,19 +25,20 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073469
+        102073469,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2010142
     },
     "wof:country":"ID",
-    "wof:geomhash":"7308a4b5c8c38af3329817b9bb70279b",
+    "wof:geomhash":"5d60ead8263ae37f1284ab736edbd4e5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +49,14 @@
         }
     ],
     "wof:id":1260170031,
-    "wof:lastmodified":1536865081,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614653062,
     "wof:name":"Dusun Tiga",
     "wof:parent_id":102073469,
     "wof:placetype":"locality",
@@ -58,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.16861000000002,
+    110.16861,
     -7.91278,
-    110.16861000000002,
+    110.16861,
     -7.91278
 ],
-  "geometry": {"coordinates":[110.16861000000002,-7.91278],"type":"Point"}
+  "geometry": {"coordinates":[110.16861,-7.91278],"type":"Point"}
 }

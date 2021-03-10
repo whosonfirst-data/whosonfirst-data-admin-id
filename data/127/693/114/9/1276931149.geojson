@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:cat_x_preferred":[
         "Sambas"
     ],
@@ -41,8 +42,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672073,
-        102072713
+        102072713,
+        85672073
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,7 +61,14 @@
         }
     ],
     "wof:id":1276931149,
-    "wof:lastmodified":1564181440,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614651562,
     "wof:name":"Sambas",
     "wof:parent_id":102072713,
     "wof:placetype":"locality",

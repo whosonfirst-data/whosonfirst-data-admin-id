@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0642\u0628\u0627\u0631"
     ],
@@ -200,8 +201,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102073325
+        102073325,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -219,7 +220,14 @@
         }
     ],
     "wof:id":1209906345,
-    "wof:lastmodified":1564184567,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614638223,
     "wof:name":"Caper",
     "wof:parent_id":102073325,
     "wof:placetype":"locality",

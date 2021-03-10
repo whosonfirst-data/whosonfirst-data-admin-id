@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Kaliombo"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072647
+        102072647,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6562468
     },
     "wof:country":"ID",
-    "wof:geomhash":"78d97b4e74d01093c4814516f46375a1",
+    "wof:geomhash":"518def29650194557b5c32ecc5a8b114",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1193157825,
-    "wof:lastmodified":1537629184,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614639451,
     "wof:name":"Kaliombo",
     "wof:parent_id":102072647,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.62111000000002,
+    109.62111,
     -7.18583,
-    109.62111000000002,
+    109.62111,
     -7.18583
 ],
-  "geometry": {"coordinates":[109.62111000000002,-7.18583],"type":"Point"}
+  "geometry": {"coordinates":[109.62111,-7.18583],"type":"Point"}
 }

@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Dara"
     ],
@@ -42,7 +43,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672041,
+        102072633
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +56,24 @@
     "wof:geomhash":"0edd9c63ae59f56826d0b6fd5753ac3c",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209253323
+            "county_id":102072633,
+            "locality_id":1209253323,
+            "region_id":85672041
         }
     ],
     "wof:id":1209253323,
-    "wof:lastmodified":1564185534,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614714962,
     "wof:name":"Dara",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072633,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

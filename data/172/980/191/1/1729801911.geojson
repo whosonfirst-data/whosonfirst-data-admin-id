@@ -1,0 +1,72 @@
+{
+  "id": 1729801911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000045,
+    "geom:area_square_m":547413.730659,
+    "geom:bbox":"106.814857,-6.150092,106.821061,-6.139587",
+    "geom:latitude":-6.144777,
+    "geom:longitude":106.818279,
+    "iso:country":"ID",
+    "lbl:latitude":-6.144412,
+    "lbl:longitude":106.818028,
+    "mps:latitude":-6.144412,
+    "mps:longitude":106.818028,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Mangga Besar"
+    ],
+    "name:ind_x_preferred":[
+        "Mangga Besar"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        102020437,
+        102072841,
+        85672001
+    ],
+    "wof:breaches":[],
+    "wof:country":"ID",
+    "wof:created":1613158565,
+    "wof:geomhash":"c7b6eca4020c2970762a75acde68f223",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102072841,
+            "locality_id":102020437,
+            "neighbourhood_id":1729801911,
+            "region_id":85672001
+        }
+    ],
+    "wof:id":1729801911,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614723341,
+    "wof:name":"Mangga Besar",
+    "wof:parent_id":102020437,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.814857,
+    -6.150092,
+    106.821061,
+    -6.139587
+],
+  "geometry": {"coordinates":[[[106.820386,-6.149478],[106.817007,-6.150092],[106.814857,-6.14272],[106.817806,-6.140448],[106.819526,-6.139587],[106.821061,-6.140263],[106.82069300000001,-6.14229],[106.820386,-6.149478]]],"type":"Polygon"}
+}

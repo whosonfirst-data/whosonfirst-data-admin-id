@@ -25,13 +25,17 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Binginteloek",
         "Binginteluk"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672013,
+        102073561
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +45,24 @@
     "wof:geomhash":"39d66f67d20c35ef477819a48f98b6a1",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209564121
+            "county_id":102073561,
+            "locality_id":1209564121,
+            "region_id":85672013
         }
     ],
     "wof:id":1209564121,
-    "wof:lastmodified":1537627300,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614722254,
     "wof:name":"Bingintelok",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073561,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

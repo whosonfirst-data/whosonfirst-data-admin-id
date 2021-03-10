@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Moearamaoeng",
         "Muaramaung"
@@ -33,15 +34,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672005,
-        102073335
+        102073335,
+        85672005
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1634841
     },
     "wof:country":"ID",
-    "wof:geomhash":"e40bc13a475144596bc11be6ede5ffc1",
+    "wof:geomhash":"c784b3821a551e3747d695482f67a86a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,7 +53,14 @@
         }
     ],
     "wof:id":1326744785,
-    "wof:lastmodified":1537626829,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614632602,
     "wof:name":"Muaramaung",
     "wof:parent_id":102073335,
     "wof:placetype":"locality",
@@ -62,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.09893999999998,
+    110.09894,
     0.9554,
-    110.09893999999998,
+    110.09894,
     0.9554
 ],
-  "geometry": {"coordinates":[110.09893999999998,0.9554],"type":"Point"}
+  "geometry": {"coordinates":[110.09894,0.9554],"type":"Point"}
 }

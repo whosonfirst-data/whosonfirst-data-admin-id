@@ -25,19 +25,20 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072733
+        102072733,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1935627
     },
     "wof:country":"ID",
-    "wof:geomhash":"504add885be7786bcabf3c0f9e058679",
+    "wof:geomhash":"e4876689829361f4b78ea654a37c78ce",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +49,14 @@
         }
     ],
     "wof:id":1259373835,
-    "wof:lastmodified":1537015464,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614654267,
     "wof:name":"Ngarjosari",
     "wof:parent_id":102072733,
     "wof:placetype":"locality",
@@ -58,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.97693999999998,
+    110.97694,
     -7.60444,
-    110.97693999999998,
+    110.97694,
     -7.60444
 ],
-  "geometry": {"coordinates":[110.97693999999998,-7.60444],"type":"Point"}
+  "geometry": {"coordinates":[110.97694,-7.60444],"type":"Point"}
 }

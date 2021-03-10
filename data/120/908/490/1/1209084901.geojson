@@ -25,26 +25,40 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672093,
+        102073313
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2000451
     },
     "wof:country":"ID",
-    "wof:geomhash":"8e49f9e2e066aa7cba57d5ee980b7b44",
+    "wof:geomhash":"ebfb124b63f9f6955d859dad7684c2b6",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209084901
+            "county_id":102073313,
+            "locality_id":1209084901,
+            "region_id":85672093
         }
     ],
     "wof:id":1209084901,
-    "wof:lastmodified":1536298219,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614720244,
     "wof:name":"Bawukan Dua",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073313,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
@@ -53,9 +67,9 @@
 },
   "bbox": [
     110.41833,
-    -7.869439999999999,
+    -7.86944,
     110.41833,
-    -7.869439999999999
+    -7.86944
 ],
   "geometry": {"coordinates":[110.41833,-7.86944],"type":"Point"}
 }

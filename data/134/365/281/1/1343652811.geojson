@@ -25,19 +25,20 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072929
+        102072929,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6263763
     },
     "wof:country":"ID",
-    "wof:geomhash":"d0198bdc040c6c60d4011f47203a8266",
+    "wof:geomhash":"50b205e85e2d39529ce353ede1ea3cbb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +49,14 @@
         }
     ],
     "wof:id":1343652811,
-    "wof:lastmodified":1536965890,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614633837,
     "wof:name":"Karangpelem",
     "wof:parent_id":102072929,
     "wof:placetype":"locality",
@@ -58,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.95638999999998,
+    110.95639,
     -7.32194,
-    110.95638999999998,
+    110.95639,
     -7.32194
 ],
-  "geometry": {"coordinates":[110.95638999999998,-7.32194],"type":"Point"}
+  "geometry": {"coordinates":[110.95639,-7.32194],"type":"Point"}
 }

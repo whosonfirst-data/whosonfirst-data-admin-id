@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Bayeuen"
     ],
@@ -38,7 +39,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671973,
+        102073069
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +52,24 @@
     "wof:geomhash":"1b6cfa75aaf09f9376aacf44ffe5348a",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209228225
+            "county_id":102073069,
+            "locality_id":1209228225,
+            "region_id":85671973
         }
     ],
     "wof:id":1209228225,
-    "wof:lastmodified":1537626362,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614718372,
     "wof:name":"Bayeuen",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073069,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

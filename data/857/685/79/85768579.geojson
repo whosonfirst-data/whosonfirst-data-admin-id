@@ -4,20 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.000271,
-    "geom:area_square_m":3335438.28994,
-    "geom:bbox":"106.858520508,-6.1651315906,106.877746582,-6.14601633128",
-    "geom:latitude":-6.155854,
-    "geom:longitude":106.867694,
+    "geom:area":0.000066,
+    "geom:area_square_m":811231.705388,
+    "geom:bbox":"106.855467,-6.164041,106.866752,-6.153681",
+    "geom:latitude":-6.158998,
+    "geom:longitude":106.861105,
     "gn:latitude":-6.1577,
     "gn:longitude":106.8637,
     "iso:country":"ID",
-    "lbl:latitude":-6.156029,
-    "lbl:longitude":106.867465,
-    "mps:latitude":-6.15592,
-    "mps:longitude":106.867878,
+    "lbl:latitude":-6.159073,
+    "lbl:longitude":106.861191,
+    "mps:latitude":-6.159073,
+    "mps:longitude":106.861191,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -70,17 +70,19 @@
     "qs:woe_lau":0,
     "qs:woe_local":1047378,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"quattroshapes",
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85672001,
         102191569,
         85632203,
-        102018917,
-        102073125
+        102021905,
+        102073177,
+        85672001
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -91,26 +93,31 @@
     },
     "wof:country":"ID",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
-    "wof:geomhash":"c791fc717996839175dcab2ae2ade9fd",
+    "wof:geomhash":"d9ebba1be225d1d86b457c80393bb9ef",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632203,
-            "county_id":102073125,
-            "locality_id":102018917,
+            "county_id":102073177,
+            "locality_id":102021905,
             "neighbourhood_id":85768579,
             "region_id":85672001
         }
     ],
     "wof:id":85768579,
-    "wof:lang":[
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
         "eng"
     ],
-    "wof:lastmodified":1582353984,
+    "wof:lastmodified":1614744829,
     "wof:name":"Serdang",
-    "wof:parent_id":102018917,
+    "wof:parent_id":102021905,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
@@ -118,10 +125,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.85852050800008,
-    -6.16513159059988,
-    106.87774658200021,
-    -6.14601633128483
+    106.855467,
+    -6.164041,
+    106.866752,
+    -6.153681
 ],
-  "geometry": {"coordinates":[[[106.87228492826483,-6.14874715474232],[106.875,-6.15147795836511],[106.87500000204761,-6.15693946189427],[106.87774658200021,-6.15970197349267],[106.87774658200021,-6.16513159059988],[106.86950683600014,-6.16513159059988],[106.86809393730476,-6.16513159059988],[106.86382716998202,-6.1625566499328],[106.8618028208997,-6.15916313449428],[106.86055278144528,-6.1589835208021],[106.85852051004758,-6.15693946189435],[106.85852050800008,-6.15147796420995],[106.85852050800008,-6.14601633128483],[106.86401367200028,-6.14601633128483],[106.8640766089357,-6.14601633128483],[106.86950683600014,-6.14874715474232],[106.87228492826483,-6.14874715474232]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[106.86675200000001,-6.157515],[106.862953,-6.164041],[106.858284,-6.162321],[106.855467,-6.16024],[106.85582700000001,-6.159618],[106.856134,-6.158942],[106.85674899999999,-6.157713],[106.85767,-6.15673],[106.859022,-6.155317],[106.860236,-6.153681],[106.86675200000001,-6.157515]]],"type":"Polygon"}
 }

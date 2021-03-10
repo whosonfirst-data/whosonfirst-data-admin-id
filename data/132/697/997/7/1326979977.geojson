@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Buyut"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073515
+        102073515,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6399622
     },
     "wof:country":"ID",
-    "wof:geomhash":"cae3c2d4056af6878e13b5c61aa1b6f4",
+    "wof:geomhash":"19d5dcc67fb0845c3ecf6fcfc6135a44",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1326979977,
-    "wof:lastmodified":1537628805,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614633432,
     "wof:name":"Buyut",
     "wof:parent_id":102073515,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.23111000000002,
+    108.23111,
     -6.98833,
-    108.23111000000002,
+    108.23111,
     -6.98833
 ],
-  "geometry": {"coordinates":[108.23111000000002,-6.98833],"type":"Point"}
+  "geometry": {"coordinates":[108.23111,-6.98833],"type":"Point"}
 }

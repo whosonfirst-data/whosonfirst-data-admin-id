@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Jetak"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072929
+        102072929,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6411744
     },
     "wof:country":"ID",
-    "wof:geomhash":"e6fe1ea07d6e3b0187d17e57a66b2cc3",
+    "wof:geomhash":"3301bd6b3a61383dd34619f39fb8b330",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1260076609,
-    "wof:lastmodified":1537629119,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614639920,
     "wof:name":"Jetak",
     "wof:parent_id":102072929,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.05138999999998,
+    111.05139,
     -7.37,
-    111.05138999999998,
+    111.05139,
     -7.37
 ],
-  "geometry": {"coordinates":[111.05138999999998,-7.37],"type":"Point"}
+  "geometry": {"coordinates":[111.05139,-7.37],"type":"Point"}
 }

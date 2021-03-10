@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:und_x_variant":[
         "Djombor",
         "Jombor"
@@ -33,15 +34,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072857
+        102072857,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1964030
     },
     "wof:country":"ID",
-    "wof:geomhash":"ed51c7be2fe3e3c90189cdbfc914f072",
+    "wof:geomhash":"d0f981fb769e893adf8fcc3544b68a7a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,7 +53,14 @@
         }
     ],
     "wof:id":1343352485,
-    "wof:lastmodified":1537627742,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614650476,
     "wof:name":"Jombor",
     "wof:parent_id":102072857,
     "wof:placetype":"locality",
@@ -62,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.30138999999998,
+    110.30139,
     -7.42306,
-    110.30138999999998,
+    110.30139,
     -7.42306
 ],
-  "geometry": {"coordinates":[110.30138999999998,-7.42306],"type":"Point"}
+  "geometry": {"coordinates":[110.30139,-7.42306],"type":"Point"}
 }

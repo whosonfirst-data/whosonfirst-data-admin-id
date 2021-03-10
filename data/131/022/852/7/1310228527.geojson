@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-03-01",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -25,7 +26,7 @@
     "gn:timezone":"Asia/Jakarta",
     "iso:country":"ID",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "name:und_x_variant":[
         "Rawagatel",
         "Gagarawagatel"
@@ -34,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672001,
-        102072841
+        102072841,
+        85672001
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1629875
     },
     "wof:country":"ID",
-    "wof:geomhash":"12dfdd9d1191d316c4d8f4032a175d81",
+    "wof:geomhash":"71b07ea846622f86bbf05d5ef3d16e44",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +54,14 @@
         }
     ],
     "wof:id":1310228527,
-    "wof:lastmodified":1537626661,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614708081,
     "wof:name":"Gagarawagatel",
     "wof:parent_id":102072841,
     "wof:placetype":"locality",
@@ -63,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.70638999999998,
+    106.70639,
     -6.17333,
-    106.70638999999998,
+    106.70639,
     -6.17333
 ],
-  "geometry": {"coordinates":[106.70638999999998,-6.17333],"type":"Point"}
+  "geometry": {"coordinates":[106.70639,-6.17333],"type":"Point"}
 }

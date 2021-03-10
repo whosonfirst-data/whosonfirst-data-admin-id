@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Munjul"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073359
+        102073359,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7847477
     },
     "wof:country":"ID",
-    "wof:geomhash":"ce21fcc6b1102392141ff37aac6f23ca",
+    "wof:geomhash":"d2e2e3d8cf16fcbb997cf2816416b64e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1226005151,
-    "wof:lastmodified":1537634544,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614645975,
     "wof:name":"Munjul",
     "wof:parent_id":102073359,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.72948999999998,
+    107.72949,
     -7.63937,
-    107.72948999999998,
+    107.72949,
     -7.63937
 ],
-  "geometry": {"coordinates":[107.72948999999998,-7.63937],"type":"Point"}
+  "geometry": {"coordinates":[107.72949,-7.63937],"type":"Point"}
 }

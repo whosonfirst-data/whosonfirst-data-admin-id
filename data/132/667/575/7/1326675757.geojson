@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ara_x_preferred":[
         "\u063a\u0645\u0628\u0648\u0646\u063a"
     ],
@@ -47,8 +48,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        1108796793
+        1108796793,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,7 +67,14 @@
         }
     ],
     "wof:id":1326675757,
-    "wof:lastmodified":1564168284,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614649836,
     "wof:name":"Gombong",
     "wof:parent_id":1108796793,
     "wof:placetype":"locality",

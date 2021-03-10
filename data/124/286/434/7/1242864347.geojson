@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Dumas"
     ],
@@ -101,8 +102,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102073063
+        102073063,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -120,7 +121,14 @@
         }
     ],
     "wof:id":1242864347,
-    "wof:lastmodified":1564198230,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614642504,
     "wof:name":"Dumas",
     "wof:parent_id":102073063,
     "wof:placetype":"locality",

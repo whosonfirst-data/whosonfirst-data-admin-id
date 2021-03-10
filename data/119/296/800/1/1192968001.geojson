@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Bugel"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073295
+        102073295,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6568810
     },
     "wof:country":"ID",
-    "wof:geomhash":"98b5b423b9f395d208960a1e0436cd80",
+    "wof:geomhash":"e579c3e6b8fea7b832be3c454731f22d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1192968001,
-    "wof:lastmodified":1537629363,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614639603,
     "wof:name":"Bugel",
     "wof:parent_id":102073295,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.86388999999998,
+    107.86389,
     -6.36278,
-    107.86388999999998,
+    107.86389,
     -6.36278
 ],
-  "geometry": {"coordinates":[107.86388999999998,-6.36278],"type":"Point"}
+  "geometry": {"coordinates":[107.86389,-6.36278],"type":"Point"}
 }

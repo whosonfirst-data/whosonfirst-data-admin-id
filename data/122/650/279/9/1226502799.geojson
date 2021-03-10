@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Pelindunghewan"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073449
+        102073449,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6598809
     },
     "wof:country":"ID",
-    "wof:geomhash":"e4baa9b17fca92bcf4ff3c2bd66c4166",
+    "wof:geomhash":"d73497b9d63a013ec0c3b133776f1666",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1226502799,
-    "wof:lastmodified":1537629939,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614654702,
     "wof:name":"Pelindunghewan",
     "wof:parent_id":102073449,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.60193999999998,
+    107.60194,
     -6.93917,
-    107.60193999999998,
+    107.60194,
     -6.93917
 ],
-  "geometry": {"coordinates":[107.60193999999998,-6.93917],"type":"Point"}
+  "geometry": {"coordinates":[107.60194,-6.93917],"type":"Point"}
 }

@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Halong"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672097,
-        1108796829
+        1108796829,
+        85672097
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1643474
     },
     "wof:country":"ID",
-    "wof:geomhash":"469e60ad6c83b9dff00958ebdb3a0730",
+    "wof:geomhash":"980b6607a56fd6ad7df63636edcebb0f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1326677255,
-    "wof:lastmodified":1537627094,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614649836,
     "wof:name":"Halong",
     "wof:parent_id":1108796829,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    128.22561000000002,
+    128.22561,
     -3.66085,
-    128.22561000000002,
+    128.22561,
     -3.66085
 ],
-  "geometry": {"coordinates":[128.22561000000002,-3.66085],"type":"Point"}
+  "geometry": {"coordinates":[128.22560999999999,-3.66085],"type":"Point"}
 }

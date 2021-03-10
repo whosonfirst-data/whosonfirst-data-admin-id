@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Tumbu"
     ],
@@ -36,7 +37,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672041,
+        102073115
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +50,24 @@
     "wof:geomhash":"baf4065d98df9c7bb4ef97076032c6ff",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209554007
+            "county_id":102073115,
+            "locality_id":1209554007,
+            "region_id":85672041
         }
     ],
     "wof:id":1209554007,
-    "wof:lastmodified":1564184692,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614718567,
     "wof:name":"Tumbu",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073115,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

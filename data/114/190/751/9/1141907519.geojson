@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"136.048480997,-1.16149371451,136.048480997,-1.16149371451",
+    "geom:bbox":"136.048481,-1.161494,136.048481,-1.161494",
     "geom:latitude":-1.161494,
     "geom:longitude":136.048481,
     "iso:country":"ID",
@@ -14,6 +14,7 @@
     "lbl:longitude":136.048481,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ara_x_preferred":[
         "\u062c\u0632\u064a\u0631\u0629 \u0628\u064a\u0627\u0643"
     ],
@@ -194,14 +195,14 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672115,
-        1108796871
+        1108796871,
+        85672115
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"ID",
     "wof:created":1499130736,
-    "wof:geomhash":"bcc6003dfab34676bb7d6af60e9d3487",
+    "wof:geomhash":"7230f630ba41019e86116864de31b81b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -212,7 +213,14 @@
         }
     ],
     "wof:id":1141907519,
-    "wof:lastmodified":1564208962,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614654949,
     "wof:name":"Biak",
     "wof:parent_id":1108796871,
     "wof:placetype":"locality",
@@ -222,10 +230,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    136.04848099685103,
-    -1.16149371450644,
-    136.04848099685103,
-    -1.16149371450644
+    136.048481,
+    -1.161494,
+    136.048481,
+    -1.161494
 ],
-  "geometry": {"coordinates":[136.04848099685103,-1.16149371450644],"type":"Point"}
+  "geometry": {"coordinates":[136.04848100000001,-1.161494],"type":"Point"}
 }

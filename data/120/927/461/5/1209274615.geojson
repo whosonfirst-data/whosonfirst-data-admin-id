@@ -25,29 +25,43 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Nagrak"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671983,
+        102073217
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6592585
     },
     "wof:country":"ID",
-    "wof:geomhash":"97b118ebe4f96591be611949a926fff8",
+    "wof:geomhash":"5b8e153475ecbf8ffd9011a79c659fea",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209274615
+            "county_id":102073217,
+            "locality_id":1209274615,
+            "region_id":85671983
         }
     ],
     "wof:id":1209274615,
-    "wof:lastmodified":1537629739,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614719405,
     "wof:name":"Nagrak",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073217,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
@@ -55,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.14943999999998,
+    107.14944,
     -6.57333,
-    107.14943999999998,
+    107.14944,
     -6.57333
 ],
-  "geometry": {"coordinates":[107.14943999999998,-6.57333],"type":"Point"}
+  "geometry": {"coordinates":[107.14944,-6.57333],"type":"Point"}
 }

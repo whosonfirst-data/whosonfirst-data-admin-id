@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Sukahurip"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072739
+        102072739,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6581180
     },
     "wof:country":"ID",
-    "wof:geomhash":"4c80f215aae3ae935255e9cfccb85f8a",
+    "wof:geomhash":"2d6b569cc7106e8d8fee54285adc900e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1309755899,
-    "wof:lastmodified":1537629464,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614653699,
     "wof:name":"Sukahurip",
     "wof:parent_id":102072739,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.92638999999998,
+    107.92639,
     -6.82222,
-    107.92638999999998,
+    107.92639,
     -6.82222
 ],
-  "geometry": {"coordinates":[107.92638999999998,-6.82222],"type":"Point"}
+  "geometry": {"coordinates":[107.92639,-6.82222],"type":"Point"}
 }

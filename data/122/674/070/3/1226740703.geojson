@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Grenjeng Kidul"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072947
+        102072947,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6406947
     },
     "wof:country":"ID",
-    "wof:geomhash":"c2e2f4c9712af2f53d41f90ac3fba5df",
+    "wof:geomhash":"e111ac7872a3f513fef32d338719fa15",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1226740703,
-    "wof:lastmodified":1537628973,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614644886,
     "wof:name":"Grenjeng Kidul",
     "wof:parent_id":102072947,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.16306000000002,
+    111.16306,
     -7.76083,
-    111.16306000000002,
+    111.16306,
     -7.76083
 ],
-  "geometry": {"coordinates":[111.16306000000002,-7.76083],"type":"Point"}
+  "geometry": {"coordinates":[111.16306,-7.76083],"type":"Point"}
 }

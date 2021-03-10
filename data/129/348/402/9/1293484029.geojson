@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Babakan Wetan"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073119
+        102073119,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6391238
     },
     "wof:country":"ID",
-    "wof:geomhash":"2ae1b85a0d0b0a8b53e48385d2292d3b",
+    "wof:geomhash":"5b29af1b5a7cd17e7f79fb6c858b4a23",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1293484029,
-    "wof:lastmodified":1537628744,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614635673,
     "wof:name":"Babakan Wetan",
     "wof:parent_id":102073119,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.07361000000002,
+    109.07361,
     -7.14333,
-    109.07361000000002,
+    109.07361,
     -7.14333
 ],
-  "geometry": {"coordinates":[109.07361000000002,-7.14333],"type":"Point"}
+  "geometry": {"coordinates":[109.07361,-7.14333],"type":"Point"}
 }

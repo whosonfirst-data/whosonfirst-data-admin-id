@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Wanasari"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073515
+        102073515,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6396241
     },
     "wof:country":"ID",
-    "wof:geomhash":"56d9bebaf802a64ce722e75b04e41dd8",
+    "wof:geomhash":"be47cce8e3a88404de0da8f285516741",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1226091743,
-    "wof:lastmodified":1537628746,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614646019,
     "wof:name":"Wanasari",
     "wof:parent_id":102073515,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.26111000000002,
+    108.26111,
     -6.65917,
-    108.26111000000002,
+    108.26111,
     -6.65917
 ],
-  "geometry": {"coordinates":[108.26111000000002,-6.65917],"type":"Point"}
+  "geometry": {"coordinates":[108.26111,-6.65917],"type":"Point"}
 }

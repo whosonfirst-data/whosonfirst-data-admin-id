@@ -25,26 +25,40 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672115,
+        102072939
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8605474
     },
     "wof:country":"ID",
-    "wof:geomhash":"4f8f079bec1300e462d8ca25cd05ebba",
+    "wof:geomhash":"ca09e9345b9c3f4d586403c6a62f0cb6",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209022595
+            "county_id":102072939,
+            "locality_id":1209022595,
+            "region_id":85672115
         }
     ],
     "wof:id":1209022595,
-    "wof:lastmodified":1536300100,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614717366,
     "wof:name":"Pasirputlh",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072939,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
@@ -53,9 +67,9 @@
 },
   "bbox": [
     138.29763,
-    -8.435310000000001,
+    -8.43531,
     138.29763,
-    -8.435310000000001
+    -8.43531
 ],
   "geometry": {"coordinates":[138.29763,-8.43531],"type":"Point"}
 }

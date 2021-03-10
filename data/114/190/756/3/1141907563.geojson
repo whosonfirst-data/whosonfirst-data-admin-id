@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"109.015402383,-7.71881956089,109.015402383,-7.71881956089",
+    "geom:bbox":"109.015402,-7.71882,109.015402,-7.71882",
     "geom:latitude":-7.71882,
     "geom:longitude":109.015402,
     "iso:country":"ID",
@@ -14,6 +14,7 @@
     "lbl:longitude":109.015402,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:deu_x_preferred":[
         "Cilacap"
     ],
@@ -146,8 +147,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072819
+        102072819,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -155,7 +156,7 @@
     },
     "wof:country":"ID",
     "wof:created":1499130742,
-    "wof:geomhash":"6e08189d2328f32ad8514266b7eac91c",
+    "wof:geomhash":"eb7ad0fcfe38111bcba2f13e0854d953",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -166,7 +167,14 @@
         }
     ],
     "wof:id":1141907563,
-    "wof:lastmodified":1561758017,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614654949,
     "wof:name":"Cilacap",
     "wof:parent_id":102072819,
     "wof:placetype":"locality",
@@ -176,10 +184,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.01540238346155,
-    -7.7188195608868,
-    109.01540238346155,
-    -7.7188195608868
+    109.015402,
+    -7.71882,
+    109.015402,
+    -7.71882
 ],
-  "geometry": {"coordinates":[109.01540238346155,-7.7188195608868],"type":"Point"}
+  "geometry": {"coordinates":[109.01540199999999,-7.71882],"type":"Point"}
 }

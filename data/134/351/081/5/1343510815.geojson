@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Susukan"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073217
+        102073217,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6604603
     },
     "wof:country":"ID",
-    "wof:geomhash":"dea56b31d62bf703a540df892713a8b9",
+    "wof:geomhash":"8103da6594c4d3979556ba7152c91ae8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1343510815,
-    "wof:lastmodified":1537630041,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614634668,
     "wof:name":"Susukan",
     "wof:parent_id":102073217,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.55138999999998,
+    106.55139,
     -6.52194,
-    106.55138999999998,
+    106.55139,
     -6.52194
 ],
-  "geometry": {"coordinates":[106.55138999999998,-6.52194],"type":"Point"}
+  "geometry": {"coordinates":[106.55139,-6.52194],"type":"Point"}
 }

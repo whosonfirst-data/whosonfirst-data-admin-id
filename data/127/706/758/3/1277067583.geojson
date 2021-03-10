@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Blembeng Dua"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072715
+        102072715,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6390651
     },
     "wof:country":"ID",
-    "wof:geomhash":"d980c7eede66f62a9c3c8f82f68f67cf",
+    "wof:geomhash":"1733b88075d3f9c5160afba6762a4965",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1277067583,
-    "wof:lastmodified":1537628723,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614636656,
     "wof:name":"Blembeng Dua",
     "wof:parent_id":102072715,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.26111000000002,
+    109.26111,
     -7.31694,
-    109.26111000000002,
+    109.26111,
     -7.31694
 ],
-  "geometry": {"coordinates":[109.26111000000002,-7.31694],"type":"Point"}
+  "geometry": {"coordinates":[109.26111,-7.31694],"type":"Point"}
 }

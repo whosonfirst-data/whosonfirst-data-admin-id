@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Dangdeur"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073529
+        102073529,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6588542
     },
     "wof:country":"ID",
-    "wof:geomhash":"221edfc225e17e57fe2da39b4dc55b0f",
+    "wof:geomhash":"b19b00b033ee42c14f8c588fb978a81d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1326490451,
-    "wof:lastmodified":1537629615,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614650017,
     "wof:name":"Dangdeur",
     "wof:parent_id":102073529,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.16306000000002,
+    107.16306,
     -6.88694,
-    107.16306000000002,
+    107.16306,
     -6.88694
 ],
-  "geometry": {"coordinates":[107.16306000000002,-6.88694],"type":"Point"}
+  "geometry": {"coordinates":[107.16306,-6.88694],"type":"Point"}
 }

@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Putat"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073551
+        102073551,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6594969
     },
     "wof:country":"ID",
-    "wof:geomhash":"a9a5850a91ac29db240128c81b58ae13",
+    "wof:geomhash":"357bde19afa93af1e65881b0521dfad5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1293061355,
-    "wof:lastmodified":1537629811,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614635392,
     "wof:name":"Putat",
     "wof:parent_id":102073551,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.12888999999998,
+    107.12889,
     -6.43972,
-    107.12888999999998,
+    107.12889,
     -6.43972
 ],
-  "geometry": {"coordinates":[107.12888999999998,-6.43972],"type":"Point"}
+  "geometry": {"coordinates":[107.12889,-6.43972],"type":"Point"}
 }

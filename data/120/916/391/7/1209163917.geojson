@@ -26,13 +26,17 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Babakon 1",
         "Babakon Satu"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671983,
+        102072949
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +46,24 @@
     "wof:geomhash":"bfe0dd83a51e784bcb6ff34a29da5ebe",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209163917
+            "county_id":102072949,
+            "locality_id":1209163917,
+            "region_id":85671983
         }
     ],
     "wof:id":1209163917,
-    "wof:lastmodified":1537627664,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614717508,
     "wof:name":"Babakon Satu",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072949,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

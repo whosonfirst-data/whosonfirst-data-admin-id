@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Cibunar"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073217
+        102073217,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6605793
     },
     "wof:country":"ID",
-    "wof:geomhash":"f83bfe539dd90fbfbe8eef165693b5de",
+    "wof:geomhash":"d214472ae3a9916428e31b7076196b22",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1209761655,
-    "wof:lastmodified":1537630088,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614638511,
     "wof:name":"Cibunar",
     "wof:parent_id":102073217,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.45638999999998,
+    106.45639,
     -6.32056,
-    106.45638999999998,
+    106.45639,
     -6.32056
 ],
-  "geometry": {"coordinates":[106.45638999999998,-6.32056],"type":"Point"}
+  "geometry": {"coordinates":[106.45639,-6.32056],"type":"Point"}
 }

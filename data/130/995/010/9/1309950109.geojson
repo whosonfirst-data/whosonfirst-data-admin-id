@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Epet"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672115,
-        102073423
+        102073423,
+        85672115
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8520111
     },
     "wof:country":"ID",
-    "wof:geomhash":"0e6adb100693b839085d8a0a80e2fbc6",
+    "wof:geomhash":"b7f53b897eff76dbaedc6857a3beaaa9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1309950109,
-    "wof:lastmodified":1537636291,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614641906,
     "wof:name":"Epet",
     "wof:parent_id":102073423,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    137.92848999999998,
+    137.92849,
     -5.39591,
-    137.92848999999998,
+    137.92849,
     -5.39591
 ],
-  "geometry": {"coordinates":[137.92848999999998,-5.39591],"type":"Point"}
+  "geometry": {"coordinates":[137.92849000000001,-5.39591],"type":"Point"}
 }

@@ -6,13 +6,14 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"114.8771875,-8.4455655,114.8771875,-8.4455655",
+    "geom:bbox":"114.877188,-8.445566,114.877188,-8.445566",
     "geom:latitude":-8.445566,
     "geom:longitude":114.877188,
     "gp:adm0":23424846,
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:name":"Gumbrih",
     "qs:name_adm0":"Indonesia",
     "qs:name_adm1":"Bali",
@@ -27,8 +28,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672023,
-        102073261
+        102073261,
+        85672023
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,7 +38,7 @@
     },
     "wof:country":"ID",
     "wof:created":1469055241,
-    "wof:geomhash":"95657d451f145dfd46469f53156ba957",
+    "wof:geomhash":"44e5ae9401f0b8d5fda68d70b7719562",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +49,14 @@
         }
     ],
     "wof:id":890499997,
-    "wof:lastmodified":1500046155,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614642118,
     "wof:name":"Gumbrih",
     "wof:parent_id":102073261,
     "wof:placetype":"locality",
@@ -58,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    114.87718750000002,
-    -8.4455655,
-    114.87718750000002,
-    -8.4455655
+    114.877188,
+    -8.445566,
+    114.877188,
+    -8.445566
 ],
-  "geometry": {"coordinates":[114.87718750000002,-8.4455655],"type":"Point"}
+  "geometry": {"coordinates":[114.877188,-8.445566],"type":"Point"}
 }

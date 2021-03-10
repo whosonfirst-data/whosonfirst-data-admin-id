@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Jatan-Dafera"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672115,
-        102073195
+        102073195,
+        85672115
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8526250
     },
     "wof:country":"ID",
-    "wof:geomhash":"21e6062b90a763e6d34e6c88062c61d2",
+    "wof:geomhash":"8cd19dfcc6178997cd418906200c668b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1242617635,
-    "wof:lastmodified":1537636295,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614642631,
     "wof:name":"Jatan-Dafera",
     "wof:parent_id":102073195,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    139.22068000000002,
+    139.22068,
     -6.76059,
-    139.22068000000002,
+    139.22068,
     -6.76059
 ],
-  "geometry": {"coordinates":[139.22068000000002,-6.76059],"type":"Point"}
+  "geometry": {"coordinates":[139.22067999999999,-6.76059],"type":"Point"}
 }

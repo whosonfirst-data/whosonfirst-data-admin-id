@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Oedjoengtandjoeng",
         "Udjungtandjung",
@@ -34,8 +35,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672077,
-        1108796923
+        1108796923,
+        85672077
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,7 +54,14 @@
         }
     ],
     "wof:id":1293541145,
-    "wof:lastmodified":1537626443,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614635333,
     "wof:name":"Ujungtanjung",
     "wof:parent_id":1108796923,
     "wof:placetype":"locality",

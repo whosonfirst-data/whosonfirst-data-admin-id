@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Ngejring"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073189
+        102073189,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6371278
     },
     "wof:country":"ID",
-    "wof:geomhash":"2f6f0ff052a27aac55daf2d995de2d05",
+    "wof:geomhash":"9aff755923d43cb28bd7abe467259f6a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1310183759,
-    "wof:lastmodified":1537628336,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614653307,
     "wof:name":"Ngejring",
     "wof:parent_id":102073189,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.74611000000002,
+    110.74611,
     -8.03722,
-    110.74611000000002,
+    110.74611,
     -8.03722
 ],
-  "geometry": {"coordinates":[110.74611000000002,-8.03722],"type":"Point"}
+  "geometry": {"coordinates":[110.74611,-8.03722],"type":"Point"}
 }

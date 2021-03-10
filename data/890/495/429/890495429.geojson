@@ -4,18 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"106.803,-6.1457,106.803,-6.1457",
-    "geom:latitude":-6.1457,
-    "geom:longitude":106.803,
+    "geom:area":0.000042,
+    "geom:area_square_m":512224.321499,
+    "geom:bbox":"106.79998,-6.148556,106.80724,-6.141508",
+    "geom:latitude":-6.144944,
+    "geom:longitude":106.803625,
     "gn:country":"ID",
     "gn:fcode":"PPL",
     "gn:pop":0,
     "gp:adm0":23424846,
     "iso:country":"ID",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "name:ind_x_preferred":[
         "Jembatan Lima"
     ],
@@ -30,9 +30,17 @@
     "qs:photos_sr":2,
     "qs:placetype":"Suburb",
     "qs:pop_sr":"0",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "unknown"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
-        102020439
+        102191569,
+        85632203,
+        102020437,
+        102072841,
+        85672001
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,20 +50,31 @@
     },
     "wof:country":"ID",
     "wof:created":1469055032,
-    "wof:geomhash":"112d1cdcb69a92a97663d7a36685b2bc",
+    "wof:geom_alt":[
+        "unknown"
+    ],
+    "wof:geomhash":"39f4e3aea530cd8f3fb737f122c05815",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
-            "locality_id":102020439,
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102072841,
+            "locality_id":102020437,
             "neighbourhood_id":890495429,
-            "region_id":-1
+            "region_id":85672001
         }
     ],
     "wof:id":890495429,
-    "wof:lastmodified":1507590239,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614744863,
     "wof:name":"Djembatanlima",
-    "wof:parent_id":102020439,
+    "wof:parent_id":102020437,
     "wof:placetype":"neighbourhood",
     "wof:population":0,
     "wof:repo":"whosonfirst-data-admin-id",
@@ -64,10 +83,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.803,
-    -6.1457,
-    106.803,
-    -6.1457
+    106.79998,
+    -6.148556,
+    106.80724,
+    -6.141508
 ],
-  "geometry": {"coordinates":[106.803,-6.1457],"type":"Point"}
+  "geometry": {"coordinates":[[[106.80723999999999,-6.147696],[106.80085099999999,-6.148556],[106.79998000000001,-6.142049],[106.806546,-6.141508],[106.80723999999999,-6.147696]]],"type":"Polygon"}
 }

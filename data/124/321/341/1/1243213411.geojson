@@ -26,6 +26,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kanajakan",
         "Kanayakan"
@@ -34,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671995,
-        102072687
+        102072687,
+        85671995
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1960145
     },
     "wof:country":"ID",
-    "wof:geomhash":"281a85a20965c441c12b18b9337d49cb",
+    "wof:geomhash":"fc7017a44ea25a8f07123737ab5e7063",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +54,14 @@
         }
     ],
     "wof:id":1243213411,
-    "wof:lastmodified":1537627542,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614643637,
     "wof:name":"Kanayakan",
     "wof:parent_id":102072687,
     "wof:placetype":"locality",
@@ -63,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.44861000000002,
+    106.44861,
     -6.13111,
-    106.44861000000002,
+    106.44861,
     -6.13111
 ],
-  "geometry": {"coordinates":[106.44861000000002,-6.13111],"type":"Point"}
+  "geometry": {"coordinates":[106.44861,-6.13111],"type":"Point"}
 }

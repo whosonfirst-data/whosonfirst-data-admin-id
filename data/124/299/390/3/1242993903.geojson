@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:afr_x_preferred":[
         "Sukabumi"
     ],
@@ -116,8 +117,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072983
+        102072983,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -135,7 +136,14 @@
         }
     ],
     "wof:id":1242993903,
-    "wof:lastmodified":1564201095,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614654152,
     "wof:name":"Sukabumi",
     "wof:parent_id":102072983,
     "wof:placetype":"locality",

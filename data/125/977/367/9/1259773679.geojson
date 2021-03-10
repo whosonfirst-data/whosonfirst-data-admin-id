@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0631\u0628 \u0642\u062f\u064a\u0645"
     ],
@@ -140,8 +141,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102072995
+        102072995,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -159,7 +160,14 @@
         }
     ],
     "wof:id":1259773679,
-    "wof:lastmodified":1564202589,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614654321,
     "wof:name":"Veteran",
     "wof:parent_id":102072995,
     "wof:placetype":"locality",

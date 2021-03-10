@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Genengan",
         "Geneng"
@@ -33,15 +34,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072929
+        102072929,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1644189
     },
     "wof:country":"ID",
-    "wof:geomhash":"f7fcb6541396d5aa1163655363da0d5a",
+    "wof:geomhash":"50450d95f08388aa4fcf85e41bed81d4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,7 +53,14 @@
         }
     ],
     "wof:id":1276223485,
-    "wof:lastmodified":1537627113,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614637482,
     "wof:name":"Geneng",
     "wof:parent_id":102072929,
     "wof:placetype":"locality",
@@ -62,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.87888999999998,
+    110.87889,
     -7.43417,
-    110.87888999999998,
+    110.87889,
     -7.43417
 ],
-  "geometry": {"coordinates":[110.87888999999998,-7.43417],"type":"Point"}
+  "geometry": {"coordinates":[110.87889,-7.43417],"type":"Point"}
 }

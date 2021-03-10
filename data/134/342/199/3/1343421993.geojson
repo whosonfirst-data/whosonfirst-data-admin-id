@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -35,7 +36,7 @@
         "gn:id":1633701
     },
     "wof:country":"ID",
-    "wof:geomhash":"70c0080b9cfb08866973f857cebc8942",
+    "wof:geomhash":"5ebee16dbe22fb4b8f2098b4c46b5dce",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -45,7 +46,14 @@
         }
     ],
     "wof:id":1343421993,
-    "wof:lastmodified":1536801924,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614634992,
     "wof:name":"Obabarumalo",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
@@ -55,10 +63,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    127.55091000000002,
+    127.55091,
     0.73215,
-    127.55091000000002,
+    127.55091,
     0.73215
 ],
-  "geometry": {"coordinates":[127.55091000000002,0.73215],"type":"Point"}
+  "geometry": {"coordinates":[127.55091,0.73215],"type":"Point"}
 }

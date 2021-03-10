@@ -26,6 +26,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tenggina 1",
         "Tenggina Satu"
@@ -34,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102073063
+        102073063,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1971056
     },
     "wof:country":"ID",
-    "wof:geomhash":"18eb90a678384c019275d95735ea22d4",
+    "wof:geomhash":"9fa98c0b3e88946f8b4d1b21c7397e3d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +54,14 @@
         }
     ],
     "wof:id":1327323793,
-    "wof:lastmodified":1537628019,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614633105,
     "wof:name":"Tenggina Satu",
     "wof:parent_id":102073063,
     "wof:placetype":"locality",
@@ -63,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    112.85611000000002,
+    112.85611,
     -7.04667,
-    112.85611000000002,
+    112.85611,
     -7.04667
 ],
-  "geometry": {"coordinates":[112.85611000000002,-7.04667],"type":"Point"}
+  "geometry": {"coordinates":[112.85611,-7.04667],"type":"Point"}
 }

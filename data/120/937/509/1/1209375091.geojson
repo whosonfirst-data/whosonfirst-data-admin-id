@@ -25,26 +25,40 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671983,
+        102073551
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1647511
     },
     "wof:country":"ID",
-    "wof:geomhash":"d80a72df936fd4aeb7aa0dbc791e4c71",
+    "wof:geomhash":"f7ef518c41f46b78c00abd02ef4b2b68",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209375091
+            "county_id":102073551,
+            "locality_id":1209375091,
+            "region_id":85671983
         }
     ],
     "wof:id":1209375091,
-    "wof:lastmodified":1536288978,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614722172,
     "wof:name":"Busuk 1",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073551,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
@@ -53,9 +67,9 @@
 },
   "bbox": [
     107.19833,
-    -6.3638900000000005,
+    -6.36389,
     107.19833,
-    -6.3638900000000005
+    -6.36389
 ],
   "geometry": {"coordinates":[107.19833,-6.36389],"type":"Point"}
 }

@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Keseneng"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072587
+        102072587,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6567314
     },
     "wof:country":"ID",
-    "wof:geomhash":"70124e874cc2c585d8dfe9a48975001b",
+    "wof:geomhash":"6b4f14ba9dd7e1654f937f23b28f669a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1225839041,
-    "wof:lastmodified":1537629317,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614654944,
     "wof:name":"Keseneng",
     "wof:parent_id":102072587,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.89943999999998,
+    109.89944,
     -7.40611,
-    109.89943999999998,
+    109.89944,
     -7.40611
 ],
-  "geometry": {"coordinates":[109.89943999999998,-7.40611],"type":"Point"}
+  "geometry": {"coordinates":[109.89944,-7.40611],"type":"Point"}
 }

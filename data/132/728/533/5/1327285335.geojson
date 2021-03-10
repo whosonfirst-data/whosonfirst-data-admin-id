@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0625\u0635\u0628\u0639 \u0627\u0644\u0642\u062f\u0645"
     ],
@@ -155,8 +156,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672041,
-        102073433
+        102073433,
+        85672041
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -174,7 +175,14 @@
         }
     ],
     "wof:id":1327285335,
-    "wof:lastmodified":1564170841,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614633595,
     "wof:name":"Toe",
     "wof:parent_id":102073433,
     "wof:placetype":"locality",

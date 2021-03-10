@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Bandulan"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102073013
+        102073013,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6386924
     },
     "wof:country":"ID",
-    "wof:geomhash":"9e9a347fdd2bd79ea858f28cf03d15f9",
+    "wof:geomhash":"8aaac7037594294294d192f1ca1a1166",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1343551541,
-    "wof:lastmodified":1537628623,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614633985,
     "wof:name":"Bandulan",
     "wof:parent_id":102073013,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.02306000000002,
+    111.02306,
     -8.08583,
-    111.02306000000002,
+    111.02306,
     -8.08583
 ],
-  "geometry": {"coordinates":[111.02306000000002,-8.08583],"type":"Point"}
+  "geometry": {"coordinates":[111.02306,-8.08583],"type":"Point"}
 }

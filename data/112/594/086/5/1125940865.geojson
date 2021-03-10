@@ -17,6 +17,7 @@
     "lbl:longitude":112.7841,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u062c\u0632\u064a\u0631\u0629 \u0628\u0648\u0646\u0647"
@@ -60,8 +61,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102073063
+        102073063,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -82,7 +83,14 @@
         }
     ],
     "wof:id":1125940865,
-    "wof:lastmodified":1564197369,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614653775,
     "wof:name":"Buneh",
     "wof:parent_id":102073063,
     "wof:placetype":"locality",

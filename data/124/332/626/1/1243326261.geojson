@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Natoen"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672037,
-        102073331
+        102073331,
+        85672037
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8393531
     },
     "wof:country":"ID",
-    "wof:geomhash":"02a11b9c9ad15f9d3cf925bb3e987041",
+    "wof:geomhash":"6202c711cbb8497a59879e714e0c64ff",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1243326261,
-    "wof:lastmodified":1537635919,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614643012,
     "wof:name":"Natoen",
     "wof:parent_id":102073331,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    123.59841000000002,
+    123.59841,
     -9.9535,
-    123.59841000000002,
+    123.59841,
     -9.9535
 ],
-  "geometry": {"coordinates":[123.59841000000002,-9.9535],"type":"Point"}
+  "geometry": {"coordinates":[123.59841,-9.9535],"type":"Point"}
 }

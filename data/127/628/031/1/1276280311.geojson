@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Tanjung"
     ],
@@ -50,15 +51,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073551
+        102073551,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6593698
     },
     "wof:country":"ID",
-    "wof:geomhash":"b241816fc1fe71ab34e981c5a95c4c1a",
+    "wof:geomhash":"e0c76b64a8c81f29c2d68ce2d2188c9b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -69,7 +70,14 @@
         }
     ],
     "wof:id":1276280311,
-    "wof:lastmodified":1564180561,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614636875,
     "wof:name":"Tanjung",
     "wof:parent_id":102073551,
     "wof:placetype":"locality",
@@ -79,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.16306000000002,
+    107.16306,
     -6.26639,
-    107.16306000000002,
+    107.16306,
     -6.26639
 ],
-  "geometry": {"coordinates":[107.16306000000002,-6.26639],"type":"Point"}
+  "geometry": {"coordinates":[107.16306,-6.26639],"type":"Point"}
 }

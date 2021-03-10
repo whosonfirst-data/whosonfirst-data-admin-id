@@ -25,19 +25,20 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        85672037,
-        102073179
+        102073179,
+        85672037
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1951246
     },
     "wof:country":"ID",
-    "wof:geomhash":"72d89d1226cb4bea5ee5505153a6fc3e",
+    "wof:geomhash":"754f3a67b325a3d073aca3a992093a65",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +49,14 @@
         }
     ],
     "wof:id":1277139739,
-    "wof:lastmodified":1536685595,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614637350,
     "wof:name":"Nefotubu",
     "wof:parent_id":102073179,
     "wof:placetype":"locality",
@@ -58,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    124.41861000000002,
+    124.41861,
     -9.485,
-    124.41861000000002,
+    124.41861,
     -9.485
 ],
-  "geometry": {"coordinates":[124.41861000000002,-9.485],"type":"Point"}
+  "geometry": {"coordinates":[124.41861,-9.485],"type":"Point"}
 }

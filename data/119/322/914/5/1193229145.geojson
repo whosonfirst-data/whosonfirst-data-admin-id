@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ngoewoel",
         "Nguwul"
@@ -36,7 +37,7 @@
         "gn:id":1900098
     },
     "wof:country":"ID",
-    "wof:geomhash":"11139cdfbc9f61701ce042973ada6f2b",
+    "wof:geomhash":"c639ede3635538648f07d864106e9d4a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -46,7 +47,14 @@
         }
     ],
     "wof:id":1193229145,
-    "wof:lastmodified":1537627398,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614639519,
     "wof:name":"Nguwul",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
@@ -56,10 +64,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    132.78701999999998,
+    132.78702,
     -5.90998,
-    132.78701999999998,
+    132.78702,
     -5.90998
 ],
-  "geometry": {"coordinates":[132.78701999999998,-5.90998],"type":"Point"}
+  "geometry": {"coordinates":[132.78702000000001,-5.90998],"type":"Point"}
 }

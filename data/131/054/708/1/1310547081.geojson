@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Tegalpanjang"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072855
+        102072855,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6601491
     },
     "wof:country":"ID",
-    "wof:geomhash":"0f39c580bcab70ad73d36f9e18b503b4",
+    "wof:geomhash":"d4d8366ebb22ec6bf71754a876d89fb6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1310547081,
-    "wof:lastmodified":1537629987,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614640481,
     "wof:name":"Tegalpanjang",
     "wof:parent_id":102072855,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.76888999999998,
+    106.76889,
     -6.99278,
-    106.76888999999998,
+    106.76889,
     -6.99278
 ],
-  "geometry": {"coordinates":[106.76888999999998,-6.99278],"type":"Point"}
+  "geometry": {"coordinates":[106.76889,-6.99278],"type":"Point"}
 }

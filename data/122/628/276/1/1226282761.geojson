@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Iseni"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672115,
-        102072997
+        102072997,
+        85672115
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7649337
     },
     "wof:country":"ID",
-    "wof:geomhash":"9e62f35af9ab552a9475a54b68e66ce1",
+    "wof:geomhash":"2859e3422946f4cf91f6a71b12785efa",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1226282761,
-    "wof:lastmodified":1537634176,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614644802,
     "wof:name":"Iseni",
     "wof:parent_id":102072997,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    135.59846000000002,
+    135.59846,
     -0.83618,
-    135.59846000000002,
+    135.59846,
     -0.83618
 ],
-  "geometry": {"coordinates":[135.59846000000002,-0.83618],"type":"Point"}
+  "geometry": {"coordinates":[135.59845999999999,-0.83618],"type":"Point"}
 }

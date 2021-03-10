@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Harikukun"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073449
+        102073449,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6598744
     },
     "wof:country":"ID",
-    "wof:geomhash":"787df5d5ef896c95271733b7fbe66785",
+    "wof:geomhash":"92b6895d23e6a50883c2a78da8f8c2a0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1343803915,
-    "wof:lastmodified":1537629936,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614650602,
     "wof:name":"Harikukun",
     "wof:parent_id":102073449,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.56638999999998,
+    107.56639,
     -6.93333,
-    107.56638999999998,
+    107.56639,
     -6.93333
 ],
-  "geometry": {"coordinates":[107.56638999999998,-6.93333],"type":"Point"}
+  "geometry": {"coordinates":[107.56639,-6.93333],"type":"Point"}
 }

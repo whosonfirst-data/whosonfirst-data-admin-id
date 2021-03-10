@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Konontetput"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672115,
-        1108796879
+        1108796879,
+        85672115
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8527581
     },
     "wof:country":"ID",
-    "wof:geomhash":"b39dbc0c964e7fa21ead4aa7bcfc8bb3",
+    "wof:geomhash":"b9ee5eaf03ef514cc5e9ad9d3686f6e7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1360124737,
-    "wof:lastmodified":1537636315,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614641281,
     "wof:name":"Konontetput",
     "wof:parent_id":1108796879,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    140.85241000000005,
+    140.85241,
     -5.68066,
-    140.85241000000005,
+    140.85241,
     -5.68066
 ],
-  "geometry": {"coordinates":[140.85241000000005,-5.68066],"type":"Point"}
+  "geometry": {"coordinates":[140.85240999999999,-5.68066],"type":"Point"}
 }

@@ -26,6 +26,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:und_x_variant":[
         "Pidjenan",
         "Pijenan"
@@ -34,8 +35,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073313
+        102073313,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,7 +54,14 @@
         }
     ],
     "wof:id":1225922667,
-    "wof:lastmodified":1537626707,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614654529,
     "wof:name":"Pijenan",
     "wof:parent_id":102073313,
     "wof:placetype":"locality",

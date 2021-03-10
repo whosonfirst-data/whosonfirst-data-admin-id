@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Ngangin"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072929
+        102072929,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6409560
     },
     "wof:country":"ID",
-    "wof:geomhash":"c5fc4efeb6af86ecbd1063909444ef17",
+    "wof:geomhash":"ca69c1bf96046be20e3e6e5588a77f68",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1343652545,
-    "wof:lastmodified":1537629045,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614633856,
     "wof:name":"Ngangin",
     "wof:parent_id":102072929,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.00388999999998,
+    111.00389,
     -7.40333,
-    111.00388999999998,
+    111.00389,
     -7.40333
 ],
-  "geometry": {"coordinates":[111.00388999999998,-7.40333],"type":"Point"}
+  "geometry": {"coordinates":[111.00389,-7.40333],"type":"Point"}
 }

@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Cihanarusa"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072739
+        102072739,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6584197
     },
     "wof:country":"ID",
-    "wof:geomhash":"cf171be84f271ae17d10412580d02167",
+    "wof:geomhash":"37914ba0d924cbc3d8c253acdc984798",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1310365533,
-    "wof:lastmodified":1537629550,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614653215,
     "wof:name":"Cihanarusa",
     "wof:parent_id":102072739,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.80138999999998,
+    107.80139,
     -6.94917,
-    107.80138999999998,
+    107.80139,
     -6.94917
 ],
-  "geometry": {"coordinates":[107.80138999999998,-6.94917],"type":"Point"}
+  "geometry": {"coordinates":[107.80139,-6.94917],"type":"Point"}
 }

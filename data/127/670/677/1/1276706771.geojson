@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Blokmarsijan"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073193
+        102073193,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6404444
     },
     "wof:country":"ID",
-    "wof:geomhash":"9c329afcf8c16b55ff2f2b41e2f90ac1",
+    "wof:geomhash":"785f35d9d9c29136d5f6bb80f26f2abc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1276706771,
-    "wof:lastmodified":1537628895,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614651758,
     "wof:name":"Blokmarsijan",
     "wof:parent_id":102073193,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.32193999999998,
+    108.32194,
     -6.37222,
-    108.32193999999998,
+    108.32194,
     -6.37222
 ],
-  "geometry": {"coordinates":[108.32193999999998,-6.37222],"type":"Point"}
+  "geometry": {"coordinates":[108.32194,-6.37222],"type":"Point"}
 }

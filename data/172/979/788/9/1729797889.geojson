@@ -1,0 +1,72 @@
+{
+  "id": 1729797889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000029,
+    "geom:area_square_m":356927.755875,
+    "geom:bbox":"112.742847,-7.236486,112.753167,-7.230159",
+    "geom:latitude":-7.233573,
+    "geom:longitude":112.748127,
+    "iso:country":"ID",
+    "lbl:latitude":-7.233728,
+    "lbl:longitude":112.748126,
+    "mps:latitude":-7.233728,
+    "mps:longitude":112.748126,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Simolawang"
+    ],
+    "name:ind_x_preferred":[
+        "Simolawang"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        102018911,
+        102073397,
+        85672027
+    ],
+    "wof:breaches":[],
+    "wof:country":"ID",
+    "wof:created":1613065526,
+    "wof:geomhash":"2fa2fcbffed2eab8621d41ae3acd1099",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102073397,
+            "locality_id":102018911,
+            "neighbourhood_id":1729797889,
+            "region_id":85672027
+        }
+    ],
+    "wof:id":1729797889,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614723229,
+    "wof:name":"Simolawang",
+    "wof:parent_id":102018911,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    112.742847,
+    -7.236486,
+    112.753167,
+    -7.230159
+],
+  "geometry": {"coordinates":[[[112.753167,-7.23366],[112.75157,-7.236486],[112.74819100000001,-7.235073],[112.746594,-7.234766],[112.742847,-7.234091],[112.745673,-7.230159],[112.746594,-7.23065],[112.74677800000001,-7.231633],[112.74819100000001,-7.232432],[112.750648,-7.232555],[112.75181600000001,-7.2328],[112.75261399999999,-7.233169],[112.753167,-7.23366]]],"type":"Polygon"}
+}

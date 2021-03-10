@@ -25,26 +25,40 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102073405
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2003891
     },
     "wof:country":"ID",
-    "wof:geomhash":"aefa368c2d4d3c851807d3f8efc5128d",
+    "wof:geomhash":"7560cace571728eb341f3f1e25deaf26",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209406035
+            "county_id":102073405,
+            "locality_id":1209406035,
+            "region_id":85671987
         }
     ],
     "wof:id":1209406035,
-    "wof:lastmodified":1536287993,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614720830,
     "wof:name":"Straten",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073405,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
@@ -53,9 +67,9 @@
 },
   "bbox": [
     110.74361,
-    -7.7716699999999985,
+    -7.77167,
     110.74361,
-    -7.7716699999999985
+    -7.77167
 ],
   "geometry": {"coordinates":[110.74361,-7.77167],"type":"Point"}
 }

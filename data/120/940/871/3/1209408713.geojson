@@ -25,26 +25,40 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102072929
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6262933
     },
     "wof:country":"ID",
-    "wof:geomhash":"1a2830bab835bd09984e5c99c149823a",
+    "wof:geomhash":"baef05df34ac355cdf10663eabc6cb6b",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209408713
+            "county_id":102072929,
+            "locality_id":1209408713,
+            "region_id":85671987
         }
     ],
     "wof:id":1209408713,
-    "wof:lastmodified":1536287910,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614717242,
     "wof:name":"Banjarsari",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072929,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
@@ -53,9 +67,9 @@
 },
   "bbox": [
     110.82972,
-    -7.4169399999999985,
+    -7.41694,
     110.82972,
-    -7.4169399999999985
+    -7.41694
 ],
   "geometry": {"coordinates":[110.82971999999999,-7.41694],"type":"Point"}
 }

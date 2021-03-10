@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Cibodas"
     ],
@@ -41,15 +42,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072715
+        102072715,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6388479
     },
     "wof:country":"ID",
-    "wof:geomhash":"190bcc56453e0d600df45dfdd373fe23",
+    "wof:geomhash":"b1aab5e25e7891ce61cd28a974387b1d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -60,7 +61,14 @@
         }
     ],
     "wof:id":1309997033,
-    "wof:lastmodified":1564195676,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614653590,
     "wof:name":"Cibodas",
     "wof:parent_id":102072715,
     "wof:placetype":"locality",
@@ -70,10 +78,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.06638999999998,
+    109.06639,
     -7.45028,
-    109.06638999999998,
+    109.06639,
     -7.45028
 ],
-  "geometry": {"coordinates":[109.06638999999998,-7.45028],"type":"Point"}
+  "geometry": {"coordinates":[109.06639,-7.45028],"type":"Point"}
 }

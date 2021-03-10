@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Wironatan"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073187
+        102073187,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6565933
     },
     "wof:country":"ID",
-    "wof:geomhash":"883b4202d85ff80b5edf87e547235ea8",
+    "wof:geomhash":"a2e9e281159cc79c85d84a488e1f36ba",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1310492489,
-    "wof:lastmodified":1537629277,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614640418,
     "wof:name":"Wironatan",
     "wof:parent_id":102073187,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.83693999999998,
+    109.83694,
     -7.71111,
-    109.83693999999998,
+    109.83694,
     -7.71111
 ],
-  "geometry": {"coordinates":[109.83693999999998,-7.71111],"type":"Point"}
+  "geometry": {"coordinates":[109.83694,-7.71111],"type":"Point"}
 }

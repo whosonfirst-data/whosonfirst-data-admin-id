@@ -25,26 +25,40 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102072947
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6255574
     },
     "wof:country":"ID",
-    "wof:geomhash":"5429054863d975702490f54799df8144",
+    "wof:geomhash":"2bd88418352680c479a50a49243f3ae0",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209100187
+            "county_id":102072947,
+            "locality_id":1209100187,
+            "region_id":85671987
         }
     ],
     "wof:id":1209100187,
-    "wof:lastmodified":1536297758,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614717404,
     "wof:name":"Ngarakan",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072947,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
@@ -53,9 +67,9 @@
 },
   "bbox": [
     110.88056,
-    -7.976939999999999,
+    -7.97694,
     110.88056,
-    -7.976939999999999
+    -7.97694
 ],
   "geometry": {"coordinates":[110.88056,-7.97694],"type":"Point"}
 }

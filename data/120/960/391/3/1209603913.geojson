@@ -25,26 +25,40 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672093,
+        102073189
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2004758
     },
     "wof:country":"ID",
-    "wof:geomhash":"93cabf6317619f5e92ea1fa8a1dd200a",
+    "wof:geomhash":"2ef8d80bebf74357656fc0b9108e3d67",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209603913
+            "county_id":102073189,
+            "locality_id":1209603913,
+            "region_id":85672093
         }
     ],
     "wof:id":1209603913,
-    "wof:lastmodified":1536282075,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614719095,
     "wof:name":"Gatak",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073189,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
@@ -53,9 +67,9 @@
 },
   "bbox": [
     110.68917,
-    -7.956939999999999,
+    -7.95694,
     110.68917,
-    -7.956939999999999
+    -7.95694
 ],
   "geometry": {"coordinates":[110.68917,-7.95694],"type":"Point"}
 }

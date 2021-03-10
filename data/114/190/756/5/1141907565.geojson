@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"105.300021931,-5.44960406609,105.300021931,-5.44960406609",
+    "geom:bbox":"105.300022,-5.449604,105.300022,-5.449604",
     "geom:latitude":-5.449604,
     "geom:longitude":105.300022,
     "iso:country":"ID",
@@ -14,6 +14,7 @@
     "lbl:longitude":105.300022,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:ace_x_preferred":[
         "Bandar Lampung"
     ],
@@ -294,8 +295,7 @@
     "reversegeo:longitude":105.300022,
     "src:geom":"naturalearth",
     "wof:belongsto":[
-        102191569,
-        85632203
+        102191569
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -303,16 +303,24 @@
     },
     "wof:country":"ID",
     "wof:created":1499130742,
-    "wof:geomhash":"249c12d8eb8b6f03f4dae32d2b95088a",
+    "wof:geomhash":"a13b51df44512266d65f64d61b76bd89",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
-            "country_id":85632203,
-            "locality_id":1141907565
+            "country_id":-1,
+            "locality_id":1141907565,
+            "region_id":-1
         }
     ],
     "wof:id":1141907565,
-    "wof:lastmodified":1563285011,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614727327,
     "wof:name":"Bandar Lampung",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
@@ -322,10 +330,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    105.30002193097278,
-    -5.44960406608607,
-    105.30002193097278,
-    -5.44960406608607
+    105.300022,
+    -5.449604,
+    105.300022,
+    -5.449604
 ],
-  "geometry": {"coordinates":[105.30002193097278,-5.44960406608607],"type":"Point"}
+  "geometry": {"coordinates":[105.300022,-5.449604],"type":"Point"}
 }

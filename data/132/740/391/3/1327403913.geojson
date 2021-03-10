@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Sriwaylangsep"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672009,
-        102072927
+        102072927,
+        85672009
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7862581
     },
     "wof:country":"ID",
-    "wof:geomhash":"36a1f34afe36f83a8658162e9afb1c30",
+    "wof:geomhash":"df542d364878aa825c27c3be774a304b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1327403913,
-    "wof:lastmodified":1537634701,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614632914,
     "wof:name":"Sriwaylangsep",
     "wof:parent_id":102072927,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    104.91998999999998,
+    104.91999,
     -5.26107,
-    104.91998999999998,
+    104.91999,
     -5.26107
 ],
-  "geometry": {"coordinates":[104.91998999999998,-5.26107],"type":"Point"}
+  "geometry": {"coordinates":[104.91999,-5.26107],"type":"Point"}
 }

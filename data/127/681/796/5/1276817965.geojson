@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Palawad Satu"
     ],
@@ -35,15 +36,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072937
+        102072937,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6606765
     },
     "wof:country":"ID",
-    "wof:geomhash":"b43c77d2e3e59abff26851cb8f40344b",
+    "wof:geomhash":"74ff2d23b91b2ac44b4f2442c59f3ca9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,7 +55,14 @@
         }
     ],
     "wof:id":1276817965,
-    "wof:lastmodified":1537630123,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614651402,
     "wof:name":"Palawad Satu",
     "wof:parent_id":102072937,
     "wof:placetype":"locality",
@@ -64,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.43361000000002,
+    107.43361,
     -6.31222,
-    107.43361000000002,
+    107.43361,
     -6.31222
 ],
-  "geometry": {"coordinates":[107.43361000000002,-6.31222],"type":"Point"}
+  "geometry": {"coordinates":[107.43361,-6.31222],"type":"Point"}
 }

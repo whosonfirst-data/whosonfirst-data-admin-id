@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:afr_x_preferred":[
         "Semen"
     ],
@@ -269,8 +270,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102073297
+        102073297,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -288,7 +289,14 @@
         }
     ],
     "wof:id":1243544867,
-    "wof:lastmodified":1564197602,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614653799,
     "wof:name":"Semen",
     "wof:parent_id":102073297,
     "wof:placetype":"locality",

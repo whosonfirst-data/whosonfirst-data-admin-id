@@ -25,19 +25,20 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072709
+        102072709,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1973046
     },
     "wof:country":"ID",
-    "wof:geomhash":"ff2ae9de274081d69063efbea84a26e3",
+    "wof:geomhash":"5cf3a53247ad437336be00cb6366f517",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +49,14 @@
         }
     ],
     "wof:id":1293121603,
-    "wof:lastmodified":1536816829,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614650889,
     "wof:name":"Karangsalam",
     "wof:parent_id":102072709,
     "wof:placetype":"locality",
@@ -58,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.56638999999998,
+    110.56639,
     -7.32694,
-    110.56638999999998,
+    110.56639,
     -7.32694
 ],
-  "geometry": {"coordinates":[110.56638999999998,-7.32694],"type":"Point"}
+  "geometry": {"coordinates":[110.56639,-7.32694],"type":"Point"}
 }

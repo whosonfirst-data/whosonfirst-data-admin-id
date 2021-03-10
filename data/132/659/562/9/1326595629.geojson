@@ -25,19 +25,20 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        85672037,
-        102073179
+        102073179,
+        85672037
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1939348
     },
     "wof:country":"ID",
-    "wof:geomhash":"597a9f4fb46b2f3791c2f4584d2a1115",
+    "wof:geomhash":"1a334f9adfd520185d493fa4089a35e3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +49,14 @@
         }
     ],
     "wof:id":1326595629,
-    "wof:lastmodified":1536892416,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614632737,
     "wof:name":"Fatubena",
     "wof:parent_id":102073179,
     "wof:placetype":"locality",
@@ -58,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    124.73111000000002,
+    124.73111,
     -9.32806,
-    124.73111000000002,
+    124.73111,
     -9.32806
 ],
-  "geometry": {"coordinates":[124.73111000000002,-9.32806],"type":"Point"}
+  "geometry": {"coordinates":[124.73111,-9.32806],"type":"Point"}
 }

@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Kedongdong"
     ],
@@ -36,15 +37,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072937
+        102072937,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1961454
     },
     "wof:country":"ID",
-    "wof:geomhash":"e85025ed16a25dbb058a4fd529c57eb4",
+    "wof:geomhash":"41a38d2763ccb7cb4cfb985ffdfa999a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -55,7 +56,14 @@
         }
     ],
     "wof:id":1193224253,
-    "wof:lastmodified":1537627611,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614639510,
     "wof:name":"Kedongdong",
     "wof:parent_id":102072937,
     "wof:placetype":"locality",
@@ -65,10 +73,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.18361000000002,
+    107.18361,
     -6.04917,
-    107.18361000000002,
+    107.18361,
     -6.04917
 ],
-  "geometry": {"coordinates":[107.18361000000002,-6.04917],"type":"Point"}
+  "geometry": {"coordinates":[107.18361,-6.04917],"type":"Point"}
 }

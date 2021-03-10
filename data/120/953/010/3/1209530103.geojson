@@ -26,6 +26,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Asur"
     ],
@@ -38,7 +39,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672115,
+        102072939
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +52,24 @@
     "wof:geomhash":"180b1f894aea38dd8fb7d07d4cb40378",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209530103
+            "county_id":102072939,
+            "locality_id":1209530103,
+            "region_id":85672115
         }
     ],
     "wof:id":1209530103,
-    "wof:lastmodified":1564183984,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614717367,
     "wof:name":"Asur",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072939,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

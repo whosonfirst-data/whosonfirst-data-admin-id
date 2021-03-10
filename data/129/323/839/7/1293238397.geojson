@@ -26,6 +26,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Meje"
     ],
@@ -52,15 +53,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072949
+        102072949,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1965521
     },
     "wof:country":"ID",
-    "wof:geomhash":"1b292674a0638284d6beaf18a4e2130c",
+    "wof:geomhash":"5476dc6be8b6d9f80079a139ca5afde6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -71,7 +72,14 @@
         }
     ],
     "wof:id":1293238397,
-    "wof:lastmodified":1564177308,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614635748,
     "wof:name":"Meje",
     "wof:parent_id":102072949,
     "wof:placetype":"locality",
@@ -81,10 +89,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.74056000000002,
+    107.74056,
     -7.00583,
-    107.74056000000002,
+    107.74056,
     -7.00583
 ],
-  "geometry": {"coordinates":[107.74056000000002,-7.00583],"type":"Point"}
+  "geometry": {"coordinates":[107.74056,-7.00583],"type":"Point"}
 }

@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Jambudipa Lebak"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        1108796793
+        1108796793,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6583442
     },
     "wof:country":"ID",
-    "wof:geomhash":"78bc95d42baf333a4982eca8dad1b958",
+    "wof:geomhash":"3f66b2728b543c927579562e3d0152ae",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1226593693,
-    "wof:lastmodified":1537629526,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614654688,
     "wof:name":"Jambudipa Lebak",
     "wof:parent_id":1108796793,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.55306000000002,
+    107.55306,
     -6.83889,
-    107.55306000000002,
+    107.55306,
     -6.83889
 ],
-  "geometry": {"coordinates":[107.55306000000002,-6.83889],"type":"Point"}
+  "geometry": {"coordinates":[107.55306,-6.83889],"type":"Point"}
 }

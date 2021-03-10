@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Songgom"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073119
+        102073119,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6391051
     },
     "wof:country":"ID",
-    "wof:geomhash":"2272a99c331e005240c4bd8b045b4663",
+    "wof:geomhash":"fe960b5151428d19827bf2f59e2ef9df",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1209806737,
-    "wof:lastmodified":1537628736,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614639016,
     "wof:name":"Songgom",
     "wof:parent_id":102073119,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.05138999999998,
+    109.05139,
     -7.18556,
-    109.05138999999998,
+    109.05139,
     -7.18556
 ],
-  "geometry": {"coordinates":[109.05138999999998,-7.18556],"type":"Point"}
+  "geometry": {"coordinates":[109.05139,-7.18556],"type":"Point"}
 }

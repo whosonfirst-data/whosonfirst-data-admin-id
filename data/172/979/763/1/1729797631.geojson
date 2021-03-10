@@ -1,0 +1,72 @@
+{
+  "id": 1729797631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000069,
+    "geom:area_square_m":846527.445425,
+    "geom:bbox":"112.710104,-7.324792,112.719165,-7.312906",
+    "geom:latitude":-7.319128,
+    "geom:longitude":112.714253,
+    "iso:country":"ID",
+    "lbl:latitude":-7.319107,
+    "lbl:longitude":112.714339,
+    "mps:latitude":-7.319107,
+    "mps:longitude":112.714339,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Jambangan"
+    ],
+    "name:ind_x_preferred":[
+        "Jambangan"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        102018911,
+        102073397,
+        85672027
+    ],
+    "wof:breaches":[],
+    "wof:country":"ID",
+    "wof:created":1613065436,
+    "wof:geomhash":"c228b8117749d450fc472b4ee88e4758",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102073397,
+            "locality_id":102018911,
+            "neighbourhood_id":1729797631,
+            "region_id":85672027
+        }
+    ],
+    "wof:id":1729797631,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614723128,
+    "wof:name":"Jambangan",
+    "wof:parent_id":102018911,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    112.710104,
+    -7.324792,
+    112.719165,
+    -7.312906
+],
+  "geometry": {"coordinates":[[[112.71120999999999,-7.312906],[112.716954,-7.315946],[112.717691,-7.314103],[112.719165,-7.314963],[112.71720000000001,-7.322335],[112.714742,-7.324792],[112.710112,-7.323592],[112.710104,-7.323472],[112.710227,-7.321506],[112.710964,-7.319417],[112.71120999999999,-7.317451],[112.71120999999999,-7.312906]]],"type":"Polygon"}
+}

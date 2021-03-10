@@ -25,19 +25,20 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        85671995,
-        102073479
+        102073479,
+        85671995
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1990190
     },
     "wof:country":"ID",
-    "wof:geomhash":"87bc34192588624c1a5a00c371944b9f",
+    "wof:geomhash":"c47645c18338e50767414cfe52070908",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +49,14 @@
         }
     ],
     "wof:id":1209977099,
-    "wof:lastmodified":1536392429,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614638202,
     "wof:name":"Ciawet",
     "wof:parent_id":102073479,
     "wof:placetype":"locality",
@@ -58,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.32361000000002,
+    106.32361,
     -6.18639,
-    106.32361000000002,
+    106.32361,
     -6.18639
 ],
-  "geometry": {"coordinates":[106.32361000000002,-6.18639],"type":"Point"}
+  "geometry": {"coordinates":[106.32361,-6.18639],"type":"Point"}
 }

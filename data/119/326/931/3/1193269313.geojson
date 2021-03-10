@@ -25,19 +25,20 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072983
+        102072983,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2011435
     },
     "wof:country":"ID",
-    "wof:geomhash":"24646b30a8656187e4e04b4cb21de080",
+    "wof:geomhash":"1acf5957278776c6ac67bd209dde1435",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +49,14 @@
         }
     ],
     "wof:id":1193269313,
-    "wof:lastmodified":1536372434,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614652929,
     "wof:name":"Purwomanto",
     "wof:parent_id":102072983,
     "wof:placetype":"locality",
@@ -58,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.67806000000002,
+    110.67806,
     -7.58722,
-    110.67806000000002,
+    110.67806,
     -7.58722
 ],
-  "geometry": {"coordinates":[110.67806000000002,-7.58722],"type":"Point"}
+  "geometry": {"coordinates":[110.67806,-7.58722],"type":"Point"}
 }

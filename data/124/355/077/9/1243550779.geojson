@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Gajahnguling"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072759
+        102072759,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6561834
     },
     "wof:country":"ID",
-    "wof:geomhash":"425139bf5fd93c8741d938bdc7214b59",
+    "wof:geomhash":"a61c0c48a541b06ffc977f5f6a7df851",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1243550779,
-    "wof:lastmodified":1537629168,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614642393,
     "wof:name":"Gajahnguling",
     "wof:parent_id":102072759,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.19861000000002,
+    109.19861,
     -7.16722,
-    109.19861000000002,
+    109.19861,
     -7.16722
 ],
-  "geometry": {"coordinates":[109.19861000000002,-7.16722],"type":"Point"}
+  "geometry": {"coordinates":[109.19861,-7.16722],"type":"Point"}
 }

@@ -1,0 +1,72 @@
+{
+  "id": 1729801871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000037,
+    "geom:area_square_m":455362.523642,
+    "geom:bbox":"106.826846,-6.159951,106.831732,-6.148192",
+    "geom:latitude":-6.154397,
+    "geom:longitude":106.829157,
+    "iso:country":"ID",
+    "lbl:latitude":-6.154498,
+    "lbl:longitude":106.829355,
+    "mps:latitude":-6.154498,
+    "mps:longitude":106.829355,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Karang Anyar"
+    ],
+    "name:ind_x_preferred":[
+        "Karang Anyar"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        102021905,
+        102073177,
+        85672001
+    ],
+    "wof:breaches":[],
+    "wof:country":"ID",
+    "wof:created":1613158548,
+    "wof:geomhash":"258f744654c1e9d85d17f1846ecea724",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102073177,
+            "locality_id":102021905,
+            "neighbourhood_id":1729801871,
+            "region_id":85672001
+        }
+    ],
+    "wof:id":1729801871,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614723325,
+    "wof:name":"Karang Anyar",
+    "wof:parent_id":102021905,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.826846,
+    -6.159951,
+    106.831732,
+    -6.148192
+],
+  "geometry": {"coordinates":[[[106.826846,-6.148549],[106.82892099999999,-6.148192],[106.831132,-6.153597],[106.831732,-6.15864],[106.827949,-6.159951],[106.82760399999999,-6.157881],[106.827281,-6.150288],[106.826846,-6.148549]]],"type":"Polygon"}
+}

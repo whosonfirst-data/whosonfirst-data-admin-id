@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Gembongmalang"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072819
+        102072819,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6384487
     },
     "wof:country":"ID",
-    "wof:geomhash":"a6f35fd6c3ef33a680ccc0b5691cd211",
+    "wof:geomhash":"bd78937728f82259e2a227e16db78738",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1309708631,
-    "wof:lastmodified":1537628579,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614641772,
     "wof:name":"Gembongmalang",
     "wof:parent_id":102072819,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.91443999999998,
+    108.91444,
     -7.55306,
-    108.91443999999998,
+    108.91444,
     -7.55306
 ],
-  "geometry": {"coordinates":[108.91443999999998,-7.55306],"type":"Point"}
+  "geometry": {"coordinates":[108.91444,-7.55306],"type":"Point"}
 }

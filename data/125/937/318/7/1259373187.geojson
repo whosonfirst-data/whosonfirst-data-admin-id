@@ -25,19 +25,20 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102073063
+        102073063,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1971119
     },
     "wof:country":"ID",
-    "wof:geomhash":"f8a07e7fcb426a6ddbc9b8aaef51c8a2",
+    "wof:geomhash":"dc1f1c667e6c0722e1ebbde630666f19",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +49,14 @@
         }
     ],
     "wof:id":1259373187,
-    "wof:lastmodified":1537016408,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614643863,
     "wof:name":"Guwa",
     "wof:parent_id":102073063,
     "wof:placetype":"locality",
@@ -58,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    112.81638999999998,
+    112.81639,
     -7.10833,
-    112.81638999999998,
+    112.81639,
     -7.10833
 ],
-  "geometry": {"coordinates":[112.81638999999998,-7.10833],"type":"Point"}
+  "geometry": {"coordinates":[112.81639,-7.10833],"type":"Point"}
 }

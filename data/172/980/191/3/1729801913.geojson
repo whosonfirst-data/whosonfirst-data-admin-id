@@ -1,0 +1,72 @@
+{
+  "id": 1729801913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00003,
+    "geom:area_square_m":366394.073566,
+    "geom:bbox":"106.811076,-6.154331,106.817628,-6.148167",
+    "geom:latitude":-6.151228,
+    "geom:longitude":106.81438,
+    "iso:country":"ID",
+    "lbl:latitude":-6.151096,
+    "lbl:longitude":106.814645,
+    "mps:latitude":-6.151096,
+    "mps:longitude":106.814645,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Keagungan"
+    ],
+    "name:ind_x_preferred":[
+        "Keagungan"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        102020437,
+        102072841,
+        85672001
+    ],
+    "wof:breaches":[],
+    "wof:country":"ID",
+    "wof:created":1613158566,
+    "wof:geomhash":"e2a51f9d28456187ade9551d04677c55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102072841,
+            "locality_id":102020437,
+            "neighbourhood_id":1729801913,
+            "region_id":85672001
+        }
+    ],
+    "wof:id":1729801913,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614723342,
+    "wof:name":"Keagungan",
+    "wof:parent_id":102020437,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.811076,
+    -6.154331,
+    106.817628,
+    -6.148167
+],
+  "geometry": {"coordinates":[[[106.811654,-6.148167],[106.816495,-6.148335],[106.817007,-6.150092],[106.817628,-6.153101],[106.815287,-6.153471],[106.815533,-6.154269],[106.813444,-6.154331],[106.81326,-6.153962],[106.811076,-6.154326],[106.81227699999999,-6.151505],[106.811663,-6.148188],[106.811654,-6.148167]]],"type":"Polygon"}
+}

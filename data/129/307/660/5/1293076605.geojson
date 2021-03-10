@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Haukbatu"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672037,
-        102073331
+        102073331,
+        85672037
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8391633
     },
     "wof:country":"ID",
-    "wof:geomhash":"886cec4c239af5a8a71e1717c220fcc6",
+    "wof:geomhash":"a9c854feaf31ba83a1b38288f6a16698",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1293076605,
-    "wof:lastmodified":1537635884,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614635202,
     "wof:name":"Haukbatu",
     "wof:parent_id":102073331,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    123.74911000000002,
+    123.74911,
     -10.33823,
-    123.74911000000002,
+    123.74911,
     -10.33823
 ],
-  "geometry": {"coordinates":[123.74911000000002,-10.33823],"type":"Point"}
+  "geometry": {"coordinates":[123.74911,-10.33823],"type":"Point"}
 }

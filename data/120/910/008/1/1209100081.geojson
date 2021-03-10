@@ -25,26 +25,40 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102072857
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6259158
     },
     "wof:country":"ID",
-    "wof:geomhash":"09aa1f201fe5b8f8f422a95d43e648a5",
+    "wof:geomhash":"e4d1d756ef30dd4da524685fa16c2874",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209100081
+            "county_id":102072857,
+            "locality_id":1209100081,
+            "region_id":85671987
         }
     ],
     "wof:id":1209100081,
-    "wof:lastmodified":1536297761,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614716843,
     "wof:name":"Ngaglik",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072857,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
@@ -53,9 +67,9 @@
 },
   "bbox": [
     110.30278,
-    -7.578889999999999,
+    -7.57889,
     110.30278,
-    -7.578889999999999
+    -7.57889
 ],
   "geometry": {"coordinates":[110.30278,-7.57889],"type":"Point"}
 }

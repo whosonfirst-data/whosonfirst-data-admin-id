@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Warnasari"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073515
+        102073515,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6399947
     },
     "wof:country":"ID",
-    "wof:geomhash":"18b3946845f8b2af705e69a3faf70eb6",
+    "wof:geomhash":"115fb163d8c8074816f33ede7af292b2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1343411139,
-    "wof:lastmodified":1537628814,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614634284,
     "wof:name":"Warnasari",
     "wof:parent_id":102073515,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.37111000000002,
+    108.37111,
     -6.98833,
-    108.37111000000002,
+    108.37111,
     -6.98833
 ],
-  "geometry": {"coordinates":[108.37111000000002,-6.98833],"type":"Point"}
+  "geometry": {"coordinates":[108.37111,-6.98833],"type":"Point"}
 }

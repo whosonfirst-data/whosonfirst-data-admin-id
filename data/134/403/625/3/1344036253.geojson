@@ -25,19 +25,20 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073189
+        102073189,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2004232
     },
     "wof:country":"ID",
-    "wof:geomhash":"7de5252369a44f0656d0026c4b5f0fb3",
+    "wof:geomhash":"aa543a3843d23f0261ce56d966a237a8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +49,14 @@
         }
     ],
     "wof:id":1344036253,
-    "wof:lastmodified":1536910982,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614634935,
     "wof:name":"Kemejing Satu",
     "wof:parent_id":102073189,
     "wof:placetype":"locality",
@@ -58,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.70638999999998,
+    110.70639,
     -7.86306,
-    110.70638999999998,
+    110.70639,
     -7.86306
 ],
-  "geometry": {"coordinates":[110.70638999999998,-7.86306],"type":"Point"}
+  "geometry": {"coordinates":[110.70639,-7.86306],"type":"Point"}
 }

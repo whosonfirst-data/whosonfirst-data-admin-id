@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Kalisalam"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073169
+        102073169,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6563375
     },
     "wof:country":"ID",
-    "wof:geomhash":"299f6675c5df4a26366a62d7ff037360",
+    "wof:geomhash":"107214da00891da5add42991cc55757b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1293585673,
-    "wof:lastmodified":1537629207,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614636061,
     "wof:name":"Kalisalam",
     "wof:parent_id":102073169,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.07361000000002,
+    110.07361,
     -7.19917,
-    110.07361000000002,
+    110.07361,
     -7.19917
 ],
-  "geometry": {"coordinates":[110.07361000000002,-7.19917],"type":"Point"}
+  "geometry": {"coordinates":[110.07361,-7.19917],"type":"Point"}
 }

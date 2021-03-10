@@ -25,19 +25,20 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        85671995,
-        102073209
+        102073209,
+        85671995
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1992358
     },
     "wof:country":"ID",
-    "wof:geomhash":"130888ed8f77a425d71a57c70142174f",
+    "wof:geomhash":"a46e1b885cbe9c73faf7150100dffe03",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +49,14 @@
         }
     ],
     "wof:id":1310165899,
-    "wof:lastmodified":1536909900,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614653311,
     "wof:name":"Ela",
     "wof:parent_id":102073209,
     "wof:placetype":"locality",
@@ -58,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.32193999999998,
+    106.32194,
     -6.39972,
-    106.32193999999998,
+    106.32194,
     -6.39972
 ],
-  "geometry": {"coordinates":[106.32193999999998,-6.39972],"type":"Point"}
+  "geometry": {"coordinates":[106.32194,-6.39972],"type":"Point"}
 }

@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Kaum Kaler"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072739
+        102072739,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6582763
     },
     "wof:country":"ID",
-    "wof:geomhash":"ef661abffd3e6c482538a52961893929",
+    "wof:geomhash":"94bd9b27c71a0760711e9d3f1302302f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1276388131,
-    "wof:lastmodified":1537629508,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614637913,
     "wof:name":"Kaum Kaler",
     "wof:parent_id":102072739,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.07193999999998,
+    108.07194,
     -6.91722,
-    108.07193999999998,
+    108.07194,
     -6.91722
 ],
-  "geometry": {"coordinates":[108.07193999999998,-6.91722],"type":"Point"}
+  "geometry": {"coordinates":[108.07194,-6.91722],"type":"Point"}
 }

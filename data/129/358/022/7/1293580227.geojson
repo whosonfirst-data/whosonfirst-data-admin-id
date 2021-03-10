@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kedjajan 2",
         "Kejayan Dua",
@@ -34,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072857
+        102072857,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1964227
     },
     "wof:country":"ID",
-    "wof:geomhash":"414424b1c22f164dc20375a8388552f5",
+    "wof:geomhash":"c91c0c916c41975b338668769b4efe38",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +54,14 @@
         }
     ],
     "wof:id":1293580227,
-    "wof:lastmodified":1537627750,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614636065,
     "wof:name":"Gejagan",
     "wof:parent_id":102072857,
     "wof:placetype":"locality",
@@ -63,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.35056000000002,
+    110.35056,
     -7.46306,
-    110.35056000000002,
+    110.35056,
     -7.46306
 ],
-  "geometry": {"coordinates":[110.35056000000002,-7.46306],"type":"Point"}
+  "geometry": {"coordinates":[110.35056,-7.46306],"type":"Point"}
 }

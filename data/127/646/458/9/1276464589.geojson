@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Malang"
     ],
@@ -155,15 +156,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073187
+        102073187,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6565839
     },
     "wof:country":"ID",
-    "wof:geomhash":"39dab84ca7082bc3a94aad6dccb60097",
+    "wof:geomhash":"4629f5bdbbe217c1f4ca90bf67e64fec",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -174,7 +175,14 @@
         }
     ],
     "wof:id":1276464589,
-    "wof:lastmodified":1564182785,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614637643,
     "wof:name":"Malang",
     "wof:parent_id":102073187,
     "wof:placetype":"locality",
@@ -184,10 +192,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.86556000000002,
+    109.86556,
     -7.6825,
-    109.86556000000002,
+    109.86556,
     -7.6825
 ],
-  "geometry": {"coordinates":[109.86556000000002,-7.6825],"type":"Point"}
+  "geometry": {"coordinates":[109.86556,-7.6825],"type":"Point"}
 }

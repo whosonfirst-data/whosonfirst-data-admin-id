@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:aze_x_preferred":[
         "Bab\u0259kan"
     ],
@@ -45,7 +46,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671983,
+        102073307
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,14 +59,24 @@
     "wof:geomhash":"b3da7d5b387535958ba8c96dcd31b8cd",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209364621
+            "county_id":102073307,
+            "locality_id":1209364621,
+            "region_id":85671983
         }
     ],
     "wof:id":1209364621,
-    "wof:lastmodified":1564183821,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614720184,
     "wof:name":"Babakan",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073307,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

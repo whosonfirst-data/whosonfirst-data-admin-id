@@ -26,6 +26,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kampoeng Adoea",
         "Adoea",
@@ -35,15 +36,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672067,
-        1108796863
+        1108796863,
+        85672067
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1651876
     },
     "wof:country":"ID",
-    "wof:geomhash":"a3d709f3b1924cbe1265c721b02a8a4b",
+    "wof:geomhash":"fd1401fd796144766f850674ed7c877c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,7 +55,14 @@
         }
     ],
     "wof:id":1226356909,
-    "wof:lastmodified":1537627388,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614645185,
     "wof:name":"Adua",
     "wof:parent_id":1108796863,
     "wof:placetype":"locality",
@@ -64,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    129.83333000000002,
+    129.83333,
     -1.91667,
-    129.83333000000002,
+    129.83333,
     -1.91667
 ],
-  "geometry": {"coordinates":[129.83333000000002,-1.91667],"type":"Point"}
+  "geometry": {"coordinates":[129.83332999999999,-1.91667],"type":"Point"}
 }

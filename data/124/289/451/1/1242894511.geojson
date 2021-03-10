@@ -25,19 +25,20 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073233
+        102073233,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6265459
     },
     "wof:country":"ID",
-    "wof:geomhash":"5a0898d7f4df20e3adaf9de1a9cf5148",
+    "wof:geomhash":"82bcdccb95f6110d348ceefd9f20b01e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +49,14 @@
         }
     ],
     "wof:id":1242894511,
-    "wof:lastmodified":1536604197,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614642460,
     "wof:name":"Cabakan",
     "wof:parent_id":102073233,
     "wof:placetype":"locality",
@@ -58,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.49611000000002,
+    110.49611,
     -7.69694,
-    110.49611000000002,
+    110.49611,
     -7.69694
 ],
-  "geometry": {"coordinates":[110.49611000000002,-7.69694],"type":"Point"}
+  "geometry": {"coordinates":[110.49611,-7.69694],"type":"Point"}
 }

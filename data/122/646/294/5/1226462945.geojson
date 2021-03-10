@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Mangli Tengah"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072639
+        102072639,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6386129
     },
     "wof:country":"ID",
-    "wof:geomhash":"91d72cdae43c88c44cb92ad2fb7ab78e",
+    "wof:geomhash":"b0f08351776cec280a396d61e94391f7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1226462945,
-    "wof:lastmodified":1537628596,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614645646,
     "wof:name":"Mangli Tengah",
     "wof:parent_id":102072639,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.50388999999998,
+    109.50389,
     -7.65472,
-    109.50388999999998,
+    109.50389,
     -7.65472
 ],
-  "geometry": {"coordinates":[109.50388999999998,-7.65472],"type":"Point"}
+  "geometry": {"coordinates":[109.50389,-7.65472],"type":"Point"}
 }

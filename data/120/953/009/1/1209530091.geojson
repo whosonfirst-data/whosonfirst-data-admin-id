@@ -25,26 +25,40 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671995,
+        102073479
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1638086
     },
     "wof:country":"ID",
-    "wof:geomhash":"e01d902c221b5f18eb53df0497d4350e",
+    "wof:geomhash":"0cdd5460004df2dc7269cf204c13ccee",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209530091
+            "county_id":102073479,
+            "locality_id":1209530091,
+            "region_id":85671995
         }
     ],
     "wof:id":1209530091,
-    "wof:lastmodified":1536284308,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614721445,
     "wof:name":"Lemahabang",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073479,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
@@ -53,9 +67,9 @@
 },
   "bbox": [
     106.21667,
-    -6.2333300000000005,
+    -6.23333,
     106.21667,
-    -6.2333300000000005
+    -6.23333
 ],
   "geometry": {"coordinates":[106.21666999999999,-6.23333],"type":"Point"}
 }

@@ -26,6 +26,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ceb_x_preferred":[
         "Tugu"
     ],
@@ -46,8 +47,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072727
+        102072727,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -65,7 +66,14 @@
         }
     ],
     "wof:id":1226757457,
-    "wof:lastmodified":1564204655,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614654537,
     "wof:name":"Tugu",
     "wof:parent_id":102072727,
     "wof:placetype":"locality",

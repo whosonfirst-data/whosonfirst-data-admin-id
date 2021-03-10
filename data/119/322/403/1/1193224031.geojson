@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Rancagunda"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073193
+        102073193,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6402394
     },
     "wof:country":"ID",
-    "wof:geomhash":"25663beeefaa7af388d3cedb2525efbd",
+    "wof:geomhash":"82fa39c458f4b6085ea0bdbac3e0b6e7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1193224031,
-    "wof:lastmodified":1537628866,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614652738,
     "wof:name":"Rancagunda",
     "wof:parent_id":102073193,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.16861000000002,
+    108.16861,
     -6.40694,
-    108.16861000000002,
+    108.16861,
     -6.40694
 ],
-  "geometry": {"coordinates":[108.16861000000002,-6.40694],"type":"Point"}
+  "geometry": {"coordinates":[108.16861,-6.40694],"type":"Point"}
 }

@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Ciohol"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073551
+        102073551,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6591474
     },
     "wof:country":"ID",
-    "wof:geomhash":"277800ca1a8cdd5e95a236927f65c291",
+    "wof:geomhash":"570e9fe125fc037e929fa12d15cab0ad",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1343407521,
-    "wof:lastmodified":1537629701,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614650410,
     "wof:name":"Ciohol",
     "wof:parent_id":102073551,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.10056000000002,
+    107.10056,
     -6.42472,
-    107.10056000000002,
+    107.10056,
     -6.42472
 ],
-  "geometry": {"coordinates":[107.10056000000002,-6.42472],"type":"Point"}
+  "geometry": {"coordinates":[107.10056,-6.42472],"type":"Point"}
 }

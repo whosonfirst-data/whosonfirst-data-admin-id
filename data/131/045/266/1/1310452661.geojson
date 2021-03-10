@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Remoon"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672097,
-        1108796845
+        1108796845,
+        85672097
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1629733
     },
     "wof:country":"ID",
-    "wof:geomhash":"50e8b3c7a140f873a59e4c9e4cbb59d1",
+    "wof:geomhash":"2b499abe8b67d313ee117fc52d5ba76b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1310452661,
-    "wof:lastmodified":1537626657,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614640749,
     "wof:name":"Remoon",
     "wof:parent_id":1108796845,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    131.96468000000002,
+    131.96468,
     -5.36107,
-    131.96468000000002,
+    131.96468,
     -5.36107
 ],
-  "geometry": {"coordinates":[131.96468000000002,-5.36107],"type":"Point"}
+  "geometry": {"coordinates":[131.96467999999999,-5.36107],"type":"Point"}
 }

@@ -25,26 +25,40 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672093,
+        102073265
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6265124
     },
     "wof:country":"ID",
-    "wof:geomhash":"d0c7a23a5b9618f0d3f21837a53675f5",
+    "wof:geomhash":"7c8c14616849449660ddca692ee4ba87",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209293105
+            "county_id":102073265,
+            "locality_id":1209293105,
+            "region_id":85672093
         }
     ],
     "wof:id":1209293105,
-    "wof:lastmodified":1536291625,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614719894,
     "wof:name":"Polorejo",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073265,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
@@ -53,9 +67,9 @@
 },
   "bbox": [
     110.44417,
-    -7.640560000000002,
+    -7.64056,
     110.44417,
-    -7.640560000000002
+    -7.64056
 ],
   "geometry": {"coordinates":[110.44417,-7.64056],"type":"Point"}
 }

@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:und_x_variant":[
         "Buli-islam"
     ],
@@ -37,7 +38,7 @@
         "gn:id":1647785
     },
     "wof:country":"ID",
-    "wof:geomhash":"067735293e19e8bdc7bb85a3660a75bd",
+    "wof:geomhash":"7034919937a4a8f7fded2394058ffbb6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -47,7 +48,14 @@
         }
     ],
     "wof:id":1343708449,
-    "wof:lastmodified":1537627271,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614650374,
     "wof:name":"Buli-Islam",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
@@ -57,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    128.28918000000002,
+    128.28918,
     0.87778,
-    128.28918000000002,
+    128.28918,
     0.87778
 ],
-  "geometry": {"coordinates":[128.28918000000002,0.87778],"type":"Point"}
+  "geometry": {"coordinates":[128.28917999999999,0.87778],"type":"Point"}
 }

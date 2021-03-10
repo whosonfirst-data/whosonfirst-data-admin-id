@@ -53,8 +53,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        102073233,
-        85671987
+        85671987,
+        102073233
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -82,10 +82,14 @@
         }
     ],
     "wof:id":102020155,
-    "wof:lang":[
-        "unk"
+    "wof:lang_x_official":[
+        "ind"
     ],
-    "wof:lastmodified":1607985232,
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614713314,
     "wof:name":"Klaten",
     "wof:parent_id":102073233,
     "wof:placetype":"locality",

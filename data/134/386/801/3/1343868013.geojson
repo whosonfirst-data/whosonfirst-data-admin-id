@@ -26,6 +26,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Nosu"
     ],
@@ -43,8 +44,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672045,
-        102072895
+        102072895,
+        85672045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,7 +63,14 @@
         }
     ],
     "wof:id":1343868013,
-    "wof:lastmodified":1564175576,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614635157,
     "wof:name":"Nosu",
     "wof:parent_id":102072895,
     "wof:placetype":"locality",

@@ -4,18 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"106.8402,-6.1815,106.8402,-6.1815",
-    "geom:latitude":-6.1815,
-    "geom:longitude":106.8402,
+    "geom:area":0.000035,
+    "geom:area_square_m":424234.874883,
+    "geom:bbox":"106.836203,-6.187257,106.843783,-6.178596",
+    "geom:latitude":-6.183199,
+    "geom:longitude":106.840152,
     "gn:country":"ID",
     "gn:fcode":"PPL",
     "gn:pop":0,
     "gp:adm0":23424846,
     "iso:country":"ID",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "name:ceb_x_preferred":[
         "Kelurahan Kwitang"
     ],
@@ -45,13 +45,17 @@
     "qs:photos_sr":1,
     "qs:placetype":"Suburb",
     "qs:pop_sr":"0",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "unknown"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
-        85672001,
         102191569,
         85632203,
         102021905,
-        102073177
+        102073177,
+        85672001
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,7 +65,10 @@
     },
     "wof:country":"ID",
     "wof:created":1469055171,
-    "wof:geomhash":"435fe2bfa5a97fc8ac37469e9c7dc75a",
+    "wof:geom_alt":[
+        "unknown"
+    ],
+    "wof:geomhash":"f85f034e73b6e0f76e7179a2ede0348a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +80,14 @@
         }
     ],
     "wof:id":890498327,
-    "wof:lastmodified":1564197065,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614744880,
     "wof:name":"Kwitang",
     "wof:parent_id":102021905,
     "wof:placetype":"neighbourhood",
@@ -84,10 +98,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.8402,
-    -6.1815,
-    106.8402,
-    -6.1815
+    106.836203,
+    -6.187257,
+    106.843783,
+    -6.178596
 ],
-  "geometry": {"coordinates":[106.8402,-6.1815],"type":"Point"}
+  "geometry": {"coordinates":[[[106.843783,-6.185007],[106.842839,-6.185906],[106.841548,-6.18652],[106.84075,-6.187257],[106.840811,-6.186705],[106.840873,-6.185599],[106.840197,-6.185414],[106.838354,-6.18566],[106.837433,-6.18566],[106.836941,-6.185537],[106.836511,-6.184739],[106.83645,-6.18351],[106.83675700000001,-6.182773],[106.83669500000001,-6.182097],[106.836203,-6.181687],[106.838723,-6.181237],[106.842101,-6.178596],[106.84240800000001,-6.181422],[106.843783,-6.185007]]],"type":"Polygon"}
 }

@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Kopi Komite Nasional Pemuda Indonesia"
     ],
@@ -33,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672111,
+        1108796935
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +47,24 @@
     "wof:geomhash":"58620ed1eb36a87b00b4e702eb13eebd",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209584741
+            "county_id":1108796935,
+            "locality_id":1209584741,
+            "region_id":85672111
         }
     ],
     "wof:id":1209584741,
-    "wof:lastmodified":1537632588,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614722935,
     "wof:name":"Kopi Komite Nasional Pemuda Indonesia",
-    "wof:parent_id":85632203,
+    "wof:parent_id":1108796935,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

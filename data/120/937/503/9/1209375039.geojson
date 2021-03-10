@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Burujul"
     ],
@@ -34,24 +35,37 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671983,
+        102073359
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1648034
     },
     "wof:country":"ID",
-    "wof:geomhash":"30013cfe8f6d39e4703cd66faee3330c",
+    "wof:geomhash":"8df70f7a0ac63dca57364fa2de735c57",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209375039
+            "county_id":102073359,
+            "locality_id":1209375039,
+            "region_id":85671983
         }
     ],
     "wof:id":1209375039,
-    "wof:lastmodified":1537627280,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614720467,
     "wof:name":"Burujul",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073359,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
@@ -59,10 +73,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.59971000000002,
+    107.59971,
     -7.44724,
-    107.59971000000002,
+    107.59971,
     -7.44724
 ],
-  "geometry": {"coordinates":[107.59971000000002,-7.44724],"type":"Point"}
+  "geometry": {"coordinates":[107.59971,-7.44724],"type":"Point"}
 }

@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:bug_x_preferred":[
         "Baon"
     ],
@@ -116,8 +117,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073187
+        102073187,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -135,7 +136,14 @@
         }
     ],
     "wof:id":1260273975,
-    "wof:lastmodified":1564190377,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614653036,
     "wof:name":"Baon",
     "wof:parent_id":102073187,
     "wof:placetype":"locality",

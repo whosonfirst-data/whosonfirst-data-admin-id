@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Kedungrejo Atas"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072587
+        102072587,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6567448
     },
     "wof:country":"ID",
-    "wof:geomhash":"e2725fd4bc81efdfd65ca443339e0ca1",
+    "wof:geomhash":"2daf9e2073ff9683f57ccd3e8e0c7cd5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1242674035,
-    "wof:lastmodified":1537629322,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614642674,
     "wof:name":"Kedungrejo Atas",
     "wof:parent_id":102072587,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.87888999999998,
+    109.87889,
     -7.47167,
-    109.87888999999998,
+    109.87889,
     -7.47167
 ],
-  "geometry": {"coordinates":[109.87888999999998,-7.47167],"type":"Point"}
+  "geometry": {"coordinates":[109.87889,-7.47167],"type":"Point"}
 }

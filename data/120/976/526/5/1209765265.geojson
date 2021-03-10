@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Sadang"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072937
+        102072937,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6594063
     },
     "wof:country":"ID",
-    "wof:geomhash":"9c6a15e1a450930a54e34c66342843dc",
+    "wof:geomhash":"0f5af4ff8e03a8164da3725b8af280bc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1209765265,
-    "wof:lastmodified":1537629786,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614652138,
     "wof:name":"Sadang",
     "wof:parent_id":102072937,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.41306000000002,
+    107.41306,
     -6.3875,
-    107.41306000000002,
+    107.41306,
     -6.3875
 ],
-  "geometry": {"coordinates":[107.41306000000002,-6.3875],"type":"Point"}
+  "geometry": {"coordinates":[107.41306,-6.3875],"type":"Point"}
 }

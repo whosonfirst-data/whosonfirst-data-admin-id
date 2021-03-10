@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Cijubung"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073295
+        102073295,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6581997
     },
     "wof:country":"ID",
-    "wof:geomhash":"5cef378c5c7b17a3d1e70695c13b1027",
+    "wof:geomhash":"9b688e8d61e4f1c1f9505a5a624a6ee6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1225990795,
-    "wof:lastmodified":1537629488,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614654724,
     "wof:name":"Cijubung",
     "wof:parent_id":102073295,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.72556000000002,
+    107.72556,
     -6.53361,
-    107.72556000000002,
+    107.72556,
     -6.53361
 ],
-  "geometry": {"coordinates":[107.72556000000002,-6.53361],"type":"Point"}
+  "geometry": {"coordinates":[107.72556,-6.53361],"type":"Point"}
 }

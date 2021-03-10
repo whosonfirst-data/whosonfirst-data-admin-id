@@ -4,18 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.000058,
-    "geom:area_square_m":709691.674358,
-    "geom:bbox":"106.846168989,-6.23476795438,106.855773926,-6.2279339279",
-    "geom:latitude":-6.231165,
-    "geom:longitude":106.851231,
+    "geom:area":0.000108,
+    "geom:area_square_m":1325418.580687,
+    "geom:bbox":"106.851777,-6.243357,106.858496,-6.224607",
+    "geom:latitude":-6.234017,
+    "geom:longitude":106.855273,
     "iso:country":"ID",
-    "lbl:latitude":-6.231361,
-    "lbl:longitude":106.852442,
-    "mps:latitude":-6.231061,
-    "mps:longitude":106.851295,
+    "lbl:latitude":-6.233984,
+    "lbl:longitude":106.855228,
+    "mps:latitude":-6.233984,
+    "mps:longitude":106.855228,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -24,6 +24,9 @@
     "mz:min_zoom":16.0,
     "mz:tier_locality":4,
     "name:eng_x_preferred":[
+        "Tebet Timur"
+    ],
+    "name:ind_x_preferred":[
         "Tebet Timur"
     ],
     "name:unk_x_variant":[
@@ -53,39 +56,49 @@
     "qs:woe_lau":0,
     "qs:woe_local":1047378,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
     "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85672001,
         102191569,
         85632203,
-        102018791,
-        102072667
+        102020433,
+        102072667,
+        85672001
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56004938
     },
     "wof:country":"ID",
-    "wof:geomhash":"9195daeda5021984485cd31817106b30",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"e6241304083a374ef809157819408319",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632203,
             "county_id":102072667,
-            "locality_id":102018791,
+            "locality_id":102020433,
             "neighbourhood_id":85783777,
             "region_id":85672001
         }
     ],
     "wof:id":85783777,
-    "wof:lang":[
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
         "eng"
     ],
-    "wof:lastmodified":1527269529,
+    "wof:lastmodified":1614744848,
     "wof:name":"Tebet Timur",
-    "wof:parent_id":102018791,
+    "wof:parent_id":102020433,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
@@ -93,10 +106,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.84616898863038,
-    -6.2347679543809,
-    106.85577392600004,
-    -6.22793392790311
+    106.851777,
+    -6.243357,
+    106.858496,
+    -6.224607
 ],
-  "geometry": {"coordinates":[[[106.85577392600004,-6.22793392805109],[106.85577392600004,-6.2306642930316],[106.85577392600004,-6.23339464631994],[106.85577392600004,-6.2338469797328],[106.85302734400017,-6.2347679543809],[106.85028076200018,-6.2338469797328],[106.84753418000014,-6.2347679543809],[106.84616898863038,-6.23339464023165],[106.84707372032386,-6.23066429184748],[106.84651027577445,-6.22896390969603],[106.84753418000014,-6.22793392819896],[106.85028076200007,-6.22793392829755],[106.85302734400005,-6.22793392790311],[106.85577392600004,-6.22793392805109]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[106.851777,-6.224607],[106.858165,-6.225836],[106.858496,-6.243045],[106.85313600000001,-6.243357],[106.852637,-6.238859],[106.852268,-6.236279],[106.85202200000001,-6.234436],[106.85214499999999,-6.233084],[106.85214499999999,-6.228907],[106.85202200000001,-6.227556],[106.851899,-6.226081],[106.851777,-6.224607]]],"type":"Polygon"}
 }

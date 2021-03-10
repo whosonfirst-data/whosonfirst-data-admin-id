@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Cipeuti"
     ],
@@ -36,15 +37,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        1108796793
+        1108796793,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1964982
     },
     "wof:country":"ID",
-    "wof:geomhash":"28ca731d19d099ad10878b2d36fc6f46",
+    "wof:geomhash":"761b03792531133ffcf8db021b6172f3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -55,7 +56,14 @@
         }
     ],
     "wof:id":1326690115,
-    "wof:lastmodified":1537627788,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614632660,
     "wof:name":"Cipeuti",
     "wof:parent_id":1108796793,
     "wof:placetype":"locality",
@@ -65,10 +73,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.39943999999998,
+    107.39944,
     -6.76056,
-    107.39943999999998,
+    107.39944,
     -6.76056
 ],
-  "geometry": {"coordinates":[107.39943999999998,-6.76056],"type":"Point"}
+  "geometry": {"coordinates":[107.39944,-6.76056],"type":"Point"}
 }

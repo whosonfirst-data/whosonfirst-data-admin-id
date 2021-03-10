@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Suren"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073217
+        102073217,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6604812
     },
     "wof:country":"ID",
-    "wof:geomhash":"6a42e9b553ed1408b22a35be03f6c3d3",
+    "wof:geomhash":"99d61ea15bf10c2bfd7b8ec8c6f5532a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1293350831,
-    "wof:lastmodified":1537630049,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614636016,
     "wof:name":"Suren",
     "wof:parent_id":102073217,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.51111000000002,
+    106.51111,
     -6.58361,
-    106.51111000000002,
+    106.51111,
     -6.58361
 ],
-  "geometry": {"coordinates":[106.51111000000002,-6.58361],"type":"Point"}
+  "geometry": {"coordinates":[106.51111,-6.58361],"type":"Point"}
 }

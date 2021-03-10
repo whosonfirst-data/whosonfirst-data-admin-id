@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Cirangkong Kidul"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073217
+        102073217,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6605363
     },
     "wof:country":"ID",
-    "wof:geomhash":"77fa6f839105eb5fd04b909b5fa3d63d",
+    "wof:geomhash":"02f3beb2c9546428a3cb11037ac4496d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1343918121,
-    "wof:lastmodified":1537630070,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614633822,
     "wof:name":"Cirangkong Kidul",
     "wof:parent_id":102073217,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.64388999999998,
+    106.64389,
     -6.58222,
-    106.64388999999998,
+    106.64389,
     -6.58222
 ],
-  "geometry": {"coordinates":[106.64388999999998,-6.58222],"type":"Point"}
+  "geometry": {"coordinates":[106.64389,-6.58222],"type":"Point"}
 }

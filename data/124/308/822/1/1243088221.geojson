@@ -25,19 +25,20 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073187
+        102073187,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2012287
     },
     "wof:country":"ID",
-    "wof:geomhash":"de0707e4d0e99ebadcb8e1e2e4f7724c",
+    "wof:geomhash":"43c38c1b093c75a4a1059ab984fbfb34",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +49,14 @@
         }
     ],
     "wof:id":1243088221,
-    "wof:lastmodified":1536824051,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614642331,
     "wof:name":"Jogowono",
     "wof:parent_id":102073187,
     "wof:placetype":"locality",
@@ -58,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.10611000000002,
+    110.10611,
     -7.75639,
-    110.10611000000002,
+    110.10611,
     -7.75639
 ],
-  "geometry": {"coordinates":[110.10611000000002,-7.75639],"type":"Point"}
+  "geometry": {"coordinates":[110.10611,-7.75639],"type":"Point"}
 }

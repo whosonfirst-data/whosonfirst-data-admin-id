@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Gunung Suruwi"
     ],
@@ -35,15 +36,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672067,
-        1108796867
+        1108796867,
+        85672067
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8531512
     },
     "wof:country":"ID",
-    "wof:geomhash":"d86fa4032fe66d1e33900f8db2e832c0",
+    "wof:geomhash":"651bdf1d3d1b4c0a34956150f9d857ae",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,7 +55,14 @@
         }
     ],
     "wof:id":1226279405,
-    "wof:lastmodified":1537636355,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614644936,
     "wof:name":"Gunung Suruwi",
     "wof:parent_id":1108796867,
     "wof:placetype":"locality",
@@ -64,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    133.87783000000002,
+    133.87783,
     -2.54992,
-    133.87783000000002,
+    133.87783,
     -2.54992
 ],
-  "geometry": {"coordinates":[133.87783000000002,-2.54992],"type":"Point"}
+  "geometry": {"coordinates":[133.87782999999999,-2.54992],"type":"Point"}
 }

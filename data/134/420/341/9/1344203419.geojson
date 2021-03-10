@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-03-01",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -24,20 +25,20 @@
     "gn:timezone":"Asia/Jakarta",
     "iso:country":"ID",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        85671995,
-        1108796785
+        1108796785,
+        85671995
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1986330
     },
     "wof:country":"ID",
-    "wof:geomhash":"99ec656f8b45fcf084f44758425d7e32",
+    "wof:geomhash":"80c1ee3aafc72ec41c736577471aa1bc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +49,14 @@
         }
     ],
     "wof:id":1344203419,
-    "wof:lastmodified":1536669367,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614708023,
     "wof:name":"Kokun",
     "wof:parent_id":1108796785,
     "wof:placetype":"locality",
@@ -58,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.61556000000002,
+    106.61556,
     -6.15083,
-    106.61556000000002,
+    106.61556,
     -6.15083
 ],
-  "geometry": {"coordinates":[106.61556000000002,-6.15083],"type":"Point"}
+  "geometry": {"coordinates":[106.61556,-6.15083],"type":"Point"}
 }

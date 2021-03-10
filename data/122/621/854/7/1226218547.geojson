@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Timu Satu"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672103,
-        102073031
+        102073031,
+        85672103
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7058024
     },
     "wof:country":"ID",
-    "wof:geomhash":"3ba057ebbe18023484616a7a106d2397",
+    "wof:geomhash":"c9a119ba9a2c623f9ffb6160c3b3ce41",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1226218547,
-    "wof:lastmodified":1537632939,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614644815,
     "wof:name":"Timu Satu",
     "wof:parent_id":102073031,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    118.63051000000002,
+    118.63051,
     -8.5071,
-    118.63051000000002,
+    118.63051,
     -8.5071
 ],
-  "geometry": {"coordinates":[118.63051000000002,-8.5071],"type":"Point"}
+  "geometry": {"coordinates":[118.63051,-8.5071],"type":"Point"}
 }

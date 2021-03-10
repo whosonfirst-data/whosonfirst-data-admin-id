@@ -25,19 +25,20 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073217
+        102073217,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1987648
     },
     "wof:country":"ID",
-    "wof:geomhash":"199f9c8ee30a3313b6ce17ea0d2e6393",
+    "wof:geomhash":"afde9bf6465f54f1d7ad1da452f5a39b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +49,14 @@
         }
     ],
     "wof:id":1260242057,
-    "wof:lastmodified":1536768636,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614639758,
     "wof:name":"Gunungnyungcung",
     "wof:parent_id":102073217,
     "wof:placetype":"locality",
@@ -58,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.64806000000002,
+    106.64806,
     -6.45833,
-    106.64806000000002,
+    106.64806,
     -6.45833
 ],
-  "geometry": {"coordinates":[106.64806000000002,-6.45833],"type":"Point"}
+  "geometry": {"coordinates":[106.64806,-6.45833],"type":"Point"}
 }

@@ -25,19 +25,20 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        85672037,
-        102073481
+        102073481,
+        85672037
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1936621
     },
     "wof:country":"ID",
-    "wof:geomhash":"6e55b2da916ea292927ea78f5e4110f8",
+    "wof:geomhash":"c26b6210fc127d50dd5337e578cfd9f6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +49,14 @@
         }
     ],
     "wof:id":1226505255,
-    "wof:lastmodified":1537054184,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614645273,
     "wof:name":"Renek",
     "wof:parent_id":102073481,
     "wof:placetype":"locality",
@@ -58,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    125.08693999999998,
+    125.08694,
     -9.13306,
-    125.08693999999998,
+    125.08694,
     -9.13306
 ],
-  "geometry": {"coordinates":[125.08693999999998,-9.13306],"type":"Point"}
+  "geometry": {"coordinates":[125.08694,-9.13306],"type":"Point"}
 }

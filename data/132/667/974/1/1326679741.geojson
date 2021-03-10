@@ -26,6 +26,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Leuwikuraj",
         "Leuwikuray"
@@ -34,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072949
+        102072949,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1962471
     },
     "wof:country":"ID",
-    "wof:geomhash":"8f7e2bed34dcec98b940890a644ded6f",
+    "wof:geomhash":"648dbd10f2b878599228584f4b8d874e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +54,14 @@
         }
     ],
     "wof:id":1326679741,
-    "wof:lastmodified":1537627660,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614632716,
     "wof:name":"Leuwikuray",
     "wof:parent_id":102072949,
     "wof:placetype":"locality",
@@ -63,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.52306000000002,
+    107.52306,
     -7.01028,
-    107.52306000000002,
+    107.52306,
     -7.01028
 ],
-  "geometry": {"coordinates":[107.52306000000002,-7.01028],"type":"Point"}
+  "geometry": {"coordinates":[107.52306,-7.01028],"type":"Point"}
 }

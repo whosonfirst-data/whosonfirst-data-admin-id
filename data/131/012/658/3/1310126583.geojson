@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Doplang"
     ],
@@ -36,15 +37,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073309
+        102073309,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1642738
     },
     "wof:country":"ID",
-    "wof:geomhash":"398a2f0bb2a86ea0834d256387343dd2",
+    "wof:geomhash":"f64ea916a472da8109931dc4ad638658",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -55,7 +56,14 @@
         }
     ],
     "wof:id":1310126583,
-    "wof:lastmodified":1537627071,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614640301,
     "wof:name":"Doplang",
     "wof:parent_id":102073309,
     "wof:placetype":"locality",
@@ -65,10 +73,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.28943999999998,
+    111.28944,
     -7.18472,
-    111.28943999999998,
+    111.28944,
     -7.18472
 ],
-  "geometry": {"coordinates":[111.28943999999998,-7.18472],"type":"Point"}
+  "geometry": {"coordinates":[111.28944,-7.18472],"type":"Point"}
 }

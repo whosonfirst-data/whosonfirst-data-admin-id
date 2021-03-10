@@ -25,19 +25,20 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073469
+        102073469,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2010420
     },
     "wof:country":"ID",
-    "wof:geomhash":"4718408a6269711db4f52ad5e42a061c",
+    "wof:geomhash":"220db29044ea510fc1d812872fa6087c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +49,14 @@
         }
     ],
     "wof:id":1243257535,
-    "wof:lastmodified":1537074787,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614653982,
     "wof:name":"Sewugalur",
     "wof:parent_id":102073469,
     "wof:placetype":"locality",
@@ -58,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.21056000000002,
+    110.21056,
     -7.94278,
-    110.21056000000002,
+    110.21056,
     -7.94278
 ],
-  "geometry": {"coordinates":[110.21056000000002,-7.94278],"type":"Point"}
+  "geometry": {"coordinates":[110.21056,-7.94278],"type":"Point"}
 }

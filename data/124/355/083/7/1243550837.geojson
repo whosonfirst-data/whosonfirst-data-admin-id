@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tandjungsari",
         "Tanjungsari",
@@ -34,8 +35,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072819
+        102072819,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,7 +54,14 @@
         }
     ],
     "wof:id":1243550837,
-    "wof:lastmodified":1537626506,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614642394,
     "wof:name":"Tanjungsari",
     "wof:parent_id":102072819,
     "wof:placetype":"locality",

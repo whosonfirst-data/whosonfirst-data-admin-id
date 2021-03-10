@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Uteumputo"
     ],
@@ -37,8 +38,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671973,
-        102072619
+        102072619,
+        85671973
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,7 +57,14 @@
         }
     ],
     "wof:id":1276242103,
-    "wof:lastmodified":1537626279,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614637614,
     "wof:name":"Uteumputo",
     "wof:parent_id":102072619,
     "wof:placetype":"locality",

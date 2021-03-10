@@ -25,29 +25,43 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Karangrejo"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102072639
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6376852
     },
     "wof:country":"ID",
-    "wof:geomhash":"18e4d3fb1bdd850c4545c01493eb93c9",
+    "wof:geomhash":"02e67a0e6d1801315f5bb97b86c0a206",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209435581
+            "county_id":102072639,
+            "locality_id":1209435581,
+            "region_id":85671987
         }
     ],
     "wof:id":1209435581,
-    "wof:lastmodified":1537628477,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614715009,
     "wof:name":"Karangrejo",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072639,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
@@ -55,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.73888999999998,
+    109.73889,
     -7.71306,
-    109.73888999999998,
+    109.73889,
     -7.71306
 ],
-  "geometry": {"coordinates":[109.73888999999998,-7.71306],"type":"Point"}
+  "geometry": {"coordinates":[109.73889,-7.71306],"type":"Point"}
 }

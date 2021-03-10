@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Prigi"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072639
+        102072639,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6370023
     },
     "wof:country":"ID",
-    "wof:geomhash":"57322febef84f10d2b83ed4698ca30f6",
+    "wof:geomhash":"24178c0bf7b7a530b02ac7a712866a57",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1343552077,
-    "wof:lastmodified":1537628297,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614633994,
     "wof:name":"Prigi",
     "wof:parent_id":102072639,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.45638999999998,
+    109.45639,
     -7.63833,
-    109.45638999999998,
+    109.45639,
     -7.63833
 ],
-  "geometry": {"coordinates":[109.45638999999998,-7.63833],"type":"Point"}
+  "geometry": {"coordinates":[109.45639,-7.63833],"type":"Point"}
 }

@@ -25,19 +25,20 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072857
+        102072857,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6199347
     },
     "wof:country":"ID",
-    "wof:geomhash":"d733956299be83f40cc386c1dd15ce0d",
+    "wof:geomhash":"c8ce0a712bcd992b8189ca8dbd4033d9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +49,14 @@
         }
     ],
     "wof:id":1242698563,
-    "wof:lastmodified":1536889178,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614653937,
     "wof:name":"Manggis",
     "wof:parent_id":102072857,
     "wof:placetype":"locality",
@@ -58,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.24056000000002,
+    110.24056,
     -7.43278,
-    110.24056000000002,
+    110.24056,
     -7.43278
 ],
-  "geometry": {"coordinates":[110.24056000000002,-7.43278],"type":"Point"}
+  "geometry": {"coordinates":[110.24056,-7.43278],"type":"Point"}
 }

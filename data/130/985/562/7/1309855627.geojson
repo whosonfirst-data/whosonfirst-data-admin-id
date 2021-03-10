@@ -25,19 +25,20 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        85671995,
-        102072687
+        102072687,
+        85671995
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1959842
     },
     "wof:country":"ID",
-    "wof:geomhash":"e2f2ce026a17ecedce8023b780902eb4",
+    "wof:geomhash":"62ffe0b2c8c6138eb3a134abdcc99c03",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +49,14 @@
         }
     ],
     "wof:id":1309855627,
-    "wof:lastmodified":1536858157,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614641834,
     "wof:name":"Teko",
     "wof:parent_id":102072687,
     "wof:placetype":"locality",
@@ -58,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.47556000000002,
+    106.47556,
     -6.11361,
-    106.47556000000002,
+    106.47556,
     -6.11361
 ],
-  "geometry": {"coordinates":[106.47556000000002,-6.11361],"type":"Point"}
+  "geometry": {"coordinates":[106.47556,-6.11361],"type":"Point"}
 }

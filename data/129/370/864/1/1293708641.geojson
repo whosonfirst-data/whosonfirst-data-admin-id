@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Bungur"
     ],
@@ -32,8 +33,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102073485
+        102073485,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1293708641,
-    "wof:lastmodified":1537635573,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614635694,
     "wof:name":"Bungur",
     "wof:parent_id":102073485,
     "wof:placetype":"locality",

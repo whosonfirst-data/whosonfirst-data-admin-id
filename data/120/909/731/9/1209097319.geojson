@@ -25,26 +25,40 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102073169
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6200332
     },
     "wof:country":"ID",
-    "wof:geomhash":"573568d4457b4fc065a075d6e406130b",
+    "wof:geomhash":"724a89904cec496849e751f49b8eaa01",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209097319
+            "county_id":102073169,
+            "locality_id":1209097319,
+            "region_id":85671987
         }
     ],
     "wof:id":1209097319,
-    "wof:lastmodified":1536297845,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614718931,
     "wof:name":"Krajan Dua",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073169,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
@@ -53,9 +67,9 @@
 },
   "bbox": [
     110.07306,
-    -7.255560000000001,
+    -7.25556,
     110.07306,
-    -7.255560000000001
+    -7.25556
 ],
   "geometry": {"coordinates":[110.07306,-7.25556],"type":"Point"}
 }

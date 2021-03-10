@@ -25,26 +25,40 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102072857
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6258870
     },
     "wof:country":"ID",
-    "wof:geomhash":"303cf6866472be82ad68716ed2d9b12e",
+    "wof:geomhash":"d49564e641ad8186df0857ff9253c6f8",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209305741
+            "county_id":102072857,
+            "locality_id":1209305741,
+            "region_id":85671987
         }
     ],
     "wof:id":1209305741,
-    "wof:lastmodified":1536291204,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614716851,
     "wof:name":"Ngaglik Bawah",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072857,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
@@ -53,9 +67,9 @@
 },
   "bbox": [
     110.32889,
-    -7.536110000000001,
+    -7.53611,
     110.32889,
-    -7.536110000000001
+    -7.53611
 ],
   "geometry": {"coordinates":[110.32889,-7.53611],"type":"Point"}
 }

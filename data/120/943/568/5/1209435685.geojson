@@ -25,26 +25,40 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102073405
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2010988
     },
     "wof:country":"ID",
-    "wof:geomhash":"40397e2337c6a77e2fd76a3e78b1640b",
+    "wof:geomhash":"34d401db7e1301fc5c475157640540e7",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209435685
+            "county_id":102073405,
+            "locality_id":1209435685,
+            "region_id":85671987
         }
     ],
     "wof:id":1209435685,
-    "wof:lastmodified":1536287112,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614720821,
     "wof:name":"Pagelaran",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073405,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
@@ -52,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.73888999999998,
-    -7.556939999999999,
-    110.73888999999998,
-    -7.556939999999999
+    110.73889,
+    -7.55694,
+    110.73889,
+    -7.55694
 ],
-  "geometry": {"coordinates":[110.73888999999998,-7.55694],"type":"Point"}
+  "geometry": {"coordinates":[110.73889,-7.55694],"type":"Point"}
 }

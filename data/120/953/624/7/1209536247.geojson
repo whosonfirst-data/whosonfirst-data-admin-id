@@ -25,29 +25,43 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Nglebak"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102072733
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6560598
     },
     "wof:country":"ID",
-    "wof:geomhash":"d73c56132638b9c33ecec64457e914e7",
+    "wof:geomhash":"44828de3784c705d8117a7e56fb14858",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209536247
+            "county_id":102072733,
+            "locality_id":1209536247,
+            "region_id":85671987
         }
     ],
     "wof:id":1209536247,
-    "wof:lastmodified":1537629140,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614715809,
     "wof:name":"Nglebak",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072733,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
@@ -55,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.05306000000002,
+    111.05306,
     -7.73167,
-    111.05306000000002,
+    111.05306,
     -7.73167
 ],
-  "geometry": {"coordinates":[111.05306000000002,-7.73167],"type":"Point"}
+  "geometry": {"coordinates":[111.05306,-7.73167],"type":"Point"}
 }

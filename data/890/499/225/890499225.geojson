@@ -16,6 +16,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ast_x_preferred":[
         "Tohpati"
     ],
@@ -57,8 +58,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672103,
-        102073231
+        102073231,
+        85672103
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -81,7 +82,14 @@
         }
     ],
     "wof:id":890499225,
-    "wof:lastmodified":1563273833,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614653727,
     "wof:name":"Tohpati",
     "wof:parent_id":102073231,
     "wof:placetype":"locality",

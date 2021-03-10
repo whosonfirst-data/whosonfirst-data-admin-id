@@ -25,19 +25,20 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        85671995,
-        102072687
+        102072687,
+        85671995
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1990972
     },
     "wof:country":"ID",
-    "wof:geomhash":"23207e4b4e81643f27ceb7035416dc0f",
+    "wof:geomhash":"051eaa82da03005005cc57cb7cf4440c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +49,14 @@
         }
     ],
     "wof:id":1293150457,
-    "wof:lastmodified":1536776729,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614635760,
     "wof:name":"Bendabaru",
     "wof:parent_id":102072687,
     "wof:placetype":"locality",
@@ -58,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.58693999999998,
+    106.58694,
     -6.12167,
-    106.58693999999998,
+    106.58694,
     -6.12167
 ],
-  "geometry": {"coordinates":[106.58693999999998,-6.12167],"type":"Point"}
+  "geometry": {"coordinates":[106.58694,-6.12167],"type":"Point"}
 }

@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Lomba"
     ],
@@ -56,8 +57,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672045,
-        102072895
+        102072895,
+        85672045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -75,7 +76,14 @@
         }
     ],
     "wof:id":1259812265,
-    "wof:lastmodified":1564204303,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614644594,
     "wof:name":"Lomba",
     "wof:parent_id":102072895,
     "wof:placetype":"locality",

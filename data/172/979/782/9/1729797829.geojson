@@ -1,0 +1,72 @@
+{
+  "id": 1729797829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000063,
+    "geom:area_square_m":768522.844369,
+    "geom:bbox":"112.730229,-7.268123,112.741188,-7.258349",
+    "geom:latitude":-7.263349,
+    "geom:longitude":112.735507,
+    "iso:country":"ID",
+    "lbl:latitude":-7.262874,
+    "lbl:longitude":112.734968,
+    "mps:latitude":-7.262874,
+    "mps:longitude":112.734968,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Kedungdoro"
+    ],
+    "name:ind_x_preferred":[
+        "Kedungdoro"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        102018911,
+        102073397,
+        85672027
+    ],
+    "wof:breaches":[],
+    "wof:country":"ID",
+    "wof:created":1613065506,
+    "wof:geomhash":"74786d6424322edf11fb59154a916f11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102073397,
+            "locality_id":102018911,
+            "neighbourhood_id":1729797829,
+            "region_id":85672027
+        }
+    ],
+    "wof:id":1729797829,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614723206,
+    "wof:name":"Kedungdoro",
+    "wof:parent_id":102018911,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    112.730229,
+    -7.268123,
+    112.741188,
+    -7.258349
+],
+  "geometry": {"coordinates":[[[112.740144,-7.261366],[112.741004,-7.263823],[112.74118799999999,-7.265666],[112.737072,-7.265666],[112.735045,-7.268123],[112.73022899999999,-7.265613],[112.73306700000001,-7.258349],[112.740144,-7.261366]]],"type":"Polygon"}
+}

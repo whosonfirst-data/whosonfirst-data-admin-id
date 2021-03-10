@@ -25,26 +25,40 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672093,
+        102073265
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6264245
     },
     "wof:country":"ID",
-    "wof:geomhash":"0b67fb5ea5aa770cf5affd447f386a64",
+    "wof:geomhash":"9a262b566ea3a0a8cea08dfa142dc35c",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209403475
+            "county_id":102073265,
+            "locality_id":1209403475,
+            "region_id":85672093
         }
     ],
     "wof:id":1209403475,
-    "wof:lastmodified":1536288070,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614719905,
     "wof:name":"Tegalrejo",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073265,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
@@ -53,9 +67,9 @@
 },
   "bbox": [
     110.26861,
-    -7.736110000000001,
+    -7.73611,
     110.26861,
-    -7.736110000000001
+    -7.73611
 ],
   "geometry": {"coordinates":[110.26861,-7.73611],"type":"Point"}
 }

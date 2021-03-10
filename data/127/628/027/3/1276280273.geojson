@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Cisugan"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072739
+        102072739,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6581043
     },
     "wof:country":"ID",
-    "wof:geomhash":"b97596d26c9a2f2c70a9ac3a089fa2b6",
+    "wof:geomhash":"035de74ecfcdfaa99636d298dc000412",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1276280273,
-    "wof:lastmodified":1537629460,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614651444,
     "wof:name":"Cisugan",
     "wof:parent_id":102072739,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.99611000000002,
+    107.99611,
     -6.795,
-    107.99611000000002,
+    107.99611,
     -6.795
 ],
-  "geometry": {"coordinates":[107.99611000000002,-6.795],"type":"Point"}
+  "geometry": {"coordinates":[107.99611,-6.795],"type":"Point"}
 }

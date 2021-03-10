@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Kertayasa"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073153
+        102073153,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6370862
     },
     "wof:country":"ID",
-    "wof:geomhash":"5ae8b9b3e4e6971e8e2c20ffc792d540",
+    "wof:geomhash":"0f6e6822091304d5ba7d43c532f560cc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1293483761,
-    "wof:lastmodified":1537628323,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614650844,
     "wof:name":"Kertayasa",
     "wof:parent_id":102073153,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.49611000000002,
+    109.49611,
     -7.46306,
-    109.49611000000002,
+    109.49611,
     -7.46306
 ],
-  "geometry": {"coordinates":[109.49611000000002,-7.46306],"type":"Point"}
+  "geometry": {"coordinates":[109.49611,-7.46306],"type":"Point"}
 }

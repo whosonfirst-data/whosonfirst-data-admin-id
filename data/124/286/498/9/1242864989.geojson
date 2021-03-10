@@ -25,19 +25,20 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073233
+        102073233,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2007899
     },
     "wof:country":"ID",
-    "wof:geomhash":"4d3cf321a3b8694deb901e23706d06b1",
+    "wof:geomhash":"399ee0e9649f346984be3ec86136e5dd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +49,14 @@
         }
     ],
     "wof:id":1242864989,
-    "wof:lastmodified":1536649462,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614653860,
     "wof:name":"Kaliwingko",
     "wof:parent_id":102073233,
     "wof:placetype":"locality",
@@ -58,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.69138999999998,
+    110.69139,
     -7.63778,
-    110.69138999999998,
+    110.69139,
     -7.63778
 ],
-  "geometry": {"coordinates":[110.69138999999998,-7.63778],"type":"Point"}
+  "geometry": {"coordinates":[110.69139,-7.63778],"type":"Point"}
 }

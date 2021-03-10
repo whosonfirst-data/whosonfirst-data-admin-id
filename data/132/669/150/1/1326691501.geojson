@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ben_x_preferred":[
         "\u09b2\u09be\u09a4\u09c7\u09b0\u09bf"
     ],
@@ -68,15 +69,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672097,
-        1108796829
+        1108796829,
+        85672097
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8043729
     },
     "wof:country":"ID",
-    "wof:geomhash":"005aff6eb6bfe4411c66ed0b25bd6944",
+    "wof:geomhash":"f3432cd2661ef7f8c0b91a62e1eb9411",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -87,7 +88,14 @@
         }
     ],
     "wof:id":1326691501,
-    "wof:lastmodified":1564168114,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614649824,
     "wof:name":"Lateri",
     "wof:parent_id":1108796829,
     "wof:placetype":"locality",
@@ -97,10 +105,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    128.23438000000002,
+    128.23438,
     -3.64809,
-    128.23438000000002,
+    128.23438,
     -3.64809
 ],
-  "geometry": {"coordinates":[128.23438000000002,-3.64809],"type":"Point"}
+  "geometry": {"coordinates":[128.23437999999999,-3.64809],"type":"Point"}
 }

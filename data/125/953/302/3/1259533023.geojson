@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Paoman"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073193
+        102073193,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1632480
     },
     "wof:country":"ID",
-    "wof:geomhash":"02d407786618e6b641ce17149e72e9a4",
+    "wof:geomhash":"dde15cdb768764f3529c33d5b85da4d5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1259533023,
-    "wof:lastmodified":1537626746,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614654244,
     "wof:name":"Paoman",
     "wof:parent_id":102073193,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.32361000000002,
+    108.32361,
     -6.32,
-    108.32361000000002,
+    108.32361,
     -6.32
 ],
-  "geometry": {"coordinates":[108.32361000000002,-6.32],"type":"Point"}
+  "geometry": {"coordinates":[108.32361,-6.32],"type":"Point"}
 }

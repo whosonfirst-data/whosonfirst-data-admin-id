@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Gampingan"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072715
+        102072715,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6375445
     },
     "wof:country":"ID",
-    "wof:geomhash":"cea729f66abf5e41e673b2969fedd59a",
+    "wof:geomhash":"c9670086101e264b62438f4e15611f20",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1260382339,
-    "wof:lastmodified":1537628437,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614652990,
     "wof:name":"Gampingan",
     "wof:parent_id":102072715,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.35611000000002,
+    109.35611,
     -7.61083,
-    109.35611000000002,
+    109.35611,
     -7.61083
 ],
-  "geometry": {"coordinates":[109.35611000000002,-7.61083],"type":"Point"}
+  "geometry": {"coordinates":[109.35611,-7.61083],"type":"Point"}
 }

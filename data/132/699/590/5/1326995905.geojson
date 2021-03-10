@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Londe"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672037,
-        102072837
+        102072837,
+        85672037
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7462615
     },
     "wof:country":"ID",
-    "wof:geomhash":"ae8926cad0869fc9a22a2482a3ccdc87",
+    "wof:geomhash":"4c9d452603557915a466f32d6b94bd8f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1326995905,
-    "wof:lastmodified":1537633785,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614633375,
     "wof:name":"Londe",
     "wof:parent_id":102072837,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    121.72856000000002,
+    121.72856,
     -8.60621,
-    121.72856000000002,
+    121.72856,
     -8.60621
 ],
-  "geometry": {"coordinates":[121.72856000000002,-8.60621],"type":"Point"}
+  "geometry": {"coordinates":[121.72856,-8.60621],"type":"Point"}
 }

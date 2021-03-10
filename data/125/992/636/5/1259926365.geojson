@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Wideng"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073193
+        102073193,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6402042
     },
     "wof:country":"ID",
-    "wof:geomhash":"a480bb74046326d7c453b3d8113f74b4",
+    "wof:geomhash":"390471020c9c7ea78a4e2f1899b9394e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1259926365,
-    "wof:lastmodified":1537628857,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614644276,
     "wof:name":"Wideng",
     "wof:parent_id":102073193,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.30138999999998,
+    108.30139,
     -6.59889,
-    108.30138999999998,
+    108.30139,
     -6.59889
 ],
-  "geometry": {"coordinates":[108.30138999999998,-6.59889],"type":"Point"}
+  "geometry": {"coordinates":[108.30139,-6.59889],"type":"Point"}
 }

@@ -26,30 +26,44 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:und_x_variant":[
         "Ngemplak 1",
         "Ngemplak Satu"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102072727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1962173
     },
     "wof:country":"ID",
-    "wof:geomhash":"df832db93414c4ed8e64a876d52620d0",
+    "wof:geomhash":"abd6c61e6cd627608eb4a38d8ad8e88b",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209335311
+            "county_id":102072727,
+            "locality_id":1209335311,
+            "region_id":85671987
         }
     ],
     "wof:id":1209335311,
-    "wof:lastmodified":1537627647,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614715769,
     "wof:name":"Ngemplak Satu",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072727,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
@@ -57,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.44861000000002,
+    110.44861,
     -7.01667,
-    110.44861000000002,
+    110.44861,
     -7.01667
 ],
-  "geometry": {"coordinates":[110.44861000000002,-7.01667],"type":"Point"}
+  "geometry": {"coordinates":[110.44861,-7.01667],"type":"Point"}
 }

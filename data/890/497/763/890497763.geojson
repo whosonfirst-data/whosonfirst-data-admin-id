@@ -16,6 +16,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Mariana"
     ],
@@ -82,8 +83,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672013,
-        102072629
+        102072629,
+        85672013
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -105,7 +106,14 @@
         }
     ],
     "wof:id":890497763,
-    "wof:lastmodified":1564196880,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614642105,
     "wof:name":"Mariana",
     "wof:parent_id":102072629,
     "wof:placetype":"locality",

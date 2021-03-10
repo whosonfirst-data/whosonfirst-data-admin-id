@@ -25,19 +25,20 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073111
+        102073111,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1962218
     },
     "wof:country":"ID",
-    "wof:geomhash":"0df05110cc789d126900f613d4accd97",
+    "wof:geomhash":"762f9b1381eb10c9bcf568b6d3cb4a2c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +49,14 @@
         }
     ],
     "wof:id":1293092295,
-    "wof:lastmodified":1536858530,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614635261,
     "wof:name":"Kadungwringin",
     "wof:parent_id":102073111,
     "wof:placetype":"locality",
@@ -58,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.49611000000002,
+    110.49611,
     -7.03194,
-    110.49611000000002,
+    110.49611,
     -7.03194
 ],
-  "geometry": {"coordinates":[110.49611000000002,-7.03194],"type":"Point"}
+  "geometry": {"coordinates":[110.49611,-7.03194],"type":"Point"}
 }

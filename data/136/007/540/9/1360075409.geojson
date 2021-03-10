@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Sepat"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102073377
+        102073377,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6865434
     },
     "wof:country":"ID",
-    "wof:geomhash":"1ab7c22ea0364bec5c8ec255d18101d2",
+    "wof:geomhash":"876fa92a53915d2dc1fc3e3edc8c1a7a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1360075409,
-    "wof:lastmodified":1537632436,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614653483,
     "wof:name":"Sepat",
     "wof:parent_id":102073377,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.94223999999998,
+    111.94224,
     -7.23969,
-    111.94223999999998,
+    111.94224,
     -7.23969
 ],
-  "geometry": {"coordinates":[111.94223999999998,-7.23969],"type":"Point"}
+  "geometry": {"coordinates":[111.94224,-7.23969],"type":"Point"}
 }

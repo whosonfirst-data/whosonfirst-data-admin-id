@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ceb_x_preferred":[
         "Kiara"
     ],
@@ -45,24 +46,37 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671995,
+        102072687
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1991163
     },
     "wof:country":"ID",
-    "wof:geomhash":"dae0d34f98fb91ac55f2b004587f2e86",
+    "wof:geomhash":"ecb2e3db08cf48505f8ce2b34ddf4e0b",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209052537
+            "county_id":102072687,
+            "locality_id":1209052537,
+            "region_id":85671995
         }
     ],
     "wof:id":1209052537,
-    "wof:lastmodified":1564186424,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614715244,
     "wof:name":"Kiara",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072687,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
@@ -70,10 +84,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.45638999999998,
+    106.45639,
     -6.18417,
-    106.45638999999998,
+    106.45639,
     -6.18417
 ],
-  "geometry": {"coordinates":[106.45638999999998,-6.18417],"type":"Point"}
+  "geometry": {"coordinates":[106.45639,-6.18417],"type":"Point"}
 }

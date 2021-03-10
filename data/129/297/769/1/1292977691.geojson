@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Pepunti"
     ],
@@ -32,8 +33,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672031,
-        102073513
+        102073513,
+        85672031
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1292977691,
-    "wof:lastmodified":1537636393,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614636255,
     "wof:name":"Pepunti",
     "wof:parent_id":102073513,
     "wof:placetype":"locality",

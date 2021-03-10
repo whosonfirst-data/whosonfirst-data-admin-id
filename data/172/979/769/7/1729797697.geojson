@@ -1,0 +1,72 @@
+{
+  "id": 1729797697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000073,
+    "geom:area_square_m":889420.150879,
+    "geom:bbox":"112.781756,-7.288681,112.79054,-7.276078",
+    "geom:latitude":-7.282891,
+    "geom:longitude":112.786869,
+    "iso:country":"ID",
+    "lbl:latitude":-7.282628,
+    "lbl:longitude":112.788103,
+    "mps:latitude":-7.282628,
+    "mps:longitude":112.788103,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Gebang Putih"
+    ],
+    "name:ind_x_preferred":[
+        "Gebang Putih"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        102018911,
+        102073397,
+        85672027
+    ],
+    "wof:breaches":[],
+    "wof:country":"ID",
+    "wof:created":1613065459,
+    "wof:geomhash":"e7640e9df6a8fe7caabc18bae1a541d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102073397,
+            "locality_id":102018911,
+            "neighbourhood_id":1729797697,
+            "region_id":85672027
+        }
+    ],
+    "wof:id":1729797697,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614723154,
+    "wof:name":"Gebang Putih",
+    "wof:parent_id":102018911,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    112.781756,
+    -7.288681,
+    112.79054,
+    -7.276078
+],
+  "geometry": {"coordinates":[[[112.789922,-7.276078],[112.79053999999999,-7.281831],[112.79007900000001,-7.287575],[112.781756,-7.288681],[112.781947,-7.284125],[112.781947,-7.284125],[112.785633,-7.284248],[112.78587899999999,-7.28044],[112.784527,-7.279825],[112.78406099999999,-7.277134],[112.78428099999999,-7.277122],[112.789922,-7.276078]]],"type":"Polygon"}
+}

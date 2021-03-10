@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Wawa"
     ],
@@ -62,15 +63,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672067,
-        102073445
+        102073445,
+        85672067
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8531559
     },
     "wof:country":"ID",
-    "wof:geomhash":"2a38b3876b2aa4c4ae45930dba5f43b6",
+    "wof:geomhash":"cc3f0bdf23742dbf58dbeabce78bdb4c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,7 +82,14 @@
         }
     ],
     "wof:id":1293912465,
-    "wof:lastmodified":1564175985,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614635293,
     "wof:name":"Wawa",
     "wof:parent_id":102073445,
     "wof:placetype":"locality",
@@ -91,10 +99,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    134.64401999999998,
+    134.64402,
     -3.9167,
-    134.64401999999998,
+    134.64402,
     -3.9167
 ],
-  "geometry": {"coordinates":[134.64401999999998,-3.9167],"type":"Point"}
+  "geometry": {"coordinates":[134.64402000000001,-3.9167],"type":"Point"}
 }

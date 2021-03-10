@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Selang"
     ],
@@ -44,15 +45,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102072775
+        102072775,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6410527
     },
     "wof:country":"ID",
-    "wof:geomhash":"fcd60294f40e66da983d9f60ab0b140f",
+    "wof:geomhash":"645aa73f8926d32b89f1f1561c648868",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -63,7 +64,14 @@
         }
     ],
     "wof:id":1276533113,
-    "wof:lastmodified":1564183486,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614637877,
     "wof:name":"Selang",
     "wof:parent_id":102072775,
     "wof:placetype":"locality",
@@ -73,10 +81,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.35611000000002,
+    111.35611,
     -7.34417,
-    111.35611000000002,
+    111.35611,
     -7.34417
 ],
-  "geometry": {"coordinates":[111.35611000000002,-7.34417],"type":"Point"}
+  "geometry": {"coordinates":[111.35611,-7.34417],"type":"Point"}
 }

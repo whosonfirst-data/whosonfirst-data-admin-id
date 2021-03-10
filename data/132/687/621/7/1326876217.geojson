@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Cibening Tiga"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073217
+        102073217,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6604357
     },
     "wof:country":"ID",
-    "wof:geomhash":"7a4f1cd34db2418b96eb05879a8e001b",
+    "wof:geomhash":"2919224421f936a792b76afcdbef5bee",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1326876217,
-    "wof:lastmodified":1537630033,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614632616,
     "wof:name":"Cibening Tiga",
     "wof:parent_id":102073217,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.67806000000002,
+    106.67806,
     -6.64194,
-    106.67806000000002,
+    106.67806,
     -6.64194
 ],
-  "geometry": {"coordinates":[106.67806000000002,-6.64194],"type":"Point"}
+  "geometry": {"coordinates":[106.67806,-6.64194],"type":"Point"}
 }

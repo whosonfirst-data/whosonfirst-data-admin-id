@@ -25,19 +25,20 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        85671995,
-        102072687
+        102072687,
+        85671995
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1991646
     },
     "wof:country":"ID",
-    "wof:geomhash":"b5e3a05ebd37dd947e47d800587061e0",
+    "wof:geomhash":"c1835f8304aba8968777196f7086e72c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +49,14 @@
         }
     ],
     "wof:id":1226087961,
-    "wof:lastmodified":1536664276,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614645787,
     "wof:name":"Angsana",
     "wof:parent_id":102072687,
     "wof:placetype":"locality",
@@ -58,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.42638999999998,
+    106.42639,
     -6.24528,
-    106.42638999999998,
+    106.42639,
     -6.24528
 ],
-  "geometry": {"coordinates":[106.42638999999998,-6.24528],"type":"Point"}
+  "geometry": {"coordinates":[106.42639,-6.24528],"type":"Point"}
 }

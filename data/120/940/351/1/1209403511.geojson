@@ -25,26 +25,40 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672093,
+        102073469
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6259877
     },
     "wof:country":"ID",
-    "wof:geomhash":"61c51561245ad706de965d4bc749eab7",
+    "wof:geomhash":"88cdfc8228d38a51835c31f8ff072e5b",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209403511
+            "county_id":102073469,
+            "locality_id":1209403511,
+            "region_id":85672093
         }
     ],
     "wof:id":1209403511,
-    "wof:lastmodified":1536288069,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614721337,
     "wof:name":"Gembol",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073469,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
@@ -53,9 +67,9 @@
 },
   "bbox": [
     110.21917,
-    -7.661389999999999,
+    -7.66139,
     110.21917,
-    -7.661389999999999
+    -7.66139
 ],
   "geometry": {"coordinates":[110.21917000000001,-7.66139],"type":"Point"}
 }

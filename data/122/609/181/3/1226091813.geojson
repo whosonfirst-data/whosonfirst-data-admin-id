@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Kampung Utara"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073551
+        102073551,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6593732
     },
     "wof:country":"ID",
-    "wof:geomhash":"9505d96744f275fe06d05e8476ed3dbc",
+    "wof:geomhash":"d8a03ee9b74702fb7956d42e4c44ddb7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1226091813,
-    "wof:lastmodified":1537629775,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614646022,
     "wof:name":"Kampung Utara",
     "wof:parent_id":102073551,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.19693999999998,
+    107.19694,
     -6.27833,
-    107.19693999999998,
+    107.19694,
     -6.27833
 ],
-  "geometry": {"coordinates":[107.19693999999998,-6.27833],"type":"Point"}
+  "geometry": {"coordinates":[107.19694,-6.27833],"type":"Point"}
 }

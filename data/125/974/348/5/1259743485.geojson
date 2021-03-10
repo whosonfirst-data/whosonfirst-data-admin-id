@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Cicurug"
     ],
@@ -44,8 +45,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073359
+        102073359,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,7 +64,14 @@
         }
     ],
     "wof:id":1259743485,
-    "wof:lastmodified":1564204006,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614644494,
     "wof:name":"Cicurug",
     "wof:parent_id":102073359,
     "wof:placetype":"locality",

@@ -25,19 +25,20 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073265
+        102073265,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6265226
     },
     "wof:country":"ID",
-    "wof:geomhash":"065a484e7285fab8ac0ab01a7d93e0d1",
+    "wof:geomhash":"aa484a72167555ff639d30f234e2b6a3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +49,14 @@
         }
     ],
     "wof:id":1209709167,
-    "wof:lastmodified":1536391477,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614638324,
     "wof:name":"Pondokdawung",
     "wof:parent_id":102073265,
     "wof:placetype":"locality",
@@ -58,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.46056000000002,
+    110.46056,
     -7.68972,
-    110.46056000000002,
+    110.46056,
     -7.68972
 ],
-  "geometry": {"coordinates":[110.46056000000002,-7.68972],"type":"Point"}
+  "geometry": {"coordinates":[110.46056,-7.68972],"type":"Point"}
 }

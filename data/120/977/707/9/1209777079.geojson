@@ -25,19 +25,20 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        85672097,
-        1108796833
+        1108796833,
+        85672097
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1901755
     },
     "wof:country":"ID",
-    "wof:geomhash":"d3d4d4e008d531a1f96c25ab5f01d220",
+    "wof:geomhash":"d5b151982d168efe34d92aef4ed38c7d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +49,14 @@
         }
     ],
     "wof:id":1209777079,
-    "wof:lastmodified":1536377734,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614638273,
     "wof:name":"Lumawe",
     "wof:parent_id":1108796833,
     "wof:placetype":"locality",
@@ -58,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    128.85388999999998,
+    128.85389,
     -2.86722,
-    128.85388999999998,
+    128.85389,
     -2.86722
 ],
-  "geometry": {"coordinates":[128.85388999999998,-2.86722],"type":"Point"}
+  "geometry": {"coordinates":[128.85389000000001,-2.86722],"type":"Point"}
 }

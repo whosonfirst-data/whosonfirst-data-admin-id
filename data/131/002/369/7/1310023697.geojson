@@ -26,6 +26,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Batu"
     ],
@@ -78,8 +79,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073111
+        102073111,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -97,7 +98,14 @@
         }
     ],
     "wof:id":1310023697,
-    "wof:lastmodified":1564193926,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614641129,
     "wof:name":"Batu",
     "wof:parent_id":102073111,
     "wof:placetype":"locality",

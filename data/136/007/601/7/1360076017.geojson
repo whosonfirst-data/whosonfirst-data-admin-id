@@ -25,19 +25,20 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073265
+        102073265,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6258214
     },
     "wof:country":"ID",
-    "wof:geomhash":"3f4ba4e47d69ebed3ad83791fe747200",
+    "wof:geomhash":"8bd1e2494dacd4811f8fce444d8cdd01",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +49,14 @@
         }
     ],
     "wof:id":1360076017,
-    "wof:lastmodified":1536958786,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614641378,
     "wof:name":"Semawung",
     "wof:parent_id":102073265,
     "wof:placetype":"locality",
@@ -58,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.29361000000002,
+    110.29361,
     -7.68194,
-    110.29361000000002,
+    110.29361,
     -7.68194
 ],
-  "geometry": {"coordinates":[110.29361000000002,-7.68194],"type":"Point"}
+  "geometry": {"coordinates":[110.29361,-7.68194],"type":"Point"}
 }

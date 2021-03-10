@@ -25,29 +25,43 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Sungaipladjau"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671977,
+        102072785
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8425549
     },
     "wof:country":"ID",
-    "wof:geomhash":"34a5d9ecfc51e4290668938348fa7de4",
+    "wof:geomhash":"f7d7f3641a6ebcb79e88811c370315ef",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209486027
+            "county_id":102072785,
+            "locality_id":1209486027,
+            "region_id":85671977
         }
     ],
     "wof:id":1209486027,
-    "wof:lastmodified":1537636151,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614716274,
     "wof:name":"Sungaipladjau",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072785,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
@@ -55,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    117.38181000000002,
+    117.38181,
     2.15938,
-    117.38181000000002,
+    117.38181,
     2.15938
 ],
-  "geometry": {"coordinates":[117.38181000000002,2.15938],"type":"Point"}
+  "geometry": {"coordinates":[117.38181,2.15938],"type":"Point"}
 }

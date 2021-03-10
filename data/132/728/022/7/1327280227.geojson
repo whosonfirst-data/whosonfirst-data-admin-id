@@ -26,6 +26,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:und_x_variant":[
         "Batutapak",
         "Batutapakcidokom"
@@ -34,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073217
+        102073217,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1961428
     },
     "wof:country":"ID",
-    "wof:geomhash":"b40bf8c78237fb1155c801fd595f48c2",
+    "wof:geomhash":"d51422bc8f5440486dc842df4a645fe1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +54,14 @@
         }
     ],
     "wof:id":1327280227,
-    "wof:lastmodified":1537627610,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614650140,
     "wof:name":"Batutapakcidokom",
     "wof:parent_id":102073217,
     "wof:placetype":"locality",
@@ -63,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.71056000000002,
+    106.71056,
     -6.39694,
-    106.71056000000002,
+    106.71056,
     -6.39694
 ],
-  "geometry": {"coordinates":[106.71056000000002,-6.39694],"type":"Point"}
+  "geometry": {"coordinates":[106.71056,-6.39694],"type":"Point"}
 }

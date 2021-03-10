@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Watukempul"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072639
+        102072639,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6376573
     },
     "wof:country":"ID",
-    "wof:geomhash":"06fc79f43070c50ffc5a4a69bd5be2e3",
+    "wof:geomhash":"28fb3749a52f686505cab57ac93172ac",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1326524117,
-    "wof:lastmodified":1537628466,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614633409,
     "wof:name":"Watukempul",
     "wof:parent_id":102072639,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.62888999999998,
+    109.62889,
     -7.65444,
-    109.62888999999998,
+    109.62889,
     -7.65444
 ],
-  "geometry": {"coordinates":[109.62888999999998,-7.65444],"type":"Point"}
+  "geometry": {"coordinates":[109.62889,-7.65444],"type":"Point"}
 }

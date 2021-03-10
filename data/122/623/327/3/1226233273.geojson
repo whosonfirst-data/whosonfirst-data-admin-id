@@ -25,19 +25,20 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072733
+        102072733,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1935462
     },
     "wof:country":"ID",
-    "wof:geomhash":"552f6d53493b8b3281babd0b3e2de324",
+    "wof:geomhash":"6f7398e772b39edbe5bb7130d125a491",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +49,14 @@
         }
     ],
     "wof:id":1226233273,
-    "wof:lastmodified":1536951808,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614654802,
     "wof:name":"Ngentak",
     "wof:parent_id":102072733,
     "wof:placetype":"locality",
@@ -58,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.97556000000002,
+    110.97556,
     -7.57333,
-    110.97556000000002,
+    110.97556,
     -7.57333
 ],
-  "geometry": {"coordinates":[110.97556000000002,-7.57333],"type":"Point"}
+  "geometry": {"coordinates":[110.97556,-7.57333],"type":"Point"}
 }

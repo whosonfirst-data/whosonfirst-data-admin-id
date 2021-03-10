@@ -25,26 +25,40 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102073169
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6200664
     },
     "wof:country":"ID",
-    "wof:geomhash":"446f9d273646fe56929bd8b6d3c630ea",
+    "wof:geomhash":"37c319e37b71f014c54587234b898a03",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209405721
+            "county_id":102073169,
+            "locality_id":1209405721,
+            "region_id":85671987
         }
     ],
     "wof:id":1209405721,
-    "wof:lastmodified":1536288003,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614718922,
     "wof:name":"Jurang",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073169,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
@@ -53,9 +67,9 @@
 },
   "bbox": [
     110.12528,
-    -7.309439999999999,
+    -7.30944,
     110.12528,
-    -7.309439999999999
+    -7.30944
 ],
   "geometry": {"coordinates":[110.12528,-7.30944],"type":"Point"}
 }

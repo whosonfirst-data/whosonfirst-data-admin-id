@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Hulung"
     ],
@@ -38,7 +39,7 @@
         "gn:id":8042930
     },
     "wof:country":"ID",
-    "wof:geomhash":"7c7abca076752f18310b8b1036c1be3e",
+    "wof:geomhash":"1b239a07c55bf3293106a2c770ab53d0",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -48,7 +49,14 @@
         }
     ],
     "wof:id":1326481285,
-    "wof:lastmodified":1537635102,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614633340,
     "wof:name":"Hulung",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
@@ -58,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    128.03798999999998,
+    128.03799,
     -3.35401,
-    128.03798999999998,
+    128.03799,
     -3.35401
 ],
-  "geometry": {"coordinates":[128.03798999999998,-3.35401],"type":"Point"}
+  "geometry": {"coordinates":[128.03799000000001,-3.35401],"type":"Point"}
 }

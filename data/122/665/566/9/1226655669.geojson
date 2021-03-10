@@ -25,19 +25,20 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        85672115,
-        102072957
+        102072957,
+        85672115
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1636901
     },
     "wof:country":"ID",
-    "wof:geomhash":"3d84c573aa1ecd0030629a47f57007bb",
+    "wof:geomhash":"f53f97622ea39e09310b936f414658f8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +49,14 @@
         }
     ],
     "wof:id":1226655669,
-    "wof:lastmodified":1536843967,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614645892,
     "wof:name":"Maffin",
     "wof:parent_id":102072957,
     "wof:placetype":"locality",
@@ -58,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    138.91666999999998,
+    138.91667,
     -2.0,
-    138.91666999999998,
+    138.91667,
     -2.0
 ],
-  "geometry": {"coordinates":[138.91666999999998,-2.0],"type":"Point"}
+  "geometry": {"coordinates":[138.91667000000001,-2.0],"type":"Point"}
 }

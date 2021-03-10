@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Brondong"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072587
+        102072587,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6377482
     },
     "wof:country":"ID",
-    "wof:geomhash":"a1073e3e1b3b94ddf3a847e235846419",
+    "wof:geomhash":"482f7963095c29a943eb1ceb0b63757a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1259373749,
-    "wof:lastmodified":1537628490,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614643866,
     "wof:name":"Brondong",
     "wof:parent_id":102072587,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.74611000000002,
+    109.74611,
     -7.56889,
-    109.74611000000002,
+    109.74611,
     -7.56889
 ],
-  "geometry": {"coordinates":[109.74611000000002,-7.56889],"type":"Point"}
+  "geometry": {"coordinates":[109.74611,-7.56889],"type":"Point"}
 }

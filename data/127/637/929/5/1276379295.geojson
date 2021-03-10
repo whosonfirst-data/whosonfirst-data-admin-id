@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Pangkalanbalai"
     ],
@@ -38,8 +39,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672013,
-        102072629
+        102072629,
+        85672013
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,7 +58,14 @@
         }
     ],
     "wof:id":1276379295,
-    "wof:lastmodified":1537626755,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614637782,
     "wof:name":"Pangkalan Balai",
     "wof:parent_id":102072629,
     "wof:placetype":"locality",

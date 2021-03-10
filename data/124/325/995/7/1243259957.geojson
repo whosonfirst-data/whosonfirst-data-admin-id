@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Wadasmalang"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072639
+        102072639,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6372189
     },
     "wof:country":"ID",
-    "wof:geomhash":"f7f304f26d6df0e50801c5a9a69a159f",
+    "wof:geomhash":"2b15bac87d838fb92f1c130d988a2f1a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1243259957,
-    "wof:lastmodified":1537628362,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614642920,
     "wof:name":"Wadasmalang",
     "wof:parent_id":102072639,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.56638999999998,
+    109.56639,
     -7.52528,
-    109.56638999999998,
+    109.56639,
     -7.52528
 ],
-  "geometry": {"coordinates":[109.56638999999998,-7.52528],"type":"Point"}
+  "geometry": {"coordinates":[109.56639,-7.52528],"type":"Point"}
 }

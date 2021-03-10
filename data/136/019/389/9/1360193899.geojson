@@ -26,6 +26,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Rimo"
     ],
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671973,
-        102072641
+        102072641,
+        85671973
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,7 +56,14 @@
         }
     ],
     "wof:id":1360193899,
-    "wof:lastmodified":1537630464,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614653553,
     "wof:name":"Rimo",
     "wof:parent_id":102072641,
     "wof:placetype":"locality",

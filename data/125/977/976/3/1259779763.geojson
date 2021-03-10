@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ceb_x_preferred":[
         "Karanganyar"
     ],
@@ -44,15 +45,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072947
+        102072947,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6256240
     },
     "wof:country":"ID",
-    "wof:geomhash":"c9e7fea2567808ea8d16ee6a166be3d2",
+    "wof:geomhash":"858e9c1ed36b6a2246a1e1f7cb4724da",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -63,7 +64,14 @@
         }
     ],
     "wof:id":1259779763,
-    "wof:lastmodified":1564202576,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614654319,
     "wof:name":"Karanganyar",
     "wof:parent_id":102072947,
     "wof:placetype":"locality",
@@ -73,10 +81,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.87111000000002,
+    110.87111,
     -7.77056,
-    110.87111000000002,
+    110.87111,
     -7.77056
 ],
-  "geometry": {"coordinates":[110.87111000000002,-7.77056],"type":"Point"}
+  "geometry": {"coordinates":[110.87111,-7.77056],"type":"Point"}
 }

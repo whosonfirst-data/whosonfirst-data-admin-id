@@ -25,26 +25,40 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672093,
+        102073313
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2004343
     },
     "wof:country":"ID",
-    "wof:geomhash":"49d1bb8228d565c2b1216e2ded555063",
+    "wof:geomhash":"d83a3098d58f0ec66747a04fbad587fe",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209101041
+            "county_id":102073313,
+            "locality_id":1209101041,
+            "region_id":85672093
         }
     ],
     "wof:id":1209101041,
-    "wof:lastmodified":1536297732,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614720250,
     "wof:name":"Lanteng Satu",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073313,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
@@ -53,9 +67,9 @@
 },
   "bbox": [
     110.3975,
-    -7.949439999999999,
+    -7.94944,
     110.3975,
-    -7.949439999999999
+    -7.94944
 ],
   "geometry": {"coordinates":[110.39749999999999,-7.94944],"type":"Point"}
 }

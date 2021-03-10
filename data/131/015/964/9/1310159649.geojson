@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ace_x_preferred":[
         "Surakarta"
     ],
@@ -173,15 +174,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671995,
-        102073053
+        102073053,
+        85671995
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1625813
     },
     "wof:country":"ID",
-    "wof:geomhash":"b5be05733606669503bfc03a550b38f3",
+    "wof:geomhash":"5f2261f887f40559675fd8b6c146f227",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -192,7 +193,14 @@
         }
     ],
     "wof:id":1310159649,
-    "wof:lastmodified":1564191187,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614640277,
     "wof:name":"Surakarta",
     "wof:parent_id":102073053,
     "wof:placetype":"locality",
@@ -202,10 +210,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    105.88436000000002,
+    105.88436,
     -6.42047,
-    105.88436000000002,
+    105.88436,
     -6.42047
 ],
-  "geometry": {"coordinates":[105.88436000000002,-6.42047],"type":"Point"}
+  "geometry": {"coordinates":[105.88436,-6.42047],"type":"Point"}
 }

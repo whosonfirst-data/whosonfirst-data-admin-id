@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Salam"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102073013
+        102073013,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6387384
     },
     "wof:country":"ID",
-    "wof:geomhash":"5be23cbb7bcb44068596b99866521451",
+    "wof:geomhash":"6e275eb7222d06d9d5200ca9e00fbb70",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1293878687,
-    "wof:lastmodified":1537628639,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614636409,
     "wof:name":"Salam",
     "wof:parent_id":102073013,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.36388999999998,
+    111.36389,
     -8.20806,
-    111.36388999999998,
+    111.36389,
     -8.20806
 ],
-  "geometry": {"coordinates":[111.36388999999998,-8.20806],"type":"Point"}
+  "geometry": {"coordinates":[111.36389,-8.20806],"type":"Point"}
 }

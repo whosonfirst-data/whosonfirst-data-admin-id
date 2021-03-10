@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569
@@ -34,7 +35,7 @@
         "gn:id":1903110
     },
     "wof:country":"ID",
-    "wof:geomhash":"d9cb9cf75f8dfa21892940ea4126af28",
+    "wof:geomhash":"e70be399f392e2f136bb2a8d56e20020",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -44,7 +45,14 @@
         }
     ],
     "wof:id":1327072705,
-    "wof:lastmodified":1536702630,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614632472,
     "wof:name":"Biringkasi",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
@@ -54,10 +62,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    119.58556000000002,
+    119.58556,
     -5.625,
-    119.58556000000002,
+    119.58556,
     -5.625
 ],
-  "geometry": {"coordinates":[119.58556000000002,-5.625],"type":"Point"}
+  "geometry": {"coordinates":[119.58556,-5.625],"type":"Point"}
 }

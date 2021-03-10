@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Babakanjengkol"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073471
+        102073471,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6581918
     },
     "wof:country":"ID",
-    "wof:geomhash":"acac105adeb271363d5c875c06056d17",
+    "wof:geomhash":"a63c691e4ef77cb3ba6d58a86383bbf5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1343803947,
-    "wof:lastmodified":1537629486,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614635067,
     "wof:name":"Babakanjengkol",
     "wof:parent_id":102073471,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.57361000000002,
+    107.57361,
     -6.61972,
-    107.57361000000002,
+    107.57361,
     -6.61972
 ],
-  "geometry": {"coordinates":[107.57361000000002,-6.61972],"type":"Point"}
+  "geometry": {"coordinates":[107.57361,-6.61972],"type":"Point"}
 }

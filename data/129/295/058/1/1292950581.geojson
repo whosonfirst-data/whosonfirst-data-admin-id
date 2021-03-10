@@ -25,19 +25,20 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072949
+        102072949,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1985062
     },
     "wof:country":"ID",
-    "wof:geomhash":"61ed2112a6dc1d202a7f079f5474b130",
+    "wof:geomhash":"257b417539b4ef4328853a1a16d0d8f5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +49,14 @@
         }
     ],
     "wof:id":1292950581,
-    "wof:lastmodified":1537061380,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614635560,
     "wof:name":"Puncakmerdeka",
     "wof:parent_id":102072949,
     "wof:placetype":"locality",
@@ -58,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.55138999999998,
+    107.55139,
     -7.20639,
-    107.55138999999998,
+    107.55139,
     -7.20639
 ],
-  "geometry": {"coordinates":[107.55138999999998,-7.20639],"type":"Point"}
+  "geometry": {"coordinates":[107.55139,-7.20639],"type":"Point"}
 }

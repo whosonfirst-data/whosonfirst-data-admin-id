@@ -25,26 +25,40 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671983,
+        102072949
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1985612
     },
     "wof:country":"ID",
-    "wof:geomhash":"376ee773d32a03dccf02b16acb7c72d4",
+    "wof:geomhash":"099d9755ee152360addbb86e424a9f61",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209575837
+            "county_id":102072949,
+            "locality_id":1209575837,
+            "region_id":85671983
         }
     ],
     "wof:id":1209575837,
-    "wof:lastmodified":1536282941,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614717521,
     "wof:name":"Batureok",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072949,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
@@ -53,9 +67,9 @@
 },
   "bbox": [
     107.51361,
-    -7.013330000000002,
+    -7.01333,
     107.51361,
-    -7.013330000000002
+    -7.01333
 ],
   "geometry": {"coordinates":[107.51361,-7.01333],"type":"Point"}
 }

@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Leuwi Girang"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073529
+        102073529,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6588076
     },
     "wof:country":"ID",
-    "wof:geomhash":"ef825156fdd5ef1402a6dcf347f5450a",
+    "wof:geomhash":"cf7868f0bc00333538997c0bfb7d0c51",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1310561777,
-    "wof:lastmodified":1537629598,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614653416,
     "wof:name":"Leuwi Girang",
     "wof:parent_id":102073529,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.08138999999998,
+    107.08139,
     -6.89222,
-    107.08138999999998,
+    107.08139,
     -6.89222
 ],
-  "geometry": {"coordinates":[107.08138999999998,-6.89222],"type":"Point"}
+  "geometry": {"coordinates":[107.08139,-6.89222],"type":"Point"}
 }

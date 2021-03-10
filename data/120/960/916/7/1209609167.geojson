@@ -25,26 +25,40 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102073233
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1999250
     },
     "wof:country":"ID",
-    "wof:geomhash":"892f1f182929ceed21d8fca22f510865",
+    "wof:geomhash":"35a5e4ac9b20ac3292a5aa57f1c951ae",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209609167
+            "county_id":102073233,
+            "locality_id":1209609167,
+            "region_id":85671987
         }
     ],
     "wof:id":1209609167,
-    "wof:lastmodified":1536281905,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614719621,
     "wof:name":"Karangturi",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073233,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
@@ -53,9 +67,9 @@
 },
   "bbox": [
     110.58833,
-    -7.793889999999998,
+    -7.79389,
     110.58833,
-    -7.793889999999998
+    -7.79389
 ],
   "geometry": {"coordinates":[110.58833,-7.79389],"type":"Point"}
 }

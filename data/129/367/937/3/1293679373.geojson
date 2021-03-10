@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ara_x_preferred":[
         "\u0642\u0627\u0631\u0648\u062a"
     ],
@@ -59,8 +60,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102073553
+        102073553,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -78,7 +79,14 @@
         }
     ],
     "wof:id":1293679373,
-    "wof:lastmodified":1564178301,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614651042,
     "wof:name":"Garut",
     "wof:parent_id":102073553,
     "wof:placetype":"locality",

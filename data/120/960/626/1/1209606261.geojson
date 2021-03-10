@@ -25,29 +25,43 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Tampakrejo"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102072947
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6404670
     },
     "wof:country":"ID",
-    "wof:geomhash":"9e81dfc24a59b31aec6d6ffc6c7ebdfe",
+    "wof:geomhash":"d1f2254f9c46a0b329598b2d819a19e3",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209606261
+            "county_id":102072947,
+            "locality_id":1209606261,
+            "region_id":85671987
         }
     ],
     "wof:id":1209606261,
-    "wof:lastmodified":1537628902,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614717442,
     "wof:name":"Tampakrejo",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072947,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
@@ -55,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.93361000000002,
+    110.93361,
     -8.05861,
-    110.93361000000002,
+    110.93361,
     -8.05861
 ],
-  "geometry": {"coordinates":[110.93361000000002,-8.05861],"type":"Point"}
+  "geometry": {"coordinates":[110.93361,-8.05861],"type":"Point"}
 }

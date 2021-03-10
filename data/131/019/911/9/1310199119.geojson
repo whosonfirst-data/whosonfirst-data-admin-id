@@ -25,19 +25,20 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072857
+        102072857,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6199730
     },
     "wof:country":"ID",
-    "wof:geomhash":"e498a44b0916ddebab6038ea62fb8c17",
+    "wof:geomhash":"8b879d9588bddbc5dc17c134d1818683",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +49,14 @@
         }
     ],
     "wof:id":1310199119,
-    "wof:lastmodified":1536860138,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614640951,
     "wof:name":"Gemur",
     "wof:parent_id":102072857,
     "wof:placetype":"locality",
@@ -58,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.10611000000002,
+    110.10611,
     -7.46917,
-    110.10611000000002,
+    110.10611,
     -7.46917
 ],
-  "geometry": {"coordinates":[110.10611000000002,-7.46917],"type":"Point"}
+  "geometry": {"coordinates":[110.10611,-7.46917],"type":"Point"}
 }

@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ckb_x_preferred":[
         "\u0628\u06d5\u06be\u0627\u0631"
     ],
@@ -38,8 +39,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672115,
-        102072939
+        102072939,
+        85672115
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,7 +58,14 @@
         }
     ],
     "wof:id":1209755863,
-    "wof:lastmodified":1564187520,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614639205,
     "wof:name":"Bahor",
     "wof:parent_id":102072939,
     "wof:placetype":"locality",

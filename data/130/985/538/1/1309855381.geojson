@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Cigadog"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072855
+        102072855,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6601490
     },
     "wof:country":"ID",
-    "wof:geomhash":"f7f8b19b6a29fd412149759ed158fb5f",
+    "wof:geomhash":"421c9ec3a351c02c4233c3fc2ca8369e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1309855381,
-    "wof:lastmodified":1537629986,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614653633,
     "wof:name":"Cigadog",
     "wof:parent_id":102072855,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.78943999999998,
+    106.78944,
     -6.99389,
-    106.78943999999998,
+    106.78944,
     -6.99389
 ],
-  "geometry": {"coordinates":[106.78943999999998,-6.99389],"type":"Point"}
+  "geometry": {"coordinates":[106.78944,-6.99389],"type":"Point"}
 }

@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Sibo"
     ],
@@ -47,15 +48,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672115,
-        1108796879
+        1108796879,
+        85672115
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2082456
     },
     "wof:country":"ID",
-    "wof:geomhash":"24fb939aba8404b7808a1b3b50b78242",
+    "wof:geomhash":"467a27cf82437dd93087302c87b5ff65",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -66,7 +67,14 @@
         }
     ],
     "wof:id":1209725423,
-    "wof:lastmodified":1564187540,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614639212,
     "wof:name":"Sibo",
     "wof:parent_id":1108796879,
     "wof:placetype":"locality",
@@ -76,10 +84,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    140.16666999999998,
+    140.16667,
     -6.91667,
-    140.16666999999998,
+    140.16667,
     -6.91667
 ],
-  "geometry": {"coordinates":[140.16666999999998,-6.91667],"type":"Point"}
+  "geometry": {"coordinates":[140.16667000000001,-6.91667],"type":"Point"}
 }

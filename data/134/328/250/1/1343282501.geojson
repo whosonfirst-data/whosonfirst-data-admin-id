@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Sidorejo"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072929
+        102072929,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6409940
     },
     "wof:country":"ID",
-    "wof:geomhash":"5330cc1c1a0d1dff09012505baa1b229",
+    "wof:geomhash":"a6c3746273bca58b2032afa5c0400fb5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1343282501,
-    "wof:lastmodified":1537629061,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614635090,
     "wof:name":"Sidorejo",
     "wof:parent_id":102072929,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.01111000000002,
+    111.01111,
     -7.48694,
-    111.01111000000002,
+    111.01111,
     -7.48694
 ],
-  "geometry": {"coordinates":[111.01111000000002,-7.48694],"type":"Point"}
+  "geometry": {"coordinates":[111.01111,-7.48694],"type":"Point"}
 }

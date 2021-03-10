@@ -25,19 +25,20 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073233
+        102073233,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2009069
     },
     "wof:country":"ID",
-    "wof:geomhash":"74109686fa043560c1f7f24381a8932d",
+    "wof:geomhash":"bd25a8a24283e26922505f8df963f34d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +49,14 @@
         }
     ],
     "wof:id":1343352445,
-    "wof:lastmodified":1536902226,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614650471,
     "wof:name":"Bawukan",
     "wof:parent_id":102073233,
     "wof:placetype":"locality",
@@ -58,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.66306000000002,
+    110.66306,
     -7.73806,
-    110.66306000000002,
+    110.66306,
     -7.73806
 ],
-  "geometry": {"coordinates":[110.66306000000002,-7.73806],"type":"Point"}
+  "geometry": {"coordinates":[110.66306,-7.73806],"type":"Point"}
 }

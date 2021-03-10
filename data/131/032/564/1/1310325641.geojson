@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Kedokor"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072639
+        102072639,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6372597
     },
     "wof:country":"ID",
-    "wof:geomhash":"70471ef1a2b1159a4616df45c68706e8",
+    "wof:geomhash":"da55072c212bced9806da5380aa4637c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1310325641,
-    "wof:lastmodified":1537628372,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614653364,
     "wof:name":"Kedokor",
     "wof:parent_id":102072639,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.58138999999998,
+    109.58139,
     -7.62472,
-    109.58138999999998,
+    109.58139,
     -7.62472
 ],
-  "geometry": {"coordinates":[109.58138999999998,-7.62472],"type":"Point"}
+  "geometry": {"coordinates":[109.58139,-7.62472],"type":"Point"}
 }

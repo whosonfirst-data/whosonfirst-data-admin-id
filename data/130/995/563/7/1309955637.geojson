@@ -25,19 +25,20 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        85671995,
-        102072687
+        102072687,
+        85671995
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1990745
     },
     "wof:country":"ID",
-    "wof:geomhash":"f737bbaf3b55b4201b7a6516c261ad53",
+    "wof:geomhash":"d2a63007d20da7c7d5e832df55e6079c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +49,14 @@
         }
     ],
     "wof:id":1309955637,
-    "wof:lastmodified":1536715678,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614641904,
     "wof:name":"Kebonkelapa",
     "wof:parent_id":102072687,
     "wof:placetype":"locality",
@@ -58,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.55138999999998,
+    106.55139,
     -6.07972,
-    106.55138999999998,
+    106.55139,
     -6.07972
 ],
-  "geometry": {"coordinates":[106.55138999999998,-6.07972],"type":"Point"}
+  "geometry": {"coordinates":[106.55139,-6.07972],"type":"Point"}
 }

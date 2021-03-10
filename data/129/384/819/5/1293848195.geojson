@@ -25,19 +25,20 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        85672111,
-        102073015
+        102073015,
+        85672111
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1968727
     },
     "wof:country":"ID",
-    "wof:geomhash":"e2666d257b80c415ecd21679b9f68816",
+    "wof:geomhash":"9e246a5e43fc4790219d9823e7974930",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +49,14 @@
         }
     ],
     "wof:id":1293848195,
-    "wof:lastmodified":1536764669,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614635700,
     "wof:name":"Mantawa B",
     "wof:parent_id":102073015,
     "wof:placetype":"locality",
@@ -58,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    122.19861000000002,
+    122.19861,
     -1.57,
-    122.19861000000002,
+    122.19861,
     -1.57
 ],
-  "geometry": {"coordinates":[122.19861000000002,-1.57],"type":"Point"}
+  "geometry": {"coordinates":[122.19861,-1.57],"type":"Point"}
 }

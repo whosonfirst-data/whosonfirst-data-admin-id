@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ben_x_preferred":[
         "\u09a6\u09be\u0999\u09cd\u0997\u09be"
     ],
@@ -35,8 +36,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672045,
-        102072811
+        102072811,
+        85672045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,7 +55,14 @@
         }
     ],
     "wof:id":1260212483,
-    "wof:lastmodified":1564190743,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614653081,
     "wof:name":"Danga",
     "wof:parent_id":102072811,
     "wof:placetype":"locality",

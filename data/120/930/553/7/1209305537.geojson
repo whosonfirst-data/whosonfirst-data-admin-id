@@ -25,26 +25,40 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102072929
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6266280
     },
     "wof:country":"ID",
-    "wof:geomhash":"786ff5db04ffc3b0b759add8998f9526",
+    "wof:geomhash":"c4847523220c1b49de88c2291d6dd434",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209305537
+            "county_id":102072929,
+            "locality_id":1209305537,
+            "region_id":85671987
         }
     ],
     "wof:id":1209305537,
-    "wof:lastmodified":1536291209,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614717224,
     "wof:name":"Mendungan",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072929,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
@@ -53,9 +67,9 @@
 },
   "bbox": [
     110.88694,
-    -7.4302800000000016,
+    -7.43028,
     110.88694,
-    -7.4302800000000016
+    -7.43028
 ],
   "geometry": {"coordinates":[110.88694,-7.43028],"type":"Point"}
 }

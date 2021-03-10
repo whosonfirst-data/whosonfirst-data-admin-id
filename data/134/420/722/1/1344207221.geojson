@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Pangkalan"
     ],
@@ -41,15 +42,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072937
+        102072937,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6599864
     },
     "wof:country":"ID",
-    "wof:geomhash":"0428047137112a057d23357b9402cc3c",
+    "wof:geomhash":"1919e47e343c1076ac73a29b2afa6ca7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -60,7 +61,14 @@
         }
     ],
     "wof:id":1344207221,
-    "wof:lastmodified":1564174784,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614634879,
     "wof:name":"Pangkalan",
     "wof:parent_id":102072937,
     "wof:placetype":"locality",
@@ -70,10 +78,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.58556000000002,
+    107.58556,
     -6.25056,
-    107.58556000000002,
+    107.58556,
     -6.25056
 ],
-  "geometry": {"coordinates":[107.58556000000002,-6.25056],"type":"Point"}
+  "geometry": {"coordinates":[107.58556,-6.25056],"type":"Point"}
 }

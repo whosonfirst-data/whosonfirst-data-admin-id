@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Mampioper"
     ],
@@ -33,24 +34,37 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672115,
+        1108796871
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1636563
     },
     "wof:country":"ID",
-    "wof:geomhash":"31bee0a181a76f9373a89ba61571c2d5",
+    "wof:geomhash":"2c81119d0f73bdb6b2a4dab54050fcfe",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209145787
+            "county_id":1108796871,
+            "locality_id":1209145787,
+            "region_id":85672115
         }
     ],
     "wof:id":1209145787,
-    "wof:lastmodified":1537626878,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614722773,
     "wof:name":"Mompioper",
-    "wof:parent_id":85632203,
+    "wof:parent_id":1108796871,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
@@ -58,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    135.95600000000002,
+    135.956,
     -1.1449,
-    135.95600000000002,
+    135.956,
     -1.1449
 ],
-  "geometry": {"coordinates":[135.95600000000002,-1.1449],"type":"Point"}
+  "geometry": {"coordinates":[135.95599999999999,-1.1449],"type":"Point"}
 }

@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:hin_x_preferred":[
         "\u092e\u0947\u0928\u094d\u0926\u0941\u0924"
     ],
@@ -50,8 +51,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072709
+        102072709,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -69,7 +70,14 @@
         }
     ],
     "wof:id":1344151129,
-    "wof:lastmodified":1564172672,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614650317,
     "wof:name":"Mendut",
     "wof:parent_id":102072709,
     "wof:placetype":"locality",

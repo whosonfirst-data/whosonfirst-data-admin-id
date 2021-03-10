@@ -25,26 +25,40 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102073233
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2011815
     },
     "wof:country":"ID",
-    "wof:geomhash":"02bf030994dd7d83e8cef42965afe9ba",
+    "wof:geomhash":"96ca7b27aa334e65c0c84336adaff611",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209335359
+            "county_id":102073233,
+            "locality_id":1209335359,
+            "region_id":85671987
         }
     ],
     "wof:id":1209335359,
-    "wof:lastmodified":1536290241,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614719580,
     "wof:name":"Suruh Kulon",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073233,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
@@ -53,9 +67,9 @@
 },
   "bbox": [
     110.72611,
-    -7.619169999999999,
+    -7.61917,
     110.72611,
-    -7.619169999999999
+    -7.61917
 ],
   "geometry": {"coordinates":[110.72611000000001,-7.61917],"type":"Point"}
 }

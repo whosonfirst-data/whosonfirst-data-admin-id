@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Sarongge"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073217
+        102073217,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6604656
     },
     "wof:country":"ID",
-    "wof:geomhash":"c4e61f7198f4f8bd0729672e1fde07d9",
+    "wof:geomhash":"e9deae3061d1f5fea140f04686799c9d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1242919517,
-    "wof:lastmodified":1537630043,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614643411,
     "wof:name":"Sarongge",
     "wof:parent_id":102073217,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.57193999999998,
+    106.57194,
     -6.53944,
-    106.57193999999998,
+    106.57194,
     -6.53944
 ],
-  "geometry": {"coordinates":[106.57193999999998,-6.53944],"type":"Point"}
+  "geometry": {"coordinates":[106.57194,-6.53944],"type":"Point"}
 }

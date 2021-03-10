@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Masarete"
     ],
@@ -36,15 +37,14 @@
         102191569,
         85632203,
         85672085,
-        1108796815,
-        85672097
+        1108796815
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8044280
     },
     "wof:country":"ID",
-    "wof:geomhash":"595fcc70c3f01a2f5200c862e0794870",
+    "wof:geomhash":"faab7e5c4519720f9782ce49b8c04d3c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,17 +52,17 @@
             "county_id":1108796815,
             "locality_id":1360131941,
             "region_id":85672085
-        },
-        {
-            "continent_id":102191569,
-            "country_id":85632203,
-            "county_id":1108796815,
-            "locality_id":1360131941,
-            "region_id":85672097
         }
     ],
     "wof:id":1360131941,
-    "wof:lastmodified":1537635114,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614722512,
     "wof:name":"Masarete",
     "wof:parent_id":1108796815,
     "wof:placetype":"locality",
@@ -72,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    127.11126000000002,
+    127.11126,
     -3.38407,
-    127.11126000000002,
+    127.11126,
     -3.38407
 ],
-  "geometry": {"coordinates":[127.11126000000002,-3.38407],"type":"Point"}
+  "geometry": {"coordinates":[127.11126,-3.38407],"type":"Point"}
 }

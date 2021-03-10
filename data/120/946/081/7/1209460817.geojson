@@ -25,26 +25,40 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671983,
+        102072949
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1985676
     },
     "wof:country":"ID",
-    "wof:geomhash":"1160c1207fd2562a2625b121b8cde226",
+    "wof:geomhash":"638faa233fdd7605f9ebcfe15d5cf2b0",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209460817
+            "county_id":102072949,
+            "locality_id":1209460817,
+            "region_id":85671983
         }
     ],
     "wof:id":1209460817,
-    "wof:lastmodified":1536286386,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614717493,
     "wof:name":"Bandungartajaya",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072949,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
@@ -53,9 +67,9 @@
 },
   "bbox": [
     107.61111,
-    -7.0408300000000015,
+    -7.04083,
     107.61111,
-    -7.0408300000000015
+    -7.04083
 ],
   "geometry": {"coordinates":[107.61111,-7.04083],"type":"Point"}
 }

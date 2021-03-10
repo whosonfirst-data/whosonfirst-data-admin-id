@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Arimalang"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072715
+        102072715,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6375330
     },
     "wof:country":"ID",
-    "wof:geomhash":"c4e61a7a92fd0480d4a0c9f40ec2b656",
+    "wof:geomhash":"d46f1367d9114930a4bb547031e0aceb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1292997035,
-    "wof:lastmodified":1537628433,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614636279,
     "wof:name":"Arimalang",
     "wof:parent_id":102072715,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.32361000000002,
+    109.32361,
     -7.56472,
-    109.32361000000002,
+    109.32361,
     -7.56472
 ],
-  "geometry": {"coordinates":[109.32361000000002,-7.56472],"type":"Point"}
+  "geometry": {"coordinates":[109.32361,-7.56472],"type":"Point"}
 }

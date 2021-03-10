@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Pilangmaja"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073193
+        102073193,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6568292
     },
     "wof:country":"ID",
-    "wof:geomhash":"e8b9613da2a40673bf8536ee08309adc",
+    "wof:geomhash":"66b0586277a7c76816a8a53355ace386",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1343421087,
-    "wof:lastmodified":1537629346,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614634993,
     "wof:name":"Pilangmaja",
     "wof:parent_id":102073193,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.92806000000002,
+    107.92806,
     -6.47694,
-    107.92806000000002,
+    107.92806,
     -6.47694
 ],
-  "geometry": {"coordinates":[107.92806000000002,-6.47694],"type":"Point"}
+  "geometry": {"coordinates":[107.92806,-6.47694],"type":"Point"}
 }

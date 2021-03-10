@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Wuwulawa"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672103,
-        102073031
+        102073031,
+        85672103
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7057967
     },
     "wof:country":"ID",
-    "wof:geomhash":"d7942c1fe089ab1bd01b5bdf30a37f48",
+    "wof:geomhash":"9dfa198996add918759679753637650a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1343427461,
-    "wof:lastmodified":1537632937,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614634988,
     "wof:name":"Wuwulawa",
     "wof:parent_id":102073031,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    118.73711000000002,
+    118.73711,
     -8.53717,
-    118.73711000000002,
+    118.73711,
     -8.53717
 ],
-  "geometry": {"coordinates":[118.73711000000002,-8.53717],"type":"Point"}
+  "geometry": {"coordinates":[118.73711,-8.53717],"type":"Point"}
 }

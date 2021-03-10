@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Nyaulaku"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672085,
-        102073277
+        102073277,
+        85672085
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":11171239
     },
     "wof:country":"ID",
-    "wof:geomhash":"a45adeb2a63ff1b42d1c90695445e960",
+    "wof:geomhash":"b684f5bf8cae1e38f429c6353c1cfbdf",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1327294925,
-    "wof:lastmodified":1537636717,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614633710,
     "wof:name":"Nyaolako",
     "wof:parent_id":102073277,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    128.09398000000002,
+    128.09398,
     1.27937,
-    128.09398000000002,
+    128.09398,
     1.27937
 ],
-  "geometry": {"coordinates":[128.09398000000002,1.27937],"type":"Point"}
+  "geometry": {"coordinates":[128.09397999999999,1.27937],"type":"Point"}
 }

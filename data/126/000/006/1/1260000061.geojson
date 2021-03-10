@@ -25,19 +25,20 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072983
+        102072983,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6252657
     },
     "wof:country":"ID",
-    "wof:geomhash":"5f39d43f5773966926134f17403248e6",
+    "wof:geomhash":"25354cacb5777ab7a81ab30e4d8e8931",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +49,14 @@
         }
     ],
     "wof:id":1260000061,
-    "wof:lastmodified":1536608575,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614639949,
     "wof:name":"Banjarejo Wetan",
     "wof:parent_id":102072983,
     "wof:placetype":"locality",
@@ -58,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.51111000000002,
+    110.51111,
     -7.48833,
-    110.51111000000002,
+    110.51111,
     -7.48833
 ],
-  "geometry": {"coordinates":[110.51111000000002,-7.48833],"type":"Point"}
+  "geometry": {"coordinates":[110.51111,-7.48833],"type":"Point"}
 }

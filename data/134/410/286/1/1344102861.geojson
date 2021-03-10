@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Pasirangin Dua"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073471
+        102073471,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6583834
     },
     "wof:country":"ID",
-    "wof:geomhash":"4c200d61e8df1ef76659ef895b554440",
+    "wof:geomhash":"d6cd743697824fdeba474c29bff6e2a2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1344102861,
-    "wof:lastmodified":1537629539,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614650530,
     "wof:name":"Pasirangin Dua",
     "wof:parent_id":102073471,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.50388999999998,
+    107.50389,
     -6.72889,
-    107.50388999999998,
+    107.50389,
     -6.72889
 ],
-  "geometry": {"coordinates":[107.50388999999998,-6.72889],"type":"Point"}
+  "geometry": {"coordinates":[107.50389,-6.72889],"type":"Point"}
 }

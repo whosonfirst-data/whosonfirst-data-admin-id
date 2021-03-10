@@ -25,19 +25,20 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072947
+        102072947,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6256317
     },
     "wof:country":"ID",
-    "wof:geomhash":"fef24b6347f47234c34679169c2839fd",
+    "wof:geomhash":"b07568d7e06394f1137f1a9fc6b45b00",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +49,14 @@
         }
     ],
     "wof:id":1310196085,
-    "wof:lastmodified":1536864592,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614653355,
     "wof:name":"Blewah",
     "wof:parent_id":102072947,
     "wof:placetype":"locality",
@@ -58,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.89806000000002,
+    110.89806,
     -7.77583,
-    110.89806000000002,
+    110.89806,
     -7.77583
 ],
-  "geometry": {"coordinates":[110.89806000000002,-7.77583],"type":"Point"}
+  "geometry": {"coordinates":[110.89806,-7.77583],"type":"Point"}
 }

@@ -25,19 +25,20 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072983
+        102072983,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6252993
     },
     "wof:country":"ID",
-    "wof:geomhash":"338c2f4fcacc387893f3ea023a6f2b0b",
+    "wof:geomhash":"93bf49c03b58f62caa5911ea930ab5ea",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +49,14 @@
         }
     ],
     "wof:id":1293780259,
-    "wof:lastmodified":1536860692,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614650926,
     "wof:name":"Samadan",
     "wof:parent_id":102072983,
     "wof:placetype":"locality",
@@ -58,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.68361000000002,
+    110.68361,
     -7.49111,
-    110.68361000000002,
+    110.68361,
     -7.49111
 ],
-  "geometry": {"coordinates":[110.68361000000002,-7.49111],"type":"Point"}
+  "geometry": {"coordinates":[110.68361,-7.49111],"type":"Point"}
 }

@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bulu"
     ],
@@ -53,15 +54,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073169
+        102073169,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6563580
     },
     "wof:country":"ID",
-    "wof:geomhash":"cc6483ac296f00b590081f631a11a28c",
+    "wof:geomhash":"f550f025b8e1c0ccb7882c23180a8343",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -72,7 +73,14 @@
         }
     ],
     "wof:id":1277002285,
-    "wof:lastmodified":1564180082,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614636706,
     "wof:name":"Bulu",
     "wof:parent_id":102073169,
     "wof:placetype":"locality",
@@ -82,10 +90,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.01111000000002,
+    110.01111,
     -7.21583,
-    110.01111000000002,
+    110.01111,
     -7.21583
 ],
-  "geometry": {"coordinates":[110.01111000000002,-7.21583],"type":"Point"}
+  "geometry": {"coordinates":[110.01111,-7.21583],"type":"Point"}
 }

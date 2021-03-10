@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Pacar"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072639
+        102072639,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6372580
     },
     "wof:country":"ID",
-    "wof:geomhash":"42b28b182b23ff13933aebee36e295e8",
+    "wof:geomhash":"8bb15cadfc9d9de74820c583bfdf31a9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1226744041,
-    "wof:lastmodified":1537628372,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614654595,
     "wof:name":"Pacar",
     "wof:parent_id":102072639,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.54361000000002,
+    109.54361,
     -7.61278,
-    109.54361000000002,
+    109.54361,
     -7.61278
 ],
-  "geometry": {"coordinates":[109.54361000000002,-7.61278],"type":"Point"}
+  "geometry": {"coordinates":[109.54361,-7.61278],"type":"Point"}
 }

@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Kepek"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072639
+        102072639,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6372103
     },
     "wof:country":"ID",
-    "wof:geomhash":"66956ce770baf6174df976caa404c632",
+    "wof:geomhash":"5fab3fcde0da3c69472799aaa1bb711c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1225865417,
-    "wof:lastmodified":1537628359,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614645284,
     "wof:name":"Kepek",
     "wof:parent_id":102072639,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.66861000000002,
+    109.66861,
     -7.77694,
-    109.66861000000002,
+    109.66861,
     -7.77694
 ],
-  "geometry": {"coordinates":[109.66861000000002,-7.77694],"type":"Point"}
+  "geometry": {"coordinates":[109.66861,-7.77694],"type":"Point"}
 }

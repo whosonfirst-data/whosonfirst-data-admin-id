@@ -4,18 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"106.8001,-6.2486,106.8001,-6.2486",
-    "geom:latitude":-6.2486,
-    "geom:longitude":106.8001,
+    "geom:area":0.000103,
+    "geom:area_square_m":1266626.929166,
+    "geom:bbox":"106.797069,-6.252807,106.807758,-6.23917",
+    "geom:latitude":-6.245662,
+    "geom:longitude":106.801952,
     "gn:country":"ID",
     "gn:fcode":"PPL",
     "gn:pop":0,
     "gp:adm0":23424846,
     "iso:country":"ID",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "name:ind_x_preferred":[
         "Melawai"
     ],
@@ -30,13 +30,17 @@
     "qs:photos_sr":4,
     "qs:placetype":"Suburb",
     "qs:pop_sr":"0",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "unknown"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
-        85672001,
         102191569,
         85632203,
-        102020241,
-        102072667
+        102020433,
+        102072667,
+        85672001
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,21 +50,31 @@
     },
     "wof:country":"ID",
     "wof:created":1469055218,
-    "wof:geomhash":"9082dbca3eff1e7df3ac80d8adb6aa3a",
+    "wof:geom_alt":[
+        "unknown"
+    ],
+    "wof:geomhash":"f1c9639d56e21f024c5f532795e27fe6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632203,
             "county_id":102072667,
-            "locality_id":102020241,
+            "locality_id":102020433,
             "neighbourhood_id":890499495,
             "region_id":85672001
         }
     ],
     "wof:id":890499495,
-    "wof:lastmodified":1505343838,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614744898,
     "wof:name":"Melawai",
-    "wof:parent_id":102020241,
+    "wof:parent_id":102020433,
     "wof:placetype":"neighbourhood",
     "wof:population":0,
     "wof:repo":"whosonfirst-data-admin-id",
@@ -69,10 +83,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.8001,
-    -6.2486,
-    106.8001,
-    -6.2486
+    106.797069,
+    -6.252807,
+    106.807758,
+    -6.23917
 ],
-  "geometry": {"coordinates":[106.8001,-6.2486],"type":"Point"}
+  "geometry": {"coordinates":[[[106.805915,-6.247401],[106.804256,-6.248814],[106.803274,-6.251333],[106.801676,-6.252316],[106.798543,-6.252746],[106.797253,-6.252807],[106.79706899999999,-6.249797],[106.797622,-6.248569],[106.79768300000001,-6.246173],[106.798298,-6.239846],[106.800878,-6.239846],[106.802966,-6.240276],[106.804686,-6.240153],[106.806529,-6.239477],[106.806837,-6.23917],[106.80775800000001,-6.243408],[106.807451,-6.245313],[106.805915,-6.247401]]],"type":"Polygon"}
 }

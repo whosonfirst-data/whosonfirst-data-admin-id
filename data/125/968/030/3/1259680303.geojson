@@ -25,19 +25,20 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073187
+        102073187,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6261477
     },
     "wof:country":"ID",
-    "wof:geomhash":"ea51879e3764b4095244505d9bd70d25",
+    "wof:geomhash":"7ae30a1bf26f97326b86bde8e527943f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +49,14 @@
         }
     ],
     "wof:id":1259680303,
-    "wof:lastmodified":1537068641,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614644224,
     "wof:name":"Puntuk",
     "wof:parent_id":102073187,
     "wof:placetype":"locality",
@@ -58,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.00388999999998,
+    110.00389,
     -7.65083,
-    110.00388999999998,
+    110.00389,
     -7.65083
 ],
-  "geometry": {"coordinates":[110.00388999999998,-7.65083],"type":"Point"}
+  "geometry": {"coordinates":[110.00389,-7.65083],"type":"Point"}
 }

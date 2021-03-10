@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Barot",
         "Porot"
@@ -33,15 +34,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073169
+        102073169,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1964812
     },
     "wof:country":"ID",
-    "wof:geomhash":"7ba0f2944e6ae0889cb170ff5e0a2e8e",
+    "wof:geomhash":"b51ae1c99006adc495a28cb235c8cc25",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,7 +53,14 @@
         }
     ],
     "wof:id":1292897235,
-    "wof:lastmodified":1537627780,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614635511,
     "wof:name":"Porot",
     "wof:parent_id":102073169,
     "wof:placetype":"locality",
@@ -62,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.28806000000002,
+    110.28806,
     -7.26917,
-    110.28806000000002,
+    110.28806,
     -7.26917
 ],
-  "geometry": {"coordinates":[110.28806000000002,-7.26917],"type":"Point"}
+  "geometry": {"coordinates":[110.28806,-7.26917],"type":"Point"}
 }

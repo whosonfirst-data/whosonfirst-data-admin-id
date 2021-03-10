@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Apal"
     ],
@@ -44,8 +45,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672111,
-        102073435
+        102073435,
+        85672111
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,7 +64,14 @@
         }
     ],
     "wof:id":1310169667,
-    "wof:lastmodified":1564192942,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614640813,
     "wof:name":"Apal",
     "wof:parent_id":102073435,
     "wof:placetype":"locality",

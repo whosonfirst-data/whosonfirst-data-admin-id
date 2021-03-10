@@ -17,6 +17,7 @@
     "lbl:longitude":104.22584,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ind_x_preferred":[
         "Tanjung Uban"
@@ -53,8 +54,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672049,
-        102073557
+        102073557,
+        85672049
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -75,7 +76,14 @@
         }
     ],
     "wof:id":1125949885,
-    "wof:lastmodified":1509402626,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614653775,
     "wof:name":"Tanjunguban",
     "wof:parent_id":102073557,
     "wof:placetype":"locality",

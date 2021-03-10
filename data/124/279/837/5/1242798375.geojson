@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Tambakmas"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072947
+        102072947,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6406582
     },
     "wof:country":"ID",
-    "wof:geomhash":"1cf260adf07fbe8c3391ea7c09abbf28",
+    "wof:geomhash":"7d903fe0553c5d5b60bb195e52798be2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1242798375,
-    "wof:lastmodified":1537628966,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614654085,
     "wof:name":"Tambakmas",
     "wof:parent_id":102072947,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.08693999999998,
+    111.08694,
     -7.79722,
-    111.08693999999998,
+    111.08694,
     -7.79722
 ],
-  "geometry": {"coordinates":[111.08693999999998,-7.79722],"type":"Point"}
+  "geometry": {"coordinates":[111.08694,-7.79722],"type":"Point"}
 }

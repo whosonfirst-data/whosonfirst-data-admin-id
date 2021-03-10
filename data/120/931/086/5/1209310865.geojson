@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Tengger"
     ],
@@ -45,7 +46,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672027,
+        102072973
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,14 +59,24 @@
     "wof:geomhash":"578954b48a85639f8da07bfec6d6ebab",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209310865
+            "county_id":102072973,
+            "locality_id":1209310865,
+            "region_id":85672027
         }
     ],
     "wof:id":1209310865,
-    "wof:lastmodified":1564183890,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614717631,
     "wof:name":"Tengger",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072973,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:bos_x_preferred":[
         "Kulina"
     ],
@@ -65,15 +66,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073529
+        102073529,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1963643
     },
     "wof:country":"ID",
-    "wof:geomhash":"d092ece3d017fd289e637f21ce97b7ba",
+    "wof:geomhash":"c5304a08e35fce4abbc371f999c50fe6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -84,7 +85,14 @@
         }
     ],
     "wof:id":1343904017,
-    "wof:lastmodified":1564172387,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614650280,
     "wof:name":"Kulina",
     "wof:parent_id":102073529,
     "wof:placetype":"locality",
@@ -94,10 +102,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.30861000000002,
+    107.30861,
     -6.84222,
-    107.30861000000002,
+    107.30861,
     -6.84222
 ],
-  "geometry": {"coordinates":[107.30861000000002,-6.84222],"type":"Point"}
+  "geometry": {"coordinates":[107.30861,-6.84222],"type":"Point"}
 }

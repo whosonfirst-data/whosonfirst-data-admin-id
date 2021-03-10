@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Padaleu"
     ],
@@ -35,8 +36,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672105,
-        102072877
+        102072877,
+        85672105
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,7 +55,14 @@
         }
     ],
     "wof:id":1277133145,
-    "wof:lastmodified":1537628150,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614651632,
     "wof:name":"Padaleu",
     "wof:parent_id":102072877,
     "wof:placetype":"locality",

@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:bul_x_preferred":[
         "\u0414\u0430\u043b\u0438"
     ],
@@ -95,8 +96,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072983
+        102072983,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -114,7 +115,14 @@
         }
     ],
     "wof:id":1276542975,
-    "wof:lastmodified":1564183546,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614651860,
     "wof:name":"Dali",
     "wof:parent_id":102072983,
     "wof:placetype":"locality",

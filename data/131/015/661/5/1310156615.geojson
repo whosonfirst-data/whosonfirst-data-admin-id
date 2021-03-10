@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Nontefu"
     ],
@@ -38,8 +39,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672097,
-        1108796829
+        1108796829,
+        85672097
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,7 +58,14 @@
         }
     ],
     "wof:id":1310156615,
-    "wof:lastmodified":1537632807,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614653114,
     "wof:name":"Nontetu",
     "wof:parent_id":1108796829,
     "wof:placetype":"locality",

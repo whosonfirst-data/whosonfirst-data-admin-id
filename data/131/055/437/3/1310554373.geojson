@@ -25,19 +25,20 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        85672115,
-        1108796897
+        1108796897,
+        85672115
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8531656
     },
     "wof:country":"ID",
-    "wof:geomhash":"df03821cde0fdc519dfc8b62d62c0c9c",
+    "wof:geomhash":"265c8f6a08b3ca3010116dd048170a34",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +49,14 @@
         }
     ],
     "wof:id":1310554373,
-    "wof:lastmodified":1536845499,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614640601,
     "wof:name":"Ngga Nggumbulu",
     "wof:parent_id":1108796897,
     "wof:placetype":"locality",
@@ -58,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    137.32178000000002,
+    137.32178,
     -3.76703,
-    137.32178000000002,
+    137.32178,
     -3.76703
 ],
-  "geometry": {"coordinates":[137.32178000000002,-3.76703],"type":"Point"}
+  "geometry": {"coordinates":[137.32177999999999,-3.76703],"type":"Point"}
 }

@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Biga"
     ],
@@ -67,7 +68,7 @@
         "gn:id":1648796
     },
     "wof:country":"ID",
-    "wof:geomhash":"a533d5020145cf55073dabc753de7aee",
+    "wof:geomhash":"f8a7c0b1885ade39d04ed0fd5a441a8c",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -75,7 +76,14 @@
         }
     ],
     "wof:id":1209633397,
-    "wof:lastmodified":1564184463,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614638189,
     "wof:name":"Biga",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -85,10 +93,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    130.33333000000002,
+    130.33333,
     -2.0,
-    130.33333000000002,
+    130.33333,
     -2.0
 ],
-  "geometry": {"coordinates":[130.33333000000002,-2.0],"type":"Point"}
+  "geometry": {"coordinates":[130.33332999999999,-2.0],"type":"Point"}
 }

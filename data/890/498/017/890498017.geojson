@@ -4,18 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"106.8604,-6.2824,106.8604,-6.2824",
-    "geom:latitude":-6.2824,
-    "geom:longitude":106.8604,
+    "geom:area":0.000204,
+    "geom:area_square_m":2508340.543621,
+    "geom:bbox":"106.855094,-6.293163,106.869223,-6.268522",
+    "geom:latitude":-6.278903,
+    "geom:longitude":106.861079,
     "gn:country":"ID",
     "gn:fcode":"PPL",
     "gn:pop":0,
     "gp:adm0":23424846,
     "iso:country":"ID",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "name:ind_x_preferred":[
         "Batuampar"
     ],
@@ -30,13 +30,17 @@
     "qs:photos_sr":1,
     "qs:placetype":"Suburb",
     "qs:pop_sr":"0",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "unknown"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
-        85672001,
         102191569,
         85632203,
-        102021341,
-        102073493
+        102020431,
+        102073493,
+        85672001
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,21 +50,31 @@
     },
     "wof:country":"ID",
     "wof:created":1469055153,
-    "wof:geomhash":"9bfbd39dac6a70ce1ee450859a8bf3fb",
+    "wof:geom_alt":[
+        "unknown"
+    ],
+    "wof:geomhash":"3ee072fd8c3fd01aa3e07eb9ec23c1c0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632203,
             "county_id":102073493,
-            "locality_id":102021341,
+            "locality_id":102020431,
             "neighbourhood_id":890498017,
             "region_id":85672001
         }
     ],
     "wof:id":890498017,
-    "wof:lastmodified":1505343830,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614744876,
     "wof:name":"Batuampar",
-    "wof:parent_id":102021341,
+    "wof:parent_id":102020431,
     "wof:placetype":"neighbourhood",
     "wof:population":0,
     "wof:repo":"whosonfirst-data-admin-id",
@@ -69,10 +83,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.8604,
-    -6.2824,
-    106.8604,
-    -6.2824
+    106.855094,
+    -6.293163,
+    106.869223,
+    -6.268522
 ],
-  "geometry": {"coordinates":[106.8604,-6.2824],"type":"Point"}
+  "geometry": {"coordinates":[[[106.858903,-6.269328],[106.86000799999999,-6.269328],[106.864186,-6.26896],[106.865595,-6.268522],[106.86713399999999,-6.269943],[106.867503,-6.273751],[106.86774800000001,-6.277191],[106.86922300000001,-6.279034],[106.86824,-6.280017],[106.867994,-6.281491],[106.86639700000001,-6.28272],[106.864431,-6.281491],[106.863694,-6.281737],[106.863694,-6.283457],[106.86295699999999,-6.285792],[106.86221999999999,-6.286652],[106.86074499999999,-6.286283],[106.85939399999999,-6.287143],[106.85939399999999,-6.289477],[106.859517,-6.290952],[106.85791999999999,-6.291443],[106.8562,-6.293163],[106.85570800000001,-6.290706],[106.85509399999999,-6.28444],[106.85509399999999,-6.277928],[106.858903,-6.269328]]],"type":"Polygon"}
 }

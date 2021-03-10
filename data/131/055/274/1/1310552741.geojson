@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Balla"
     ],
@@ -68,8 +69,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672041,
-        1108796933
+        1108796933,
+        85672041
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -87,7 +88,14 @@
         }
     ],
     "wof:id":1310552741,
-    "wof:lastmodified":1564192294,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614640599,
     "wof:name":"Balla",
     "wof:parent_id":1108796933,
     "wof:placetype":"locality",

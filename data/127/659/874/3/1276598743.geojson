@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Blok Sakola"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072949
+        102072949,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6598717
     },
     "wof:country":"ID",
-    "wof:geomhash":"79579cfb462af757114c1092e6bf1532",
+    "wof:geomhash":"8066c6110ffcc88412ae2bdbd483c4ed",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1276598743,
-    "wof:lastmodified":1537629935,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614651585,
     "wof:name":"Blok Sakola",
     "wof:parent_id":102072949,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.55861000000002,
+    107.55861,
     -6.91861,
-    107.55861000000002,
+    107.55861,
     -6.91861
 ],
-  "geometry": {"coordinates":[107.55861000000002,-6.91861],"type":"Point"}
+  "geometry": {"coordinates":[107.55861,-6.91861],"type":"Point"}
 }

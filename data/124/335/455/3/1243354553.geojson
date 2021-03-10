@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Semampir"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072639
+        102072639,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6370207
     },
     "wof:country":"ID",
-    "wof:geomhash":"b9046021bbf9748c7474cb9274a348e1",
+    "wof:geomhash":"a616fac8252ed1e80a2ed7718a1c024f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1243354553,
-    "wof:lastmodified":1537628302,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614643040,
     "wof:name":"Semampir",
     "wof:parent_id":102072639,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.44861000000002,
+    109.44861,
     -7.53333,
-    109.44861000000002,
+    109.44861,
     -7.53333
 ],
-  "geometry": {"coordinates":[109.44861000000002,-7.53333],"type":"Point"}
+  "geometry": {"coordinates":[109.44861,-7.53333],"type":"Point"}
 }

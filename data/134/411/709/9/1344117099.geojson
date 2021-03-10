@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Pancalikan"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072855
+        102072855,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6596740
     },
     "wof:country":"ID",
-    "wof:geomhash":"33c18c47c2ba6a31f911a438d11eff17",
+    "wof:geomhash":"8798391ec20abb8180db9afc400e4630",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1344117099,
-    "wof:lastmodified":1537629862,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614650536,
     "wof:name":"Pancalikan",
     "wof:parent_id":102072855,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.91443999999998,
+    106.91444,
     -6.86389,
-    106.91443999999998,
+    106.91444,
     -6.86389
 ],
-  "geometry": {"coordinates":[106.91443999999998,-6.86389],"type":"Point"}
+  "geometry": {"coordinates":[106.91444,-6.86389],"type":"Point"}
 }

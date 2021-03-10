@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Wombon"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672115,
-        1108796879
+        1108796879,
+        85672115
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8527593
     },
     "wof:country":"ID",
-    "wof:geomhash":"fd6361c24e98057e030acfb9b59c0cee",
+    "wof:geomhash":"3959f8f019e1c42b11dfd7900cd9abe9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1292944975,
-    "wof:lastmodified":1537636315,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614635567,
     "wof:name":"Wombon",
     "wof:parent_id":1108796879,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    140.75471000000005,
+    140.75471,
     -5.59665,
-    140.75471000000005,
+    140.75471,
     -5.59665
 ],
-  "geometry": {"coordinates":[140.75471000000005,-5.59665],"type":"Point"}
+  "geometry": {"coordinates":[140.75470999999999,-5.59665],"type":"Point"}
 }

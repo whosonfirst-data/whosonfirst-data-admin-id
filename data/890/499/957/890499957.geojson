@@ -16,6 +16,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Keling"
     ],
@@ -48,8 +49,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072913
+        102072913,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -72,7 +73,14 @@
         }
     ],
     "wof:id":890499957,
-    "wof:lastmodified":1563273816,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614642127,
     "wof:name":"Keling",
     "wof:parent_id":102072913,
     "wof:placetype":"locality",

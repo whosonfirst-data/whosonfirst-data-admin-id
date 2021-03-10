@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:als_x_preferred":[
         "Senden"
     ],
@@ -125,15 +126,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072709
+        102072709,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6257277
     },
     "wof:country":"ID",
-    "wof:geomhash":"958249517b1fcfcd57435847b398b506",
+    "wof:geomhash":"cbdc9abc352c370aa55362d10bcea274",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -144,7 +145,14 @@
         }
     ],
     "wof:id":1344248341,
-    "wof:lastmodified":1564172735,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614650323,
     "wof:name":"Senden",
     "wof:parent_id":102072709,
     "wof:placetype":"locality",
@@ -154,10 +162,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.44693999999998,
+    110.44694,
     -7.38222,
-    110.44693999999998,
+    110.44694,
     -7.38222
 ],
-  "geometry": {"coordinates":[110.44693999999998,-7.38222],"type":"Point"}
+  "geometry": {"coordinates":[110.44694,-7.38222],"type":"Point"}
 }

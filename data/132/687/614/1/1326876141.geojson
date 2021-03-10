@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Kalijambe"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073551
+        102073551,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6599225
     },
     "wof:country":"ID",
-    "wof:geomhash":"c195766da989c0610984b3f077e45bf4",
+    "wof:geomhash":"8367ad04ea822b0935dd80117e5664aa",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1326876141,
-    "wof:lastmodified":1537629953,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614632627,
     "wof:name":"Kalijambe",
     "wof:parent_id":102073551,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.03943999999998,
+    107.03944,
     -6.26944,
-    107.03943999999998,
+    107.03944,
     -6.26944
 ],
-  "geometry": {"coordinates":[107.03943999999998,-6.26944],"type":"Point"}
+  "geometry": {"coordinates":[107.03944,-6.26944],"type":"Point"}
 }

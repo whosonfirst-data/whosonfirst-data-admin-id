@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Pangleujar"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        1108796793
+        1108796793,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6584796
     },
     "wof:country":"ID",
-    "wof:geomhash":"c690d5eeae6bc4a6b4d93ce633bdf0a0",
+    "wof:geomhash":"e5670b4f5f9c2ee1ce3782123544f7e9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1243014127,
-    "wof:lastmodified":1537629572,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614653820,
     "wof:name":"Pangleujar",
     "wof:parent_id":1108796793,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.44861000000002,
+    107.44861,
     -6.72,
-    107.44861000000002,
+    107.44861,
     -6.72
 ],
-  "geometry": {"coordinates":[107.44861000000002,-6.72],"type":"Point"}
+  "geometry": {"coordinates":[107.44861,-6.72],"type":"Point"}
 }

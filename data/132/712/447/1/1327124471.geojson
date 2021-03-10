@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u099c\u09be\u0993\u09af\u09bc\u09be\u09b0"
     ],
@@ -65,8 +66,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102073065
+        102073065,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -84,7 +85,14 @@
         }
     ],
     "wof:id":1327124471,
-    "wof:lastmodified":1564169073,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614632972,
     "wof:name":"Jawar",
     "wof:parent_id":102073065,
     "wof:placetype":"locality",

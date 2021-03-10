@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Jambak Satu"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073193
+        102073193,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6401778
     },
     "wof:country":"ID",
-    "wof:geomhash":"e55b274e15b2772d3ee69bbb46b962e6",
+    "wof:geomhash":"a9aeddb0d01d953497062cee97b6ab6f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1360234707,
-    "wof:lastmodified":1537628849,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614653445,
     "wof:name":"Jambak Satu",
     "wof:parent_id":102073193,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.19138999999998,
+    108.19139,
     -6.50278,
-    108.19138999999998,
+    108.19139,
     -6.50278
 ],
-  "geometry": {"coordinates":[108.19138999999998,-6.50278],"type":"Point"}
+  "geometry": {"coordinates":[108.19139,-6.50278],"type":"Point"}
 }

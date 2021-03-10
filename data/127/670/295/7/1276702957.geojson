@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Bara"
     ],
@@ -107,8 +108,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672041,
-        102073441
+        102073441,
+        85672041
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -126,7 +127,14 @@
         }
     ],
     "wof:id":1276702957,
-    "wof:lastmodified":1564182817,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614637653,
     "wof:name":"Bara",
     "wof:parent_id":102073441,
     "wof:placetype":"locality",

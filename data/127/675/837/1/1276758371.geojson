@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Karanggunung"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072587
+        102072587,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6567292
     },
     "wof:country":"ID",
-    "wof:geomhash":"5b9e7671d44ae5c0901e0c33ebe1381f",
+    "wof:geomhash":"9ba1038fae7aa629881f4b5d2edcb100",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1276758371,
-    "wof:lastmodified":1537629316,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614636796,
     "wof:name":"Karanggunung",
     "wof:parent_id":102072587,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.99611000000002,
+    109.99611,
     -7.41333,
-    109.99611000000002,
+    109.99611,
     -7.41333
 ],
-  "geometry": {"coordinates":[109.99611000000002,-7.41333],"type":"Point"}
+  "geometry": {"coordinates":[109.99611,-7.41333],"type":"Point"}
 }

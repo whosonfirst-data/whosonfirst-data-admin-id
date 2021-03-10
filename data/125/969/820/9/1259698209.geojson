@@ -26,6 +26,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u0648\u0628\u0627\u0631\u0648"
     ],
@@ -175,8 +176,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672115,
-        1108796887
+        1108796887,
+        85672115
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -194,7 +195,14 @@
         }
     ],
     "wof:id":1259698209,
-    "wof:lastmodified":1564203736,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614644410,
     "wof:name":"Subaru",
     "wof:parent_id":1108796887,
     "wof:placetype":"locality",

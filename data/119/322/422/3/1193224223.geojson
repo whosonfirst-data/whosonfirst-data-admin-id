@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Kombo Dua"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073193
+        102073193,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6402378
     },
     "wof:country":"ID",
-    "wof:geomhash":"72c21b176efea4087c073ede11904ae7",
+    "wof:geomhash":"824b6ebb516304a69c33a8ef5051798b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1193224223,
-    "wof:lastmodified":1537628866,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614652714,
     "wof:name":"Kombo Dua",
     "wof:parent_id":102073193,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.14806000000002,
+    108.14806,
     -6.49694,
-    108.14806000000002,
+    108.14806,
     -6.49694
 ],
-  "geometry": {"coordinates":[108.14806000000002,-6.49694],"type":"Point"}
+  "geometry": {"coordinates":[108.14806,-6.49694],"type":"Point"}
 }

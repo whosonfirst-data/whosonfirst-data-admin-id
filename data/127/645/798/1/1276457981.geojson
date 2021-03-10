@@ -26,6 +26,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0647\u0648\u0628\u0631\u0648"
     ],
@@ -100,15 +101,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672067,
-        102073049
+        102073049,
+        85672067
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1643301
     },
     "wof:country":"ID",
-    "wof:geomhash":"006cb19648d0dc7c109666e9eaa8ca04",
+    "wof:geomhash":"ab3c0effb4797b70f455e82529e9163f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -119,7 +120,14 @@
         }
     ],
     "wof:id":1276457981,
-    "wof:lastmodified":1564180770,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614636948,
     "wof:name":"Hobro",
     "wof:parent_id":102073049,
     "wof:placetype":"locality",
@@ -129,10 +137,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    132.33333000000002,
+    132.33333,
     -2.91667,
-    132.33333000000002,
+    132.33333,
     -2.91667
 ],
-  "geometry": {"coordinates":[132.33333000000002,-2.91667],"type":"Point"}
+  "geometry": {"coordinates":[132.33332999999999,-2.91667],"type":"Point"}
 }

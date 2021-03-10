@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Karanganyar"
     ],
@@ -44,8 +45,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672013,
-        102073247
+        102073247,
+        85672013
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,7 +64,14 @@
         }
     ],
     "wof:id":1260241159,
-    "wof:lastmodified":1564189293,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614639770,
     "wof:name":"Karanganyar",
     "wof:parent_id":102073247,
     "wof:placetype":"locality",

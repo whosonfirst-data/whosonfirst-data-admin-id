@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Rumahtewang Kecil"
     ],
@@ -38,15 +39,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672097,
-        1108796831
+        1108796831,
+        85672097
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1629447
     },
     "wof:country":"ID",
-    "wof:geomhash":"f61b27da50ce08529f3a597aa25cd55f",
+    "wof:geomhash":"2f4cacab648a677819a920e8bbc40a06",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -57,7 +58,14 @@
         }
     ],
     "wof:id":1310153107,
-    "wof:lastmodified":1537626650,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614640295,
     "wof:name":"Rumahtewang Kecil",
     "wof:parent_id":1108796831,
     "wof:placetype":"locality",
@@ -67,10 +75,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    129.52553999999998,
+    129.52554,
     -7.86092,
-    129.52553999999998,
+    129.52554,
     -7.86092
 ],
-  "geometry": {"coordinates":[129.52553999999998,-7.86092],"type":"Point"}
+  "geometry": {"coordinates":[129.52554000000001,-7.86092],"type":"Point"}
 }

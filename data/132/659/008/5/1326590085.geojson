@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Bleker"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073551
+        102073551,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6593680
     },
     "wof:country":"ID",
-    "wof:geomhash":"5f3261a99d8e176fd58c7918adab1e53",
+    "wof:geomhash":"539299d309dd148245bcb037ae28d2a8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1326590085,
-    "wof:lastmodified":1537629773,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614632734,
     "wof:name":"Bleker",
     "wof:parent_id":102073551,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.24056000000002,
+    107.24056,
     -6.25667,
-    107.24056000000002,
+    107.24056,
     -6.25667
 ],
-  "geometry": {"coordinates":[107.24056000000002,-6.25667],"type":"Point"}
+  "geometry": {"coordinates":[107.24056,-6.25667],"type":"Point"}
 }

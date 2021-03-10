@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kehli",
         "Woeloer",
@@ -39,7 +40,7 @@
         "gn:id":1621310
     },
     "wof:country":"ID",
-    "wof:geomhash":"a461f4b9a21e1148dbf5854cb852ab3c",
+    "wof:geomhash":"b9852e06e7f6feaf80a52b33f82b0578",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -49,7 +50,14 @@
         }
     ],
     "wof:id":1243405239,
-    "wof:lastmodified":1537626391,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614642839,
     "wof:name":"Wulur",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
@@ -59,10 +67,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    128.65823999999998,
+    128.65824,
     -7.14963,
-    128.65823999999998,
+    128.65824,
     -7.14963
 ],
-  "geometry": {"coordinates":[128.65823999999998,-7.14963],"type":"Point"}
+  "geometry": {"coordinates":[128.65824000000001,-7.14963],"type":"Point"}
 }

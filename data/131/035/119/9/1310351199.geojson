@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Aspol"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073471
+        102073471,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6592811
     },
     "wof:country":"ID",
-    "wof:geomhash":"d48018cb0fc2fe303571a9ab783e6377",
+    "wof:geomhash":"9a0817df39fcd518f5601a113ba8b466",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1310351199,
-    "wof:lastmodified":1537629745,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614653370,
     "wof:name":"Aspol",
     "wof:parent_id":102073471,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.44861000000002,
+    107.44861,
     -6.52833,
-    107.44861000000002,
+    107.44861,
     -6.52833
 ],
-  "geometry": {"coordinates":[107.44861000000002,-6.52833],"type":"Point"}
+  "geometry": {"coordinates":[107.44861,-6.52833],"type":"Point"}
 }

@@ -4,20 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.000013,
-    "geom:area_square_m":157712.124425,
-    "geom:bbox":"106.858520508,-6.2156471027,106.86126709,-6.21017811965",
-    "geom:latitude":-6.212987,
-    "geom:longitude":106.859782,
+    "geom:area":0.00006,
+    "geom:area_square_m":734665.190023,
+    "geom:bbox":"106.860866,-6.227433,106.870329,-6.211092",
+    "geom:latitude":-6.21903,
+    "geom:longitude":106.866428,
     "gn:latitude":-6.2227,
     "gn:longitude":106.8691,
     "iso:country":"ID",
-    "lbl:latitude":-6.212917,
-    "lbl:longitude":106.859894,
-    "mps:latitude":-6.212978,
-    "mps:longitude":106.859892,
+    "lbl:latitude":-6.21854,
+    "lbl:longitude":106.8665,
+    "mps:latitude":-6.21854,
+    "mps:longitude":106.8665,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -58,17 +58,19 @@
     "qs:woe_lau":0,
     "qs:woe_local":1047378,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"quattroshapes",
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85672001,
         102191569,
         85632203,
-        102021905,
-        102073177
+        102020431,
+        102073493,
+        85672001
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -79,26 +81,31 @@
     },
     "wof:country":"ID",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
-    "wof:geomhash":"49af83570630b02677fdac27e7318db1",
+    "wof:geomhash":"f822cfd53b8f44a66788e00ef1869c72",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632203,
-            "county_id":102073177,
-            "locality_id":102021905,
+            "county_id":102073493,
+            "locality_id":102020431,
             "neighbourhood_id":85783793,
             "region_id":85672001
         }
     ],
     "wof:id":85783793,
-    "wof:lang":[
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
         "eng"
     ],
-    "wof:lastmodified":1582353985,
+    "wof:lastmodified":1614744852,
     "wof:name":"Bali Mester",
-    "wof:parent_id":102021905,
+    "wof:parent_id":102020431,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
@@ -106,10 +113,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.85852050800008,
-    -6.2156471026998,
-    106.86126709000024,
-    -6.21017811965319
+    106.860866,
+    -6.227433,
+    106.870329,
+    -6.211092
 ],
-  "geometry": {"coordinates":[[[106.85990989747779,-6.2156471026998],[106.85852050800008,-6.2156471026998],[106.85852050800008,-6.21428189175001],[106.85852050800008,-6.21155144152],[106.85852050800008,-6.21017811965319],[106.86126709000024,-6.21109905123548],[106.86126709000007,-6.21155144152],[106.86126709000007,-6.2142818896849],[106.85990989747779,-6.2156471026998]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[106.866162,-6.224906],[106.86578299999999,-6.22301],[106.863694,-6.21527],[106.860866,-6.212128],[106.86357099999999,-6.211092],[106.867626,-6.214532],[106.868854,-6.22043],[106.870329,-6.225836],[106.87017899999999,-6.227086],[106.868363,-6.227433],[106.866888,-6.22559],[106.866162,-6.224906]]],"type":"Polygon"}
 }

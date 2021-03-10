@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Gunungdowo"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073189
+        102073189,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6564817
     },
     "wof:country":"ID",
-    "wof:geomhash":"2c6d50b5981aac44424a4a64aeebd73c",
+    "wof:geomhash":"40b92fe42e1fe5840ef15a5bc4431467",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1276537439,
-    "wof:lastmodified":1537629242,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614637876,
     "wof:name":"Gunungdowo",
     "wof:parent_id":102073189,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.55861000000002,
+    110.55861,
     -8.06722,
-    110.55861000000002,
+    110.55861,
     -8.06722
 ],
-  "geometry": {"coordinates":[110.55861000000002,-8.06722],"type":"Point"}
+  "geometry": {"coordinates":[110.55861,-8.06722],"type":"Point"}
 }

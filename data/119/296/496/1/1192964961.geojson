@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ceb_x_preferred":[
         "Castela"
     ],
@@ -49,8 +50,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672085,
-        1108796821
+        1108796821,
+        85672085
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -68,7 +69,14 @@
         }
     ],
     "wof:id":1192964961,
-    "wof:lastmodified":1564188757,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614652819,
     "wof:name":"Castela",
     "wof:parent_id":1108796821,
     "wof:placetype":"locality",

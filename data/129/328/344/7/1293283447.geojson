@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Rambat"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072611
+        102072611,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6411101
     },
     "wof:country":"ID",
-    "wof:geomhash":"a42d907487670092fd8626f72da32ddc",
+    "wof:geomhash":"b98d8dcda37039673947d485df69cac9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1293283447,
-    "wof:lastmodified":1537629096,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614636499,
     "wof:name":"Rambat",
     "wof:parent_id":102072611,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.85193999999998,
+    110.85194,
     -7.24778,
-    110.85193999999998,
+    110.85194,
     -7.24778
 ],
-  "geometry": {"coordinates":[110.85193999999998,-7.24778],"type":"Point"}
+  "geometry": {"coordinates":[110.85194,-7.24778],"type":"Point"}
 }

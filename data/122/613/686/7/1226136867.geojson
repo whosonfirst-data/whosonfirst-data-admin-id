@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Talang"
     ],
@@ -47,15 +48,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072947
+        102072947,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6255433
     },
     "wof:country":"ID",
-    "wof:geomhash":"03d1e86b4fb8be72e92e6cd3d7fe8a5d",
+    "wof:geomhash":"4be60f61269bab76de7e525669cef629",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -66,7 +67,14 @@
         }
     ],
     "wof:id":1226136867,
-    "wof:lastmodified":1564206907,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614645441,
     "wof:name":"Talang",
     "wof:parent_id":102072947,
     "wof:placetype":"locality",
@@ -76,10 +84,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.83556000000002,
+    110.83556,
     -7.94972,
-    110.83556000000002,
+    110.83556,
     -7.94972
 ],
-  "geometry": {"coordinates":[110.83556000000002,-7.94972],"type":"Point"}
+  "geometry": {"coordinates":[110.83556,-7.94972],"type":"Point"}
 }

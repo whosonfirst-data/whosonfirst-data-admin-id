@@ -25,19 +25,20 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073313
+        102073313,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2002694
     },
     "wof:country":"ID",
-    "wof:geomhash":"46cc26a6cbedcd0bcbc02c54b1c26c24",
+    "wof:geomhash":"33e496b12af27a415c5b9fb930e717a8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +49,14 @@
         }
     ],
     "wof:id":1277065307,
-    "wof:lastmodified":1536792759,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614651311,
     "wof:name":"Gelangan",
     "wof:parent_id":102073313,
     "wof:placetype":"locality",
@@ -58,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.35193999999998,
+    110.35194,
     -7.91389,
-    110.35193999999998,
+    110.35194,
     -7.91389
 ],
-  "geometry": {"coordinates":[110.35193999999998,-7.91389],"type":"Point"}
+  "geometry": {"coordinates":[110.35194,-7.91389],"type":"Point"}
 }

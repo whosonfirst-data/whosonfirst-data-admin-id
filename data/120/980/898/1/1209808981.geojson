@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Sengerang"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073189
+        102073189,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6564927
     },
     "wof:country":"ID",
-    "wof:geomhash":"41e16a74092052f8a95c4bcfb6a1f762",
+    "wof:geomhash":"fe288f6bad7cf8406eea858038b11812",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1209808981,
-    "wof:lastmodified":1537629247,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614639031,
     "wof:name":"Sengerang",
     "wof:parent_id":102073189,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.54361000000002,
+    110.54361,
     -8.10139,
-    110.54361000000002,
+    110.54361,
     -8.10139
 ],
-  "geometry": {"coordinates":[110.54361000000002,-8.10139],"type":"Point"}
+  "geometry": {"coordinates":[110.54361,-8.10139],"type":"Point"}
 }

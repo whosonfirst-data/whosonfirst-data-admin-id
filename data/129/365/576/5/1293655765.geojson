@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ara_x_preferred":[
         "\u0633\u0648\u0645\u0628\u0627\u0648\u0627"
     ],
@@ -188,8 +189,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672103,
-        102072923
+        102072923,
+        85672103
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -207,7 +208,14 @@
         }
     ],
     "wof:id":1293655765,
-    "wof:lastmodified":1564176029,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614650695,
     "wof:name":"Sumbawa",
     "wof:parent_id":102072923,
     "wof:placetype":"locality",

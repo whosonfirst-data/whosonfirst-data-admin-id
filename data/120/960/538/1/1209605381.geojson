@@ -25,26 +25,40 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672027,
+        102073063
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1971230
     },
     "wof:country":"ID",
-    "wof:geomhash":"02ac0bc2e20833e44ad6a702bd10f6ee",
+    "wof:geomhash":"76fda8e00641ac780bc0abd675c0ef24",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209605381
+            "county_id":102073063,
+            "locality_id":1209605381,
+            "region_id":85672027
         }
     ],
     "wof:id":1209605381,
-    "wof:lastmodified":1536282029,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614718287,
     "wof:name":"Bringin",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073063,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
@@ -53,9 +67,9 @@
 },
   "bbox": [
     112.90528,
-    -7.178610000000001,
+    -7.17861,
     112.90528,
-    -7.178610000000001
+    -7.17861
 ],
   "geometry": {"coordinates":[112.90528,-7.17861],"type":"Point"}
 }

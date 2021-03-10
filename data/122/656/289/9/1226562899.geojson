@@ -25,19 +25,20 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073233
+        102073233,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6259624
     },
     "wof:country":"ID",
-    "wof:geomhash":"2f63cfb1adb0f681d6fabd11634e03c9",
+    "wof:geomhash":"65b6b04a86ddbe47af37b98e103e38dd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +49,14 @@
         }
     ],
     "wof:id":1226562899,
-    "wof:lastmodified":1536973006,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614645102,
     "wof:name":"Semunu",
     "wof:parent_id":102073233,
     "wof:placetype":"locality",
@@ -58,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.48111000000002,
+    110.48111,
     -7.58722,
-    110.48111000000002,
+    110.48111,
     -7.58722
 ],
-  "geometry": {"coordinates":[110.48111000000002,-7.58722],"type":"Point"}
+  "geometry": {"coordinates":[110.48111,-7.58722],"type":"Point"}
 }

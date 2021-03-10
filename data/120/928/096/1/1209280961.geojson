@@ -25,9 +25,13 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672103,
+        1108796847
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,14 +41,24 @@
     "wof:geomhash":"91c2883aef94c05e7688f0b4078455bc",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209280961
+            "county_id":1108796847,
+            "locality_id":1209280961,
+            "region_id":85672103
         }
     ],
     "wof:id":1209280961,
-    "wof:lastmodified":1536292025,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614722605,
     "wof:name":"Bangsalbarat",
-    "wof:parent_id":85632203,
+    "wof:parent_id":1108796847,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

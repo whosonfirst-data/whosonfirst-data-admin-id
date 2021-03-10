@@ -25,26 +25,40 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102072857
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6199188
     },
     "wof:country":"ID",
-    "wof:geomhash":"b089f86b07f10096c99a0f7522743e8f",
+    "wof:geomhash":"d124765122a94cae00670a764963e242",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209509111
+            "county_id":102072857,
+            "locality_id":1209509111,
+            "region_id":85671987
         }
     ],
     "wof:id":1209509111,
-    "wof:lastmodified":1536284939,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614716872,
     "wof:name":"Jluposabrang",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072857,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
@@ -53,9 +67,9 @@
 },
   "bbox": [
     110.18694,
-    -7.4333300000000015,
+    -7.43333,
     110.18694,
-    -7.4333300000000015
+    -7.43333
 ],
   "geometry": {"coordinates":[110.18694000000001,-7.43333],"type":"Point"}
 }

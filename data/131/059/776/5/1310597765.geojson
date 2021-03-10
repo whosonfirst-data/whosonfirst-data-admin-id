@@ -25,19 +25,20 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073233
+        102073233,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2007732
     },
     "wof:country":"ID",
-    "wof:geomhash":"78234e00a97e883539f8ea2f2b9797da",
+    "wof:geomhash":"eea770d63dc77872da3c7d130d35fc99",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +49,14 @@
         }
     ],
     "wof:id":1310597765,
-    "wof:lastmodified":1536784381,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614653385,
     "wof:name":"Dukuh",
     "wof:parent_id":102073233,
     "wof:placetype":"locality",
@@ -58,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.64806000000002,
+    110.64806,
     -7.63222,
-    110.64806000000002,
+    110.64806,
     -7.63222
 ],
-  "geometry": {"coordinates":[110.64806000000002,-7.63222],"type":"Point"}
+  "geometry": {"coordinates":[110.64806,-7.63222],"type":"Point"}
 }

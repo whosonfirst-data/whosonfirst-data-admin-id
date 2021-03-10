@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-03-01",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -24,7 +25,7 @@
     "gn:timezone":"Asia/Jakarta",
     "iso:country":"ID",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632203
@@ -34,7 +35,7 @@
         "gn:id":1906515
     },
     "wof:country":"ID",
-    "wof:geomhash":"48d073fc88dce04864d528afceed61e3",
+    "wof:geomhash":"ae0e636c043b1fc3122d061357b820b9",
     "wof:hierarchy":[
         {
             "country_id":85632203,
@@ -42,7 +43,14 @@
         }
     ],
     "wof:id":1209411689,
-    "wof:lastmodified":1536287817,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614708061,
     "wof:name":"Kebonagung",
     "wof:parent_id":85632203,
     "wof:placetype":"locality",
@@ -53,9 +61,9 @@
 },
   "bbox": [
     112.71389,
-    -7.324439999999999,
+    -7.32444,
     112.71389,
-    -7.324439999999999
+    -7.32444
 ],
   "geometry": {"coordinates":[112.71389000000001,-7.32444],"type":"Point"}
 }

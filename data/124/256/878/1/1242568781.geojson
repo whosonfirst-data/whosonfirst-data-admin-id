@@ -25,19 +25,20 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073483
+        102073483,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2006980
     },
     "wof:country":"ID",
-    "wof:geomhash":"65baa80fd76158ca69c7cff779b39427",
+    "wof:geomhash":"c9dfe3ad233611e900ec796fc6096772",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +49,14 @@
         }
     ],
     "wof:id":1242568781,
-    "wof:lastmodified":1537073302,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614653932,
     "wof:name":"Mlaran",
     "wof:parent_id":102073483,
     "wof:placetype":"locality",
@@ -58,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.58138999999998,
+    110.58139,
     -7.70083,
-    110.58138999999998,
+    110.58139,
     -7.70083
 ],
-  "geometry": {"coordinates":[110.58138999999998,-7.70083],"type":"Point"}
+  "geometry": {"coordinates":[110.58139,-7.70083],"type":"Point"}
 }

@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Keliampar"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672097,
-        1108796837
+        1108796837,
+        85672097
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1640503
     },
     "wof:country":"ID",
-    "wof:geomhash":"32dfc67ee7f5df0f8d103f7438129ea0",
+    "wof:geomhash":"40fb8231d521e3150129bcd8e0be0ce8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1192965601,
-    "wof:lastmodified":1537626993,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614639584,
     "wof:name":"Keliampar",
     "wof:parent_id":1108796837,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    131.66841000000002,
+    131.66841,
     -7.47684,
-    131.66841000000002,
+    131.66841,
     -7.47684
 ],
-  "geometry": {"coordinates":[131.66841000000002,-7.47684],"type":"Point"}
+  "geometry": {"coordinates":[131.66840999999999,-7.47684],"type":"Point"}
 }

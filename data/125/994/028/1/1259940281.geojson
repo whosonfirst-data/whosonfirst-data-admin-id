@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Ciangsana Hilir"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073529
+        102073529,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6590257
     },
     "wof:country":"ID",
-    "wof:geomhash":"fa2072476125bada6c97b8426afe792d",
+    "wof:geomhash":"d3369064ee776de77b620249609c65be",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1259940281,
-    "wof:lastmodified":1537629669,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614654438,
     "wof:name":"Ciangsana Hilir",
     "wof:parent_id":102073529,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.24611000000002,
+    107.24611,
     -6.73806,
-    107.24611000000002,
+    107.24611,
     -6.73806
 ],
-  "geometry": {"coordinates":[107.24611000000002,-6.73806],"type":"Point"}
+  "geometry": {"coordinates":[107.24611,-6.73806],"type":"Point"}
 }

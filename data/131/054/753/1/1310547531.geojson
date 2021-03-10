@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Cijalu"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072937
+        102072937,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6594116
     },
     "wof:country":"ID",
-    "wof:geomhash":"91d3319b981fb04916cb57989a312e7c",
+    "wof:geomhash":"1f2e3badbba84bf37dfc1e6f9a01c941",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1310547531,
-    "wof:lastmodified":1537629788,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614653186,
     "wof:name":"Cijalu",
     "wof:parent_id":102072937,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.46193999999998,
+    107.46194,
     -6.41583,
-    107.46193999999998,
+    107.46194,
     -6.41583
 ],
-  "geometry": {"coordinates":[107.46193999999998,-6.41583],"type":"Point"}
+  "geometry": {"coordinates":[107.46194,-6.41583],"type":"Point"}
 }

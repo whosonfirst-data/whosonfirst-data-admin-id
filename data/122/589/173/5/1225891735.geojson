@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Samalagi"
     ],
@@ -33,15 +34,14 @@
         102191569,
         85632203,
         85672085,
-        1108796815,
-        85672097
+        1108796815
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8044326
     },
     "wof:country":"ID",
-    "wof:geomhash":"7b03326fa7f5361a2f5d60888d1d8b39",
+    "wof:geomhash":"24f293c72d529fc1d01bbbd8c1cca950",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -49,17 +49,17 @@
             "county_id":1108796815,
             "locality_id":1225891735,
             "region_id":85672085
-        },
-        {
-            "continent_id":102191569,
-            "country_id":85632203,
-            "county_id":1108796815,
-            "locality_id":1225891735,
-            "region_id":85672097
         }
     ],
     "wof:id":1225891735,
-    "wof:lastmodified":1537635116,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614722525,
     "wof:name":"Samalagi",
     "wof:parent_id":1108796815,
     "wof:placetype":"locality",
@@ -69,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    126.82108999999998,
+    126.82109,
     -3.17772,
-    126.82108999999998,
+    126.82109,
     -3.17772
 ],
-  "geometry": {"coordinates":[126.82108999999998,-3.17772],"type":"Point"}
+  "geometry": {"coordinates":[126.82109,-3.17772],"type":"Point"}
 }

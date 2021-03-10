@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Lontar"
     ],
@@ -44,15 +45,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671995,
-        102072687
+        102072687,
+        85671995
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1637265
     },
     "wof:country":"ID",
-    "wof:geomhash":"998978aa223fad8f57e08d48b6829181",
+    "wof:geomhash":"baf4bff653fa8ff23ebb9682222d5577",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -63,7 +64,14 @@
         }
     ],
     "wof:id":1226809457,
-    "wof:lastmodified":1564205155,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614644878,
     "wof:name":"Lontar",
     "wof:parent_id":102072687,
     "wof:placetype":"locality",
@@ -73,10 +81,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.61388999999998,
+    106.61389,
     -6.05583,
-    106.61388999999998,
+    106.61389,
     -6.05583
 ],
-  "geometry": {"coordinates":[106.61388999999998,-6.05583],"type":"Point"}
+  "geometry": {"coordinates":[106.61389,-6.05583],"type":"Point"}
 }

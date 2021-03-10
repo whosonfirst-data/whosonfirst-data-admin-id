@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Benda Kidul"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073529
+        102073529,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6579120
     },
     "wof:country":"ID",
-    "wof:geomhash":"1da0ef0bc39b58db82d7c8cdc01e0aa8",
+    "wof:geomhash":"030738ec3663b2355632690415a70c78",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1293549751,
-    "wof:lastmodified":1537629413,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614650701,
     "wof:name":"Benda Kidul",
     "wof:parent_id":102073529,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.14943999999998,
+    107.14944,
     -6.80222,
-    107.14943999999998,
+    107.14944,
     -6.80222
 ],
-  "geometry": {"coordinates":[107.14943999999998,-6.80222],"type":"Point"}
+  "geometry": {"coordinates":[107.14944,-6.80222],"type":"Point"}
 }

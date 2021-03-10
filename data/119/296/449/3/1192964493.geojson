@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Kiaracondong"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072949
+        102072949,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6598959
     },
     "wof:country":"ID",
-    "wof:geomhash":"166aad0e1780c8397904e0968dfb7d91",
+    "wof:geomhash":"45509f62dca6de5de787e70b62f9bda8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1192964493,
-    "wof:lastmodified":1537629945,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614639588,
     "wof:name":"Kiaracondong",
     "wof:parent_id":102072949,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.55861000000002,
+    107.55861,
     -6.95778,
-    107.55861000000002,
+    107.55861,
     -6.95778
 ],
-  "geometry": {"coordinates":[107.55861000000002,-6.95778],"type":"Point"}
+  "geometry": {"coordinates":[107.55861,-6.95778],"type":"Point"}
 }

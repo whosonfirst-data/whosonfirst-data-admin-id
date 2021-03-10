@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Teges Wetan"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072639
+        102072639,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6376166
     },
     "wof:country":"ID",
-    "wof:geomhash":"d518a3c14b4b112cf19b3affc227048f",
+    "wof:geomhash":"a373f87bc5ec19e76b6dce4b37e5ff9c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1292897035,
-    "wof:lastmodified":1537628456,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614635513,
     "wof:name":"Teges Wetan",
     "wof:parent_id":102072639,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.76888999999998,
+    109.76889,
     -7.76583,
-    109.76888999999998,
+    109.76889,
     -7.76583
 ],
-  "geometry": {"coordinates":[109.76888999999998,-7.76583],"type":"Point"}
+  "geometry": {"coordinates":[109.76889,-7.76583],"type":"Point"}
 }

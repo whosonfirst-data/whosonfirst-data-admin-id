@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Warkai"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672115,
-        102073423
+        102073423,
+        85672115
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8520168
     },
     "wof:country":"ID",
-    "wof:geomhash":"946b1481cec22a1286457323c1ed45ad",
+    "wof:geomhash":"b594b7d75066c37ed2a9ec2eacdd0c5b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1293144951,
-    "wof:lastmodified":1537636293,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614635875,
     "wof:name":"Warkai",
     "wof:parent_id":102073423,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    138.46926000000002,
+    138.46926,
     -5.94467,
-    138.46926000000002,
+    138.46926,
     -5.94467
 ],
-  "geometry": {"coordinates":[138.46926000000002,-5.94467],"type":"Point"}
+  "geometry": {"coordinates":[138.46925999999999,-5.94467],"type":"Point"}
 }

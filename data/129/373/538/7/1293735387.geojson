@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Mario"
     ],
@@ -239,8 +240,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672041,
-        102073433
+        102073433,
+        85672041
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -258,7 +259,14 @@
         }
     ],
     "wof:id":1293735387,
-    "wof:lastmodified":1564179178,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614636392,
     "wof:name":"Mario",
     "wof:parent_id":102073433,
     "wof:placetype":"locality",

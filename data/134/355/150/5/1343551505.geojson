@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Sumpiturang"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102073017
+        102073017,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7526788
     },
     "wof:country":"ID",
-    "wof:geomhash":"f3746bb6874a7f22376264ca41ad571a",
+    "wof:geomhash":"0224a5b5ae211968e6fa2c8c4fe99bf8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1343551505,
-    "wof:lastmodified":1537633808,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614650254,
     "wof:name":"Sumpiturang",
     "wof:parent_id":102073017,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    112.72648999999998,
+    112.72649,
     -8.16201,
-    112.72648999999998,
+    112.72649,
     -8.16201
 ],
-  "geometry": {"coordinates":[112.72648999999998,-8.16201],"type":"Point"}
+  "geometry": {"coordinates":[112.72649,-8.16201],"type":"Point"}
 }

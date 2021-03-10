@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Simpangtiga"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672019,
-        1108796783
+        1108796783,
+        85672019
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1627005
     },
     "wof:country":"ID",
-    "wof:geomhash":"aa695955c1a1f32c816b0ff4f8f44965",
+    "wof:geomhash":"2ad67c816d76f9932a942a4b32e9d818",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1226395795,
-    "wof:lastmodified":1537626591,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614645864,
     "wof:name":"Simpangtiga",
     "wof:parent_id":1108796783,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.90491000000002,
+    107.90491,
     -2.84294,
-    107.90491000000002,
+    107.90491,
     -2.84294
 ],
-  "geometry": {"coordinates":[107.90491000000002,-2.84294],"type":"Point"}
+  "geometry": {"coordinates":[107.90491,-2.84294],"type":"Point"}
 }

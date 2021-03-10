@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Pari"
     ],
@@ -65,8 +66,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072739
+        102072739,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -84,7 +85,14 @@
         }
     ],
     "wof:id":1293336515,
-    "wof:lastmodified":1564178506,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614636160,
     "wof:name":"Pari",
     "wof:parent_id":102072739,
     "wof:placetype":"locality",

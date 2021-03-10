@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Seleman"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073187
+        102073187,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6566452
     },
     "wof:country":"ID",
-    "wof:geomhash":"3576c1f03f5f5ce681b5e13c48455565",
+    "wof:geomhash":"9aa948fb19058d915aaf633a0f819136",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1327454635,
-    "wof:lastmodified":1537629293,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614650162,
     "wof:name":"Seleman",
     "wof:parent_id":102073187,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.91306000000002,
+    109.91306,
     -7.72222,
-    109.91306000000002,
+    109.91306,
     -7.72222
 ],
-  "geometry": {"coordinates":[109.91306000000002,-7.72222],"type":"Point"}
+  "geometry": {"coordinates":[109.91306,-7.72222],"type":"Point"}
 }

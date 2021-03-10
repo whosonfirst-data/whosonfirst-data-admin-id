@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Gangsalan Kidul"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073189
+        102073189,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6375528
     },
     "wof:country":"ID",
-    "wof:geomhash":"f0249cd4632e6fffb4a40476f1a2a445",
+    "wof:geomhash":"172320c48b405819f446b5047cacec5d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1276220557,
-    "wof:lastmodified":1537628439,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614637480,
     "wof:name":"Gangsalan Kidul",
     "wof:parent_id":102073189,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.76111000000002,
+    110.76111,
     -8.13806,
-    110.76111000000002,
+    110.76111,
     -8.13806
 ],
-  "geometry": {"coordinates":[110.76111000000002,-8.13806],"type":"Point"}
+  "geometry": {"coordinates":[110.76111,-8.13806],"type":"Point"}
 }

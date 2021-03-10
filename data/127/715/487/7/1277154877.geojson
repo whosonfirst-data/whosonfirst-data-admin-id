@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Sungaibatu"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672005,
-        102073121
+        102073121,
+        85672005
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8530947
     },
     "wof:country":"ID",
-    "wof:geomhash":"c63921701794bea13603ec86f85c56d0",
+    "wof:geomhash":"0a2872c08bfc2bf041b860fa21afe3c8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1277154877,
-    "wof:lastmodified":1537636342,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614637371,
     "wof:name":"Sungaibatu",
     "wof:parent_id":102073121,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.15328999999998,
+    111.15329,
     -0.39571,
-    111.15328999999998,
+    111.15329,
     -0.39571
 ],
-  "geometry": {"coordinates":[111.15328999999998,-0.39571],"type":"Point"}
+  "geometry": {"coordinates":[111.15329,-0.39571],"type":"Point"}
 }

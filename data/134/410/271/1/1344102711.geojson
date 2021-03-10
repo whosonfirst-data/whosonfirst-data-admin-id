@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Bojongmeong"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072855
+        102072855,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6596073
     },
     "wof:country":"ID",
-    "wof:geomhash":"a0e4e88cce87f5617223a5c5995c1cea",
+    "wof:geomhash":"409fe7bc14d09e0106325188d3474ecd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1344102711,
-    "wof:lastmodified":1537629837,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614650533,
     "wof:name":"Bojongmeong",
     "wof:parent_id":102072855,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.99056000000002,
+    106.99056,
     -6.9475,
-    106.99056000000002,
+    106.99056,
     -6.9475
 ],
-  "geometry": {"coordinates":[106.99056000000002,-6.9475],"type":"Point"}
+  "geometry": {"coordinates":[106.99056,-6.9475],"type":"Point"}
 }

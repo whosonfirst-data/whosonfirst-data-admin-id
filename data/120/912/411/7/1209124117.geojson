@@ -25,26 +25,40 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672027,
+        102073487
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1650430
     },
     "wof:country":"ID",
-    "wof:geomhash":"e08099627e6340a091b248b686cf29d7",
+    "wof:geomhash":"33e1ceb4e86d4e5b02f9ede07b095300",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209124117
+            "county_id":102073487,
+            "locality_id":1209124117,
+            "region_id":85672027
         }
     ],
     "wof:id":1209124117,
-    "wof:lastmodified":1536297008,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614721598,
     "wof:name":"Bambingan",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073487,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
@@ -53,9 +67,9 @@
 },
   "bbox": [
     112.26667,
-    -7.9333300000000015,
+    -7.93333,
     112.26667,
-    -7.9333300000000015
+    -7.93333
 ],
   "geometry": {"coordinates":[112.26667,-7.93333],"type":"Point"}
 }

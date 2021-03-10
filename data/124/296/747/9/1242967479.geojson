@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Klinden"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072611
+        102072611,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6561310
     },
     "wof:country":"ID",
-    "wof:geomhash":"e452f3ae771e6ed409251660d31275e9",
+    "wof:geomhash":"79e05aebdb09fa034b39b182d0492784",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1242967479,
-    "wof:lastmodified":1537629151,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614643380,
     "wof:name":"Klinden",
     "wof:parent_id":102072611,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.08556000000002,
+    111.08556,
     -7.17889,
-    111.08556000000002,
+    111.08556,
     -7.17889
 ],
-  "geometry": {"coordinates":[111.08556000000002,-7.17889],"type":"Point"}
+  "geometry": {"coordinates":[111.08556,-7.17889],"type":"Point"}
 }

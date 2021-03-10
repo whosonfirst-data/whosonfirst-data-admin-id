@@ -26,6 +26,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:und_x_variant":[
         "Paniki",
         "Panikidua"
@@ -34,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672081,
-        102072597
+        102072597,
+        85672081
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1632621
     },
     "wof:country":"ID",
-    "wof:geomhash":"861146d63abfb3e591c562c701ab145f",
+    "wof:geomhash":"a4f48a691178d5a455dbc7450b2f86ec",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +54,14 @@
         }
     ],
     "wof:id":1343791145,
-    "wof:lastmodified":1537626751,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614650357,
     "wof:name":"Panikidua",
     "wof:parent_id":102072597,
     "wof:placetype":"locality",
@@ -63,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    124.91861000000002,
+    124.91861,
     1.51306,
-    124.91861000000002,
+    124.91861,
     1.51306
 ],
-  "geometry": {"coordinates":[124.91861000000002,1.51306],"type":"Point"}
+  "geometry": {"coordinates":[124.91861,1.51306],"type":"Point"}
 }

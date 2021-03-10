@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Karanggedang"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073187
+        102073187,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1641260
     },
     "wof:country":"ID",
-    "wof:geomhash":"5504d2ad7af569bde6c8dca8ffc63520",
+    "wof:geomhash":"7491e7c9d0127861cf8703371efdfa7a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1209910393,
-    "wof:lastmodified":1537627019,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614638062,
     "wof:name":"Karanggedang",
     "wof:parent_id":102073187,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.87111000000002,
+    109.87111,
     -7.56639,
-    109.87111000000002,
+    109.87111,
     -7.56639
 ],
-  "geometry": {"coordinates":[109.87111000000002,-7.56639],"type":"Point"}
+  "geometry": {"coordinates":[109.87111,-7.56639],"type":"Point"}
 }

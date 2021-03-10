@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Pasirsinuk"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072739
+        102072739,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6580289
     },
     "wof:country":"ID",
-    "wof:geomhash":"a16dbccd97ba179726d0175afe1e9bb7",
+    "wof:geomhash":"b9f7b0d1ad2082479c5ccd65c2fdb601",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1343311703,
-    "wof:lastmodified":1537629439,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614633807,
     "wof:name":"Pasirsinuk",
     "wof:parent_id":102072739,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.12111000000002,
+    108.12111,
     -6.72972,
-    108.12111000000002,
+    108.12111,
     -6.72972
 ],
-  "geometry": {"coordinates":[108.12111000000002,-6.72972],"type":"Point"}
+  "geometry": {"coordinates":[108.12111,-6.72972],"type":"Point"}
 }

@@ -25,19 +25,20 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073233
+        102073233,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2008822
     },
     "wof:country":"ID",
-    "wof:geomhash":"e833514b1ace8dbeee683287e357b348",
+    "wof:geomhash":"225c902c43d4cd5519c7d3b25be1ffc2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +49,14 @@
         }
     ],
     "wof:id":1209937181,
-    "wof:lastmodified":1536390120,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614652210,
     "wof:name":"Polaman",
     "wof:parent_id":102073233,
     "wof:placetype":"locality",
@@ -58,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.71193999999998,
+    110.71194,
     -7.71222,
-    110.71193999999998,
+    110.71194,
     -7.71222
 ],
-  "geometry": {"coordinates":[110.71193999999998,-7.71222],"type":"Point"}
+  "geometry": {"coordinates":[110.71194,-7.71222],"type":"Point"}
 }

@@ -25,19 +25,20 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        85672037,
-        102073481
+        102073481,
+        85672037
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1937602
     },
     "wof:country":"ID",
-    "wof:geomhash":"07a6e3052ba815c7997fc22b1f40e1ed",
+    "wof:geomhash":"4e90f6eca7fbd7b9879a4d4665a0514c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +49,14 @@
         }
     ],
     "wof:id":1327097263,
-    "wof:lastmodified":1536667044,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614632423,
     "wof:name":"Oponani",
     "wof:parent_id":102073481,
     "wof:placetype":"locality",
@@ -58,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    124.85056000000002,
+    124.85056,
     -9.08167,
-    124.85056000000002,
+    124.85056,
     -9.08167
 ],
-  "geometry": {"coordinates":[124.85056000000002,-9.08167],"type":"Point"}
+  "geometry": {"coordinates":[124.85056,-9.08167],"type":"Point"}
 }

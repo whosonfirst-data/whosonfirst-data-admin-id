@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Serangpanjang"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073295
+        102073295,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6583682
     },
     "wof:country":"ID",
-    "wof:geomhash":"56eba2a2e344adb43e81bc0629ee7132",
+    "wof:geomhash":"0d30d929f9ec03c51e58766260f307b7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1310066175,
-    "wof:lastmodified":1537629534,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614640715,
     "wof:name":"Serangpanjang",
     "wof:parent_id":102073295,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.60611000000002,
+    107.60611,
     -6.66611,
-    107.60611000000002,
+    107.60611,
     -6.66611
 ],
-  "geometry": {"coordinates":[107.60611000000002,-6.66611],"type":"Point"}
+  "geometry": {"coordinates":[107.60611,-6.66611],"type":"Point"}
 }

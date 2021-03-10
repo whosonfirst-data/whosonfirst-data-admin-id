@@ -25,19 +25,20 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073483
+        102073483,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2008403
     },
     "wof:country":"ID",
-    "wof:geomhash":"8385bbb7ecd1f6718698f2d0f3378c72",
+    "wof:geomhash":"e5ddc2850f67ff4934389e1668f44e18",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +49,14 @@
         }
     ],
     "wof:id":1292897031,
-    "wof:lastmodified":1536643586,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614650766,
     "wof:name":"Gading Wetan",
     "wof:parent_id":102073483,
     "wof:placetype":"locality",
@@ -58,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.63443999999998,
+    110.63444,
     -7.68333,
-    110.63443999999998,
+    110.63444,
     -7.68333
 ],
-  "geometry": {"coordinates":[110.63443999999998,-7.68333],"type":"Point"}
+  "geometry": {"coordinates":[110.63444,-7.68333],"type":"Point"}
 }

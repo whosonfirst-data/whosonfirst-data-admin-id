@@ -25,19 +25,20 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073233
+        102073233,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1999220
     },
     "wof:country":"ID",
-    "wof:geomhash":"6107eb05bae8e0dca36c17074d03dc69",
+    "wof:geomhash":"de7760521b58c244da40f85c2c7f7e04",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +49,14 @@
         }
     ],
     "wof:id":1293313065,
-    "wof:lastmodified":1537036978,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614650689,
     "wof:name":"Kalijuweh",
     "wof:parent_id":102073233,
     "wof:placetype":"locality",
@@ -58,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.53806000000002,
+    110.53806,
     -7.79028,
-    110.53806000000002,
+    110.53806,
     -7.79028
 ],
-  "geometry": {"coordinates":[110.53806000000002,-7.79028],"type":"Point"}
+  "geometry": {"coordinates":[110.53806,-7.79028],"type":"Point"}
 }

@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Prapag Kidul"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073187
+        102073187,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6565744
     },
     "wof:country":"ID",
-    "wof:geomhash":"bb5547f1faaa670319c1da06ac732e06",
+    "wof:geomhash":"9a85e93645d431379e21f3a6d4e32577",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1293313353,
-    "wof:lastmodified":1537629269,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614635287,
     "wof:name":"Prapag Kidul",
     "wof:parent_id":102073187,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.82361000000002,
+    109.82361,
     -7.66806,
-    109.82361000000002,
+    109.82361,
     -7.66806
 ],
-  "geometry": {"coordinates":[109.82361000000002,-7.66806],"type":"Point"}
+  "geometry": {"coordinates":[109.82361,-7.66806],"type":"Point"}
 }

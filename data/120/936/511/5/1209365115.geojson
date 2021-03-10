@@ -25,26 +25,40 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672085,
+        1108796825
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1632768
     },
     "wof:country":"ID",
-    "wof:geomhash":"cefaf6819b45b39804ddcb839fe64849",
+    "wof:geomhash":"f65b814470a38633ff7c706219b52546",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209365115
+            "county_id":1108796825,
+            "locality_id":1209365115,
+            "region_id":85672085
         }
     ],
     "wof:id":1209365115,
-    "wof:lastmodified":1536289300,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614722565,
     "wof:name":"Pangeo",
-    "wof:parent_id":85632203,
+    "wof:parent_id":1108796825,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
@@ -53,9 +67,9 @@
 },
   "bbox": [
     128.60812,
-    2.5703400000000003,
+    2.57034,
     128.60812,
-    2.5703400000000003
+    2.57034
 ],
   "geometry": {"coordinates":[128.60812000000001,2.57034],"type":"Point"}
 }

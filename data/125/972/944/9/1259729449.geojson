@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Trijaya"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072937
+        102072937,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6606503
     },
     "wof:country":"ID",
-    "wof:geomhash":"439a3c9741ee3f80cb7afa6428649be2",
+    "wof:geomhash":"3f581cbb47130f8b35d34ee22119f0c7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1259729449,
-    "wof:lastmodified":1537630113,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614644622,
     "wof:name":"Trijaya",
     "wof:parent_id":102072937,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.25388999999998,
+    107.25389,
     -6.07,
-    107.25388999999998,
+    107.25389,
     -6.07
 ],
-  "geometry": {"coordinates":[107.25388999999998,-6.07],"type":"Point"}
+  "geometry": {"coordinates":[107.25389,-6.07],"type":"Point"}
 }

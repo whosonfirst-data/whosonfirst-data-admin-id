@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Teges Lor"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073187
+        102073187,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6566498
     },
     "wof:country":"ID",
-    "wof:geomhash":"66bf32819b641519ed16a2403fac5e02",
+    "wof:geomhash":"4140fdd7ee3000ff59bdcb5f6adcc3af",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1226233211,
-    "wof:lastmodified":1537629295,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614654803,
     "wof:name":"Teges Lor",
     "wof:parent_id":102073187,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.91861000000002,
+    109.91861,
     -7.74944,
-    109.91861000000002,
+    109.91861,
     -7.74944
 ],
-  "geometry": {"coordinates":[109.91861000000002,-7.74944],"type":"Point"}
+  "geometry": {"coordinates":[109.91861,-7.74944],"type":"Point"}
 }

@@ -4,18 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"106.8296,-6.23,106.8296,-6.23",
-    "geom:latitude":-6.23,
-    "geom:longitude":106.8296,
+    "geom:area":0.000179,
+    "geom:area_square_m":2196906.284027,
+    "geom:bbox":"106.820567,-6.240733,106.836788,-6.224238",
+    "geom:latitude":-6.231627,
+    "geom:longitude":106.829546,
     "gn:country":"ID",
     "gn:fcode":"PPL",
     "gn:pop":0,
     "gp:adm0":23424846,
     "iso:country":"ID",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "name:ind_x_preferred":[
         "Kuningan Timur"
     ],
@@ -29,13 +29,17 @@
     "qs:photos_sr":0,
     "qs:placetype":"Suburb",
     "qs:pop_sr":"0",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "unknown"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
-        85672001,
         102191569,
         85632203,
-        102021905,
-        102073177
+        102020433,
+        102072667,
+        85672001
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,21 +49,31 @@
     },
     "wof:country":"ID",
     "wof:created":1469055217,
-    "wof:geomhash":"8f481df72ce368ca1bed4543094f7a2b",
+    "wof:geom_alt":[
+        "unknown"
+    ],
+    "wof:geomhash":"3206463813b0db67e146f30177439bf9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632203,
-            "county_id":102073177,
-            "locality_id":102021905,
+            "county_id":102072667,
+            "locality_id":102020433,
             "neighbourhood_id":890499473,
             "region_id":85672001
         }
     ],
     "wof:id":890499473,
-    "wof:lastmodified":1505343838,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614744897,
     "wof:name":"Kuningan Timur",
-    "wof:parent_id":102021905,
+    "wof:parent_id":102020433,
     "wof:placetype":"neighbourhood",
     "wof:population":0,
     "wof:repo":"whosonfirst-data-admin-id",
@@ -68,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.8296,
-    -6.23,
-    106.8296,
-    -6.23
+    106.820567,
+    -6.240733,
+    106.836788,
+    -6.224238
 ],
-  "geometry": {"coordinates":[106.8296,-6.23],"type":"Point"}
+  "geometry": {"coordinates":[[[106.821361,-6.2257],[106.82290399999999,-6.22559],[106.824502,-6.225344],[106.82511599999999,-6.224976],[106.825853,-6.224238],[106.82646699999999,-6.224238],[106.82855600000001,-6.225098],[106.82929300000001,-6.22559],[106.83076699999999,-6.225836],[106.831996,-6.225958],[106.833102,-6.225713],[106.835313,-6.225098],[106.835436,-6.226696],[106.83580499999999,-6.22817],[106.836296,-6.229276],[106.836788,-6.230627],[106.836788,-6.231856],[106.836665,-6.232961],[106.83641900000001,-6.234436],[106.83641900000001,-6.235787],[106.836296,-6.23677],[106.835928,-6.237999],[106.834453,-6.240333],[106.83417799999999,-6.240733],[106.83261,-6.24021],[106.828065,-6.237262],[106.823396,-6.234436],[106.82081599999999,-6.23161],[106.820567,-6.23125],[106.82143000000001,-6.230996],[106.82143000000001,-6.226941],[106.821361,-6.2257]]],"type":"Polygon"}
 }

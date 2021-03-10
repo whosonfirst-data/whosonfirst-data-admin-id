@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ace_x_preferred":[
         "Bandung"
     ],
@@ -260,8 +261,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073233
+        102073233,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -279,7 +280,14 @@
         }
     ],
     "wof:id":1343655809,
-    "wof:lastmodified":1564171815,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614650218,
     "wof:name":"Bandung",
     "wof:parent_id":102073233,
     "wof:placetype":"locality",

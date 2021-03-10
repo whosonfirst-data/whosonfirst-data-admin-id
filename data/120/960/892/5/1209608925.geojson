@@ -25,26 +25,40 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102073405
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6255824
     },
     "wof:country":"ID",
-    "wof:geomhash":"f4620d898279cf2a8ea2562a65671ebc",
+    "wof:geomhash":"722ef1613e87beadeb8d6eaaab5a2b85",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209608925
+            "county_id":102073405,
+            "locality_id":1209608925,
+            "region_id":85671987
         }
     ],
     "wof:id":1209608925,
-    "wof:lastmodified":1536281913,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614720839,
     "wof:name":"Namengan",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073405,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
@@ -53,9 +67,9 @@
 },
   "bbox": [
     110.75611,
-    -7.7705600000000015,
+    -7.77056,
     110.75611,
-    -7.7705600000000015
+    -7.77056
 ],
   "geometry": {"coordinates":[110.75611000000001,-7.77056],"type":"Point"}
 }

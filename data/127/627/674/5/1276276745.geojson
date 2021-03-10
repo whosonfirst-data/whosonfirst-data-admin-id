@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Lajung"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073529
+        102073529,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6578929
     },
     "wof:country":"ID",
-    "wof:geomhash":"058993ac105fbde88dd28546a0a0b341",
+    "wof:geomhash":"6bcf24cc6c8fcb122098ab44ec8a90cc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1276276745,
-    "wof:lastmodified":1537629405,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614651503,
     "wof:name":"Lajung",
     "wof:parent_id":102073529,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.23888999999998,
+    107.23889,
     -6.76556,
-    107.23888999999998,
+    107.23889,
     -6.76556
 ],
-  "geometry": {"coordinates":[107.23888999999998,-6.76556],"type":"Point"}
+  "geometry": {"coordinates":[107.23889,-6.76556],"type":"Point"}
 }

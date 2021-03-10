@@ -4,18 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"106.787,-6.1482,106.787,-6.1482",
-    "geom:latitude":-6.1482,
-    "geom:longitude":106.787,
+    "geom:area":0.000112,
+    "geom:area_square_m":1374526.564972,
+    "geom:bbox":"106.780985,-6.155473,106.79412,-6.142946",
+    "geom:latitude":-6.149324,
+    "geom:longitude":106.78727,
     "gn:country":"ID",
     "gn:fcode":"PPL",
     "gn:pop":0,
     "gp:adm0":23424846,
     "iso:country":"ID",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "name:ceb_x_preferred":[
         "Kelurahan Jelambar Baru"
     ],
@@ -54,14 +54,18 @@
     "qs:photos_sr":1,
     "qs:placetype":"Suburb",
     "qs:pop_sr":"0",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "unknown"
+    ],
     "src:population":"geonames",
     "wd:wordcount":44,
     "wof:belongsto":[
-        85672001,
         102191569,
         85632203,
-        102020425,
-        102072841
+        102020437,
+        102072841,
+        85672001
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,21 +77,31 @@
     },
     "wof:country":"ID",
     "wof:created":1469055144,
-    "wof:geomhash":"d837661e62de5651c46747c596aee08d",
+    "wof:geom_alt":[
+        "unknown"
+    ],
+    "wof:geomhash":"29b0c28e8736115a46f0af1fa9efc7d4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632203,
             "county_id":102072841,
-            "locality_id":102020425,
+            "locality_id":102020437,
             "neighbourhood_id":890497793,
             "region_id":85672001
         }
     ],
     "wof:id":890497793,
-    "wof:lastmodified":1563273729,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614744872,
     "wof:name":"Jelambar Baru",
-    "wof:parent_id":102020425,
+    "wof:parent_id":102020437,
     "wof:placetype":"neighbourhood",
     "wof:population":0,
     "wof:repo":"whosonfirst-data-admin-id",
@@ -96,10 +110,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.787,
-    -6.1482,
-    106.787,
-    -6.1482
+    106.780985,
+    -6.155473,
+    106.79412,
+    -6.142946
 ],
-  "geometry": {"coordinates":[106.78700000000001,-6.1482],"type":"Point"}
+  "geometry": {"coordinates":[[[106.792652,-6.155473],[106.78711699999999,-6.155256],[106.786995,-6.152676],[106.78100999999999,-6.152489],[106.781097,-6.152185],[106.78146599999999,-6.150464],[106.781097,-6.147393],[106.781097,-6.145181],[106.780985,-6.144227],[106.786894,-6.143826],[106.789317,-6.142946],[106.79412000000001,-6.152553],[106.793138,-6.154273],[106.792652,-6.155473]]],"type":"Polygon"}
 }

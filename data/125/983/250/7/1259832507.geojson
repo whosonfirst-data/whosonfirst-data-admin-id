@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Jat"
     ],
@@ -62,15 +63,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672115,
-        1108796879
+        1108796879,
+        85672115
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8527488
     },
     "wof:country":"ID",
-    "wof:geomhash":"4a574b931dfa378699a0d5e09f344e78",
+    "wof:geomhash":"ac13cd75cb54719a19816a3c5ebc2e0c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,7 +82,14 @@
         }
     ],
     "wof:id":1259832507,
-    "wof:lastmodified":1564202657,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614644028,
     "wof:name":"Yat",
     "wof:parent_id":1108796879,
     "wof:placetype":"locality",
@@ -91,10 +99,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    140.99563999999995,
+    140.99564,
     -5.89791,
-    140.99563999999995,
+    140.99564,
     -5.89791
 ],
-  "geometry": {"coordinates":[140.99563999999995,-5.89791],"type":"Point"}
+  "geometry": {"coordinates":[140.99564000000001,-5.89791],"type":"Point"}
 }

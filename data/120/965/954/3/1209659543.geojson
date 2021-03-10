@@ -25,29 +25,43 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Suwi"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672115,
+        102073507
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8530647
     },
     "wof:country":"ID",
-    "wof:geomhash":"3fac7c09657a16754c485e2b72b2c30b",
+    "wof:geomhash":"1a0b7c9b706b01ef244737b87fbf2c5c",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209659543
+            "county_id":102073507,
+            "locality_id":1209659543,
+            "region_id":85672115
         }
     ],
     "wof:id":1209659543,
-    "wof:lastmodified":1537636336,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614721749,
     "wof:name":"Suwi",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073507,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
@@ -55,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    137.06799999999998,
+    137.068,
     -4.1435,
-    137.06799999999998,
+    137.068,
     -4.1435
 ],
-  "geometry": {"coordinates":[137.06799999999998,-4.1435],"type":"Point"}
+  "geometry": {"coordinates":[137.06800000000001,-4.1435],"type":"Point"}
 }

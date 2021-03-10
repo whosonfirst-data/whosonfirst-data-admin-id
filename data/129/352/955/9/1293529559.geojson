@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Domondi"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672115,
-        102073081
+        102073081,
+        85672115
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8531195
     },
     "wof:country":"ID",
-    "wof:geomhash":"96b3dd644117c44c03404ba129ebc9e5",
+    "wof:geomhash":"7ec8876cabb180901555cd37b307ab56",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1293529559,
-    "wof:lastmodified":1537636345,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614635421,
     "wof:name":"Domondi",
     "wof:parent_id":102073081,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    140.30700000000002,
+    140.307,
     -2.6096,
-    140.30700000000002,
+    140.307,
     -2.6096
 ],
-  "geometry": {"coordinates":[140.30700000000002,-2.6096],"type":"Point"}
+  "geometry": {"coordinates":[140.30699999999999,-2.6096],"type":"Point"}
 }

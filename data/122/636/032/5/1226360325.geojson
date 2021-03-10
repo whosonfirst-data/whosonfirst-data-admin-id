@@ -25,12 +25,13 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        85671995,
-        102073479
+        102073479,
+        85671995
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,7 +49,14 @@
         }
     ],
     "wof:id":1226360325,
-    "wof:lastmodified":1536768993,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614646008,
     "wof:name":"Winong",
     "wof:parent_id":102073479,
     "wof:placetype":"locality",

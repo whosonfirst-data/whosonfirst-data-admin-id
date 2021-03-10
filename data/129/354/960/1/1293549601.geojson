@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Rancaganggang"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073193
+        102073193,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6580159
     },
     "wof:country":"ID",
-    "wof:geomhash":"eaa38ae5c1a49d21ce706d8bc0b0acc2",
+    "wof:geomhash":"d99586ab0eca1a1632f673f4ef0148ef",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1293549601,
-    "wof:lastmodified":1537629436,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614635327,
     "wof:name":"Rancaganggang",
     "wof:parent_id":102073193,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.02306000000002,
+    108.02306,
     -6.50056,
-    108.02306000000002,
+    108.02306,
     -6.50056
 ],
-  "geometry": {"coordinates":[108.02306000000002,-6.50056],"type":"Point"}
+  "geometry": {"coordinates":[108.02306,-6.50056],"type":"Point"}
 }

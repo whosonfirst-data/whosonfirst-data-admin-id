@@ -25,19 +25,20 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        85672037,
-        102073481
+        102073481,
+        85672037
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1938191
     },
     "wof:country":"ID",
-    "wof:geomhash":"e33778e78d564bbe07111475e3cefb24",
+    "wof:geomhash":"bd27f5c4eb507bb2697d2bfd3c90195a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +49,14 @@
         }
     ],
     "wof:id":1243147875,
-    "wof:lastmodified":1536738988,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614642881,
     "wof:name":"Mauama",
     "wof:parent_id":102073481,
     "wof:placetype":"locality",
@@ -58,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    124.87111000000002,
+    124.87111,
     -9.47694,
-    124.87111000000002,
+    124.87111,
     -9.47694
 ],
-  "geometry": {"coordinates":[124.87111000000002,-9.47694],"type":"Point"}
+  "geometry": {"coordinates":[124.87111,-9.47694],"type":"Point"}
 }

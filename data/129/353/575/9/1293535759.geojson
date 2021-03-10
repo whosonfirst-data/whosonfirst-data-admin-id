@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Sindangsari"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073515
+        102073515,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6398573
     },
     "wof:country":"ID",
-    "wof:geomhash":"28d5746b9f96fad317fc1c74e47c4cf0",
+    "wof:geomhash":"c141b0afa4d753998456b190c9b76d9f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1293535759,
-    "wof:lastmodified":1537628798,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614650704,
     "wof:name":"Sindangsari",
     "wof:parent_id":102073515,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.28943999999998,
+    108.28944,
     -6.87361,
-    108.28943999999998,
+    108.28944,
     -6.87361
 ],
-  "geometry": {"coordinates":[108.28943999999998,-6.87361],"type":"Point"}
+  "geometry": {"coordinates":[108.28944,-6.87361],"type":"Point"}
 }

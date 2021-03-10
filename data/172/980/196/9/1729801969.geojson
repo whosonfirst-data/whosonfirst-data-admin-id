@@ -1,0 +1,72 @@
+{
+  "id": 1729801969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000012,
+    "geom:area_square_m":146554.439638,
+    "geom:bbox":"106.855643,-6.15255,106.861044,-6.149325",
+    "geom:latitude":-6.151142,
+    "geom:longitude":106.858451,
+    "iso:country":"ID",
+    "lbl:latitude":-6.151196,
+    "lbl:longitude":106.858502,
+    "mps:latitude":-6.151196,
+    "mps:longitude":106.858502,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Danau Sunter"
+    ],
+    "name:ind_x_preferred":[
+        "Danau Sunter"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        102020429,
+        102073125,
+        85672001
+    ],
+    "wof:breaches":[],
+    "wof:country":"ID",
+    "wof:created":1613158587,
+    "wof:geomhash":"2c652204b6583040b2f4030820f02bd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102073125,
+            "locality_id":102020429,
+            "neighbourhood_id":1729801969,
+            "region_id":85672001
+        }
+    ],
+    "wof:id":1729801969,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614723365,
+    "wof:name":"Danau Sunter",
+    "wof:parent_id":102020429,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.855643,
+    -6.15255,
+    106.861044,
+    -6.149325
+],
+  "geometry": {"coordinates":[[[106.859601,-6.149325],[106.86104400000001,-6.150773],[106.86064,-6.151985],[106.859832,-6.15255],[106.85749,-6.15255],[106.856359,-6.151742],[106.855643,-6.151859],[106.855643,-6.150403],[106.85674899999999,-6.15028],[106.85871400000001,-6.149789],[106.859329,-6.149543],[106.859601,-6.149325]]],"type":"Polygon"}
+}

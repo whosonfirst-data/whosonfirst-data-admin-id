@@ -26,6 +26,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Toeloekmelano",
         "Teloekmelano",
@@ -38,8 +39,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672005,
-        1108796795
+        1108796795,
+        85672005
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,7 +58,14 @@
         }
     ],
     "wof:id":1276458005,
-    "wof:lastmodified":1537626486,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614636952,
     "wof:name":"Telukmelano",
     "wof:parent_id":1108796795,
     "wof:placetype":"locality",

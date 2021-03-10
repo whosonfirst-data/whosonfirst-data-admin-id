@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Kanggudu"
     ],
@@ -32,8 +33,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672103,
-        102073031
+        102073031,
+        85672103
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1226418601,
-    "wof:lastmodified":1537636200,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614645638,
     "wof:name":"Kanggudu",
     "wof:parent_id":102073031,
     "wof:placetype":"locality",

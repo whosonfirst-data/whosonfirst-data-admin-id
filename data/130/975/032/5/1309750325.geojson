@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Demoetema",
         "Demutema"
@@ -33,15 +34,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672115,
-        102072959
+        102072959,
+        85672115
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2082653
     },
     "wof:country":"ID",
-    "wof:geomhash":"4f7c82ad3105148c89c02ae20420090b",
+    "wof:geomhash":"55bb357317bfa06170b7c274b4129cb2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,7 +53,14 @@
         }
     ],
     "wof:id":1309750325,
-    "wof:lastmodified":1537628281,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614642070,
     "wof:name":"Demutema",
     "wof:parent_id":102072959,
     "wof:placetype":"locality",
@@ -62,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    140.41666999999998,
+    140.41667,
     -2.71667,
-    140.41666999999998,
+    140.41667,
     -2.71667
 ],
-  "geometry": {"coordinates":[140.41666999999998,-2.71667],"type":"Point"}
+  "geometry": {"coordinates":[140.41667000000001,-2.71667],"type":"Point"}
 }

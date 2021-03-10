@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Kaplongan"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073193
+        102073193,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6404217
     },
     "wof:country":"ID",
-    "wof:geomhash":"b4ef8e20b5127fc08ea72cc98d3acf43",
+    "wof:geomhash":"ff0bebcaf29c00d2c1b754a25e0bb655",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1293729905,
-    "wof:lastmodified":1537628888,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614651276,
     "wof:name":"Kaplongan",
     "wof:parent_id":102073193,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.44861000000002,
+    108.44861,
     -6.49194,
-    108.44861000000002,
+    108.44861,
     -6.49194
 ],
-  "geometry": {"coordinates":[108.44861000000002,-6.49194],"type":"Point"}
+  "geometry": {"coordinates":[108.44861,-6.49194],"type":"Point"}
 }

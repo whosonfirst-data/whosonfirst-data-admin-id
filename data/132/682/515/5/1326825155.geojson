@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:als_x_preferred":[
         "Senden"
     ],
@@ -125,8 +126,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073265
+        102073265,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -144,7 +145,14 @@
         }
     ],
     "wof:id":1326825155,
-    "wof:lastmodified":1564169651,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614633184,
     "wof:name":"Senden",
     "wof:parent_id":102073265,
     "wof:placetype":"locality",

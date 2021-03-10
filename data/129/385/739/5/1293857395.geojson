@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:bul_x_preferred":[
         "\u041a\u0430\u0434\u0436\u0430\u043d\u0433"
     ],
@@ -74,8 +75,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671977,
-        102072813
+        102072813,
+        85671977
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -93,7 +94,14 @@
         }
     ],
     "wof:id":1293857395,
-    "wof:lastmodified":1564177415,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614650899,
     "wof:name":"Kajang",
     "wof:parent_id":102072813,
     "wof:placetype":"locality",

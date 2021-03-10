@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Pure"
     ],
@@ -80,8 +81,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672045,
-        102072811
+        102072811,
+        85672045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -99,7 +100,14 @@
         }
     ],
     "wof:id":1293328141,
-    "wof:lastmodified":1564178083,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614636012,
     "wof:name":"Pure",
     "wof:parent_id":102072811,
     "wof:placetype":"locality",

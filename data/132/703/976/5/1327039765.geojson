@@ -26,6 +26,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Werboeam",
         "Werbuam"
@@ -34,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672067,
-        102073049
+        102073049,
+        85672067
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1621627
     },
     "wof:country":"ID",
-    "wof:geomhash":"33bf351d567626959e8724106d579e44",
+    "wof:geomhash":"86e6811f2fdfb3432be5d956b2d79437",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +54,14 @@
         }
     ],
     "wof:id":1327039765,
-    "wof:lastmodified":1537626401,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614633140,
     "wof:name":"Werbuam",
     "wof:parent_id":102073049,
     "wof:placetype":"locality",
@@ -63,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    132.16666999999998,
+    132.16667,
     -2.93333,
-    132.16666999999998,
+    132.16667,
     -2.93333
 ],
-  "geometry": {"coordinates":[132.16666999999998,-2.93333],"type":"Point"}
+  "geometry": {"coordinates":[132.16667000000001,-2.93333],"type":"Point"}
 }

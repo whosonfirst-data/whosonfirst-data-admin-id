@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Balongrini"
     ],
@@ -35,15 +36,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073551
+        102073551,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1650473
     },
     "wof:country":"ID",
-    "wof:geomhash":"4b57fc5ad15dac278c665d7e18bd9e39",
+    "wof:geomhash":"cf95c19c1420e447bb145e648fc50cbf",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,7 +55,14 @@
         }
     ],
     "wof:id":1276184813,
-    "wof:lastmodified":1537627350,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614637014,
     "wof:name":"Balongrini",
     "wof:parent_id":102073551,
     "wof:placetype":"locality",
@@ -64,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.13611000000002,
+    107.13611,
     -6.16056,
-    107.13611000000002,
+    107.13611,
     -6.16056
 ],
-  "geometry": {"coordinates":[107.13611000000002,-6.16056],"type":"Point"}
+  "geometry": {"coordinates":[107.13611,-6.16056],"type":"Point"}
 }

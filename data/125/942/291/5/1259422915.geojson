@@ -25,19 +25,20 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        85672115,
-        102073035
+        102073035,
+        85672115
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8531645
     },
     "wof:country":"ID",
-    "wof:geomhash":"a1dd3118c8ac1740007fb4f5432eb8f2",
+    "wof:geomhash":"0959dda74d83d86d93d08a8d6ee4c286",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +49,14 @@
         }
     ],
     "wof:id":1259422915,
-    "wof:lastmodified":1536946122,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614644535,
     "wof:name":"Erakereo",
     "wof:parent_id":102073035,
     "wof:placetype":"locality",
@@ -58,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    137.14213999999998,
+    137.14214,
     -2.22998,
-    137.14213999999998,
+    137.14214,
     -2.22998
 ],
-  "geometry": {"coordinates":[137.14213999999998,-2.22998],"type":"Point"}
+  "geometry": {"coordinates":[137.14214000000001,-2.22998],"type":"Point"}
 }

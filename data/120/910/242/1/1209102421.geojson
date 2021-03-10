@@ -25,12 +25,13 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Panggung"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,23 @@
     "wof:geomhash":"3d73fab175c8ccf975c86303f9a0b4ea",
     "wof:hierarchy":[
         {
-            "country_id":85632203,
-            "locality_id":1209102421
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1209102421,
+            "region_id":-1
         }
     ],
     "wof:id":1209102421,
-    "wof:lastmodified":1537632062,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614727209,
     "wof:name":"Panggung",
-    "wof:parent_id":85632203,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

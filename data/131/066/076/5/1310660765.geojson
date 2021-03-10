@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Pasirkandang"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072855
+        102072855,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1632120
     },
     "wof:country":"ID",
-    "wof:geomhash":"cbf01e17432430abe259b9ef5d526b19",
+    "wof:geomhash":"10d327e702c1b3cd2c7154a5ce88615b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1310660765,
-    "wof:lastmodified":1537626735,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614653377,
     "wof:name":"Pasirkandang",
     "wof:parent_id":102072855,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.74611000000002,
+    106.74611,
     -6.97972,
-    106.74611000000002,
+    106.74611,
     -6.97972
 ],
-  "geometry": {"coordinates":[106.74611000000002,-6.97972],"type":"Point"}
+  "geometry": {"coordinates":[106.74611,-6.97972],"type":"Point"}
 }

@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-03-01",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -24,20 +25,20 @@
     "gn:timezone":"Asia/Jakarta",
     "iso:country":"ID",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073083
+        102073083,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1986841
     },
     "wof:country":"ID",
-    "wof:geomhash":"f690799df62da98c4fd4c53e20ed3f33",
+    "wof:geomhash":"2bb5ec13bd05424e9154f541b73bcffd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +49,14 @@
         }
     ],
     "wof:id":1310447757,
-    "wof:lastmodified":1536999539,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614708086,
     "wof:name":"Parungserab",
     "wof:parent_id":102073083,
     "wof:placetype":"locality",
@@ -58,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.82361000000002,
+    106.82361,
     -6.41444,
-    106.82361000000002,
+    106.82361,
     -6.41444
 ],
-  "geometry": {"coordinates":[106.82361000000002,-6.41444],"type":"Point"}
+  "geometry": {"coordinates":[106.82361,-6.41444],"type":"Point"}
 }

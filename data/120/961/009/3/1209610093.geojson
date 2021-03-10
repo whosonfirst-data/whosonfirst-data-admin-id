@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ceb_x_preferred":[
         "Manding"
     ],
@@ -39,24 +40,37 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672093,
+        102073313
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2002541
     },
     "wof:country":"ID",
-    "wof:geomhash":"0e357e03b79f0a3c44e355896460fe99",
+    "wof:geomhash":"dfe9841dc4050b5eb5944fefa73eaf65",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209610093
+            "county_id":102073313,
+            "locality_id":1209610093,
+            "region_id":85672093
         }
     ],
     "wof:id":1209610093,
-    "wof:lastmodified":1564185803,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614720244,
     "wof:name":"Manding",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073313,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
@@ -64,10 +78,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.35056000000002,
+    110.35056,
     -7.895,
-    110.35056000000002,
+    110.35056,
     -7.895
 ],
-  "geometry": {"coordinates":[110.35056000000002,-7.895],"type":"Point"}
+  "geometry": {"coordinates":[110.35056,-7.895],"type":"Point"}
 }

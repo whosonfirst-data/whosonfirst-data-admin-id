@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Batan"
     ],
@@ -65,8 +66,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672037,
-        102072751
+        102072751,
+        85672037
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -84,7 +85,14 @@
         }
     ],
     "wof:id":1326793429,
-    "wof:lastmodified":1564169974,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614633297,
     "wof:name":"Batan",
     "wof:parent_id":102072751,
     "wof:placetype":"locality",

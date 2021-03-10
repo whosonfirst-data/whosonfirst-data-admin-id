@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Cijalingan"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072855
+        102072855,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6601338
     },
     "wof:country":"ID",
-    "wof:geomhash":"d40936c63eac9eceace6fb4b7f6cddcb",
+    "wof:geomhash":"ce8bba7194fd73caa3913c6d893cc326",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1260333949,
-    "wof:lastmodified":1537629980,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614653098,
     "wof:name":"Cijalingan",
     "wof:parent_id":102072855,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.83556000000002,
+    106.83556,
     -6.905,
-    106.83556000000002,
+    106.83556,
     -6.905
 ],
-  "geometry": {"coordinates":[106.83556000000002,-6.905],"type":"Point"}
+  "geometry": {"coordinates":[106.83556,-6.905],"type":"Point"}
 }

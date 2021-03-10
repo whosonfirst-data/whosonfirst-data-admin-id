@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bjn_x_preferred":[
         "Beji"
     ],
@@ -39,24 +40,37 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102072715
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6388519
     },
     "wof:country":"ID",
-    "wof:geomhash":"8baf6a06ebe5bf289402fe69ef685d14",
+    "wof:geomhash":"b847f7a158c36e028565cb3413cf514a",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209606367
+            "county_id":102072715,
+            "locality_id":1209606367,
+            "region_id":85671987
         }
     ],
     "wof:id":1209606367,
-    "wof:lastmodified":1564186221,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614715714,
     "wof:name":"Beji",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072715,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
@@ -64,10 +78,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.03943999999998,
+    109.03944,
     -7.46556,
-    109.03943999999998,
+    109.03944,
     -7.46556
 ],
-  "geometry": {"coordinates":[109.03943999999998,-7.46556],"type":"Point"}
+  "geometry": {"coordinates":[109.03944,-7.46556],"type":"Point"}
 }

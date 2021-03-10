@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Cibolang"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073471
+        102073471,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6584668
     },
     "wof:country":"ID",
-    "wof:geomhash":"1272c3186e76a007a9b80acf281a53d2",
+    "wof:geomhash":"4076f1cec95533fda5056b517d9a406e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1344102715,
-    "wof:lastmodified":1537629567,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614650533,
     "wof:name":"Cibolang",
     "wof:parent_id":102073471,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.39806000000002,
+    107.39806,
     -6.66472,
-    107.39806000000002,
+    107.39806,
     -6.66472
 ],
-  "geometry": {"coordinates":[107.39806000000002,-6.66472],"type":"Point"}
+  "geometry": {"coordinates":[107.39806,-6.66472],"type":"Point"}
 }

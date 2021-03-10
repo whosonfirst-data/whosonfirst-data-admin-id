@@ -26,6 +26,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Dabo"
     ],
@@ -39,7 +40,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672049,
+        102073517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +53,24 @@
     "wof:geomhash":"5a9fc34fd14705b0f8960ad301657913",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209466151
+            "county_id":102073517,
+            "locality_id":1209466151,
+            "region_id":85672049
         }
     ],
     "wof:id":1209466151,
-    "wof:lastmodified":1564184986,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614721834,
     "wof:name":"Dabo",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073517,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

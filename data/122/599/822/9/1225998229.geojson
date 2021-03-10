@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062f\u0648\u0631\u064a\u0627\u0646"
     ],
@@ -206,8 +207,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672055,
-        1108796791
+        1108796791,
+        85672055
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -225,7 +226,14 @@
         }
     ],
     "wof:id":1225998229,
-    "wof:lastmodified":1564206690,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614645371,
     "wof:name":"Durian",
     "wof:parent_id":1108796791,
     "wof:placetype":"locality",

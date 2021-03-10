@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Bulak"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073551
+        102073551,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6606055
     },
     "wof:country":"ID",
-    "wof:geomhash":"cc6c2b5d60767850444304d8fdcef61f",
+    "wof:geomhash":"97385c13d52be3686a8a22de6dcdd4e1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1259629577,
-    "wof:lastmodified":1537630096,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614643799,
     "wof:name":"Bulak",
     "wof:parent_id":102073551,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.08556000000002,
+    107.08556,
     -6.0475,
-    107.08556000000002,
+    107.08556,
     -6.0475
 ],
-  "geometry": {"coordinates":[107.08556000000002,-6.0475],"type":"Point"}
+  "geometry": {"coordinates":[107.08556,-6.0475],"type":"Point"}
 }

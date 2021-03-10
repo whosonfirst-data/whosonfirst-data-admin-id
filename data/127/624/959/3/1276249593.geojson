@@ -26,6 +26,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Krobokan 1",
         "Krobokan Satu"
@@ -34,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072983
+        102072983,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1972830
     },
     "wof:country":"ID",
-    "wof:geomhash":"58e9ba031cfb9d43377160b7461b8d22",
+    "wof:geomhash":"0cd48f8de55ba83ff39ea705bb64913e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +54,14 @@
         }
     ],
     "wof:id":1276249593,
-    "wof:lastmodified":1537628095,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614637619,
     "wof:name":"Krobokan Satu",
     "wof:parent_id":102072983,
     "wof:placetype":"locality",
@@ -63,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.69861000000002,
+    110.69861,
     -7.23889,
-    110.69861000000002,
+    110.69861,
     -7.23889
 ],
-  "geometry": {"coordinates":[110.69861000000002,-7.23889],"type":"Point"}
+  "geometry": {"coordinates":[110.69861,-7.23889],"type":"Point"}
 }

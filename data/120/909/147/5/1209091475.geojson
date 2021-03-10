@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Pandan"
     ],
@@ -57,7 +58,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672027,
+        102073325
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,14 +71,24 @@
     "wof:geomhash":"af58832c31f0a15662a0cad2bbb60e16",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209091475
+            "county_id":102073325,
+            "locality_id":1209091475,
+            "region_id":85672027
         }
     ],
     "wof:id":1209091475,
-    "wof:lastmodified":1564183780,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614720298,
     "wof:name":"Pandan",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073325,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

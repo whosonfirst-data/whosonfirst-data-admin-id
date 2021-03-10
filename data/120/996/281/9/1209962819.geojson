@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Kampungjawa"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072937
+        102072937,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6594920
     },
     "wof:country":"ID",
-    "wof:geomhash":"add0a6066e5bbb16fb8030a0ae2ae666",
+    "wof:geomhash":"81ef4a692c2430252ad785a6af371621",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1209962819,
-    "wof:lastmodified":1537629809,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614638075,
     "wof:name":"Kampungjawa",
     "wof:parent_id":102072937,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.19693999999998,
+    107.19694,
     -6.46972,
-    107.19693999999998,
+    107.19694,
     -6.46972
 ],
-  "geometry": {"coordinates":[107.19693999999998,-6.46972],"type":"Point"}
+  "geometry": {"coordinates":[107.19694,-6.46972],"type":"Point"}
 }

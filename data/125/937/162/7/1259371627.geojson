@@ -25,19 +25,20 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073265
+        102073265,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2011939
     },
     "wof:country":"ID",
-    "wof:geomhash":"44fdc4f162e73ffae997ed7e056d04b4",
+    "wof:geomhash":"e1a1f435d27865d3ad29fd36347a55d8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +49,14 @@
         }
     ],
     "wof:id":1259371627,
-    "wof:lastmodified":1537018542,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614643844,
     "wof:name":"Gamplong Lima",
     "wof:parent_id":102073265,
     "wof:placetype":"locality",
@@ -58,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.23888999999998,
+    110.23889,
     -7.80583,
-    110.23888999999998,
+    110.23889,
     -7.80583
 ],
-  "geometry": {"coordinates":[110.23888999999998,-7.80583],"type":"Point"}
+  "geometry": {"coordinates":[110.23889,-7.80583],"type":"Point"}
 }

@@ -25,19 +25,20 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073265
+        102073265,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2000079
     },
     "wof:country":"ID",
-    "wof:geomhash":"4e1e6cb615278ab80e425748c9cf7fe8",
+    "wof:geomhash":"9306885203a53b5f55a284bcfde1dac9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +49,14 @@
         }
     ],
     "wof:id":1225939879,
-    "wof:lastmodified":1536877013,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614644677,
     "wof:name":"Jlatren",
     "wof:parent_id":102073265,
     "wof:placetype":"locality",
@@ -58,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.48111000000002,
+    110.48111,
     -7.81,
-    110.48111000000002,
+    110.48111,
     -7.81
 ],
-  "geometry": {"coordinates":[110.48111000000002,-7.81],"type":"Point"}
+  "geometry": {"coordinates":[110.48111,-7.81],"type":"Point"}
 }

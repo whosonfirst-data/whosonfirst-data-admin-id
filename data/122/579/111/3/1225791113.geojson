@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Marageni"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073505
+        102073505,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6396642
     },
     "wof:country":"ID",
-    "wof:geomhash":"1e30af15e52b824104f97843bb385599",
+    "wof:geomhash":"fc6d459c3f05be383cbd3b665069231d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1225791113,
-    "wof:lastmodified":1537628757,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614654926,
     "wof:name":"Marageni",
     "wof:parent_id":102073505,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.38611000000002,
+    108.38611,
     -6.63444,
-    108.38611000000002,
+    108.38611,
     -6.63444
 ],
-  "geometry": {"coordinates":[108.38611000000002,-6.63444],"type":"Point"}
+  "geometry": {"coordinates":[108.38611,-6.63444],"type":"Point"}
 }

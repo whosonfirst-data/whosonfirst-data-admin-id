@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Tukjasi"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073505
+        102073505,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6401192
     },
     "wof:country":"ID",
-    "wof:geomhash":"7e05ead81b16018cbaa25436df0cddc3",
+    "wof:geomhash":"61be11cde66bcb8397e423a06191ad08",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1326780461,
-    "wof:lastmodified":1537628834,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614650033,
     "wof:name":"Tukjasi",
     "wof:parent_id":102073505,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.49611000000002,
+    108.49611,
     -6.77333,
-    108.49611000000002,
+    108.49611,
     -6.77333
 ],
-  "geometry": {"coordinates":[108.49611000000002,-6.77333],"type":"Point"}
+  "geometry": {"coordinates":[108.49611,-6.77333],"type":"Point"}
 }

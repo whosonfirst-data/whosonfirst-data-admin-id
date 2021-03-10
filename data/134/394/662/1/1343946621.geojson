@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ceb_x_preferred":[
         "Karangan"
     ],
@@ -38,15 +39,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073469
+        102073469,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6264419
     },
     "wof:country":"ID",
-    "wof:geomhash":"796ce8522c0dd25231edfc5b1c5aea08",
+    "wof:geomhash":"6295c1fa29413b5e9631c7ad904a9a06",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -57,7 +58,14 @@
         }
     ],
     "wof:id":1343946621,
-    "wof:lastmodified":1564174353,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614650502,
     "wof:name":"Karangan",
     "wof:parent_id":102073469,
     "wof:placetype":"locality",
@@ -67,10 +75,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.26111000000002,
+    110.26111,
     -7.66861,
-    110.26111000000002,
+    110.26111,
     -7.66861
 ],
-  "geometry": {"coordinates":[110.26111000000002,-7.66861],"type":"Point"}
+  "geometry": {"coordinates":[110.26111,-7.66861],"type":"Point"}
 }

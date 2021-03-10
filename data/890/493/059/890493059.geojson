@@ -4,18 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"106.8634,-6.2059,106.8634,-6.2059",
-    "geom:latitude":-6.2059,
-    "geom:longitude":106.8634,
+    "geom:area":0.000045,
+    "geom:area_square_m":548759.303127,
+    "geom:bbox":"106.858596,-6.209263,106.866336,-6.194655",
+    "geom:latitude":-6.202777,
+    "geom:longitude":106.862251,
     "gn:country":"ID",
     "gn:fcode":"PPL",
     "gn:pop":0,
     "gp:adm0":23424846,
     "iso:country":"ID",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "name:ind_x_preferred":[
         "Kayumanis"
     ],
@@ -30,13 +30,17 @@
     "qs:photos_sr":1,
     "qs:placetype":"Suburb",
     "qs:pop_sr":"0",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "unknown"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
-        85672001,
         102191569,
         85632203,
-        102021905,
-        102073177
+        102020431,
+        102073493,
+        85672001
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,21 +50,31 @@
     },
     "wof:country":"ID",
     "wof:created":1469054916,
-    "wof:geomhash":"376732a3f66ae9a86d876033f9e239ed",
+    "wof:geom_alt":[
+        "unknown"
+    ],
+    "wof:geomhash":"5529d7c1fd51cd7182aeac6a3782b8fc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632203,
-            "county_id":102073177,
-            "locality_id":102021905,
+            "county_id":102073493,
+            "locality_id":102020431,
             "neighbourhood_id":890493059,
             "region_id":85672001
         }
     ],
     "wof:id":890493059,
-    "wof:lastmodified":1505343802,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614744853,
     "wof:name":"Kayu Manis",
-    "wof:parent_id":102021905,
+    "wof:parent_id":102020431,
     "wof:placetype":"neighbourhood",
     "wof:population":0,
     "wof:repo":"whosonfirst-data-admin-id",
@@ -69,10 +83,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.8634,
-    -6.2059,
-    106.8634,
-    -6.2059
+    106.858596,
+    -6.209263,
+    106.866336,
+    -6.194655
 ],
-  "geometry": {"coordinates":[106.8634,-6.2059],"type":"Point"}
+  "geometry": {"coordinates":[[[106.86308,-6.200741],[106.866336,-6.208881],[106.862279,-6.209263],[106.86068400000001,-6.202799],[106.85927100000001,-6.198069],[106.85859600000001,-6.196212],[106.85859600000001,-6.196212],[106.860749,-6.194655],[106.86308,-6.200741]]],"type":"Polygon"}
 }

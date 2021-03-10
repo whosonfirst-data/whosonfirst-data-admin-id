@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Selamatan"
     ],
@@ -38,15 +39,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073189
+        102073189,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2004843
     },
     "wof:country":"ID",
-    "wof:geomhash":"60eecefba2d559df9731d880a2574b30",
+    "wof:geomhash":"39353bc96e5ea194742b8639986732f6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -57,7 +58,14 @@
         }
     ],
     "wof:id":1326825115,
-    "wof:lastmodified":1564169597,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614650006,
     "wof:name":"Slametan",
     "wof:parent_id":102073189,
     "wof:placetype":"locality",
@@ -67,10 +75,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.66306000000002,
+    110.66306,
     -7.975,
-    110.66306000000002,
+    110.66306,
     -7.975
 ],
-  "geometry": {"coordinates":[110.66306000000002,-7.975],"type":"Point"}
+  "geometry": {"coordinates":[110.66306,-7.975],"type":"Point"}
 }

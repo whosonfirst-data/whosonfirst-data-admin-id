@@ -26,6 +26,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mezewo",
         "Mesewo"
@@ -34,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672067,
-        102072725
+        102072725,
+        85672067
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1635317
     },
     "wof:country":"ID",
-    "wof:geomhash":"78dbb004970dd40319f4f0917742736d",
+    "wof:geomhash":"0565b3f087bb55dbdd4f3ef8969486db",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +54,14 @@
         }
     ],
     "wof:id":1360295249,
-    "wof:lastmodified":1537626846,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614641509,
     "wof:name":"Mesewo",
     "wof:parent_id":102072725,
     "wof:placetype":"locality",
@@ -63,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    131.66666999999998,
+    131.66667,
     -0.95,
-    131.66666999999998,
+    131.66667,
     -0.95
 ],
-  "geometry": {"coordinates":[131.66666999999998,-0.95],"type":"Point"}
+  "geometry": {"coordinates":[131.66667000000001,-0.95],"type":"Point"}
 }

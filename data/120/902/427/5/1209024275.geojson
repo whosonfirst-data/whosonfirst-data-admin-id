@@ -25,26 +25,40 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672093,
+        102073189
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2004883
     },
     "wof:country":"ID",
-    "wof:geomhash":"4a6a5ce14f14195fce61240e6f7b00cb",
+    "wof:geomhash":"a9318f0ac494dc371059a032de2f9f65",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209024275
+            "county_id":102073189,
+            "locality_id":1209024275,
+            "region_id":85672093
         }
     ],
     "wof:id":1209024275,
-    "wof:lastmodified":1536300051,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614719092,
     "wof:name":"Randukuning Dua",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073189,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
@@ -53,9 +67,9 @@
 },
   "bbox": [
     110.6275,
-    -7.976669999999999,
+    -7.97667,
     110.6275,
-    -7.976669999999999
+    -7.97667
 ],
   "geometry": {"coordinates":[110.6275,-7.97667],"type":"Point"}
 }

@@ -26,6 +26,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Naisano 1",
         "Naisano Satu"
@@ -34,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672037,
-        102073331
+        102073331,
+        85672037
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1947265
     },
     "wof:country":"ID",
-    "wof:geomhash":"c1b7292fc83a6f863dcccaa1f854dc95",
+    "wof:geomhash":"16caa071cd132896fcf2e9c29ac7b6d0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +54,14 @@
         }
     ],
     "wof:id":1293258019,
-    "wof:lastmodified":1537627444,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614635910,
     "wof:name":"Naisano Satu",
     "wof:parent_id":102073331,
     "wof:placetype":"locality",
@@ -63,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    123.77443999999998,
+    123.77444,
     -9.60111,
-    123.77443999999998,
+    123.77444,
     -9.60111
 ],
-  "geometry": {"coordinates":[123.77443999999998,-9.60111],"type":"Point"}
+  "geometry": {"coordinates":[123.77444,-9.60111],"type":"Point"}
 }

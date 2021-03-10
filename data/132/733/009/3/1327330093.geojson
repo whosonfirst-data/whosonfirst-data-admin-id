@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Sumberejo"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072611
+        102072611,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6411271
     },
     "wof:country":"ID",
-    "wof:geomhash":"d876fe1e7eda2f921337fc890052f9ed",
+    "wof:geomhash":"367746a6f3e9f59ff448c841579e9afc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1327330093,
-    "wof:lastmodified":1537629102,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614633082,
     "wof:name":"Sumberejo",
     "wof:parent_id":102072611,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.99611000000002,
+    110.99611,
     -7.15778,
-    110.99611000000002,
+    110.99611,
     -7.15778
 ],
-  "geometry": {"coordinates":[110.99611000000002,-7.15778],"type":"Point"}
+  "geometry": {"coordinates":[110.99611,-7.15778],"type":"Point"}
 }

@@ -26,6 +26,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tjangkudu",
         "Cangkudu"
@@ -34,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072949
+        102072949,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1963287
     },
     "wof:country":"ID",
-    "wof:geomhash":"6836a50ed438fd53693f25c9242c4f78",
+    "wof:geomhash":"01a7dee75a58196eda74f2b8cfe874cb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +54,14 @@
         }
     ],
     "wof:id":1193097295,
-    "wof:lastmodified":1537627704,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614639362,
     "wof:name":"Cangkudu",
     "wof:parent_id":102072949,
     "wof:placetype":"locality",
@@ -63,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.58693999999998,
+    107.58694,
     -6.99194,
-    107.58693999999998,
+    107.58694,
     -6.99194
 ],
-  "geometry": {"coordinates":[107.58693999999998,-6.99194],"type":"Point"}
+  "geometry": {"coordinates":[107.58694,-6.99194],"type":"Point"}
 }

@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0644\u064a\u0646\u0627"
     ],
@@ -80,8 +81,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672037,
-        102072751
+        102072751,
+        85672037
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -99,7 +100,14 @@
         }
     ],
     "wof:id":1293555067,
-    "wof:lastmodified":1564176385,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614635433,
     "wof:name":"Lina",
     "wof:parent_id":102072751,
     "wof:placetype":"locality",

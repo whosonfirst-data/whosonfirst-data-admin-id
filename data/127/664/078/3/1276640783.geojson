@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09a6\u09ae\u09a8"
     ],
@@ -65,8 +66,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102072581
+        102072581,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -84,7 +85,14 @@
         }
     ],
     "wof:id":1276640783,
-    "wof:lastmodified":1564183033,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614637726,
     "wof:name":"Daman",
     "wof:parent_id":102072581,
     "wof:placetype":"locality",

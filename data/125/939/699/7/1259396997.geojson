@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569
@@ -34,7 +35,7 @@
         "gn:id":1637895
     },
     "wof:country":"ID",
-    "wof:geomhash":"6bf528dd8c447bacb36d63c4c2eb2ea6",
+    "wof:geomhash":"da42e04ad8a0ff4e4a6ee926ca4a6f45",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -44,7 +45,14 @@
         }
     ],
     "wof:id":1259396997,
-    "wof:lastmodified":1536982094,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614643814,
     "wof:name":"Letpei",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
@@ -54,10 +62,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    128.16666999999998,
+    128.16667,
     -8.28333,
-    128.16666999999998,
+    128.16667,
     -8.28333
 ],
-  "geometry": {"coordinates":[128.16666999999998,-8.28333],"type":"Point"}
+  "geometry": {"coordinates":[128.16667000000001,-8.28333],"type":"Point"}
 }

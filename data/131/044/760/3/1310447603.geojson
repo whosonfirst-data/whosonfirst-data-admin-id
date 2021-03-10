@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Kayumanis Dua"
     ],
@@ -35,15 +36,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073411
+        102073411,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6597711
     },
     "wof:country":"ID",
-    "wof:geomhash":"06ca0a501393b97927cd52dc44833c61",
+    "wof:geomhash":"0f58179e63d0e868f87bb91330b41df8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,7 +55,14 @@
         }
     ],
     "wof:id":1310447603,
-    "wof:lastmodified":1537629897,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614653326,
     "wof:name":"Kayumanis Dua",
     "wof:parent_id":102073411,
     "wof:placetype":"locality",
@@ -64,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.76888999999998,
+    106.76889,
     -6.54139,
-    106.76888999999998,
+    106.76889,
     -6.54139
 ],
-  "geometry": {"coordinates":[106.76888999999998,-6.54139],"type":"Point"}
+  "geometry": {"coordinates":[106.76889,-6.54139],"type":"Point"}
 }

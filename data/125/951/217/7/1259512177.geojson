@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569
@@ -34,7 +35,7 @@
         "gn:id":1900667
     },
     "wof:country":"ID",
-    "wof:geomhash":"4fe4939d9266f934ecb66a55089375b2",
+    "wof:geomhash":"aa32192a0b4381d90508f516abec9d7c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -44,7 +45,14 @@
         }
     ],
     "wof:id":1259512177,
-    "wof:lastmodified":1536816950,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614644416,
     "wof:name":"Simir",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
@@ -54,10 +62,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    133.95193999999998,
+    133.95194,
     -2.055,
-    133.95193999999998,
+    133.95194,
     -2.055
 ],
-  "geometry": {"coordinates":[133.95193999999998,-2.055],"type":"Point"}
+  "geometry": {"coordinates":[133.95194000000001,-2.055],"type":"Point"}
 }

@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Tanjungsari"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073119
+        102073119,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6389706
     },
     "wof:country":"ID",
-    "wof:geomhash":"e75a52bf64a0d8a30655a604f032e8f4",
+    "wof:geomhash":"960305b19f8fec980a5a210b2af50b1c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1226236443,
-    "wof:lastmodified":1537628695,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614645585,
     "wof:name":"Tanjungsari",
     "wof:parent_id":102073119,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.04361000000002,
+    109.04361,
     -7.28083,
-    109.04361000000002,
+    109.04361,
     -7.28083
 ],
-  "geometry": {"coordinates":[109.04361000000002,-7.28083],"type":"Point"}
+  "geometry": {"coordinates":[109.04361,-7.28083],"type":"Point"}
 }

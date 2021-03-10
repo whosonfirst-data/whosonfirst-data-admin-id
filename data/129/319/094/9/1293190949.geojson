@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Bangsri"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102072973
+        102072973,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6408976
     },
     "wof:country":"ID",
-    "wof:geomhash":"637a8097f9cdc2e50076e862c0f00bbc",
+    "wof:geomhash":"eb63f7658159c5d507de398da0021bb3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1293190949,
-    "wof:lastmodified":1537629025,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614651263,
     "wof:name":"Bangsri",
     "wof:parent_id":102072973,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.30138999999998,
+    111.30139,
     -7.67472,
-    111.30138999999998,
+    111.30139,
     -7.67472
 ],
-  "geometry": {"coordinates":[111.30138999999998,-7.67472],"type":"Point"}
+  "geometry": {"coordinates":[111.30139,-7.67472],"type":"Point"}
 }

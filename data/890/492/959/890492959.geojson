@@ -15,6 +15,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "qs:name":"Kanigoro",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -23,8 +24,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102073155
+        102073155,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,7 +46,14 @@
         }
     ],
     "wof:id":890492959,
-    "wof:lastmodified":1505343801,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614653775,
     "wof:name":"Kanigoro",
     "wof:parent_id":102073155,
     "wof:placetype":"locality",

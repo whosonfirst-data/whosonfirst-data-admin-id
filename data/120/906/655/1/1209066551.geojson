@@ -25,29 +25,43 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Pasirleutik"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671983,
+        102072739
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6580838
     },
     "wof:country":"ID",
-    "wof:geomhash":"23df92c8b25a3a74027c2ae19e0f0dc0",
+    "wof:geomhash":"bc89472ade273a00d314861f32bcc535",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209066551
+            "county_id":102072739,
+            "locality_id":1209066551,
+            "region_id":85671983
         }
     ],
     "wof:id":1209066551,
-    "wof:lastmodified":1537629454,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614715914,
     "wof:name":"Pasirleutik",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072739,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
@@ -55,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.83693999999998,
+    107.83694,
     -6.85778,
-    107.83693999999998,
+    107.83694,
     -6.85778
 ],
-  "geometry": {"coordinates":[107.83693999999998,-6.85778],"type":"Point"}
+  "geometry": {"coordinates":[107.83694,-6.85778],"type":"Point"}
 }

@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Batuhalang"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073529
+        102073529,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6589897
     },
     "wof:country":"ID",
-    "wof:geomhash":"3c83af09451c807305f5a66940df72cb",
+    "wof:geomhash":"acfbdf58fd59d7bafe72c55c0ec4d2c4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1309755643,
-    "wof:lastmodified":1537629657,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614642065,
     "wof:name":"Batuhalang",
     "wof:parent_id":102073529,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.10611000000002,
+    107.10611,
     -6.66806,
-    107.10611000000002,
+    107.10611,
     -6.66806
 ],
-  "geometry": {"coordinates":[107.10611000000002,-6.66806],"type":"Point"}
+  "geometry": {"coordinates":[107.10611,-6.66806],"type":"Point"}
 }

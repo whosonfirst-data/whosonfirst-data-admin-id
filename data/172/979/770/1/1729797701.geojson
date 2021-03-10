@@ -1,0 +1,72 @@
+{
+  "id": 1729797701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000139,
+    "geom:area_square_m":1703165.253031,
+    "geom:bbox":"112.761931,-7.300107,112.773155,-7.284985",
+    "geom:latitude":-7.293133,
+    "geom:longitude":112.767526,
+    "iso:country":"ID",
+    "lbl:latitude":-7.293144,
+    "lbl:longitude":112.767526,
+    "mps:latitude":-7.293144,
+    "mps:longitude":112.767526,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Menur Pumpungan"
+    ],
+    "name:ind_x_preferred":[
+        "Menur Pumpungan"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        102018911,
+        102073397,
+        85672027
+    ],
+    "wof:breaches":[],
+    "wof:country":"ID",
+    "wof:created":1613065461,
+    "wof:geomhash":"d3fce30ff2d842b11594bf85766802b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102073397,
+            "locality_id":102018911,
+            "neighbourhood_id":1729797701,
+            "region_id":85672027
+        }
+    ],
+    "wof:id":1729797701,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614723155,
+    "wof:name":"Menur Pumpungan",
+    "wof:parent_id":102018911,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    112.761931,
+    -7.300107,
+    112.773155,
+    -7.284985
+],
+  "geometry": {"coordinates":[[[112.769415,-7.284985],[112.771558,-7.287207],[112.772418,-7.29163],[112.773155,-7.295745],[112.772541,-7.300107],[112.761931,-7.299369],[112.76216700000001,-7.293586],[112.763149,-7.287443],[112.765852,-7.285477],[112.769415,-7.284985]]],"type":"Polygon"}
+}

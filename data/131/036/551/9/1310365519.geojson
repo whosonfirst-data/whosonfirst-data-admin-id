@@ -26,6 +26,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bodjonggadung 1",
         "Bodjonggadung",
@@ -36,15 +37,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671995,
-        102073479
+        102073479,
+        85671995
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1959466
     },
     "wof:country":"ID",
-    "wof:geomhash":"f135e39aaa4fc1f0b47f2261c6ed5c3b",
+    "wof:geomhash":"d91260b7a2a8b3b6cad1e1ea10238c84",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -55,7 +56,14 @@
         }
     ],
     "wof:id":1310365519,
-    "wof:lastmodified":1537627505,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614640559,
     "wof:name":"Bojonggadung",
     "wof:parent_id":102073479,
     "wof:placetype":"locality",
@@ -65,10 +73,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.30306000000002,
+    106.30306,
     -6.07611,
-    106.30306000000002,
+    106.30306,
     -6.07611
 ],
-  "geometry": {"coordinates":[106.30306000000002,-6.07611],"type":"Point"}
+  "geometry": {"coordinates":[106.30306,-6.07611],"type":"Point"}
 }

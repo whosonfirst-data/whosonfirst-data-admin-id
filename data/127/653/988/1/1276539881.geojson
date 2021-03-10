@@ -25,19 +25,20 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073233
+        102073233,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2007588
     },
     "wof:country":"ID",
-    "wof:geomhash":"58f81401b89f11c3341f129ac53c9c57",
+    "wof:geomhash":"4163a95e859c8218f53f616d1db2fd88",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +49,14 @@
         }
     ],
     "wof:id":1276539881,
-    "wof:lastmodified":1536998471,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614651850,
     "wof:name":"Noro Wetan",
     "wof:parent_id":102073233,
     "wof:placetype":"locality",
@@ -58,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.53943999999998,
+    110.53944,
     -7.74917,
-    110.53943999999998,
+    110.53944,
     -7.74917
 ],
-  "geometry": {"coordinates":[110.53943999999998,-7.74917],"type":"Point"}
+  "geometry": {"coordinates":[110.53944,-7.74917],"type":"Point"}
 }

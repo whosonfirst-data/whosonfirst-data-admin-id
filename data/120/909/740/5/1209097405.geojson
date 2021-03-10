@@ -25,29 +25,43 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Mukiran"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102072639
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6373467
     },
     "wof:country":"ID",
-    "wof:geomhash":"1b67e43d9f6f2afaa4acfd3674714203",
+    "wof:geomhash":"3d53e3944a92c262fb18f2a1b4c1e8ec",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209097405
+            "county_id":102072639,
+            "locality_id":1209097405,
+            "region_id":85671987
         }
     ],
     "wof:id":1209097405,
-    "wof:lastmodified":1537628399,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614715031,
     "wof:name":"Mukiran",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072639,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
@@ -55,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.73888999999998,
+    109.73889,
     -7.48833,
-    109.73888999999998,
+    109.73889,
     -7.48833
 ],
-  "geometry": {"coordinates":[109.73888999999998,-7.48833],"type":"Point"}
+  "geometry": {"coordinates":[109.73889,-7.48833],"type":"Point"}
 }

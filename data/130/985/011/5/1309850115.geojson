@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Bawe"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672115,
-        102072997
+        102072997,
+        85672115
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1649511
     },
     "wof:country":"ID",
-    "wof:geomhash":"e4093952fe3c9eaa03db657742018ada",
+    "wof:geomhash":"0e6730216019823020ee6fc47ae61f3b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1309850115,
-    "wof:lastmodified":1537627320,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614641836,
     "wof:name":"Bawai",
     "wof:parent_id":102072997,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    134.92158999999998,
+    134.92159,
     -0.99258,
-    134.92158999999998,
+    134.92159,
     -0.99258
 ],
-  "geometry": {"coordinates":[134.92158999999998,-0.99258],"type":"Point"}
+  "geometry": {"coordinates":[134.92159000000001,-0.99258],"type":"Point"}
 }

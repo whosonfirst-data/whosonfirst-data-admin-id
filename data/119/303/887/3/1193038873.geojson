@@ -26,6 +26,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:und_x_variant":[
         "Djatiredjo 1",
         "Jatirejo Satu"
@@ -34,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072709
+        102072709,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1973489
     },
     "wof:country":"ID",
-    "wof:geomhash":"f11a3991ffa0c561b7d8fb6481d5cb71",
+    "wof:geomhash":"dbf407ca0a865009332f56924bd6752b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +54,14 @@
         }
     ],
     "wof:id":1193038873,
-    "wof:lastmodified":1537628125,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614652754,
     "wof:name":"Jatirejo Satu",
     "wof:parent_id":102072709,
     "wof:placetype":"locality",
@@ -63,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.57193999999998,
+    110.57194,
     -7.38167,
-    110.57193999999998,
+    110.57194,
     -7.38167
 ],
-  "geometry": {"coordinates":[110.57193999999998,-7.38167],"type":"Point"}
+  "geometry": {"coordinates":[110.57194,-7.38167],"type":"Point"}
 }

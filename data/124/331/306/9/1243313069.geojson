@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Cileugem"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073551
+        102073551,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6591429
     },
     "wof:country":"ID",
-    "wof:geomhash":"d4d9bebd77a68a13f3fd4679a4ca1845",
+    "wof:geomhash":"c7e728d287d50dd4ce4cbad2c557fc5c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1243313069,
-    "wof:lastmodified":1537629699,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614642243,
     "wof:name":"Cileugem",
     "wof:parent_id":102073551,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.08138999999998,
+    107.08139,
     -6.42389,
-    107.08138999999998,
+    107.08139,
     -6.42389
 ],
-  "geometry": {"coordinates":[107.08138999999998,-6.42389],"type":"Point"}
+  "geometry": {"coordinates":[107.08139,-6.42389],"type":"Point"}
 }

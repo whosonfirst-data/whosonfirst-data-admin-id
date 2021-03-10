@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Pamoyanan Kidul"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072855
+        102072855,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6595807
     },
     "wof:country":"ID",
-    "wof:geomhash":"b63d6830784c775228ceda0c9c8a7d59",
+    "wof:geomhash":"60745f6be2d78ff9e26f4015ef279dc7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1259443417,
-    "wof:lastmodified":1537629825,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614654485,
     "wof:name":"Pamoyanan Kidul",
     "wof:parent_id":102072855,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.96056000000002,
+    106.96056,
     -6.88194,
-    106.96056000000002,
+    106.96056,
     -6.88194
 ],
-  "geometry": {"coordinates":[106.96056000000002,-6.88194],"type":"Point"}
+  "geometry": {"coordinates":[106.96056,-6.88194],"type":"Point"}
 }

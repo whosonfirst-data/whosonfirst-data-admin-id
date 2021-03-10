@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Harapan Jaya"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672049,
-        102072769
+        102072769,
+        85672049
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":10276722
     },
     "wof:country":"ID",
-    "wof:geomhash":"d27a25a19e4d40312f0394ce5a88d7ff",
+    "wof:geomhash":"5499a4ff6a05507eefa9b53d08f53560",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1343412383,
-    "wof:lastmodified":1537636715,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614634280,
     "wof:name":"Harapan Jaya",
     "wof:parent_id":102072769,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.30306000000002,
+    108.30306,
     3.87472,
-    108.30306000000002,
+    108.30306,
     3.87472
 ],
-  "geometry": {"coordinates":[108.30306000000002,3.87472],"type":"Point"}
+  "geometry": {"coordinates":[108.30306,3.87472],"type":"Point"}
 }

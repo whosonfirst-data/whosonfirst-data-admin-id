@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ceb_x_preferred":[
         "Bemban"
     ],
@@ -44,8 +45,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672049,
-        102073453
+        102073453,
+        85672049
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,7 +64,14 @@
         }
     ],
     "wof:id":1276819697,
-    "wof:lastmodified":1564180386,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614651406,
     "wof:name":"Bemban",
     "wof:parent_id":102073453,
     "wof:placetype":"locality",

@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fas_x_preferred":[
         "\u0633\u06af\u0631\u06cc"
     ],
@@ -38,8 +39,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672087,
-        102072697
+        102072697,
+        85672087
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,7 +58,14 @@
         }
     ],
     "wof:id":1310569547,
-    "wof:lastmodified":1564193945,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614641135,
     "wof:name":"Sagari",
     "wof:parent_id":102072697,
     "wof:placetype":"locality",

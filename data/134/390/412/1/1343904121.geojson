@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Putrinunggal"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073471
+        102073471,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6593050
     },
     "wof:country":"ID",
-    "wof:geomhash":"919e875e3f4eeef0a07725a51bf9f412",
+    "wof:geomhash":"22ce5f2d234d8afc630deafb188b4dcf",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1343904121,
-    "wof:lastmodified":1537629754,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614650280,
     "wof:name":"Putrinunggal",
     "wof:parent_id":102073471,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.42638999999998,
+    107.42639,
     -6.60667,
-    107.42638999999998,
+    107.42639,
     -6.60667
 ],
-  "geometry": {"coordinates":[107.42638999999998,-6.60667],"type":"Point"}
+  "geometry": {"coordinates":[107.42639,-6.60667],"type":"Point"}
 }

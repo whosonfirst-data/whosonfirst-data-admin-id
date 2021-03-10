@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Selagedang"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073529
+        102073529,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6590272
     },
     "wof:country":"ID",
-    "wof:geomhash":"a12fdbf2c89317392c23ba7d7fe9c184",
+    "wof:geomhash":"48922af260e3afd64ddb2661abeaf763",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1192964599,
-    "wof:lastmodified":1537629670,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614652833,
     "wof:name":"Selagedang",
     "wof:parent_id":102073529,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.18361000000002,
+    107.18361,
     -6.73722,
-    107.18361000000002,
+    107.18361,
     -6.73722
 ],
-  "geometry": {"coordinates":[107.18361000000002,-6.73722],"type":"Point"}
+  "geometry": {"coordinates":[107.18361,-6.73722],"type":"Point"}
 }

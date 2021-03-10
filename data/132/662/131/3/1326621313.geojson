@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Sidakaya Satu"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072819
+        102072819,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6378720
     },
     "wof:country":"ID",
-    "wof:geomhash":"78c83c9763b544226c97989793eda6b1",
+    "wof:geomhash":"2f7b4ded79252c118fb124456437f8c5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1326621313,
-    "wof:lastmodified":1537628508,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614650104,
     "wof:name":"Sidakaya Satu",
     "wof:parent_id":102072819,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.01111000000002,
+    109.01111,
     -7.73528,
-    109.01111000000002,
+    109.01111,
     -7.73528
 ],
-  "geometry": {"coordinates":[109.01111000000002,-7.73528],"type":"Point"}
+  "geometry": {"coordinates":[109.01111,-7.73528],"type":"Point"}
 }

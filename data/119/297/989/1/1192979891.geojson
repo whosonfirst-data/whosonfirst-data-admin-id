@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Mahia"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672097,
-        1108796829
+        1108796829,
+        85672097
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7040622
     },
     "wof:country":"ID",
-    "wof:geomhash":"d9587da5f08d5711a15dfeaecfaf5590",
+    "wof:geomhash":"a03a7c97bf8bfca30248c8bd59dc2c77",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1192979891,
-    "wof:lastmodified":1537632807,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614652867,
     "wof:name":"Mahia",
     "wof:parent_id":1108796829,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    128.20006999999998,
+    128.20007,
     -3.73917,
-    128.20006999999998,
+    128.20007,
     -3.73917
 ],
-  "geometry": {"coordinates":[128.20006999999998,-3.73917],"type":"Point"}
+  "geometry": {"coordinates":[128.20007000000001,-3.73917],"type":"Point"}
 }

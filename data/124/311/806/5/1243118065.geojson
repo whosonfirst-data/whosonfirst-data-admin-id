@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Cileueur"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073529
+        102073529,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6592369
     },
     "wof:country":"ID",
-    "wof:geomhash":"50332cc82869b75adf19ded9d9d36d1e",
+    "wof:geomhash":"51698ee0f53f3b7287fc626eeba0d903",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1243118065,
-    "wof:lastmodified":1537629732,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614654174,
     "wof:name":"Cileueur",
     "wof:parent_id":102073529,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.25388999999998,
+    107.25389,
     -6.87028,
-    107.25388999999998,
+    107.25389,
     -6.87028
 ],
-  "geometry": {"coordinates":[107.25388999999998,-6.87028],"type":"Point"}
+  "geometry": {"coordinates":[107.25389,-6.87028],"type":"Point"}
 }

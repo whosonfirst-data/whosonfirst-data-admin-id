@@ -25,26 +25,40 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672037,
+        102073481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1936905
     },
     "wof:country":"ID",
-    "wof:geomhash":"73c0f634dce1ce5e6773d0c721c0e18f",
+    "wof:geomhash":"5b1f4ccc13fc57c48c59aff1d5dd1993",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209069079
+            "county_id":102073481,
+            "locality_id":1209069079,
+            "region_id":85672037
         }
     ],
     "wof:id":1209069079,
-    "wof:lastmodified":1536298706,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614721517,
     "wof:name":"Kotakfau",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073481,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
@@ -52,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    125.11556000000002,
+    125.11556,
     -9.03278,
-    125.11556000000002,
+    125.11556,
     -9.03278
 ],
-  "geometry": {"coordinates":[125.11556000000002,-9.03278],"type":"Point"}
+  "geometry": {"coordinates":[125.11556,-9.03278],"type":"Point"}
 }

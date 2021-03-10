@@ -4,18 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"106.8475,-6.1674,106.8475,-6.1674",
-    "geom:latitude":-6.1674,
-    "geom:longitude":106.8475,
+    "geom:area":0.000052,
+    "geom:area_square_m":636776.990489,
+    "geom:bbox":"106.8409,-6.168796,106.850237,-6.160048",
+    "geom:latitude":-6.164657,
+    "geom:longitude":106.84535,
     "gn:country":"ID",
     "gn:fcode":"PPL",
     "gn:pop":0,
     "gp:adm0":23424846,
     "iso:country":"ID",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "name:ceb_x_preferred":[
         "Kecamatan Kemayoran"
     ],
@@ -75,14 +75,18 @@
     "qs:photos_sr":3,
     "qs:placetype":"Suburb",
     "qs:pop_sr":"0",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "unknown"
+    ],
     "src:population":"geonames",
     "wd:wordcount":1379,
     "wof:belongsto":[
-        85672001,
         102191569,
         85632203,
         102021905,
-        102073177
+        102073177,
+        85672001
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -94,7 +98,10 @@
     },
     "wof:country":"ID",
     "wof:created":1469055180,
-    "wof:geomhash":"0466e1b83b312620cf58e149888afbfe",
+    "wof:geom_alt":[
+        "unknown"
+    ],
+    "wof:geomhash":"6e9b73e30d67e2846b3d410fa70c1053",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -106,7 +113,14 @@
         }
     ],
     "wof:id":890498571,
-    "wof:lastmodified":1563273934,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614744887,
     "wof:name":"Kemayoran",
     "wof:parent_id":102021905,
     "wof:placetype":"neighbourhood",
@@ -117,10 +131,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.8475,
-    -6.1674,
-    106.8475,
-    -6.1674
+    106.8409,
+    -6.168796,
+    106.850237,
+    -6.160048
 ],
-  "geometry": {"coordinates":[106.8475,-6.1674],"type":"Point"}
+  "geometry": {"coordinates":[[[106.848271,-6.168464],[106.84233500000001,-6.168796],[106.842005,-6.167726],[106.841268,-6.164901],[106.8409,-6.163119],[106.84305000000001,-6.162136],[106.844033,-6.161768],[106.848456,-6.16017],[106.849008,-6.160048],[106.849746,-6.160785],[106.85023700000001,-6.161276],[106.84956099999999,-6.162628],[106.848456,-6.163365],[106.847841,-6.163918],[106.848026,-6.164962],[106.848271,-6.168156],[106.848271,-6.168464]]],"type":"Polygon"}
 }

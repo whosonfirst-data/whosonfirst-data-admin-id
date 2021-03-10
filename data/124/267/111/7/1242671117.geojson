@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Bungmanis"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073189
+        102073189,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6371309
     },
     "wof:country":"ID",
-    "wof:geomhash":"b136097fd44ec8b4520b7465da659a48",
+    "wof:geomhash":"207d6edff6612c12cd3f285b41463ffc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1242671117,
-    "wof:lastmodified":1537628337,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614642667,
     "wof:name":"Bungmanis",
     "wof:parent_id":102073189,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.73888999999998,
+    110.73889,
     -8.05194,
-    110.73888999999998,
+    110.73889,
     -8.05194
 ],
-  "geometry": {"coordinates":[110.73888999999998,-8.05194],"type":"Point"}
+  "geometry": {"coordinates":[110.73889,-8.05194],"type":"Point"}
 }

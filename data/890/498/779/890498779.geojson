@@ -4,18 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"106.7781,-6.2079,106.7781,-6.2079",
-    "geom:latitude":-6.2079,
-    "geom:longitude":106.7781,
+    "geom:area":0.000128,
+    "geom:area_square_m":1578126.466786,
+    "geom:bbox":"106.771391,-6.216594,106.783502,-6.20182",
+    "geom:latitude":-6.208849,
+    "geom:longitude":106.777716,
     "gn:country":"ID",
     "gn:fcode":"PPL",
     "gn:pop":0,
     "gp:adm0":23424846,
     "iso:country":"ID",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "name:ind_x_preferred":[
         "Sukabumi Utara"
     ],
@@ -29,13 +29,17 @@
     "qs:photos_sr":0,
     "qs:placetype":"Suburb",
     "qs:pop_sr":"0",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "unknown"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
-        85672001,
         102191569,
         85632203,
-        102020237,
-        102072841
+        102020437,
+        102072841,
+        85672001
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,21 +49,31 @@
     },
     "wof:country":"ID",
     "wof:created":1469055189,
-    "wof:geomhash":"2dd5ffc7124b925fcfa4712d245afc34",
+    "wof:geom_alt":[
+        "unknown"
+    ],
+    "wof:geomhash":"0e754d12342dccd73e571f6000fbf7f7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632203,
             "county_id":102072841,
-            "locality_id":102020237,
+            "locality_id":102020437,
             "neighbourhood_id":890498779,
             "region_id":85672001
         }
     ],
     "wof:id":890498779,
-    "wof:lastmodified":1505343834,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614744889,
     "wof:name":"Sukabumi Utara",
-    "wof:parent_id":102020237,
+    "wof:parent_id":102020437,
     "wof:placetype":"neighbourhood",
     "wof:population":0,
     "wof:repo":"whosonfirst-data-admin-id",
@@ -68,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.7781,
-    -6.2079,
-    106.7781,
-    -6.2079
+    106.771391,
+    -6.216594,
+    106.783502,
+    -6.20182
 ],
-  "geometry": {"coordinates":[106.77809999999999,-6.2079],"type":"Point"}
+  "geometry": {"coordinates":[[[106.77341199999999,-6.216594],[106.773726,-6.215212],[106.772006,-6.211895],[106.77139099999999,-6.209315],[106.772128,-6.207595],[106.772988,-6.206366],[106.77409400000001,-6.20526],[106.774586,-6.202189],[106.775937,-6.202434],[106.78036,-6.202557],[106.78269400000001,-6.20182],[106.78281699999999,-6.202926],[106.783421,-6.206749],[106.783502,-6.212322],[106.782613,-6.21313],[106.778009,-6.213695],[106.77695900000001,-6.216361],[106.77341199999999,-6.216594]]],"type":"Polygon"}
 }

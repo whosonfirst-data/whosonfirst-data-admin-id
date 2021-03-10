@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Larangan"
     ],
@@ -42,24 +43,37 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102072947
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6404832
     },
     "wof:country":"ID",
-    "wof:geomhash":"3f00195ed301b9e5881c1b841ade033a",
+    "wof:geomhash":"3e58feeaaa086fb09c870d6f14b37406",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209100279
+            "county_id":102072947,
+            "locality_id":1209100279,
+            "region_id":85671987
         }
     ],
     "wof:id":1209100279,
-    "wof:lastmodified":1564187358,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614717406,
     "wof:name":"Larangan",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072947,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
@@ -67,10 +81,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.88443999999998,
+    110.88444,
     -8.12333,
-    110.88443999999998,
+    110.88444,
     -8.12333
 ],
-  "geometry": {"coordinates":[110.88443999999998,-8.12333],"type":"Point"}
+  "geometry": {"coordinates":[110.88444,-8.12333],"type":"Point"}
 }

@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Salem"
     ],
@@ -152,15 +153,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        1108796793
+        1108796793,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6583336
     },
     "wof:country":"ID",
-    "wof:geomhash":"ee54f4dec59d218c73b8ba01ae797709",
+    "wof:geomhash":"6176dabcc32bdc4272e48ff10d20a80c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -171,7 +172,14 @@
         }
     ],
     "wof:id":1327394175,
-    "wof:lastmodified":1564167227,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614632338,
     "wof:name":"Salem",
     "wof:parent_id":1108796793,
     "wof:placetype":"locality",
@@ -181,10 +189,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.50388999999998,
+    107.50389,
     -6.80667,
-    107.50388999999998,
+    107.50389,
     -6.80667
 ],
-  "geometry": {"coordinates":[107.50388999999998,-6.80667],"type":"Point"}
+  "geometry": {"coordinates":[107.50389,-6.80667],"type":"Point"}
 }

@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Bontokapetta"
     ],
@@ -32,8 +33,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672041,
-        102072931
+        102072931,
+        85672041
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1327176771,
-    "wof:lastmodified":1537630918,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614633593,
     "wof:name":"Bontokapetta",
     "wof:parent_id":102072931,
     "wof:placetype":"locality",

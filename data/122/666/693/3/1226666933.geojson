@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Krajan Tengah"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073187
+        102073187,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6565656
     },
     "wof:country":"ID",
-    "wof:geomhash":"b7d2ff816d5d8954edb15c8e25e2b15d",
+    "wof:geomhash":"bd63f9ea1a27d00991e058b21e96d919",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1226666933,
-    "wof:lastmodified":1537629266,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614645224,
     "wof:name":"Krajan Tengah",
     "wof:parent_id":102073187,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.87111000000002,
+    109.87111,
     -7.63083,
-    109.87111000000002,
+    109.87111,
     -7.63083
 ],
-  "geometry": {"coordinates":[109.87111000000002,-7.63083],"type":"Point"}
+  "geometry": {"coordinates":[109.87111,-7.63083],"type":"Point"}
 }

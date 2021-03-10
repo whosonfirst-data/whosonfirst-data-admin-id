@@ -25,19 +25,20 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073265
+        102073265,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6258134
     },
     "wof:country":"ID",
-    "wof:geomhash":"6f4913d1e50ee35a080adfdae7fe7e5f",
+    "wof:geomhash":"88931245ed6114ecec26cd942d1fcd42",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +49,14 @@
         }
     ],
     "wof:id":1209836213,
-    "wof:lastmodified":1536394796,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614652037,
     "wof:name":"Jlegongan Wetan",
     "wof:parent_id":102073265,
     "wof:placetype":"locality",
@@ -58,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.32361000000002,
+    110.32361,
     -7.66083,
-    110.32361000000002,
+    110.32361,
     -7.66083
 ],
-  "geometry": {"coordinates":[110.32361000000002,-7.66083],"type":"Point"}
+  "geometry": {"coordinates":[110.32361,-7.66083],"type":"Point"}
 }

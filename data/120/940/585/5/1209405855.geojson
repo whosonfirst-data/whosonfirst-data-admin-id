@@ -25,29 +25,43 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Janggir"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102072947
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6407071
     },
     "wof:country":"ID",
-    "wof:geomhash":"d280f07edaf92402c9c6c0ea9c490779",
+    "wof:geomhash":"791684a17a918f376cb8e527af9b7012",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209405855
+            "county_id":102072947,
+            "locality_id":1209405855,
+            "region_id":85671987
         }
     ],
     "wof:id":1209405855,
-    "wof:lastmodified":1537628978,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614717424,
     "wof:name":"Janggir",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072947,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
@@ -55,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.19138999999998,
+    111.19139,
     -7.795,
-    111.19138999999998,
+    111.19139,
     -7.795
 ],
-  "geometry": {"coordinates":[111.19138999999998,-7.795],"type":"Point"}
+  "geometry": {"coordinates":[111.19139,-7.795],"type":"Point"}
 }

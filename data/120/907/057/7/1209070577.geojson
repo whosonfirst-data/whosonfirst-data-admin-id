@@ -25,9 +25,13 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672111,
+        102073435
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,14 +41,24 @@
     "wof:geomhash":"79155d34d1bc5aa214f1556abad06861",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209070577
+            "county_id":102073435,
+            "locality_id":1209070577,
+            "region_id":85672111
         }
     ],
     "wof:id":1209070577,
-    "wof:lastmodified":1536298660,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614721078,
     "wof:name":"Massasionan",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073435,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

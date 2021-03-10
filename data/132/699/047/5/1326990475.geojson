@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Cilutung Wetan"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072739
+        102072739,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6582395
     },
     "wof:country":"ID",
-    "wof:geomhash":"70dd9397c455f05e7a03edb46f05d578",
+    "wof:geomhash":"6b024aae3c97ebd4a156d8d000a12fdc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1326990475,
-    "wof:lastmodified":1537629499,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614633367,
     "wof:name":"Cilutung Wetan",
     "wof:parent_id":102072739,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.87111000000002,
+    107.87111,
     -6.73806,
-    107.87111000000002,
+    107.87111,
     -6.73806
 ],
-  "geometry": {"coordinates":[107.87111000000002,-6.73806],"type":"Point"}
+  "geometry": {"coordinates":[107.87111,-6.73806],"type":"Point"}
 }

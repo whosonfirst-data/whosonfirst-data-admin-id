@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Cilegong Selatan"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073471
+        102073471,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6592800
     },
     "wof:country":"ID",
-    "wof:geomhash":"45ee33edffa0bd5fe5033b693b955dbd",
+    "wof:geomhash":"fb5aceae6b883d2b25ba9ce21ae53a0b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1293450103,
-    "wof:lastmodified":1537629744,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614651166,
     "wof:name":"Cilegong Selatan",
     "wof:parent_id":102073471,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.41861000000002,
+    107.41861,
     -6.53083,
-    107.41861000000002,
+    107.41861,
     -6.53083
 ],
-  "geometry": {"coordinates":[107.41861000000002,-6.53083],"type":"Point"}
+  "geometry": {"coordinates":[107.41861,-6.53083],"type":"Point"}
 }

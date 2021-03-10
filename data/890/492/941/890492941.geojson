@@ -15,6 +15,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Karangtengah"
     ],
@@ -51,8 +52,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073309
+        102073309,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -75,7 +76,14 @@
         }
     ],
     "wof:id":890492941,
-    "wof:lastmodified":1563274347,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614642211,
     "wof:name":"Karangtengah",
     "wof:parent_id":102073309,
     "wof:placetype":"locality",

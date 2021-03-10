@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Sungaibulan"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672005,
-        102073497
+        102073497,
+        85672005
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":9022533
     },
     "wof:country":"ID",
-    "wof:geomhash":"4a9a3f2da7bc4c83d427e696d299dd03",
+    "wof:geomhash":"e09d681dc020c6c126fab698d25c2868",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1225825993,
-    "wof:lastmodified":1537636713,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614646037,
     "wof:name":"Sungaibulan",
     "wof:parent_id":102073497,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.98196000000002,
+    108.98196,
     0.95812,
-    108.98196000000002,
+    108.98196,
     0.95812
 ],
-  "geometry": {"coordinates":[108.98196000000002,0.95812],"type":"Point"}
+  "geometry": {"coordinates":[108.98196,0.95812],"type":"Point"}
 }

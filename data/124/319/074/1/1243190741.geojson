@@ -26,6 +26,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Woeri\u00ebnna",
         "Woeri\u00e8na",
@@ -36,15 +37,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672067,
-        102073445
+        102073445,
+        85672067
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1621292
     },
     "wof:country":"ID",
-    "wof:geomhash":"2ac595d9707735c05c0c373dc609abee",
+    "wof:geomhash":"d5ae899ea9aaa0181ab4c6383bb79b63",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -55,7 +56,14 @@
         }
     ],
     "wof:id":1243190741,
-    "wof:lastmodified":1537626390,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614643615,
     "wof:name":"Wurienna",
     "wof:parent_id":102073445,
     "wof:placetype":"locality",
@@ -65,10 +73,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    133.66666999999998,
+    133.66667,
     -3.08333,
-    133.66666999999998,
+    133.66667,
     -3.08333
 ],
-  "geometry": {"coordinates":[133.66666999999998,-3.08333],"type":"Point"}
+  "geometry": {"coordinates":[133.66667000000001,-3.08333],"type":"Point"}
 }

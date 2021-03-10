@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ace_x_preferred":[
         "Bangkok"
     ],
@@ -551,8 +552,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102073065
+        102073065,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -570,7 +571,14 @@
         }
     ],
     "wof:id":1277066975,
-    "wof:lastmodified":1564179956,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614651315,
     "wof:name":"Bangkok",
     "wof:parent_id":102073065,
     "wof:placetype":"locality",

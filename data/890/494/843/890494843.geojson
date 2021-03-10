@@ -15,6 +15,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u064a\u062f\u0627\u0646"
     ],
@@ -123,8 +124,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072887
+        102072887,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -146,7 +147,14 @@
         }
     ],
     "wof:id":890494843,
-    "wof:lastmodified":1564197251,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614642185,
     "wof:name":"Sedan",
     "wof:parent_id":102072887,
     "wof:placetype":"locality",

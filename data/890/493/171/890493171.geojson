@@ -15,6 +15,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:unk_x_variant":[
         "Boearan 1"
     ],
@@ -26,8 +27,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072647
+        102072647,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,7 +49,14 @@
         }
     ],
     "wof:id":890493171,
-    "wof:lastmodified":1505343802,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614642183,
     "wof:name":"Buaran",
     "wof:parent_id":102072647,
     "wof:placetype":"locality",

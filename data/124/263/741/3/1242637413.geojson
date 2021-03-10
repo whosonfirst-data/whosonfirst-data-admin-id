@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Pasirhonje"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072739
+        102072739,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6580709
     },
     "wof:country":"ID",
-    "wof:geomhash":"612e54dbf6cd69b1a86e6b1195bc5239",
+    "wof:geomhash":"a894791fbdcd7febd194d4a53d72175f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1242637413,
-    "wof:lastmodified":1537629450,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614643456,
     "wof:name":"Pasirhonje",
     "wof:parent_id":102072739,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.87111000000002,
+    107.87111,
     -6.79861,
-    107.87111000000002,
+    107.87111,
     -6.79861
 ],
-  "geometry": {"coordinates":[107.87111000000002,-6.79861],"type":"Point"}
+  "geometry": {"coordinates":[107.87111,-6.79861],"type":"Point"}
 }

@@ -26,30 +26,44 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bodjonggadung 2",
         "Bodjonggadung Dua"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671995,
+        102073479
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1960043
     },
     "wof:country":"ID",
-    "wof:geomhash":"3c290566212a69c43b7571b998cd186d",
+    "wof:geomhash":"a295bb67ab08fa944aa9b383e6f4f9ea",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209561209
+            "county_id":102073479,
+            "locality_id":1209561209,
+            "region_id":85671995
         }
     ],
     "wof:id":1209561209,
-    "wof:lastmodified":1537627537,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614721425,
     "wof:name":"Bodjonggadung Dua",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073479,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
@@ -57,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.36388999999998,
+    106.36389,
     -6.13972,
-    106.36388999999998,
+    106.36389,
     -6.13972
 ],
-  "geometry": {"coordinates":[106.36388999999998,-6.13972],"type":"Point"}
+  "geometry": {"coordinates":[106.36389,-6.13972],"type":"Point"}
 }

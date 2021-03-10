@@ -25,19 +25,20 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        85672037,
-        102073045
+        102073045,
+        85672037
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8379318
     },
     "wof:country":"ID",
-    "wof:geomhash":"3480f950a5fb8ebf48956f2b0b8e824e",
+    "wof:geomhash":"12b3e93bdecfb20429421ddda10e4810",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +49,14 @@
         }
     ],
     "wof:id":1259649461,
-    "wof:lastmodified":1536617553,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614643938,
     "wof:name":"Golo Menes",
     "wof:parent_id":102073045,
     "wof:placetype":"locality",
@@ -58,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    120.05313999999998,
+    120.05314,
     -8.61079,
-    120.05313999999998,
+    120.05314,
     -8.61079
 ],
-  "geometry": {"coordinates":[120.05313999999998,-8.61079],"type":"Point"}
+  "geometry": {"coordinates":[120.05314,-8.61079],"type":"Point"}
 }

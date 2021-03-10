@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Kilang"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672097,
-        1108796829
+        1108796829,
+        85672097
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7040621
     },
     "wof:country":"ID",
-    "wof:geomhash":"067c6afa163a6474e2d68f8b9e49ef4a",
+    "wof:geomhash":"ac0c8afc605c82202ec3e3ce8b097038",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1344107895,
-    "wof:lastmodified":1537632807,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614650536,
     "wof:name":"Kilang",
     "wof:parent_id":1108796829,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    128.22661000000002,
+    128.22661,
     -3.74245,
-    128.22661000000002,
+    128.22661,
     -3.74245
 ],
-  "geometry": {"coordinates":[128.22661000000002,-3.74245],"type":"Point"}
+  "geometry": {"coordinates":[128.22660999999999,-3.74245],"type":"Point"}
 }

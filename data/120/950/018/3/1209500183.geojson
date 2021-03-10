@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Lao"
     ],
@@ -69,7 +70,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672027,
+        102073305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -79,14 +83,24 @@
     "wof:geomhash":"3ac44519ca0bd05d22f268677c881960",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209500183
+            "county_id":102073305,
+            "locality_id":1209500183,
+            "region_id":85672027
         }
     ],
     "wof:id":1209500183,
-    "wof:lastmodified":1564185642,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614720134,
     "wof:name":"Lao",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073305,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

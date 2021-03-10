@@ -3,16 +3,17 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-02-12",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"106.802945,-6.1663215,106.802945,-6.1663215",
+    "geom:bbox":"106.802945,-6.166321,106.802945,-6.166321",
     "geom:latitude":-6.166321,
     "geom:longitude":106.802945,
     "gp:adm0":23424846,
     "iso:country":"ID",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "qs:name":"Petodjo",
     "qs:name_adm0":"Indonesia",
     "qs:name_adm1":"Jakarta Raya",
@@ -27,8 +28,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        102021905,
         102073177,
+        102021905,
         85672001
     ],
     "wof:breaches":[],
@@ -38,7 +39,7 @@
     },
     "wof:country":"ID",
     "wof:created":1469055181,
-    "wof:geomhash":"67b72d1eda3d5a6f040476e4a51d7cad",
+    "wof:geomhash":"60c7e2c38e2a5e614df8bc955fb27bab",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -50,7 +51,7 @@
         }
     ],
     "wof:id":890498597,
-    "wof:lastmodified":1500045937,
+    "wof:lastmodified":1613151697,
     "wof:name":"Petodjo",
     "wof:parent_id":102021905,
     "wof:placetype":"neighbourhood",
@@ -61,9 +62,9 @@
 },
   "bbox": [
     106.802945,
-    -6.1663215,
+    -6.166321,
     106.802945,
-    -6.1663215
+    -6.166321
 ],
-  "geometry": {"coordinates":[106.80294499999999,-6.1663215],"type":"Point"}
+  "geometry": {"coordinates":[106.80294499999999,-6.166321],"type":"Point"}
 }

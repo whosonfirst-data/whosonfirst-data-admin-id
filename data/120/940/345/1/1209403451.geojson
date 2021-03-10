@@ -25,26 +25,40 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672093,
+        102073189
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6255249
     },
     "wof:country":"ID",
-    "wof:geomhash":"0b09841ce9f6ccfc69f35a4d25afe291",
+    "wof:geomhash":"e762a996956a7c80e349beae3b8b0f44",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209403451
+            "county_id":102073189,
+            "locality_id":1209403451,
+            "region_id":85672093
         }
     ],
     "wof:id":1209403451,
-    "wof:lastmodified":1536288071,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614719090,
     "wof:name":"Pijiman",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073189,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
@@ -53,9 +67,9 @@
 },
   "bbox": [
     110.75833,
-    -7.948060000000001,
+    -7.94806,
     110.75833,
-    -7.948060000000001
+    -7.94806
 ],
   "geometry": {"coordinates":[110.75833,-7.94806],"type":"Point"}
 }

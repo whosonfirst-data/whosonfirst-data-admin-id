@@ -25,29 +25,43 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Cibeureum"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671983,
+        102073295
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6581712
     },
     "wof:country":"ID",
-    "wof:geomhash":"ffe150bbca8f379c1378dbe507f5f2c0",
+    "wof:geomhash":"62db3a1522e7c2dba33a36481ee8e026",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209575789
+            "county_id":102073295,
+            "locality_id":1209575789,
+            "region_id":85671983
         }
     ],
     "wof:id":1209575789,
-    "wof:lastmodified":1537629481,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614720018,
     "wof:name":"Cibeureum",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073295,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
@@ -55,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.67638999999998,
+    107.67639,
     -6.73583,
-    107.67638999999998,
+    107.67639,
     -6.73583
 ],
-  "geometry": {"coordinates":[107.67638999999998,-6.73583],"type":"Point"}
+  "geometry": {"coordinates":[107.67639,-6.73583],"type":"Point"}
 }

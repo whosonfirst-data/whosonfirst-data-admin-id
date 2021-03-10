@@ -25,26 +25,40 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102073405
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6255922
     },
     "wof:country":"ID",
-    "wof:geomhash":"90e0ca63fa41470535dff5359f5c184e",
+    "wof:geomhash":"f1c0a705c9bbcb9cba55e9d017d7b073",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209305647
+            "county_id":102073405,
+            "locality_id":1209305647,
+            "region_id":85671987
         }
     ],
     "wof:id":1209305647,
-    "wof:lastmodified":1536291206,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614720826,
     "wof:name":"Watukelir",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073405,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
@@ -53,9 +67,9 @@
 },
   "bbox": [
     110.77639,
-    -7.806389999999999,
+    -7.80639,
     110.77639,
-    -7.806389999999999
+    -7.80639
 ],
   "geometry": {"coordinates":[110.77639000000001,-7.80639],"type":"Point"}
 }

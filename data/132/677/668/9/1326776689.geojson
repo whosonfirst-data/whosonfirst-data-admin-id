@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Simargalih"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072937
+        102072937,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6594819
     },
     "wof:country":"ID",
-    "wof:geomhash":"3658e8b7986eb1b655e4c187e72f970a",
+    "wof:geomhash":"085f9aa591a775d5583aeb0ad6d28937",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1326776689,
-    "wof:lastmodified":1537629805,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614650051,
     "wof:name":"Simargalih",
     "wof:parent_id":102072937,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.31638999999998,
+    107.31639,
     -6.36167,
-    107.31638999999998,
+    107.31639,
     -6.36167
 ],
-  "geometry": {"coordinates":[107.31638999999998,-6.36167],"type":"Point"}
+  "geometry": {"coordinates":[107.31639,-6.36167],"type":"Point"}
 }

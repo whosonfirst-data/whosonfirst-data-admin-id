@@ -26,6 +26,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:und_x_variant":[
         "Tjikudjang 2",
         "Tjikudjang Dua"
@@ -34,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671995,
-        102072687
+        102072687,
+        85671995
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1960025
     },
     "wof:country":"ID",
-    "wof:geomhash":"054e1da06e3b92820352af4110aec93f",
+    "wof:geomhash":"91e5d1ef21763e6786b932b502f89fc1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +54,14 @@
         }
     ],
     "wof:id":1326776705,
-    "wof:lastmodified":1537627536,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614650053,
     "wof:name":"Tjikudjang Dua",
     "wof:parent_id":102072687,
     "wof:placetype":"locality",
@@ -63,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.36556000000002,
+    106.36556,
     -6.1225,
-    106.36556000000002,
+    106.36556,
     -6.1225
 ],
-  "geometry": {"coordinates":[106.36556000000002,-6.1225],"type":"Point"}
+  "geometry": {"coordinates":[106.36556,-6.1225],"type":"Point"}
 }

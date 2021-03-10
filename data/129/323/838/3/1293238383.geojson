@@ -26,6 +26,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:und_x_variant":[
         "Tjikohkol",
         "Cikohkol"
@@ -34,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072949
+        102072949,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1970548
     },
     "wof:country":"ID",
-    "wof:geomhash":"fa2555405bf120bce79c402f361b2443",
+    "wof:geomhash":"f280291a4be4ff81e46c2d550000479e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +54,14 @@
         }
     ],
     "wof:id":1293238383,
-    "wof:lastmodified":1537627996,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614650880,
     "wof:name":"Cikohkol",
     "wof:parent_id":102072949,
     "wof:placetype":"locality",
@@ -63,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.47556000000002,
+    107.47556,
     -7.11806,
-    107.47556000000002,
+    107.47556,
     -7.11806
 ],
-  "geometry": {"coordinates":[107.47556000000002,-7.11806],"type":"Point"}
+  "geometry": {"coordinates":[107.47556,-7.11806],"type":"Point"}
 }

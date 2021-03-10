@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kota\u2019\u00e4goeng",
         "Kotaagung",
@@ -34,8 +35,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671991,
-        102073577
+        102073577,
+        85671991
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,7 +54,14 @@
         }
     ],
     "wof:id":1276449467,
-    "wof:lastmodified":1537626970,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614636866,
     "wof:name":"Kotaagung",
     "wof:parent_id":102073577,
     "wof:placetype":"locality",

@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Sukamerta"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072715
+        102072715,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6388758
     },
     "wof:country":"ID",
-    "wof:geomhash":"a0ee0db7e724f83d8f5297cf98f77d91",
+    "wof:geomhash":"77494e6eecafddf71549f84c6e6cccee",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1226562767,
-    "wof:lastmodified":1537628676,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614654657,
     "wof:name":"Sukamerta",
     "wof:parent_id":102072715,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.13611000000002,
+    109.13611,
     -7.40278,
-    109.13611000000002,
+    109.13611,
     -7.40278
 ],
-  "geometry": {"coordinates":[109.13611000000002,-7.40278],"type":"Point"}
+  "geometry": {"coordinates":[109.13611,-7.40278],"type":"Point"}
 }

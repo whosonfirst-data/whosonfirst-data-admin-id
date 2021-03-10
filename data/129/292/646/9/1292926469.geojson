@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Kaliwuluh"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073153
+        102073153,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6373214
     },
     "wof:country":"ID",
-    "wof:geomhash":"2fb8dda56e03a5a25fe2bb132eb25661",
+    "wof:geomhash":"f732f79f611b2ee7e54639a4c845b12e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1292926469,
-    "wof:lastmodified":1537628391,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614650781,
     "wof:name":"Kaliwuluh",
     "wof:parent_id":102073153,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.64388999999998,
+    109.64389,
     -7.40194,
-    109.64388999999998,
+    109.64389,
     -7.40194
 ],
-  "geometry": {"coordinates":[109.64388999999998,-7.40194],"type":"Point"}
+  "geometry": {"coordinates":[109.64389,-7.40194],"type":"Point"}
 }

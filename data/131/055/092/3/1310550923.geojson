@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Cimapag"
     ],
@@ -35,15 +36,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073217
+        102073217,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1646416
     },
     "wof:country":"ID",
-    "wof:geomhash":"095502de1355e9ddd1b994f38c84801b",
+    "wof:geomhash":"29ee73a95d0a7da8a6d91be1ae234116",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,7 +55,14 @@
         }
     ],
     "wof:id":1310550923,
-    "wof:lastmodified":1537627193,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614640612,
     "wof:name":"Cimapag",
     "wof:parent_id":102073217,
     "wof:placetype":"locality",
@@ -64,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.60056000000002,
+    106.60056,
     -6.74333,
-    106.60056000000002,
+    106.60056,
     -6.74333
 ],
-  "geometry": {"coordinates":[106.60056000000002,-6.74333],"type":"Point"}
+  "geometry": {"coordinates":[106.60056,-6.74333],"type":"Point"}
 }

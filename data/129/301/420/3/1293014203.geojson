@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Meria"
     ],
@@ -110,8 +111,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671973,
-        102073537
+        102073537,
+        85671973
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -129,7 +130,14 @@
         }
     ],
     "wof:id":1293014203,
-    "wof:lastmodified":1564176259,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614635390,
     "wof:name":"Meria",
     "wof:parent_id":102073537,
     "wof:placetype":"locality",

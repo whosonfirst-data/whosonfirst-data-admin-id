@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Goenoengsailan",
         "Gunungsailan"
@@ -33,8 +34,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671991,
-        102073577
+        102073577,
+        85671991
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,7 +53,14 @@
         }
     ],
     "wof:id":1309719049,
-    "wof:lastmodified":1537627098,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614641816,
     "wof:name":"Gunungsailan",
     "wof:parent_id":102073577,
     "wof:placetype":"locality",

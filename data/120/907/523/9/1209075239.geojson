@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Pancuma"
     ],
@@ -34,7 +35,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672111,
+        102073371
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,14 +48,24 @@
     "wof:geomhash":"c6bbf8562ef964b43c2afa5f5e69d522",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209075239
+            "county_id":102073371,
+            "locality_id":1209075239,
+            "region_id":85672111
         }
     ],
     "wof:id":1209075239,
-    "wof:lastmodified":1537626759,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614720591,
     "wof:name":"Pancuma",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073371,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

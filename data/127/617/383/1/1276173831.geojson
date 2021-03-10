@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Rawabaru Tiga"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073471
+        102073471,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6591006
     },
     "wof:country":"ID",
-    "wof:geomhash":"4ed018cb4cfd85b97f3a7758403c92a2",
+    "wof:geomhash":"0305e1e82f0c2e7a6634b4c12a076aaa",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1276173831,
-    "wof:lastmodified":1537629682,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614651450,
     "wof:name":"Rawabaru Tiga",
     "wof:parent_id":102073471,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.30861000000002,
+    107.30861,
     -6.71806,
-    107.30861000000002,
+    107.30861,
     -6.71806
 ],
-  "geometry": {"coordinates":[107.30861000000002,-6.71806],"type":"Point"}
+  "geometry": {"coordinates":[107.30861,-6.71806],"type":"Point"}
 }

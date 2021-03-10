@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ara_x_preferred":[
         "\u062c\u0646\u0633 \u0627\u0644\u0628\u0642\u0631\u064a"
     ],
@@ -71,8 +72,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102073373
+        102073373,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -90,7 +91,14 @@
         }
     ],
     "wof:id":1326520265,
-    "wof:lastmodified":1564170297,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614650080,
     "wof:name":"Pecari",
     "wof:parent_id":102073373,
     "wof:placetype":"locality",

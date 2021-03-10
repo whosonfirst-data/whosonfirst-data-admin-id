@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fin_x_preferred":[
         "Namlea"
     ],
@@ -54,8 +55,7 @@
         102191569,
         85632203,
         85672085,
-        1108796815,
-        85672097
+        1108796815
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -71,17 +71,17 @@
             "county_id":1108796815,
             "locality_id":1360032569,
             "region_id":85672085
-        },
-        {
-            "continent_id":102191569,
-            "country_id":85632203,
-            "county_id":1108796815,
-            "locality_id":1360032569,
-            "region_id":85672097
         }
     ],
     "wof:id":1360032569,
-    "wof:lastmodified":1564195280,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614722513,
     "wof:name":"Namlea",
     "wof:parent_id":1108796815,
     "wof:placetype":"locality",

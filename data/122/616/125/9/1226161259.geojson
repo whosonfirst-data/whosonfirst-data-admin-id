@@ -26,6 +26,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Gohsena",
         "Gohsenah"
@@ -34,8 +35,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672067,
-        1108796861
+        1108796861,
+        85672067
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,7 +54,14 @@
         }
     ],
     "wof:id":1226161259,
-    "wof:lastmodified":1537627109,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614644992,
     "wof:name":"Gohsenah",
     "wof:parent_id":1108796861,
     "wof:placetype":"locality",

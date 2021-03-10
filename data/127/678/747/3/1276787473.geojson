@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Wonorejo"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072611
+        102072611,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6561501
     },
     "wof:country":"ID",
-    "wof:geomhash":"22426a2fe74f7d449eaa0413585a0485",
+    "wof:geomhash":"73b5c4b00cc62156908d7175c6eeba58",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1276787473,
-    "wof:lastmodified":1537629158,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614651723,
     "wof:name":"Wonorejo",
     "wof:parent_id":102072611,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.23888999999998,
+    111.23889,
     -7.18333,
-    111.23888999999998,
+    111.23889,
     -7.18333
 ],
-  "geometry": {"coordinates":[111.23888999999998,-7.18333],"type":"Point"}
+  "geometry": {"coordinates":[111.23889,-7.18333],"type":"Point"}
 }

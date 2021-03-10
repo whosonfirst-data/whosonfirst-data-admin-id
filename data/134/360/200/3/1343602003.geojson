@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Tebing"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672019,
-        102073367
+        102073367,
+        85672019
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8763031
     },
     "wof:country":"ID",
-    "wof:geomhash":"d462b15385281d85455a095e55b3b83c",
+    "wof:geomhash":"5ff8243e7b7ea146f2f3041a5d371b5a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1343602003,
-    "wof:lastmodified":1537636684,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614634736,
     "wof:name":"Tebing",
     "wof:parent_id":102073367,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    105.63743999999998,
+    105.63744,
     -1.86646,
-    105.63743999999998,
+    105.63744,
     -1.86646
 ],
-  "geometry": {"coordinates":[105.63743999999998,-1.86646],"type":"Point"}
+  "geometry": {"coordinates":[105.63744,-1.86646],"type":"Point"}
 }

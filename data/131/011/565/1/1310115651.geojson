@@ -26,6 +26,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sekelampijan",
         "Sekelampiyan"
@@ -34,8 +35,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672005,
-        102072839
+        102072839,
+        85672005
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,7 +54,14 @@
         }
     ],
     "wof:id":1310115651,
-    "wof:lastmodified":1537626618,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614640801,
     "wof:name":"Sekelampiyan",
     "wof:parent_id":102072839,
     "wof:placetype":"locality",

@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ace_x_preferred":[
         "Padang"
     ],
@@ -188,24 +189,16 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671977,
-        102073415,
-        1108805993
+        1108805993,
+        102073415
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8425611
     },
     "wof:country":"ID",
-    "wof:geomhash":"73be9bdf4f3b078e5fec5ebcd554269b",
+    "wof:geomhash":"d0270998631bfd931313aca381efe0af",
     "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632203,
-            "county_id":102073415,
-            "locality_id":1343387991,
-            "region_id":85671977
-        },
         {
             "continent_id":102191569,
             "country_id":85632203,
@@ -215,7 +208,14 @@
         }
     ],
     "wof:id":1343387991,
-    "wof:lastmodified":1564171587,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614720911,
     "wof:name":"Padang",
     "wof:parent_id":102073415,
     "wof:placetype":"locality",
@@ -225,10 +225,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    116.68668999999998,
+    116.68669,
     3.85746,
-    116.68668999999998,
+    116.68669,
     3.85746
 ],
-  "geometry": {"coordinates":[116.68668999999998,3.85746],"type":"Point"}
+  "geometry": {"coordinates":[116.68669,3.85746],"type":"Point"}
 }

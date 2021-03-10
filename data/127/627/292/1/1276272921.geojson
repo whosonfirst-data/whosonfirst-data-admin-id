@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:bre_x_preferred":[
         "Marica"
     ],
@@ -68,8 +69,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672041,
-        102073199
+        102073199,
+        85672041
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -87,7 +88,14 @@
         }
     ],
     "wof:id":1276272921,
-    "wof:lastmodified":1564180981,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614651504,
     "wof:name":"Marica",
     "wof:parent_id":102073199,
     "wof:placetype":"locality",

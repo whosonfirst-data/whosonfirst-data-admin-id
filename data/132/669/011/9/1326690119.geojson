@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Sadari"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072937
+        102072937,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1628275
     },
     "wof:country":"ID",
-    "wof:geomhash":"ac95d2712aba44377ae862aece8b110d",
+    "wof:geomhash":"6f2342eae2018c2c2390759ef6b05965",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1326690119,
-    "wof:lastmodified":1537626621,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614632660,
     "wof:name":"Sedari",
     "wof:parent_id":102072937,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.30046000000002,
+    107.30046,
     -5.9601,
-    107.30046000000002,
+    107.30046,
     -5.9601
 ],
-  "geometry": {"coordinates":[107.30046000000002,-5.9601],"type":"Point"}
+  "geometry": {"coordinates":[107.30046,-5.9601],"type":"Point"}
 }

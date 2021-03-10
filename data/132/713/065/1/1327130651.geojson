@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0648\u0631\u0648\u0646\u063a\u0627\u0646"
     ],
@@ -89,15 +90,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073233
+        102073233,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1998818
     },
     "wof:country":"ID",
-    "wof:geomhash":"6138ae2e56a825d6a1ff70688c4291d5",
+    "wof:geomhash":"65e41be5a5a8c9e60278fa513a84fe46",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -108,7 +109,14 @@
         }
     ],
     "wof:id":1327130651,
-    "wof:lastmodified":1564168847,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614632897,
     "wof:name":"Borongan",
     "wof:parent_id":102073233,
     "wof:placetype":"locality",
@@ -118,10 +126,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.50388999999998,
+    110.50389,
     -7.75389,
-    110.50388999999998,
+    110.50389,
     -7.75389
 ],
-  "geometry": {"coordinates":[110.50388999999998,-7.75389],"type":"Point"}
+  "geometry": {"coordinates":[110.50389,-7.75389],"type":"Point"}
 }

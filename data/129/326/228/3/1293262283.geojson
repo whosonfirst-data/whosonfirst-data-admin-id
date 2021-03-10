@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Purwosari"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672009,
-        102072963
+        102072963,
+        85672009
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7665007
     },
     "wof:country":"ID",
-    "wof:geomhash":"503c38d4de0d2aa60e8584bfc90a9252",
+    "wof:geomhash":"24f881f817848e1fe5cb48e5ba92e40d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1293262283,
-    "wof:lastmodified":1537634178,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614651266,
     "wof:name":"Purwosari",
     "wof:parent_id":102072963,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    105.29753999999998,
+    105.29754,
     -5.08535,
-    105.29753999999998,
+    105.29754,
     -5.08535
 ],
-  "geometry": {"coordinates":[105.29753999999998,-5.08535],"type":"Point"}
+  "geometry": {"coordinates":[105.29754,-5.08535],"type":"Point"}
 }

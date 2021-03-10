@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Baros"
     ],
@@ -65,15 +66,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072739
+        102072739,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6580576
     },
     "wof:country":"ID",
-    "wof:geomhash":"85290e2eeb0fc39539d7cbc8bd5330da",
+    "wof:geomhash":"55759e7d787310ea2d46eaf354ce5092",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -84,7 +85,14 @@
         }
     ],
     "wof:id":1326780399,
-    "wof:lastmodified":1564169867,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614633259,
     "wof:name":"Baros",
     "wof:parent_id":102072739,
     "wof:placetype":"locality",
@@ -94,10 +102,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.06638999999998,
+    108.06639,
     -6.86194,
-    108.06638999999998,
+    108.06639,
     -6.86194
 ],
-  "geometry": {"coordinates":[108.06638999999998,-6.86194],"type":"Point"}
+  "geometry": {"coordinates":[108.06639,-6.86194],"type":"Point"}
 }

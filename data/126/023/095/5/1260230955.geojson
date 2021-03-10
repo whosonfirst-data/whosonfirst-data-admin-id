@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Belendung Dua"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072937
+        102072937,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6607142
     },
     "wof:country":"ID",
-    "wof:geomhash":"141ae477f1c71c9874fb27f0f03bdf4f",
+    "wof:geomhash":"08a09d47f839fa0a8ea084fcd2d8f301",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1260230955,
-    "wof:lastmodified":1537630135,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614639790,
     "wof:name":"Belendung Dua",
     "wof:parent_id":102072937,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.44693999999998,
+    107.44694,
     -6.17667,
-    107.44693999999998,
+    107.44694,
     -6.17667
 ],
-  "geometry": {"coordinates":[107.44693999999998,-6.17667],"type":"Point"}
+  "geometry": {"coordinates":[107.44694,-6.17667],"type":"Point"}
 }

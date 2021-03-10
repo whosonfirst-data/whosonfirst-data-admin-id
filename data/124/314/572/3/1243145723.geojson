@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Buku"
     ],
@@ -39,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671977,
-        102072785
+        102072785,
+        85671977
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,7 +59,14 @@
         }
     ],
     "wof:id":1243145723,
-    "wof:lastmodified":1564199374,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614642876,
     "wof:name":"Buku",
     "wof:parent_id":102072785,
     "wof:placetype":"locality",

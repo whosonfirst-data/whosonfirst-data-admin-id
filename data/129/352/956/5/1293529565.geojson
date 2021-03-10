@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Ikisi"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672115,
-        1108796879
+        1108796879,
+        85672115
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8526651
     },
     "wof:country":"ID",
-    "wof:geomhash":"48205f8f96e929aa48ecbd3f7afa8a78",
+    "wof:geomhash":"cd17f8f2240a685e4a4890814a77ec1f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1293529565,
-    "wof:lastmodified":1537636296,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614635422,
     "wof:name":"Ikisi",
     "wof:parent_id":1108796879,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    139.93496000000002,
+    139.93496,
     -6.14809,
-    139.93496000000002,
+    139.93496,
     -6.14809
 ],
-  "geometry": {"coordinates":[139.93496000000002,-6.14809],"type":"Point"}
+  "geometry": {"coordinates":[139.93495999999999,-6.14809],"type":"Point"}
 }

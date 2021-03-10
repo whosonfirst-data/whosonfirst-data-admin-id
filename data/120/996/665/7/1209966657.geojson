@@ -25,19 +25,20 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        85671995,
-        102073479
+        102073479,
+        85671995
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1960267
     },
     "wof:country":"ID",
-    "wof:geomhash":"b7e098949eaa41203036541439d149bd",
+    "wof:geomhash":"f6addf79235b6ea5d31b196aded95423",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +49,14 @@
         }
     ],
     "wof:id":1209966657,
-    "wof:lastmodified":1536367566,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614638090,
     "wof:name":"Banter",
     "wof:parent_id":102073479,
     "wof:placetype":"locality",
@@ -58,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.30138999999998,
+    106.30139,
     -6.20889,
-    106.30138999999998,
+    106.30139,
     -6.20889
 ],
-  "geometry": {"coordinates":[106.30138999999998,-6.20889],"type":"Point"}
+  "geometry": {"coordinates":[106.30139,-6.20889],"type":"Point"}
 }

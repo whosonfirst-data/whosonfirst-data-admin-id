@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Suryanegara"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073193
+        102073193,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6404173
     },
     "wof:country":"ID",
-    "wof:geomhash":"38bbbb75dd461bdea90adda94d693c2f",
+    "wof:geomhash":"83a4057ed78416a0d078daaa252a28aa",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1310551199,
-    "wof:lastmodified":1537628886,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614653226,
     "wof:name":"Suryanegara",
     "wof:parent_id":102073193,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.44861000000002,
+    108.44861,
     -6.46694,
-    108.44861000000002,
+    108.44861,
     -6.46694
 ],
-  "geometry": {"coordinates":[108.44861000000002,-6.46694],"type":"Point"}
+  "geometry": {"coordinates":[108.44861,-6.46694],"type":"Point"}
 }

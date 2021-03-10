@@ -25,19 +25,20 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073169
+        102073169,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6200553
     },
     "wof:country":"ID",
-    "wof:geomhash":"f92a9fab2ece7e7607ced9cd0558bbe1",
+    "wof:geomhash":"2f72a57cde58ea182faec31962205cce",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +49,14 @@
         }
     ],
     "wof:id":1210037037,
-    "wof:lastmodified":1536386031,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614652436,
     "wof:name":"Kenalan",
     "wof:parent_id":102073169,
     "wof:placetype":"locality",
@@ -58,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.21193999999998,
+    110.21194,
     -7.34361,
-    110.21193999999998,
+    110.21194,
     -7.34361
 ],
-  "geometry": {"coordinates":[110.21193999999998,-7.34361],"type":"Point"}
+  "geometry": {"coordinates":[110.21194,-7.34361],"type":"Point"}
 }

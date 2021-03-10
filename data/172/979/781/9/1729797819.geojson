@@ -1,0 +1,72 @@
+{
+  "id": 1729797819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000083,
+    "geom:area_square_m":1022601.532309,
+    "geom:bbox":"112.723373,-7.269167,112.734001,-7.255898",
+    "geom:latitude":-7.262045,
+    "geom:longitude":112.728325,
+    "iso:country":"ID",
+    "lbl:latitude":-7.262022,
+    "lbl:longitude":112.728325,
+    "mps:latitude":-7.262022,
+    "mps:longitude":112.728325,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Sawahan"
+    ],
+    "name:ind_x_preferred":[
+        "Sawahan"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        102018911,
+        102073397,
+        85672027
+    ],
+    "wof:breaches":[],
+    "wof:country":"ID",
+    "wof:created":1613065503,
+    "wof:geomhash":"18d5b0785d2adb72d51fb77b94b5e8bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102073397,
+            "locality_id":102018911,
+            "neighbourhood_id":1729797819,
+            "region_id":85672027
+        }
+    ],
+    "wof:id":1729797819,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614723201,
+    "wof:name":"Sawahan",
+    "wof:parent_id":102018911,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    112.723373,
+    -7.269167,
+    112.734001,
+    -7.255898
+],
+  "geometry": {"coordinates":[[[112.73400100000001,-7.25596],[112.728841,-7.269167],[112.723373,-7.268184],[112.725216,-7.262287],[112.72484799999999,-7.261488],[112.725585,-7.259707],[112.726015,-7.257188],[112.725831,-7.255898],[112.727796,-7.256205],[112.73400100000001,-7.25596]]],"type":"Polygon"}
+}

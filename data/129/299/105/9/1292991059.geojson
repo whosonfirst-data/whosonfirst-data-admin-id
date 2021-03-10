@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Karangtalun Kidul"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102073013
+        102073013,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6405532
     },
     "wof:country":"ID",
-    "wof:geomhash":"2c85102b7993027f0024aaf6f7277b32",
+    "wof:geomhash":"9438da84967e35f3a0f20a3677cac023",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1292991059,
-    "wof:lastmodified":1537628930,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614636263,
     "wof:name":"Karangtalun Kidul",
     "wof:parent_id":102073013,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.25388999999998,
+    111.25389,
     -8.02111,
-    111.25388999999998,
+    111.25389,
     -8.02111
 ],
-  "geometry": {"coordinates":[111.25388999999998,-8.02111],"type":"Point"}
+  "geometry": {"coordinates":[111.25389,-8.02111],"type":"Point"}
 }

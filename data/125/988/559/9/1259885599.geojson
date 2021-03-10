@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-03-01",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -24,20 +25,20 @@
     "gn:timezone":"Asia/Jakarta",
     "iso:country":"ID",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        85672001,
-        102072841
+        102072841,
+        85672001
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1623678
     },
     "wof:country":"ID",
-    "wof:geomhash":"9f6365a9b215e71722d2e6ad6b0e0b61",
+    "wof:geomhash":"5511a8f13ba8f5a01b284bcaaf3bd09f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +49,14 @@
         }
     ],
     "wof:id":1259885599,
-    "wof:lastmodified":1536776628,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614708128,
     "wof:name":"Toapekong",
     "wof:parent_id":102072841,
     "wof:placetype":"locality",
@@ -58,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.78943999999998,
+    106.78944,
     -6.16861,
-    106.78943999999998,
+    106.78944,
     -6.16861
 ],
-  "geometry": {"coordinates":[106.78943999999998,-6.16861],"type":"Point"}
+  "geometry": {"coordinates":[106.78944,-6.16861],"type":"Point"}
 }

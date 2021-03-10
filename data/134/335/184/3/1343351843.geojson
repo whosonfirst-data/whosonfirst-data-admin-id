@@ -26,6 +26,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:und_x_variant":[
         "Djantur",
         "Jantur"
@@ -34,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102073201
+        102073201,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1972036
     },
     "wof:country":"ID",
-    "wof:geomhash":"fd1a98a7d5d1d621f0860e0075b27ffe",
+    "wof:geomhash":"37d86017a5bc58d8bcc32c6d63a05c58",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +54,14 @@
         }
     ],
     "wof:id":1343351843,
-    "wof:lastmodified":1537628064,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614650478,
     "wof:name":"Jantur",
     "wof:parent_id":102073201,
     "wof:placetype":"locality",
@@ -63,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    112.50388999999998,
+    112.50389,
     -7.83556,
-    112.50388999999998,
+    112.50389,
     -7.83556
 ],
-  "geometry": {"coordinates":[112.50388999999998,-7.83556],"type":"Point"}
+  "geometry": {"coordinates":[112.50389,-7.83556],"type":"Point"}
 }

@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Gunungsumping"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073119
+        102073119,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6391204
     },
     "wof:country":"ID",
-    "wof:geomhash":"e3afec223f7bbaa76da971110439b42e",
+    "wof:geomhash":"0447bf2a028a342ad80c48395dc84fe5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1360178485,
-    "wof:lastmodified":1537628742,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614641525,
     "wof:name":"Gunungsumping",
     "wof:parent_id":102073119,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.07361000000002,
+    109.07361,
     -7.23472,
-    109.07361000000002,
+    109.07361,
     -7.23472
 ],
-  "geometry": {"coordinates":[109.07361000000002,-7.23472],"type":"Point"}
+  "geometry": {"coordinates":[109.07361,-7.23472],"type":"Point"}
 }

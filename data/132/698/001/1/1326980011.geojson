@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Rancabawang"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072739
+        102072739,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6584126
     },
     "wof:country":"ID",
-    "wof:geomhash":"76bb6a7078c82aed0c73cbd2014ca48e",
+    "wof:geomhash":"9f4ea81ef1ec9006dc24d714a5636b56",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1326980011,
-    "wof:lastmodified":1537629547,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614650120,
     "wof:name":"Rancabawang",
     "wof:parent_id":102072739,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.80306000000002,
+    107.80306,
     -6.91833,
-    107.80306000000002,
+    107.80306,
     -6.91833
 ],
-  "geometry": {"coordinates":[107.80306000000002,-6.91833],"type":"Point"}
+  "geometry": {"coordinates":[107.80306,-6.91833],"type":"Point"}
 }

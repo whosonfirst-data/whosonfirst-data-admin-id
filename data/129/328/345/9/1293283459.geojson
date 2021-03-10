@@ -25,19 +25,20 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072857
+        102072857,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6260462
     },
     "wof:country":"ID",
-    "wof:geomhash":"86ce8626cf3e84d3a05064b15e2874ea",
+    "wof:geomhash":"532fdfa4afbbee9d3c3179795adb414b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +49,14 @@
         }
     ],
     "wof:id":1293283459,
-    "wof:lastmodified":1537078063,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614651237,
     "wof:name":"Pringtali",
     "wof:parent_id":102072857,
     "wof:placetype":"locality",
@@ -58,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.18361000000002,
+    110.18361,
     -7.53889,
-    110.18361000000002,
+    110.18361,
     -7.53889
 ],
-  "geometry": {"coordinates":[110.18361000000002,-7.53889],"type":"Point"}
+  "geometry": {"coordinates":[110.18361,-7.53889],"type":"Point"}
 }

@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Ilmarang"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672097,
-        1108796831
+        1108796831,
+        85672097
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1643148
     },
     "wof:country":"ID",
-    "wof:geomhash":"38e3a042220a8818dfd883e80f4bb7b8",
+    "wof:geomhash":"4c24a438281c3eb9dad5fb82507c7661",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1343712787,
-    "wof:lastmodified":1537627086,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614634408,
     "wof:name":"Ilmarang",
     "wof:parent_id":1108796831,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    130.00408000000002,
+    130.00408,
     -7.73501,
-    130.00408000000002,
+    130.00408,
     -7.73501
 ],
-  "geometry": {"coordinates":[130.00408000000002,-7.73501],"type":"Point"}
+  "geometry": {"coordinates":[130.00407999999999,-7.73501],"type":"Point"}
 }

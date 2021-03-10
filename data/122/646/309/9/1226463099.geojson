@@ -25,19 +25,20 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072929
+        102072929,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6266142
     },
     "wof:country":"ID",
-    "wof:geomhash":"c150c1d5787c1e9061b0293d2831139f",
+    "wof:geomhash":"3625a01ecd5b4ead20a39596613df46c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +49,14 @@
         }
     ],
     "wof:id":1226463099,
-    "wof:lastmodified":1536618383,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614645643,
     "wof:name":"Netep",
     "wof:parent_id":102072929,
     "wof:placetype":"locality",
@@ -58,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.94693999999998,
+    110.94694,
     -7.40222,
-    110.94693999999998,
+    110.94694,
     -7.40222
 ],
-  "geometry": {"coordinates":[110.94693999999998,-7.40222],"type":"Point"}
+  "geometry": {"coordinates":[110.94694,-7.40222],"type":"Point"}
 }

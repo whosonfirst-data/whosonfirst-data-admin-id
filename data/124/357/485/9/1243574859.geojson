@@ -25,19 +25,20 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072983
+        102072983,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1973238
     },
     "wof:country":"ID",
-    "wof:geomhash":"683b7e3ea601bd8e1ff32d48c664da95",
+    "wof:geomhash":"0ebad1179c171b6c7532d61d3b91dbf5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +49,14 @@
         }
     ],
     "wof:id":1243574859,
-    "wof:lastmodified":1536618410,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614654005,
     "wof:name":"Kadisono",
     "wof:parent_id":102072983,
     "wof:placetype":"locality",
@@ -58,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.64806000000002,
+    110.64806,
     -7.495,
-    110.64806000000002,
+    110.64806,
     -7.495
 ],
-  "geometry": {"coordinates":[110.64806000000002,-7.495],"type":"Point"}
+  "geometry": {"coordinates":[110.64806,-7.495],"type":"Point"}
 }

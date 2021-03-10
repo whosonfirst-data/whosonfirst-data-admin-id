@@ -4,18 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"106.8699,-6.2683,106.8699,-6.2683",
-    "geom:latitude":-6.2683,
-    "geom:longitude":106.8699,
+    "geom:area":0.000126,
+    "geom:area_square_m":1543787.652796,
+    "geom:bbox":"106.865537,-6.287331,106.876406,-6.263185",
+    "geom:latitude":-6.274462,
+    "geom:longitude":106.870849,
     "gn:country":"ID",
     "gn:fcode":"PPL",
     "gn:pop":0,
     "gp:adm0":23424846,
     "iso:country":"ID",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "name:ind_x_preferred":[
         "Kramatjati"
     ],
@@ -29,13 +29,17 @@
     "qs:photos_sr":0,
     "qs:placetype":"Suburb",
     "qs:pop_sr":"0",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "unknown"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
-        85672001,
         102191569,
         85632203,
         102020431,
-        102073493
+        102073493,
+        85672001
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,7 +49,10 @@
     },
     "wof:country":"ID",
     "wof:created":1469055031,
-    "wof:geomhash":"c01c55d57032d7d2c3f1f2ef1ffe666a",
+    "wof:geom_alt":[
+        "unknown"
+    ],
+    "wof:geomhash":"2989b2249022e4711af9a0a95e9b29b1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -57,7 +64,14 @@
         }
     ],
     "wof:id":890495407,
-    "wof:lastmodified":1505343815,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614744862,
     "wof:name":"Kramatjati",
     "wof:parent_id":102020431,
     "wof:placetype":"neighbourhood",
@@ -68,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.8699,
-    -6.2683,
-    106.8699,
-    -6.2683
+    106.865537,
+    -6.287331,
+    106.876406,
+    -6.263185
 ],
-  "geometry": {"coordinates":[106.8699,-6.2683],"type":"Point"}
+  "geometry": {"coordinates":[[[106.872883,-6.264915],[106.872417,-6.269574],[106.87290900000001,-6.275103],[106.875489,-6.279894],[106.876406,-6.283891],[106.875423,-6.28512],[106.87370300000001,-6.286225],[106.87247499999999,-6.286963],[106.870632,-6.287331],[106.87131100000001,-6.285914],[106.871557,-6.282351],[106.86922300000001,-6.279034],[106.86774800000001,-6.277191],[106.867503,-6.273751],[106.86713399999999,-6.269943],[106.865537,-6.268468],[106.86639700000001,-6.263185],[106.872883,-6.264915]]],"type":"Polygon"}
 }

@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Leuwidahu"
     ],
@@ -36,15 +37,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671995,
-        102072687
+        102072687,
+        85671995
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1960746
     },
     "wof:country":"ID",
-    "wof:geomhash":"fd11f0361632a4007d24c158de475ef1",
+    "wof:geomhash":"244a2fac76221209c52058b76cee3684",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -55,7 +56,14 @@
         }
     ],
     "wof:id":1260140335,
-    "wof:lastmodified":1537627575,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614639859,
     "wof:name":"Leuwidahu",
     "wof:parent_id":102072687,
     "wof:placetype":"locality",
@@ -65,10 +73,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.43361000000002,
+    106.43361,
     -6.26139,
-    106.43361000000002,
+    106.43361,
     -6.26139
 ],
-  "geometry": {"coordinates":[106.43361000000002,-6.26139],"type":"Point"}
+  "geometry": {"coordinates":[106.43361,-6.26139],"type":"Point"}
 }

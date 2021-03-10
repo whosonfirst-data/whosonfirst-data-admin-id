@@ -25,26 +25,40 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672027,
+        102073017
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1972154
     },
     "wof:country":"ID",
-    "wof:geomhash":"d5ce40ddba29b763c21191c4dfccf0fe",
+    "wof:geomhash":"76c9504e06ef9f3e90fff0cb16ae7688",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209199371
+            "county_id":102073017,
+            "locality_id":1209199371,
+            "region_id":85672027
         }
     ],
     "wof:id":1209199371,
-    "wof:lastmodified":1536294663,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614717949,
     "wof:name":"Sumberlebak",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073017,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
@@ -53,9 +67,9 @@
 },
   "bbox": [
     112.73611,
-    -7.973330000000002,
+    -7.97333,
     112.73611,
-    -7.973330000000002
+    -7.97333
 ],
   "geometry": {"coordinates":[112.73611,-7.97333],"type":"Point"}
 }

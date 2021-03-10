@@ -26,6 +26,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Wiedkabiena",
         "Wiedkabiene"
@@ -34,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672115,
-        102072939
+        102072939,
+        85672115
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2082387
     },
     "wof:country":"ID",
-    "wof:geomhash":"d82e7dd1a180da8bf5af56b584766f1b",
+    "wof:geomhash":"830943ce3dc0c6d39e09bdfa9cd1fa00",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +54,14 @@
         }
     ],
     "wof:id":1360295263,
-    "wof:lastmodified":1537628271,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614641506,
     "wof:name":"Wiedkabiene",
     "wof:parent_id":102072939,
     "wof:placetype":"locality",
@@ -63,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    140.33333000000002,
+    140.33333,
     -7.3,
-    140.33333000000002,
+    140.33333,
     -7.3
 ],
-  "geometry": {"coordinates":[140.33333000000002,-7.3],"type":"Point"}
+  "geometry": {"coordinates":[140.33332999999999,-7.3],"type":"Point"}
 }

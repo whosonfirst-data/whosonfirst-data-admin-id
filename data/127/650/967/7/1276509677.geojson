@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:bul_x_preferred":[
         "\u041d\u0430\u043c\u0430\u0442\u0430"
     ],
@@ -44,8 +45,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672037,
-        1108796853
+        1108796853,
+        85672037
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,7 +64,14 @@
         }
     ],
     "wof:id":1276509677,
-    "wof:lastmodified":1564181860,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614651625,
     "wof:name":"Namata",
     "wof:parent_id":1108796853,
     "wof:placetype":"locality",

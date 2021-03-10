@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Cane"
     ],
@@ -59,8 +60,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671973,
-        102073069
+        102073069,
+        85671973
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -78,7 +79,14 @@
         }
     ],
     "wof:id":1310715345,
-    "wof:lastmodified":1564191550,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614640394,
     "wof:name":"Cane",
     "wof:parent_id":102073069,
     "wof:placetype":"locality",

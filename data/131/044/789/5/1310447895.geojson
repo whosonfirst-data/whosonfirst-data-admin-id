@@ -25,19 +25,20 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073217
+        102073217,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1988127
     },
     "wof:country":"ID",
-    "wof:geomhash":"6d7f7a6c66101cdc5a86ce6c5effd724",
+    "wof:geomhash":"97c5ce7261f7114cd1daff1b581150a7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +49,14 @@
         }
     ],
     "wof:id":1310447895,
-    "wof:lastmodified":1536999339,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614640861,
     "wof:name":"Pabuaran",
     "wof:parent_id":102073217,
     "wof:placetype":"locality",
@@ -58,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.57361000000002,
+    106.57361,
     -6.35278,
-    106.57361000000002,
+    106.57361,
     -6.35278
 ],
-  "geometry": {"coordinates":[106.57361000000002,-6.35278],"type":"Point"}
+  "geometry": {"coordinates":[106.57361,-6.35278],"type":"Point"}
 }

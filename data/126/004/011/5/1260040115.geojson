@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Kebonmanggu"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073529
+        102073529,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6579376
     },
     "wof:country":"ID",
-    "wof:geomhash":"a39ffbf1724c7fb500b12cd692fdc4da",
+    "wof:geomhash":"298445974b8d1b03c36de773e6c17fff",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1260040115,
-    "wof:lastmodified":1537629424,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614653086,
     "wof:name":"Kebonmanggu",
     "wof:parent_id":102073529,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.12888999999998,
+    107.12889,
     -6.83139,
-    107.12888999999998,
+    107.12889,
     -6.83139
 ],
-  "geometry": {"coordinates":[107.12888999999998,-6.83139],"type":"Point"}
+  "geometry": {"coordinates":[107.12889,-6.83139],"type":"Point"}
 }

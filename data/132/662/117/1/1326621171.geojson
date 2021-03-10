@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Keputihan"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072639
+        102072639,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6372460
     },
     "wof:country":"ID",
-    "wof:geomhash":"19df36ecd2bc87111c99c094707cd292",
+    "wof:geomhash":"1c1a3f92325bdf342184160726f33296",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1326621171,
-    "wof:lastmodified":1537628368,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614633478,
     "wof:name":"Keputihan",
     "wof:parent_id":102072639,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.53943999999998,
+    109.53944,
     -7.58917,
-    109.53943999999998,
+    109.53944,
     -7.58917
 ],
-  "geometry": {"coordinates":[109.53943999999998,-7.58917],"type":"Point"}
+  "geometry": {"coordinates":[109.53944,-7.58917],"type":"Point"}
 }

@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:afr_x_preferred":[
         "Gamelan"
     ],
@@ -168,7 +169,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672093,
+        102072863
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -178,14 +182,24 @@
     "wof:geomhash":"3a0ff933f0f543ca47129e0c51a28928",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209094927
+            "county_id":102072863,
+            "locality_id":1209094927,
+            "region_id":85672093
         }
     ],
     "wof:id":1209094927,
-    "wof:lastmodified":1564183768,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614716928,
     "wof:name":"Gamelan",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072863,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

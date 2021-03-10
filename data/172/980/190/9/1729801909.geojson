@@ -1,0 +1,72 @@
+{
+  "id": 1729801909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000042,
+    "geom:area_square_m":521429.446534,
+    "geom:bbox":"106.792832,-6.155558,106.801158,-6.148556",
+    "geom:latitude":-6.152071,
+    "geom:longitude":106.797595,
+    "iso:country":"ID",
+    "lbl:latitude":-6.152246,
+    "lbl:longitude":106.797595,
+    "mps:latitude":-6.152246,
+    "mps:longitude":106.797595,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Jembatan Besi"
+    ],
+    "name:ind_x_preferred":[
+        "Jembatan Besi"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        102020437,
+        102072841,
+        85672001
+    ],
+    "wof:breaches":[],
+    "wof:country":"ID",
+    "wof:created":1613158563,
+    "wof:geomhash":"4d385cb82e9c7742165cd5dbb29c8a23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102072841,
+            "locality_id":102020437,
+            "neighbourhood_id":1729801909,
+            "region_id":85672001
+        }
+    ],
+    "wof:id":1729801909,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614723340,
+    "wof:name":"Jembatan Besi",
+    "wof:parent_id":102020437,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.792832,
+    -6.155558,
+    106.801158,
+    -6.148556
+],
+  "geometry": {"coordinates":[[[106.792832,-6.149977],[106.80085099999999,-6.148556],[106.801158,-6.153962],[106.801097,-6.154761],[106.79937700000001,-6.155191],[106.79547700000001,-6.155558],[106.79412000000001,-6.152553],[106.792832,-6.149977]]],"type":"Polygon"}
+}

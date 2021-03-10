@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Kampet"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672019,
-        1108796781
+        1108796781,
+        85672019
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8743730
     },
     "wof:country":"ID",
-    "wof:geomhash":"711a286bbb64ea31db041fb481434e02",
+    "wof:geomhash":"41a6f4cd771dd2356ed7769daef6318e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1276490335,
-    "wof:lastmodified":1537636674,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614637535,
     "wof:name":"Kampet",
     "wof:parent_id":1108796781,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.48248999999998,
+    106.48249,
     -2.86183,
-    106.48248999999998,
+    106.48249,
     -2.86183
 ],
-  "geometry": {"coordinates":[106.48248999999998,-2.86183],"type":"Point"}
+  "geometry": {"coordinates":[106.48249,-2.86183],"type":"Point"}
 }

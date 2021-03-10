@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:als_x_preferred":[
         "Jaun"
     ],
@@ -89,15 +90,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672115,
-        102073423
+        102073423,
+        85672115
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8520110
     },
     "wof:country":"ID",
-    "wof:geomhash":"3127be642413bced2f02dc6be1ab9d17",
+    "wof:geomhash":"ea322c627a9f69d6dad8a2ef0ff74c25",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -108,7 +109,14 @@
         }
     ],
     "wof:id":1243021229,
-    "wof:lastmodified":1564200290,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614643188,
     "wof:name":"Jaun",
     "wof:parent_id":102073423,
     "wof:placetype":"locality",
@@ -118,10 +126,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    138.10728999999998,
+    138.10729,
     -5.36306,
-    138.10728999999998,
+    138.10729,
     -5.36306
 ],
-  "geometry": {"coordinates":[138.10728999999998,-5.36306],"type":"Point"}
+  "geometry": {"coordinates":[138.10729000000001,-5.36306],"type":"Point"}
 }

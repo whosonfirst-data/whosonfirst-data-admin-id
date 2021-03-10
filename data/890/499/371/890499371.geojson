@@ -16,6 +16,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:bel_x_preferred":[
         "\u0422\u0440\u0430\u0432\u0443\u043b\u0430\u043d"
     ],
@@ -68,8 +69,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102073375
+        102073375,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -92,7 +93,14 @@
         }
     ],
     "wof:id":890499371,
-    "wof:lastmodified":1563273810,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614653724,
     "wof:name":"Trowulan",
     "wof:parent_id":102073375,
     "wof:placetype":"locality",

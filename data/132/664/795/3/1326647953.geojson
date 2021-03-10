@@ -26,6 +26,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Rusu"
     ],
@@ -55,8 +56,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672111,
-        102073447
+        102073447,
+        85672111
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -74,7 +75,14 @@
         }
     ],
     "wof:id":1326647953,
-    "wof:lastmodified":1564170325,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614633421,
     "wof:name":"Rusu",
     "wof:parent_id":102073447,
     "wof:placetype":"locality",

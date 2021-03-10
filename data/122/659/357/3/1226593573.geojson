@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tjogreg",
         "Cogreg"
@@ -33,15 +34,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072949
+        102072949,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1964614
     },
     "wof:country":"ID",
-    "wof:geomhash":"97e3f211daa1c34d23801c2a43eaacaa",
+    "wof:geomhash":"004d0c24021c57235261bd05f587fd90",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,7 +53,14 @@
         }
     ],
     "wof:id":1226593573,
-    "wof:lastmodified":1537627771,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614645209,
     "wof:name":"Cogreg",
     "wof:parent_id":102072949,
     "wof:placetype":"locality",
@@ -62,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.55306000000002,
+    107.55306,
     -7.08306,
-    107.55306000000002,
+    107.55306,
     -7.08306
 ],
-  "geometry": {"coordinates":[107.55306000000002,-7.08306],"type":"Point"}
+  "geometry": {"coordinates":[107.55306,-7.08306],"type":"Point"}
 }

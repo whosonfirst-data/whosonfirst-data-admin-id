@@ -25,19 +25,20 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        85672097,
-        1108796831
+        1108796831,
+        85672097
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1624383
     },
     "wof:country":"ID",
-    "wof:geomhash":"6c39b096cf5cfb860557d818fe738a53",
+    "wof:geomhash":"1661d35922f477c6b49fdd7578148bf7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +49,14 @@
         }
     ],
     "wof:id":1209932707,
-    "wof:lastmodified":1536392019,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614638703,
     "wof:name":"Telalora",
     "wof:parent_id":1108796831,
     "wof:placetype":"locality",
@@ -58,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    129.82318999999998,
+    129.82319,
     -8.20811,
-    129.82318999999998,
+    129.82319,
     -8.20811
 ],
-  "geometry": {"coordinates":[129.82318999999998,-8.20811],"type":"Point"}
+  "geometry": {"coordinates":[129.82319000000001,-8.20811],"type":"Point"}
 }

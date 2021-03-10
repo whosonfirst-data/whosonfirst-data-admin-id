@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Laladon"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073217
+        102073217,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6597869
     },
     "wof:country":"ID",
-    "wof:geomhash":"b8f2c42e3455ddfd8d9e4fc34871249c",
+    "wof:geomhash":"97f59a205019a3ecd686bb0d7c0e4aa5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1260226931,
-    "wof:lastmodified":1537629904,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614639867,
     "wof:name":"Laladon",
     "wof:parent_id":102073217,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.75943999999998,
+    106.75944,
     -6.58444,
-    106.75943999999998,
+    106.75944,
     -6.58444
 ],
-  "geometry": {"coordinates":[106.75943999999998,-6.58444],"type":"Point"}
+  "geometry": {"coordinates":[106.75944,-6.58444],"type":"Point"}
 }

@@ -26,6 +26,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Pekajon 1",
         "Pekajon",
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671995,
-        102072687
+        102072687,
+        85671995
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,7 +56,14 @@
         }
     ],
     "wof:id":1326791013,
-    "wof:lastmodified":1537626722,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614633288,
     "wof:name":"Pekayonpusat",
     "wof:parent_id":102072687,
     "wof:placetype":"locality",

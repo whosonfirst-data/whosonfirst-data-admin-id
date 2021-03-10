@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Seboro"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102072775
+        102072775,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6409267
     },
     "wof:country":"ID",
-    "wof:geomhash":"d234c556e034e8b3bc94df27f1685630",
+    "wof:geomhash":"b4f5af6235a489c1fc7067d1ef8f2e16",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1293190895,
-    "wof:lastmodified":1537629035,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614651258,
     "wof:name":"Seboro",
     "wof:parent_id":102072775,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.26888999999998,
+    111.26889,
     -7.53722,
-    111.26888999999998,
+    111.26889,
     -7.53722
 ],
-  "geometry": {"coordinates":[111.26888999999998,-7.53722],"type":"Point"}
+  "geometry": {"coordinates":[111.26889,-7.53722],"type":"Point"}
 }

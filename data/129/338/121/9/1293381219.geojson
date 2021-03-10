@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ara_x_preferred":[
         "\u062c\u0648\u0646\u062a\u0648\u0631"
     ],
@@ -179,15 +180,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073405
+        102073405,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1934113
     },
     "wof:country":"ID",
-    "wof:geomhash":"ff5a84ce4622a1f87483173a0ce94f25",
+    "wof:geomhash":"f0f5e3633c42635ee18ca2cf62edc63f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -198,7 +199,14 @@
         }
     ],
     "wof:id":1293381219,
-    "wof:lastmodified":1564175793,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614650666,
     "wof:name":"Guntur",
     "wof:parent_id":102073405,
     "wof:placetype":"locality",
@@ -208,10 +216,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.85056000000002,
+    110.85056,
     -7.63861,
-    110.85056000000002,
+    110.85056,
     -7.63861
 ],
-  "geometry": {"coordinates":[110.85056000000002,-7.63861],"type":"Point"}
+  "geometry": {"coordinates":[110.85056,-7.63861],"type":"Point"}
 }

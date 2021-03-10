@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Kedunggede"
     ],
@@ -37,15 +38,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073551
+        102073551,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1640617
     },
     "wof:country":"ID",
-    "wof:geomhash":"0cf535e338333605d9d52631a5da20bf",
+    "wof:geomhash":"e7fa19f161df43f6bcfdb616eda9b25b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -56,7 +57,14 @@
         }
     ],
     "wof:id":1276384253,
-    "wof:lastmodified":1537626996,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614651864,
     "wof:name":"Kedunggede",
     "wof:parent_id":102073551,
     "wof:placetype":"locality",
@@ -66,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.26888999999998,
+    107.26889,
     -6.26889,
-    107.26888999999998,
+    107.26889,
     -6.26889
 ],
-  "geometry": {"coordinates":[107.26888999999998,-6.26889],"type":"Point"}
+  "geometry": {"coordinates":[107.26889,-6.26889],"type":"Point"}
 }

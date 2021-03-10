@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Seijawi"
     ],
@@ -34,24 +35,37 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672005,
+        1108796797
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1642666
     },
     "wof:country":"ID",
-    "wof:geomhash":"bf4cc36663b4bf304a0f0cccd2874782",
+    "wof:geomhash":"2ccea45115f6c80b0738a605560cc7b2",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209593343
+            "county_id":1108796797,
+            "locality_id":1209593343,
+            "region_id":85672005
         }
     ],
     "wof:id":1209593343,
-    "wof:lastmodified":1537627069,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614722457,
     "wof:name":"Seijawi",
-    "wof:parent_id":85632203,
+    "wof:parent_id":1108796797,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
@@ -59,10 +73,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.26458999999998,
+    109.26459,
     -0.83069,
-    109.26458999999998,
+    109.26459,
     -0.83069
 ],
-  "geometry": {"coordinates":[109.26458999999998,-0.83069],"type":"Point"}
+  "geometry": {"coordinates":[109.26459,-0.83069],"type":"Point"}
 }

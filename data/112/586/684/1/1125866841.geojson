@@ -18,6 +18,7 @@
     "lbl:longitude":132.75,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
         "Tual"
@@ -95,8 +96,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672097,
-        1108796845
+        1108796845,
+        85672097
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -118,7 +119,14 @@
         }
     ],
     "wof:id":1125866841,
-    "wof:lastmodified":1563274361,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614653776,
     "wof:name":"Tual",
     "wof:parent_id":1108796845,
     "wof:placetype":"locality",

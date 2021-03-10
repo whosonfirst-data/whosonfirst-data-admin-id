@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Dukuh Tiga"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072647
+        102072647,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6762944
     },
     "wof:country":"ID",
-    "wof:geomhash":"770ea7e8963af325ae7b39bd3c375694",
+    "wof:geomhash":"33f42391820e8faf28bb636e54803f8d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1327427699,
-    "wof:lastmodified":1537631421,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614650155,
     "wof:name":"Dukuh Tiga",
     "wof:parent_id":102072647,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.64813999999998,
+    109.64814,
     -6.88371,
-    109.64813999999998,
+    109.64814,
     -6.88371
 ],
-  "geometry": {"coordinates":[109.64813999999998,-6.88371],"type":"Point"}
+  "geometry": {"coordinates":[109.64814,-6.88371],"type":"Point"}
 }

@@ -25,19 +25,20 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072857
+        102072857,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6258758
     },
     "wof:country":"ID",
-    "wof:geomhash":"136c13867a284a612ea063e65b83ae25",
+    "wof:geomhash":"972a2529652bf21e9ea5fe04d9fc5970",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +49,14 @@
         }
     ],
     "wof:id":1276894891,
-    "wof:lastmodified":1537020224,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614651486,
     "wof:name":"Legoksari",
     "wof:parent_id":102072857,
     "wof:placetype":"locality",
@@ -58,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.26111000000002,
+    110.26111,
     -7.53111,
-    110.26111000000002,
+    110.26111,
     -7.53111
 ],
-  "geometry": {"coordinates":[110.26111000000002,-7.53111],"type":"Point"}
+  "geometry": {"coordinates":[110.26111,-7.53111],"type":"Point"}
 }

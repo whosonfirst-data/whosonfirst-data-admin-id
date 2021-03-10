@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Baja"
     ],
@@ -79,8 +80,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672085,
-        102073503
+        102073503,
+        85672085
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -98,7 +99,14 @@
         }
     ],
     "wof:id":1243381621,
-    "wof:lastmodified":1564197452,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614642229,
     "wof:name":"Baja",
     "wof:parent_id":102073503,
     "wof:placetype":"locality",

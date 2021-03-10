@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Airasam"
     ],
@@ -35,15 +36,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672019,
-        1108796783
+        1108796783,
+        85672019
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1651144
     },
     "wof:country":"ID",
-    "wof:geomhash":"1f502b4dfeee62deb1b3e56f91f4cba2",
+    "wof:geomhash":"8b87a013444b614e2340be783a09d836",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,7 +55,14 @@
         }
     ],
     "wof:id":1193208653,
-    "wof:lastmodified":1537627369,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614639642,
     "wof:name":"Airasam",
     "wof:parent_id":1108796783,
     "wof:placetype":"locality",
@@ -64,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.85571000000002,
+    107.85571,
     -2.95097,
-    107.85571000000002,
+    107.85571,
     -2.95097
 ],
-  "geometry": {"coordinates":[107.85571000000002,-2.95097],"type":"Point"}
+  "geometry": {"coordinates":[107.85571,-2.95097],"type":"Point"}
 }

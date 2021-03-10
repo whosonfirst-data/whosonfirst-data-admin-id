@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Duren"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672019,
-        1108796781
+        1108796781,
+        85672019
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8743588
     },
     "wof:country":"ID",
-    "wof:geomhash":"05e80f85d65083b46bbaedc212bbb22c",
+    "wof:geomhash":"9c2e09dbaf1912f0b8403620fb220f15",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1260020391,
-    "wof:lastmodified":1537636674,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614640245,
     "wof:name":"Duren",
     "wof:parent_id":1108796781,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.45031000000002,
+    106.45031,
     -2.92833,
-    106.45031000000002,
+    106.45031,
     -2.92833
 ],
-  "geometry": {"coordinates":[106.45031000000002,-2.92833],"type":"Point"}
+  "geometry": {"coordinates":[106.45031,-2.92833],"type":"Point"}
 }

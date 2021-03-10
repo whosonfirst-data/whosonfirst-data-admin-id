@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Wangura Migodo"
     ],
@@ -36,15 +37,14 @@
         102191569,
         85632203,
         85672085,
-        1108796815,
-        85672097
+        1108796815
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8044367
     },
     "wof:country":"ID",
-    "wof:geomhash":"440b29cb6dd247d23e04fbd32784c7ee",
+    "wof:geomhash":"56a6edf8585fb1d300b89df19abc32fa",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,17 +52,17 @@
             "county_id":1108796815,
             "locality_id":1293640127,
             "region_id":85672085
-        },
-        {
-            "continent_id":102191569,
-            "country_id":85632203,
-            "county_id":1108796815,
-            "locality_id":1293640127,
-            "region_id":85672097
         }
     ],
     "wof:id":1293640127,
-    "wof:lastmodified":1537635118,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614722524,
     "wof:name":"Wangura Migodo",
     "wof:parent_id":1108796815,
     "wof:placetype":"locality",
@@ -72,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    126.83216000000002,
+    126.83216,
     -3.36174,
-    126.83216000000002,
+    126.83216,
     -3.36174
 ],
-  "geometry": {"coordinates":[126.83216000000002,-3.36174],"type":"Point"}
+  "geometry": {"coordinates":[126.83216,-3.36174],"type":"Point"}
 }

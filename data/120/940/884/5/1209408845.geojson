@@ -25,29 +25,43 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Nglobang"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102072733
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6560381
     },
     "wof:country":"ID",
-    "wof:geomhash":"535faf53f2574a36f6b66ca1364f104d",
+    "wof:geomhash":"8bb74a1704966c9a37bf278ce3ea82a7",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209408845
+            "county_id":102072733,
+            "locality_id":1209408845,
+            "region_id":85671987
         }
     ],
     "wof:id":1209408845,
-    "wof:lastmodified":1537629132,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614715847,
     "wof:name":"Nglobang",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072733,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
@@ -55,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.07193999999998,
+    111.07194,
     -7.66694,
-    111.07193999999998,
+    111.07194,
     -7.66694
 ],
-  "geometry": {"coordinates":[111.07193999999998,-7.66694],"type":"Point"}
+  "geometry": {"coordinates":[111.07194,-7.66694],"type":"Point"}
 }

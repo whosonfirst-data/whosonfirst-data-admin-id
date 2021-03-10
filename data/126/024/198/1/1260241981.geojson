@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Karangsambung"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073217
+        102073217,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6590798
     },
     "wof:country":"ID",
-    "wof:geomhash":"5a0d412068f0db11af65eb9c282452e0",
+    "wof:geomhash":"7e5cac69c9a07f0746f1af82fe327204",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1260241981,
-    "wof:lastmodified":1537629676,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614639763,
     "wof:name":"Karangsambung",
     "wof:parent_id":102073217,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.08556000000002,
+    107.08556,
     -6.58361,
-    107.08556000000002,
+    107.08556,
     -6.58361
 ],
-  "geometry": {"coordinates":[107.08556000000002,-6.58361],"type":"Point"}
+  "geometry": {"coordinates":[107.08556,-6.58361],"type":"Point"}
 }

@@ -25,26 +25,40 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102072857
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6259324
     },
     "wof:country":"ID",
-    "wof:geomhash":"c6e5165b1cfac4d11da0ccad7f7dcfbd",
+    "wof:geomhash":"9c68ceab733e17b483175c714318866b",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209126757
+            "county_id":102072857,
+            "locality_id":1209126757,
+            "region_id":85671987
         }
     ],
     "wof:id":1209126757,
-    "wof:lastmodified":1536296933,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614716828,
     "wof:name":"Clapar",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072857,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
@@ -52,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.26888999999998,
+    110.26889,
     -7.60556,
-    110.26888999999998,
+    110.26889,
     -7.60556
 ],
-  "geometry": {"coordinates":[110.26888999999998,-7.60556],"type":"Point"}
+  "geometry": {"coordinates":[110.26889,-7.60556],"type":"Point"}
 }

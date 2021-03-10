@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bade"
     ],
@@ -66,7 +67,7 @@
         "gn:id":1650833
     },
     "wof:country":"ID",
-    "wof:geomhash":"59e7c5dd4e69836a0a15868b403745b2",
+    "wof:geomhash":"debabde67342ab39938cdae85b69377b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -76,7 +77,14 @@
         }
     ],
     "wof:id":1327274129,
-    "wof:lastmodified":1564171221,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614633726,
     "wof:name":"Bade",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
@@ -86,10 +94,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    139.58333000000002,
+    139.58333,
     -7.16667,
-    139.58333000000002,
+    139.58333,
     -7.16667
 ],
-  "geometry": {"coordinates":[139.58333000000002,-7.16667],"type":"Point"}
+  "geometry": {"coordinates":[139.58332999999999,-7.16667],"type":"Point"}
 }

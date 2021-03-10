@@ -25,26 +25,40 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102073405
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1934522
     },
     "wof:country":"ID",
-    "wof:geomhash":"fb975e20d043f0cdef12449f8c452d64",
+    "wof:geomhash":"835e87f7cb0edb9488d1541f38f7e583",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209205677
+            "county_id":102073405,
+            "locality_id":1209205677,
+            "region_id":85671987
         }
     ],
     "wof:id":1209205677,
-    "wof:lastmodified":1536294464,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614720817,
     "wof:name":"Plumbungan",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073405,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
@@ -52,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.85611000000002,
+    110.85611,
     -7.71167,
-    110.85611000000002,
+    110.85611,
     -7.71167
 ],
-  "geometry": {"coordinates":[110.85611000000002,-7.71167],"type":"Point"}
+  "geometry": {"coordinates":[110.85611,-7.71167],"type":"Point"}
 }

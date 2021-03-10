@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Kamal"
     ],
@@ -38,15 +39,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672097,
-        1108796839
+        1108796839,
+        85672097
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8043371
     },
     "wof:country":"ID",
-    "wof:geomhash":"d6f2fbf49b83c862e49a26da7dd6a2c2",
+    "wof:geomhash":"5bff605b73eb5179cf2673dfab340f2a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -57,7 +58,14 @@
         }
     ],
     "wof:id":1242825295,
-    "wof:lastmodified":1564200617,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614643302,
     "wof:name":"Kamal",
     "wof:parent_id":1108796839,
     "wof:placetype":"locality",
@@ -67,10 +75,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    128.28731000000002,
+    128.28731,
     -3.21957,
-    128.28731000000002,
+    128.28731,
     -3.21957
 ],
-  "geometry": {"coordinates":[128.28731000000002,-3.21957],"type":"Point"}
+  "geometry": {"coordinates":[128.28730999999999,-3.21957],"type":"Point"}
 }

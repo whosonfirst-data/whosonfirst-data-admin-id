@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Nusa"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072739
+        102072739,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6584510
     },
     "wof:country":"ID",
-    "wof:geomhash":"f68f220129053d44e004927db9cff550",
+    "wof:geomhash":"79b9ba9dd5c229a86e7a18d933cdbc07",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1243514531,
-    "wof:lastmodified":1537629562,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614643078,
     "wof:name":"Nusa",
     "wof:parent_id":102072739,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.83556000000002,
+    107.83556,
     -6.96528,
-    107.83556000000002,
+    107.83556,
     -6.96528
 ],
-  "geometry": {"coordinates":[107.83556000000002,-6.96528],"type":"Point"}
+  "geometry": {"coordinates":[107.83556,-6.96528],"type":"Point"}
 }

@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Galba"
     ],
@@ -224,8 +225,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102072581
+        102072581,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -243,7 +244,14 @@
         }
     ],
     "wof:id":1209800433,
-    "wof:lastmodified":1564186970,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614639028,
     "wof:name":"Galba",
     "wof:parent_id":102072581,
     "wof:placetype":"locality",

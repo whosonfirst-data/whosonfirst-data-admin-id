@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Nephelium ramboutan-ake"
     ],
@@ -83,8 +84,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672087,
-        102072835
+        102072835,
+        85672087
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -102,7 +103,14 @@
         }
     ],
     "wof:id":1310063439,
-    "wof:lastmodified":1564192704,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614640734,
     "wof:name":"Pulasan",
     "wof:parent_id":102072835,
     "wof:placetype":"locality",

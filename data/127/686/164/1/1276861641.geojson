@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ara_x_preferred":[
         "\u062e\u0634\u0628 \u0645\u0646\u0634\u0648\u0631"
     ],
@@ -116,8 +117,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102073061
+        102073061,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -135,7 +136,14 @@
         }
     ],
     "wof:id":1276861641,
-    "wof:lastmodified":1564180162,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614651364,
     "wof:name":"Lumber",
     "wof:parent_id":102073061,
     "wof:placetype":"locality",

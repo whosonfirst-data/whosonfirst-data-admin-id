@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Sukamantri"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073449
+        102073449,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6593321
     },
     "wof:country":"ID",
-    "wof:geomhash":"1467e13142c7e7770d7d03842f61c363",
+    "wof:geomhash":"15aca42e80a460760d21b709ec7d7824",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1344018297,
-    "wof:lastmodified":1537629761,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614650331,
     "wof:name":"Sukamantri",
     "wof:parent_id":102073449,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.62888999999998,
+    107.62889,
     -6.89917,
-    107.62888999999998,
+    107.62889,
     -6.89917
 ],
-  "geometry": {"coordinates":[107.62888999999998,-6.89917],"type":"Point"}
+  "geometry": {"coordinates":[107.62889,-6.89917],"type":"Point"}
 }

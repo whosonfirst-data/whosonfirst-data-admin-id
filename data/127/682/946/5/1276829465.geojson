@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Panyandungan"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073529
+        102073529,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6588857
     },
     "wof:country":"ID",
-    "wof:geomhash":"9fdc8f148abeed5c857839d348f02710",
+    "wof:geomhash":"1d112a91fc0a06071cf6fb3fc8bbd313",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1276829465,
-    "wof:lastmodified":1537629627,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614637509,
     "wof:name":"Panyandungan",
     "wof:parent_id":102073529,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.16443999999998,
+    107.16444,
     -6.99278,
-    107.16443999999998,
+    107.16444,
     -6.99278
 ],
-  "geometry": {"coordinates":[107.16443999999998,-6.99278],"type":"Point"}
+  "geometry": {"coordinates":[107.16444,-6.99278],"type":"Point"}
 }

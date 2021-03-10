@@ -25,29 +25,43 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Cimenteng"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671983,
+        102072855
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6596204
     },
     "wof:country":"ID",
-    "wof:geomhash":"a2839739ddac6f04d6645ed2b041ca10",
+    "wof:geomhash":"6a8ed00e15101a500e07e468deb30185",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209174263
+            "county_id":102072855,
+            "locality_id":1209174263,
+            "region_id":85671983
         }
     ],
     "wof:id":1209174263,
-    "wof:lastmodified":1537629843,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614716695,
     "wof:name":"Cimenteng",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072855,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
@@ -55,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.89388999999998,
+    106.89389,
     -6.95528,
-    106.89388999999998,
+    106.89389,
     -6.95528
 ],
-  "geometry": {"coordinates":[106.89388999999998,-6.95528],"type":"Point"}
+  "geometry": {"coordinates":[106.89389,-6.95528],"type":"Point"}
 }

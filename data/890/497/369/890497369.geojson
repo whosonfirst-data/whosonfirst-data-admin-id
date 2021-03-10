@@ -15,6 +15,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:bel_x_preferred":[
         "\u041f\u0430\u0440\u0430\u043f\u0430\u0442"
     ],
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073245
+        102073245,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,7 +60,14 @@
         }
     ],
     "wof:id":890497369,
-    "wof:lastmodified":1564196913,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614653714,
     "wof:name":"Parapat",
     "wof:parent_id":102073245,
     "wof:placetype":"locality",

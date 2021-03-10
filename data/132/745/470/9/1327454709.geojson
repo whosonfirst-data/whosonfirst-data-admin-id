@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Bendungan"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072587
+        102072587,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6381773
     },
     "wof:country":"ID",
-    "wof:geomhash":"9218f901a34d6dba74434b7ab6eeeb04",
+    "wof:geomhash":"049d322caff16065c9a04a6dd391e0ab",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1327454709,
-    "wof:lastmodified":1537628555,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614633658,
     "wof:name":"Bendungan",
     "wof:parent_id":102072587,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.86388999999998,
+    109.86389,
     -7.49278,
-    109.86388999999998,
+    109.86389,
     -7.49278
 ],
-  "geometry": {"coordinates":[109.86388999999998,-7.49278],"type":"Point"}
+  "geometry": {"coordinates":[109.86389,-7.49278],"type":"Point"}
 }

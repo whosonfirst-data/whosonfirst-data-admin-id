@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Semplak Kaum"
     ],
@@ -35,15 +36,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073217
+        102073217,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1627795
     },
     "wof:country":"ID",
-    "wof:geomhash":"c10f583255348e91d9bf382c28c8b7a8",
+    "wof:geomhash":"a248fdeb868e860a63db135f059a0c08",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,7 +55,14 @@
         }
     ],
     "wof:id":1243504103,
-    "wof:lastmodified":1537626610,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614642960,
     "wof:name":"Semplak Kaum",
     "wof:parent_id":102073217,
     "wof:placetype":"locality",
@@ -64,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.75388999999998,
+    106.75389,
     -6.54667,
-    106.75388999999998,
+    106.75389,
     -6.54667
 ],
-  "geometry": {"coordinates":[106.75388999999998,-6.54667],"type":"Point"}
+  "geometry": {"coordinates":[106.75389,-6.54667],"type":"Point"}
 }

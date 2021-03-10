@@ -26,6 +26,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:und_x_variant":[
         "Tjibatjang 2",
         "Cibacang Dua"
@@ -34,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073449
+        102073449,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1964990
     },
     "wof:country":"ID",
-    "wof:geomhash":"e33e4ac73ffcbeae129280e979c940ff",
+    "wof:geomhash":"84325534b9fbf6eba6398c9041b4a480",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +54,14 @@
         }
     ],
     "wof:id":1260337927,
-    "wof:lastmodified":1537627788,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614653098,
     "wof:name":"Cibacang Dua",
     "wof:parent_id":102073449,
     "wof:placetype":"locality",
@@ -63,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.71193999999998,
+    107.71194,
     -6.92472,
-    107.71193999999998,
+    107.71194,
     -6.92472
 ],
-  "geometry": {"coordinates":[107.71193999999998,-6.92472],"type":"Point"}
+  "geometry": {"coordinates":[107.71194,-6.92472],"type":"Point"}
 }

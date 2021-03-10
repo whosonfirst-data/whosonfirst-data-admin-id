@@ -26,6 +26,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:afr_x_preferred":[
         "Singaraja"
     ],
@@ -94,8 +95,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073193
+        102073193,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -113,7 +114,14 @@
         }
     ],
     "wof:id":1360194395,
-    "wof:lastmodified":1564195233,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614653552,
     "wof:name":"Singaraja",
     "wof:parent_id":102073193,
     "wof:placetype":"locality",

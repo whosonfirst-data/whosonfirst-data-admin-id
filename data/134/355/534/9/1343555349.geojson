@@ -25,19 +25,20 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072857
+        102072857,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6260425
     },
     "wof:country":"ID",
-    "wof:geomhash":"2a027688fc2c162efb857e29eacf588c",
+    "wof:geomhash":"31ad8792ef72ba068ced2ca8781f400b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +49,14 @@
         }
     ],
     "wof:id":1343555349,
-    "wof:lastmodified":1536606414,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614650254,
     "wof:name":"Tawangsari Wetan",
     "wof:parent_id":102072857,
     "wof:placetype":"locality",
@@ -58,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.16861000000002,
+    110.16861,
     -7.61083,
-    110.16861000000002,
+    110.16861,
     -7.61083
 ],
-  "geometry": {"coordinates":[110.16861000000002,-7.61083],"type":"Point"}
+  "geometry": {"coordinates":[110.16861,-7.61083],"type":"Point"}
 }

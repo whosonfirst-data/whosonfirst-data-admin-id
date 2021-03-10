@@ -26,6 +26,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tissi",
         "Tisi"
@@ -34,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672067,
-        102072595
+        102072595,
+        85672067
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1623720
     },
     "wof:country":"ID",
-    "wof:geomhash":"eabf4c74becb846af27436f1cf1bfc06",
+    "wof:geomhash":"a44df08fcb21e3469ca9ceb02f4d568b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +54,14 @@
         }
     ],
     "wof:id":1259994053,
-    "wof:lastmodified":1537626472,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614643971,
     "wof:name":"Tisi",
     "wof:parent_id":102072595,
     "wof:placetype":"locality",
@@ -63,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    133.83333000000002,
+    133.83333,
     -1.46667,
-    133.83333000000002,
+    133.83333,
     -1.46667
 ],
-  "geometry": {"coordinates":[133.83333000000002,-1.46667],"type":"Point"}
+  "geometry": {"coordinates":[133.83332999999999,-1.46667],"type":"Point"}
 }

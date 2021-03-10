@@ -13,6 +13,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:ceb_x_preferred":[
         "Isola"
     ],
@@ -67,8 +68,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073449
+        102073449,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -89,7 +90,14 @@
         }
     ],
     "wof:id":890499317,
-    "wof:lastmodified":1564197007,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614653730,
     "wof:name":"Isola",
     "wof:parent_id":102073449,
     "wof:placetype":"locality",

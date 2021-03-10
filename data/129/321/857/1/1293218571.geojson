@@ -25,12 +25,13 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        85672067,
-        102073445
+        102073445,
+        85672067
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,7 +49,14 @@
         }
     ],
     "wof:id":1293218571,
-    "wof:lastmodified":1536677711,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614636556,
     "wof:name":"Aiwasi",
     "wof:parent_id":102073445,
     "wof:placetype":"locality",

@@ -4,18 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"106.8049,-6.1578,106.8049,-6.1578",
-    "geom:latitude":-6.1578,
-    "geom:longitude":106.8049,
+    "geom:area":0.00003,
+    "geom:area_square_m":362767.57008,
+    "geom:bbox":"106.801404,-6.161758,106.808029,-6.156481",
+    "geom:latitude":-6.158969,
+    "geom:longitude":106.804956,
     "gn:country":"ID",
     "gn:fcode":"PPL",
     "gn:pop":0,
     "gp:adm0":23424846,
     "iso:country":"ID",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "name:ind_x_preferred":[
         "Duri Selatan"
     ],
@@ -30,13 +30,17 @@
     "qs:photos_sr":4,
     "qs:placetype":"Suburb",
     "qs:pop_sr":"0",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "unknown"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
-        85672001,
         102191569,
         85632203,
-        102021905,
-        102073177
+        102020437,
+        102072841,
+        85672001
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,21 +50,31 @@
     },
     "wof:country":"ID",
     "wof:created":1469055140,
-    "wof:geomhash":"0f4d987b7b032a51e7bb86445ee04a4b",
+    "wof:geom_alt":[
+        "unknown"
+    ],
+    "wof:geomhash":"48a5699510409a31b134a89d31af56a6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632203,
-            "county_id":102073177,
-            "locality_id":102021905,
+            "county_id":102072841,
+            "locality_id":102020437,
             "neighbourhood_id":890497671,
             "region_id":85672001
         }
     ],
     "wof:id":890497671,
-    "wof:lastmodified":1505343828,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614744869,
     "wof:name":"Duri Selatan",
-    "wof:parent_id":102021905,
+    "wof:parent_id":102020437,
     "wof:placetype":"neighbourhood",
     "wof:population":0,
     "wof:repo":"whosonfirst-data-admin-id",
@@ -69,10 +83,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.8049,
-    -6.1578,
-    106.8049,
-    -6.1578
+    106.801404,
+    -6.161758,
+    106.808029,
+    -6.156481
 ],
-  "geometry": {"coordinates":[106.8049,-6.1578],"type":"Point"}
+  "geometry": {"coordinates":[[[106.80140400000001,-6.156849],[106.80797699999999,-6.156481],[106.808029,-6.161247],[106.80434099999999,-6.161758],[106.802403,-6.160789],[106.801434,-6.158366],[106.80140400000001,-6.156849]]],"type":"Polygon"}
 }

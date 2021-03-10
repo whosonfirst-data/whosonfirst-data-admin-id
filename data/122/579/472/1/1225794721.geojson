@@ -25,19 +25,20 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        85671995,
-        102073479
+        102073479,
+        85671995
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1959415
     },
     "wof:country":"ID",
-    "wof:geomhash":"2412febaa5e1dbe072c59a63d49a5d67",
+    "wof:geomhash":"eb688ae9d144cd42655c3be941d9dd77",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +49,14 @@
         }
     ],
     "wof:id":1225794721,
-    "wof:lastmodified":1537084257,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614646070,
     "wof:name":"Linduk",
     "wof:parent_id":102073479,
     "wof:placetype":"locality",
@@ -58,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.25943999999998,
+    106.25944,
     -6.0275,
-    106.25943999999998,
+    106.25944,
     -6.0275
 ],
-  "geometry": {"coordinates":[106.25943999999998,-6.0275],"type":"Point"}
+  "geometry": {"coordinates":[106.25944,-6.0275],"type":"Point"}
 }

@@ -26,6 +26,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mannoan",
         "Mangan",
@@ -35,15 +36,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672115,
-        102072939
+        102072939,
+        85672115
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1636312
     },
     "wof:country":"ID",
-    "wof:geomhash":"415a46e87c577cf70fbcada600efcb99",
+    "wof:geomhash":"fab684ce3d71516a8a6d1ea9f7912c91",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,7 +55,14 @@
         }
     ],
     "wof:id":1293793667,
-    "wof:lastmodified":1537626871,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614635596,
     "wof:name":"Manngan",
     "wof:parent_id":102072939,
     "wof:placetype":"locality",
@@ -64,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    139.33333000000002,
+    139.33333,
     -8.03333,
-    139.33333000000002,
+    139.33333,
     -8.03333
 ],
-  "geometry": {"coordinates":[139.33333000000002,-8.03333],"type":"Point"}
+  "geometry": {"coordinates":[139.33332999999999,-8.03333],"type":"Point"}
 }

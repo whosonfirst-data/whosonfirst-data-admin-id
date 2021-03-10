@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u0648\u0644\u0648\u0643"
     ],
@@ -86,8 +87,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102073223
+        102073223,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -105,7 +106,14 @@
         }
     ],
     "wof:id":1276329443,
-    "wof:lastmodified":1564181545,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614637218,
     "wof:name":"Solok",
     "wof:parent_id":102073223,
     "wof:placetype":"locality",

@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:als_x_preferred":[
         "Palas"
     ],
@@ -47,15 +48,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072929
+        102072929,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6262975
     },
     "wof:country":"ID",
-    "wof:geomhash":"3cfc6d491180939be39c0d9ea04fbd1e",
+    "wof:geomhash":"b65a464033e21e71d8bfda14aa8502b6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -66,7 +67,14 @@
         }
     ],
     "wof:id":1326824041,
-    "wof:lastmodified":1564169639,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614633180,
     "wof:name":"Palas",
     "wof:parent_id":102072929,
     "wof:placetype":"locality",
@@ -76,10 +84,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.83693999999998,
+    110.83694,
     -7.43528,
-    110.83693999999998,
+    110.83694,
     -7.43528
 ],
-  "geometry": {"coordinates":[110.83693999999998,-7.43528],"type":"Point"}
+  "geometry": {"coordinates":[110.83694,-7.43528],"type":"Point"}
 }

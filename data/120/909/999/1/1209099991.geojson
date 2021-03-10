@@ -25,26 +25,40 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102072929
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6266187
     },
     "wof:country":"ID",
-    "wof:geomhash":"a6a19b07ec0018b4008b413896f912d7",
+    "wof:geomhash":"1ca25a5ff9370b74b70b3a82fea0d799",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209099991
+            "county_id":102072929,
+            "locality_id":1209099991,
+            "region_id":85671987
         }
     ],
     "wof:id":1209099991,
-    "wof:lastmodified":1536297764,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614717247,
     "wof:name":"Turisari",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072929,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
@@ -53,9 +67,9 @@
 },
   "bbox": [
     110.90778,
-    -7.410830000000002,
+    -7.41083,
     110.90778,
-    -7.410830000000002
+    -7.41083
 ],
   "geometry": {"coordinates":[110.90778,-7.41083],"type":"Point"}
 }

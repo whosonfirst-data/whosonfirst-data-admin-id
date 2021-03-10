@@ -25,26 +25,40 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102072587
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6199894
     },
     "wof:country":"ID",
-    "wof:geomhash":"70414fa79f2588df57547e2da672705a",
+    "wof:geomhash":"d2447c18a1adeac1c90e9e46e3b738ce",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209100213
+            "county_id":102072587,
+            "locality_id":1209100213,
+            "region_id":85671987
         }
     ],
     "wof:id":1209100213,
-    "wof:lastmodified":1536297758,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614714643,
     "wof:name":"Tembelang",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072587,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
@@ -53,9 +67,9 @@
 },
   "bbox": [
     110.01583,
-    -7.4161100000000015,
+    -7.41611,
     110.01583,
-    -7.4161100000000015
+    -7.41611
 ],
   "geometry": {"coordinates":[110.01582999999999,-7.41611],"type":"Point"}
 }

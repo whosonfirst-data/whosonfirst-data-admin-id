@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Babakanjeruk"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073449
+        102073449,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6598512
     },
     "wof:country":"ID",
-    "wof:geomhash":"64b07923e9f550e288d79076bbc2fa1c",
+    "wof:geomhash":"2555de86be7cdbb2793484600e1a7402",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1276818141,
-    "wof:lastmodified":1537629927,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614651409,
     "wof:name":"Babakanjeruk",
     "wof:parent_id":102073449,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.58556000000002,
+    107.58556,
     -6.89083,
-    107.58556000000002,
+    107.58556,
     -6.89083
 ],
-  "geometry": {"coordinates":[107.58556000000002,-6.89083],"type":"Point"}
+  "geometry": {"coordinates":[107.58556,-6.89083],"type":"Point"}
 }

@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Pasirwaru"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072739
+        102072739,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6584287
     },
     "wof:country":"ID",
-    "wof:geomhash":"1778fa1453d8f490fdcc79083115e344",
+    "wof:geomhash":"101af90b407265bd7895f561a0c8fa0c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1276388039,
-    "wof:lastmodified":1537629554,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614637906,
     "wof:name":"Pasirwaru",
     "wof:parent_id":102072739,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.83138999999998,
+    107.83139,
     -6.96194,
-    107.83138999999998,
+    107.83139,
     -6.96194
 ],
-  "geometry": {"coordinates":[107.83138999999998,-6.96194],"type":"Point"}
+  "geometry": {"coordinates":[107.83139,-6.96194],"type":"Point"}
 }

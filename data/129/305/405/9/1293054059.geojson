@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Kawawi"
     ],
@@ -35,7 +36,7 @@
         "gn:id":7649316
     },
     "wof:country":"ID",
-    "wof:geomhash":"65d56cb2cc7b5d9c6d1750671e1a5a33",
+    "wof:geomhash":"c24e70ab176386ae2de83fcedb16331f",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -45,7 +46,14 @@
         }
     ],
     "wof:id":1293054059,
-    "wof:lastmodified":1537634176,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614636189,
     "wof:name":"Kawawi",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
@@ -55,10 +63,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    136.21331999999998,
+    136.21332,
     -1.23078,
-    136.21331999999998,
+    136.21332,
     -1.23078
 ],
-  "geometry": {"coordinates":[136.21331999999998,-1.23078],"type":"Point"}
+  "geometry": {"coordinates":[136.21332000000001,-1.23078],"type":"Point"}
 }

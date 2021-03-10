@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Ragamaya"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073515
+        102073515,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6399885
     },
     "wof:country":"ID",
-    "wof:geomhash":"d5065014e5c0a248275d91500d8fe19a",
+    "wof:geomhash":"c825ce83d2fc91fa581bba8b104892c6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1209861859,
-    "wof:lastmodified":1537628812,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614652411,
     "wof:name":"Ragamaya",
     "wof:parent_id":102073515,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.33556000000002,
+    108.33556,
     -6.97194,
-    108.33556000000002,
+    108.33556,
     -6.97194
 ],
-  "geometry": {"coordinates":[108.33556000000002,-6.97194],"type":"Point"}
+  "geometry": {"coordinates":[108.33556,-6.97194],"type":"Point"}
 }

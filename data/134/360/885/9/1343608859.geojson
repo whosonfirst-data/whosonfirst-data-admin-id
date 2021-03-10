@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Saweli"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672097,
-        1108796839
+        1108796839,
+        85672097
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8043665
     },
     "wof:country":"ID",
-    "wof:geomhash":"4798f5622d44328dca97b5d7decc8014",
+    "wof:geomhash":"83cf052a85c56fca53e50963bdbf4e56",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1343608859,
-    "wof:lastmodified":1537635107,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614634735,
     "wof:name":"Saweli",
     "wof:parent_id":1108796839,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    128.56551000000002,
+    128.56551,
     -2.8555,
-    128.56551000000002,
+    128.56551,
     -2.8555
 ],
-  "geometry": {"coordinates":[128.56551000000002,-2.8555],"type":"Point"}
+  "geometry": {"coordinates":[128.56550999999999,-2.8555],"type":"Point"}
 }

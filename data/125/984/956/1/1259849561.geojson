@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Mulyosari"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672009,
-        102072615
+        102072615,
+        85672009
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7667222
     },
     "wof:country":"ID",
-    "wof:geomhash":"c31d534bdfdf90be422065463bb578df",
+    "wof:geomhash":"cee51c6129ab086483353c1a353f6685",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1259849561,
-    "wof:lastmodified":1537634241,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614644052,
     "wof:name":"Mulyosari",
     "wof:parent_id":102072615,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    105.63018999999998,
+    105.63019,
     -5.20338,
-    105.63018999999998,
+    105.63019,
     -5.20338
 ],
-  "geometry": {"coordinates":[105.63018999999998,-5.20338],"type":"Point"}
+  "geometry": {"coordinates":[105.63019,-5.20338],"type":"Point"}
 }

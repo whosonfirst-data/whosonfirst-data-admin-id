@@ -25,19 +25,20 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073405
+        102073405,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1935851
     },
     "wof:country":"ID",
-    "wof:geomhash":"8312f4ff181f6d1fd5b5fb47b3e66891",
+    "wof:geomhash":"6373a9fdd86e2139e8597c1319b1c0a8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +49,14 @@
         }
     ],
     "wof:id":1242698299,
-    "wof:lastmodified":1536889560,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614653935,
     "wof:name":"Ngempuk",
     "wof:parent_id":102073405,
     "wof:placetype":"locality",
@@ -58,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.87111000000002,
+    110.87111,
     -7.67028,
-    110.87111000000002,
+    110.87111,
     -7.67028
 ],
-  "geometry": {"coordinates":[110.87111000000002,-7.67028],"type":"Point"}
+  "geometry": {"coordinates":[110.87111,-7.67028],"type":"Point"}
 }

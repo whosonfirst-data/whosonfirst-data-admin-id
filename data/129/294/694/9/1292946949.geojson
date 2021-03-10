@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ara_x_preferred":[
         "\u0623\u062c\u0631"
     ],
@@ -107,8 +108,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073569
+        102073569,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -126,7 +127,14 @@
         }
     ],
     "wof:id":1292946949,
-    "wof:lastmodified":1564176783,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614650794,
     "wof:name":"Wage",
     "wof:parent_id":102073569,
     "wof:placetype":"locality",

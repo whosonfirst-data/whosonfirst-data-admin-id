@@ -16,6 +16,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:ace_x_preferred":[
         "Tenganan"
     ],
@@ -74,8 +75,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672023,
-        102073027
+        102073027,
+        85672023
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -98,7 +99,14 @@
         }
     ],
     "wof:id":890499777,
-    "wof:lastmodified":1563273813,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614653724,
     "wof:name":"Tenganan",
     "wof:parent_id":102073027,
     "wof:placetype":"locality",

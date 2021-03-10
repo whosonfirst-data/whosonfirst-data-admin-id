@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:und_x_variant":[
         "Latoehalat",
         "Latuhalat",
@@ -34,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672097,
-        1108796829
+        1108796829,
+        85672097
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1638321
     },
     "wof:country":"ID",
-    "wof:geomhash":"6d5dafdd41e90a15bdc983628b98b01a",
+    "wof:geomhash":"ae35314d354840c5f634d5ccc8444e42",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +54,14 @@
         }
     ],
     "wof:id":1226304149,
-    "wof:lastmodified":1537626929,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614654862,
     "wof:name":"Latuhalat",
     "wof:parent_id":1108796829,
     "wof:placetype":"locality",
@@ -63,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    128.10738999999998,
+    128.10739,
     -3.7735,
-    128.10738999999998,
+    128.10739,
     -3.7735
 ],
-  "geometry": {"coordinates":[128.10738999999998,-3.7735],"type":"Point"}
+  "geometry": {"coordinates":[128.10739000000001,-3.7735],"type":"Point"}
 }

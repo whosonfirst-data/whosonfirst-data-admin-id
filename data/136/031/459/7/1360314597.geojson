@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kalamboekoe",
         "Kalambuku"
@@ -33,24 +34,16 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671977,
-        102073415,
-        1108805993
+        1108805993,
+        102073415
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1642050
     },
     "wof:country":"ID",
-    "wof:geomhash":"8de480cf95a47efeb4d8be187852f6c6",
+    "wof:geomhash":"7ed3b68424edb0bf9adf9b353f6a5f87",
     "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632203,
-            "county_id":102073415,
-            "locality_id":1360314597,
-            "region_id":85671977
-        },
         {
             "continent_id":102191569,
             "country_id":85632203,
@@ -60,7 +53,14 @@
         }
     ],
     "wof:id":1360314597,
-    "wof:lastmodified":1537627047,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614720912,
     "wof:name":"Kalambuku",
     "wof:parent_id":102073415,
     "wof:placetype":"locality",
@@ -70,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    116.54361000000002,
+    116.54361,
     3.93461,
-    116.54361000000002,
+    116.54361,
     3.93461
 ],
-  "geometry": {"coordinates":[116.54361000000002,3.93461],"type":"Point"}
+  "geometry": {"coordinates":[116.54361,3.93461],"type":"Point"}
 }

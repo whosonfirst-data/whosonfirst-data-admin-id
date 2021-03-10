@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Banggalamulya"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073295
+        102073295,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6581862
     },
     "wof:country":"ID",
-    "wof:geomhash":"040eebfeababe1adc0596b285db5d7f3",
+    "wof:geomhash":"6deea21bd183242f39331b74925cca27",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1226710097,
-    "wof:lastmodified":1537629485,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614645538,
     "wof:name":"Banggalamulya",
     "wof:parent_id":102073295,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.60193999999998,
+    107.60194,
     -6.56083,
-    107.60193999999998,
+    107.60194,
     -6.56083
 ],
-  "geometry": {"coordinates":[107.60193999999998,-6.56083],"type":"Point"}
+  "geometry": {"coordinates":[107.60194,-6.56083],"type":"Point"}
 }

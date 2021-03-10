@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Sarwon"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672115,
-        1108796871
+        1108796871,
+        85672115
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1628564
     },
     "wof:country":"ID",
-    "wof:geomhash":"9e3e7e26b2ef472180eea3d5bf97f449",
+    "wof:geomhash":"d93ac95541575dc35cb4fb6d05d19c14",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1343876593,
-    "wof:lastmodified":1537626629,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614635047,
     "wof:name":"Sarwon",
     "wof:parent_id":1108796871,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    136.08333000000002,
+    136.08333,
     -0.95,
-    136.08333000000002,
+    136.08333,
     -0.95
 ],
-  "geometry": {"coordinates":[136.08333000000002,-0.95],"type":"Point"}
+  "geometry": {"coordinates":[136.08332999999999,-0.95],"type":"Point"}
 }

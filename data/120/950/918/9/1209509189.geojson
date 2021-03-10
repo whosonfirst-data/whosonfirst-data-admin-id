@@ -25,26 +25,40 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672093,
+        102073189
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6256258
     },
     "wof:country":"ID",
-    "wof:geomhash":"332b7cc5771852fab8deef8f596e8d99",
+    "wof:geomhash":"1f7cd6f0408cca19b55536f9d2132fa8",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209509189
+            "county_id":102073189,
+            "locality_id":1209509189,
+            "region_id":85672093
         }
     ],
     "wof:id":1209509189,
-    "wof:lastmodified":1536284937,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614719104,
     "wof:name":"Seneng",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073189,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
@@ -53,9 +67,9 @@
 },
   "bbox": [
     110.77861,
-    -7.861110000000001,
+    -7.86111,
     110.77861,
-    -7.861110000000001
+    -7.86111
 ],
   "geometry": {"coordinates":[110.77861,-7.86111],"type":"Point"}
 }

@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Gerang Tengah"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072733
+        102072733,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6560372
     },
     "wof:country":"ID",
-    "wof:geomhash":"06094190a4a700e81fcb37f44042189b",
+    "wof:geomhash":"658916d73445248a2df9cd5aff07bc7c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1292997151,
-    "wof:lastmodified":1537629132,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614636272,
     "wof:name":"Gerang Tengah",
     "wof:parent_id":102072733,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.03806000000002,
+    111.03806,
     -7.67056,
-    111.03806000000002,
+    111.03806,
     -7.67056
 ],
-  "geometry": {"coordinates":[111.03806000000002,-7.67056],"type":"Point"}
+  "geometry": {"coordinates":[111.03806,-7.67056],"type":"Point"}
 }

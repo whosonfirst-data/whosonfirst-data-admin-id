@@ -4,18 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"106.8596,-6.1848,106.8596,-6.1848",
-    "geom:latitude":-6.1848,
-    "geom:longitude":106.8596,
+    "geom:area":0.000092,
+    "geom:area_square_m":1134397.348551,
+    "geom:bbox":"106.851466,-6.192176,106.863445,-6.180872",
+    "geom:latitude":-6.185715,
+    "geom:longitude":106.856963,
     "gn:country":"ID",
     "gn:fcode":"PPL",
     "gn:pop":0,
     "gp:adm0":23424846,
     "iso:country":"ID",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "name:ind_x_preferred":[
         "Johar Baru"
     ],
@@ -26,13 +26,17 @@
     "qs:photos_sr":0,
     "qs:placetype":"Suburb",
     "qs:pop_sr":"0",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "unknown"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
-        85672001,
         102191569,
         85632203,
         102021905,
-        102073177
+        102073177,
+        85672001
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,7 +46,10 @@
     },
     "wof:country":"ID",
     "wof:created":1469055248,
-    "wof:geomhash":"9d5af099ff3bdbe3f58b9ac2c71b2848",
+    "wof:geom_alt":[
+        "unknown"
+    ],
+    "wof:geomhash":"5e6f39f33098546c35fb56beee447172",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,7 +61,14 @@
         }
     ],
     "wof:id":890500179,
-    "wof:lastmodified":1505343842,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614744907,
     "wof:name":"Joharbaru",
     "wof:parent_id":102021905,
     "wof:placetype":"neighbourhood",
@@ -65,10 +79,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.8596,
-    -6.1848,
-    106.8596,
-    -6.1848
+    106.851466,
+    -6.192176,
+    106.863445,
+    -6.180872
 ],
-  "geometry": {"coordinates":[106.8596,-6.1848],"type":"Point"}
+  "geometry": {"coordinates":[[[106.855581,-6.192176],[106.851466,-6.187138],[106.85171099999999,-6.181302],[106.85232600000001,-6.181302],[106.852879,-6.180872],[106.854353,-6.180934],[106.854844,-6.181671],[106.860004,-6.181241],[106.861602,-6.181487],[106.862093,-6.182838],[106.86246199999999,-6.18505],[106.86283,-6.186524],[106.86313699999999,-6.187261],[106.863445,-6.187998],[106.861417,-6.18892],[106.859882,-6.18935],[106.85816199999999,-6.189841],[106.85736300000001,-6.190333],[106.856503,-6.191193],[106.855889,-6.191807],[106.855581,-6.192176]]],"type":"Polygon"}
 }

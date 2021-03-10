@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Neglasari"
     ],
@@ -41,15 +42,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073295
+        102073295,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6567809
     },
     "wof:country":"ID",
-    "wof:geomhash":"7300015e7e78a3844b31724537d48cb1",
+    "wof:geomhash":"c71d1226987edaf9bde3f90800b8c0d8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -60,7 +61,14 @@
         }
     ],
     "wof:id":1242823949,
-    "wof:lastmodified":1564200620,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614654104,
     "wof:name":"Neglasari",
     "wof:parent_id":102073295,
     "wof:placetype":"locality",
@@ -70,10 +78,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.80138999999998,
+    107.80139,
     -6.53083,
-    107.80138999999998,
+    107.80139,
     -6.53083
 ],
-  "geometry": {"coordinates":[107.80138999999998,-6.53083],"type":"Point"}
+  "geometry": {"coordinates":[107.80139,-6.53083],"type":"Point"}
 }

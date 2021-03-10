@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Tanjungrejo"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102072775
+        102072775,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6410120
     },
     "wof:country":"ID",
-    "wof:geomhash":"f620a9a83180b6a6eac256cd1c1aaaa5",
+    "wof:geomhash":"f8b9039cab43cdb64f6e5e45bff9cefd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1293574421,
-    "wof:lastmodified":1537629066,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614635987,
     "wof:name":"Tanjungrejo",
     "wof:parent_id":102072775,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.24056000000002,
+    111.24056,
     -7.43667,
-    111.24056000000002,
+    111.24056,
     -7.43667
 ],
-  "geometry": {"coordinates":[111.24056000000002,-7.43667],"type":"Point"}
+  "geometry": {"coordinates":[111.24056,-7.43667],"type":"Point"}
 }

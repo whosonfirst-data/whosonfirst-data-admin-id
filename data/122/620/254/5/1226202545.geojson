@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Epen"
     ],
@@ -47,8 +48,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        1108796793
+        1108796793,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,7 +67,14 @@
         }
     ],
     "wof:id":1226202545,
-    "wof:lastmodified":1564205423,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614644958,
     "wof:name":"Epen",
     "wof:parent_id":1108796793,
     "wof:placetype":"locality",

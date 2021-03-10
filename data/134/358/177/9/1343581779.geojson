@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ceb_x_preferred":[
         "Pate"
     ],
@@ -63,8 +64,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072709
+        102072709,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -82,7 +83,14 @@
         }
     ],
     "wof:id":1343581779,
-    "wof:lastmodified":1564174255,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614650491,
     "wof:name":"Pate",
     "wof:parent_id":102072709,
     "wof:placetype":"locality",

@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Seosadi"
     ],
@@ -38,15 +39,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672115,
-        1108796871
+        1108796871,
+        85672115
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1628860
     },
     "wof:country":"ID",
-    "wof:geomhash":"8a0105faed9c8ab5743c1ef765047b3f",
+    "wof:geomhash":"73d96b29753547d67441c0bb0d52e261",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -57,7 +58,14 @@
         }
     ],
     "wof:id":1226802251,
-    "wof:lastmodified":1537626634,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614644874,
     "wof:name":"Sauadi",
     "wof:parent_id":1108796871,
     "wof:placetype":"locality",
@@ -67,10 +75,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    135.91899999999998,
+    135.919,
     -0.7934,
-    135.91899999999998,
+    135.919,
     -0.7934
 ],
-  "geometry": {"coordinates":[135.91899999999998,-0.7934],"type":"Point"}
+  "geometry": {"coordinates":[135.91900000000001,-0.7934],"type":"Point"}
 }

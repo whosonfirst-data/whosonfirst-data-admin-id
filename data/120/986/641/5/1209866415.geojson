@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Daru"
     ],
@@ -87,15 +88,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672085,
-        102073503
+        102073503,
+        85672085
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1645668
     },
     "wof:country":"ID",
-    "wof:geomhash":"2782f76dbe25119bef15d093344172f0",
+    "wof:geomhash":"29d5fc419578ec7b916fca0c8fddb05f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -106,7 +107,14 @@
         }
     ],
     "wof:id":1209866415,
-    "wof:lastmodified":1564187608,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614639232,
     "wof:name":"Daru",
     "wof:parent_id":102073503,
     "wof:placetype":"locality",
@@ -116,10 +124,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    127.97778999999998,
+    127.97779,
     1.30749,
-    127.97778999999998,
+    127.97779,
     1.30749
 ],
-  "geometry": {"coordinates":[127.97778999999998,1.30749],"type":"Point"}
+  "geometry": {"coordinates":[127.97779,1.30749],"type":"Point"}
 }

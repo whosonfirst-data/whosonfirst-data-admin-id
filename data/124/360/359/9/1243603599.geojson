@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Ciherang Leutik"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073217
+        102073217,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6605332
     },
     "wof:country":"ID",
-    "wof:geomhash":"36f8d8969d2401d2425772b82f84493f",
+    "wof:geomhash":"7d783f2e298ddb77f79377131fc066a4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1243603599,
-    "wof:lastmodified":1537630069,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614643108,
     "wof:name":"Ciherang Leutik",
     "wof:parent_id":102073217,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.74056000000002,
+    106.74056,
     -6.58056,
-    106.74056000000002,
+    106.74056,
     -6.58056
 ],
-  "geometry": {"coordinates":[106.74056000000002,-6.58056],"type":"Point"}
+  "geometry": {"coordinates":[106.74056,-6.58056],"type":"Point"}
 }

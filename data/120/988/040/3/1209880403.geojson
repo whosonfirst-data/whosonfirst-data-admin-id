@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Malala"
     ],
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672111,
-        102073447
+        102073447,
+        85672111
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,7 +56,14 @@
         }
     ],
     "wof:id":1209880403,
-    "wof:lastmodified":1537627395,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614652380,
     "wof:name":"Malala",
     "wof:parent_id":102073447,
     "wof:placetype":"locality",

@@ -25,19 +25,20 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        85672037,
-        102073179
+        102073179,
+        85672037
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1939080
     },
     "wof:country":"ID",
-    "wof:geomhash":"3623d27dac9edf2959fa795f578dc7a6",
+    "wof:geomhash":"0a897beea1a8faa53c864d19a48b596f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +49,14 @@
         }
     ],
     "wof:id":1343537041,
-    "wof:lastmodified":1536634485,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614633910,
     "wof:name":"Fafasu",
     "wof:parent_id":102073179,
     "wof:placetype":"locality",
@@ -58,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    124.66443999999998,
+    124.66444,
     -9.42083,
-    124.66443999999998,
+    124.66444,
     -9.42083
 ],
-  "geometry": {"coordinates":[124.66443999999998,-9.42083],"type":"Point"}
+  "geometry": {"coordinates":[124.66444,-9.42083],"type":"Point"}
 }

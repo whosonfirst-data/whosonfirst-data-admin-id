@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Trukan"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073187
+        102073187,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6566601
     },
     "wof:country":"ID",
-    "wof:geomhash":"66e717045a2fbc4665498d0da1834e78",
+    "wof:geomhash":"36f8da4b2fc84ba831b0ca3457997dab",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1226039051,
-    "wof:lastmodified":1537629298,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614654676,
     "wof:name":"Trukan",
     "wof:parent_id":102073187,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.94861000000002,
+    109.94861,
     -7.66944,
-    109.94861000000002,
+    109.94861,
     -7.66944
 ],
-  "geometry": {"coordinates":[109.94861000000002,-7.66944],"type":"Point"}
+  "geometry": {"coordinates":[109.94861,-7.66944],"type":"Point"}
 }

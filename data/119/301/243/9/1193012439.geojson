@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Kedongdong Kidul"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072715
+        102072715,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6390285
     },
     "wof:country":"ID",
-    "wof:geomhash":"06d8f913b5bd4b84f3b8b66b555efbc2",
+    "wof:geomhash":"acd85089ae47d870a6c5184d8e318e9b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1193012439,
-    "wof:lastmodified":1537628712,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614652544,
     "wof:name":"Kedongdong Kidul",
     "wof:parent_id":102072715,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.28943999999998,
+    109.28944,
     -7.44889,
-    109.28943999999998,
+    109.28944,
     -7.44889
 ],
-  "geometry": {"coordinates":[109.28943999999998,-7.44889],"type":"Point"}
+  "geometry": {"coordinates":[109.28944,-7.44889],"type":"Point"}
 }

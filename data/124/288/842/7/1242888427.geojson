@@ -26,6 +26,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Moearanajan",
         "Muaranajan",
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671977,
-        102072993
+        102072993,
+        85671977
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,7 +56,14 @@
         }
     ],
     "wof:id":1242888427,
-    "wof:lastmodified":1537626829,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614642463,
     "wof:name":"Muaranayan",
     "wof:parent_id":102072993,
     "wof:placetype":"locality",

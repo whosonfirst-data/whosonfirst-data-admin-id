@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:afr_x_preferred":[
         "Ietermagog"
     ],
@@ -203,15 +204,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073569
+        102073569,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6400693
     },
     "wof:country":"ID",
-    "wof:geomhash":"eb3f807d6acf052bcfaf4f376fe91334",
+    "wof:geomhash":"679aa435dc7785ca4bc36142cd0e004e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -222,7 +223,14 @@
         }
     ],
     "wof:id":1310355013,
-    "wof:lastmodified":1564193505,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614653370,
     "wof:name":"Manis",
     "wof:parent_id":102073569,
     "wof:placetype":"locality",
@@ -232,10 +240,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.49056000000002,
+    108.49056,
     -6.93,
-    108.49056000000002,
+    108.49056,
     -6.93
 ],
-  "geometry": {"coordinates":[108.49056000000002,-6.93],"type":"Point"}
+  "geometry": {"coordinates":[108.49056,-6.93],"type":"Point"}
 }

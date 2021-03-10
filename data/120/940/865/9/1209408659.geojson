@@ -25,26 +25,40 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102072587
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6199594
     },
     "wof:country":"ID",
-    "wof:geomhash":"b6190788d600c2d3844e6279f788d2d6",
+    "wof:geomhash":"db44b610417ec2920ed01703cf2fc1a5",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209408659
+            "county_id":102072587,
+            "locality_id":1209408659,
+            "region_id":85671987
         }
     ],
     "wof:id":1209408659,
-    "wof:lastmodified":1536287911,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614714655,
     "wof:name":"Tegalsari",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072587,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
@@ -53,9 +67,9 @@
 },
   "bbox": [
     110.05,
-    -7.4958300000000015,
+    -7.49583,
     110.05,
-    -7.4958300000000015
+    -7.49583
 ],
   "geometry": {"coordinates":[110.05,-7.49583],"type":"Point"}
 }

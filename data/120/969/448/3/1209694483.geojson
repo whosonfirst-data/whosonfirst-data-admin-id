@@ -25,26 +25,40 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672093,
+        102073469
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2011788
     },
     "wof:country":"ID",
-    "wof:geomhash":"ec52fdec2b19378e214e68060b130227",
+    "wof:geomhash":"16481c415b0d2276d053eada63562d68",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209694483
+            "county_id":102073469,
+            "locality_id":1209694483,
+            "region_id":85672093
         }
     ],
     "wof:id":1209694483,
-    "wof:lastmodified":1536279124,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614721347,
     "wof:name":"Siwalan",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073469,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
@@ -53,9 +67,9 @@
 },
   "bbox": [
     110.21778,
-    -7.838889999999999,
+    -7.83889,
     110.21778,
-    -7.838889999999999
+    -7.83889
 ],
   "geometry": {"coordinates":[110.21778,-7.83889],"type":"Point"}
 }

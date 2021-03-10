@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ceb_x_preferred":[
         "Danyang"
     ],
@@ -50,8 +51,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102073495
+        102073495,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -69,7 +70,14 @@
         }
     ],
     "wof:id":1276976597,
-    "wof:lastmodified":1564183112,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614651790,
     "wof:name":"Danyang",
     "wof:parent_id":102073495,
     "wof:placetype":"locality",

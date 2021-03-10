@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Sinapeuw"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073529
+        102073529,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6589360
     },
     "wof:country":"ID",
-    "wof:geomhash":"a881da8046ef00a52c8a67fa958c8863",
+    "wof:geomhash":"f20dc788dfd9729f90024368229f3418",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1310165813,
-    "wof:lastmodified":1537629645,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614653310,
     "wof:name":"Sinapeuw",
     "wof:parent_id":102073529,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.03943999999998,
+    107.03944,
     -6.86472,
-    107.03943999999998,
+    107.03944,
     -6.86472
 ],
-  "geometry": {"coordinates":[107.03943999999998,-6.86472],"type":"Point"}
+  "geometry": {"coordinates":[107.03944,-6.86472],"type":"Point"}
 }

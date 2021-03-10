@@ -1,0 +1,72 @@
+{
+  "id": 1729797855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000156,
+    "geom:area_square_m":1918405.472597,
+    "geom:bbox":"112.768801,-7.252059,112.789227,-7.238782",
+    "geom:latitude":-7.245484,
+    "geom:longitude":112.776962,
+    "iso:country":"ID",
+    "lbl:latitude":-7.245434,
+    "lbl:longitude":112.776961,
+    "mps:latitude":-7.245434,
+    "mps:longitude":112.776961,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Gading"
+    ],
+    "name:ind_x_preferred":[
+        "Gading"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        102018911,
+        102073397,
+        85672027
+    ],
+    "wof:breaches":[],
+    "wof:country":"ID",
+    "wof:created":1613065515,
+    "wof:geomhash":"c4316cdb77aeed0c92a48636fb548184",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102073397,
+            "locality_id":102018911,
+            "neighbourhood_id":1729797855,
+            "region_id":85672027
+        }
+    ],
+    "wof:id":1729797855,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614723216,
+    "wof:name":"Gading",
+    "wof:parent_id":102018911,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    112.768801,
+    -7.252059,
+    112.789227,
+    -7.238782
+],
+  "geometry": {"coordinates":[[[112.789227,-7.247851],[112.788827,-7.249909],[112.783299,-7.249049],[112.783483,-7.249786],[112.78035,-7.252059],[112.77580399999999,-7.250339],[112.768801,-7.248434],[112.76889300000001,-7.245148],[112.769385,-7.241094],[112.770568,-7.238782],[112.770859,-7.238882],[112.78326800000001,-7.241339],[112.783022,-7.247175],[112.789227,-7.247851]]],"type":"Polygon"}
+}

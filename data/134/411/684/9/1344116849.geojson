@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ara_x_preferred":[
         "\u0633\u0648\u0627\u062d"
     ],
@@ -38,15 +39,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073217
+        102073217,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1959649
     },
     "wof:country":"ID",
-    "wof:geomhash":"7cade275f707228d3eec8fa39d750f45",
+    "wof:geomhash":"1a6e35615e1341260951c9e9d84085cf",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -57,7 +58,14 @@
         }
     ],
     "wof:id":1344116849,
-    "wof:lastmodified":1564174715,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614650540,
     "wof:name":"Sawah",
     "wof:parent_id":102073217,
     "wof:placetype":"locality",
@@ -67,10 +75,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.97693999999998,
+    106.97694,
     -6.41056,
-    106.97693999999998,
+    106.97694,
     -6.41056
 ],
-  "geometry": {"coordinates":[106.97693999999998,-6.41056],"type":"Point"}
+  "geometry": {"coordinates":[106.97694,-6.41056],"type":"Point"}
 }

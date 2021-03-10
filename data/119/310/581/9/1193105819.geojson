@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Soki"
     ],
@@ -38,7 +39,10 @@
         "Soki"
     ],
     "src:geom":"geonames",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632203
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6965861
@@ -47,14 +51,21 @@
     "wof:geomhash":"df83342f9de8bfdda78257ea5403a65c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191569,
+            "country_id":85632203,
             "locality_id":1193105819,
             "region_id":-1
         }
     ],
     "wof:id":1193105819,
-    "wof:lastmodified":1564189050,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614727072,
     "wof:name":"Soki",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

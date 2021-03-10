@@ -25,19 +25,20 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073405
+        102073405,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1935158
     },
     "wof:country":"ID",
-    "wof:geomhash":"eaceaf74ea5d331f7f7feab52e4b5d44",
+    "wof:geomhash":"74e04992564413f29d802a8ce16929c5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +49,14 @@
         }
     ],
     "wof:id":1243354587,
-    "wof:lastmodified":1536938771,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614643056,
     "wof:name":"Sendangrejo",
     "wof:parent_id":102073405,
     "wof:placetype":"locality",
@@ -58,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.93361000000002,
+    110.93361,
     -7.74583,
-    110.93361000000002,
+    110.93361,
     -7.74583
 ],
-  "geometry": {"coordinates":[110.93361000000002,-7.74583],"type":"Point"}
+  "geometry": {"coordinates":[110.93361,-7.74583],"type":"Point"}
 }

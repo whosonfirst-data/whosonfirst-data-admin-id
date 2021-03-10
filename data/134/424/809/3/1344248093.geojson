@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Krasak"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072709
+        102072709,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1963403
     },
     "wof:country":"ID",
-    "wof:geomhash":"f710ca420257489727852ff66e62c72d",
+    "wof:geomhash":"988a581efb72f3e32a494de4cabf2e10",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1344248093,
-    "wof:lastmodified":1537627710,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614634169,
     "wof:name":"Krasak",
     "wof:parent_id":102072709,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.38611000000002,
+    110.38611,
     -7.21028,
-    110.38611000000002,
+    110.38611,
     -7.21028
 ],
-  "geometry": {"coordinates":[110.38611000000002,-7.21028],"type":"Point"}
+  "geometry": {"coordinates":[110.38611,-7.21028],"type":"Point"}
 }

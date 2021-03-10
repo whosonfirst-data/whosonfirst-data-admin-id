@@ -25,19 +25,20 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073233
+        102073233,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2006363
     },
     "wof:country":"ID",
-    "wof:geomhash":"b025976aea1209208b6d3dc624b51598",
+    "wof:geomhash":"9368089e50047673aaf00fbabdabc910",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +49,14 @@
         }
     ],
     "wof:id":1193012553,
-    "wof:lastmodified":1536381971,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614639398,
     "wof:name":"Telop Kidul",
     "wof:parent_id":102073233,
     "wof:placetype":"locality",
@@ -58,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.53806000000002,
+    110.53806,
     -7.64417,
-    110.53806000000002,
+    110.53806,
     -7.64417
 ],
-  "geometry": {"coordinates":[110.53806000000002,-7.64417],"type":"Point"}
+  "geometry": {"coordinates":[110.53806,-7.64417],"type":"Point"}
 }

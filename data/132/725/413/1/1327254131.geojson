@@ -25,19 +25,20 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073233
+        102073233,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2010276
     },
     "wof:country":"ID",
-    "wof:geomhash":"1bf3409aef449027ee40d5ffd0024fd9",
+    "wof:geomhash":"2880a5a76ab563f0dc9ea8c60bb9e5d9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +49,14 @@
         }
     ],
     "wof:id":1327254131,
-    "wof:lastmodified":1536938993,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614632878,
     "wof:name":"Randurejo",
     "wof:parent_id":102073233,
     "wof:placetype":"locality",
@@ -58,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.57361000000002,
+    110.57361,
     -7.61722,
-    110.57361000000002,
+    110.57361,
     -7.61722
 ],
-  "geometry": {"coordinates":[110.57361000000002,-7.61722],"type":"Point"}
+  "geometry": {"coordinates":[110.57361,-7.61722],"type":"Point"}
 }

@@ -25,29 +25,43 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Cemomplon"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102072647
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6763184
     },
     "wof:country":"ID",
-    "wof:geomhash":"5c194cdbc384fe788cb5e2a505fca331",
+    "wof:geomhash":"9c6d3152ee4151b081e239184578fbb6",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209026969
+            "county_id":102072647,
+            "locality_id":1209026969,
+            "region_id":85671987
         }
     ],
     "wof:id":1209026969,
-    "wof:lastmodified":1537631431,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614715103,
     "wof:name":"Cemomplon",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072647,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
@@ -55,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.66143999999998,
+    109.66144,
     -6.97585,
-    109.66143999999998,
+    109.66144,
     -6.97585
 ],
-  "geometry": {"coordinates":[109.66143999999998,-6.97585],"type":"Point"}
+  "geometry": {"coordinates":[109.66144,-6.97585],"type":"Point"}
 }

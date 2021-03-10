@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Rancapacing"
     ],
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073449
+        102073449,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,7 +56,14 @@
         }
     ],
     "wof:id":1242834961,
-    "wof:lastmodified":1537627787,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614654070,
     "wof:name":"Rancapacing",
     "wof:parent_id":102073449,
     "wof:placetype":"locality",

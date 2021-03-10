@@ -25,26 +25,40 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102073233
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2009000
     },
     "wof:country":"ID",
-    "wof:geomhash":"987efc47b2d36f34138bb9ce7b22a683",
+    "wof:geomhash":"e92674f5be54618b54a2fb9e6015648f",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209027363
+            "county_id":102073233,
+            "locality_id":1209027363,
+            "region_id":85671987
         }
     ],
     "wof:id":1209027363,
-    "wof:lastmodified":1536299954,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614719601,
     "wof:name":"Jitengan",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102073233,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
@@ -53,9 +67,9 @@
 },
   "bbox": [
     110.71972,
-    -7.7294399999999985,
+    -7.72944,
     110.71972,
-    -7.7294399999999985
+    -7.72944
 ],
   "geometry": {"coordinates":[110.71972,-7.72944],"type":"Point"}
 }

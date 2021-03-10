@@ -26,6 +26,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Hoaoeloe",
         "Hoaulu"
@@ -34,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672097,
-        1108796833
+        1108796833,
+        85672097
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1643302
     },
     "wof:country":"ID",
-    "wof:geomhash":"a6eada50e6d4890263fad723b3fb49ce",
+    "wof:geomhash":"56157669508ca051dbe9ee9a1c996ac2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +54,14 @@
         }
     ],
     "wof:id":1293408107,
-    "wof:lastmodified":1537627089,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614635829,
     "wof:name":"Hoaulu",
     "wof:parent_id":1108796833,
     "wof:placetype":"locality",
@@ -63,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    129.33333000000002,
+    129.33333,
     -3.0,
-    129.33333000000002,
+    129.33333,
     -3.0
 ],
-  "geometry": {"coordinates":[129.33333000000002,-3.0],"type":"Point"}
+  "geometry": {"coordinates":[129.33332999999999,-3.0],"type":"Point"}
 }

@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Dukuhasem"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073515
+        102073515,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6397417
     },
     "wof:country":"ID",
-    "wof:geomhash":"94e638315b27148a03b0b50deea25c60",
+    "wof:geomhash":"6d8f42a1147d0528228b6ae2e6ca4515",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1309952071,
-    "wof:lastmodified":1537628784,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614653654,
     "wof:name":"Dukuhasem",
     "wof:parent_id":102073515,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.23888999999998,
+    108.23889,
     -6.85222,
-    108.23888999999998,
+    108.23889,
     -6.85222
 ],
-  "geometry": {"coordinates":[108.23888999999998,-6.85222],"type":"Point"}
+  "geometry": {"coordinates":[108.23889,-6.85222],"type":"Point"}
 }

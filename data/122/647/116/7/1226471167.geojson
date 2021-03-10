@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Fan"
     ],
@@ -89,15 +90,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672067,
-        1108796861
+        1108796861,
+        85672067
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8552161
     },
     "wof:country":"ID",
-    "wof:geomhash":"ad8d5c3da6982997cae4f654c34d2747",
+    "wof:geomhash":"56aa5687480cb5610b776721a1b3b5a9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -108,7 +109,14 @@
         }
     ],
     "wof:id":1226471167,
-    "wof:lastmodified":1564207259,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614645553,
     "wof:name":"Fan",
     "wof:parent_id":1108796861,
     "wof:placetype":"locality",
@@ -118,10 +126,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    132.35263999999998,
+    132.35264,
     -1.32494,
-    132.35263999999998,
+    132.35264,
     -1.32494
 ],
-  "geometry": {"coordinates":[132.35263999999998,-1.32494],"type":"Point"}
+  "geometry": {"coordinates":[132.35264000000001,-1.32494],"type":"Point"}
 }

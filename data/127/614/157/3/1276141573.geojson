@@ -26,6 +26,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tradjeng 1",
         "Trajeng Satu"
@@ -34,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102073017
+        102073017,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1972146
     },
     "wof:country":"ID",
-    "wof:geomhash":"be0c210899c7484336023bf81ce0f0de",
+    "wof:geomhash":"6c400297221aa9f6ff8b5587ba2a2df6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +54,14 @@
         }
     ],
     "wof:id":1276141573,
-    "wof:lastmodified":1537628069,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614637450,
     "wof:name":"Trajeng Satu",
     "wof:parent_id":102073017,
     "wof:placetype":"locality",
@@ -63,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    112.73111000000002,
+    112.73111,
     -7.92167,
-    112.73111000000002,
+    112.73111,
     -7.92167
 ],
-  "geometry": {"coordinates":[112.73111000000002,-7.92167],"type":"Point"}
+  "geometry": {"coordinates":[112.73111,-7.92167],"type":"Point"}
 }

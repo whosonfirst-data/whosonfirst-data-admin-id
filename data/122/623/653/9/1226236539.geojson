@@ -25,19 +25,20 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072983
+        102072983,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2009244
     },
     "wof:country":"ID",
-    "wof:geomhash":"6dc34d5d1b8e5181577a3338bde51a1d",
+    "wof:geomhash":"5a0af71be3201b1beb9983632f92787a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +49,14 @@
         }
     ],
     "wof:id":1226236539,
-    "wof:lastmodified":1536947281,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614654801,
     "wof:name":"Karangboyo",
     "wof:parent_id":102072983,
     "wof:placetype":"locality",
@@ -58,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.61388999999998,
+    110.61389,
     -7.50778,
-    110.61388999999998,
+    110.61389,
     -7.50778
 ],
-  "geometry": {"coordinates":[110.61388999999998,-7.50778],"type":"Point"}
+  "geometry": {"coordinates":[110.61389,-7.50778],"type":"Point"}
 }

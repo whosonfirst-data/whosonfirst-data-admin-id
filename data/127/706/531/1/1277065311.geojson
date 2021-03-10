@@ -25,19 +25,20 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073189
+        102073189,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2004640
     },
     "wof:country":"ID",
-    "wof:geomhash":"161f54345cfb00ddc9b4e04f11273474",
+    "wof:geomhash":"28fc429017616f7dc6dcc0452a77d937",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +49,14 @@
         }
     ],
     "wof:id":1277065311,
-    "wof:lastmodified":1536792752,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614651312,
     "wof:name":"Gendangan Tiga",
     "wof:parent_id":102073189,
     "wof:placetype":"locality",
@@ -58,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.67806000000002,
+    110.67806,
     -7.94444,
-    110.67806000000002,
+    110.67806,
     -7.94444
 ],
-  "geometry": {"coordinates":[110.67806000000002,-7.94444],"type":"Point"}
+  "geometry": {"coordinates":[110.67806,-7.94444],"type":"Point"}
 }

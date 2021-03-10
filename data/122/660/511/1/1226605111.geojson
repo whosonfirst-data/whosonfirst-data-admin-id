@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Gunungcalung"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073529
+        102073529,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6579397
     },
     "wof:country":"ID",
-    "wof:geomhash":"6872dd61e8207c9f3d4245738b9265b5",
+    "wof:geomhash":"8d4401425cb526e64e84e1a10b21ea17",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1226605111,
-    "wof:lastmodified":1537629425,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614654661,
     "wof:name":"Gunungcalung",
     "wof:parent_id":102073529,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.14388999999998,
+    107.14389,
     -6.83417,
-    107.14388999999998,
+    107.14389,
     -6.83417
 ],
-  "geometry": {"coordinates":[107.14388999999998,-6.83417],"type":"Point"}
+  "geometry": {"coordinates":[107.14389,-6.83417],"type":"Point"}
 }

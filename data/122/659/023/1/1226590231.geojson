@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Cikuya"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671995,
-        102073209
+        102073209,
+        85671995
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6605718
     },
     "wof:country":"ID",
-    "wof:geomhash":"1ed5545bf2f10c8bf038c0d45c6f7de1",
+    "wof:geomhash":"ff00251ec9c7935512c99669f2d4739c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1226590231,
-    "wof:lastmodified":1537630085,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614654685,
     "wof:name":"Cikuya",
     "wof:parent_id":102073209,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.39388999999998,
+    106.39389,
     -6.35639,
-    106.39388999999998,
+    106.39389,
     -6.35639
 ],
-  "geometry": {"coordinates":[106.39388999999998,-6.35639],"type":"Point"}
+  "geometry": {"coordinates":[106.39389,-6.35639],"type":"Point"}
 }

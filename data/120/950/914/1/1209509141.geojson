@@ -25,26 +25,40 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85671987,
+        102072857
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6256944
     },
     "wof:country":"ID",
-    "wof:geomhash":"7f1e5e6dfd1edc2dbd1ba9214b0777da",
+    "wof:geomhash":"06bc616b6df4fb0e2f669dd39af33312",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209509141
+            "county_id":102072857,
+            "locality_id":1209509141,
+            "region_id":85671987
         }
     ],
     "wof:id":1209509141,
-    "wof:lastmodified":1536284938,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614716874,
     "wof:name":"Soropaten",
-    "wof:parent_id":85632203,
+    "wof:parent_id":102072857,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
@@ -53,9 +67,9 @@
 },
   "bbox": [
     110.3025,
-    -7.457219999999999,
+    -7.45722,
     110.3025,
-    -7.457219999999999
+    -7.45722
 ],
   "geometry": {"coordinates":[110.30249999999999,-7.45722],"type":"Point"}
 }

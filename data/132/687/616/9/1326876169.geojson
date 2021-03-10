@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Curug"
     ],
@@ -44,15 +45,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072949
+        102072949,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1986188
     },
     "wof:country":"ID",
-    "wof:geomhash":"af39977d1b15c88fde00ed7c0a8baeca",
+    "wof:geomhash":"3a922af2730ba79eb5c2e8df081e7043",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -63,7 +64,14 @@
         }
     ],
     "wof:id":1326876169,
-    "wof:lastmodified":1564168040,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614632619,
     "wof:name":"Curug",
     "wof:parent_id":102072949,
     "wof:placetype":"locality",
@@ -73,10 +81,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.68361000000002,
+    107.68361,
     -7.07889,
-    107.68361000000002,
+    107.68361,
     -7.07889
 ],
-  "geometry": {"coordinates":[107.68361000000002,-7.07889],"type":"Point"}
+  "geometry": {"coordinates":[107.68361,-7.07889],"type":"Point"}
 }

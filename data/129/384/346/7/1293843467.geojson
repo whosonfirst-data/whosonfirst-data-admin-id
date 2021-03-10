@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:fas_x_preferred":[
         "\u067e\u0648\u0633\u0627\u0631"
     ],
@@ -38,8 +39,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672013,
-        102072985
+        102072985,
+        85672013
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,7 +58,14 @@
         }
     ],
     "wof:id":1293843467,
-    "wof:lastmodified":1564177194,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614650867,
     "wof:name":"Pusar",
     "wof:parent_id":102072985,
     "wof:placetype":"locality",

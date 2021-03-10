@@ -25,19 +25,20 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073265
+        102073265,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2004785
     },
     "wof:country":"ID",
-    "wof:geomhash":"d404337032fca6ea48a412a3985b6e37",
+    "wof:geomhash":"41594ae2844f211d71cb4d1ccb79505d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +49,14 @@
         }
     ],
     "wof:id":1327113205,
-    "wof:lastmodified":1536643186,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614650171,
     "wof:name":"Tinon",
     "wof:parent_id":102073265,
     "wof:placetype":"locality",
@@ -58,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.32193999999998,
+    110.32194,
     -7.77,
-    110.32193999999998,
+    110.32194,
     -7.77
 ],
-  "geometry": {"coordinates":[110.32193999999998,-7.77],"type":"Point"}
+  "geometry": {"coordinates":[110.32194,-7.77],"type":"Point"}
 }

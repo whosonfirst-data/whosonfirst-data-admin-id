@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Ietermagog"
     ],
@@ -203,8 +204,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102072581
+        102072581,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -222,7 +223,14 @@
         }
     ],
     "wof:id":1343651981,
-    "wof:lastmodified":1564171818,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614633847,
     "wof:name":"Manis",
     "wof:parent_id":102072581,
     "wof:placetype":"locality",

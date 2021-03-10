@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Pasiripis"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102072937
+        102072937,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6593925
     },
     "wof:country":"ID",
-    "wof:geomhash":"6338e1a7112bd29a63875e07876b2061",
+    "wof:geomhash":"0b643a92096b43c9145f109115b6a49e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1293539173,
-    "wof:lastmodified":1537629782,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614650709,
     "wof:name":"Pasiripis",
     "wof:parent_id":102072937,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.33556000000002,
+    107.33556,
     -6.425,
-    107.33556000000002,
+    107.33556,
     -6.425
 ],
-  "geometry": {"coordinates":[107.33556000000002,-6.425],"type":"Point"}
+  "geometry": {"coordinates":[107.33556,-6.425],"type":"Point"}
 }

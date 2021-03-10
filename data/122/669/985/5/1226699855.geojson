@@ -26,6 +26,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Leles 2",
         "Leles Dua"
@@ -34,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671995,
-        102072687
+        102072687,
+        85671995
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1985843
     },
     "wof:country":"ID",
-    "wof:geomhash":"091090280ac74466d2281053d7ee3e86",
+    "wof:geomhash":"4520231c5404abe57f65ca9da36d385c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +54,14 @@
         }
     ],
     "wof:id":1226699855,
-    "wof:lastmodified":1537628240,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614645083,
     "wof:name":"Leles Dua",
     "wof:parent_id":102072687,
     "wof:placetype":"locality",
@@ -63,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.54361000000002,
+    106.54361,
     -6.13861,
-    106.54361000000002,
+    106.54361,
     -6.13861
 ],
-  "geometry": {"coordinates":[106.54361000000002,-6.13861],"type":"Point"}
+  "geometry": {"coordinates":[106.54361,-6.13861],"type":"Point"}
 }

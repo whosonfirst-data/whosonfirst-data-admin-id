@@ -26,6 +26,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Amoetai",
         "Amutai"
@@ -34,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672067,
-        102072635
+        102072635,
+        85672067
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1651457
     },
     "wof:country":"ID",
-    "wof:geomhash":"493c344dbddd6c308f470268791576f5",
+    "wof:geomhash":"b979c8430b75d11cd036ab566e31d3f3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +54,14 @@
         }
     ],
     "wof:id":1309730465,
-    "wof:lastmodified":1537627377,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614641983,
     "wof:name":"Amutai",
     "wof:parent_id":102072635,
     "wof:placetype":"locality",
@@ -63,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    132.33333000000002,
+    132.33333,
     -2.06667,
-    132.33333000000002,
+    132.33333,
     -2.06667
 ],
-  "geometry": {"coordinates":[132.33333000000002,-2.06667],"type":"Point"}
+  "geometry": {"coordinates":[132.33332999999999,-2.06667],"type":"Point"}
 }

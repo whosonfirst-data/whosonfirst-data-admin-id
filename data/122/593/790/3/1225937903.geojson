@@ -25,19 +25,20 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        85672093,
-        102073265
+        102073265,
+        85672093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6258101
     },
     "wof:country":"ID",
-    "wof:geomhash":"7965319826105962b0df5c21a0f05394",
+    "wof:geomhash":"40c12d86004f46b425405343c0416f62",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +49,14 @@
         }
     ],
     "wof:id":1225937903,
-    "wof:lastmodified":1536879982,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614654514,
     "wof:name":"Molodono",
     "wof:parent_id":102073265,
     "wof:placetype":"locality",
@@ -58,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.33138999999998,
+    110.33139,
     -7.65306,
-    110.33138999999998,
+    110.33139,
     -7.65306
 ],
-  "geometry": {"coordinates":[110.33138999999998,-7.65306],"type":"Point"}
+  "geometry": {"coordinates":[110.33139,-7.65306],"type":"Point"}
 }

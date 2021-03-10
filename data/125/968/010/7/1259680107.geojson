@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:und_x_variant":[
         "Nogorejo",
         "Nogoredjo",
@@ -34,15 +35,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072857
+        102072857,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1963621
     },
     "wof:country":"ID",
-    "wof:geomhash":"7f5d39bfa155cc08e338cd7c56ea99df",
+    "wof:geomhash":"dc12039e1e8adfd890d22156ddce914b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +54,14 @@
         }
     ],
     "wof:id":1259680107,
-    "wof:lastmodified":1537627722,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614654398,
     "wof:name":"Tlogorejo",
     "wof:parent_id":102072857,
     "wof:placetype":"locality",
@@ -63,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.35611000000002,
+    110.35611,
     -7.36944,
-    110.35611000000002,
+    110.35611,
     -7.36944
 ],
-  "geometry": {"coordinates":[110.35611000000002,-7.36944],"type":"Point"}
+  "geometry": {"coordinates":[110.35611,-7.36944],"type":"Point"}
 }

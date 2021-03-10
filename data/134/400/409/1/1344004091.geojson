@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ace_x_preferred":[
         "Bandung"
     ],
@@ -263,15 +264,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671995,
-        102072687
+        102072687,
+        85671995
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1960847
     },
     "wof:country":"ID",
-    "wof:geomhash":"00e0d0c63ad05ec798ea846ae74e5f7d",
+    "wof:geomhash":"9fabdeddba20f775bd265e5166c38952",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -282,7 +283,14 @@
         }
     ],
     "wof:id":1344004091,
-    "wof:lastmodified":1564172971,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614634237,
     "wof:name":"Bandung",
     "wof:parent_id":102072687,
     "wof:placetype":"locality",
@@ -292,10 +300,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.49056000000002,
+    106.49056,
     -6.32583,
-    106.49056000000002,
+    106.49056,
     -6.32583
 ],
-  "geometry": {"coordinates":[106.49056000000002,-6.32583],"type":"Point"}
+  "geometry": {"coordinates":[106.49056,-6.32583],"type":"Point"}
 }

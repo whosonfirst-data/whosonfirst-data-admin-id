@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Kradenan"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072611
+        102072611,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1639447
     },
     "wof:country":"ID",
-    "wof:geomhash":"763f31308be86591889340b62ad4878c",
+    "wof:geomhash":"2f8f89a57f1dc80837e7059480a0742f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1242993819,
-    "wof:lastmodified":1537626966,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614654160,
     "wof:name":"Kradenan",
     "wof:parent_id":102072611,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.14388999999998,
+    111.14389,
     -7.14806,
-    111.14388999999998,
+    111.14389,
     -7.14806
 ],
-  "geometry": {"coordinates":[111.14388999999998,-7.14806],"type":"Point"}
+  "geometry": {"coordinates":[111.14389,-7.14806],"type":"Point"}
 }

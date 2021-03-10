@@ -1,0 +1,72 @@
+{
+  "id": 1729801937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000147,
+    "geom:area_square_m":1813227.09865,
+    "geom:bbox":"106.689098,-6.122882,106.711036,-6.107033",
+    "geom:latitude":-6.115357,
+    "geom:longitude":106.70059,
+    "iso:country":"ID",
+    "lbl:latitude":-6.113179,
+    "lbl:longitude":106.701338,
+    "mps:latitude":-6.113179,
+    "mps:longitude":106.701338,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Prepedan"
+    ],
+    "name:ind_x_preferred":[
+        "Prepedan"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        102020437,
+        102072841,
+        85672001
+    ],
+    "wof:breaches":[],
+    "wof:country":"ID",
+    "wof:created":1613158574,
+    "wof:geomhash":"61917d71cb6c03d28e45d3e3ee05d48f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102072841,
+            "locality_id":102020437,
+            "neighbourhood_id":1729801937,
+            "region_id":85672001
+        }
+    ],
+    "wof:id":1729801937,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614723351,
+    "wof:name":"Prepedan",
+    "wof:parent_id":102020437,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.689098,
+    -6.122882,
+    106.711036,
+    -6.107033
+],
+  "geometry": {"coordinates":[[[106.701453,-6.107033],[106.71103599999999,-6.118705],[106.706367,-6.122882],[106.69973299999999,-6.116739],[106.696538,-6.116248],[106.691624,-6.118951],[106.689825,-6.120685],[106.689179,-6.118181],[106.689098,-6.114223],[106.693985,-6.11289],[106.696691,-6.11281],[106.697862,-6.110952],[106.699119,-6.109122],[106.701453,-6.107033]]],"type":"Polygon"}
+}

@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u064a\u0629"
     ],
@@ -52,7 +53,7 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,14 +63,23 @@
     "wof:geomhash":"48bb362c434dd0d37c01692d7ea4ef09",
     "wof:hierarchy":[
         {
-            "country_id":85632203,
-            "locality_id":1209584739
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1209584739,
+            "region_id":-1
         }
     ],
     "wof:id":1209584739,
-    "wof:lastmodified":1564186133,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614726897,
     "wof:name":"Baya",
-    "wof:parent_id":85632203,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],

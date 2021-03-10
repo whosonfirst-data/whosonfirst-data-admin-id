@@ -1,0 +1,72 @@
+{
+  "id": 1729797675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000105,
+    "geom:area_square_m":1290429.625554,
+    "geom:bbox":"112.757306,-7.332174,112.788113,-7.327136",
+    "geom:latitude":-7.329584,
+    "geom:longitude":112.773438,
+    "iso:country":"ID",
+    "lbl:latitude":-7.329295,
+    "lbl:longitude":112.773438,
+    "mps:latitude":-7.329295,
+    "mps:longitude":112.773438,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Rungkut Kidul"
+    ],
+    "name:ind_x_preferred":[
+        "Rungkut Kidul"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        102018911,
+        102073397,
+        85672027
+    ],
+    "wof:breaches":[],
+    "wof:country":"ID",
+    "wof:created":1613065452,
+    "wof:geomhash":"3c034b9c1a000469918845d50b03f956",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102073397,
+            "locality_id":102018911,
+            "neighbourhood_id":1729797675,
+            "region_id":85672027
+        }
+    ],
+    "wof:id":1729797675,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614723145,
+    "wof:name":"Rungkut Kidul",
+    "wof:parent_id":102018911,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    112.757306,
+    -7.332174,
+    112.788113,
+    -7.327136
+],
+  "geometry": {"coordinates":[[[112.758989,-7.327261],[112.766582,-7.328242],[112.771067,-7.327136],[112.78151,-7.327382],[112.78151,-7.328918],[112.788113,-7.329245],[112.788083,-7.332174],[112.780957,-7.331866],[112.757306,-7.330392],[112.758989,-7.327261]]],"type":"Polygon"}
+}

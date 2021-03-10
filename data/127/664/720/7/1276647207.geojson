@@ -25,19 +25,20 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072983
+        102072983,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2010708
     },
     "wof:country":"ID",
-    "wof:geomhash":"d466e04b41512e65ed99ac751407ac44",
+    "wof:geomhash":"70b63b80525a8da0ec28119901ee415f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +49,14 @@
         }
     ],
     "wof:id":1276647207,
-    "wof:lastmodified":1536854151,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614651785,
     "wof:name":"Ketaon Utara",
     "wof:parent_id":102072983,
     "wof:placetype":"locality",
@@ -58,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.67638999999998,
+    110.67639,
     -7.52694,
-    110.67638999999998,
+    110.67639,
     -7.52694
 ],
-  "geometry": {"coordinates":[110.67638999999998,-7.52694],"type":"Point"}
+  "geometry": {"coordinates":[110.67639,-7.52694],"type":"Point"}
 }

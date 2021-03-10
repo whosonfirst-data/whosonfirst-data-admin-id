@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:cat_x_preferred":[
         "Pino"
     ],
@@ -77,15 +78,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072733
+        102072733,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6570241
     },
     "wof:country":"ID",
-    "wof:geomhash":"817dcc568befd75cfbd8d7cee0511441",
+    "wof:geomhash":"4d0a1794207e5d8896e146cf2badc9c9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -96,7 +97,14 @@
         }
     ],
     "wof:id":1226263471,
-    "wof:lastmodified":1564205020,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614654572,
     "wof:name":"Pino",
     "wof:parent_id":102072733,
     "wof:placetype":"locality",
@@ -106,10 +114,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.01888999999998,
+    111.01889,
     -7.56,
-    111.01888999999998,
+    111.01889,
     -7.56
 ],
-  "geometry": {"coordinates":[111.01888999999998,-7.56],"type":"Point"}
+  "geometry": {"coordinates":[111.01889,-7.56],"type":"Point"}
 }

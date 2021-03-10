@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Sabrang"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102073187
+        102073187,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6565663
     },
     "wof:country":"ID",
-    "wof:geomhash":"473f1900c760ef7cb60e0c2e078dec21",
+    "wof:geomhash":"0c52cc4c364d0004a7784797a3225d0d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1260204081,
-    "wof:lastmodified":1537629266,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614640005,
     "wof:name":"Sabrang",
     "wof:parent_id":102073187,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.87111000000002,
+    109.87111,
     -7.64222,
-    109.87111000000002,
+    109.87111,
     -7.64222
 ],
-  "geometry": {"coordinates":[109.87111000000002,-7.64222],"type":"Point"}
+  "geometry": {"coordinates":[109.87111,-7.64222],"type":"Point"}
 }

@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Rogojampi Utara"
     ],
@@ -40,8 +41,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102073373
+        102073373,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,7 +60,14 @@
         }
     ],
     "wof:id":1293774325,
-    "wof:lastmodified":1537626654,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614650835,
     "wof:name":"Rogojampi Utara",
     "wof:parent_id":102073373,
     "wof:placetype":"locality",

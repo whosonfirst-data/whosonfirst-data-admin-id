@@ -25,19 +25,20 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        85672037,
-        102073179
+        102073179,
+        85672037
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1939013
     },
     "wof:country":"ID",
-    "wof:geomhash":"3006a9adb6844e3798ebb61777ec8ba0",
+    "wof:geomhash":"891bf884c5938ba44db2314c3f4a5886",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +49,14 @@
         }
     ],
     "wof:id":1343737885,
-    "wof:lastmodified":1536842459,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614635040,
     "wof:name":"Bestobe",
     "wof:parent_id":102073179,
     "wof:placetype":"locality",
@@ -58,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    124.55306000000002,
+    124.55306,
     -9.44278,
-    124.55306000000002,
+    124.55306,
     -9.44278
 ],
-  "geometry": {"coordinates":[124.55306000000002,-9.44278],"type":"Point"}
+  "geometry": {"coordinates":[124.55306,-9.44278],"type":"Point"}
 }

@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Gedong"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073217
+        102073217,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6605169
     },
     "wof:country":"ID",
-    "wof:geomhash":"0affd60edc413d0d01cc7d0404b17e86",
+    "wof:geomhash":"080ebbc9bb3f2cd6a00acefee7cf8dea",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1293833397,
-    "wof:lastmodified":1537630062,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614635610,
     "wof:name":"Gedong",
     "wof:parent_id":102073217,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.69138999999998,
+    106.69139,
     -6.54583,
-    106.69138999999998,
+    106.69139,
     -6.54583
 ],
-  "geometry": {"coordinates":[106.69138999999998,-6.54583],"type":"Point"}
+  "geometry": {"coordinates":[106.69139,-6.54583],"type":"Point"}
 }

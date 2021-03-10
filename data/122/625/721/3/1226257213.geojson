@@ -26,6 +26,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Louise"
     ],
@@ -85,8 +86,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671977,
-        102072813
+        102072813,
+        85671977
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -104,7 +105,14 @@
         }
     ],
     "wof:id":1226257213,
-    "wof:lastmodified":1564207024,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614645478,
     "wof:name":"Louise",
     "wof:parent_id":102072813,
     "wof:placetype":"locality",

@@ -26,6 +26,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b0\u09be\u09af\u09bc\u09be"
     ],
@@ -61,8 +62,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671977,
-        102073369
+        102073369,
+        85671977
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -80,7 +81,14 @@
         }
     ],
     "wof:id":1242748651,
-    "wof:lastmodified":1564198027,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614642416,
     "wof:name":"Raya",
     "wof:parent_id":102073369,
     "wof:placetype":"locality",

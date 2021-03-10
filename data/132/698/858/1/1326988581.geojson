@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Wapomoroe",
         "Wappomarru",
@@ -39,7 +40,7 @@
         "gn:id":1622054
     },
     "wof:country":"ID",
-    "wof:geomhash":"0ec5278df778317191f871fcde9ee9f4",
+    "wof:geomhash":"4913c3135ad2e99c2b64ae1aa66db338",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,7 +50,14 @@
         }
     ],
     "wof:id":1326988581,
-    "wof:lastmodified":1537626415,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614633523,
     "wof:name":"Wapomaru",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
@@ -59,10 +67,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    123.06723999999998,
+    123.06724,
     -5.4182,
-    123.06723999999998,
+    123.06724,
     -5.4182
 ],
-  "geometry": {"coordinates":[123.06723999999998,-5.4182],"type":"Point"}
+  "geometry": {"coordinates":[123.06724,-5.4182],"type":"Point"}
 }

@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Kataghake"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672115,
-        102073195
+        102073195,
+        85672115
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8526089
     },
     "wof:country":"ID",
-    "wof:geomhash":"7cf18456f49e3f8ad8afe8180bb1741f",
+    "wof:geomhash":"2a3ef9256c95a83ffcd39d8b2ebea000",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1226583843,
-    "wof:lastmodified":1537636294,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614645142,
     "wof:name":"Kataghake",
     "wof:parent_id":102073195,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    139.02563999999998,
+    139.02564,
     -6.30649,
-    139.02563999999998,
+    139.02564,
     -6.30649
 ],
-  "geometry": {"coordinates":[139.02563999999998,-6.30649],"type":"Point"}
+  "geometry": {"coordinates":[139.02564000000001,-6.30649],"type":"Point"}
 }

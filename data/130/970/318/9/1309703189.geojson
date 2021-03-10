@@ -25,19 +25,20 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        85671987,
-        102072709
+        102072709,
+        85671987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1963864
     },
     "wof:country":"ID",
-    "wof:geomhash":"cdd0e816d257b62c164260023d54d206",
+    "wof:geomhash":"92c303c6790c98742b2499d6733dbca7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +49,14 @@
         }
     ],
     "wof:id":1309703189,
-    "wof:lastmodified":1537076009,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614641773,
     "wof:name":"Selo Ngisor",
     "wof:parent_id":102072709,
     "wof:placetype":"locality",
@@ -58,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.43361000000002,
+    110.43361,
     -7.39778,
-    110.43361000000002,
+    110.43361,
     -7.39778
 ],
-  "geometry": {"coordinates":[110.43361000000002,-7.39778],"type":"Point"}
+  "geometry": {"coordinates":[110.43361,-7.39778],"type":"Point"}
 }

@@ -25,19 +25,20 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073217
+        102073217,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1986697
     },
     "wof:country":"ID",
-    "wof:geomhash":"6b73d14a647007b7445fa90465936888",
+    "wof:geomhash":"f73b5b16aa320c32fe0b82812dcda77b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +49,14 @@
         }
     ],
     "wof:id":1327194187,
-    "wof:lastmodified":1537023858,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614650132,
     "wof:name":"Cikaret Barat",
     "wof:parent_id":102073217,
     "wof:placetype":"locality",
@@ -58,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.83556000000002,
+    106.83556,
     -6.45861,
-    106.83556000000002,
+    106.83556,
     -6.45861
 ],
-  "geometry": {"coordinates":[106.83556000000002,-6.45861],"type":"Point"}
+  "geometry": {"coordinates":[106.83556,-6.45861],"type":"Point"}
 }

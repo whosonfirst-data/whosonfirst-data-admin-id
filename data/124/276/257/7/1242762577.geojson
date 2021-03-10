@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Gayam"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85672027,
-        102073013
+        102073013,
+        85672027
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6405557
     },
     "wof:country":"ID",
-    "wof:geomhash":"b611b9d409c7c04a14afd8993925f65d",
+    "wof:geomhash":"8041ffe892736f132c88318605119500",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1242762577,
-    "wof:lastmodified":1537628931,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614643262,
     "wof:name":"Gayam",
     "wof:parent_id":102073013,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.35193999999998,
+    111.35194,
     -8.0325,
-    111.35193999999998,
+    111.35194,
     -8.0325
 ],
-  "geometry": {"coordinates":[111.35193999999998,-8.0325],"type":"Point"}
+  "geometry": {"coordinates":[111.35194,-8.0325],"type":"Point"}
 }

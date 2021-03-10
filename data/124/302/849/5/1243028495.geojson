@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Kresidenan"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073411
+        102073411,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6597909
     },
     "wof:country":"ID",
-    "wof:geomhash":"12a5db0e41b4ff58a72f58aad24f40cd",
+    "wof:geomhash":"9a5a255ebd5b40e0eefc088f6a44e994",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1243028495,
-    "wof:lastmodified":1537629906,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614654063,
     "wof:name":"Kresidenan",
     "wof:parent_id":102073411,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.79361000000002,
+    106.79361,
     -6.59194,
-    106.79361000000002,
+    106.79361,
     -6.59194
 ],
-  "geometry": {"coordinates":[106.79361000000002,-6.59194],"type":"Point"}
+  "geometry": {"coordinates":[106.79361,-6.59194],"type":"Point"}
 }

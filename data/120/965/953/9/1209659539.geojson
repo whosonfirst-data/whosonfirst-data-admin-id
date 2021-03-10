@@ -25,29 +25,43 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Samares"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632203
+        102191569,
+        85632203,
+        85672115,
+        1108796871
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7649306
     },
     "wof:country":"ID",
-    "wof:geomhash":"d248549470d275c52a45c6a6d1c93f53",
+    "wof:geomhash":"271be97ad3e630e4fc2bf668f23dcd2c",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632203,
-            "locality_id":1209659539
+            "county_id":1108796871,
+            "locality_id":1209659539,
+            "region_id":85672115
         }
     ],
     "wof:id":1209659539,
-    "wof:lastmodified":1537634175,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614722774,
     "wof:name":"Samares",
-    "wof:parent_id":85632203,
+    "wof:parent_id":1108796871,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
@@ -55,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    136.24483999999998,
+    136.24484,
     -1.08313,
-    136.24483999999998,
+    136.24484,
     -1.08313
 ],
-  "geometry": {"coordinates":[136.24483999999998,-1.08313],"type":"Point"}
+  "geometry": {"coordinates":[136.24484000000001,-1.08313],"type":"Point"}
 }

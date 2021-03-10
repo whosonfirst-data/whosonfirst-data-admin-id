@@ -25,6 +25,7 @@
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Pulogosong"
     ],
@@ -32,15 +33,15 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        85671983,
-        102073193
+        102073193,
+        85671983
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6402569
     },
     "wof:country":"ID",
-    "wof:geomhash":"068a60bf9cd1d9e7dfcb75614afcf8f7",
+    "wof:geomhash":"0d23c6bbcf3c897c00ce6288a990fac7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +52,14 @@
         }
     ],
     "wof:id":1242933577,
-    "wof:lastmodified":1537628871,
+    "wof:lang_x_official":[
+        "ind"
+    ],
+    "wof:lang_x_spoken":[
+        "ind",
+        "eng"
+    ],
+    "wof:lastmodified":1614642689,
     "wof:name":"Pulogosong",
     "wof:parent_id":102073193,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.22693999999998,
+    108.22694,
     -6.34778,
-    108.22693999999998,
+    108.22694,
     -6.34778
 ],
-  "geometry": {"coordinates":[108.22693999999998,-6.34778],"type":"Point"}
+  "geometry": {"coordinates":[108.22694,-6.34778],"type":"Point"}
 }
