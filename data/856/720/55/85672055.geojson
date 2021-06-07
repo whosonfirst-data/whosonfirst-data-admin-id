@@ -20,6 +20,15 @@
     "label:eng_x_preferred_shortcode":[
         "GO"
     ],
+    "label:eng_x_variant_longname":[
+        "Province of Gorontalo"
+    ],
+    "label:ind_x_preferred_longname":[
+        "Provinsi Gorontalo"
+    ],
+    "label:ind_x_preferred_placetype":[
+        "provinsi"
+    ],
     "lbl:latitude":0.74708,
     "lbl:longitude":122.302277,
     "meso:name_local":"Gorontalo",
@@ -321,8 +330,9 @@
         "quattroshapes"
     ],
     "src:lbl:centroid":"mapshaper",
-    "src:population":"statoids",
+    "src:population":"wk",
     "src:population:date":"2010-05-17",
+    "src:population_date":"2020-01-01",
     "statoids:area_km":"12,215",
     "statoids:area_mi":"4,716",
     "statoids:as_of_date":"2010-05-17",
@@ -373,13 +383,13 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614743509,
+    "wof:lastmodified":1623109425,
     "wof:name":"Gorontalo",
     "wof:parent_id":85632203,
     "wof:placetype":"region",
     "wof:placetype_alt":[],
     "wof:placetype_local":"province",
-    "wof:population":1040164,
+    "wof:population":1171681,
     "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:shortcode":"GO",

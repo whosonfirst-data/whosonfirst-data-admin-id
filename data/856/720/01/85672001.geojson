@@ -12,13 +12,22 @@
     "gn:population":9953016,
     "iso:country":"ID",
     "label:eng_x_preferred_longname":[
-        "Jakarta Raya Special District"
+        "Jakarta"
     ],
     "label:eng_x_preferred_placetype":[
-        "special district"
+        "special capital region"
     ],
     "label:eng_x_preferred_shortcode":[
         "JK"
+    ],
+    "label:eng_x_variant_longname":[
+        "Jakarta"
+    ],
+    "label:ind_x_preferred_longname":[
+        "Jakarta"
+    ],
+    "label:ind_x_preferred_placetype":[
+        "daerah khusus ibukota"
     ],
     "lbl:latitude":-6.20596,
     "lbl:longitude":106.82776,
@@ -147,12 +156,12 @@
         "Jakarta"
     ],
     "name:eng_x_preferred":[
-        "DKI Jakarta"
+        "Jakarta"
     ],
     "name:eng_x_variant":[
         "Jakarta Special Capital Region",
-        "Jakarta",
-        "Jakarta Raya"
+        "Jakarta Raya",
+        "DKI Jakarta"
     ],
     "name:epo_x_preferred":[
         "\u011cakarto"
@@ -260,10 +269,10 @@
         "Jakarta"
     ],
     "name:ind_x_preferred":[
-        "Daerah Khusus Ibukota Jakarta"
+        "Jakarta"
     ],
     "name:ind_x_variant":[
-        "Jakarta"
+        "Daerah Khusus Ibukota Jakarta"
     ],
     "name:inh_x_preferred":[
         "\u0414\u0436\u0430\u043a\u0430\u0440\u0442\u0430"
@@ -704,8 +713,9 @@
         "quattroshapes"
     ],
     "src:lbl:centroid":"mapshaper",
-    "src:population":"statoids",
+    "src:population":"wk",
     "src:population:date":"2010-05-17",
+    "src:population_date":"2020-01-01",
     "statoids:area_km":"664",
     "statoids:area_mi":"256",
     "statoids:as_of_date":"2010-05-17",
@@ -755,14 +765,14 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614741444,
+    "wof:lastmodified":1623109426,
     "wof:name":"Jakarta Raya",
     "wof:parent_id":85632203,
     "wof:placetype":"region",
     "wof:placetype_alt":[],
     "wof:placetype_local":"special district",
-    "wof:population":9607787,
-    "wof:population_rank":13,
+    "wof:population":10562088,
+    "wof:population_rank":14,
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:shortcode":"JK",
     "wof:subdivision":"ID-JK",

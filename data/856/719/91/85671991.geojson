@@ -21,6 +21,15 @@
     "label:eng_x_preferred_shortcode":[
         "BE"
     ],
+    "label:eng_x_variant_longname":[
+        "Province of Bengkulu"
+    ],
+    "label:ind_x_preferred_longname":[
+        "Provinsi Bengkulu"
+    ],
+    "label:ind_x_preferred_placetype":[
+        "provinsi"
+    ],
     "lbl:latitude":-3.309046,
     "lbl:longitude":102.222142,
     "meso:name_local":"Bengkulu",
@@ -349,8 +358,9 @@
         "quattroshapes"
     ],
     "src:lbl:centroid":"mapshaper",
-    "src:population":"statoids",
+    "src:population":"wk",
     "src:population:date":"2010-05-17",
+    "src:population_date":"2020-01-01",
     "statoids:area_km":"19,789",
     "statoids:area_mi":"7,641",
     "statoids:as_of_date":"2010-05-17",
@@ -401,13 +411,13 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614741186,
+    "wof:lastmodified":1623109425,
     "wof:name":"Bengkulu",
     "wof:parent_id":85632203,
     "wof:placetype":"region",
     "wof:placetype_alt":[],
     "wof:placetype_local":"province",
-    "wof:population":1715518,
+    "wof:population":2010670,
     "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:shortcode":"BE",

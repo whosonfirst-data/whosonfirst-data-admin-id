@@ -13,13 +13,22 @@
     "gn:population":3665448,
     "iso:country":"ID",
     "label:eng_x_preferred_longname":[
-        "Yogyakarta Special Region"
+        "Special Region of Yogyakarta"
     ],
     "label:eng_x_preferred_placetype":[
         "special region"
     ],
     "label:eng_x_preferred_shortcode":[
         "YO"
+    ],
+    "label:eng_x_variant_longname":[
+        "Yogyakarta Special Region"
+    ],
+    "label:ind_x_preferred_longname":[
+        "Daerah Istimewa Yogyakarta"
+    ],
+    "label:ind_x_preferred_placetype":[
+        "daerah istimewa"
     ],
     "lbl:latitude":-7.897248,
     "lbl:longitude":110.419332,
@@ -94,13 +103,13 @@
         "Yogyakarta"
     ],
     "name:eng_x_preferred":[
-        "Special Region of Yogyakarta"
+        "Yogyakarta"
     ],
     "name:eng_x_unknown":[
         "DIY"
     ],
     "name:eng_x_variant":[
-        "Yogyakarta"
+        "Special Region of Yogyakarta"
     ],
     "name:epo_x_preferred":[
         "Yogyakarta"
@@ -445,8 +454,9 @@
         "quattroshapes"
     ],
     "src:lbl:centroid":"mapshaper",
-    "src:population":"statoids",
+    "src:population":"wk",
     "src:population:date":"2010-05-17",
+    "src:population_date":"2020-01-01",
     "statoids:area_km":"3,186",
     "statoids:area_mi":"1,230",
     "statoids:as_of_date":"2010-05-17",
@@ -497,13 +507,13 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614744377,
+    "wof:lastmodified":1623109425,
     "wof:name":"Yogyakarta",
     "wof:parent_id":85632203,
     "wof:placetype":"region",
     "wof:placetype_alt":[],
     "wof:placetype_local":"special region",
-    "wof:population":3457491,
+    "wof:population":3668719,
     "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:shortcode":"YO",

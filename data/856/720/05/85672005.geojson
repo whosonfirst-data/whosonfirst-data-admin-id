@@ -12,13 +12,22 @@
     "gn:population":4395983,
     "iso:country":"ID",
     "label:eng_x_preferred_longname":[
-        "Kalimantan Barat Province"
+        "West Kalimantan Province"
     ],
     "label:eng_x_preferred_placetype":[
         "province"
     ],
     "label:eng_x_preferred_shortcode":[
         "KB"
+    ],
+    "label:eng_x_variant_longname":[
+        "Province of West Kalimantan"
+    ],
+    "label:ind_x_preferred_longname":[
+        "Provinsi Kalimantan Barat"
+    ],
+    "label:ind_x_preferred_placetype":[
+        "provinsi"
     ],
     "lbl:latitude":-0.204298,
     "lbl:longitude":110.871487,
@@ -333,8 +342,9 @@
         "quattroshapes"
     ],
     "src:lbl:centroid":"mapshaper",
-    "src:population":"statoids",
+    "src:population":"wk",
     "src:population:date":"2010-05-17",
+    "src:population_date":"2020-01-01",
     "statoids:area_km":"146,807",
     "statoids:area_mi":"56,682",
     "statoids:as_of_date":"2010-05-17",
@@ -384,14 +394,14 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1617131420,
+    "wof:lastmodified":1623109427,
     "wof:name":"Kalimantan Barat",
     "wof:parent_id":85632203,
     "wof:placetype":"region",
     "wof:placetype_alt":[],
     "wof:placetype_local":"province",
-    "wof:population":4395983,
-    "wof:population_rank":12,
+    "wof:population":5414390,
+    "wof:population_rank":13,
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:shortcode":"KB",
     "wof:subdivision":"ID-KB",

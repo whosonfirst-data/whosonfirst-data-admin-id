@@ -12,13 +12,22 @@
     "gn:population":7743794,
     "iso:country":"ID",
     "label:eng_x_preferred_longname":[
-        "Sumatera Selatan Province"
+        "South Sumatra Province"
     ],
     "label:eng_x_preferred_placetype":[
         "province"
     ],
     "label:eng_x_preferred_shortcode":[
         "SL"
+    ],
+    "label:eng_x_variant_longname":[
+        "Province of South Sumatra"
+    ],
+    "label:ind_x_preferred_longname":[
+        "Provinsi Sumatra Selatan"
+    ],
+    "label:ind_x_preferred_placetype":[
+        "provinsi"
     ],
     "lbl:latitude":-3.352759,
     "lbl:longitude":104.026999,
@@ -132,11 +141,11 @@
         "Abagatan a Sumatra"
     ],
     "name:ind_x_preferred":[
-        "Sumatera Selatan"
+        "Sumatra Selatan"
     ],
     "name:ind_x_variant":[
-        "Sumatra Selatan",
-        "Provinsi Sumatera Selatan"
+        "Provinsi Sumatera Selatan",
+        "Sumatera Selatan"
     ],
     "name:ita_x_preferred":[
         "Sumatra Meridionale"
@@ -352,8 +361,9 @@
         "quattroshapes"
     ],
     "src:lbl:centroid":"mapshaper",
-    "src:population":"statoids",
+    "src:population":"wk",
     "src:population:date":"2010-05-17",
+    "src:population_date":"2020-01-01",
     "statoids:area_km":"93,083",
     "statoids:area_mi":"35,940",
     "statoids:as_of_date":"2010-05-17",
@@ -403,13 +413,13 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614741652,
+    "wof:lastmodified":1623109432,
     "wof:name":"Sumatera Selatan",
     "wof:parent_id":85632203,
     "wof:placetype":"region",
     "wof:placetype_alt":[],
     "wof:placetype_local":"province",
-    "wof:population":7450394,
+    "wof:population":8467432,
     "wof:population_rank":13,
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:shortcode":"SL",

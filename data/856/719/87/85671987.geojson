@@ -12,13 +12,22 @@
     "gn:population":34087148,
     "iso:country":"ID",
     "label:eng_x_preferred_longname":[
-        "Jawa Tengah Province"
+        "Central Java Province"
     ],
     "label:eng_x_preferred_placetype":[
         "province"
     ],
     "label:eng_x_preferred_shortcode":[
         "JT"
+    ],
+    "label:eng_x_variant_longname":[
+        "Province of Central Java"
+    ],
+    "label:ind_x_preferred_longname":[
+        "Provinsi Jawa Tengah"
+    ],
+    "label:ind_x_preferred_placetype":[
+        "provinsi"
     ],
     "lbl:latitude":-7.353747,
     "lbl:longitude":109.791711,
@@ -492,8 +501,9 @@
         "quattroshapes"
     ],
     "src:lbl:centroid":"mapshaper",
-    "src:population":"statoids",
+    "src:population":"wk",
     "src:population:date":"2010-05-17",
+    "src:population_date":"2020-01-01",
     "statoids:area_km":"32,549",
     "statoids:area_mi":"12,567",
     "statoids:as_of_date":"2010-05-17",
@@ -543,13 +553,13 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1617131062,
+    "wof:lastmodified":1623109426,
     "wof:name":"Jawa Tengah",
     "wof:parent_id":85632203,
     "wof:placetype":"region",
     "wof:placetype_alt":[],
     "wof:placetype_local":"province",
-    "wof:population":32382657,
+    "wof:population":36516035,
     "wof:population_rank":14,
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:shortcode":"JT",

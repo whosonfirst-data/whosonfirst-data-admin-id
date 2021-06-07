@@ -20,6 +20,15 @@
     "label:eng_x_preferred_shortcode":[
         "RI"
     ],
+    "label:eng_x_variant_longname":[
+        "Province of Riau"
+    ],
+    "label:ind_x_preferred_longname":[
+        "Provinsi Riau"
+    ],
+    "label:ind_x_preferred_placetype":[
+        "provinsi"
+    ],
     "lbl:latitude":0.177503,
     "lbl:longitude":101.765267,
     "meso:name_local":"Riau",
@@ -345,8 +354,9 @@
         "quattroshapes"
     ],
     "src:lbl:centroid":"mapshaper",
-    "src:population":"statoids",
+    "src:population":"wk",
     "src:population:date":"2010-05-17",
+    "src:population_date":"2020-01-01",
     "statoids:area_km":"94,560",
     "statoids:area_mi":"36,510",
     "statoids:as_of_date":"2010-05-17",
@@ -395,13 +405,13 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1617130951,
+    "wof:lastmodified":1623109430,
     "wof:name":"Riau",
     "wof:parent_id":85632203,
     "wof:placetype":"region",
     "wof:placetype_alt":[],
     "wof:placetype_local":"province",
-    "wof:population":5538367,
+    "wof:population":6394087,
     "wof:population_rank":13,
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:shortcode":"RI",

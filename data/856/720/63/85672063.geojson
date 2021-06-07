@@ -12,13 +12,22 @@
     "gn:population":2212089,
     "iso:country":"ID",
     "label:eng_x_preferred_longname":[
-        "Kalimantan Tengah Province"
+        "Central Kalimantan Province"
     ],
     "label:eng_x_preferred_placetype":[
         "province"
     ],
     "label:eng_x_preferred_shortcode":[
         "KT"
+    ],
+    "label:eng_x_variant_longname":[
+        "Province of Central Kalimantan"
+    ],
+    "label:ind_x_preferred_longname":[
+        "Provinsi Kalimantan Tengah"
+    ],
+    "label:ind_x_preferred_placetype":[
+        "provinsi"
     ],
     "lbl:latitude":-1.725583,
     "lbl:longitude":113.374024,
@@ -117,10 +126,10 @@
         "Tengnga a Kalimantan"
     ],
     "name:ind_x_preferred":[
-        "Provinsi Kalimantan Tengah"
+        "Kalimantan Tengah"
     ],
     "name:ind_x_variant":[
-        "Kalimantan Tengah"
+        "Provinsi Kalimantan Tengah"
     ],
     "name:ita_x_preferred":[
         "Kalimantan Centrale"
@@ -327,8 +336,9 @@
         "quattroshapes"
     ],
     "src:lbl:centroid":"mapshaper",
-    "src:population":"statoids",
+    "src:population":"wk",
     "src:population:date":"2010-05-17",
+    "src:population_date":"2020-01-01",
     "statoids:area_km":"153,564",
     "statoids:area_mi":"59,291",
     "statoids:as_of_date":"2010-05-17",
@@ -378,13 +388,13 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1617130658,
+    "wof:lastmodified":1623109427,
     "wof:name":"Kalimantan Tengah",
     "wof:parent_id":85632203,
     "wof:placetype":"region",
     "wof:placetype_alt":[],
     "wof:placetype_local":"province",
-    "wof:population":2212089,
+    "wof:population":2669969,
     "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:shortcode":"KT",

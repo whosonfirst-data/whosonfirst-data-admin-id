@@ -12,13 +12,22 @@
     "gn:population":4748085,
     "iso:country":"ID",
     "label:eng_x_preferred_longname":[
-        "Aceh Autonomous Province"
+        "Aceh Province"
     ],
     "label:eng_x_preferred_placetype":[
-        "autonomous province"
+        "province"
     ],
     "label:eng_x_preferred_shortcode":[
         "AC"
+    ],
+    "label:eng_x_variant_longname":[
+        "Province of Aceh"
+    ],
+    "label:ind_x_preferred_longname":[
+        "Provinsi Aceh"
+    ],
+    "label:ind_x_preferred_placetype":[
+        "provinsi"
     ],
     "lbl:latitude":4.415574,
     "lbl:longitude":96.9625,
@@ -204,10 +213,10 @@
         "Aceh"
     ],
     "name:ind_x_preferred":[
-        "Provinsi Nanggroe Aceh Darussalam"
+        "Aceh"
     ],
     "name:ind_x_variant":[
-        "Aceh"
+        "Provinsi Nanggroe Aceh Darussalam"
     ],
     "name:isl_x_preferred":[
         "Aceh"
@@ -525,8 +534,9 @@
         "quattroshapes"
     ],
     "src:lbl:centroid":"mapshaper",
-    "src:population":"statoids",
+    "src:population":"wk",
     "src:population:date":"2010-05-17",
+    "src:population_date":"2020-01-01",
     "statoids:area_km":"51,937",
     "statoids:area_mi":"20,053",
     "statoids:as_of_date":"2010-05-17",
@@ -577,14 +587,14 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1617130624,
+    "wof:lastmodified":1623109425,
     "wof:name":"Aceh",
     "wof:parent_id":85632203,
     "wof:placetype":"region",
     "wof:placetype_alt":[],
     "wof:placetype_local":"autonomous province",
-    "wof:population":4494410,
-    "wof:population_rank":12,
+    "wof:population":5274871,
+    "wof:population_rank":13,
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:shortcode":"AC",
     "wof:subdivision":"ID-AC",

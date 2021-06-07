@@ -12,13 +12,22 @@
     "gn:population":3553143,
     "iso:country":"ID",
     "label:eng_x_preferred_longname":[
-        "Kalimantan Timur Province"
+        "East Kalimantan Province"
     ],
     "label:eng_x_preferred_placetype":[
         "province"
     ],
     "label:eng_x_preferred_shortcode":[
         "KM"
+    ],
+    "label:eng_x_variant_longname":[
+        "Province of East Kalimantan"
+    ],
+    "label:ind_x_preferred_longname":[
+        "Provinsi Kalimantan Timur"
+    ],
+    "label:ind_x_preferred_placetype":[
+        "provinsi"
     ],
     "lbl:latitude":0.458714,
     "lbl:longitude":116.419344,
@@ -336,8 +345,9 @@
         "quattroshapes"
     ],
     "src:lbl:centroid":"mapshaper",
-    "src:population":"statoids",
+    "src:population":"wk",
     "src:population:date":"2010-05-17",
+    "src:population_date":"2020-01-01",
     "statoids:area_km":"230,277",
     "statoids:area_mi":"88,910",
     "statoids:as_of_date":"2010-05-17",
@@ -387,13 +397,13 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1617131491,
+    "wof:lastmodified":1623109427,
     "wof:name":"Kalimantan Timur",
     "wof:parent_id":85632203,
     "wof:placetype":"region",
     "wof:placetype_alt":[],
     "wof:placetype_local":"province",
-    "wof:population":3553143,
+    "wof:population":3766039,
     "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:shortcode":"KM",

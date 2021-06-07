@@ -12,13 +12,22 @@
     "gn:population":8034776,
     "iso:country":"ID",
     "label:eng_x_preferred_longname":[
-        "Sulawesi Selatan Province"
+        "South Sulawesi Province"
     ],
     "label:eng_x_preferred_placetype":[
         "province"
     ],
     "label:eng_x_preferred_shortcode":[
         "SE"
+    ],
+    "label:eng_x_variant_longname":[
+        "Province of South Sulawesi"
+    ],
+    "label:ind_x_preferred_longname":[
+        "Provinsi Sulawesi Selatan"
+    ],
+    "label:ind_x_preferred_placetype":[
+        "provinsi"
     ],
     "lbl:latitude":-3.666078,
     "lbl:longitude":119.962591,
@@ -315,8 +324,9 @@
         "quattroshapes"
     ],
     "src:lbl:centroid":"mapshaper",
-    "src:population":"statoids",
+    "src:population":"wk",
     "src:population:date":"2010-05-17",
+    "src:population_date":"2020-01-01",
     "statoids:area_km":"62,365",
     "statoids:area_mi":"24,079",
     "statoids:as_of_date":"2010-05-17",
@@ -366,13 +376,13 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1617131186,
+    "wof:lastmodified":1623109431,
     "wof:name":"Sulawesi Selatan",
     "wof:parent_id":85632203,
     "wof:placetype":"region",
     "wof:placetype_alt":[],
     "wof:placetype_local":"province",
-    "wof:population":8034776,
+    "wof:population":9073509,
     "wof:population_rank":13,
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:shortcode":"SE",

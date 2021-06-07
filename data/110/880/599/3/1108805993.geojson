@@ -11,13 +11,22 @@
     "geom:longitude":116.23804,
     "iso:country":"ID",
     "label:eng_x_preferred_longname":[
-        "Kalimantan Utara Province"
+        "North Kalimantan Province"
     ],
     "label:eng_x_preferred_placetype":[
         "province"
     ],
     "label:eng_x_preferred_shortcode":[
         "KU"
+    ],
+    "label:eng_x_variant_longname":[
+        "Province of North Kalimantan"
+    ],
+    "label:ind_x_preferred_longname":[
+        "Provinsi Kalimantan Utara"
+    ],
+    "label:ind_x_preferred_placetype":[
+        "provinsi"
     ],
     "lbl:latitude":3.204844,
     "lbl:longitude":116.356788,
@@ -78,10 +87,10 @@
         "North Kalimantan"
     ],
     "name:eng_x_preferred":[
-        "Kalimantan Utara"
+        "North Kalimantan"
     ],
     "name:eng_x_variant":[
-        "North Kalimantan"
+        "Kalimantan Utara"
     ],
     "name:epo_x_preferred":[
         "Norda Kalimantano"
@@ -202,7 +211,9 @@
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
+    "src:population":"wk",
     "src:population:date":"",
+    "src:population_date":"2020-01-01",
     "statoids:area_km":"",
     "statoids:area_mi":"",
     "statoids:as_of_date":"",
@@ -244,12 +255,14 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614723102,
+    "wof:lastmodified":1623109427,
     "wof:name":"Kalimantan Utara",
     "wof:parent_id":85632203,
     "wof:placetype":"region",
     "wof:placetype_alt":[],
     "wof:placetype_local":"province",
+    "wof:population":701814,
+    "wof:population_rank":11,
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:shortcode":"KU",
     "wof:superseded_by":[],

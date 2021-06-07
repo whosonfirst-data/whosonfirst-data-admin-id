@@ -20,6 +20,15 @@
     "label:eng_x_preferred_shortcode":[
         "PA"
     ],
+    "label:eng_x_variant_longname":[
+        "Province of Papua"
+    ],
+    "label:ind_x_preferred_longname":[
+        "Provinsi Papua"
+    ],
+    "label:ind_x_preferred_placetype":[
+        "provinsi"
+    ],
     "lbl:latitude":-4.045911,
     "lbl:longitude":139.248353,
     "meso:name_local":"Papua",
@@ -349,8 +358,9 @@
         "quattroshapes"
     ],
     "src:lbl:centroid":"mapshaper",
-    "src:population":"statoids",
+    "src:population":"wk",
     "src:population:date":"2010-05-17",
+    "src:population_date":"2020-01-01",
     "statoids:area_km":"365,466",
     "statoids:area_mi":"141,107",
     "statoids:as_of_date":"2010-05-17",
@@ -398,13 +408,13 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614744797,
+    "wof:lastmodified":1623109429,
     "wof:name":"Papua",
     "wof:parent_id":85632203,
     "wof:placetype":"region",
     "wof:placetype_alt":[],
     "wof:placetype_local":"province",
-    "wof:population":2833381,
+    "wof:population":4303707,
     "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:shortcode":"PA",

@@ -12,13 +12,22 @@
     "gn:population":1747812,
     "iso:country":"ID",
     "label:eng_x_preferred_longname":[
-        "Kepulauan Riau Province"
+        "Riau Islands Province"
     ],
     "label:eng_x_preferred_placetype":[
         "province"
     ],
     "label:eng_x_preferred_shortcode":[
         "KR"
+    ],
+    "label:eng_x_variant_longname":[
+        "Province of Riau Islands"
+    ],
+    "label:ind_x_preferred_longname":[
+        "Provinsi Kepulauan Riau"
+    ],
+    "label:ind_x_preferred_placetype":[
+        "provinsi"
     ],
     "lbl:latitude":3.957944,
     "lbl:longitude":108.186326,
@@ -93,10 +102,10 @@
         "Riau Islands Province"
     ],
     "name:eng_x_preferred":[
-        "Kepulauan Riau"
+        "Riau Islands"
     ],
     "name:eng_x_variant":[
-        "Riau Islands"
+        "Kepulauan Riau"
     ],
     "name:epo_x_preferred":[
         "Riau-insuloj"
@@ -354,8 +363,9 @@
         "quattroshapes"
     ],
     "src:lbl:centroid":"mapshaper",
-    "src:population":"statoids",
+    "src:population":"wk",
     "src:population:date":"2010-05-17",
+    "src:population_date":"2020-01-01",
     "statoids:area_km":"",
     "statoids:area_mi":"",
     "statoids:as_of_date":"2010-05-17",
@@ -406,13 +416,13 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614743483,
+    "wof:lastmodified":1623109428,
     "wof:name":"Kepulauan Riau",
     "wof:parent_id":85632203,
     "wof:placetype":"region",
     "wof:placetype_alt":[],
     "wof:placetype_local":"province",
-    "wof:population":1679163,
+    "wof:population":2064564,
     "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:shortcode":"KR",

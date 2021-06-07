@@ -12,13 +12,22 @@
     "gn:population":1276873,
     "iso:country":"ID",
     "label:eng_x_preferred_longname":[
-        "Bangka-Belitung Province"
+        "Bangka Belitung Islands Province"
     ],
     "label:eng_x_preferred_placetype":[
         "province"
     ],
     "label:eng_x_preferred_shortcode":[
         "BB"
+    ],
+    "label:eng_x_variant_longname":[
+        "Province of Bangka Belitung Islands"
+    ],
+    "label:ind_x_preferred_longname":[
+        "Provinsi Kepulauan Bangka Belitung"
+    ],
+    "label:ind_x_preferred_placetype":[
+        "provinsi"
     ],
     "lbl:latitude":-2.010653,
     "lbl:longitude":105.922992,
@@ -69,12 +78,12 @@
         "\u039c\u03c0\u03ac\u03bd\u03b3\u03ba\u03b1 \u039c\u03c0\u03b5\u03bb\u03af\u03c4\u03bf\u03c5\u03bd\u03b3\u03ba"
     ],
     "name:eng_x_preferred":[
-        "Bangka-Belitung"
+        "Bangka Belitung Islands"
     ],
     "name:eng_x_variant":[
         "Bangka-Belitung Islands",
         "Bangka\u2013Belitung Islands",
-        "Bangka Belitung Islands"
+        "Bangka-Belitung"
     ],
     "name:epo_x_preferred":[
         "Bangka-Belitungo"
@@ -320,8 +329,9 @@
         "quattroshapes"
     ],
     "src:lbl:centroid":"mapshaper",
-    "src:population":"statoids",
+    "src:population":"wk",
     "src:population:date":"2010-05-17",
+    "src:population_date":"2020-01-01",
     "statoids:area_km":"16,171",
     "statoids:area_mi":"6,244",
     "statoids:as_of_date":"2010-05-17",
@@ -373,13 +383,13 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614741684,
+    "wof:lastmodified":1623109428,
     "wof:name":"Bangka-Belitung",
     "wof:parent_id":85632203,
     "wof:placetype":"region",
     "wof:placetype_alt":[],
     "wof:placetype_local":"province",
-    "wof:population":1223296,
+    "wof:population":1455678,
     "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:shortcode":"BB",

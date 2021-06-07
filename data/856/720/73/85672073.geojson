@@ -12,13 +12,22 @@
     "gn:population":9630873,
     "iso:country":"ID",
     "label:eng_x_preferred_longname":[
-        "Sumatera Utara Province"
+        "North Sumatra Province"
     ],
     "label:eng_x_preferred_placetype":[
         "province"
     ],
     "label:eng_x_preferred_shortcode":[
         "SU"
+    ],
+    "label:eng_x_variant_longname":[
+        "Province of North Sumatra"
+    ],
+    "label:ind_x_preferred_longname":[
+        "Provinsi Sumatra Utara"
+    ],
+    "label:ind_x_preferred_placetype":[
+        "provinsi"
     ],
     "lbl:latitude":2.491369,
     "lbl:longitude":99.175953,
@@ -129,11 +138,11 @@
         "Amianan a Sumatra"
     ],
     "name:ind_x_preferred":[
-        "Sumatera Utara"
+        "Sumatra Utara"
     ],
     "name:ind_x_variant":[
         "Provinsi Sumatera Utara",
-        "Sumatra Utara"
+        "Sumatera Utara"
     ],
     "name:ita_x_preferred":[
         "Sumatra Settentrionale"
@@ -352,8 +361,9 @@
         "quattroshapes"
     ],
     "src:lbl:centroid":"mapshaper",
-    "src:population":"statoids",
+    "src:population":"wk",
     "src:population:date":"2010-05-17",
+    "src:population_date":"2020-01-01",
     "statoids:area_km":"73,587",
     "statoids:area_mi":"28,412",
     "statoids:as_of_date":"2010-05-17",
@@ -403,13 +413,13 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614743897,
+    "wof:lastmodified":1623109432,
     "wof:name":"Sumatera Utara",
     "wof:parent_id":85632203,
     "wof:placetype":"region",
     "wof:placetype_alt":[],
     "wof:placetype_local":"province",
-    "wof:population":12982204,
+    "wof:population":14799361,
     "wof:population_rank":14,
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:shortcode":"SU",

@@ -12,13 +12,22 @@
     "gn:population":2232586,
     "iso:country":"ID",
     "label:eng_x_preferred_longname":[
-        "Sulawesi Tenggara Province"
+        "Southeast Sulawesi Province"
     ],
     "label:eng_x_preferred_placetype":[
         "province"
     ],
     "label:eng_x_preferred_shortcode":[
         "SG"
+    ],
+    "label:eng_x_variant_longname":[
+        "Province of Southeast Sulawesi"
+    ],
+    "label:ind_x_preferred_longname":[
+        "Provinsi Sulawesi Tenggara"
+    ],
+    "label:ind_x_preferred_placetype":[
+        "provinsi"
     ],
     "lbl:latitude":-3.496795,
     "lbl:longitude":121.677327,
@@ -81,12 +90,12 @@
         "\u039d\u03bf\u03c4\u03b9\u03bf\u03b1\u03bd\u03b1\u03c4\u03bf\u03bb\u03b9\u03ba\u03cc \u03a3\u03bf\u03c5\u03bb\u03b1\u03b2\u03ad\u03c3\u03b9"
     ],
     "name:eng_x_preferred":[
-        "South East Sulawesi"
+        "Southeast Sulawesi"
     ],
     "name:eng_x_variant":[
-        "Southeast Sulawesi",
         "Sulawesi Tenggara",
-        "Southeast Sulawesi Province"
+        "Southeast Sulawesi Province",
+        "South East Sulawesi"
     ],
     "name:epo_x_preferred":[
         "Sudorienta Sulaveso"
@@ -119,10 +128,10 @@
         "\u0906\u0917\u094d\u0928\u0947\u092f \u0938\u0941\u0932\u093e\u0935\u0947\u0938\u0940"
     ],
     "name:ind_x_preferred":[
-        "Provinsi Sulawesi Tenggara"
+        "Sulawesi Tenggara"
     ],
     "name:ind_x_variant":[
-        "Sulawesi Tenggara"
+        "Provinsi Sulawesi Tenggara"
     ],
     "name:ita_x_preferred":[
         "Sulawesi Sudorientale"
@@ -314,8 +323,9 @@
         "quattroshapes"
     ],
     "src:lbl:centroid":"mapshaper",
-    "src:population":"statoids",
+    "src:population":"wk",
     "src:population:date":"2010-05-17",
+    "src:population_date":"2020-01-01",
     "statoids:area_km":"38,140",
     "statoids:area_mi":"14,726",
     "statoids:as_of_date":"2010-05-17",
@@ -365,13 +375,13 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1617131073,
+    "wof:lastmodified":1623109432,
     "wof:name":"Sulawesi Tenggara",
     "wof:parent_id":85632203,
     "wof:placetype":"region",
     "wof:placetype_alt":[],
     "wof:placetype_local":"province",
-    "wof:population":2232586,
+    "wof:population":2624875,
     "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:shortcode":"SG",

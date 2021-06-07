@@ -12,13 +12,22 @@
     "gn:population":2270596,
     "iso:country":"ID",
     "label:eng_x_preferred_longname":[
-        "Sulawesi Utara Province"
+        "North Sulawesi Province"
     ],
     "label:eng_x_preferred_placetype":[
         "province"
     ],
     "label:eng_x_preferred_shortcode":[
         "SW"
+    ],
+    "label:eng_x_variant_longname":[
+        "Province of North Sulawesi"
+    ],
+    "label:ind_x_preferred_longname":[
+        "Provinsi Sulawesi Utara"
+    ],
+    "label:ind_x_preferred_placetype":[
+        "provinsi"
     ],
     "lbl:latitude":0.701669,
     "lbl:longitude":124.267441,
@@ -324,8 +333,9 @@
         "quattroshapes"
     ],
     "src:lbl:centroid":"mapshaper",
-    "src:population":"statoids",
+    "src:population":"wk",
     "src:population:date":"2010-05-17",
+    "src:population_date":"2020-01-01",
     "statoids:area_km":"15,273",
     "statoids:area_mi":"5,897",
     "statoids:as_of_date":"2010-05-17",
@@ -376,13 +386,13 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1617130317,
+    "wof:lastmodified":1623109432,
     "wof:name":"Sulawesi Utara",
     "wof:parent_id":85632203,
     "wof:placetype":"region",
     "wof:placetype_alt":[],
     "wof:placetype_local":"province",
-    "wof:population":2270596,
+    "wof:population":2621923,
     "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:shortcode":"SW",

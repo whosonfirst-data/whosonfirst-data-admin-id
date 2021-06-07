@@ -20,6 +20,15 @@
     "label:eng_x_preferred_shortcode":[
         "BA"
     ],
+    "label:eng_x_variant_longname":[
+        "Province of Bali"
+    ],
+    "label:ind_x_preferred_longname":[
+        "Provinsi Bali"
+    ],
+    "label:ind_x_preferred_placetype":[
+        "provinsi"
+    ],
     "lbl:latitude":-8.371934,
     "lbl:longitude":115.215949,
     "meso:name_local":"Bali",
@@ -198,11 +207,11 @@
         "provincia Bali"
     ],
     "name:ind_x_preferred":[
-        "Pulau Bali"
+        "Bali"
     ],
     "name:ind_x_variant":[
         "Provinsi Bali",
-        "Bali"
+        "Pulau Bali"
     ],
     "name:isl_x_preferred":[
         "Bal\u00ed"
@@ -552,8 +561,9 @@
         "quattroshapes"
     ],
     "src:lbl:centroid":"mapshaper",
-    "src:population":"statoids",
+    "src:population":"wk",
     "src:population:date":"2010-05-17",
+    "src:population_date":"2020-01-01",
     "statoids:area_km":"5,633",
     "statoids:area_mi":"2,175",
     "statoids:as_of_date":"2010-05-17",
@@ -607,13 +617,13 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614741774,
+    "wof:lastmodified":1623109425,
     "wof:name":"Bali",
     "wof:parent_id":85632203,
     "wof:placetype":"region",
     "wof:placetype_alt":[],
     "wof:placetype_local":"province",
-    "wof:population":3890757,
+    "wof:population":4317404,
     "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:shortcode":"BA",
