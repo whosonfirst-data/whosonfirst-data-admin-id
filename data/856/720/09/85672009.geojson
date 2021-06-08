@@ -20,6 +20,15 @@
     "label:eng_x_preferred_shortcode":[
         "LA"
     ],
+    "label:eng_x_variant_longname":[
+        "Province of Lampung"
+    ],
+    "label:ind_x_preferred_longname":[
+        "Provinsi Lampung"
+    ],
+    "label:ind_x_preferred_placetype":[
+        "provinsi"
+    ],
     "lbl:latitude":-4.897837,
     "lbl:longitude":104.999312,
     "meso:name_local":"Lampung",
@@ -123,10 +132,10 @@
         "Lampung"
     ],
     "name:ind_x_preferred":[
-        "Provinsi Lampung"
+        "Lampung"
     ],
     "name:ind_x_variant":[
-        "Lampung"
+        "Provinsi Lampung"
     ],
     "name:ita_x_preferred":[
         "Lampung"
@@ -360,8 +369,8 @@
         "quattroshapes"
     ],
     "src:lbl:centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population:date":"2010-05-17",
+    "src:population":"wk",
+    "src:population_date":"2020-01-01",
     "statoids:area_km":"35,384",
     "statoids:area_mi":"13,662",
     "statoids:as_of_date":"2010-05-17",
@@ -412,13 +421,13 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614741588,
+    "wof:lastmodified":1623173306,
     "wof:name":"Lampung",
     "wof:parent_id":85632203,
     "wof:placetype":"region",
     "wof:placetype_alt":[],
     "wof:placetype_local":"province",
-    "wof:population":7608405,
+    "wof:population":9007848,
     "wof:population_rank":13,
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:shortcode":"LA",

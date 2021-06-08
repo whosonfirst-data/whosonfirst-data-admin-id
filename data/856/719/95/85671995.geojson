@@ -21,6 +21,15 @@
     "label:eng_x_preferred_shortcode":[
         "BT"
     ],
+    "label:eng_x_variant_longname":[
+        "Province of Banten"
+    ],
+    "label:ind_x_preferred_longname":[
+        "Provinsi Banten"
+    ],
+    "label:ind_x_preferred_placetype":[
+        "provinsi"
+    ],
     "lbl:latitude":-6.477403,
     "lbl:longitude":106.108113,
     "meso:name_local":"Banten",
@@ -375,8 +384,8 @@
         "quattroshapes"
     ],
     "src:lbl:centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population:date":"2010-05-17",
+    "src:population":"wk",
+    "src:population_date":"2020-01-01",
     "statoids:area_km":"8,651",
     "statoids:area_mi":"3,340",
     "statoids:as_of_date":"2010-05-17",
@@ -428,13 +437,13 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614741429,
+    "wof:lastmodified":1623173302,
     "wof:name":"Banten",
     "wof:parent_id":85632203,
     "wof:placetype":"region",
     "wof:placetype_alt":[],
     "wof:placetype_local":"province",
-    "wof:population":10632166,
+    "wof:population":11904562,
     "wof:population_rank":14,
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:shortcode":"BT",

@@ -12,13 +12,22 @@
     "gn:population":45278744,
     "iso:country":"ID",
     "label:eng_x_preferred_longname":[
-        "Jawa Barat Province"
+        "West Java Province"
     ],
     "label:eng_x_preferred_placetype":[
         "province"
     ],
     "label:eng_x_preferred_shortcode":[
         "JR"
+    ],
+    "label:eng_x_variant_longname":[
+        "Province of West Java"
+    ],
+    "label:ind_x_preferred_longname":[
+        "Provinsi Jawa Barat"
+    ],
+    "label:ind_x_preferred_placetype":[
+        "provinsi"
     ],
     "lbl:latitude":-6.88981,
     "lbl:longitude":107.599767,
@@ -357,8 +366,8 @@
         "quattroshapes"
     ],
     "src:lbl:centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population:date":"2010-05-17",
+    "src:population":"wk",
+    "src:population_date":"2020-01-01",
     "statoids:area_km":"34,597",
     "statoids:area_mi":"13,358",
     "statoids:as_of_date":"2010-05-17",
@@ -408,13 +417,13 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614740131,
+    "wof:lastmodified":1623173303,
     "wof:name":"Jawa Barat",
     "wof:parent_id":85632203,
     "wof:placetype":"region",
     "wof:placetype_alt":[],
     "wof:placetype_local":"province",
-    "wof:population":43053732,
+    "wof:population":48274162,
     "wof:population_rank":14,
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:shortcode":"JR",

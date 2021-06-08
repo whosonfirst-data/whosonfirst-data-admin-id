@@ -13,13 +13,22 @@
     "gn:population":4500212,
     "iso:country":"ID",
     "label:eng_x_preferred_longname":[
-        "Nusa Tenggara Barat Province"
+        "West Nusa Tenggara Province"
     ],
     "label:eng_x_preferred_placetype":[
         "province"
     ],
     "label:eng_x_preferred_shortcode":[
         "NB"
+    ],
+    "label:eng_x_variant_longname":[
+        "Province of West Nusa Tenggara"
+    ],
+    "label:ind_x_preferred_longname":[
+        "Provinsi Nusa Tenggara Barat"
+    ],
+    "label:ind_x_preferred_placetype":[
+        "provinsi"
     ],
     "lbl:latitude":-8.749332,
     "lbl:longitude":117.350236,
@@ -124,11 +133,11 @@
         "Laud a Nusa Tenggara"
     ],
     "name:ind_x_preferred":[
-        "Propinsi Nusa Tenggara Barat"
+        "Nusa Tenggara Barat"
     ],
     "name:ind_x_variant":[
         "Provinsi Nusa Tenggara Barat",
-        "Nusa Tenggara Barat"
+        "Propinsi Nusa Tenggara Barat"
     ],
     "name:ita_x_preferred":[
         "Nusa Tenggara Occidentale"
@@ -338,8 +347,8 @@
         "quattroshapes"
     ],
     "src:lbl:centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population:date":"2010-05-17",
+    "src:population":"wk",
+    "src:population_date":"2020-01-01",
     "statoids:area_km":"20,153",
     "statoids:area_mi":"7,781",
     "statoids:as_of_date":"2010-05-17",
@@ -390,14 +399,14 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614744606,
+    "wof:lastmodified":1623173303,
     "wof:name":"Nusa Tenggara Barat",
     "wof:parent_id":85632203,
     "wof:placetype":"region",
     "wof:placetype_alt":[],
     "wof:placetype_local":"province",
-    "wof:population":4500212,
-    "wof:population_rank":12,
+    "wof:population":5320092,
+    "wof:population_rank":13,
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:shortcode":"NB",
     "wof:subdivision":"ID-NB",

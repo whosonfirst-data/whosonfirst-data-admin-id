@@ -12,13 +12,22 @@
     "gn:population":5014112,
     "iso:country":"ID",
     "label:eng_x_preferred_longname":[
-        "Sumatera Barat Province"
+        "West Sumatra Province"
     ],
     "label:eng_x_preferred_placetype":[
         "province"
     ],
     "label:eng_x_preferred_shortcode":[
         "SB"
+    ],
+    "label:eng_x_variant_longname":[
+        "Province of West Sumatra"
+    ],
+    "label:ind_x_preferred_longname":[
+        "Provinsi Sumatra Barat"
+    ],
+    "label:ind_x_preferred_placetype":[
+        "provinsi"
     ],
     "lbl:latitude":-0.9765,
     "lbl:longitude":100.896291,
@@ -129,11 +138,11 @@
         "Laud a Sumatra"
     ],
     "name:ind_x_preferred":[
-        "Sumatera Barat"
+        "Sumatra Barat"
     ],
     "name:ind_x_variant":[
-        "Sumatra Barat",
-        "Provinsi Sumatera Barat"
+        "Provinsi Sumatera Barat",
+        "Sumatera Barat"
     ],
     "name:ita_x_preferred":[
         "Sumatra Occidentale"
@@ -343,8 +352,8 @@
         "quattroshapes"
     ],
     "src:lbl:centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population:date":"2010-05-17",
+    "src:population":"wk",
+    "src:population_date":"2020-01-01",
     "statoids:area_km":"42,899",
     "statoids:area_mi":"16,563",
     "statoids:as_of_date":"2010-05-17",
@@ -394,14 +403,14 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1617130317,
+    "wof:lastmodified":1623173306,
     "wof:name":"Sumatera Barat",
     "wof:parent_id":85632203,
     "wof:placetype":"region",
     "wof:placetype_alt":[],
     "wof:placetype_local":"province",
-    "wof:population":4846909,
-    "wof:population_rank":12,
+    "wof:population":5534472,
+    "wof:population_rank":13,
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:shortcode":"SB",
     "wof:subdivision":"ID-SB",

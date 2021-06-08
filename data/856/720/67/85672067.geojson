@@ -12,13 +12,22 @@
     "gn:id":"",
     "iso:country":"ID",
     "label:eng_x_preferred_longname":[
-        "Irian Jaya Barat Province"
+        "West Papua Province"
     ],
     "label:eng_x_preferred_placetype":[
         "province"
     ],
     "label:eng_x_preferred_shortcode":[
         "IB"
+    ],
+    "label:eng_x_variant_longname":[
+        "Province of West Papua"
+    ],
+    "label:ind_x_preferred_longname":[
+        "Provinsi Papua Barat"
+    ],
+    "label:ind_x_preferred_placetype":[
+        "provinsi"
     ],
     "lbl:latitude":-1.469709,
     "lbl:longitude":132.973768,
@@ -40,6 +49,9 @@
         "Papouasie occidentale"
     ],
     "name:ind_x_preferred":[
+        "Papua Barat"
+    ],
+    "name:ind_x_variant":[
         "Provinsi Papua Barat"
     ],
     "name:und_x_preferred":[
@@ -121,8 +133,8 @@
         "quattroshapes"
     ],
     "src:lbl:centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population:date":"2010-05-17",
+    "src:population":"wk",
+    "src:population_date":"2020-01-01",
     "statoids:area_km":"",
     "statoids:area_mi":"",
     "statoids:as_of_date":"2010-05-17",
@@ -148,7 +160,8 @@
         "hasc:id":"ID.IB",
         "iso:id":"ID-PB",
         "qs:id":216061,
-        "unlc:id":"ID-PB"
+        "unlc:id":"ID-PB",
+        "wk:page":"West_Papua_(province)"
     },
     "wof:country":"ID",
     "wof:geom_alt":[
@@ -170,14 +183,14 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614743626,
+    "wof:lastmodified":1623173304,
     "wof:name":"Irian Jaya Barat",
     "wof:parent_id":85632203,
     "wof:placetype":"region",
     "wof:placetype_alt":[],
     "wof:placetype_local":"province",
-    "wof:population":760422,
-    "wof:population_rank":11,
+    "wof:population":1134068,
+    "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:shortcode":"IB",
     "wof:subdivision":"ID-PB",

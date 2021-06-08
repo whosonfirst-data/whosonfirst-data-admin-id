@@ -12,13 +12,22 @@
     "gn:population":2635009,
     "iso:country":"ID",
     "label:eng_x_preferred_longname":[
-        "Sulawesi Tengah Province"
+        "Central Sulawesi Province"
     ],
     "label:eng_x_preferred_placetype":[
         "province"
     ],
     "label:eng_x_preferred_shortcode":[
         "ST"
+    ],
+    "label:eng_x_variant_longname":[
+        "Province of Central Sulawesi"
+    ],
+    "label:ind_x_preferred_longname":[
+        "Provinsi Sulawesi Tengah"
+    ],
+    "label:ind_x_preferred_placetype":[
+        "provinsi"
     ],
     "lbl:latitude":-1.78768,
     "lbl:longitude":120.840408,
@@ -309,8 +318,8 @@
         "quattroshapes"
     ],
     "src:lbl:centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population:date":"2010-05-17",
+    "src:population":"wk",
+    "src:population_date":"2020-01-01",
     "statoids:area_km":"63,678",
     "statoids:area_mi":"24,586",
     "statoids:as_of_date":"2010-05-17",
@@ -361,13 +370,13 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1617130726,
+    "wof:lastmodified":1623173303,
     "wof:name":"Sulawesi Tengah",
     "wof:parent_id":85632203,
     "wof:placetype":"region",
     "wof:placetype_alt":[],
     "wof:placetype_local":"province",
-    "wof:population":2635009,
+    "wof:population":2985734,
     "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:shortcode":"ST",

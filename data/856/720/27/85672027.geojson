@@ -12,13 +12,22 @@
     "gn:population":22200177,
     "iso:country":"ID",
     "label:eng_x_preferred_longname":[
-        "Jawa Timur Province"
+        "East Java Province"
     ],
     "label:eng_x_preferred_placetype":[
         "province"
     ],
     "label:eng_x_preferred_shortcode":[
         "JI"
+    ],
+    "label:eng_x_variant_longname":[
+        "Province of East Java"
+    ],
+    "label:ind_x_preferred_longname":[
+        "Provinsi Jawa Timur"
+    ],
+    "label:ind_x_preferred_placetype":[
+        "provinsi"
     ],
     "lbl:latitude":-7.60527,
     "lbl:longitude":112.12196,
@@ -379,8 +388,8 @@
         "quattroshapes"
     ],
     "src:lbl:centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population:date":"2010-05-17",
+    "src:population":"wk",
+    "src:population_date":"2020-01-01",
     "statoids:area_km":"47,922",
     "statoids:area_mi":"18,503",
     "statoids:as_of_date":"2010-05-17",
@@ -430,13 +439,13 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1617130655,
+    "wof:lastmodified":1623173305,
     "wof:name":"Jawa Timur",
     "wof:parent_id":85632203,
     "wof:placetype":"region",
     "wof:placetype_alt":[],
     "wof:placetype_local":"province",
-    "wof:population":37476757,
+    "wof:population":40665696,
     "wof:population_rank":14,
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:shortcode":"JI",

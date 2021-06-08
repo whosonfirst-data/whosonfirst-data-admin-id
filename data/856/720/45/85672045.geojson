@@ -12,13 +12,22 @@
     "gn:population":1158651,
     "iso:country":"ID",
     "label:eng_x_preferred_longname":[
-        "Sulawesi Barat Province"
+        "West Sulawesi Province"
     ],
     "label:eng_x_preferred_placetype":[
         "province"
     ],
     "label:eng_x_preferred_shortcode":[
         "SR"
+    ],
+    "label:eng_x_variant_longname":[
+        "Province of West Sulawesi"
+    ],
+    "label:ind_x_preferred_longname":[
+        "Provinsi Sulawesi Barat"
+    ],
+    "label:ind_x_preferred_placetype":[
+        "provinsi"
     ],
     "lbl:latitude":-2.865846,
     "lbl:longitude":119.222943,
@@ -111,10 +120,10 @@
         "Laud a Sulawesi"
     ],
     "name:ind_x_preferred":[
-        "Provinsi Sulawesi Barat"
+        "Sulawesi Barat"
     ],
     "name:ind_x_variant":[
-        "Sulawesi Barat"
+        "Provinsi Sulawesi Barat"
     ],
     "name:ita_x_preferred":[
         "Sulawesi Occidentale"
@@ -309,8 +318,8 @@
         "quattroshapes"
     ],
     "src:lbl:centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population:date":"2010-05-17",
+    "src:population":"wk",
+    "src:population_date":"2020-01-01",
     "statoids:area_km":"",
     "statoids:area_mi":"",
     "statoids:as_of_date":"2010-05-17",
@@ -360,13 +369,13 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614743306,
+    "wof:lastmodified":1623173305,
     "wof:name":"Sulawesi Barat",
     "wof:parent_id":85632203,
     "wof:placetype":"region",
     "wof:placetype_alt":[],
     "wof:placetype_local":"province",
-    "wof:population":1158651,
+    "wof:population":1419229,
     "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:shortcode":"SR",

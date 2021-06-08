@@ -12,13 +12,22 @@
     "gn:population":3626616,
     "iso:country":"ID",
     "label:eng_x_preferred_longname":[
-        "Kalimantan Selatan Province"
+        "South Kalimantan Province"
     ],
     "label:eng_x_preferred_placetype":[
         "province"
     ],
     "label:eng_x_preferred_shortcode":[
         "KS"
+    ],
+    "label:eng_x_variant_longname":[
+        "Province of South Kalimantan"
+    ],
+    "label:ind_x_preferred_longname":[
+        "Provinsi Kalimantan Selatan"
+    ],
+    "label:ind_x_preferred_placetype":[
+        "provinsi"
     ],
     "lbl:latitude":-3.001552,
     "lbl:longitude":115.398628,
@@ -330,8 +339,8 @@
         "quattroshapes"
     ],
     "src:lbl:centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population:date":"2010-05-17",
+    "src:population":"wk",
+    "src:population_date":"2020-01-01",
     "statoids:area_km":"43,546",
     "statoids:area_mi":"16,813",
     "statoids:as_of_date":"2010-05-17",
@@ -381,13 +390,13 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614742673,
+    "wof:lastmodified":1623173306,
     "wof:name":"Kalimantan Selatan",
     "wof:parent_id":85632203,
     "wof:placetype":"region",
     "wof:placetype_alt":[],
     "wof:placetype_local":"province",
-    "wof:population":3626616,
+    "wof:population":4073584,
     "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:shortcode":"KS",

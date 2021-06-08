@@ -12,13 +12,22 @@
     "gn:id":"",
     "iso:country":"ID",
     "label:eng_x_preferred_longname":[
-        "Nusa Tenggara Timur Province"
+        "East Nusa Tenggara Province"
     ],
     "label:eng_x_preferred_placetype":[
         "province"
     ],
     "label:eng_x_preferred_shortcode":[
         "NT"
+    ],
+    "label:eng_x_variant_longname":[
+        "Province of East Nusa Tenggara"
+    ],
+    "label:ind_x_preferred_longname":[
+        "Provinsi Nusa Tenggara Timur"
+    ],
+    "label:ind_x_preferred_placetype":[
+        "provinsi"
     ],
     "lbl:latitude":-8.689506,
     "lbl:longitude":121.041577,
@@ -129,10 +138,10 @@
         "Daya a Nusa Tenggara"
     ],
     "name:ind_x_preferred":[
-        "Provinsi Nusa Tenggara Timur"
+        "Nusa Tenggara Timur"
     ],
     "name:ind_x_variant":[
-        "Nusa Tenggara Timur"
+        "Provinsi Nusa Tenggara Timur"
     ],
     "name:ita_x_preferred":[
         "Nusa Tenggara Orientale"
@@ -342,8 +351,8 @@
         "quattroshapes"
     ],
     "src:lbl:centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population:date":"2010-05-17",
+    "src:population":"wk",
+    "src:population_date":"2020-01-01",
     "statoids:area_km":"47,351",
     "statoids:area_mi":"18,282",
     "statoids:as_of_date":"2010-05-17",
@@ -395,14 +404,14 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614743020,
+    "wof:lastmodified":1623173306,
     "wof:name":"Nusa Tenggara Timur",
     "wof:parent_id":85632203,
     "wof:placetype":"region",
     "wof:placetype_alt":[],
     "wof:placetype_local":"province",
-    "wof:population":4683827,
-    "wof:population_rank":12,
+    "wof:population":5325566,
+    "wof:population_rank":13,
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:shortcode":"NT",
     "wof:subdivision":"ID-NT",

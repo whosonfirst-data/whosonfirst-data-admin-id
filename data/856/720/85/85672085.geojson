@@ -13,13 +13,22 @@
     "gn:population":1038087,
     "iso:country":"ID",
     "label:eng_x_preferred_longname":[
-        "Maluku Utara Province"
+        "North Maluku Province"
     ],
     "label:eng_x_preferred_placetype":[
         "province"
     ],
     "label:eng_x_preferred_shortcode":[
         "MU"
+    ],
+    "label:eng_x_variant_longname":[
+        "Province of North Maluku"
+    ],
+    "label:ind_x_preferred_longname":[
+        "Provinsi Maluku Utara"
+    ],
+    "label:ind_x_preferred_placetype":[
+        "provinsi"
     ],
     "lbl:latitude":1.477769,
     "lbl:longitude":127.771723,
@@ -127,10 +136,10 @@
         "Amianan a Maluku"
     ],
     "name:ind_x_preferred":[
-        "Provinsi Maluku Utara"
+        "Maluku Utara"
     ],
     "name:ind_x_variant":[
-        "Maluku Utara"
+        "Provinsi Maluku Utara"
     ],
     "name:ita_x_preferred":[
         "Maluku Settentrionale"
@@ -322,8 +331,8 @@
         "quattroshapes"
     ],
     "src:lbl:centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population:date":"2010-05-17",
+    "src:population":"wk",
+    "src:population_date":"2020-01-01",
     "statoids:area_km":"30,895",
     "statoids:area_mi":"11,929",
     "statoids:as_of_date":"2010-05-17",
@@ -375,13 +384,13 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614744183,
+    "wof:lastmodified":1623173308,
     "wof:name":"Maluku Utara",
     "wof:parent_id":85632203,
     "wof:placetype":"region",
     "wof:placetype_alt":[],
     "wof:placetype_local":"province",
-    "wof:population":1038087,
+    "wof:population":1282937,
     "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:shortcode":"MU",

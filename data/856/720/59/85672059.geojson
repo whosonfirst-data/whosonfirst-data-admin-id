@@ -20,6 +20,15 @@
     "label:eng_x_preferred_shortcode":[
         "JA"
     ],
+    "label:eng_x_variant_longname":[
+        "Province of Jambi"
+    ],
+    "label:ind_x_preferred_longname":[
+        "Provinsi Jambi"
+    ],
+    "label:ind_x_preferred_placetype":[
+        "provinsi"
+    ],
     "lbl:latitude":-1.738598,
     "lbl:longitude":102.583839,
     "meso:name_local":"Jambi",
@@ -123,10 +132,10 @@
         "Jambi"
     ],
     "name:ind_x_preferred":[
-        "Provinsi Jambi"
+        "Jambi"
     ],
     "name:ind_x_variant":[
-        "Jambi"
+        "Provinsi Jambi"
     ],
     "name:ita_x_preferred":[
         "Jambi"
@@ -354,8 +363,8 @@
         "quattroshapes"
     ],
     "src:lbl:centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population:date":"2010-05-17",
+    "src:population":"wk",
+    "src:population_date":"2020-01-01",
     "statoids:area_km":"53,437",
     "statoids:area_mi":"20,632",
     "statoids:as_of_date":"2010-05-17",
@@ -406,13 +415,13 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614743529,
+    "wof:lastmodified":1623173304,
     "wof:name":"Jambi",
     "wof:parent_id":85632203,
     "wof:placetype":"region",
     "wof:placetype_alt":[],
     "wof:placetype_local":"province",
-    "wof:population":3092265,
+    "wof:population":3548228,
     "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:shortcode":"JA",
