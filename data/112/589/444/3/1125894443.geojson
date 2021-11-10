@@ -22,11 +22,17 @@
     "name:ara_x_preferred":[
         "\u062a\u064a\u062f\u0648\u0631"
     ],
+    "name:ben_x_preferred":[
+        "\u09a4\u09bf\u09a6\u09cb\u09b0\u09c7"
+    ],
     "name:cat_x_preferred":[
         "Tidore"
     ],
     "name:deu_x_preferred":[
         "Tidore"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03b9\u03bd\u03c4\u03cc\u03c1\u03b5"
     ],
     "name:eng_x_preferred":[
         "Tidore"
@@ -45,6 +51,12 @@
     ],
     "name:heb_x_preferred":[
         "\u05d8\u05d9\u05d3\u05d5\u05e8\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0924\u093f\u0921\u094b\u0930\u0947"
+    ],
+    "name:hun_x_preferred":[
+        "Tidore"
     ],
     "name:hye_x_preferred":[
         "\u054f\u056b\u0564\u0578\u0580\u0565"
@@ -100,8 +112,17 @@
     "name:tha_x_preferred":[
         "\u0e15\u0e35\u0e42\u0e14\u0e40\u0e23"
     ],
+    "name:tur_x_preferred":[
+        "Tidore"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0456\u0434\u043e\u0440\u0435"
+    ],
     "name:unk_x_variant":[
         "Soasioe"
+    ],
+    "name:urd_x_preferred":[
+        "\u062a\u06cc\u0688\u0648\u0631\u06d2"
     ],
     "name:vie_x_preferred":[
         "Tidore"
@@ -136,8 +157,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        102072979,
-        85672085
+        85672085,
+        102072979
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -166,7 +187,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614642214,
+    "wof:lastmodified":1636502427,
     "wof:name":"Tidore",
     "wof:parent_id":102072979,
     "wof:placetype":"locality",

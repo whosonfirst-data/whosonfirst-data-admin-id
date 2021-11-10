@@ -58,6 +58,9 @@
     "name:fra_x_preferred":[
         "Guntur"
     ],
+    "name:heb_x_preferred":[
+        "\u05d2\u05d5\u05e0\u05d8\u05d5\u05e8"
+    ],
     "name:hin_x_preferred":[
         "\u0917\u0941\u0902\u091f\u0942\u0930"
     ],
@@ -187,11 +190,11 @@
     "wd:longitude":"80.45",
     "wd:wordcount":3176,
     "wof:belongsto":[
+        85672001,
         102191569,
         85632203,
         102020433,
-        102072667,
-        85672001
+        102072667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -224,7 +227,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614744859,
+    "wof:lastmodified":1636502427,
     "wof:name":"Guntur",
     "wof:parent_id":102020433,
     "wof:placetype":"neighbourhood",

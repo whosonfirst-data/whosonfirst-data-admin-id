@@ -26,13 +26,34 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0645\u0627\u0633\u064a"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ae\u09be\u09b8\u09bf"
+    ],
     "name:ceb_x_preferred":[
         "Masi"
     ],
     "name:deu_x_preferred":[
         "Masi"
     ],
+    "name:ell_x_preferred":[
+        "\u039c\u03ac\u03c3\u03b9"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u0633\u06cc"
+    ],
     "name:fra_x_preferred":[
+        "Masi"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d0\u05e1\u05d9\u05e3 \u05d3\u05d4 \u05d1\u05d5\u05e0\u05d2\u05d5\u05e1"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u093e\u0938\u0940"
+    ],
+    "name:hun_x_preferred":[
         "Masi"
     ],
     "name:ind_x_preferred":[
@@ -41,27 +62,58 @@
     "name:ita_x_preferred":[
         "Masi"
     ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30b7\u5ddd"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9c8\uc2dc"
+    ],
     "name:nld_x_preferred":[
         "Masi"
     ],
     "name:pol_x_preferred":[
         "Masi"
     ],
+    "name:por_x_preferred":[
+        "Masi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0440\u0435\u043a\u0430 \u041c\u0443\u0441\u0438"
+    ],
     "name:spa_x_preferred":[
         "Masi"
     ],
+    "name:spa_x_variant":[],
     "name:srp_x_preferred":[
         "Mazi"
     ],
     "name:swe_x_preferred":[
         "Masi"
     ],
+    "name:tur_x_preferred":[
+        "Masi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u0441\u0456"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0627\u0633\u06cc"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00f4ng Masi"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u9a6c\u897f\u6cb3"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u99ac\u897f\u6cb3"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        102072751,
-        85672037
+        85672037,
+        102072751
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -86,7 +138,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614637602,
+    "wof:lastmodified":1636502377,
     "wof:name":"Masi",
     "wof:parent_id":102072751,
     "wof:placetype":"locality",

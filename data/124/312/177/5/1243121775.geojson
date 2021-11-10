@@ -26,6 +26,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":13.0,
+    "name:ara_x_preferred":[
+        "\u0646\u0627\u062a\u0627"
+    ],
+    "name:ben_x_preferred":[
+        "\u09a8\u09be\u09a4\u09be"
+    ],
     "name:ceb_x_preferred":[
         "Nata"
     ],
@@ -41,11 +47,20 @@
     "name:glg_x_preferred":[
         "Nata"
     ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05d8\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0928\u093e\u0924\u093e"
+    ],
     "name:ind_x_preferred":[
         "Nata"
     ],
     "name:ita_x_preferred":[
         "Nata"
+    ],
+    "name:kor_x_preferred":[
+        "\ub098\ud0c0"
     ],
     "name:por_x_preferred":[
         "Nata"
@@ -56,12 +71,21 @@
     "name:swe_x_preferred":[
         "Nata"
     ],
+    "name:tur_x_preferred":[
+        "Nata"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0430\u0442\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0646\u06cc\u0679\u0627"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        102073193,
-        85671983
+        85671983,
+        102073193
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -86,7 +110,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614653959,
+    "wof:lastmodified":1636502433,
     "wof:name":"Nata",
     "wof:parent_id":102073193,
     "wof:placetype":"locality",

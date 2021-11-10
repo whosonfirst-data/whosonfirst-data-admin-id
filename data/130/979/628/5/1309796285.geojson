@@ -26,11 +26,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ben_x_preferred":[
+        "\u09a6\u09be\u09b0\u09c1"
+    ],
     "name:ceb_x_preferred":[
         "Daru"
     ],
     "name:deu_x_preferred":[
         "Daru"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03c4\u03b1\u03c1\u03bf\u03cd"
     ],
     "name:fas_x_preferred":[
         "\u062f\u0627\u0631\u0648"
@@ -45,6 +51,15 @@
         "Daru"
     ],
     "name:glg_x_preferred":[
+        "Daru"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05d0\u05e8\u05d5"
+    ],
+    "name:hin_x_preferred":[
+        "\u0926\u093e\u0930\u0942"
+    ],
+    "name:hun_x_preferred":[
         "Daru"
     ],
     "name:ind_x_preferred":[
@@ -71,10 +86,16 @@
     "name:rus_x_preferred":[
         "\u0414\u0430\u0440\u0443"
     ],
+    "name:spa_x_preferred":[
+        "Daru"
+    ],
     "name:swe_x_preferred":[
         "Daru"
     ],
     "name:tpi_x_preferred":[
+        "Daru"
+    ],
+    "name:tur_x_preferred":[
         "Daru"
     ],
     "name:ukr_x_preferred":[
@@ -83,12 +104,15 @@
     "name:urd_x_preferred":[
         "\u062f\u0627\u0631\u0648"
     ],
+    "name:vie_x_preferred":[
+        "Daru"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        102073297,
-        85672027
+        85672027,
+        102073297
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -113,7 +137,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614641781,
+    "wof:lastmodified":1636502421,
     "wof:name":"Daru",
     "wof:parent_id":102073297,
     "wof:placetype":"locality",

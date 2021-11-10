@@ -26,17 +26,38 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0631\u0627\u0645\u0648"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b0\u09be\u09ae\u09c1"
+    ],
     "name:chv_x_preferred":[
         "\u0420\u0430\u043c\u0443"
     ],
     "name:deu_x_preferred":[
         "Ramu"
     ],
+    "name:ell_x_preferred":[
+        "\u03a1\u03b1\u03bc\u03bf\u03cd"
+    ],
     "name:fra_x_preferred":[
+        "Ramu"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05d0\u05de\u05d5"
+    ],
+    "name:hun_x_preferred":[
         "Ramu"
     ],
     "name:ind_x_preferred":[
         "Ramu"
+    ],
+    "name:ita_x_preferred":[
+        "Ramu"
+    ],
+    "name:kor_x_preferred":[
+        "\ub77c\ubb34"
     ],
     "name:lit_x_preferred":[
         "Ramu"
@@ -47,11 +68,26 @@
     "name:rus_x_preferred":[
         "\u0420\u0430\u043c\u0443"
     ],
+    "name:spa_x_preferred":[
+        "Ramu"
+    ],
     "name:swa_x_preferred":[
         "Ramu"
     ],
+    "name:swe_x_preferred":[
+        "Ramu"
+    ],
+    "name:tur_x_preferred":[
+        "lake"
+    ],
     "name:ukr_x_preferred":[
         "\u0420\u0430\u043c\u0443"
+    ],
+    "name:urd_x_preferred":[
+        "\u0631\u0627\u0645\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00f4ng Ramu"
     ],
     "name:zho_x_preferred":[
         "\u62c9\u7a46\u6cb3"
@@ -60,8 +96,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        102072671,
-        85672037
+        85672037,
+        102072671
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -86,7 +122,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614636024,
+    "wof:lastmodified":1636502358,
     "wof:name":"Ramu",
     "wof:parent_id":102072671,
     "wof:placetype":"locality",

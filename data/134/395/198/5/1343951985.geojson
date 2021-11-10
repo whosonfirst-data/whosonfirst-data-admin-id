@@ -32,13 +32,28 @@
     "name:ara_x_preferred":[
         "\u0628\u0627\u0633\u0648\u0631\u0648\u0627\u0646"
     ],
+    "name:ben_x_preferred":[
+        "\u09aa\u09be\u09b8\u09c1\u09b0\u09be\u09a8"
+    ],
     "name:ceb_x_preferred":[
         "Pasuruan"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03b1\u03c3\u03bf\u03c5\u03c1\u03bf\u03c5\u03ac\u03bd"
     ],
     "name:fas_x_preferred":[
         "\u067e\u0627\u0633\u0648\u0631\u0626\u0648\u0627\u0646"
     ],
     "name:fra_x_preferred":[
+        "Pasuruan"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05e1\u05d5\u05e8\u05d5\u05d0\u05df"
+    ],
+    "name:hin_x_preferred":[
+        "\u092a\u093e\u0938\u0941\u0930\u0941\u0906\u0928"
+    ],
+    "name:hun_x_preferred":[
         "Pasuruan"
     ],
     "name:ind_x_preferred":[
@@ -74,6 +89,9 @@
     "name:pol_x_preferred":[
         "Pasuruan"
     ],
+    "name:por_x_preferred":[
+        "Pasuruan"
+    ],
     "name:ron_x_preferred":[
         "Pasuruan"
     ],
@@ -92,15 +110,21 @@
     "name:tur_x_preferred":[
         "Pasuruan"
     ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0430\u0441\u0443\u0440\u0443\u0430\u043d"
+    ],
     "name:urd_x_preferred":[
         "\u067e\u0627\u0633\u0648\u0631\u0648\u0627\u0646"
+    ],
+    "name:vie_x_preferred":[
+        "Pasuruan"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        102072921,
-        85671987
+        85671987,
+        102072921
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -125,7 +149,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614650447,
+    "wof:lastmodified":1636502330,
     "wof:name":"Pasuruan",
     "wof:parent_id":102072921,
     "wof:placetype":"locality",

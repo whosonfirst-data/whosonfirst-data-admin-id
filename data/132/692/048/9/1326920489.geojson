@@ -26,6 +26,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ben_x_preferred":[
+        "\u09b2\u09be\u09aa\u09be"
+    ],
     "name:bpy_x_preferred":[
         "\u09b2\u09be\u09aa\u09be"
     ],
@@ -35,8 +38,14 @@
     "name:deu_x_preferred":[
         "Lapa"
     ],
+    "name:ell_x_preferred":[
+        "\u039b\u03ac\u03c0\u03b1"
+    ],
     "name:eus_x_preferred":[
         "Lapa"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0627\u067e\u0627"
     ],
     "name:fin_x_preferred":[
         "Lapa"
@@ -47,8 +56,23 @@
     "name:glg_x_preferred":[
         "Lapa"
     ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d0\u05e4\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0932\u093e\u092a\u093e"
+    ],
+    "name:ind_x_preferred":[
+        "Lapa"
+    ],
     "name:ita_x_preferred":[
         "Lapa"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30d1"
+    ],
+    "name:kor_x_preferred":[
+        "\ub77c\ud30c"
     ],
     "name:lav_x_preferred":[
         "Lapa"
@@ -68,12 +92,24 @@
     "name:swe_x_preferred":[
         "Lapa"
     ],
+    "name:tur_x_preferred":[
+        "Lapa"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0430\u043f\u0430"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u62c9\u5e15"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u62c9\u5e15"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        102073063,
-        85672027
+        85672027,
+        102073063
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -98,7 +134,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614632751,
+    "wof:lastmodified":1636502276,
     "wof:name":"Lapa",
     "wof:parent_id":102073063,
     "wof:placetype":"locality",

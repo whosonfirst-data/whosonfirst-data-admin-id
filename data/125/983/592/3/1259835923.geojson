@@ -29,11 +29,17 @@
     "name:ara_x_preferred":[
         "\u0644\u0627\u0628\u0627\u0633\u0627"
     ],
+    "name:ben_x_preferred":[
+        "\u09b2\u09be\u09ac\u09be\u09b8\u09be"
+    ],
     "name:ceb_x_preferred":[
         "Lambasa"
     ],
     "name:deu_x_preferred":[
         "Labasa"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0627\u0628\u0627\u0633\u0627"
     ],
     "name:fij_x_preferred":[
         "Labasa"
@@ -52,6 +58,9 @@
     ],
     "name:hin_x_preferred":[
         "\u0932\u092e\u094d\u092c\u093e\u0938\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Labasa"
     ],
     "name:ind_x_preferred":[
         "Labasa"
@@ -92,6 +101,18 @@
     "name:tam_x_preferred":[
         "\u0bb2\u0bae\u0bcd\u0baa\u0bbe\u0b9a\u0bbe"
     ],
+    "name:tur_x_preferred":[
+        "Labasa"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0430\u0431\u0430\u0441\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627\u0628\u0627\u0633\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Labasa"
+    ],
     "name:zho_x_preferred":[
         "\u62c9\u5df4\u8428"
     ],
@@ -99,8 +120,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        102072761,
-        85672105
+        85672105,
+        102072761
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -125,7 +146,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614644024,
+    "wof:lastmodified":1636502448,
     "wof:name":"Labasa",
     "wof:parent_id":102072761,
     "wof:placetype":"locality",

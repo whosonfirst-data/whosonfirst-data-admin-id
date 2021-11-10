@@ -327,6 +327,9 @@
         "To\u02bbg\u02bbon"
     ],
     "name:vie_x_preferred":[
+        "Dam"
+    ],
+    "name:vie_x_variant":[
         "\u0110\u1eadp"
     ],
     "name:war_x_preferred":[
@@ -341,12 +344,18 @@
     "name:yid_x_preferred":[
         "\u05d3\u05d0\u05dd"
     ],
+    "name:zho_cn_x_preferred":[
+        "\u6c34\u5e93"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u9054\u6728\u6cb3"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        102073157,
-        85672027
+        85672027,
+        102073157
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -371,7 +380,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614653001,
+    "wof:lastmodified":1636502401,
     "wof:name":"Dam",
     "wof:parent_id":102073157,
     "wof:placetype":"locality",

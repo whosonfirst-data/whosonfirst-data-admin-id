@@ -29,6 +29,9 @@
     "name:azb_x_preferred":[
         "\u0633\u06cc\u0648"
     ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09cb\u09df\u09cb"
+    ],
     "name:cat_x_preferred":[
         "Soyo"
     ],
@@ -50,6 +53,12 @@
     "name:fra_x_preferred":[
         "Soyo"
     ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d5\u05d9\u05d5"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u094b\u092f\u094b"
+    ],
     "name:hrv_x_preferred":[
         "Soyo"
     ],
@@ -64,6 +73,9 @@
     ],
     "name:kon_x_preferred":[
         "Mbanza Soyo"
+    ],
+    "name:kor_x_preferred":[
+        "\uc18c\uc694"
     ],
     "name:lit_x_preferred":[
         "Sojas"
@@ -95,12 +107,24 @@
     "name:swe_x_preferred":[
         "Soyo"
     ],
+    "name:tur_x_preferred":[
+        "Soyo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043e\u0439\u043e"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0648\u06cc\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "Soyo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        102073013,
-        85672027
+        85672027,
+        102073013
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -125,7 +149,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614640877,
+    "wof:lastmodified":1636502411,
     "wof:name":"Soyo",
     "wof:parent_id":102073013,
     "wof:placetype":"locality",

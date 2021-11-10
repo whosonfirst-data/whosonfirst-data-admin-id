@@ -26,17 +26,35 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u062a\u0627\u0645\u064a\u0647"
+    ],
+    "name:ben_x_preferred":[
+        "\u09a4\u09c7\u09ae"
+    ],
     "name:ceb_x_preferred":[
         "Tame"
     ],
     "name:deu_x_preferred":[
         "Tame"
     ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03ac\u03bc\u03b5"
+    ],
     "name:fra_x_preferred":[
+        "Tame"
+    ],
+    "name:hin_x_preferred":[
+        "\u091f\u0947\u092e"
+    ],
+    "name:hun_x_preferred":[
         "Tame"
     ],
     "name:ind_x_preferred":[
         "Tame"
+    ],
+    "name:kor_x_preferred":[
+        "\ud0c0\uba54"
     ],
     "name:nor_x_preferred":[
         "Tame"
@@ -56,12 +74,21 @@
     "name:swe_x_preferred":[
         "Tame"
     ],
+    "name:tur_x_preferred":[
+        "Tame"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0430\u043c\u0435"
+    ],
+    "name:urd_x_preferred":[
+        "\u0679\u06cc\u0645"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        102072751,
-        85672037
+        85672037,
+        102072751
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -86,7 +113,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614645887,
+    "wof:lastmodified":1636502471,
     "wof:name":"Tame",
     "wof:parent_id":102072751,
     "wof:placetype":"locality",

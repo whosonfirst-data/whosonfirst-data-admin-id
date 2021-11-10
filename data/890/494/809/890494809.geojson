@@ -31,6 +31,9 @@
     "name:aze_x_preferred":[
         "Boqor"
     ],
+    "name:ben_x_preferred":[
+        "\u09ac\u09cb\u0997\u09cb\u09b0"
+    ],
     "name:bul_x_preferred":[
         "\u0411\u043e\u0433\u043e\u0440"
     ],
@@ -51,6 +54,9 @@
     ],
     "name:deu_x_preferred":[
         "Bogor"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03cc\u03b3\u03ba\u03bf\u03c1"
     ],
     "name:eng_x_preferred":[
         "Bogor"
@@ -193,8 +199,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        102073053,
-        85671995
+        85671995,
+        102073053
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -224,7 +230,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614642188,
+    "wof:lastmodified":1636502426,
     "wof:name":"Bogor",
     "wof:parent_id":102073053,
     "wof:placetype":"locality",

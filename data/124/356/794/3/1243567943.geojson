@@ -32,6 +32,12 @@
     "name:deu_x_preferred":[
         "Paro"
     ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d0\u05e8\u05d5"
+    ],
+    "name:hun_x_preferred":[
+        "Paro"
+    ],
     "name:ind_x_preferred":[
         "Paro"
     ],
@@ -53,12 +59,15 @@
     "name:swe_x_preferred":[
         "Paro"
     ],
+    "name:vie_x_preferred":[
+        "Paro"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        102073273,
-        85671973
+        85671973,
+        102073273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -83,7 +92,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614654030,
+    "wof:lastmodified":1636502438,
     "wof:name":"Paro",
     "wof:parent_id":102073273,
     "wof:placetype":"locality",

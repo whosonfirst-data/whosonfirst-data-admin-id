@@ -222,6 +222,9 @@
         "Nauru"
     ],
     "name:hin_x_preferred":[
+        "\u0928\u093e\u0909\u0930\u0942"
+    ],
+    "name:hin_x_variant":[
         "\u0928\u093e\u0909\u0930\u0941"
     ],
     "name:hrv_x_preferred":[
@@ -516,6 +519,9 @@
         "Nauru"
     ],
     "name:vie_x_preferred":[
+        "\u0110\u1ea3o Nauru"
+    ],
+    "name:vie_x_variant":[
         "Nauru"
     ],
     "name:vol_x_preferred":[
@@ -539,12 +545,18 @@
     "name:zha_x_preferred":[
         "Nauru"
     ],
+    "name:zho_cn_x_preferred":[
+        "\u7459\u9c81\u5c9b"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u8afe\u9b6f\u5cf6"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        1108796853,
-        85672037
+        85672037,
+        1108796853
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -569,7 +581,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614639767,
+    "wof:lastmodified":1636502399,
     "wof:name":"Nauru",
     "wof:parent_id":1108796853,
     "wof:placetype":"locality",

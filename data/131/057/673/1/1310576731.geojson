@@ -29,6 +29,9 @@
     "name:ara_x_preferred":[
         "\u0644\u0648\u0628\u0648\u0633"
     ],
+    "name:ben_x_preferred":[
+        "\u09b2\u09cb\u09ac\u09cb\u09b8"
+    ],
     "name:cat_x_preferred":[
         "Lobos"
     ],
@@ -38,11 +41,29 @@
     "name:deu_x_preferred":[
         "Lobos"
     ],
+    "name:ell_x_preferred":[
+        "\u039b\u03cc\u03bc\u03c0\u03bf\u03c2"
+    ],
     "name:fra_x_preferred":[
+        "Lobos"
+    ],
+    "name:hin_x_preferred":[
+        "\u0932\u094b\u092c\u094b\u0938"
+    ],
+    "name:hun_x_preferred":[
+        "Lobos"
+    ],
+    "name:ind_x_preferred":[
         "Lobos"
     ],
     "name:ita_x_preferred":[
         "Lobos"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ed\u30dc\u30b9"
+    ],
+    "name:kor_x_preferred":[
+        "\ub85c\ubcf4\uc2a4"
     ],
     "name:lit_x_preferred":[
         "Lobosas"
@@ -65,12 +86,24 @@
     "name:swe_x_preferred":[
         "Lobos"
     ],
+    "name:urd_x_preferred":[
+        "\u0644\u0648\u0628\u0648\u0633"
+    ],
+    "name:vie_x_preferred":[
+        "Lobos"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u6d1b\u6c83\u65af"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u7f85\u4f2f\u65af"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        102072751,
-        85672037
+        85672037,
+        102072751
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -95,7 +128,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614641073,
+    "wof:lastmodified":1636502414,
     "wof:name":"Lobos",
     "wof:parent_id":102072751,
     "wof:placetype":"locality",

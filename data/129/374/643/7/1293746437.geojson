@@ -35,6 +35,9 @@
     "name:bel_x_preferred":[
         "\u0410\u043a\u0430"
     ],
+    "name:ben_x_preferred":[
+        "\u0993\u0995\u09be"
+    ],
     "name:bul_x_preferred":[
         "\u041e\u043a\u0430"
     ],
@@ -50,8 +53,14 @@
     "name:deu_x_preferred":[
         "Oka"
     ],
+    "name:ell_x_preferred":[
+        "\u038c\u03ba\u03b1"
+    ],
     "name:eus_x_preferred":[
         "Oka"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u06a9\u0627"
     ],
     "name:fin_x_preferred":[
         "Oka"
@@ -67,6 +76,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05d0\u05d5\u05e7\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0913\u0915\u093e"
     ],
     "name:hrv_x_preferred":[
         "Oka"
@@ -89,6 +101,9 @@
     "name:pol_x_preferred":[
         "Oka"
     ],
+    "name:por_x_preferred":[
+        "Oca"
+    ],
     "name:ron_x_preferred":[
         "Oka"
     ],
@@ -110,15 +125,24 @@
     "name:swe_x_preferred":[
         "Oka"
     ],
+    "name:tur_x_preferred":[
+        "Oka"
+    ],
     "name:ukr_x_preferred":[
         "\u041e\u043a\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0648\u06a9\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00f4ng Oka"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        102072837,
-        85672037
+        85672037,
+        102072837
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -143,7 +167,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614636446,
+    "wof:lastmodified":1636502362,
     "wof:name":"Oka",
     "wof:parent_id":102072837,
     "wof:placetype":"locality",

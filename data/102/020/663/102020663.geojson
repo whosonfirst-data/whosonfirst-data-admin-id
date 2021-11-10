@@ -19,8 +19,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
+    "name:ara_x_preferred":[
+        "\u0633\u064a\u0644\u0627\u0643\u0627\u0628"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09bf\u09b2\u09be\u0995\u09cd\u09af\u09be\u09aa"
+    ],
     "name:deu_x_preferred":[
         "Cilacap"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b9\u03bb\u03b1\u03ba\u03ac\u03c0"
     ],
     "name:eng_x_preferred":[
         "Cilacap"
@@ -29,14 +38,35 @@
         "Chilachap",
         "Tjilatjap"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u06cc\u0644\u0627\u06a9\u0627\u067e"
+    ],
     "name:fra_x_preferred":[
+        "Cilacap"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d9\u05dc\u05e7\u05d0\u05e3"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u093f\u0932\u093e\u0915\u0948\u092a"
+    ],
+    "name:hun_x_preferred":[
         "Cilacap"
     ],
     "name:ind_x_preferred":[
         "Cilacap"
     ],
+    "name:ita_x_preferred":[
+        "Cilacap"
+    ],
     "name:jav_x_preferred":[
         "Cilacap"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c1\u30e9\u30c1\u30e3\u30d7"
+    ],
+    "name:kor_x_preferred":[
+        "\uc2e4\ub77c\uce85"
     ],
     "name:nld_x_preferred":[
         "Cilacap"
@@ -53,11 +83,32 @@
     "name:ron_x_preferred":[
         "Cilacap"
     ],
+    "name:rus_x_preferred":[
+        "\u0427\u0438\u043b\u0430\u0447\u0430\u043f"
+    ],
     "name:spa_x_preferred":[
+        "Cilacap"
+    ],
+    "name:swe_x_preferred":[
+        "Cilacap"
+    ],
+    "name:tur_x_preferred":[
         "Cilacap"
     ],
     "name:unk_x_variant":[
         "Chilachap"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u06cc\u0644\u0627\u06a9\u06cc\u067e"
+    ],
+    "name:vie_x_preferred":[
+        "Cilacap"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u829d\u62c9\u624e"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u829d\u62c9\u624e"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Indonesia",
@@ -212,7 +263,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614713545,
+    "wof:lastmodified":1636502301,
     "wof:name":"Cilacap",
     "wof:parent_id":102072819,
     "wof:placetype":"locality",

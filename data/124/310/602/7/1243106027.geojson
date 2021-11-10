@@ -51,6 +51,9 @@
         "Tana"
     ],
     "name:heb_x_preferred":[
+        "\u05d8\u05d0\u05e0\u05d4"
+    ],
+    "name:heb_x_variant":[
         "\u05d8\u05e0\u05d4"
     ],
     "name:hrv_x_preferred":[
@@ -67,6 +70,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10e2\u10d0\u10dc\u10d0"
+    ],
+    "name:kor_x_preferred":[
+        "\ud0c0\ub098"
     ],
     "name:lim_x_preferred":[
         "Tana"
@@ -104,15 +110,21 @@
     "name:ukr_x_preferred":[
         "\u0422\u0430\u043d\u0430"
     ],
+    "name:urd_x_preferred":[
+        "\u062a\u0627\u0646\u0627"
+    ],
     "name:uzb_x_preferred":[
         "Tana"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00f4ng Tana"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        1108796933,
-        85672041
+        85672041,
+        1108796933
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -137,7 +149,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614643604,
+    "wof:lastmodified":1636502443,
     "wof:name":"Tana",
     "wof:parent_id":1108796933,
     "wof:placetype":"locality",

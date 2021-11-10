@@ -29,8 +29,14 @@
     "name:afr_x_preferred":[
         "Karoi"
     ],
+    "name:ara_x_preferred":[
+        "\u0643\u0627\u0631\u0648\u064a"
+    ],
     "name:bar_x_preferred":[
         "Karoi"
+    ],
+    "name:ben_x_preferred":[
+        "\u0995\u09be\u09b0\u09cb\u0987"
     ],
     "name:ceb_x_preferred":[
         "Karoi"
@@ -38,7 +44,22 @@
     "name:deu_x_preferred":[
         "Karoi"
     ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03c1\u03cc\u03b9"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0627\u0631\u0648\u06cc\u06cc"
+    ],
     "name:fra_x_preferred":[
+        "Karoi"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05e8\u05d5\u05d9"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u0930\u094b\u0908"
+    ],
+    "name:hun_x_preferred":[
         "Karoi"
     ],
     "name:ind_x_preferred":[
@@ -47,7 +68,13 @@
     "name:ita_x_preferred":[
         "Karoi"
     ],
+    "name:kor_x_preferred":[
+        "\uce74\ub85c\uc774"
+    ],
     "name:pol_x_preferred":[
+        "Karoi"
+    ],
+    "name:por_x_preferred":[
         "Karoi"
     ],
     "name:ron_x_preferred":[
@@ -59,21 +86,33 @@
     "name:sna_x_preferred":[
         "Karoi"
     ],
+    "name:spa_x_preferred":[
+        "Karoi"
+    ],
     "name:srp_x_preferred":[
         "\u041a\u0430\u0440\u043e\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Karoi"
     ],
     "name:tur_x_preferred":[
         "Karoi"
     ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u0440\u043e\u0439"
+    ],
     "name:urd_x_preferred":[
         "\u06a9\u0627\u0631\u0648\u06cc"
+    ],
+    "name:vie_x_preferred":[
+        "Karoi"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        102072635,
-        85672067
+        85672067,
+        102072635
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -98,7 +137,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614632484,
+    "wof:lastmodified":1636502273,
     "wof:name":"Karoi",
     "wof:parent_id":102072635,
     "wof:placetype":"locality",

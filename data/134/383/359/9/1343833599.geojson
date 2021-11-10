@@ -26,6 +26,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ben_x_preferred":[
+        "\u09b2\u09cb\u09a4\u09be"
+    ],
     "name:ceb_x_preferred":[
         "Lota"
     ],
@@ -35,10 +38,19 @@
     "name:deu_x_preferred":[
         "Lota"
     ],
+    "name:ell_x_preferred":[
+        "\u039b\u03cc\u03c4\u03b1"
+    ],
     "name:est_x_preferred":[
         "Lota"
     ],
     "name:fra_x_preferred":[
+        "Lota"
+    ],
+    "name:hin_x_preferred":[
+        "\u0932\u094b\u091f\u093e"
+    ],
+    "name:hun_x_preferred":[
         "Lota"
     ],
     "name:ind_x_preferred":[
@@ -65,15 +77,21 @@
     "name:swe_x_preferred":[
         "Lota"
     ],
+    "name:tur_x_preferred":[
+        "Lota"
+    ],
     "name:ukr_x_preferred":[
         "\u041b\u043e\u0442\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0648\u0679\u0627"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        102073045,
-        85672037
+        85672037,
+        102073045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -98,7 +116,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614634288,
+    "wof:lastmodified":1636502326,
     "wof:name":"Lota",
     "wof:parent_id":102073045,
     "wof:placetype":"locality",

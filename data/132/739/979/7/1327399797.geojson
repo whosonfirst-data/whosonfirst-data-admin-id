@@ -54,7 +54,13 @@
         "Nara"
     ],
     "name:heb_x_preferred":[
+        "\u05e0\u05e8\u05d4"
+    ],
+    "name:heb_x_variant":[
         "\u05e0\u05d0\u05e8\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0928\u093e\u0930\u093e"
     ],
     "name:hrv_x_preferred":[
         "Nara"
@@ -125,12 +131,21 @@
     "name:tur_x_preferred":[
         "Nara"
     ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0430\u0440\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0646\u0627\u0631\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Nara"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        102072803,
-        85672037
+        85672037,
+        102072803
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -155,7 +170,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614632334,
+    "wof:lastmodified":1636502271,
     "wof:name":"Nara",
     "wof:parent_id":102072803,
     "wof:placetype":"locality",

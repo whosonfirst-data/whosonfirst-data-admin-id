@@ -29,11 +29,17 @@
     "name:ara_x_preferred":[
         "\u0646\u063a\u0645\u0629"
     ],
+    "name:ben_x_preferred":[
+        "\u099f\u09cb\u09a8"
+    ],
     "name:ceb_x_preferred":[
         "Tone"
     ],
     "name:deu_x_preferred":[
         "Tone"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03cc\u03bf\u03c5\u03bd"
     ],
     "name:fin_x_preferred":[
         "Tone"
@@ -62,6 +68,9 @@
     "name:pol_x_preferred":[
         "Tone"
     ],
+    "name:por_x_preferred":[
+        "Tone"
+    ],
     "name:rus_x_preferred":[
         "\u0422\u043e\u043d\u0435"
     ],
@@ -77,12 +86,15 @@
     "name:ukr_x_preferred":[
         "\u0422\u043e\u043d\u0435"
     ],
+    "name:urd_x_preferred":[
+        "\u0679\u0648\u0646"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        102073435,
-        85672111
+        85672111,
+        102073435
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -107,7 +119,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614641329,
+    "wof:lastmodified":1636502417,
     "wof:name":"Tone",
     "wof:parent_id":102073435,
     "wof:placetype":"locality",

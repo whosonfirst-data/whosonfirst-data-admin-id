@@ -26,11 +26,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ben_x_preferred":[
+        "\u0989\u0987\u0993\u09df\u09be\u0995"
+    ],
     "name:ceb_x_preferred":[
         "Wewak"
     ],
     "name:deu_x_preferred":[
         "Wewak"
+    ],
+    "name:ell_x_preferred":[
+        "\u0393\u03bf\u03c5\u03af\u03b3\u03b1\u03ba"
     ],
     "name:epo_x_preferred":[
         "Wewak"
@@ -49,6 +55,12 @@
     ],
     "name:heb_x_preferred":[
         "\u05d5\u05d9\u05d9\u05d5\u05d5\u05e7"
+    ],
+    "name:hin_x_preferred":[
+        "\u0935\u0947\u0935\u093e\u0915"
+    ],
+    "name:hun_x_preferred":[
+        "Wewak"
     ],
     "name:ind_x_preferred":[
         "Wewak"
@@ -83,11 +95,17 @@
     "name:tpi_x_preferred":[
         "Wewak"
     ],
+    "name:tur_x_preferred":[
+        "Wewak"
+    ],
     "name:ukr_x_preferred":[
         "\u0412\u0435\u0432\u0430\u043a"
     ],
     "name:urd_x_preferred":[
         "\u0648\u06cc\u0648\u0627\u06a9"
+    ],
+    "name:vie_x_preferred":[
+        "Wewak"
     ],
     "name:zho_x_preferred":[
         "\u97e6\u74e6\u514b"
@@ -96,8 +114,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        102073045,
-        85672037
+        85672037,
+        102073045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -122,7 +140,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614635173,
+    "wof:lastmodified":1636502338,
     "wof:name":"Wewak",
     "wof:parent_id":102073045,
     "wof:placetype":"locality",

@@ -35,6 +35,9 @@
     "name:bar_x_preferred":[
         "Roma"
     ],
+    "name:ben_x_preferred":[
+        "\u09b0\u09cb\u09ae\u09be"
+    ],
     "name:bul_x_preferred":[
         "\u0420\u043e\u043c\u0430"
     ],
@@ -56,6 +59,9 @@
     "name:deu_x_preferred":[
         "Roma"
     ],
+    "name:ell_x_preferred":[
+        "\u03a1\u03cc\u03bc\u03b1"
+    ],
     "name:fas_x_preferred":[
         "\u0631\u0648\u0645\u0627"
     ],
@@ -70,6 +76,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05e8\u05d5\u05de\u05d0"
+    ],
+    "name:hin_x_preferred":[
+        "\u0930\u094b\u092e\u093e"
     ],
     "name:hun_x_preferred":[
         "Roma"
@@ -152,6 +161,12 @@
     "name:ukr_x_preferred":[
         "\u0420\u043e\u043c\u0430"
     ],
+    "name:urd_x_preferred":[
+        "\u0631\u0648\u0645\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Roma"
+    ],
     "name:vol_x_preferred":[
         "Roma"
     ],
@@ -162,8 +177,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        102073193,
-        85671983
+        85671983,
+        102073193
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -188,7 +203,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652030,
+    "wof:lastmodified":1636502384,
     "wof:name":"Roma",
     "wof:parent_id":102073193,
     "wof:placetype":"locality",
