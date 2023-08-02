@@ -20,13 +20,25 @@
     "name:aze_x_preferred":[
         "Qarum"
     ],
+    "name:aze_x_variant":[
+        "qarum"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u0430\u0440\u0443\u043c"
+    ],
+    "name:bel_x_variant":[
+        "\u0433\u0430\u0440\u0443\u043c"
     ],
     "name:bre_x_preferred":[
         "Garum"
     ],
+    "name:bre_x_variant":[
+        "garum"
+    ],
     "name:cat_x_preferred":[
+        "garum"
+    ],
+    "name:ces_x_preferred":[
         "garum"
     ],
     "name:deu_x_preferred":[
@@ -35,14 +47,23 @@
     "name:ell_x_preferred":[
         "\u0393\u03b1\u03cd\u03c1\u03bf\u03c2"
     ],
+    "name:ell_x_variant":[
+        "\u03b3\u03b1\u03cd\u03c1\u03bf\u03c2"
+    ],
     "name:eng_x_preferred":[
         "garum"
     ],
     "name:est_x_preferred":[
         "Garum"
     ],
+    "name:est_x_variant":[
+        "garum"
+    ],
     "name:eus_x_preferred":[
         "Garum"
+    ],
+    "name:eus_x_variant":[
+        "garum"
     ],
     "name:fas_x_preferred":[
         "\u0645\u0647\u0648\u0647"
@@ -50,16 +71,28 @@
     "name:fin_x_preferred":[
         "Garum"
     ],
+    "name:fin_x_variant":[
+        "garum"
+    ],
     "name:fra_x_preferred":[
         "garum"
     ],
     "name:heb_x_preferred":[
         "\u05d2\u05d0\u05e8\u05d5\u05dd"
     ],
+    "name:hun_x_preferred":[
+        "garum"
+    ],
     "name:ind_x_preferred":[
         "Garum"
     ],
+    "name:ind_x_variant":[
+        "garum"
+    ],
     "name:ita_x_preferred":[
+        "garum"
+    ],
+    "name:jav_x_preferred":[
         "garum"
     ],
     "name:jpn_x_preferred":[
@@ -68,20 +101,41 @@
     "name:lat_x_preferred":[
         "Garum"
     ],
+    "name:lat_x_variant":[
+        "garum"
+    ],
     "name:lfn_x_preferred":[
         "Garo"
+    ],
+    "name:lfn_x_variant":[
+        "garo"
     ],
     "name:nap_x_preferred":[
         "Garum"
     ],
+    "name:nap_x_variant":[
+        "garum"
+    ],
     "name:nld_x_preferred":[
         "Garum"
+    ],
+    "name:nld_x_variant":[
+        "garum"
+    ],
+    "name:nrm_x_preferred":[
+        "garum"
     ],
     "name:oci_x_preferred":[
         "Garum"
     ],
+    "name:oci_x_variant":[
+        "garum"
+    ],
     "name:pol_x_preferred":[
         "Garum"
+    ],
+    "name:pol_x_variant":[
+        "garum"
     ],
     "name:por_x_preferred":[
         "garum"
@@ -89,8 +143,17 @@
     "name:ron_x_preferred":[
         "Garum"
     ],
+    "name:ron_x_variant":[
+        "garum"
+    ],
     "name:rus_x_preferred":[
         "\u0413\u0430\u0440\u0443\u043c"
+    ],
+    "name:rus_x_variant":[
+        "\u0433\u0430\u0440\u0443\u043c"
+    ],
+    "name:slv_x_preferred":[
+        "garum"
     ],
     "name:spa_x_preferred":[
         "garo"
@@ -98,14 +161,29 @@
     "name:swe_x_preferred":[
         "Garum"
     ],
+    "name:swe_x_variant":[
+        "garum"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e01\u0e32\u0e23\u0e39\u0e07"
+    ],
     "name:tur_x_preferred":[
         "Garum"
+    ],
+    "name:tur_x_variant":[
+        "garum"
     ],
     "name:ukr_x_preferred":[
         "\u0413\u0430\u0440\u0443\u043c"
     ],
+    "name:ukr_x_variant":[
+        "\u0433\u0430\u0440\u0443\u043c"
+    ],
     "name:unk_x_variant":[
         "Garoem"
+    ],
+    "name:uzb_x_preferred":[
+        "garum"
     ],
     "name:zho_x_preferred":[
         "\u9b5a\u91ac"
@@ -124,8 +202,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        102073155,
-        85672027
+        85672027,
+        102073155
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -155,7 +233,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614653725,
+    "wof:lastmodified":1690931504,
     "wof:name":"Garum",
     "wof:parent_id":102073155,
     "wof:placetype":"locality",

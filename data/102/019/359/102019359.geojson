@@ -24,8 +24,14 @@
     "name:ara_x_preferred":[
         "\u0628\u0631\u0648\u0628\u0648\u0644\u064a\u0646\u062c\u0648"
     ],
+    "name:ban_x_preferred":[
+        "Kota Probolinggo"
+    ],
     "name:ben_x_preferred":[
         "\u09aa\u09cd\u09b0\u09cb\u09ac\u09c1\u09b2\u09bf\u0982\u0997\u09c1"
+    ],
+    "name:bjn_x_preferred":[
+        "Kota Probolinggo"
     ],
     "name:cat_x_preferred":[
         "Probolinggo"
@@ -48,7 +54,11 @@
     "name:eng_x_variant":[
         "Prabalingga",
         "Probalingga",
-        "Probalinggo"
+        "Probalinggo",
+        "Probolinggo City"
+    ],
+    "name:epo_x_preferred":[
+        "Probolinggo"
     ],
     "name:fas_x_preferred":[
         "\u067e\u0631\u0648\u0628\u0648\u0644\u06cc\u0646\u06af\u0648"
@@ -60,6 +70,9 @@
         "Probolinggo"
     ],
     "name:fry_x_preferred":[
+        "Probolinggo"
+    ],
+    "name:gle_x_preferred":[
         "Probolinggo"
     ],
     "name:guj_x_preferred":[
@@ -155,11 +168,17 @@
     "name:tam_x_preferred":[
         "\u0baa\u0bc1\u0bb0\u0bca\u0baa\u0bcb\u0bb2\u0bbf\u0b99\u0bcd\u0b95\u0bcb"
     ],
+    "name:tat_x_preferred":[
+        "\u041f\u0440\u043e\u0431\u043e\u043b\u0438\u04a3\u0433\u043e"
+    ],
     "name:tel_x_preferred":[
         "\u0c2a\u0c4d\u0c30\u0c4b\u0c2c\u0c4b\u0c32\u0c3f\u0c02\u0c17\u0c4d\u0c17\u0c4b"
     ],
     "name:tha_x_preferred":[
         "\u0e42\u0e1b\u0e23\u0e42\u0e1a\u0e25\u0e34\u0e07\u0e42\u0e01\u0e49"
+    ],
+    "name:tha_x_variant":[
+        "\u0e42\u0e1b\u0e23\u0e42\u0e1a\u0e25\u0e34\u0e07\u0e42\u0e01"
     ],
     "name:tur_x_preferred":[
         "Probolinggo"
@@ -167,11 +186,17 @@
     "name:ukr_x_preferred":[
         "\u041f\u0440\u043e\u0431\u043e\u043b\u0456\u043d\u0433\u043e"
     ],
+    "name:ukr_x_variant":[
+        "\u041f\u0440\u043e\u0431\u043e\u043b\u0456\u043d\u0491\u043e"
+    ],
     "name:unk_x_variant":[
         "Probalingga"
     ],
     "name:urd_x_preferred":[
         "\u067e\u0631\u0648\u0628\u0648\u0644\u06cc\u0646\u062c\u062c\u0648"
+    ],
+    "name:vec_x_preferred":[
+        "Probolinggo"
     ],
     "name:vie_x_preferred":[
         "Probolinggo"
@@ -337,7 +362,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1636502314,
+    "wof:lastmodified":1690931305,
     "wof:name":"Probolinggo",
     "wof:parent_id":102073067,
     "wof:placetype":"locality",

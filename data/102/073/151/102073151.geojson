@@ -31,6 +31,9 @@
     "mps:longitude":100.26985,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Padang Pariaman"
+    ],
     "name:bel_x_preferred":[
         "\u0410\u043a\u0440\u0443\u0433\u0430 \u041f\u0430\u0434\u0430\u043d\u0433-\u041f\u0430\u0440\u044b\u044f\u043c\u0430\u043d"
     ],
@@ -44,7 +47,8 @@
         "Padang Pariaman"
     ],
     "name:eng_x_variant":[
-        "PADANGPARIAMAN"
+        "PADANGPARIAMAN",
+        "Padang Pariaman Regency"
     ],
     "name:fas_x_preferred":[
         "\u067e\u0627\u062f\u0627\u0646\u06af \u067e\u0627\u0631\u06cc\u0627\u0645\u0646"
@@ -52,8 +56,14 @@
     "name:fra_x_preferred":[
         "Padang Pariaman"
     ],
+    "name:gle_x_preferred":[
+        "Padang Pariaman"
+    ],
     "name:ind_x_preferred":[
         "Padang Pariaman"
+    ],
+    "name:ind_x_variant":[
+        "Kabupaten Padang Pariaman"
     ],
     "name:ita_x_preferred":[
         "Padang Pariaman"
@@ -66,6 +76,9 @@
     ],
     "name:msa_x_preferred":[
         "Padang Pariaman"
+    ],
+    "name:nan_x_preferred":[
+        "Padang Pariaman Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Padang Pariaman"
@@ -84,6 +97,9 @@
     ],
     "name:vie_x_preferred":[
         "Padang Pariaman"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u4e1c\u5e15\u91cc\u4e9a\u66fc\u53bf"
     ],
     "qs:a0":"Indonesia",
     "qs:a0_lc":"IDN",
@@ -141,7 +157,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614718772,
+    "wof:lastmodified":1690931123,
     "wof:name":"Padang Pariaman",
     "wof:parent_id":85672087,
     "wof:placetype":"county",

@@ -20,8 +20,17 @@
     "name:ara_x_preferred":[
         "\u0648\u0628\u063a"
     ],
+    "name:cat_x_preferred":[
+        "escata"
+    ],
+    "name:deu_x_preferred":[
+        "Hautschuppe"
+    ],
     "name:eng_x_preferred":[
         "dander"
+    ],
+    "name:epo_x_preferred":[
+        "skvametoj"
     ],
     "name:fra_x_preferred":[
         "squame"
@@ -29,8 +38,14 @@
     "name:ind_x_preferred":[
         "Dander"
     ],
+    "name:rus_x_preferred":[
+        "\u043f\u0435\u0440\u0445\u043e\u0442\u044c"
+    ],
     "name:spa_x_preferred":[
         "escama"
+    ],
+    "name:zho_x_preferred":[
+        "\u5934\u57a2\u76ae\u5c51"
     ],
     "qs:name":"Dander",
     "qs:name_adm0":"Indonesia",
@@ -44,8 +59,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        102073377,
-        85672027
+        85672027,
+        102073377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -75,7 +90,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614653770,
+    "wof:lastmodified":1690931592,
     "wof:name":"Dander",
     "wof:parent_id":102073377,
     "wof:placetype":"locality",

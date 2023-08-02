@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0641\u0648\u0646\u0648\u0631\u0648\u063a\u0648"
     ],
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Ponorogo"
+    ],
     "name:cat_x_preferred":[
         "Ponorogo"
     ],
@@ -39,11 +42,32 @@
     "name:fra_x_preferred":[
         "Ponorogo"
     ],
+    "name:gle_x_preferred":[
+        "Ponorogo"
+    ],
+    "name:gor_x_preferred":[
+        "Kabupaten Ponorogo"
+    ],
     "name:ind_x_preferred":[
         "Ponorogo"
     ],
     "name:jav_x_preferred":[
         "Kabupat\u00e8n Panaraga"
+    ],
+    "name:jav_x_variant":[
+        "Panaraga"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30dd\u30ce\u30ed\u30b4\u770c"
+    ],
+    "name:mad_x_preferred":[
+        "Kabhupat\u00e8n Ponorogo"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d2a\u0d4a\u0d28\u0d4b\u0d31\u0d4b\u0d17\u0d4b \u0d31\u0d40\u0d1c\u0d7b\u0d38\u0d3f"
+    ],
+    "name:nan_x_preferred":[
+        "Ponorogo Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Ponorogo"
@@ -63,14 +87,23 @@
     "name:sun_x_preferred":[
         "Kabupat\u00e9n Ponorogo"
     ],
+    "name:sun_x_variant":[
+        "Ponorogo"
+    ],
     "name:swe_x_preferred":[
         "Kabupaten Ponorogo"
     ],
     "name:unk_x_variant":[
         "Panaraga"
     ],
+    "name:urd_x_preferred":[
+        "\u067e\u0648\u0646\u0648\u0631\u0648\u06af\u0648 \u0631\u06cc\u062c\u0646\u0633\u06cc"
+    ],
     "name:zho_x_preferred":[
         "\u6ce2\u8afe\u7f85\u6208"
+    ],
+    "name:zho_x_variant":[
+        "\u6ce2\u8afe\u7f85\u6208\u7e23"
     ],
     "qs:a0":"Indonesia",
     "qs:a1":"*Jawa Timur",
@@ -132,7 +165,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614712990,
+    "wof:lastmodified":1690931302,
     "wof:name":"Ponorogo",
     "wof:parent_id":102073495,
     "wof:placetype":"locality",

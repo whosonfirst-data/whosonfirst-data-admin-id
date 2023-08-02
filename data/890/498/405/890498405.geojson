@@ -23,6 +23,12 @@
     "name:aze_x_preferred":[
         "K\u0259ram\u0259t"
     ],
+    "name:bak_x_preferred":[
+        "\u041a\u04d9\u0440\u04d9\u043c\u04d9\u0442"
+    ],
+    "name:ben_x_preferred":[
+        "\u0995\u09be\u09b0\u09be\u09ae\u09a4"
+    ],
     "name:eng_x_preferred":[
         "Keramat"
     ],
@@ -32,8 +38,17 @@
     "name:ind_x_preferred":[
         "Karamat"
     ],
+    "name:ind_x_variant":[
+        "Karamah"
+    ],
+    "name:msa_x_preferred":[
+        "Keramat"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u0430\u0440\u0430\u043c\u0430\u0442"
+    ],
+    "name:sun_x_preferred":[
+        "Karomah"
     ],
     "name:tur_x_preferred":[
         "Keramet"
@@ -56,8 +71,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        102072981,
-        85671983
+        85671983,
+        102072981
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -87,7 +102,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614653739,
+    "wof:lastmodified":1690931523,
     "wof:name":"Karamat",
     "wof:parent_id":102072981,
     "wof:placetype":"locality",

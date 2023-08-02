@@ -24,8 +24,17 @@
     "name:ara_x_preferred":[
         "\u0628\u0627\u0646\u063a\u0643\u0627\u0644 \u0628\u064a\u0646\u0627\u0646\u063a"
     ],
+    "name:ban_x_preferred":[
+        "Kota Pangkal Pinang"
+    ],
+    "name:bar_x_preferred":[
+        "Pangkal Pinang"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041f\u0430\u043d\u0433\u043a\u0430\u043b\u2013\u041f\u0456\u043d\u0430\u043d\u0433"
+    ],
+    "name:bel_x_variant":[
+        "\u041f\u0430\u043d\u0433\u043a\u0430\u043b\u2013\u041f\u0456\u043d\u0430\u043d\u0433"
     ],
     "name:ben_x_preferred":[
         "\u09aa\u09be\u0982\u0995\u09be\u09b2 \u09aa\u09bf\u09a8\u09be\u0982"
@@ -55,7 +64,8 @@
         "Pangkal Pinang"
     ],
     "name:eng_x_variant":[
-        "Pangkalpinang"
+        "Pangkalpinang",
+        "Pangkal Pinang City"
     ],
     "name:epo_x_preferred":[
         "Pangkal Pinang"
@@ -71,6 +81,9 @@
     ],
     "name:fra_x_preferred":[
         "Pangkal Pinang"
+    ],
+    "name:gor_x_preferred":[
+        "Kota Pangkal Pinang"
     ],
     "name:guj_x_preferred":[
         "\u0aaa\u0a82\u0a97\u0a95\u0abe\u0ab2 \u0aaa\u0abf\u0aa8\u0abe\u0a82\u0a97"
@@ -105,6 +118,9 @@
     "name:kan_x_preferred":[
         "\u0caa\u0c82\u0c97\u0ccd\u0c95\u0cb2\u0ccd \u0caa\u0cbf\u0ca8\u0cbe\u0c82\u0c97\u0ccd"
     ],
+    "name:kat_x_preferred":[
+        "\u10de\u10d0\u10dc\u10d2\u10d9\u10d0\u10da-\u10de\u10d8\u10dc\u10d0\u10dc\u10d2\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ud321\uce7c\ud53c\ub0ad"
     ],
@@ -129,8 +145,14 @@
     "name:msa_x_preferred":[
         "Kota Pangkal Pinang"
     ],
+    "name:msa_x_variant":[
+        "Pangkal Pinang"
+    ],
     "name:nan_x_preferred":[
         "Pangkal Pinang"
+    ],
+    "name:nan_x_variant":[
+        "Pangkalpinang Chh\u012b"
     ],
     "name:nld_x_preferred":[
         "Pangkal Pinang"
@@ -170,6 +192,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0baa\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0baa\u0bbf\u0ba9\u0bbe\u0b99\u0bcd"
+    ],
+    "name:tat_x_preferred":[
+        "\u041f\u0430\u04a3\u043a\u0430\u043b-\u041f\u0438\u043d\u0430\u04a3"
     ],
     "name:tel_x_preferred":[
         "\u0c2a\u0c02\u0c17\u0c4d\u0c15\u0c32\u0c4d \u0c2a\u0c3f\u0c28\u0c3e\u0c02\u0c17\u0c4d"
@@ -358,7 +383,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614713056,
+    "wof:lastmodified":1690931321,
     "wof:name":"Pangkal Pinang",
     "wof:parent_id":102072787,
     "wof:placetype":"locality",

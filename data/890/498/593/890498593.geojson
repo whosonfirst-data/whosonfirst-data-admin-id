@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0628\u0627\u0644\u0627\u0646\u063a\u0643\u0627\u0631\u0627\u064a\u0627"
     ],
+    "name:ban_x_preferred":[
+        "Palangka Raya"
+    ],
     "name:ben_x_preferred":[
         "\u09aa\u09be\u09b2\u09be\u0982\u0997\u0995\u09be\u09b0\u09be\u09df\u09be"
     ],
@@ -32,14 +35,23 @@
     "name:cat_x_preferred":[
         "Palangkaraya"
     ],
+    "name:dan_x_preferred":[
+        "Palangkaraya"
+    ],
     "name:deu_x_preferred":[
         "Palangka Raya"
     ],
     "name:ell_x_preferred":[
         "\u03a0\u03b1\u03bb\u03b1\u03bd\u03b3\u03ba\u03b1\u03c1\u03ac\u03b3\u03b9\u03b1"
     ],
+    "name:ell_x_variant":[
+        "\u03a0\u03b1\u03bb\u03ac\u03bd\u03b3\u03ba\u03b1 \u03a1\u03ac\u03b3\u03b9\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Palangkaraya"
+    ],
+    "name:eng_x_variant":[
+        "Palangkaraya City"
     ],
     "name:epo_x_preferred":[
         "Palangka Raya"
@@ -56,6 +68,9 @@
     "name:fra_x_preferred":[
         "Palangkaraya"
     ],
+    "name:gle_x_preferred":[
+        "Palangkaraya"
+    ],
     "name:glg_x_preferred":[
         "Palangkaraya"
     ],
@@ -65,6 +80,9 @@
     "name:heb_x_preferred":[
         "\u05e4\u05dc\u05e0\u05d2\u05e7\u05e8\u05d0\u05d9\u05d9\u05d4"
     ],
+    "name:heb_x_variant":[
+        "\u05e4\u05d0\u05dc\u05e0\u05d2\u05e7\u05d4 \u05e8\u05d0\u05d9\u05d4"
+    ],
     "name:hin_x_preferred":[
         "\u092a\u0932\u093e\u0902\u0917\u0915\u0930\u093e\u092f\u093e"
     ],
@@ -73,6 +91,9 @@
     ],
     "name:ind_x_preferred":[
         "Palangka Raya"
+    ],
+    "name:ind_x_variant":[
+        "Kota Palangkaraya"
     ],
     "name:ita_x_preferred":[
         "Palangkaraya"
@@ -125,11 +146,20 @@
     "name:rus_x_preferred":[
         "\u041f\u0430\u043b\u0430\u043d\u0433\u043a\u0430\u0440\u0430\u044f"
     ],
+    "name:rus_x_variant":[
+        "\u041f\u0430\u043b\u0430\u043d\u043a\u0430\u0440\u0430\u044f"
+    ],
     "name:spa_x_preferred":[
         "Palangkaraya"
     ],
     "name:swe_x_preferred":[
         "Palangkaraya"
+    ],
+    "name:swe_x_variant":[
+        "Palangka Raya"
+    ],
+    "name:tat_x_preferred":[
+        "\u041f\u0430\u043b\u0430\u04a3\u043a\u0430-\u0420\u0430\u044f"
     ],
     "name:tha_x_preferred":[
         "\u0e1b\u0e32\u0e25\u0e31\u0e07\u0e01\u0e32\u0e23\u0e32\u0e22\u0e32"
@@ -142,6 +172,12 @@
     ],
     "name:urd_x_preferred":[
         "\u067e\u0627\u0644\u0627\u0646\u06af\u06a9\u0627\u0631\u0627\u06cc\u0627"
+    ],
+    "name:vec_x_preferred":[
+        "Palangkaraya"
+    ],
+    "name:vie_x_preferred":[
+        "Palangka Raya"
     ],
     "name:war_x_preferred":[
         "Palangkaraya"
@@ -200,7 +236,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1636502424,
+    "wof:lastmodified":1690931512,
     "wof:name":"Palangkaraya",
     "wof:parent_id":102073341,
     "wof:placetype":"locality",

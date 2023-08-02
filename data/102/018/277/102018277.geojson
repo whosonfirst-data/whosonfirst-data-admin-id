@@ -48,6 +48,9 @@
     "name:eng_x_preferred":[
         "Tebing Tinggi"
     ],
+    "name:epo_x_preferred":[
+        "Tebing Tinggi"
+    ],
     "name:fas_x_preferred":[
         "\u062a\u0628\u06cc\u0646\u06af \u062a\u06cc\u0646\u06af\u06cc"
     ],
@@ -55,6 +58,9 @@
         "Tebing Tinggi"
     ],
     "name:fra_x_preferred":[
+        "Tebing Tinggi"
+    ],
+    "name:gle_x_preferred":[
         "Tebing Tinggi"
     ],
     "name:guj_x_preferred":[
@@ -129,11 +135,17 @@
     "name:tam_x_preferred":[
         "\u0b9f\u0bc7\u0baa\u0bcd\u0baa\u0bbf\u0b99\u0bcd \u0b9f\u0bbf\u0b99\u0bcd\u0b95\u0bbf"
     ],
+    "name:tat_x_preferred":[
+        "\u0422\u0435\u0431\u0438\u04a3-\u0422\u0438\u04a3\u0433\u0438"
+    ],
     "name:tel_x_preferred":[
         "\u0c1f\u0c46\u0c2c\u0c3f\u0c02\u0c17\u0c4d \u0c1f\u0c3f\u0c02\u0c17\u0c4d\u0c17\u0c3f"
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e15\u0e1a\u0e34\u0e07 \u0e15\u0e34\u0e07\u0e07\u0e35"
+    ],
+    "name:tha_x_variant":[
+        "\u0e40\u0e15\u0e2d\u0e1a\u0e34\u0e07\u0e15\u0e34\u0e07\u0e01\u0e35"
     ],
     "name:tur_x_preferred":[
         "Tebing Tinggi"
@@ -144,11 +156,17 @@
     "name:urd_x_preferred":[
         "\u062a\u06cc\u0628\u0646\u06af \u062a\u06cc\u0646\u06af\u06cc"
     ],
+    "name:vec_x_preferred":[
+        "Tebing Tinggi"
+    ],
     "name:vie_x_preferred":[
         "Tebing Tinggi"
     ],
     "name:zho_x_preferred":[
         "\u76f4\u540d\u4e01\u5b9c\u5e02"
+    ],
+    "name:zho_x_variant":[
+        "\u76f4\u540d\u4e01\u5b9c"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Indonesia",
@@ -298,7 +316,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1636502304,
+    "wof:lastmodified":1690931236,
     "wof:name":"Tebingtinggi",
     "wof:parent_id":1108796911,
     "wof:placetype":"locality",
