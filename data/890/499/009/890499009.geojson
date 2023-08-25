@@ -23,23 +23,53 @@
     "name:ara_x_preferred":[
         "\u0628\u0633\u0646\u062a\u0631\u064a\u0646 \u0628\u0625\u0646\u062f\u0648\u0646\u064a\u0633\u064a\u0627"
     ],
+    "name:deu_x_preferred":[
+        "Pesantren"
+    ],
     "name:eng_x_preferred":[
         "Pesantren"
+    ],
+    "name:eng_x_variant":[
+        "Pondok Pesantren"
     ],
     "name:ind_x_preferred":[
         "Pesantren"
     ],
+    "name:ind_x_variant":[
+        "Pondok Pesantren"
+    ],
     "name:jav_x_preferred":[
         "Pesantr\u00e8n"
+    ],
+    "name:jav_x_variant":[
+        "Pondhok Pesantren"
     ],
     "name:jpn_x_preferred":[
         "\u30d7\u30b5\u30f3\u30c8\u30ec\u30f3"
     ],
+    "name:mad_x_preferred":[
+        "Pondhuk Pesantr\u00e8n"
+    ],
     "name:msa_x_preferred":[
         "Sekolah pondok"
     ],
+    "name:msa_x_variant":[
+        "sekolah pondok"
+    ],
+    "name:rus_x_preferred":[
+        "\u043f\u0435\u0441\u0430\u043d\u0442\u0440\u0435\u043d"
+    ],
+    "name:som_x_preferred":[
+        "Pesantren"
+    ],
     "name:sun_x_preferred":[
         "Pasantr\u00e9n"
+    ],
+    "name:sun_x_variant":[
+        "pasantr\u00e9n"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f0a\u65af\u5170\u6559\u4e60\u7ecf\u9662"
     ],
     "qs:name":"Pesantren",
     "qs:name_adm0":"Indonesia",
@@ -55,8 +85,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        102073267,
-        85672027
+        85672027,
+        102073267
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -86,7 +116,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614653722,
+    "wof:lastmodified":1690931500,
     "wof:name":"Pesantren",
     "wof:parent_id":102073267,
     "wof:placetype":"locality",

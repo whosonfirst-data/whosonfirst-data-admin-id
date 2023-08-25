@@ -36,8 +36,14 @@
     "name:azb_x_preferred":[
         "\u0628\u0626\u0646\u06af \u06a9\u0648\u0644\u0648"
     ],
+    "name:ban_x_preferred":[
+        "Kota Bengkulu"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0411\u0435\u043d\u0433\u043a\u0443\u043b\u0443"
+    ],
+    "name:bel_x_variant":[
+        "\u0411\u0435\u043d\u0433\u043a\u0443\u043b\u0443"
     ],
     "name:ben_x_preferred":[
         "\u09ac\u09c7\u0982\u0995\u09c1\u09b2\u09c1"
@@ -60,6 +66,9 @@
     "name:eng_x_preferred":[
         "Bengkulu"
     ],
+    "name:eng_x_variant":[
+        "Bengkulu City"
+    ],
     "name:epo_x_preferred":[
         "Bengkulu"
     ],
@@ -78,6 +87,9 @@
     "name:fra_x_preferred":[
         "Bengkulu"
     ],
+    "name:gle_x_preferred":[
+        "Bengkulu"
+    ],
     "name:gor_x_preferred":[
         "Kota Bengkulu"
     ],
@@ -93,14 +105,23 @@
     "name:hun_x_preferred":[
         "Bengkulu"
     ],
+    "name:hye_x_preferred":[
+        "\u0532\u0565\u0576\u056f\u0578\u0582\u056c\u0578\u0582"
+    ],
     "name:ind_x_preferred":[
         "Bengkulu"
+    ],
+    "name:ind_x_variant":[
+        "Kota Bengkulu"
     ],
     "name:ita_x_preferred":[
         "Bengkulu"
     ],
     "name:jav_x_preferred":[
         "Kutha Bengkulu"
+    ],
+    "name:jav_x_variant":[
+        "Bengkulu"
     ],
     "name:jpn_x_preferred":[
         "\u30d6\u30f3\u30af\u30eb"
@@ -174,6 +195,9 @@
     "name:tam_x_preferred":[
         "\u0baa\u0bc6\u0b99\u0bcd\u0b95\u0bc1\u0bb2\u0bc1"
     ],
+    "name:tat_x_preferred":[
+        "\u0411\u0435\u04a3\u043a\u0443\u043b\u0443"
+    ],
     "name:tel_x_preferred":[
         "\u0c2c\u0c46\u0c02\u0c17\u0c4d\u0c15\u0c41\u0c32\u0c41"
     ],
@@ -195,6 +219,9 @@
     "name:urd_x_preferred":[
         "\u0628\u0646\u06af\u06a9\u0648\u0644\u0648"
     ],
+    "name:vec_x_preferred":[
+        "Bengkulu"
+    ],
     "name:vie_x_preferred":[
         "Bengkulu"
     ],
@@ -209,6 +236,9 @@
     ],
     "name:zho_x_preferred":[
         "\u660e\u53e4\u9b6f\u5e02"
+    ],
+    "name:zho_x_variant":[
+        "\u660e\u53e4\u9b6f"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Indonesia",
@@ -372,7 +402,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1636502300,
+    "wof:lastmodified":1690931199,
     "wof:name":"Bengkulu",
     "wof:parent_id":102073079,
     "wof:placetype":"locality",

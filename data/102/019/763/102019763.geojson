@@ -21,8 +21,14 @@
     "name:afr_x_preferred":[
         "Mojokerto"
     ],
+    "name:afr_x_variant":[
+        "Mojokerto City"
+    ],
     "name:ara_x_preferred":[
         "\u0645\u0648\u062c\u0648\u0643\u064a\u0631\u062a\u0648"
+    ],
+    "name:ban_x_preferred":[
+        "Kota Mojokerto"
     ],
     "name:ben_x_preferred":[
         "\u09ae\u09cb\u099c\u09cb\u0995\u09c7\u09b0\u09cd\u09a4\u09cb"
@@ -30,11 +36,20 @@
     "name:cat_x_preferred":[
         "Mojokerto"
     ],
+    "name:cat_x_variant":[
+        "Mojokerto City"
+    ],
     "name:ceb_x_preferred":[
         "Mojokerto"
     ],
+    "name:ceb_x_variant":[
+        "Mojokerto City"
+    ],
     "name:deu_x_preferred":[
         "Mojokerto"
+    ],
+    "name:deu_x_variant":[
+        "Mojokerto City"
     ],
     "name:ell_x_preferred":[
         "\u039c\u03bf\u03c4\u03b6\u03bf\u03ba\u03ad\u03c1\u03c4\u03bf"
@@ -46,11 +61,23 @@
         "Madjakerta",
         "Modjokerto"
     ],
+    "name:epo_x_preferred":[
+        "Mojokerto"
+    ],
     "name:fas_x_preferred":[
         "\u0645\u0648\u062c\u0648\u06a9\u0631\u062a\u0648"
     ],
+    "name:fin_x_preferred":[
+        "Mojokerto City"
+    ],
     "name:fra_x_preferred":[
         "Mojokerto"
+    ],
+    "name:fra_x_variant":[
+        "Mojokerto City"
+    ],
+    "name:gle_x_preferred":[
+        "Kota Mojokerto"
     ],
     "name:heb_x_preferred":[
         "\u05de\u05d5\u05d2'\u05d5\u05e7\u05e8\u05d8\u05d5"
@@ -70,6 +97,9 @@
     "name:ita_x_preferred":[
         "Mojokerto"
     ],
+    "name:ita_x_variant":[
+        "Mojokerto City"
+    ],
     "name:jav_x_preferred":[
         "Kutha Majakerta"
     ],
@@ -79,17 +109,29 @@
     "name:kor_x_preferred":[
         "\ubaa8\uc870\ucf00\ub974\ud1a0"
     ],
+    "name:mal_x_preferred":[
+        "\u0d2e\u0d4a\u0d1c\u0d4b\u0d15\u0d4d\u0d15\u0d46\u0d7c\u0d1f\u0d4d\u0d1f\u0d4a"
+    ],
     "name:mlg_x_preferred":[
         "Kota Mojokerto"
     ],
     "name:nan_x_preferred":[
         "Mojokerto"
     ],
+    "name:nan_x_variant":[
+        "Mojokerto City"
+    ],
     "name:nld_x_preferred":[
         "Mojokerto"
     ],
+    "name:nld_x_variant":[
+        "Mojokerto City"
+    ],
     "name:nob_x_preferred":[
         "Mojokerto"
+    ],
+    "name:nob_x_variant":[
+        "Mojokerto City"
     ],
     "name:nor_x_preferred":[
         "Mojokerto"
@@ -97,11 +139,20 @@
     "name:oci_x_preferred":[
         "Mojokerto"
     ],
+    "name:oci_x_variant":[
+        "Mojokerto City"
+    ],
     "name:pol_x_preferred":[
         "Mojokerto"
     ],
+    "name:pol_x_variant":[
+        "Mojokerto City"
+    ],
     "name:por_x_preferred":[
         "Mojokerto"
+    ],
+    "name:por_x_variant":[
+        "Mojokerto City"
     ],
     "name:rus_x_preferred":[
         "\u041c\u043e\u0434\u0436\u043e\u043a\u0435\u0440\u0442\u043e"
@@ -109,14 +160,23 @@
     "name:spa_x_preferred":[
         "Mojokerto"
     ],
+    "name:spa_x_variant":[
+        "Mojokerto City"
+    ],
     "name:sun_x_preferred":[
         "Kota Mojokerto"
     ],
     "name:swe_x_preferred":[
         "Mojokerto"
     ],
+    "name:swe_x_variant":[
+        "Mojokerto City"
+    ],
     "name:tam_x_preferred":[
         "\u0bae\u0bca\u0b9c\u0bcb\u0b95\u0bc6\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bcb"
+    ],
+    "name:tat_x_preferred":[
+        "\u041c\u043e\u0497\u043e\u043a\u0435\u0440\u0442\u043e"
     ],
     "name:tur_x_preferred":[
         "Mojokerto"
@@ -129,6 +189,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0645\u0648\u062c\u0648\u06a9\u0631\u062a\u0648"
+    ],
+    "name:vec_x_preferred":[
+        "Mojokerto City"
     ],
     "name:vie_x_preferred":[
         "Mojokerto"
@@ -288,7 +351,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1636502312,
+    "wof:lastmodified":1690931289,
     "wof:name":"Mojokerto",
     "wof:parent_id":102073021,
     "wof:placetype":"locality",

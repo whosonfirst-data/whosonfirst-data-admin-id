@@ -19,6 +19,12 @@
     "mps:longitude":106.805572,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062c\u0646\u0648\u0628 \u062c\u0627\u0643\u0631\u062a\u0627"
+    ],
+    "name:ban_x_preferred":[
+        "Kota Administrasi Jakarta Selatan"
+    ],
     "name:cat_x_preferred":[
         "Jakarta Meridional"
     ],
@@ -28,11 +34,21 @@
     "name:deu_x_preferred":[
         "S\u00fcd-Jakarta"
     ],
+    "name:ell_x_preferred":[
+        "\u039d\u03cc\u03c4\u03b9\u03b1 \u03a4\u03b6\u03b1\u03ba\u03ac\u03c1\u03c4\u03b1"
+    ],
     "name:eng_x_preferred":[
         "South Jakarta"
     ],
     "name:eng_x_variant":[
-        "Kotamadya Jakarta Selatan"
+        "Kotamadya Jakarta Selatan",
+        "South Jakarta City"
+    ],
+    "name:epo_x_preferred":[
+        "Suda \u011cakarto"
+    ],
+    "name:fas_x_preferred":[
+        "\u062c\u0627\u06a9\u0627\u0631\u062a\u0627\u06cc \u062c\u0646\u0648\u0628\u06cc"
     ],
     "name:fin_x_preferred":[
         "Etel\u00e4-Jakarta"
@@ -44,7 +60,8 @@
         "Kotamadya Jakarta Selatan"
     ],
     "name:ind_x_variant":[
-        "Jakarta Selatan"
+        "Jakarta Selatan",
+        "Kota Jakarta Selatan"
     ],
     "name:ita_x_preferred":[
         "Giacarta meridionale"
@@ -57,6 +74,9 @@
     ],
     "name:kor_x_preferred":[
         "\ub0a8\ucabd \uc790\uce74\ub974\ud0c0"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d24\u0d46\u0d15\u0d4d\u0d15\u0d7b \u0d1c\u0d15\u0d4d\u0d15\u0d3e\u0d7c\u0d24\u0d4d\u0d24"
     ],
     "name:mlg_x_preferred":[
         "Kota Administrasi Jakarta Selatan"
@@ -93,6 +113,9 @@
     ],
     "name:unk_x_variant":[
         "Wilayah Djakarta Selatan"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u0646\u0648\u0628\u06cc \u062c\u06a9\u0627\u0631\u062a\u0627"
     ],
     "name:vie_x_preferred":[
         "Nam Jakarta"
@@ -150,7 +173,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614713447,
+    "wof:lastmodified":1690931203,
     "wof:name":"Jakarta Selatan",
     "wof:parent_id":102072667,
     "wof:placetype":"locality",

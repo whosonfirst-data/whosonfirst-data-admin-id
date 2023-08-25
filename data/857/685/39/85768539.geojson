@@ -28,6 +28,9 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":4,
+    "name:ban_x_preferred":[
+        "Ragunan"
+    ],
     "name:ceb_x_preferred":[
         "Kelurahan Ragunan"
     ],
@@ -44,6 +47,9 @@
         "Ragunan"
     ],
     "name:ind_x_preferred":[
+        "Ragunan"
+    ],
+    "name:jav_x_preferred":[
         "Ragunan"
     ],
     "name:msa_x_preferred":[
@@ -113,11 +119,11 @@
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":210,
     "wof:belongsto":[
+        85672001,
         102191569,
         85632203,
         102020433,
-        102072667,
-        85672001
+        102072667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -150,7 +156,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614744826,
+    "wof:lastmodified":1690931372,
     "wof:name":"Ragunan",
     "wof:parent_id":102020433,
     "wof:placetype":"neighbourhood",

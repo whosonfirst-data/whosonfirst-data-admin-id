@@ -26,6 +26,9 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":16.0,
     "mz:tier_locality":4,
+    "name:ban_x_preferred":[
+        "Senen"
+    ],
     "name:ceb_x_preferred":[
         "Kecamatan Senen"
     ],
@@ -43,6 +46,9 @@
     ],
     "name:jav_x_preferred":[
         "Sen\u00e8n"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b9\u30cd\u30f3\u533a"
     ],
     "name:nld_x_preferred":[
         "Senen"
@@ -98,11 +104,11 @@
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":882,
     "wof:belongsto":[
+        85672001,
         102191569,
         85632203,
         102021905,
-        102073177,
-        85672001
+        102073177
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -137,7 +143,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614744836,
+    "wof:lastmodified":1690931371,
     "wof:name":"Senen",
     "wof:parent_id":102021905,
     "wof:placetype":"neighbourhood",

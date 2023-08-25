@@ -23,11 +23,17 @@
     "name:ast_x_preferred":[
         "Tenpura"
     ],
+    "name:aze_x_preferred":[
+        "Tempura"
+    ],
     "name:cat_x_preferred":[
         "tempura"
     ],
     "name:ces_x_preferred":[
         "Tempura"
+    ],
+    "name:ces_x_variant":[
+        "tempura"
     ],
     "name:dan_x_preferred":[
         "Tempura"
@@ -43,6 +49,9 @@
     ],
     "name:epo_x_preferred":[
         "tempuro"
+    ],
+    "name:eus_x_preferred":[
+        "Tenpura"
     ],
     "name:fas_x_preferred":[
         "\u062a\u0645\u067e\u0648\u0631\u0627"
@@ -62,6 +71,9 @@
     "name:hun_x_preferred":[
         "Tempura"
     ],
+    "name:hyw_x_preferred":[
+        "\u0539\u0565\u0574\u0583\u0578\u0582\u0580\u0561"
+    ],
     "name:ind_x_preferred":[
         "Tempuran"
     ],
@@ -77,6 +89,9 @@
     "name:jpn_x_preferred":[
         "\u5929\u3077\u3089"
     ],
+    "name:kat_x_preferred":[
+        "\u10e2\u10d4\u10db\u10de\u10e3\u10e0\u10d0"
+    ],
     "name:kaz_x_preferred":[
         "\u0422\u0435\u043c\u043f\u0443\u0440\u0430"
     ],
@@ -89,6 +104,9 @@
     "name:msa_x_preferred":[
         "Tempura"
     ],
+    "name:mya_x_preferred":[
+        "\u1010\u1019\u103a\u1015\u1030\u101b\u102c"
+    ],
     "name:nan_x_preferred":[
         "Ten-p\u00fa-lah"
     ],
@@ -98,11 +116,17 @@
     "name:nld_x_preferred":[
         "Tempura"
     ],
+    "name:nld_x_variant":[
+        "tempura"
+    ],
     "name:nob_x_preferred":[
         "Tempura"
     ],
     "name:pol_x_preferred":[
         "Tempura"
+    ],
+    "name:pol_x_variant":[
+        "tempura"
     ],
     "name:por_x_preferred":[
         "tempura"
@@ -110,8 +134,14 @@
     "name:rus_x_preferred":[
         "\u0422\u044d\u043c\u043f\u0443\u0440\u0430"
     ],
+    "name:slk_x_preferred":[
+        "Tempura"
+    ],
     "name:spa_x_preferred":[
         "tempura"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422\u0435\u043d\u043f\u0443\u0440\u0430"
     ],
     "name:swe_x_preferred":[
         "Tempura"
@@ -152,8 +182,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        102073551,
-        85671983
+        85671983,
+        102073551
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -183,7 +213,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614642150,
+    "wof:lastmodified":1690931522,
     "wof:name":"Tempura",
     "wof:parent_id":102073551,
     "wof:placetype":"locality",

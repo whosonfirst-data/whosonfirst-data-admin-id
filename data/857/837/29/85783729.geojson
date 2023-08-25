@@ -28,17 +28,29 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":4,
+    "name:ban_x_preferred":[
+        "Palmerah"
+    ],
+    "name:ceb_x_preferred":[
+        "Kecamatan Palmerah"
+    ],
     "name:deu_x_preferred":[
         "Palmerah"
     ],
     "name:eng_x_preferred":[
         "Palmerah"
     ],
+    "name:eng_x_variant":[
+        "Pal Merah"
+    ],
     "name:fra_x_preferred":[
         "Palmerah"
     ],
     "name:ind_x_preferred":[
         "Palmerah"
+    ],
+    "name:ind_x_variant":[
+        "Pal Merah"
     ],
     "name:ita_x_preferred":[
         "Palmerah"
@@ -63,6 +75,9 @@
     ],
     "name:sun_x_preferred":[
         "Palm\u00e9rah"
+    ],
+    "name:swe_x_preferred":[
+        "Kecamatan Palmerah"
     ],
     "name:tam_x_preferred":[
         "\u0baa\u0bb2\u0bcd\u0bae\u0bc7\u0bb0\u0bbe"
@@ -114,11 +129,11 @@
     "src:population":"geonames",
     "wd:wordcount":144,
     "wof:belongsto":[
+        85672001,
         102191569,
         85632203,
         102020437,
-        102072841,
-        85672001
+        102072841
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -153,7 +168,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614744839,
+    "wof:lastmodified":1690931373,
     "wof:name":"Palmerah",
     "wof:parent_id":102020437,
     "wof:placetype":"neighbourhood",

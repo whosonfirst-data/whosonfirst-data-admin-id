@@ -30,11 +30,20 @@
     "name:arg_x_preferred":[
         "Surakarta"
     ],
+    "name:arz_x_preferred":[
+        "\u0633\u0648\u0631\u0627\u0643\u0627\u0631\u062a\u0627"
+    ],
     "name:ast_x_preferred":[
         "Surakarta"
     ],
     "name:azb_x_preferred":[
         "\u0633\u0648\u0631\u0627\u06a9\u0627\u0631\u062a\u0627"
+    ],
+    "name:aze_x_preferred":[
+        "Surakarta"
+    ],
+    "name:ban_x_preferred":[
+        "Surakarta"
     ],
     "name:bar_x_preferred":[
         "Surakarta"
@@ -87,6 +96,9 @@
     "name:eng_x_preferred":[
         "Surakarta"
     ],
+    "name:eng_x_variant":[
+        "Surakarta City"
+    ],
     "name:epo_x_preferred":[
         "Surakarta"
     ],
@@ -126,8 +138,14 @@
     "name:guj_x_preferred":[
         "\u0ab8\u0ac1\u0ab0\u0abe\u0a95\u0ab0\u0acd\u0aa4\u0abe"
     ],
+    "name:hat_x_preferred":[
+        "Surakarta"
+    ],
     "name:heb_x_preferred":[
         "\u05e1\u05d5\u05e8\u05e7\u05d0\u05e8\u05d8\u05d4"
+    ],
+    "name:heb_x_variant":[
+        "\u05e1\u05d5\u05e8\u05e7\u05e8\u05d8\u05d4"
     ],
     "name:hin_x_preferred":[
         "\u0938\u0942\u0930\u093e\u0915\u093e\u0930\u094d\u0924\u093e"
@@ -204,6 +222,9 @@
     "name:min_x_preferred":[
         "Surakarta"
     ],
+    "name:mkd_x_preferred":[
+        "\u0421\u0443\u0440\u0430\u043a\u0430\u0440\u0442\u0430"
+    ],
     "name:mlg_x_preferred":[
         "Kota Surakarta"
     ],
@@ -212,6 +233,9 @@
     ],
     "name:nan_x_preferred":[
         "Surakarta"
+    ],
+    "name:nan_x_variant":[
+        "Surakarta Chh\u012b"
     ],
     "name:nap_x_preferred":[
         "Surakarta"
@@ -242,6 +266,9 @@
     ],
     "name:pms_x_preferred":[
         "Surakarta"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0633\u0648\u0631\u0627\u06a9\u0627\u0631\u062a\u0627"
     ],
     "name:pol_x_preferred":[
         "Surakarta"
@@ -276,6 +303,9 @@
     "name:slv_x_preferred":[
         "Surakarta"
     ],
+    "name:snd_x_preferred":[
+        "\u0633\u0631\u0627\u06aa\u0627\u0631\u067d\u0627"
+    ],
     "name:spa_x_preferred":[
         "Surakarta"
     ],
@@ -297,11 +327,17 @@
     "name:tam_x_preferred":[
         "\u0b9a\u0bc1\u0bb0\u0bbe\u0b95\u0bbe\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bbe"
     ],
+    "name:tat_x_preferred":[
+        "\u0421\u0443\u0440\u0430\u043a\u0430\u0440\u0442\u0430"
+    ],
     "name:tel_x_preferred":[
         "\u0c38\u0c41\u0c30\u0c15\u0c3e\u0c30\u0c4d\u0c24"
     ],
     "name:tha_x_preferred":[
         "\u0e2a\u0e38\u0e23\u0e32\u0e01\u0e32\u0e23\u0e4c\u0e15\u0e32"
+    ],
+    "name:tha_x_variant":[
+        "\u0e0b\u0e39\u0e23\u0e32\u0e01\u0e32\u0e23\u0e4c\u0e15\u0e32"
     ],
     "name:tur_x_preferred":[
         "Surakarta"
@@ -336,11 +372,17 @@
     "name:wol_x_preferred":[
         "Surakarta"
     ],
+    "name:wuu_x_preferred":[
+        "\u68ad\u7f57"
+    ],
     "name:yue_x_preferred":[
         "\u68ad\u7f85"
     ],
     "name:zho_x_preferred":[
         "\u68ad\u7f57\u5e02"
+    ],
+    "name:zho_x_variant":[
+        "\u82cf\u62c9\u5361\u5c14\u5854"
     ],
     "name:zul_x_preferred":[
         "Surakarta"
@@ -501,7 +543,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614712770,
+    "wof:lastmodified":1690931212,
     "wof:name":"Surakarta",
     "wof:parent_id":102072907,
     "wof:placetype":"locality",

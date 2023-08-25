@@ -31,6 +31,9 @@
     "mps:longitude":119.742729,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Tana Toraja"
+    ],
     "name:ceb_x_preferred":[
         "Kabupaten Tana Toraja"
     ],
@@ -41,7 +44,8 @@
         "Tana Toraja"
     ],
     "name:eng_x_variant":[
-        "TANATORAJA"
+        "TANATORAJA",
+        "Tana Toraja Regency"
     ],
     "name:fas_x_preferred":[
         "\u062a\u0627\u0646\u0627 \u062a\u0631\u0627\u062c\u0627"
@@ -49,8 +53,14 @@
     "name:fra_x_preferred":[
         "kabupaten de Tana Toraja"
     ],
+    "name:gle_x_preferred":[
+        "Tana Toraja"
+    ],
     "name:ind_x_preferred":[
         "Tana Toraja"
+    ],
+    "name:ind_x_variant":[
+        "Kabupaten Tana Toraja"
     ],
     "name:ita_x_preferred":[
         "Reggenza di Tana Toraja"
@@ -64,6 +74,9 @@
     "name:msa_x_preferred":[
         "Tana Toraja"
     ],
+    "name:nan_x_preferred":[
+        "Tana Toraja Ko\u0101n"
+    ],
     "name:nld_x_preferred":[
         "Tana Toraja"
     ],
@@ -73,11 +86,17 @@
     "name:spa_x_preferred":[
         "Tana Toraja"
     ],
+    "name:sun_x_preferred":[
+        "Kabupat\u00e9n Tana Toraja"
+    ],
     "name:swe_x_preferred":[
         "Kabupaten Tana Toraja"
     ],
     "name:swe_x_variant":[
         "Mamuju"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e15\u0e32\u0e19\u0e32\u0e42\u0e15\u0e23\u0e32\u0e08\u0e32"
     ],
     "name:zho_x_preferred":[
         "\u5854\u7d0d\u6258\u62c9\u67e5\u7e23"
@@ -138,7 +157,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614716636,
+    "wof:lastmodified":1690931256,
     "wof:name":"Tana Toraja",
     "wof:parent_id":85672041,
     "wof:placetype":"county",

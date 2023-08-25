@@ -34,6 +34,9 @@
     "name:ace_x_preferred":[
         "Kabupaten Ac\u00e8h Singkil"
     ],
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Ac\u00e9h Singkil"
+    ],
     "name:bel_x_preferred":[
         "\u0410\u043a\u0440\u0443\u0433\u0430 \u0410\u0447\u044d\u0445-\u0421\u0456\u043d\u043a\u0456\u043b"
     ],
@@ -47,7 +50,8 @@
         "Aceh Singkil"
     ],
     "name:eng_x_variant":[
-        "ACEH SINGKIL"
+        "ACEH SINGKIL",
+        "Aceh Singkil Regency"
     ],
     "name:fas_x_preferred":[
         "\u0622\u0686\u0647 \u0633\u06cc\u0646\u06af\u200c\u06a9\u06cc\u0644 \u0631\u06cc\u062c\u0646\u0633\u06cc"
@@ -55,11 +59,17 @@
     "name:fra_x_preferred":[
         "Aceh Singkil"
     ],
+    "name:gle_x_preferred":[
+        "Aceh Singkil"
+    ],
     "name:gor_x_preferred":[
         "Kabupaten Aceh Singkil"
     ],
     "name:ind_x_preferred":[
         "Aceh Singkil"
+    ],
+    "name:ind_x_variant":[
+        "Kabupaten Aceh Singkil"
     ],
     "name:ita_x_preferred":[
         "Aceh Singkil"
@@ -75,6 +85,9 @@
     ],
     "name:msa_x_preferred":[
         "Aceh Singkil"
+    ],
+    "name:nan_x_preferred":[
+        "Aceh Singkil Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Aceh Singkil"
@@ -94,8 +107,14 @@
     "name:swe_x_preferred":[
         "Kabupaten Aceh Singkil"
     ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0447\u0435\u0445-\u0421\u0456\u043d\u0433\u043a\u0456\u043b"
+    ],
     "name:vie_x_preferred":[
         "Aceh Singkil"
+    ],
+    "name:zho_x_preferred":[
+        "\u8f9b\u5409\u5c14\u53bf"
     ],
     "qs:a0":"Indonesia",
     "qs:a0_lc":"IDN",
@@ -153,7 +172,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614715084,
+    "wof:lastmodified":1690931277,
     "wof:name":"Aceh Singkil",
     "wof:parent_id":85671973,
     "wof:placetype":"county",

@@ -24,11 +24,17 @@
     "name:afr_x_preferred":[
         "Bogor"
     ],
+    "name:ara_x_preferred":[
+        "\u0628\u0648\u062c\u0648\u0631 \u0631\u064a\u062c\u0646\u0633\u064a"
+    ],
     "name:arg_x_preferred":[
         "Bogor"
     ],
     "name:ast_x_preferred":[
         "Bogor"
+    ],
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Bogor"
     ],
     "name:bar_x_preferred":[
         "Bogor"
@@ -59,6 +65,9 @@
     ],
     "name:eng_x_preferred":[
         "Bogor"
+    ],
+    "name:eng_x_variant":[
+        "Bogor Regency"
     ],
     "name:epo_x_preferred":[
         "Bogor"
@@ -109,13 +118,17 @@
         "Bogor Barat"
     ],
     "name:ind_x_variant":[
-        "Bogor"
+        "Bogor",
+        "Kabupaten Bogor"
     ],
     "name:isl_x_preferred":[
         "Bogor"
     ],
     "name:jav_x_preferred":[
         "Kabupat\u00e8n Bogor"
+    ],
+    "name:jav_x_variant":[
+        "Bogor"
     ],
     "name:jpn_x_preferred":[
         "\u30dc\u30b4\u30fc\u30eb\u770c"
@@ -140,6 +153,9 @@
     ],
     "name:msa_x_preferred":[
         "Bogor"
+    ],
+    "name:nan_x_preferred":[
+        "Bogor Ko\u0101n"
     ],
     "name:nap_x_preferred":[
         "Bogor"
@@ -200,6 +216,9 @@
     ],
     "name:sun_x_preferred":[
         "Kabupat\u00e9n Bogor"
+    ],
+    "name:sun_x_variant":[
+        "Bogor"
     ],
     "name:swa_x_preferred":[
         "Bogor"
@@ -282,7 +301,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614714111,
+    "wof:lastmodified":1690931354,
     "wof:name":"Bogor Barat",
     "wof:parent_id":102072749,
     "wof:placetype":"locality",

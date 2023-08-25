@@ -18,6 +18,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.1,
+    "name:ban_x_preferred":[
+        "Kota Sungaipenuh"
+    ],
     "name:cat_x_preferred":[
         "Sungai Penuh"
     ],
@@ -30,17 +33,36 @@
     "name:eng_x_preferred":[
         "Sungai Penuh"
     ],
+    "name:eng_x_variant":[
+        "Sungai Penuh City"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0648\u0646\u06af\u0627\u06cc \u067e\u0646\u0648\u0647"
+    ],
     "name:fra_x_preferred":[
+        "Sungai Penuh"
+    ],
+    "name:gle_x_preferred":[
         "Sungai Penuh"
     ],
     "name:ind_x_preferred":[
         "Kota Sungaipenuh"
     ],
     "name:ind_x_variant":[
-        "Sungai Penuh"
+        "Sungai Penuh",
+        "Kota Sungai Penuh"
     ],
     "name:ita_x_preferred":[
         "Sungai Penuh"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b9\u30f3\u30ac\u30a4\u30fb\u307a\u30cc\u30fc"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d38\u0d41\u0d02\u0d17\u0d3e\u0d2f\u0d4d \u0d2a\u0d46\u0d28\u0d41"
+    ],
+    "name:min_x_preferred":[
+        "Kota Sungai Penuh"
     ],
     "name:mlg_x_preferred":[
         "Kota Sungaipenuh"
@@ -48,7 +70,13 @@
     "name:msa_x_preferred":[
         "Kota Sungaipenuh"
     ],
+    "name:nan_x_preferred":[
+        "Sungai Penuh Chh\u012b"
+    ],
     "name:nld_x_preferred":[
+        "Sungai Penuh"
+    ],
+    "name:nob_x_preferred":[
         "Sungai Penuh"
     ],
     "name:oci_x_preferred":[
@@ -69,11 +97,20 @@
     "name:swe_x_preferred":[
         "Sungai Penuh"
     ],
+    "name:tat_x_preferred":[
+        "\u0421\u0443\u04a3\u0430\u0439-\u041f\u0435\u043d\u0443\u04bb"
+    ],
     "name:unk_x_variant":[
         "Soengaipenoeh"
     ],
+    "name:vec_x_preferred":[
+        "Sungai Penuh"
+    ],
     "name:zho_x_preferred":[
         "\u7279\u723e\u7d0d\u7279"
+    ],
+    "name:zho_x_variant":[
+        "\u96d9\u6eaa\u73c0\u52aa"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Indonesia",
@@ -229,7 +266,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614712794,
+    "wof:lastmodified":1690931227,
     "wof:name":"Sungai Penuh",
     "wof:parent_id":102072673,
     "wof:placetype":"locality",

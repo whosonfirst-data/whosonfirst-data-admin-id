@@ -19,6 +19,9 @@
     "name:ara_x_preferred":[
         "\u0635\u0648\u0645\u0639\u0629"
     ],
+    "name:ara_x_variant":[
+        "\u0635\u0648\u0645\u0639\u0629 \u063a\u0644\u0627\u0644"
+    ],
     "name:arg_x_preferred":[
         "C\u00eda"
     ],
@@ -31,8 +34,14 @@
     "name:ces_x_preferred":[
         "silo"
     ],
+    "name:dag_x_preferred":[
+        "Kamb\u0254\u014b"
+    ],
     "name:dan_x_preferred":[
         "Silo"
+    ],
+    "name:dan_x_variant":[
+        "silo"
     ],
     "name:deu_x_preferred":[
         "Silo"
@@ -61,6 +70,9 @@
     "name:glg_x_preferred":[
         "Silo"
     ],
+    "name:glg_x_variant":[
+        "silo"
+    ],
     "name:hau_x_preferred":[
         "Runbu"
     ],
@@ -72,6 +84,12 @@
     ],
     "name:hun_x_preferred":[
         "Sil\u00f3"
+    ],
+    "name:hun_x_variant":[
+        "sil\u00f3"
+    ],
+    "name:hye_x_preferred":[
+        "\u057d\u056b\u056c\u0578\u057d"
     ],
     "name:ido_x_preferred":[
         "Silo"
@@ -106,8 +124,14 @@
     "name:nob_x_preferred":[
         "silo"
     ],
+    "name:pnb_x_preferred":[
+        "\u0633\u0627\u0626\u0644\u0648"
+    ],
     "name:pol_x_preferred":[
         "Silos"
+    ],
+    "name:pol_x_variant":[
+        "silos"
     ],
     "name:por_x_preferred":[
         "silo"
@@ -124,8 +148,14 @@
     "name:spa_x_preferred":[
         "silo"
     ],
+    "name:srp_x_preferred":[
+        "Silos"
+    ],
     "name:swe_x_preferred":[
         "Silo"
+    ],
+    "name:swe_x_variant":[
+        "silo"
     ],
     "name:tam_x_preferred":[
         "\u0b95\u0bb3\u0b9e\u0bcd\u0b9a\u0bbf\u0baf\u0bae\u0bcd"
@@ -136,11 +166,17 @@
     "name:ukr_x_preferred":[
         "\u0421\u0438\u043b\u043e\u0441"
     ],
+    "name:ukr_x_variant":[
+        "\u0441\u0438\u043b\u043e\u0441"
+    ],
     "name:unk_x_variant":[
         "Sempolan"
     ],
     "name:vec_x_preferred":[
         "Si\u0142o"
+    ],
+    "name:vie_x_preferred":[
+        "Silo"
     ],
     "name:wuu_x_preferred":[
         "\u7b52\u4ed3"
@@ -157,8 +193,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        102073305,
-        85672027
+        85672027,
+        102073305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -188,7 +224,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614642208,
+    "wof:lastmodified":1690931594,
     "wof:name":"Silo",
     "wof:parent_id":102073305,
     "wof:placetype":"locality",

@@ -24,6 +24,15 @@
     "name:ara_x_preferred":[
         "\u062d\u064a \u0625\u0646\u062f\u0648\u0646\u064a\u0633\u064a"
     ],
+    "name:aze_x_preferred":[
+        "ke\u00e7amatan"
+    ],
+    "name:ban_x_preferred":[
+        "Kecamatan"
+    ],
+    "name:ben_x_preferred":[
+        "\u0987\u09a8\u09cd\u09a6\u09cb\u09a8\u09c7\u09b6\u09bf\u09af\u09bc\u09be\u09b0 \u099c\u09c7\u09b2\u09be"
+    ],
     "name:bho_x_preferred":[
         "\u0907\u0902\u0921\u094b\u0928\u0947\u0936\u093f\u092f\u093e \u0915\u0947 \u091c\u093f\u0932\u093e"
     ],
@@ -45,6 +54,9 @@
     "name:eng_x_preferred":[
         "kecamatan"
     ],
+    "name:eng_x_variant":[
+        "district of Indonesia"
+    ],
     "name:fas_x_preferred":[
         "\u0645\u0646\u0637\u0642\u0647"
     ],
@@ -61,7 +73,8 @@
         "Kelurahan Bangka"
     ],
     "name:ind_x_variant":[
-        "kecamatan"
+        "kecamatan",
+        "Kecamatan"
     ],
     "name:ita_x_preferred":[
         "distretti dell'Indonesia"
@@ -72,8 +85,14 @@
     "name:jpn_x_preferred":[
         "\u90f7"
     ],
+    "name:kaz_x_preferred":[
+        "\u043a\u0435\u0447\u0430\u043c\u0430\u0442\u0430\u043d"
+    ],
     "name:kor_x_preferred":[
         "\uc778\ub3c4\ub124\uc2dc\uc544\uc758 \uc2dc\uad70"
+    ],
+    "name:lav_x_preferred":[
+        "Indon\u0113zijas apgabals"
     ],
     "name:min_x_preferred":[
         "Kecamatan"
@@ -84,6 +103,12 @@
     "name:msa_x_preferred":[
         "Kecamatan"
     ],
+    "name:msa_x_variant":[
+        "kecamatan"
+    ],
+    "name:nan_x_preferred":[
+        "\u00ccn-n\u00ee \u00ea hiong"
+    ],
     "name:nds_x_preferred":[
         "Kecamatan in Indonesien"
     ],
@@ -92,6 +117,9 @@
     ],
     "name:pol_x_preferred":[
         "Kecamatan"
+    ],
+    "name:pol_x_variant":[
+        "kecamatan"
     ],
     "name:por_x_preferred":[
         "distrito da Indon\u00e9sia"
@@ -111,11 +139,17 @@
     "name:sun_x_preferred":[
         "Kacamatan"
     ],
+    "name:swe_x_preferred":[
+        "kecamatan"
+    ],
     "name:tgl_x_preferred":[
         "kecamatan"
     ],
     "name:tur_x_preferred":[
         "Endonezya b\u00f6lgesi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u043a\u0435\u0447\u0430\u043c\u0430\u0442\u0430\u043d"
     ],
     "name:unk_x_variant":[
         "Bangka"
@@ -135,8 +169,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        102072667,
-        85672001
+        85672001,
+        102072667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -165,7 +199,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1613182672,
+    "wof:lastmodified":1690931532,
     "wof:name":"Kelurahan Bangka",
     "wof:parent_id":102072667,
     "wof:placetype":"localadmin",
