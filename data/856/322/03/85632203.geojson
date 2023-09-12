@@ -5,13 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":154.206095,
-    "geom:area_square_m":1902169710156.338379,
+    "geom:area_square_m":1902169710156.333496,
     "geom:bbox":"95.008308,-10.992515,141.022151,5.91625",
     "geom:latitude":-2.231956,
     "geom:longitude":117.302364,
     "iso:country":"ID",
     "itu:country_code":[
         "62"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "country"
     ],
     "label:eng_x_preferred_shortcode":[
         "ID"
@@ -1150,7 +1153,8 @@
     ],
     "src:geom_via":"quattroshapes",
     "src:lbl:centroid":"mapshaper",
-    "src:population":"wk",
+    "src:population":"naturalearth",
+    "src:population_year":"2019",
     "statoids:dial":"62",
     "statoids:ds":"RI",
     "statoids:fifa":"IDN",
@@ -1206,7 +1210,7 @@
         "quattroshapes",
         "quattroshapes-reversegeo"
     ],
-    "wof:geomhash":"b168036fd76b5b7e6c5c140e4888f837",
+    "wof:geomhash":"26d8c8459b59eb59252b4c2887ef83d2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -1221,12 +1225,12 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1690931374,
+    "wof:lastmodified":1694492096,
     "wof:name":"Indonesia",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
-    "wof:population":249865631,
-    "wof:population_rank":17,
+    "wof:population":270625568,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:shortcode":"ID",
     "wof:superseded_by":[],
