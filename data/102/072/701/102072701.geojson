@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025366,
-    "geom:area_square_m":313654475.181201,
+    "geom:area_square_m":313654475.181328,
     "geom:bbox":"109.26609,-0.199029,109.436798,0.021021",
     "geom:latitude":-0.070614,
     "geom:longitude":109.353877,
     "iso:country":"ID",
+    "label:eng_x_preferred_longname":[
+        "Pontianak Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":-0.060959,
     "lbl:longitude":109.34697,
     "meso:admin_1":"KALIMANTAN BARAT",
@@ -245,6 +251,18 @@
         "quattroshapes"
     ],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population_date":"2010-05-15",
+    "statoids:areakm":108,
+    "statoids:capital":"Pontianak",
+    "statoids:country":"ID",
+    "statoids:date":"2010-05-15",
+    "statoids:hasc":"ID.KB.PN",
+    "statoids:name":"Pontianak",
+    "statoids:population":554764,
+    "statoids:statoid":"ID.KB",
+    "statoids:timezone":"+7",
+    "statoids:type":"municipality",
     "wd:wordcount":850,
     "wof:belongsto":[
         102191569,
@@ -254,14 +272,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56000071,
-        "hasc:id":"ID.KB.PM",
+        "hasc:id":"ID.KB.PN",
         "wd:id":"Q14168"
     },
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6bb7a665d2f4e545fc97d2f9228a5d39",
+    "wof:geomhash":"af3360df452a7e7667743790855ec232",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -278,10 +296,12 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1690931251,
+    "wof:lastmodified":1694639716,
     "wof:name":"Kota Pontianak",
     "wof:parent_id":85672005,
     "wof:placetype":"county",
+    "wof:population":554764,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:shortcode":"PM",
     "wof:superseded_by":[],
