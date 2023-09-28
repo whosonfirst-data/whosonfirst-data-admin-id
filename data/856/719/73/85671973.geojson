@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":4.632526,
-    "geom:area_square_m":57120463737.469452,
+    "geom:area_square_m":57120463737.467323,
     "geom:bbox":"95.009331,2.00293,98.289146,5.90441",
     "geom:latitude":4.226379,
     "geom:longitude":96.907016,
@@ -587,17 +587,19 @@
         "gn:id":1215638,
         "gp:id":2345710,
         "hasc:id":"ID.AC",
+        "iso:code":"ID-AC",
         "iso:id":"ID-AC",
         "qs:id":1075575,
         "unlc:id":"ID-AC",
         "wd:id":"Q1823",
         "wk:page":"Aceh"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"580bc3f4300c8027fd995099044ee275",
+    "wof:geomhash":"0b77c617d5d546d6f419fc46df4bb48b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -613,7 +615,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1690931377,
+    "wof:lastmodified":1695884735,
     "wof:name":"Aceh",
     "wof:parent_id":85632203,
     "wof:placetype":"region",

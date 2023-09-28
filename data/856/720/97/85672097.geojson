@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.049731,
-    "geom:area_square_m":37544074353.052353,
+    "geom:area_square_m":37544074353.052238,
     "geom:bbox":"125.719254,-8.34635,134.895828,-2.72829",
     "geom:latitude":-5.02505,
     "geom:longitude":130.534308,
@@ -397,16 +397,18 @@
         "gn:id":1636627,
         "gp:id":20069997,
         "hasc:id":"ID.MA",
+        "iso:code":"ID-MA",
         "iso:id":"ID-MA",
         "qs:id":902472,
         "wd:id":"Q5093",
         "wk:page":"Maluku (province)"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"761dccc11b0ed042625c9d0b78fc0f69",
+    "wof:geomhash":"2d8b4477ed27d84e8d4223aaccc007f5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -422,7 +424,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1690931387,
+    "wof:lastmodified":1695884932,
     "wof:name":"Maluku",
     "wof:parent_id":85632203,
     "wof:placetype":"region",
