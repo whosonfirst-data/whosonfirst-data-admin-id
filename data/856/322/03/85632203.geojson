@@ -1190,6 +1190,7 @@
         "hasc:id":"ID",
         "icao:code":"PK",
         "ioc:id":"INA",
+        "iso:code":"ID",
         "itu:id":"INS",
         "m49:code":"360",
         "marc:id":"io",
@@ -1201,6 +1202,7 @@
         "wd:id":"Q252",
         "wmo:id":"ID"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"ID",
     "wof:country_alpha3":"IDN",
     "wof:geom_alt":[
@@ -1225,7 +1227,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1694639550,
+    "wof:lastmodified":1695881208,
     "wof:name":"Indonesia",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

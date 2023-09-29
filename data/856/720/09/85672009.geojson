@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.741989,
-    "geom:area_square_m":33779225697.594097,
+    "geom:area_square_m":33779225697.593704,
     "geom:bbox":"103.571617,-6.17122,105.916946,-3.723731",
     "geom:latitude":-4.918391,
     "geom:longitude":105.018576,
@@ -425,17 +425,19 @@
         "gn:id":1638535,
         "gp:id":2345724,
         "hasc:id":"ID.LA",
+        "iso:code":"ID-LA",
         "iso:id":"ID-LA",
         "qs:id":217487,
         "unlc:id":"ID-LA",
         "wd:id":"Q2110",
         "wk:page":"Lampung"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"dc0b7da6f41e9a144dc062699a0386ca",
+    "wof:geomhash":"d923265003d4e659667c3086d6c2cce4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -451,7 +453,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1690931385,
+    "wof:lastmodified":1695884931,
     "wof:name":"Lampung",
     "wof:parent_id":85632203,
     "wof:placetype":"region",
