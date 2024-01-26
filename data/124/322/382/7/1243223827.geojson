@@ -11,6 +11,7 @@
     "geom:longitude":106.46139,
     "gn:admin1_code":"30",
     "gn:asciiname":"Talagasari",
+    "gn:cc2":"ID",
     "gn:country_code":"ID",
     "gn:dem":26,
     "gn:feature_class":"P",
@@ -26,16 +27,26 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":13.0,
+    "name:und_x_variant":[
+        "Telaga Dua",
+        "Telaga 2",
+        "Talagasari"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        102072687,
-        85671995
+        85671995,
+        102072687
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1991212
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1960459
+        ]
     },
     "wof:country":"ID",
     "wof:geomhash":"1f7a9461ae95ba79d7a5cf823811bc14",
@@ -56,13 +67,15 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614653979,
+    "wof:lastmodified":1706239777,
     "wof:name":"Talagasari",
     "wof:parent_id":102072687,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1243309703
+    ],
     "wof:tags":[]
 },
   "bbox": [

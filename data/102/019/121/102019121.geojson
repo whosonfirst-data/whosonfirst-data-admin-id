@@ -9,7 +9,19 @@
     "geom:bbox":"110.269285,-7.114518,110.50529,-6.931578",
     "geom:latitude":-7.020529,
     "geom:longitude":110.389712,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Semarang",
+    "gn:country_code":"ID",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1961844,
+    "gn:latitude":-7.01139,
+    "gn:longitude":110.41111,
+    "gn:modification_date":"2002-09-18",
+    "gn:name":"Semarang",
     "gn:population":1288084,
+    "gn:timezone":"Asia/Jakarta",
     "iso:country":"ID",
     "lbl:latitude":-7.02385,
     "lbl:longitude":110.403742,
@@ -535,6 +547,11 @@
         "wd:id":"Q11025",
         "wk:page":"Semarang"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1961844
+        ]
+    },
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes_pg",
@@ -558,7 +575,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1690931303,
+    "wof:lastmodified":1706239765,
     "wof:megacity":1,
     "wof:name":"Semarang",
     "wof:parent_id":102072727,
@@ -568,7 +585,9 @@
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:scale":3,
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310621449
+    ],
     "wof:tags":[]
 },
   "bbox": [

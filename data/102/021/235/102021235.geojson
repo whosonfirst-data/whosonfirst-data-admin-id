@@ -9,8 +9,11 @@
     "geom:bbox":"122.801682,0.622654,122.860107,0.66272",
     "geom:latitude":0.6429,
     "geom:longitude":122.830465,
+    "gn:country":"ID",
+    "gn:fcode":"PPLA3",
     "gn:latitude":0.64139,
     "gn:longitude":122.86278,
+    "gn:pop":0,
     "iso:country":"ID",
     "lbl:latitude":0.642761,
     "lbl:longitude":122.828473,
@@ -18,6 +21,13 @@
     "mps:longitude":122.828473,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:ind_x_preferred":[
+        "Isimu"
+    ],
+    "name:unk_x_variant":[
+        "Isimoe"
+    ],
     "qs:a1":"*",
     "qs:a1r":"*",
     "qs:id":0,
@@ -25,11 +35,16 @@
     "qs:level":"locality",
     "qs:loc":"Isimu",
     "qs:loc_lc":"1967811",
+    "qs:name":"Isimu",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
     "qs:pop":0,
+    "qs:pop_sr":"0",
     "qs:source":"Nquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
@@ -39,7 +54,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1967811,
-        "gp:id":90132472
+        "gp:id":90132472,
+        "qs:id":371159
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1642996
+        ],
+        "gp:id":[
+            1047363
+        ]
     },
     "wof:country":"ID",
     "wof:geomhash":"2408a3baa22184d794da5c01fbafbd8e",
@@ -60,13 +84,16 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614714011,
+    "wof:lastmodified":1706239769,
     "wof:name":"Isimu",
     "wof:parent_id":102072737,
     "wof:placetype":"locality",
+    "wof:population":0,
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        890495115
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -26,16 +26,27 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ind_x_preferred":[
+        "Labuanuki"
+    ],
+    "name:und_x_variant":[
+        "Bolaanguki"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        1108796943,
-        85672081
+        85672081,
+        1108796943
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1967921
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1648338
+        ]
     },
     "wof:country":"ID",
     "wof:geomhash":"a0097f38bff441d05a42081b49e18c8a",
@@ -56,13 +67,15 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638303,
+    "wof:lastmodified":1706239774,
     "wof:name":"Labuanuki",
     "wof:parent_id":1108796943,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326659279
+    ],
     "wof:tags":[]
 },
   "bbox": [

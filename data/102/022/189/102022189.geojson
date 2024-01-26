@@ -9,8 +9,19 @@
     "geom:bbox":"100.499437,-1.387695,100.605299,-1.292724",
     "geom:latitude":-1.331084,
     "geom:longitude":100.558472,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Painan",
+    "gn:country_code":"ID",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1633239,
     "gn:latitude":-1.35172,
     "gn:longitude":100.57383,
+    "gn:modification_date":"2017-10-25",
+    "gn:name":"Painan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jakarta",
     "iso:country":"ID",
     "lbl:latitude":-1.338279,
     "lbl:longitude":100.572483,
@@ -18,6 +29,7 @@
     "mps:longitude":100.572483,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:ace_x_preferred":[
         "Painan"
     ],
@@ -54,6 +66,10 @@
     "name:spa_x_preferred":[
         "Painan"
     ],
+    "name:und_x_variant":[
+        "Parnau",
+        "Painan"
+    ],
     "qs:a1":"*",
     "qs:a1r":"*",
     "qs:id":0,
@@ -87,6 +103,14 @@
         "wd:id":"Q7124853",
         "wk:page":"Painan"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1633239
+        ],
+        "wk:page":[
+            "Painan"
+        ]
+    },
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes_pg",
@@ -110,13 +134,15 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614714390,
+    "wof:lastmodified":1706239770,
     "wof:name":"Painan",
     "wof:parent_id":102072853,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310557111
+    ],
     "wof:tags":[]
 },
   "bbox": [

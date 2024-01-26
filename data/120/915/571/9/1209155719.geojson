@@ -29,6 +29,9 @@
     "name:ind_x_preferred":[
         "Tanjungsekong"
     ],
+    "name:und_x_variant":[
+        "Sekong"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -39,6 +42,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6767703
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1628108
+        ]
     },
     "wof:country":"ID",
     "wof:geomhash":"027ed10946efb54402b8997de9c12cd7",
@@ -59,13 +67,15 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614719984,
+    "wof:lastmodified":1706239773,
     "wof:name":"Tanjungsekong",
     "wof:parent_id":102073281,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1209163081
+    ],
     "wof:tags":[]
 },
   "bbox": [

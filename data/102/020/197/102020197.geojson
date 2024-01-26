@@ -9,6 +9,9 @@
     "geom:bbox":"122.43992,-4.091213,122.626126,-3.909148",
     "geom:latitude":-3.997111,
     "geom:longitude":122.522911,
+    "gn:gn_country":"ID",
+    "gn:gn_fcode":"PPLA",
+    "gn:gn_pop":195006,
     "gn:latitude":-3.9778,
     "gn:longitude":122.51507,
     "gn:population":195006,
@@ -20,6 +23,7 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
         "Kendari"
     ],
@@ -320,6 +324,17 @@
     "qs:pop":0,
     "qs:source":"Nquattroshapes",
     "qs:type":"Town",
+    "qs_pg:aaroncc":"ID",
+    "qs_pg:gn_country":"ID",
+    "qs_pg:gn_fcode":"PPLA",
+    "qs_pg:gn_id":1640344,
+    "qs_pg:gn_pop":195006,
+    "qs_pg:name":"Kendari",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":9,
+    "qs_pg:qs_id":350508,
+    "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
@@ -342,6 +357,17 @@
         "qs_pg:id":1106635,
         "wd:id":"Q15379",
         "wk:page":"Kendari"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1640344
+        ],
+        "qs_pg:id":[
+            350508
+        ],
+        "wd:id":[
+            "Q15379"
+        ]
     },
     "wof:country":"ID",
     "wof:geom_alt":[
@@ -366,7 +392,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1690931193,
+    "wof:lastmodified":1706239767,
     "wof:name":"Kendari",
     "wof:parent_id":102072877,
     "wof:placetype":"locality",
@@ -374,7 +400,9 @@
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125871611
+    ],
     "wof:tags":[]
 },
   "bbox": [

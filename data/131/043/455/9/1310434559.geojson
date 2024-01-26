@@ -26,16 +26,24 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ind_x_preferred":[
+        "Pilahude"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        102072891,
-        85672055
+        85672055,
+        102072891
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1967665
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1967542
+        ]
     },
     "wof:country":"ID",
     "wof:geomhash":"c377dc68e8d689fe1f7bce9984e68acd",
@@ -56,13 +64,15 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614640862,
+    "wof:lastmodified":1706239781,
     "wof:name":"Pilahude",
     "wof:parent_id":102072891,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326771523
+    ],
     "wof:tags":[]
 },
   "bbox": [

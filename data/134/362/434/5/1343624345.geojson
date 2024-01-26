@@ -26,6 +26,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:fil_x_preferred":[
+        "Oeulu"
+    ],
     "name:ind_x_preferred":[
         "Oelao"
     ],
@@ -33,12 +36,17 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        102073355,
-        85672037
+        85672037,
+        102073355
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8388382
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1886969
+        ]
     },
     "wof:country":"ID",
     "wof:geomhash":"dbd23223c46039ea401bf9eb57b0cb2e",
@@ -59,13 +67,15 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614633882,
+    "wof:lastmodified":1706239781,
     "wof:name":"Oelao",
     "wof:parent_id":102073355,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344020749
+    ],
     "wof:tags":[]
 },
   "bbox": [

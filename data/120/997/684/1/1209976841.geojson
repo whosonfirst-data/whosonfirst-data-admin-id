@@ -30,12 +30,17 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        102072687,
-        85671995
+        85671995,
+        102072687
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1986338
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1988001
+        ]
     },
     "wof:country":"ID",
     "wof:geomhash":"c907f3d47bc0b071951cf7c10c08d69a",
@@ -56,13 +61,15 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638214,
+    "wof:lastmodified":1706239775,
     "wof:name":"Cicayurbubulak",
     "wof:parent_id":102072687,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327080187
+    ],
     "wof:tags":[]
 },
   "bbox": [

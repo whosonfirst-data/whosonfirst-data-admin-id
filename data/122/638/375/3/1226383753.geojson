@@ -37,12 +37,17 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        102073281,
-        85671995
+        85671995,
+        102073281
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1625804
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6767679
+        ]
     },
     "wof:country":"ID",
     "wof:geomhash":"37d26f4abc6c2634bdd249b6c9267e52",
@@ -63,13 +68,15 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614645993,
+    "wof:lastmodified":1706239775,
     "wof:name":"Kubangkepuh",
     "wof:parent_id":102073281,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276386947
+    ],
     "wof:tags":[]
 },
   "bbox": [

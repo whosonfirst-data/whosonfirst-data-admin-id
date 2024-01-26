@@ -30,12 +30,17 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        102073169,
-        85671987
+        85671987,
+        102073169
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6199400
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6200486
+        ]
     },
     "wof:country":"ID",
     "wof:geomhash":"6c8f35e6691b8a25fa3de5116910631f",
@@ -56,13 +61,15 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614654761,
+    "wof:lastmodified":1706239775,
     "wof:name":"Bengkal Lor",
     "wof:parent_id":102073169,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1260175835
+    ],
     "wof:tags":[]
 },
   "bbox": [

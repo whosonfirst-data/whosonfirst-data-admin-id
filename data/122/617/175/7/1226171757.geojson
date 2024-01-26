@@ -36,12 +36,17 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        1108796953,
-        85672081
+        85672081,
+        1108796953
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1633587
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6923240
+        ]
     },
     "wof:country":"ID",
     "wof:geomhash":"7cbbf905f1eb714dad97cdf72d22f089",
@@ -62,13 +67,15 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614654565,
+    "wof:lastmodified":1706239775,
     "wof:name":"Ondong Siau",
     "wof:parent_id":1108796953,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1277103551
+    ],
     "wof:tags":[]
 },
   "bbox": [

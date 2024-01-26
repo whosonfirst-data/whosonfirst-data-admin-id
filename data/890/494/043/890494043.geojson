@@ -9,15 +9,32 @@
     "geom:bbox":"112.7312,-8.102,112.7312,-8.102",
     "geom:latitude":-8.102,
     "geom:longitude":112.7312,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Wajak",
     "gn:country":"ID",
+    "gn:country_code":"ID",
+    "gn:dem":515,
     "gn:fcode":"PPLA4",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":1622272,
+    "gn:latitude":-8.102,
+    "gn:longitude":112.7312,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Wajak",
     "gn:pop":0,
+    "gn:population":0,
+    "gn:timezone":"Asia/Jakarta",
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Wajak"
+    ],
+    "name:und_x_variant":[
+        "Wadjak",
+        "Wadjok"
     ],
     "qs:name":"Wajak",
     "qs:photos_9r":0,
@@ -27,14 +44,19 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        102073017,
-        85672027
+        85672027,
+        102073017
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7037082,
         "gp:id":90135260,
         "qs:id":1153952
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1622272
+        ]
     },
     "wof:country":"ID",
     "wof:created":1469054964,
@@ -56,14 +78,16 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614642188,
+    "wof:lastmodified":1706239771,
     "wof:name":"Wajak",
     "wof:parent_id":102073017,
     "wof:placetype":"locality",
     "wof:population":0,
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1242774131
+    ],
     "wof:tags":[]
 },
   "bbox": [

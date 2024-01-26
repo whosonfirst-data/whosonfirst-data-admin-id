@@ -33,12 +33,17 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        102072917,
-        85672027
+        85672027,
+        102072917
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1965378
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6768892
+        ]
     },
     "wof:country":"ID",
     "wof:geomhash":"d53f5230a54d76d3c49fb031fbacbee8",
@@ -59,13 +64,15 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614643535,
+    "wof:lastmodified":1706239777,
     "wof:name":"Kemantren",
     "wof:parent_id":102072917,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293289855
+    ],
     "wof:tags":[]
 },
   "bbox": [

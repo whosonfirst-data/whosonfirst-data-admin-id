@@ -9,8 +9,19 @@
     "geom:bbox":"111.276948,-7.442329,111.350004,-7.369764",
     "geom:latitude":-7.409146,
     "geom:longitude":111.312792,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Kedunggalar",
+    "gn:country_code":"ID",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6410449,
     "gn:latitude":-7.41472,
     "gn:longitude":111.31083,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kedunggalar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jakarta",
     "iso:country":"ID",
     "lbl:latitude":-7.405058,
     "lbl:longitude":111.312089,
@@ -18,6 +29,7 @@
     "mps:longitude":111.312089,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Kedunggalar"
     ],
@@ -55,6 +67,11 @@
         "qs:id":290959,
         "qs_pg:id":290959
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6410449
+        ]
+    },
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -77,13 +94,15 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1617131073,
+    "wof:lastmodified":1706239767,
     "wof:name":"Kedunggalar",
     "wof:parent_id":102072775,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1210001459
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -29,16 +29,25 @@
     "name:ind_x_preferred":[
         "Tandea"
     ],
+    "name:und_x_variant":[
+        "Kindea",
+        "Kaendea"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        102072793,
-        85672105
+        85672105,
+        102072793
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6971464
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1639998
+        ]
     },
     "wof:country":"ID",
     "wof:geomhash":"22350a38073a1f27441c0f5c0ae621d8",
@@ -59,13 +68,15 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614644600,
+    "wof:lastmodified":1706239778,
     "wof:name":"Tandea",
     "wof:parent_id":102072793,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326899217
+    ],
     "wof:tags":[]
 },
   "bbox": [

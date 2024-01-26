@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"97.1011,3.40342,97.1011,3.40342",
@@ -24,7 +26,7 @@
     "gn:timezone":"Asia/Jakarta",
     "iso:country":"ID",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Sawang"
@@ -42,8 +44,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        102073477,
-        85671973
+        85671973,
+        102073477
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -68,12 +70,14 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614639449,
+    "wof:lastmodified":1706239764,
     "wof:name":"Sawang",
     "wof:parent_id":102073477,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        102018563
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -9,13 +9,29 @@
     "geom:bbox":"112.5942,-8.0132,112.5942,-8.0132",
     "geom:latitude":-8.0132,
     "geom:longitude":112.5942,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Wagir",
     "gn:country":"ID",
+    "gn:country_code":"ID",
+    "gn:dem":460,
     "gn:fcode":"PPLA3",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":7036926,
+    "gn:latitude":-8.0132,
+    "gn:longitude":112.5942,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Wagir",
     "gn:pop":0,
+    "gn:population":0,
+    "gn:timezone":"Asia/Jakarta",
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ind_x_preferred":[
+        "Wagir"
+    ],
     "qs:name":"Wagir",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -24,14 +40,19 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        102073017,
-        85672027
+        85672027,
+        102073017
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1622392,
         "gp:id":56005272,
         "qs:id":370945
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7036926
+        ]
     },
     "wof:country":"ID",
     "wof:created":1469055055,
@@ -53,14 +74,16 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614642206,
+    "wof:lastmodified":1706239771,
     "wof:name":"Wagir",
     "wof:parent_id":102073017,
     "wof:placetype":"locality",
     "wof:population":0,
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293374867
+    ],
     "wof:tags":[]
 },
   "bbox": [

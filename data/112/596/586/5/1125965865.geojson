@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"119.7402,-0.6723,119.7402,-0.6723",
@@ -16,7 +18,7 @@
     "lbl:latitude":-0.6723,
     "lbl:longitude":119.7402,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":13.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ind_x_preferred":[
@@ -52,8 +54,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        102073413,
-        85672111
+        85672111,
+        102073413
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -81,12 +83,14 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614653777,
+    "wof:lastmodified":1706239767,
     "wof:name":"Donggala",
     "wof:parent_id":102073413,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        102020567
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -26,16 +26,28 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ind_x_preferred":[
+        "Bunobogu"
+    ],
+    "name:und_x_variant":[
+        "Bonobogoe",
+        "Bonobogu"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        102072823,
-        85672111
+        85672111,
+        102072823
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1967145
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1648194
+        ]
     },
     "wof:country":"ID",
     "wof:geomhash":"4a7d2839fe5ca4721f2e1453feeceb91",
@@ -56,13 +68,15 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614645536,
+    "wof:lastmodified":1706239776,
     "wof:name":"Bunobogu",
     "wof:parent_id":102072823,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326594113
+    ],
     "wof:tags":[]
 },
   "bbox": [

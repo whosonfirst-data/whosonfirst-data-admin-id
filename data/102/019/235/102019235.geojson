@@ -9,7 +9,19 @@
     "geom:bbox":"110.40903,-7.428523,110.591947,-7.271399",
     "geom:latitude":-7.345192,
     "geom:longitude":110.498762,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Salatiga",
+    "gn:country_code":"ID",
+    "gn:dem":613,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1973149,
+    "gn:latitude":-7.33889,
+    "gn:longitude":110.50222,
+    "gn:modification_date":"2006-03-06",
+    "gn:name":"Salatiga",
     "gn:population":172645,
+    "gn:timezone":"Asia/Jakarta",
     "iso:country":"ID",
     "lbl:latitude":-7.342024,
     "lbl:longitude":110.500294,
@@ -217,6 +229,9 @@
         "Salatiga"
     ],
     "name:nob_x_preferred":[
+        "Salatiga"
+    ],
+    "name:nor_x_preferred":[
         "Salatiga"
     ],
     "name:nrm_x_preferred":[
@@ -448,7 +463,13 @@
         "gp:id":1048262,
         "qs:id":213329,
         "qs_pg:id":213329,
-        "wd:id":"Q11021"
+        "wd:id":"Q11021",
+        "wk:page":"Salatiga"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1972989
+        ]
     },
     "wof:country":"ID",
     "wof:geom_alt":[
@@ -473,7 +494,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1690931298,
+    "wof:lastmodified":1706239765,
     "wof:name":"Salatiga",
     "wof:parent_id":102072765,
     "wof:placetype":"locality",
@@ -481,7 +502,10 @@
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1226533479,
+        1226436541
+    ],
     "wof:tags":[]
 },
   "bbox": [

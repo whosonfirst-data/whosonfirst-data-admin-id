@@ -29,16 +29,27 @@
     "name:ind_x_preferred":[
         "Kuak"
     ],
+    "name:ind_x_variant":[
+        "Kuok"
+    ],
+    "name:und_x_variant":[
+        "Koeok"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        1108796925,
-        85672077
+        85672077,
+        1108796925
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6723388
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1639077
+        ]
     },
     "wof:country":"ID",
     "wof:geomhash":"588e8cfe27c98c4e853e6314bc17f4f0",
@@ -59,13 +70,15 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614650243,
+    "wof:lastmodified":1706239781,
     "wof:name":"Kuak",
     "wof:parent_id":1108796925,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343412867
+    ],
     "wof:tags":[]
 },
   "bbox": [

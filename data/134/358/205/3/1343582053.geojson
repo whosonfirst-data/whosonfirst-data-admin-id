@@ -33,12 +33,17 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        102072639,
-        85671987
+        85671987,
+        102072639
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6565762
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6376151
+        ]
     },
     "wof:country":"ID",
     "wof:geomhash":"78a2ccccf405a5c2a642b883dbf3cf51",
@@ -59,13 +64,15 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614634677,
+    "wof:lastmodified":1706239781,
     "wof:name":"Bekelan",
     "wof:parent_id":102072639,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343752833
+    ],
     "wof:tags":[]
 },
   "bbox": [

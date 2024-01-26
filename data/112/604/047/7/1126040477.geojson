@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"101.45,1.68333,101.45,1.68333",
@@ -17,7 +19,7 @@
     "lbl:latitude":1.68333,
     "lbl:longitude":101.45,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":13.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ace_x_preferred":[
@@ -386,14 +388,16 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1690931597,
+    "wof:lastmodified":1706239767,
     "wof:name":"Dumai",
     "wof:parent_id":1108796915,
     "wof:placetype":"locality",
     "wof:population":143760,
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-id",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        102020555
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

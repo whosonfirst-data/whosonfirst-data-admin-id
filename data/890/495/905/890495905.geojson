@@ -9,13 +9,29 @@
     "geom:bbox":"113.2322,-8.1046,113.2322,-8.1046",
     "geom:latitude":-8.1046,
     "geom:longitude":113.2322,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Sukodono",
     "gn:country":"ID",
+    "gn:country_code":"ID",
+    "gn:dem":48,
     "gn:fcode":"PPLA3",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":7037527,
+    "gn:latitude":-8.1046,
+    "gn:longitude":113.2322,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Sukodono",
     "gn:pop":0,
+    "gn:population":0,
+    "gn:timezone":"Asia/Jakarta",
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":13.0,
+    "name:ind_x_preferred":[
+        "Sukodono"
+    ],
     "qs:name":"Sukodono",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -24,14 +40,19 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        102072995,
-        85672027
+        85672027,
+        102072995
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1626273,
         "gp:id":56005503,
         "qs:id":370987
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7037527
+        ]
     },
     "wof:country":"ID",
     "wof:created":1469055056,
@@ -53,14 +74,16 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614653768,
+    "wof:lastmodified":1706239771,
     "wof:name":"Sukodono",
     "wof:parent_id":102072995,
     "wof:placetype":"locality",
     "wof:population":0,
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327328619
+    ],
     "wof:tags":[]
 },
   "bbox": [

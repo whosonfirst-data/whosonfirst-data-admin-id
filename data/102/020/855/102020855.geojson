@@ -247,6 +247,7 @@
     "ne:UN_LAT":0.0,
     "ne:UN_LONG":0.0,
     "ne:WORLDCITY":0,
+    "ne:min_zoom":6.1,
     "qs:a0":"Indonesia",
     "qs:a1":"*Papua",
     "qs:a1r":"*",
@@ -260,6 +261,8 @@
     "qs:pop":0,
     "qs:source":"Nquattroshapes",
     "qs:type":"Town",
+    "reversegeo:latitude":-1.161494,
+    "reversegeo:longitude":136.048481,
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
@@ -308,7 +311,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1690931204,
+    "wof:lastmodified":1706239768,
     "wof:name":"Biak",
     "wof:parent_id":1108796871,
     "wof:placetype":"locality",
@@ -316,7 +319,9 @@
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1141907519
+    ],
     "wof:tags":[]
 },
   "bbox": [

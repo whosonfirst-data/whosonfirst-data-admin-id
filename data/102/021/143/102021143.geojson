@@ -9,8 +9,19 @@
     "geom:bbox":"101.587092,-0.50891,101.648992,-0.457876",
     "geom:latitude":-0.483393,
     "geom:longitude":101.618042,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Benai",
+    "gn:country_code":"ID",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8562724,
     "gn:latitude":-9.06556,
     "gn:longitude":124.79028,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Benai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jakarta",
     "iso:country":"ID",
     "lbl:latitude":-0.483392,
     "lbl:longitude":101.618042,
@@ -18,6 +29,7 @@
     "mps:longitude":101.618042,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:ace_x_preferred":[
         "Benai"
     ],
@@ -75,6 +87,11 @@
         "gp:id":56008566,
         "wd:id":"Q13545067"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8562724
+        ]
+    },
     "wof:country":"ID",
     "wof:geomhash":"ff6b13a53e0843a1eb415bec2d441e34",
     "wof:hierarchy":[
@@ -94,13 +111,15 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614713982,
+    "wof:lastmodified":1706239769,
     "wof:name":"Benai",
     "wof:parent_id":1108796919,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1192961235
+    ],
     "wof:tags":[]
 },
   "bbox": [

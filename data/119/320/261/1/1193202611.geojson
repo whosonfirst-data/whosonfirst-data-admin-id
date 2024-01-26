@@ -33,12 +33,17 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        102073433,
-        85672041
+        85672041,
+        102073433
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1975402
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7070338
+        ]
     },
     "wof:country":"ID",
     "wof:geomhash":"e23e8dfacae006fbab4efa626070239e",
@@ -59,13 +64,15 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614639637,
+    "wof:lastmodified":1706239773,
     "wof:name":"Tanjinge",
     "wof:parent_id":102073433,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276810561
+    ],
     "wof:tags":[]
 },
   "bbox": [

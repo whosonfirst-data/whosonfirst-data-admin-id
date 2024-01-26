@@ -26,19 +26,30 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Tapanali"
+    ],
     "name:ind_x_preferred":[
         "Tapanali"
+    ],
+    "name:und_x_variant":[
+        "Tapanuli"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        102072883,
-        85672073
+        85672073,
+        102072883
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6724908
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1213521
+        ]
     },
     "wof:country":"ID",
     "wof:geomhash":"caae880550c9530c41400055959028c9",
@@ -59,13 +70,15 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614636115,
+    "wof:lastmodified":1706239780,
     "wof:name":"Tapanali",
     "wof:parent_id":102072883,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343318521
+    ],
     "wof:tags":[]
 },
   "bbox": [

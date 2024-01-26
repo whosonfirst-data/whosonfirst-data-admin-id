@@ -9,6 +9,19 @@
     "geom:bbox":"99.697434,0.655611,99.715408,0.68469",
     "geom:latitude":0.670151,
     "geom:longitude":99.706421,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Kotanopan",
+    "gn:country_code":"ID",
+    "gn:dem":438,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":1215041,
+    "gn:latitude":0.66758,
+    "gn:longitude":99.70908,
+    "gn:modification_date":"2013-11-08",
+    "gn:name":"Kotanopan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jakarta",
     "iso:country":"ID",
     "lbl:latitude":0.67015,
     "lbl:longitude":99.706421,
@@ -16,6 +29,14 @@
     "mps:longitude":99.706421,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
+    "name:ind_x_preferred":[
+        "Kotanopan"
+    ],
+    "name:und_x_variant":[
+        "Hoetanopan",
+        "Hutanopan"
+    ],
     "name:unk_x_variant":[
         "Kotonopan"
     ],
@@ -47,6 +68,11 @@
         "gp:id":1036100,
         "qs:id":192739
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1215041
+        ]
+    },
     "wof:country":"ID",
     "wof:geomhash":"e2abf264e7410fa087a59659b9049483",
     "wof:hierarchy":[
@@ -66,13 +92,15 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614712571,
+    "wof:lastmodified":1706239764,
     "wof:name":"Kotanopan",
     "wof:parent_id":102073109,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276823289
+    ],
     "wof:tags":[]
 },
   "bbox": [

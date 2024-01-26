@@ -35,12 +35,17 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        102072687,
-        85671995
+        85671995,
+        102072687
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1959052
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1991670
+        ]
     },
     "wof:country":"ID",
     "wof:geomhash":"351403e63469ffe7cb2f21c6709337d5",
@@ -61,13 +66,15 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614651606,
+    "wof:lastmodified":1706239779,
     "wof:name":"Cibarengkok",
     "wof:parent_id":102072687,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326776627
+    ],
     "wof:tags":[]
 },
   "bbox": [

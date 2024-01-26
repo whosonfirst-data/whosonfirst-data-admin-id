@@ -29,16 +29,24 @@
     "name:ind_x_preferred":[
         "Sambali"
     ],
+    "name:und_x_variant":[
+        "Asambi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        102073243,
-        85672041
+        85672041,
+        102073243
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6965743
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1651152
+        ]
     },
     "wof:country":"ID",
     "wof:geomhash":"234c3a488bfdf39438cedd53034e0cf6",
@@ -59,13 +67,15 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614639222,
+    "wof:lastmodified":1706239774,
     "wof:name":"Sambali",
     "wof:parent_id":102073243,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276810499
+    ],
     "wof:tags":[]
 },
   "bbox": [

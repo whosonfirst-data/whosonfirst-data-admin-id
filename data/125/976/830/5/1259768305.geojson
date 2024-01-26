@@ -36,12 +36,17 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        102073375,
-        85672027
+        85672027,
+        102073375
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1635661
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6820888
+        ]
     },
     "wof:country":"ID",
     "wof:geomhash":"c4ccc43394cb1dd28f7c05b7a4c46124",
@@ -62,13 +67,15 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614644179,
+    "wof:lastmodified":1706239778,
     "wof:name":"Mlati",
     "wof:parent_id":102073375,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293679549
+    ],
     "wof:tags":[]
 },
   "bbox": [
