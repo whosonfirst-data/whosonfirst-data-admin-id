@@ -33,12 +33,17 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        102073211,
-        85672111
+        85672111,
+        102073211
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1968542
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1968545
+        ]
     },
     "wof:country":"ID",
     "wof:geomhash":"4ce9414a1cc1f57e7dd155bf39c11608",
@@ -59,13 +64,15 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614642989,
+    "wof:lastmodified":1706239777,
     "wof:name":"Padalembara",
     "wof:parent_id":102073211,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310374457
+    ],
     "wof:tags":[]
 },
   "bbox": [

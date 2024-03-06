@@ -9,8 +9,19 @@
     "geom:bbox":"113.353443,-1.936776,113.437328,-1.863796",
     "geom:latitude":-1.901407,
     "geom:longitude":113.395093,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Kasongan",
+    "gn:country_code":"ID",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1640980,
     "gn:latitude":-2.0,
     "gn:longitude":113.38333,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Kasongan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pontianak",
     "iso:country":"ID",
     "lbl:latitude":-1.894568,
     "lbl:longitude":113.392235,
@@ -18,6 +29,14 @@
     "mps:longitude":113.392235,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
+    "name:ind_x_preferred":[
+        "Kasongan"
+    ],
+    "name:und_x_variant":[
+        "Kasoengan",
+        "Kasungan"
+    ],
     "qs:a1":"*",
     "qs:a1r":"*",
     "qs:id":0,
@@ -41,6 +60,11 @@
         "gn:id":1640995,
         "gp:id":1035200
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1640980
+        ]
+    },
     "wof:country":"ID",
     "wof:geomhash":"260d71a6361d224e0459ff7d0dc1a869",
     "wof:hierarchy":[
@@ -60,13 +84,15 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614713353,
+    "wof:lastmodified":1706239767,
     "wof:name":"Kasongan",
     "wof:parent_id":102072799,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343829229
+    ],
     "wof:tags":[]
 },
   "bbox": [

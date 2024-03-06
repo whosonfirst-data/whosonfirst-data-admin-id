@@ -33,12 +33,17 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        102072855,
-        85671983
+        85671983,
+        102072855
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6596783
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6595790
+        ]
     },
     "wof:country":"ID",
     "wof:geomhash":"fcef2fe9d897ff3ab0e383fcec932b97",
@@ -59,13 +64,15 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614653649,
+    "wof:lastmodified":1706239780,
     "wof:name":"Bobojong",
     "wof:parent_id":102072855,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360231015
+    ],
     "wof:tags":[]
 },
   "bbox": [

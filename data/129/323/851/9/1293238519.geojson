@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"106.34528,-6.0,106.34528,-6.0",
@@ -25,7 +27,7 @@
     "gn:timezone":"Asia/Jakarta",
     "iso:country":"ID",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tangkurak",
@@ -35,8 +37,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        102073479,
-        85671995
+        85671995,
+        102073479
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,12 +63,14 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614635742,
+    "wof:lastmodified":1706239773,
     "wof:name":"Tengkurak",
     "wof:parent_id":102073479,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1193205229
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

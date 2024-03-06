@@ -9,6 +9,9 @@
     "geom:bbox":"119.72552,-0.739608,119.831364,-0.611679",
     "geom:latitude":-0.674867,
     "geom:longitude":119.767018,
+    "gn:gn_country":"ID",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
     "gn:latitude":-0.6723,
     "gn:longitude":119.7402,
     "iso:country":"ID",
@@ -18,6 +21,8 @@
     "mps:longitude":119.759003,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Donggala"
     ],
@@ -43,12 +48,34 @@
     "qs:pop":0,
     "qs:source":"Nquattroshapes",
     "qs:type":"Town",
+    "qs_pg:aaroncc":"ID",
+    "qs_pg:gn_country":"ID",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1645323,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Donggala",
+    "qs_pg:name_adm0":"Indonesia",
+    "qs_pg:name_adm1":"Sulawesi Tengah",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":13,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1072507,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424846,
+    "qs_pg:woe_id":1047391,
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
     "src:lbl:centroid":"mapshaper",
+    "woe:adm0_id":23424846,
+    "woe:name_adm0":"Indonesia",
+    "woe:name_adm1":"Sulawesi Tengah",
+    "woe:placetype":"Town",
     "wof:belongsto":[
         102191569,
         85632203
@@ -58,7 +85,16 @@
         "fct:id":"116b915e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1645323,
         "gp:id":1047391,
-        "qs:id":1072507
+        "qs:id":1072507,
+        "qs_pg:id":1072507
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1645323
+        ],
+        "gp:id":[
+            1047391
+        ]
     },
     "wof:country":"ID",
     "wof:geom_alt":[
@@ -81,13 +117,15 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614713506,
+    "wof:lastmodified":1706239767,
     "wof:name":"Donggala",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125965865
+    ],
     "wof:tags":[]
 },
   "bbox": [

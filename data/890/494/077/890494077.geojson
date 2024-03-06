@@ -9,9 +9,22 @@
     "geom:bbox":"115.4425,-8.5408,115.4425,-8.5408",
     "geom:latitude":-8.5408,
     "geom:longitude":115.4425,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Dawan",
     "gn:country":"ID",
+    "gn:country_code":"ID",
+    "gn:dem":28,
     "gn:fcode":"PPLA3",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":7083874,
+    "gn:latitude":-8.5408,
+    "gn:longitude":115.4425,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Dawan",
     "gn:pop":0,
+    "gn:population":0,
+    "gn:timezone":"Asia/Makassar",
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -37,8 +50,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        102072703,
-        85672023
+        85672023,
+        102072703
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,6 +59,11 @@
         "gp:id":56012943,
         "qs:id":1154022,
         "wk:page":"Dawan"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7083874
+        ]
     },
     "wof:country":"ID",
     "wof:created":1469054965,
@@ -67,14 +85,16 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614653757,
+    "wof:lastmodified":1706239771,
     "wof:name":"Dawan",
     "wof:parent_id":102072703,
     "wof:placetype":"locality",
     "wof:population":0,
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1209517909
+    ],
     "wof:tags":[]
 },
   "bbox": [

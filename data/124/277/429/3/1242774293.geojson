@@ -33,12 +33,17 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        102073375,
-        85672027
+        85672027,
+        102073375
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6822343
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6822373
+        ]
     },
     "wof:country":"ID",
     "wof:geomhash":"2edbf72a3589c94e050ac353b7f126ab",
@@ -59,13 +64,15 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614654079,
+    "wof:lastmodified":1706239777,
     "wof:name":"Singabadu",
     "wof:parent_id":102073375,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259678811
+    ],
     "wof:tags":[]
 },
   "bbox": [

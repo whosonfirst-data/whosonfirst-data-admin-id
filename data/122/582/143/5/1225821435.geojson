@@ -52,12 +52,17 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        102073575,
-        85672103
+        85672103,
+        102073575
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1645492
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7581936
+        ]
     },
     "wof:country":"ID",
     "wof:geomhash":"44a33d18c079f21761c3e0c7a4949eee",
@@ -78,13 +83,15 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614646036,
+    "wof:lastmodified":1706239775,
     "wof:name":"Beru",
     "wof:parent_id":102073575,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360261121
+    ],
     "wof:tags":[]
 },
   "bbox": [

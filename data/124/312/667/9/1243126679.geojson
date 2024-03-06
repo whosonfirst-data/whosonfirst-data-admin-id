@@ -33,12 +33,17 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        102073463,
-        85672073
+        85672073,
+        102073463
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6706074
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6706073
+        ]
     },
     "wof:country":"ID",
     "wof:geomhash":"a3f05fd2b6967bffc9c9f3c4f6210aef",
@@ -59,13 +64,15 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614642800,
+    "wof:lastmodified":1706239777,
     "wof:name":"Surbakti",
     "wof:parent_id":102073463,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343427893
+    ],
     "wof:tags":[]
 },
   "bbox": [

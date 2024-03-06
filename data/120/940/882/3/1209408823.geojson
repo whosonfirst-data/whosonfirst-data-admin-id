@@ -11,6 +11,7 @@
     "geom:longitude":110.2972,
     "gn:admin1_code":"7",
     "gn:asciiname":"Kaliancar",
+    "gn:cc2":"ID",
     "gn:country_code":"ID",
     "gn:dem":166,
     "gn:feature_class":"P",
@@ -29,6 +30,10 @@
     "name:ind_x_preferred":[
         "Kaliancar"
     ],
+    "name:und_x_variant":[
+        "Kaliantjar",
+        "Kaliancar"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -39,6 +44,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6737781
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1961738
+        ]
     },
     "wof:country":"ID",
     "wof:geomhash":"8f7f5af364c574b2caea069e7cfb2e1e",
@@ -59,13 +69,15 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614715777,
+    "wof:lastmodified":1706239774,
     "wof:name":"Kaliancar",
     "wof:parent_id":102072727,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1243162993
+    ],
     "wof:tags":[]
 },
   "bbox": [

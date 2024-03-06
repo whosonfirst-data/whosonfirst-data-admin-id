@@ -29,16 +29,24 @@
     "name:ind_x_preferred":[
         "Likonggete"
     ],
+    "name:und_x_variant":[
+        "Hitokalak"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        102073235,
-        85672037
+        85672037,
+        102073235
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7463846
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1643313
+        ]
     },
     "wof:country":"ID",
     "wof:geomhash":"8d80cc4ec6a05056bada82f16023ef66",
@@ -59,13 +67,15 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614642408,
+    "wof:lastmodified":1706239776,
     "wof:name":"Likonggete",
     "wof:parent_id":102073235,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1277139701
+    ],
     "wof:tags":[]
 },
   "bbox": [

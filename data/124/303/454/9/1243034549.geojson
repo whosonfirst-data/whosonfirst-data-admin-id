@@ -53,16 +53,29 @@
     "name:tur_x_preferred":[
         "Balat"
     ],
+    "name:und_x_variant":[
+        "Laboean Balat",
+        "Lab Balat",
+        "Labu Balat",
+        "Laboehanbalat",
+        "Laboe Balat",
+        "Labuanbalat"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        102073575,
-        85672103
+        85672103,
+        102073575
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6997362
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1638880
+        ]
     },
     "wof:country":"ID",
     "wof:geomhash":"812fd38f0dda8f2856716d0210baa162",
@@ -83,13 +96,15 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614642992,
+    "wof:lastmodified":1706239777,
     "wof:name":"Balat",
     "wof:parent_id":102073575,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327100983
+    ],
     "wof:tags":[]
 },
   "bbox": [

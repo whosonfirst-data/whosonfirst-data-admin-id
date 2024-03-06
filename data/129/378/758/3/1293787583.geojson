@@ -36,12 +36,17 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        102073069,
-        85671973
+        85671973,
+        102073069
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6711985
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1215003
+        ]
     },
     "wof:country":"ID",
     "wof:geomhash":"e9a843e66e30b79ce50067a298e1eaf2",
@@ -62,13 +67,15 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614635848,
+    "wof:lastmodified":1706239780,
     "wof:name":"Jambocapli",
     "wof:parent_id":102073069,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293892783
+    ],
     "wof:tags":[]
 },
   "bbox": [

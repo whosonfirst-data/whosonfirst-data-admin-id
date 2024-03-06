@@ -9,9 +9,20 @@
     "geom:bbox":"118.41804,-8.554756,118.480153,-8.520374",
     "geom:latitude":-8.538819,
     "geom:longitude":118.45244,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"5205",
+    "gn:asciiname":"Dompu",
+    "gn:country_code":"ID",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1645343,
     "gn:latitude":-8.5365,
     "gn:longitude":118.4634,
+    "gn:modification_date":"2016-01-17",
+    "gn:name":"Dompu",
     "gn:population":49000,
+    "gn:timezone":"Asia/Makassar",
     "iso:country":"ID",
     "lbl:latitude":-8.536437,
     "lbl:longitude":118.45185,
@@ -19,6 +30,7 @@
     "mps:longitude":118.454559,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:eng_x_preferred":[
         "Dompu"
     ],
@@ -40,6 +52,10 @@
     ],
     "name:ukr_x_preferred":[
         "\u0414\u043e\u043c\u043f\u0443"
+    ],
+    "name:und_x_variant":[
+        "Dompoe",
+        "Dompo"
     ],
     "name:unk_x_variant":[
         "Dompoe"
@@ -72,7 +88,13 @@
         "fct:id":"116b912c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":7086427,
         "gp:id":1047390,
-        "qs_pg:id":193111
+        "qs_pg:id":193111,
+        "wk:page":"Dompu"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1645343
+        ]
     },
     "wof:country":"ID",
     "wof:geom_alt":[
@@ -97,7 +119,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614713508,
+    "wof:lastmodified":1706239767,
     "wof:name":"Dompu",
     "wof:parent_id":102073395,
     "wof:placetype":"locality",
@@ -105,7 +127,9 @@
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309782093
+    ],
     "wof:tags":[]
 },
   "bbox": [

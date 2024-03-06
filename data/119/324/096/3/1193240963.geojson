@@ -30,12 +30,17 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        102073179,
-        85672037
+        85672037,
+        102073179
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1938792
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1947093
+        ]
     },
     "wof:country":"ID",
     "wof:geomhash":"266c4601e09bc83254056c427a85769c",
@@ -56,13 +61,15 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614639418,
+    "wof:lastmodified":1706239773,
     "wof:name":"Tuatenu",
     "wof:parent_id":102073179,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1226824765
+    ],
     "wof:tags":[]
 },
   "bbox": [

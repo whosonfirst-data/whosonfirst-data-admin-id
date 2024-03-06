@@ -9,9 +9,19 @@
     "geom:bbox":"115.396374,-8.573768,115.656665,-8.327476",
     "geom:latitude":-8.454672,
     "geom:longitude":115.527756,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Karangasem",
+    "gn:country_code":"ID",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7086989,
     "gn:latitude":-8.45,
     "gn:longitude":115.61667,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Karangasem",
     "gn:population":31869,
+    "gn:timezone":"Asia/Makassar",
     "iso:country":"ID",
     "lbl:latitude":-8.434321,
     "lbl:longitude":115.571865,
@@ -19,6 +29,7 @@
     "mps:longitude":115.571869,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:ceb_x_preferred":[
         "Karangasem"
     ],
@@ -36,6 +47,9 @@
     ],
     "name:swe_x_preferred":[
         "Karangasem"
+    ],
+    "name:und_x_variant":[
+        "Banjar Karangasem"
     ],
     "name:unk_x_variant":[
         "Amlapura"
@@ -72,6 +86,11 @@
         "gp:id":56000335,
         "qs:id":849004
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7086989
+        ]
+    },
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
@@ -94,7 +113,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614713364,
+    "wof:lastmodified":1706239767,
     "wof:name":"Karangasem",
     "wof:parent_id":102073027,
     "wof:placetype":"locality",
@@ -102,7 +121,9 @@
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1226155195
+    ],
     "wof:tags":[]
 },
   "bbox": [

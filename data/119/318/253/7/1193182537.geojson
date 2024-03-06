@@ -36,12 +36,17 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        102073479,
-        85671995
+        85671995,
+        102073479
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1961365
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1959427
+        ]
     },
     "wof:country":"ID",
     "wof:geomhash":"a434f652cf808d936b3490d1aacb6c1a",
@@ -62,13 +67,15 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614639652,
+    "wof:lastmodified":1706239772,
     "wof:name":"Sampang Kulon",
     "wof:parent_id":102073479,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1243309515
+    ],
     "wof:tags":[]
 },
   "bbox": [

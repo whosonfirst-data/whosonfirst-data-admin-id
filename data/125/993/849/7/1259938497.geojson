@@ -29,11 +29,20 @@
     "name:ind_x_preferred":[
         "Pendaratan"
     ],
+    "name:und_x_variant":[
+        "Waroeroema",
+        "Waruruma"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6974058
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1621919
+        ]
     },
     "wof:country":"ID",
     "wof:geomhash":"8225ff10f3664afe217b8d6d8dba991b",
@@ -53,13 +62,15 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614654415,
+    "wof:lastmodified":1706239779,
     "wof:name":"Pendaratan",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343720461
+    ],
     "wof:tags":[]
 },
   "bbox": [

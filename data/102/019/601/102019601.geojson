@@ -277,6 +277,7 @@
     "ne:UN_LAT":0.0,
     "ne:UN_LONG":0.0,
     "ne:WORLDCITY":0,
+    "ne:min_zoom":6.1,
     "qs:a1":"*",
     "qs:a1r":"*",
     "qs:id":0,
@@ -286,6 +287,8 @@
     "qs:loc_lc":"1633037",
     "qs:pop":0,
     "qs:source":"Nquattroshapes",
+    "reversegeo:latitude":-3.099928,
+    "reversegeo:longitude":120.23632,
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "naturalearth",
@@ -308,6 +311,11 @@
         "gp:id":1048062,
         "wd:id":"Q14635",
         "wk:page":"Palopo"
+    },
+    "wof:concordances_alt":{
+        "wd:id":[
+            "Q14635"
+        ]
     },
     "wof:country":"ID",
     "wof:geom_alt":[
@@ -332,7 +340,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1690931318,
+    "wof:lastmodified":1706239766,
     "wof:name":"Palopo",
     "wof:parent_id":102072677,
     "wof:placetype":"locality",
@@ -340,7 +348,9 @@
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1141907569
+    ],
     "wof:tags":[]
 },
   "bbox": [

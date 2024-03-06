@@ -33,12 +33,17 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        102073505,
-        85671983
+        85671983,
+        102073505
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6774683
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6774688
+        ]
     },
     "wof:country":"ID",
     "wof:geomhash":"5a6d2dbc4b273b68d9494260da1a9495",
@@ -59,13 +64,15 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652713,
+    "wof:lastmodified":1706239773,
     "wof:name":"Dusun Tiga",
     "wof:parent_id":102073505,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1226795323
+    ],
     "wof:tags":[]
 },
   "bbox": [

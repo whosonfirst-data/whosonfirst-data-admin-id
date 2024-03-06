@@ -33,12 +33,17 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        102073505,
-        85671983
+        85671983,
+        102073505
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6402315
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6402311
+        ]
     },
     "wof:country":"ID",
     "wof:geomhash":"b556d3fafbec19e180e1161a8d5cccfd",
@@ -59,13 +64,15 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652970,
+    "wof:lastmodified":1706239779,
     "wof:name":"Dusun Dua",
     "wof:parent_id":102073505,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1292950411
+    ],
     "wof:tags":[]
 },
   "bbox": [

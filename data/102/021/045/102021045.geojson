@@ -9,8 +9,19 @@
     "geom:bbox":"115.078196,-8.703214,115.257568,-8.450639",
     "geom:latitude":-8.565791,
     "geom:longitude":115.185025,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Banjar Badung",
+    "gn:country_code":"ID",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1650820,
     "gn:latitude":-8.5097,
     "gn:longitude":115.2004,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Banjar Badung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Makassar",
     "iso:country":"ID",
     "lbl:latitude":-8.549794,
     "lbl:longitude":115.201422,
@@ -18,11 +29,16 @@
     "mps:longitude":115.201422,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Banjar Badung"
     ],
     "name:ind_x_variant":[
         "Banjar"
+    ],
+    "name:und_x_variant":[
+        "Badoeng",
+        "Badung"
     ],
     "name:unk_x_variant":[
         "Badoeng"
@@ -55,6 +71,11 @@
         "gp:id":1029610,
         "qs_pg:id":133841
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1650820
+        ]
+    },
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes_pg",
@@ -78,13 +99,15 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614713939,
+    "wof:lastmodified":1706239768,
     "wof:name":"Banjar Badung",
     "wof:parent_id":102072893,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327038169
+    ],
     "wof:tags":[]
 },
   "bbox": [

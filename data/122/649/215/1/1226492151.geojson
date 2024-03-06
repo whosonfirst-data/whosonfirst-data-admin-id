@@ -33,12 +33,17 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        102072855,
-        85671983
+        85671983,
+        102072855
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6595931
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6596781
+        ]
     },
     "wof:country":"ID",
     "wof:geomhash":"6066cfc3e5b8270737dd8ac4feabd385",
@@ -59,13 +64,15 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614654775,
+    "wof:lastmodified":1706239776,
     "wof:name":"Cikembang",
     "wof:parent_id":102072855,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293730297
+    ],
     "wof:tags":[]
 },
   "bbox": [

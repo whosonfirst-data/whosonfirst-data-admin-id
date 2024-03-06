@@ -10,6 +10,7 @@
     "geom:latitude":-7.360459,
     "geom:longitude":108.219453,
     "gn:population":271143,
+    "gp:adm0":23424846,
     "iso:country":"ID",
     "lbl:latitude":-7.357067,
     "lbl:longitude":108.219407,
@@ -321,7 +322,18 @@
     "qs:loc":"Tasikmalaya",
     "qs:loc_alt":"Tasikmalaya",
     "qs:loc_lc":"1624647",
+    "qs:name":"Tasikmalaya",
+    "qs:name_adm0":"Indonesia",
+    "qs:name_adm1":"Jawa Barat",
+    "qs:photos":69,
+    "qs:photos_1k":14,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":69,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
     "qs:pop":0,
+    "qs:pop_sr":"0",
     "qs:source":"Nquattroshapes",
     "qs:type":"Town",
     "src:geom":"whosonfirst",
@@ -331,6 +343,7 @@
     ],
     "src:lbl:centroid":"mapshaper",
     "src:population":"geonames",
+    "wd:wordcount":567,
     "wof:belongsto":[
         102191569,
         85632203,
@@ -345,6 +358,20 @@
         "qs_pg:id":350414,
         "wd:id":"Q10399",
         "wk:page":"Tasikmalaya"
+    },
+    "wof:concordances_alt":{
+        "gp:id":[
+            1048554
+        ],
+        "qs:id":[
+            211386
+        ],
+        "wd:id":[
+            "Q10399"
+        ],
+        "wk:page":[
+            "Tasikmalaya"
+        ]
     },
     "wof:country":"ID",
     "wof:geom_alt":[
@@ -369,7 +396,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1690931244,
+    "wof:lastmodified":1706239764,
     "wof:name":"Tasikmalaya",
     "wof:parent_id":102073307,
     "wof:placetype":"locality",
@@ -377,7 +404,9 @@
     "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        890500227
+    ],
     "wof:tags":[]
 },
   "bbox": [

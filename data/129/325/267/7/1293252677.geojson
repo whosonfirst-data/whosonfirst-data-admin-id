@@ -33,12 +33,17 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        102073569,
-        85671983
+        85671983,
+        102073569
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6400680
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6400681
+        ]
     },
     "wof:country":"ID",
     "wof:geomhash":"d20f363d7ee909d296ec836e406b127f",
@@ -59,13 +64,15 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614650950,
+    "wof:lastmodified":1706239780,
     "wof:name":"Puhun",
     "wof:parent_id":102073569,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344007893
+    ],
     "wof:tags":[]
 },
   "bbox": [

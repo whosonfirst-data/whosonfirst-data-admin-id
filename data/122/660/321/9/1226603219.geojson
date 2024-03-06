@@ -29,16 +29,25 @@
     "name:ind_x_preferred":[
         "Watorumbe"
     ],
+    "name:und_x_variant":[
+        "Kantolobea",
+        "Kantalabea"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        102072793,
-        85672105
+        85672105,
+        102072793
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6973961
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1641481
+        ]
     },
     "wof:country":"ID",
     "wof:geomhash":"f9a33bdcd9b53a6c41729c0efae1f451",
@@ -59,13 +68,15 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614645134,
+    "wof:lastmodified":1706239776,
     "wof:name":"Watorumbe",
     "wof:parent_id":102072793,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1260347203
+    ],
     "wof:tags":[]
 },
   "bbox": [

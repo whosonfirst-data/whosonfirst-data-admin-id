@@ -204,12 +204,17 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        102073569,
-        85671983
+        85671983,
+        102073569
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6771698
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6771704
+        ]
     },
     "wof:country":"ID",
     "wof:geomhash":"d306db9207e4fb069bea02eff684a6e6",
@@ -230,13 +235,15 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652968,
+    "wof:lastmodified":1706239779,
     "wof:name":"Manis",
     "wof:parent_id":102073569,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1260230825
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -10,6 +10,7 @@
     "geom:latitude":-0.186641,
     "geom:longitude":100.582549,
     "gn:population":121572,
+    "gp:adm0":23424846,
     "iso:country":"ID",
     "lbl:latitude":-0.22531,
     "lbl:longitude":100.630345,
@@ -17,6 +18,7 @@
     "mps:longitude":100.630326,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:afr_x_preferred":[
         "Payakumbuh"
     ],
@@ -162,7 +164,18 @@
     "qs:loc":"Payakumbuh",
     "qs:loc_alt":"Kota Payakumbuh",
     "qs:loc_lc":"1631905",
+    "qs:name":"Payakumbuh",
+    "qs:name_adm0":"Indonesia",
+    "qs:name_adm1":"Sumatera Barat",
+    "qs:photos":27,
+    "qs:photos_1k":5,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":27,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
     "qs:pop":0,
+    "qs:pop_sr":"0",
     "qs:source":"Nquattroshapes",
     "qs:type":"County",
     "src:geom":"whosonfirst",
@@ -172,6 +185,7 @@
     "src:geom_via":"quattroshapes",
     "src:lbl:centroid":"mapshaper",
     "src:population":"geonames",
+    "wd:wordcount":531,
     "wof:belongsto":[
         102191569,
         85632203,
@@ -185,6 +199,20 @@
         "qs:id":478585,
         "wd:id":"Q7261",
         "wk:page":"Payakumbuh"
+    },
+    "wof:concordances_alt":{
+        "gp:id":[
+            1040691
+        ],
+        "qs:id":[
+            1105916
+        ],
+        "wd:id":[
+            "Q7261"
+        ],
+        "wk:page":[
+            "Payakumbuh"
+        ]
     },
     "wof:country":"ID",
     "wof:geom_alt":[
@@ -208,7 +236,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1690931316,
+    "wof:lastmodified":1706239766,
     "wof:name":"Payakumbuh",
     "wof:parent_id":102073381,
     "wof:placetype":"locality",
@@ -216,7 +244,9 @@
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        890498595
+    ],
     "wof:tags":[]
 },
   "bbox": [
