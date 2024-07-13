@@ -33,12 +33,17 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        102072809,
-        85671987
+        85671987,
+        102072809
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6732817
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6745689
+        ]
     },
     "wof:country":"ID",
     "wof:geomhash":"b13a29bd1443c5426072559baa67d31b",
@@ -59,13 +64,15 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614644336,
+    "wof:lastmodified":1706239778,
     "wof:name":"Krajan",
     "wof:parent_id":102072809,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309800017
+    ],
     "wof:tags":[]
 },
   "bbox": [

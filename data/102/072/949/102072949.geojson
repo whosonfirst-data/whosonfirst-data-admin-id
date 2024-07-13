@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.146105,
-    "geom:area_square_m":1792757036.12121,
+    "geom:area_square_m":1792757036.120605,
     "geom:bbox":"107.250465,-7.316123,107.931877,-6.830636",
     "geom:latitude":-7.099521,
     "geom:longitude":107.605968,
@@ -46,6 +46,9 @@
     "name:aze_x_preferred":[
         "Bandunq"
     ],
+    "name:ban_x_preferred":[
+        "Bandung"
+    ],
     "name:bel_x_preferred":[
         "\u0411\u0430\u043d\u0434\u0443\u043d\u0433"
     ],
@@ -54,6 +57,9 @@
     ],
     "name:bjn_x_preferred":[
         "Kuta Bandung"
+    ],
+    "name:bre_x_preferred":[
+        "Bandung"
     ],
     "name:bul_x_preferred":[
         "\u0411\u0430\u043d\u0434\u0443\u043d\u0433"
@@ -89,7 +95,8 @@
         "Bandung"
     ],
     "name:eng_x_variant":[
-        "BANDUNG"
+        "BANDUNG",
+        "Bandung City"
     ],
     "name:epo_x_preferred":[
         "Bandungo"
@@ -109,8 +116,14 @@
     "name:fra_x_preferred":[
         "Bandung"
     ],
+    "name:frr_x_preferred":[
+        "Bandung"
+    ],
     "name:fry_x_preferred":[
         "Band\u00fbng"
+    ],
+    "name:gle_x_preferred":[
+        "Bandung"
     ],
     "name:glg_x_preferred":[
         "Bandung"
@@ -141,6 +154,9 @@
     ],
     "name:ind_x_preferred":[
         "Bandung"
+    ],
+    "name:ind_x_variant":[
+        "Kota Bandung"
     ],
     "name:ita_x_preferred":[
         "Bandung"
@@ -175,6 +191,9 @@
     "name:lit_x_preferred":[
         "Bandungas"
     ],
+    "name:mal_x_preferred":[
+        "\u0d2c\u0d28\u0d4d\u0d26\u0d41\u0d19\u0d4d\u0d19\u0d4d"
+    ],
     "name:mar_x_preferred":[
         "\u092c\u093e\u0902\u0921\u0941\u0902\u0917"
     ],
@@ -193,6 +212,9 @@
     "name:mya_x_preferred":[
         "\u1018\u1014\u103a\u1012\u1031\u102b\u1004\u103a\u1038\u1019\u103c\u102d\u102f\u1037"
     ],
+    "name:mzn_x_preferred":[
+        "\u0628\u0627\u0646\u062f\u0648\u0646\u06af"
+    ],
     "name:nan_x_preferred":[
         "Bandung"
     ],
@@ -208,6 +230,9 @@
     "name:oci_x_preferred":[
         "Bandung"
     ],
+    "name:oss_x_preferred":[
+        "\u0411\u0430\u043d\u0434\u0443\u043d\u0433"
+    ],
     "name:pnb_x_preferred":[
         "\u0628\u0646\u0688\u0648\u0646\u06af"
     ],
@@ -222,6 +247,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0411\u0430\u043d\u0434\u0443\u043d\u0433"
+    ],
+    "name:sat_x_preferred":[
+        "\u1c75\u1c5f\u1c71\u1c6b\u1c69\u1c5d"
     ],
     "name:sco_x_preferred":[
         "Bandung"
@@ -241,10 +269,16 @@
     "name:sun_x_preferred":[
         "Bandung"
     ],
+    "name:sun_x_variant":[
+        "\u1b98\u1b94\u1baa\u1b93\u1ba5\u1b80"
+    ],
     "name:swa_x_preferred":[
         "Bandung"
     ],
     "name:swe_x_preferred":[
+        "Bandung"
+    ],
+    "name:szl_x_preferred":[
         "Bandung"
     ],
     "name:tam_x_preferred":[
@@ -252,6 +286,9 @@
     ],
     "name:tat_x_preferred":[
         "\u0411\u0430\u043d\u0434\u0443\u04a3"
+    ],
+    "name:tet_x_preferred":[
+        "Bandung"
     ],
     "name:tgl_x_preferred":[
         "Bandung"
@@ -265,8 +302,14 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u043d\u0434\u0443\u043d\u0433"
     ],
+    "name:ukr_x_variant":[
+        "\u0411\u0430\u043d\u0434\u0443\u043d\u0491"
+    ],
     "name:urd_x_preferred":[
         "\u0628\u0646\u062f\u0648\u0646\u06af"
+    ],
+    "name:uzb_x_preferred":[
+        "Bandung"
     ],
     "name:vep_x_preferred":[
         "Bandung"
@@ -322,11 +365,12 @@
         "hasc:id":"ID.JR.BU",
         "wd:id":"Q10389"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3744aeec7ecce71e6a1bfebdaa1ad57c",
+    "wof:geomhash":"2aebe7e30b70d90ae5dab01126f75c68",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -343,7 +387,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614717589,
+    "wof:lastmodified":1695886510,
     "wof:name":"Bandung",
     "wof:parent_id":85671983,
     "wof:placetype":"county",

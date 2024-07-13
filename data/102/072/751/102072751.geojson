@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.317829,
-    "geom:area_square_m":3872354037.838096,
+    "geom:area_square_m":3872354037.838131,
     "geom:bbox":"124.067268,-10.16969,124.821342,-9.473213",
     "geom:latitude":-9.826232,
     "geom:longitude":124.396066,
@@ -31,6 +31,9 @@
     "mps:longitude":124.351296,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Timor Tengah Selatan"
+    ],
     "name:ceb_x_preferred":[
         "Kabupaten Timor Tengah Selatan"
     ],
@@ -41,13 +44,20 @@
         "Timor Tengah Selatan"
     ],
     "name:eng_x_variant":[
-        "TIMOR TENGAH SELATAN"
+        "TIMOR TENGAH SELATAN",
+        "South Central Timor Regency"
     ],
     "name:fra_x_preferred":[
         "kabupaten de Timor central Sud"
     ],
+    "name:gle_x_preferred":[
+        "T\u00edom\u00f3r L\u00e1ir Theas"
+    ],
     "name:ind_x_preferred":[
         "Timor Tengah Selatan"
+    ],
+    "name:ind_x_variant":[
+        "Kabupaten Timor Tengah Selatan"
     ],
     "name:ita_x_preferred":[
         "Reggenza di Timor Centromeridionale"
@@ -61,8 +71,14 @@
     "name:msa_x_preferred":[
         "Kabupaten Timor Tengah Selatan"
     ],
+    "name:nan_x_preferred":[
+        "L\u00e2m Tiong Timor Ko\u0101n"
+    ],
     "name:nld_x_preferred":[
         "Timor Tengah Selatan"
+    ],
+    "name:nld_x_variant":[
+        "Zuid-Midden-Timor"
     ],
     "name:spa_x_preferred":[
         "Timor Centromeridional"
@@ -111,11 +127,12 @@
         "hasc:id":"ID.NT.TS",
         "wd:id":"Q14151"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"2ff18d011f3285bff917d7e841ace1c1",
+    "wof:geomhash":"44f83938ff1d09a7d199e3f2d0bc73a3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -132,7 +149,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614716077,
+    "wof:lastmodified":1695886501,
     "wof:name":"Timor Tengah Selatan",
     "wof:parent_id":85672037,
     "wof:placetype":"county",

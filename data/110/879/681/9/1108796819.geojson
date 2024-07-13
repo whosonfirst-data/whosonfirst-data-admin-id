@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.225533,
-    "geom:area_square_m":2788673015.957972,
+    "geom:area_square_m":2788673015.958321,
     "geom:bbox":"127.757851,-0.22628,129.647415,0.708485",
     "geom:latitude":0.411833,
     "geom:longitude":128.234872,
@@ -26,6 +26,9 @@
     "meso:name_local":"HALMAHERA TIMUR",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Halmahera Tengah"
+    ],
     "name:ceb_x_preferred":[
         "Kabupaten Halmahera Tengah"
     ],
@@ -36,13 +39,20 @@
         "Halmahera Tengah"
     ],
     "name:eng_x_variant":[
-        "HALMAHERA TIMUR"
+        "HALMAHERA TIMUR",
+        "Central Halmahera Regency"
     ],
     "name:fra_x_preferred":[
         "kabupaten de Halmahera central"
     ],
+    "name:gle_x_preferred":[
+        "Halmahera L\u00e1ir"
+    ],
     "name:ind_x_preferred":[
         "Halmahera Tengah"
+    ],
+    "name:ind_x_variant":[
+        "Kabupaten Halmahera Tengah"
     ],
     "name:jav_x_preferred":[
         "Kabupat\u00e8n Halmahera Tengah"
@@ -53,8 +63,14 @@
     "name:msa_x_preferred":[
         "Kabupaten Halmahera Tengah"
     ],
+    "name:nan_x_preferred":[
+        "Tiong Halmahera Ko\u0101n"
+    ],
     "name:nld_x_preferred":[
         "Centraal-Halmahera"
+    ],
+    "name:pol_x_preferred":[
+        "Halmahera Tengah"
     ],
     "name:spa_x_preferred":[
         "Halmahera Central"
@@ -89,9 +105,10 @@
         "hasc:id":"ID.MU.HT",
         "wd:id":"Q19144"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:created":1482878514,
-    "wof:geomhash":"406980429b5c7ff522dec89668584631",
+    "wof:geomhash":"357005cf1b5e4e706caecf5b42119da6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -108,7 +125,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614722562,
+    "wof:lastmodified":1695886545,
     "wof:name":"Halmahera Tengah",
     "wof:parent_id":85672085,
     "wof:placetype":"county",

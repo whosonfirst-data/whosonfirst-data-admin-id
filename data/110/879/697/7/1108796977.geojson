@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015499,
-    "geom:area_square_m":191596406.507849,
+    "geom:area_square_m":191596406.507897,
     "geom:bbox":"97.465666,1.193825,97.654904,1.421097",
     "geom:latitude":1.31099,
     "geom:longitude":97.55059,
@@ -32,6 +32,12 @@
     "name:ara_x_preferred":[
         "\u063a\u0648\u0646\u0648\u0646\u063a\u0633\u064a\u062a\u0648\u0644\u064a"
     ],
+    "name:ban_x_preferred":[
+        "Kota Gunungsitoli"
+    ],
+    "name:bjn_x_preferred":[
+        "Gunungsitoli"
+    ],
     "name:cat_x_preferred":[
         "Gunungsitoli"
     ],
@@ -48,13 +54,26 @@
         "Gunungsitoli"
     ],
     "name:eng_x_variant":[
-        "GUNUNG SITOLI"
+        "GUNUNG SITOLI",
+        "Gunungsitoli City"
+    ],
+    "name:epo_x_preferred":[
+        "Gunungsitoli"
+    ],
+    "name:fas_x_preferred":[
+        "\u06af\u0648\u0646\u0648\u0646\u06af \u0633\u06cc\u062a\u0648\u0644\u06cc"
     ],
     "name:fra_x_preferred":[
         "Gunungsitoli"
     ],
+    "name:gle_x_preferred":[
+        "Gunungsitoli"
+    ],
     "name:ind_x_preferred":[
         "Gunungsitoli"
+    ],
+    "name:ind_x_variant":[
+        "Kota Gunungsitoli"
     ],
     "name:ita_x_preferred":[
         "Gunungsitoli"
@@ -65,8 +84,14 @@
     "name:jpn_x_preferred":[
         "\u30b0\u30cc\u30f3\u30b7\u30c8\u30ea"
     ],
+    "name:lav_x_preferred":[
+        "Gununsitoli"
+    ],
     "name:lit_x_preferred":[
         "Gunung Sitolis"
+    ],
+    "name:min_x_preferred":[
+        "Kota Gunungsitoli"
     ],
     "name:mlg_x_preferred":[
         "Kota Gunungsitoli"
@@ -74,8 +99,20 @@
     "name:msa_x_preferred":[
         "Gunung Sitoli"
     ],
+    "name:msa_x_variant":[
+        "Gunungsitoli"
+    ],
+    "name:nan_x_preferred":[
+        "Gunungsitoli Chh\u012b"
+    ],
+    "name:nia_x_preferred":[
+        "Gunungsitoli"
+    ],
     "name:nld_x_preferred":[
         "Gunung Sitoli"
+    ],
+    "name:nob_x_preferred":[
+        "Gunungsitoli"
     ],
     "name:oci_x_preferred":[
         "Gunungsitoli"
@@ -90,6 +127,15 @@
         "Gunungsitoli"
     ],
     "name:swe_x_preferred":[
+        "Gunungsitoli"
+    ],
+    "name:tat_x_preferred":[
+        "\u0413\u0443\u043d\u0443\u04a3\u0441\u0438\u0442\u043e\u043b\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0443\u043d\u0443\u043d\u0433\u0441\u0456\u0442\u043e\u043b\u0456"
+    ],
+    "name:vec_x_preferred":[
         "Gunungsitoli"
     ],
     "name:vie_x_preferred":[
@@ -122,9 +168,10 @@
         "hasc:id":"ID.SU.GS",
         "wd:id":"Q5967"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:created":1482878641,
-    "wof:geomhash":"90024eb7cea3d779367b9b9402315859",
+    "wof:geomhash":"7d16ce65406e410aa1755e16d8d7dcd7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -141,7 +188,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614723033,
+    "wof:lastmodified":1695886555,
     "wof:name":"Gunungsitoli",
     "wof:parent_id":85672073,
     "wof:placetype":"county",

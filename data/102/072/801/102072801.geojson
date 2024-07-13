@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.08483,
-    "geom:area_square_m":1046077281.47589,
+    "geom:area_square_m":1046077281.476807,
     "geom:bbox":"126.581673,3.73477,127.146568,5.56854",
     "geom:latitude":4.22434,
     "geom:longitude":126.785143,
     "iso:country":"ID",
+    "label:eng_x_preferred_longname":[
+        "Kepulauan-Talaud Regency"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "regency"
+    ],
     "lbl:latitude":4.341577,
     "lbl:longitude":126.788217,
     "meso:admin_1":"SULAWESI UTARA",
@@ -57,11 +63,12 @@
     "wof:concordances":{
         "hasc:id":"ID.SW.ST"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4c38efd0b63c9361f797c15b51663d94",
+    "wof:geomhash":"c668254c92e12eaf84be148af86ff0ad",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +85,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1627522193,
+    "wof:lastmodified":1695886672,
     "wof:name":"Kepulauan-Talaud",
     "wof:parent_id":85672081,
     "wof:placetype":"county",

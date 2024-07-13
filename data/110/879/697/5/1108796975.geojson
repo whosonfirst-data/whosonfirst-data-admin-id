@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.077229,
-    "geom:area_square_m":953431172.451347,
+    "geom:area_square_m":953431172.450709,
     "geom:bbox":"99.215668,3.023778,99.787223,3.444159",
     "geom:latitude":3.229886,
     "geom:longitude":99.487973,
@@ -29,6 +29,9 @@
     "name:ace_x_preferred":[
         "Kabupaten Batubara"
     ],
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Batu Bara"
+    ],
     "name:ceb_x_preferred":[
         "Kabupaten Batu Bara"
     ],
@@ -40,13 +43,20 @@
     ],
     "name:eng_x_variant":[
         "BATU BARA",
-        "Batubara"
+        "Batubara",
+        "Batu Bara Regency"
     ],
     "name:fra_x_preferred":[
         "Batu Bara"
     ],
+    "name:gle_x_preferred":[
+        "Batu Bara"
+    ],
     "name:ind_x_preferred":[
         "Batu Bara"
+    ],
+    "name:ind_x_variant":[
+        "Kabupaten Batu Bara"
     ],
     "name:ita_x_preferred":[
         "Batubara"
@@ -59,6 +69,9 @@
     ],
     "name:msa_x_preferred":[
         "Kabupaten Batubara"
+    ],
+    "name:nan_x_preferred":[
+        "Batubara Ko\u0101n"
     ],
     "name:rus_x_preferred":[
         "\u0411\u0430\u0442\u0443\u0431\u0430\u0440\u0430"
@@ -102,9 +115,10 @@
         "hasc:id":"ID.SU.BB",
         "wd:id":"Q5797"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:created":1482878640,
-    "wof:geomhash":"70342c5a0cb05cb7dbae4cf072bac86e",
+    "wof:geomhash":"7286dc894f3d310397f92a0e9a113ca9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -121,7 +135,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614723032,
+    "wof:lastmodified":1695886555,
     "wof:name":"Batu Bara",
     "wof:parent_id":85672073,
     "wof:placetype":"county",

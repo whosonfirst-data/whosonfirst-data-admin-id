@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.118128,
-    "geom:area_square_m":1455116982.364249,
+    "geom:area_square_m":1455116982.364131,
     "geom:bbox":"119.405731,-5.211933,119.972961,-4.718825",
     "geom:latitude":-5.001261,
     "geom:longitude":119.723701,
@@ -31,6 +31,9 @@
     "mps:longitude":119.727555,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Maros"
+    ],
     "name:ceb_x_preferred":[
         "Kabupaten Maros"
     ],
@@ -41,13 +44,20 @@
         "Maros"
     ],
     "name:eng_x_variant":[
-        "MAROS"
+        "MAROS",
+        "Maros Regency"
     ],
     "name:fra_x_preferred":[
         "r\u00e9gence de Maros"
     ],
+    "name:gle_x_preferred":[
+        "Maros"
+    ],
     "name:ind_x_preferred":[
         "Maros"
+    ],
+    "name:ind_x_variant":[
+        "Kabupaten Maros"
     ],
     "name:ita_x_preferred":[
         "Reggenza di Maros"
@@ -61,6 +71,9 @@
     "name:msa_x_preferred":[
         "Maros"
     ],
+    "name:nan_x_preferred":[
+        "Maros Ko\u0101n"
+    ],
     "name:nld_x_preferred":[
         "Maros"
     ],
@@ -69,6 +82,9 @@
     ],
     "name:spa_x_variant":[
         "Humbang Hasundutan"
+    ],
+    "name:sun_x_preferred":[
+        "Kabupat\u00e9n Maros"
     ],
     "name:swe_x_preferred":[
         "Kabupaten Maros"
@@ -111,11 +127,12 @@
         "hasc:id":"ID.SE.MR",
         "wd:id":"Q14611"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"33166e71fe97cf43de61a6cf8ccfab78",
+    "wof:geomhash":"f546d6b0bfe77a5719bebbc99a5d4b96",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -132,7 +149,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614722163,
+    "wof:lastmodified":1695886538,
     "wof:name":"Maros",
     "wof:parent_id":85672041,
     "wof:placetype":"county",

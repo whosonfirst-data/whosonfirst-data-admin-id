@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.145502,
-    "geom:area_square_m":1795187000.768623,
+    "geom:area_square_m":1795187000.76857,
     "geom:bbox":"139.357276,-4.093839,139.95154,-3.528101",
     "geom:latitude":-3.801983,
     "geom:longitude":139.647347,
@@ -38,6 +38,9 @@
     "name:ast_x_preferred":[
         "Yalimo"
     ],
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Yalimo"
+    ],
     "name:bar_x_preferred":[
         "Yalimo"
     ],
@@ -69,7 +72,8 @@
         "Yalimo"
     ],
     "name:eng_x_variant":[
-        "YALIMO"
+        "YALIMO",
+        "Yalimo Regency"
     ],
     "name:epo_x_preferred":[
         "Yalimo"
@@ -122,6 +126,9 @@
     "name:ind_x_preferred":[
         "Yalimo"
     ],
+    "name:ind_x_variant":[
+        "Kabupaten Yalimo"
+    ],
     "name:isl_x_preferred":[
         "Yalimo"
     ],
@@ -130,6 +137,9 @@
     ],
     "name:jav_x_preferred":[
         "Kabupat\u00e8n Yalimo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e4\u30ea\u30e2\u770c"
     ],
     "name:kon_x_preferred":[
         "Yalimo"
@@ -151,6 +161,9 @@
     ],
     "name:msa_x_preferred":[
         "Kabupaten Yalimo"
+    ],
+    "name:nan_x_preferred":[
+        "Yalimo Ko\u0101n"
     ],
     "name:nap_x_preferred":[
         "Yalimo"
@@ -266,9 +279,10 @@
         "hasc:id":"ID.PA.YL",
         "wd:id":"Q27838"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:created":1482878585,
-    "wof:geomhash":"78055fdde7b1f3a4799294db9e52d024",
+    "wof:geomhash":"1dc3a12e4b5fd5c449cfee9fcff5b279",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -285,7 +299,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614722807,
+    "wof:lastmodified":1695886550,
     "wof:name":"Yalimo",
     "wof:parent_id":85672115,
     "wof:placetype":"county",

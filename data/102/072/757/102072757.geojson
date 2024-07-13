@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.275082,
-    "geom:area_square_m":3400722270.693131,
+    "geom:area_square_m":3400722270.693166,
     "geom:bbox":"116.302238,-1.611431,116.921448,-0.828049",
     "geom:latitude":-1.159503,
     "geom:longitude":116.571209,
@@ -31,35 +31,78 @@
     "mps:longitude":116.540668,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Penajam Paser Utara"
+    ],
+    "name:bjn_x_preferred":[
+        "Kabupatin Penajam Paser Utara"
+    ],
     "name:ceb_x_preferred":[
         "Kabupaten Penajam Paser Utara"
     ],
+    "name:ceb_x_variant":[
+        "Penajam Paser Utara"
+    ],
     "name:deu_x_preferred":[
         "Kabupaten Penajam Paser Utara"
+    ],
+    "name:deu_x_variant":[
+        "Penajam Paser Utara"
     ],
     "name:eng_x_preferred":[
         "Penajam Paser Utara"
     ],
     "name:eng_x_variant":[
-        "PENAJAM PASER UTARA"
+        "PENAJAM PASER UTARA",
+        "Penajam North Paser Regency"
     ],
     "name:fra_x_preferred":[
         "kabupaten de Penajam Paser du Nord"
     ],
+    "name:fra_x_variant":[
+        "Penajam Paser du Nord"
+    ],
+    "name:gle_x_preferred":[
+        "Penajam Paser Thuaidh"
+    ],
     "name:ind_x_preferred":[
         "Penajam Paser Utara"
+    ],
+    "name:ind_x_variant":[
+        "Kabupaten Penajam Paser Utara"
+    ],
+    "name:ita_x_preferred":[
+        "Penajam Paser Settentrionale"
     ],
     "name:jav_x_preferred":[
         "Kabupat\u00e8n Penajam Paser Lor"
     ],
+    "name:jav_x_variant":[
+        "Penajam Paser Lor"
+    ],
     "name:jpn_x_preferred":[
         "\u5317\u30d7\u30ca\u30b8\u30e3\u30e0\u30fb\u30d1\u30b9\u30fc\u30eb\u770c"
+    ],
+    "name:jpn_x_variant":[
+        "\u30d7\u30ca\u30b8\u30e3\u30e0\u30fb\u5317\u30d1\u30b9\u30fc\u30eb"
+    ],
+    "name:kor_x_preferred":[
+        "\ud504\ub098\uc7a0 \ubd81\ud30c\uc138\ub974"
     ],
     "name:mar_x_preferred":[
         "Tabanan"
     ],
+    "name:min_x_preferred":[
+        "Penajam Paser Utara"
+    ],
     "name:msa_x_preferred":[
         "Kabupaten Penajam Paser Utara"
+    ],
+    "name:msa_x_variant":[
+        "Penajam Paser Utara"
+    ],
+    "name:nan_x_preferred":[
+        "Penajam Pak Paser"
     ],
     "name:nld_x_preferred":[
         "Penajam Paser Utara"
@@ -67,14 +110,26 @@
     "name:pol_x_preferred":[
         "Penajam Paser Utara"
     ],
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u043d\u0430\u0434\u0436\u0430\u043c-\u0421\u0435\u0432\u0435\u0440\u043d\u044b\u0439 \u041f\u0430\u0441\u0435\u0440"
+    ],
     "name:spa_x_preferred":[
         "Penajam Paser Septentrional"
     ],
     "name:swe_x_preferred":[
         "Kabupaten Penajam Paser Utara"
     ],
+    "name:swe_x_variant":[
+        "Penajam Paser Utara"
+    ],
+    "name:tgl_x_preferred":[
+        "Penajam Hilagang Paser"
+    ],
     "name:zho_x_preferred":[
         "\u5317\u4f69\u7eb3\u626c\u5df4\u585e\u5c14\u53bf"
+    ],
+    "name:zho_x_variant":[
+        "\u4f69\u7eb3\u626c\u5317\u5df4\u585e\u5c14"
     ],
     "qs:a0":"Indonesia",
     "qs:a0_lc":"IDN",
@@ -111,11 +166,12 @@
         "hasc:id":"ID.KM.PP",
         "wd:id":"Q14479"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"752ef1826d4a8fffd14084e72703307e",
+    "wof:geomhash":"bb102e8783f635820a6e4e466506dfa2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -132,7 +188,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614716084,
+    "wof:lastmodified":1695886501,
     "wof:name":"Penajam Paser Utara",
     "wof:parent_id":85671977,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.530233,
-    "geom:area_square_m":18904947143.895493,
+    "geom:area_square_m":18904947143.895813,
     "geom:bbox":"137.126195,-3.27843,139.141043,-1.46855",
     "geom:latitude":-2.35826,
     "geom:longitude":138.0912,
@@ -38,6 +38,9 @@
     "name:ast_x_preferred":[
         "Mamberamo Raya"
     ],
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Mamberamo Raya"
+    ],
     "name:bar_x_preferred":[
         "Mamberamo Raya"
     ],
@@ -69,7 +72,8 @@
         "Mamberamo Raya"
     ],
     "name:eng_x_variant":[
-        "MAMBERAMO RAYA"
+        "MAMBERAMO RAYA",
+        "Mamberamo Raya Regency"
     ],
     "name:epo_x_preferred":[
         "Mamberamo Raya"
@@ -122,6 +126,9 @@
     "name:ind_x_preferred":[
         "Mamberamo Raya"
     ],
+    "name:ind_x_variant":[
+        "Kabupaten Mamberamo Raya"
+    ],
     "name:isl_x_preferred":[
         "Mamberamo Raya"
     ],
@@ -130,6 +137,9 @@
     ],
     "name:jav_x_preferred":[
         "Mamberamo Raya"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30f3\u30d9\u30e9\u30e2\u30fb\u30e9\u30e4\u770c"
     ],
     "name:kon_x_preferred":[
         "Mamberamo Raya"
@@ -151,6 +161,9 @@
     ],
     "name:msa_x_preferred":[
         "Kabupaten Mamberamo Raya"
+    ],
+    "name:nan_x_preferred":[
+        "Mamberamo Raya Ko\u0101n"
     ],
     "name:nap_x_preferred":[
         "Mamberamo Raya"
@@ -266,9 +279,10 @@
         "hasc:id":"ID.PA.MR",
         "wd:id":"Q27668"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:created":1482878576,
-    "wof:geomhash":"bd04f9921771229d59e022702e5667ec",
+    "wof:geomhash":"99bb72a93f0ee738236bbf506c4c8c0d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -285,7 +299,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614722796,
+    "wof:lastmodified":1695886549,
     "wof:name":"Mamberamo Raya",
     "wof:parent_id":85672115,
     "wof:placetype":"county",

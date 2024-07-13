@@ -31,6 +31,9 @@
     "name:azb_x_preferred":[
         "\u0628\u0627\u062a\u0627\u0645"
     ],
+    "name:ban_x_preferred":[
+        "Kota Batam"
+    ],
     "name:bel_x_preferred":[
         "\u0411\u0430\u0442\u0430\u043c"
     ],
@@ -59,7 +62,11 @@
         "Batam"
     ],
     "name:eng_x_variant":[
-        "Pulau Batam"
+        "Pulau Batam",
+        "Batam City"
+    ],
+    "name:epo_x_preferred":[
+        "Batam"
     ],
     "name:eus_x_preferred":[
         "Batam"
@@ -76,6 +83,9 @@
     "name:fra_x_variant":[
         "Batam"
     ],
+    "name:gle_x_preferred":[
+        "Batam"
+    ],
     "name:guj_x_preferred":[
         "\u0aac\u0ac7\u0a9f\u0aae"
     ],
@@ -84,6 +94,9 @@
     ],
     "name:hin_x_preferred":[
         "\u092c\u093e\u091f\u092e"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0561\u057f\u0561\u0574"
     ],
     "name:ind_x_preferred":[
         "Batam"
@@ -124,11 +137,17 @@
     "name:mar_x_preferred":[
         "\u092c\u091f\u093e\u092e"
     ],
+    "name:min_x_preferred":[
+        "Kota Batam"
+    ],
     "name:mlg_x_preferred":[
         "Kota Batam"
     ],
     "name:msa_x_preferred":[
         "Kota Batam"
+    ],
+    "name:nan_x_preferred":[
+        "Batam Chh\u012b"
     ],
     "name:nld_x_preferred":[
         "Batam"
@@ -166,6 +185,9 @@
     "name:tam_x_preferred":[
         "\u0baa\u0ba4\u0bcd\u0ba4\u0bbe\u0bae\u0bcd"
     ],
+    "name:tat_x_preferred":[
+        "\u0411\u0430\u0442\u0430\u043c"
+    ],
     "name:tel_x_preferred":[
         "\u0c2c\u0c3e\u0c1f\u0c02"
     ],
@@ -186,6 +208,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0628\u0627\u062a\u0627\u0645"
+    ],
+    "name:vec_x_preferred":[
+        "Batam"
     ],
     "name:vie_x_preferred":[
         "Batam"
@@ -252,7 +277,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614713891,
+    "wof:lastmodified":1690931174,
     "wof:name":"Batam",
     "wof:parent_id":102073453,
     "wof:placetype":"locality",

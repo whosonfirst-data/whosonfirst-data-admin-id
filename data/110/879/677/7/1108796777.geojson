@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.090742,
-    "geom:area_square_m":1117581844.737207,
+    "geom:area_square_m":1117581844.737297,
     "geom:bbox":"96.004659,4.905126,96.434671,5.307505",
     "geom:latitude":5.110824,
     "geom:longitude":96.21083,
@@ -81,7 +81,8 @@
         "Pidie Jaya"
     ],
     "name:eng_x_variant":[
-        "PIDIE JAYA"
+        "PIDIE JAYA",
+        "Pidie Jaya Regency"
     ],
     "name:epo_x_preferred":[
         "Pidie Jaya"
@@ -137,6 +138,9 @@
     "name:ind_x_preferred":[
         "Pidie Jaya"
     ],
+    "name:ind_x_variant":[
+        "Kabupaten Pidie Jaya"
+    ],
     "name:isl_x_preferred":[
         "Pidie Jaya"
     ],
@@ -169,6 +173,9 @@
     ],
     "name:msa_x_preferred":[
         "Pidie Jaya"
+    ],
+    "name:nan_x_preferred":[
+        "Pidie Jaya Ko\u0101n"
     ],
     "name:nap_x_preferred":[
         "Pidie Jaya"
@@ -239,6 +246,9 @@
     "name:swe_x_preferred":[
         "Pidie Jaya"
     ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0456\u0434\u0456-\u0414\u0436\u0430\u044f"
+    ],
     "name:vec_x_preferred":[
         "Pidie Jaya"
     ],
@@ -287,9 +297,10 @@
         "hasc:id":"ID.AC.PJ",
         "wd:id":"Q5754"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:created":1482878474,
-    "wof:geomhash":"a83a6e125390d5384497138facf64ced",
+    "wof:geomhash":"3c89ebf6b00e70246dc76aa433573ae4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -306,7 +317,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614722351,
+    "wof:lastmodified":1695886541,
     "wof:name":"Pidie Jaya",
     "wof:parent_id":85671973,
     "wof:placetype":"county",

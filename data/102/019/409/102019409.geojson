@@ -187,6 +187,7 @@
     "ne:UN_LAT":0.0,
     "ne:UN_LONG":0.0,
     "ne:WORLDCITY":0,
+    "ne:min_zoom":6.7,
     "qs:a1":"*",
     "qs:a1r":"*",
     "qs:id":0,
@@ -196,6 +197,8 @@
     "qs:loc_lc":"1631103",
     "qs:pop":0,
     "qs:source":"Nquattroshapes",
+    "reversegeo:latitude":-3.785726,
+    "reversegeo:longitude":119.652221,
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
@@ -242,13 +245,15 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1636502313,
+    "wof:lastmodified":1706239766,
     "wof:name":"Pinrang",
     "wof:parent_id":102072633,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1141907573
+    ],
     "wof:tags":[]
 },
   "bbox": [

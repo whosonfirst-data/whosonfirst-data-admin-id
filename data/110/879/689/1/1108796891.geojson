@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.405301,
-    "geom:area_square_m":17323558515.123245,
+    "geom:area_square_m":17323558515.124744,
     "geom:bbox":"134.875539,-5.1921,137.73667,-3.914356",
     "geom:latitude":-4.481827,
     "geom:longitude":136.676649,
@@ -38,6 +38,9 @@
     "name:ast_x_preferred":[
         "Mimika"
     ],
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Mimika"
+    ],
     "name:bar_x_preferred":[
         "Mimika"
     ],
@@ -69,7 +72,8 @@
         "Mimika"
     ],
     "name:eng_x_variant":[
-        "MIMIKA"
+        "MIMIKA",
+        "Mimika Regency"
     ],
     "name:epo_x_preferred":[
         "Mimika"
@@ -122,6 +126,9 @@
     "name:ind_x_preferred":[
         "Mimika"
     ],
+    "name:ind_x_variant":[
+        "Kabupaten Mimika"
+    ],
     "name:isl_x_preferred":[
         "Mimika"
     ],
@@ -130,6 +137,9 @@
     ],
     "name:jav_x_preferred":[
         "Mimika"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30df\u30df\u30ab\u770c"
     ],
     "name:kon_x_preferred":[
         "Mimika"
@@ -151,6 +161,9 @@
     ],
     "name:msa_x_preferred":[
         "Kabupaten Mimika"
+    ],
+    "name:nan_x_preferred":[
+        "Mimika Ko\u0101n"
     ],
     "name:nap_x_preferred":[
         "Mimika"
@@ -218,6 +231,9 @@
     "name:swe_x_preferred":[
         "Mimika"
     ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0456\u043c\u0456\u043a\u0430"
+    ],
     "name:vec_x_preferred":[
         "Mimika"
     ],
@@ -266,9 +282,10 @@
         "hasc:id":"ID.PA.MI",
         "wd:id":"Q27700"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:created":1482878579,
-    "wof:geomhash":"2e60bbfa9db5c368660d9979a0850907",
+    "wof:geomhash":"14e515aba5a12d1bb1fda91c037170e8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -285,7 +302,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614722801,
+    "wof:lastmodified":1695886549,
     "wof:name":"Mimika",
     "wof:parent_id":85672115,
     "wof:placetype":"county",

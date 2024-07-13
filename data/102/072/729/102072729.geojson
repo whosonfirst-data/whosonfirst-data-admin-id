@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.275909,
-    "geom:area_square_m":3411554437.903878,
+    "geom:area_square_m":3411554437.904808,
     "geom:bbox":"99.825294,-0.107612,100.351494,0.907389",
     "geom:latitude":0.389215,
     "geom:longitude":100.109834,
@@ -31,6 +31,9 @@
     "mps:longitude":100.171601,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Pasaman"
+    ],
     "name:bel_x_preferred":[
         "\u0410\u043a\u0440\u0443\u0433\u0430 \u041f\u0430\u0441\u0430\u043c\u0430\u043d"
     ],
@@ -44,13 +47,20 @@
         "Pasaman"
     ],
     "name:eng_x_variant":[
-        "KOTA PASAMAN"
+        "KOTA PASAMAN",
+        "Pasaman Regency"
     ],
     "name:fra_x_preferred":[
         "Pasaman"
     ],
+    "name:gle_x_preferred":[
+        "Pasaman"
+    ],
     "name:ind_x_preferred":[
         "Pasaman"
+    ],
+    "name:ind_x_variant":[
+        "Kabupaten Pasaman"
     ],
     "name:ita_x_preferred":[
         "Pasaman"
@@ -66,6 +76,9 @@
     ],
     "name:msa_x_preferred":[
         "Pasaman"
+    ],
+    "name:nan_x_preferred":[
+        "Pasaman Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Pasaman"
@@ -120,11 +133,12 @@
         "hasc:id":"ID.SB.PM",
         "wd:id":"Q6048"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"2f4b2549ef9ae2148666bb947d625e97",
+    "wof:geomhash":"1a91b219ec8b10b1903d7ac5f8e3f68c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -141,7 +155,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614715793,
+    "wof:lastmodified":1695886500,
     "wof:name":"Pasaman",
     "wof:parent_id":85672087,
     "wof:placetype":"county",

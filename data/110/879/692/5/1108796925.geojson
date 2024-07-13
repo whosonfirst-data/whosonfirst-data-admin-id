@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.650703,
-    "geom:area_square_m":8044960132.356057,
+    "geom:area_square_m":8044960132.355744,
     "geom:bbox":"100.024651,0.200343,101.046883,1.434173",
     "geom:latitude":0.899415,
     "geom:longitude":100.501192,
@@ -37,6 +37,9 @@
     ],
     "name:ast_x_preferred":[
         "Rokan Hulu"
+    ],
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Rokan Hulu"
     ],
     "name:bar_x_preferred":[
         "Rokan Hulu"
@@ -72,7 +75,8 @@
         "Rokan Hulu"
     ],
     "name:eng_x_variant":[
-        "ROKANHULU"
+        "ROKANHULU",
+        "Rokan Hulu Regency"
     ],
     "name:epo_x_preferred":[
         "Rokan Hulu"
@@ -125,6 +129,9 @@
     "name:ind_x_preferred":[
         "Rokan Hulu"
     ],
+    "name:ind_x_variant":[
+        "Kabupaten Rokan Hulu"
+    ],
     "name:isl_x_preferred":[
         "Rokan Hulu"
     ],
@@ -154,6 +161,9 @@
     ],
     "name:msa_x_preferred":[
         "Rokan Hulu"
+    ],
+    "name:nan_x_preferred":[
+        "Rokan Hulu Ko\u0101n"
     ],
     "name:nap_x_preferred":[
         "Rokan Hulu"
@@ -242,6 +252,9 @@
     "name:wol_x_preferred":[
         "Rokan Hulu"
     ],
+    "name:zho_x_preferred":[
+        "\u4e0a\u7f57\u5e72\u53bf"
+    ],
     "name:zul_x_preferred":[
         "Rokan Hulu"
     ],
@@ -269,9 +282,10 @@
         "hasc:id":"ID.RI.RH",
         "wd:id":"Q7744"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:created":1482878603,
-    "wof:geomhash":"cdde66a86202b2b33f71149ba45c536e",
+    "wof:geomhash":"69c0d3549f280e08cb9103dba1ce11c0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -288,7 +302,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614722892,
+    "wof:lastmodified":1695886552,
     "wof:name":"Rokan Hulu",
     "wof:parent_id":85672077,
     "wof:placetype":"county",

@@ -33,12 +33,17 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        102072809,
-        85671987
+        85671987,
+        102072809
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6745683
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6773568
+        ]
     },
     "wof:country":"ID",
     "wof:geomhash":"3e945aa929ccc53d051e059911b14237",
@@ -59,13 +64,15 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614643558,
+    "wof:lastmodified":1706239777,
     "wof:name":"Kebondalem",
     "wof:parent_id":102072809,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360105639
+    ],
     "wof:tags":[]
 },
   "bbox": [

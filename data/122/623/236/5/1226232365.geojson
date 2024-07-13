@@ -33,12 +33,17 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        102073017,
-        85672027
+        85672027,
+        102073017
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1621417
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1965771
+        ]
     },
     "wof:country":"ID",
     "wof:geomhash":"03736d43f264a3a36ad522b008abdbf0",
@@ -59,13 +64,15 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614645606,
+    "wof:lastmodified":1706239775,
     "wof:name":"Wonolopo",
     "wof:parent_id":102073017,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360070221
+    ],
     "wof:tags":[]
 },
   "bbox": [

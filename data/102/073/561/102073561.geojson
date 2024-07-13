@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.992086,
-    "geom:area_square_m":12250789106.891218,
+    "geom:area_square_m":12250789106.890638,
     "geom:bbox":"102.067047,-3.598058,103.649582,-2.304708",
     "geom:latitude":-2.963968,
     "geom:longitude":102.949242,
@@ -31,6 +31,9 @@
     "mps:longitude":102.961424,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Musi Rawas"
+    ],
     "name:ceb_x_preferred":[
         "Kabupaten Musi Rawas"
     ],
@@ -41,13 +44,20 @@
         "Musi Rawas"
     ],
     "name:eng_x_variant":[
-        "MUSIRAWAS"
+        "MUSIRAWAS",
+        "Musi Rawas Regency"
     ],
     "name:fra_x_preferred":[
         "kabupaten de Musi Rawas"
     ],
+    "name:gle_x_preferred":[
+        "Musi Rawas"
+    ],
     "name:ind_x_preferred":[
         "Musi Rawas"
+    ],
+    "name:ind_x_variant":[
+        "Kabupaten Musi Rawas"
     ],
     "name:ita_x_preferred":[
         "Musi Rawas"
@@ -55,11 +65,20 @@
     "name:jav_x_preferred":[
         "Kabupat\u00e8n Musi Rawas"
     ],
+    "name:jav_x_variant":[
+        "Musi Rawas"
+    ],
     "name:jpn_x_preferred":[
         "\u30e0\u30b7\u30fb\u30e9\u30ef\u30b9\u770c"
     ],
+    "name:min_x_preferred":[
+        "Kabupaten Musi Rawas"
+    ],
     "name:msa_x_preferred":[
         "Kabupaten Musi Rawas"
+    ],
+    "name:nan_x_preferred":[
+        "Musi Rawas Ko\u0101n"
     ],
     "name:nds_x_preferred":[
         "Polewali Mandar"
@@ -111,11 +130,12 @@
         "hasc:id":"ID.SL.MR",
         "wd:id":"Q8121"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"08e43e91f3f788c88c2a0e499bc51df8",
+    "wof:geomhash":"401eb1cd1cf1f573466de723731285b7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -132,7 +152,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614722256,
+    "wof:lastmodified":1695886539,
     "wof:name":"Musi Rawas",
     "wof:parent_id":85672013,
     "wof:placetype":"county",

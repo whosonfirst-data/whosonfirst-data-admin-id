@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.145919,
-    "geom:area_square_m":1802048456.456582,
+    "geom:area_square_m":1802048456.456167,
     "geom:bbox":"97.913841,2.653303,98.570297,3.123934",
     "geom:latitude":2.87008,
     "geom:longitude":98.232626,
@@ -34,6 +34,9 @@
     "name:ace_x_preferred":[
         "Kabupaten Dairi"
     ],
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Dairi"
+    ],
     "name:ceb_x_preferred":[
         "Kabupaten Dairi"
     ],
@@ -44,13 +47,20 @@
         "Dairi"
     ],
     "name:eng_x_variant":[
-        "DAIRI"
+        "DAIRI",
+        "Dairi Regency"
     ],
     "name:fra_x_preferred":[
         "Dairi"
     ],
+    "name:gle_x_preferred":[
+        "Dairi"
+    ],
     "name:ind_x_preferred":[
         "Dairi"
+    ],
+    "name:ind_x_variant":[
+        "Kabupaten Dairi"
     ],
     "name:ita_x_preferred":[
         "Dairi"
@@ -63,6 +73,9 @@
     ],
     "name:msa_x_preferred":[
         "Dairi"
+    ],
+    "name:nan_x_preferred":[
+        "Dairi Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Dairi"
@@ -118,11 +131,12 @@
         "hasc:id":"ID.SU.DA",
         "wd:id":"Q5801"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"16f6d14aac8562e3bba9afced89122a6",
+    "wof:geomhash":"e521f8bba94e78a41fc05e9e15e1cd3a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -139,7 +153,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614716967,
+    "wof:lastmodified":1695886507,
     "wof:name":"Dairi",
     "wof:parent_id":85672073,
     "wof:placetype":"county",

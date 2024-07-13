@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.057267,
-    "geom:area_square_m":705028511.556573,
+    "geom:area_square_m":705028511.556757,
     "geom:bbox":"104.769254,-5.578206,105.091827,-5.145062",
     "geom:latitude":-5.354513,
     "geom:longitude":104.924734,
@@ -38,6 +38,9 @@
     "name:ast_x_preferred":[
         "Pringsewu"
     ],
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Pringsewu"
+    ],
     "name:bar_x_preferred":[
         "Pringsewu"
     ],
@@ -69,7 +72,8 @@
         "Pringsewu"
     ],
     "name:eng_x_variant":[
-        "PRINGSEWU"
+        "PRINGSEWU",
+        "Pringsewu Regency"
     ],
     "name:epo_x_preferred":[
         "Pringsewu"
@@ -122,6 +126,9 @@
     "name:ind_x_preferred":[
         "Pringsewu"
     ],
+    "name:ind_x_variant":[
+        "Kabupaten Pringsewu"
+    ],
     "name:isl_x_preferred":[
         "Pringsewu"
     ],
@@ -130,6 +137,9 @@
     ],
     "name:jav_x_preferred":[
         "Kabupat\u00e8n Prings\u00e8wu"
+    ],
+    "name:jav_x_variant":[
+        "Prings\u00e8wu"
     ],
     "name:jpn_x_preferred":[
         "\u30d7\u30ea\u30f3\u30bb\u30a5\u770c"
@@ -154,6 +164,9 @@
     ],
     "name:msa_x_preferred":[
         "Kabupaten Pringsewu"
+    ],
+    "name:nan_x_preferred":[
+        "Pringsewu Ko\u0101n"
     ],
     "name:nap_x_preferred":[
         "Pringsewu"
@@ -266,9 +279,10 @@
         "hasc:id":"ID.LA.PG",
         "wd:id":"Q8145"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:created":1482878508,
-    "wof:geomhash":"e5c5a6d132d17edb18561384d3b89f39",
+    "wof:geomhash":"ac778b08bc89cf2eee8508cf68097ca1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -285,7 +299,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614722505,
+    "wof:lastmodified":1695886544,
     "wof:name":"Pringsewu",
     "wof:parent_id":85672009,
     "wof:placetype":"county",

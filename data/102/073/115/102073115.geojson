@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.146814,
-    "geom:area_square_m":1807595174.660851,
+    "geom:area_square_m":1807595174.660713,
     "geom:bbox":"119.365166,-5.569658,120.031677,-5.090595",
     "geom:latitude":-5.309772,
     "geom:longitude":119.719227,
@@ -43,6 +43,9 @@
     "name:ast_x_preferred":[
         "Gowa"
     ],
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Gowa"
+    ],
     "name:bar_x_preferred":[
         "Gowa"
     ],
@@ -74,7 +77,8 @@
         "Gowa"
     ],
     "name:eng_x_variant":[
-        "GOWA"
+        "GOWA",
+        "Gowa Regency"
     ],
     "name:epo_x_preferred":[
         "Gowa"
@@ -106,6 +110,9 @@
     "name:glg_x_preferred":[
         "Gowa"
     ],
+    "name:gor_x_preferred":[
+        "Gowa"
+    ],
     "name:gsw_x_preferred":[
         "Gowa"
     ],
@@ -126,6 +133,9 @@
     ],
     "name:ind_x_preferred":[
         "Gowa"
+    ],
+    "name:ind_x_variant":[
+        "Kabupaten Gowa"
     ],
     "name:isl_x_preferred":[
         "Gowa"
@@ -159,6 +169,9 @@
     ],
     "name:msa_x_preferred":[
         "Gowa"
+    ],
+    "name:nan_x_preferred":[
+        "Gowa Ko\u0101n"
     ],
     "name:nap_x_preferred":[
         "Gowa"
@@ -285,11 +298,12 @@
         "hasc:id":"ID.SE.GO",
         "wd:id":"Q14601"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9742a2b41e4ca351ff9c0b9ff8cdfca9",
+    "wof:geomhash":"2457eead585c38880020574418ecced4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -306,7 +320,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614718589,
+    "wof:lastmodified":1695886518,
     "wof:name":"Gowa",
     "wof:parent_id":85672041,
     "wof:placetype":"county",

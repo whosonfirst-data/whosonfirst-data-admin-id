@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.04722,
-    "geom:area_square_m":578592644.719823,
+    "geom:area_square_m":578592644.719832,
     "geom:bbox":"110.215973,-7.837477,110.54985,-7.541897",
     "geom:latitude":-7.715678,
     "geom:longitude":110.383364,
@@ -43,6 +43,9 @@
     "name:ast_x_preferred":[
         "Sleman"
     ],
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Sl\u00e9man"
+    ],
     "name:bar_x_preferred":[
         "Sleman"
     ],
@@ -74,7 +77,8 @@
         "Sleman"
     ],
     "name:eng_x_variant":[
-        "SLEMAN"
+        "SLEMAN",
+        "Sleman Regency"
     ],
     "name:epo_x_preferred":[
         "Sleman"
@@ -127,6 +131,9 @@
     "name:ind_x_preferred":[
         "Sleman"
     ],
+    "name:ind_x_variant":[
+        "Kabupaten Sleman"
+    ],
     "name:isl_x_preferred":[
         "Sleman"
     ],
@@ -159,6 +166,9 @@
     ],
     "name:msa_x_preferred":[
         "Kabupaten Sleman"
+    ],
+    "name:nan_x_preferred":[
+        "Sleman Ko\u0101n"
     ],
     "name:nap_x_preferred":[
         "Sleman"
@@ -223,6 +233,9 @@
     "name:sun_x_preferred":[
         "Kabupat\u00e9n Sl\u00e9man"
     ],
+    "name:sun_x_variant":[
+        "Sl\u00e9man"
+    ],
     "name:swa_x_preferred":[
         "Sleman"
     ],
@@ -246,6 +259,9 @@
     ],
     "name:wol_x_preferred":[
         "Sleman"
+    ],
+    "name:zho_x_preferred":[
+        "\u58eb\u5217\u66fc\u7e23"
     ],
     "name:zul_x_preferred":[
         "Sleman"
@@ -286,11 +302,12 @@
         "hasc:id":"ID.YO.SL",
         "wd:id":"Q11480"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"eaba98ab620f5fcd97683bb9f50825e2",
+    "wof:geomhash":"a24df7b5c32deba2a10d850a259c3634",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -307,7 +324,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614719942,
+    "wof:lastmodified":1695886524,
     "wof:name":"Sleman",
     "wof:parent_id":85672093,
     "wof:placetype":"county",

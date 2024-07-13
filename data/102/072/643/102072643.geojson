@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00108,
-    "geom:area_square_m":13330654.376371,
+    "geom:area_square_m":13330654.376357,
     "geom:bbox":"99.047112,2.935635,99.083694,2.978101",
     "geom:latitude":2.957566,
     "geom:longitude":99.06449,
@@ -40,6 +40,9 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u0645\u0627\u062a\u0627\u0646\u063a\u0633\u064a\u0627\u062a\u0627\u0631"
     ],
+    "name:ban_x_preferred":[
+        "Kota Pematangsiantar"
+    ],
     "name:ben_x_preferred":[
         "\u09aa\u09c7\u09ae\u09be\u099f\u09be\u0982\u09b8\u09bf\u09af\u09bc\u09be\u09a8\u09cd\u099f\u09be\u09b0"
     ],
@@ -63,6 +66,10 @@
     ],
     "name:eng_x_variant":[
         "KOTA PEMATANG SIANTAR",
+        "Pematangsiantar",
+        "Pematangsiantar City"
+    ],
+    "name:epo_x_preferred":[
         "Pematangsiantar"
     ],
     "name:fas_x_preferred":[
@@ -74,6 +81,12 @@
     "name:fra_x_preferred":[
         "Pematangsiantar"
     ],
+    "name:fra_x_variant":[
+        "Pematang Siantar"
+    ],
+    "name:gle_x_preferred":[
+        "Pematangsiantar"
+    ],
     "name:guj_x_preferred":[
         "\u0aaa\u0ac7\u0aae\u0abe\u0a9f\u0abe\u0a82\u0a97\u0acd\u0ab8\u0abf\u0aaf\u0abe\u0a82\u0a9f\u0ab0"
     ],
@@ -82,6 +95,9 @@
     ],
     "name:ind_x_preferred":[
         "Pematang Siantar"
+    ],
+    "name:ind_x_variant":[
+        "Kota Pematangsiantar"
     ],
     "name:ita_x_preferred":[
         "Pematangsiantar"
@@ -107,11 +123,17 @@
     "name:mar_x_preferred":[
         "\u092a\u0947\u092e\u091f\u093e\u0902\u0917\u0938\u093f\u0906\u0928\u091f\u0930"
     ],
+    "name:min_x_preferred":[
+        "Kota Pematangsiantar"
+    ],
     "name:mlg_x_preferred":[
         "Kota Pematangsiantar"
     ],
     "name:msa_x_preferred":[
         "Pematang Siantar"
+    ],
+    "name:nan_x_preferred":[
+        "Pematangsiantar Chh\u012b"
     ],
     "name:nld_x_preferred":[
         "Pematang Siantar"
@@ -140,6 +162,9 @@
     "name:tam_x_preferred":[
         "\u0baa\u0bc7\u0bae\u0b9f\u0b99\u0bcd\u0b9a\u0bbf\u0baf\u0bbe\u0ba3\u0bcd\u0b9f\u0bbe\u0bb0\u0bcd"
     ],
+    "name:tat_x_preferred":[
+        "\u041f\u0435\u043c\u0430\u0442\u0430\u04a3\u0441\u0438\u0430\u043d\u0442\u0430\u0440"
+    ],
     "name:tel_x_preferred":[
         "\u0c2a\u0c46\u0c2e\u0c3e\u0c1f\u0c02\u0c17\u0c4d\u0c38\u0c3f\u0c2f\u0c3e\u0c02\u0c1f\u0c30\u0c4d"
     ],
@@ -149,6 +174,9 @@
     "name:tha_x_preferred":[
         "\u0e40\u0e1b\u0e21\u0e32\u0e15\u0e31\u0e07\u0e40\u0e0b\u0e35\u0e22\u0e19\u0e15\u0e32"
     ],
+    "name:tha_x_variant":[
+        "\u0e40\u0e1b\u0e2d\u0e21\u0e32\u0e15\u0e31\u0e07\u0e0b\u0e35\u0e22\u0e31\u0e19\u0e15\u0e32\u0e23\u0e4c"
+    ],
     "name:tur_x_preferred":[
         "Pematangsiantar"
     ],
@@ -157,6 +185,9 @@
     ],
     "name:urd_x_preferred":[
         "\u067e\u0645\u0627\u062a\u0627\u0646\u06af \u0633\u06cc\u0627\u0646\u062a\u0627\u0631"
+    ],
+    "name:vec_x_preferred":[
+        "Pematangsiantar"
     ],
     "name:vie_x_preferred":[
         "Pematangsiantar"
@@ -203,11 +234,12 @@
         "hasc:id":"ID.SU.PS",
         "wd:id":"Q5979"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5fb4bdea45035dc24ad49c1da5c131f3",
+    "wof:geomhash":"198c4d12493b20c9f59f30b9b7df1ff4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -224,7 +256,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614715086,
+    "wof:lastmodified":1695886497,
     "wof:name":"Pematang Siantar",
     "wof:parent_id":85672073,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.270295,
-    "geom:area_square_m":3319808039.289439,
+    "geom:area_square_m":3319808039.28897,
     "geom:bbox":"105.862892,-6.99686,106.52565,-6.288722",
     "geom:latitude":-6.642323,
     "geom:longitude":106.21343,
@@ -31,6 +31,9 @@
     "mps:longitude":106.208386,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Lebak"
+    ],
     "name:bel_x_preferred":[
         "\u0410\u043a\u0440\u0443\u0433\u0430 \u041b\u0435\u0431\u0430\u043a"
     ],
@@ -44,7 +47,8 @@
         "Lebak"
     ],
     "name:eng_x_variant":[
-        "LEBAK"
+        "LEBAK",
+        "Lebak Regency"
     ],
     "name:epo_x_preferred":[
         "Lebak"
@@ -55,8 +59,14 @@
     "name:fra_x_variant":[
         "kabupaten de Lebak"
     ],
+    "name:gle_x_preferred":[
+        "Lebak"
+    ],
     "name:ind_x_preferred":[
         "Lebak"
+    ],
+    "name:ind_x_variant":[
+        "Kabupaten Lebak"
     ],
     "name:ita_x_preferred":[
         "Lebak"
@@ -64,11 +74,17 @@
     "name:jav_x_preferred":[
         "Kabupat\u00e8n Lebak"
     ],
+    "name:jav_x_variant":[
+        "Lebak"
+    ],
     "name:jpn_x_preferred":[
         "\u30ec\u30d0\u30c3\u30af\u770c"
     ],
     "name:msa_x_preferred":[
         "Kabupaten Lebak"
+    ],
+    "name:nan_x_preferred":[
+        "Lebak Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Lebak"
@@ -127,11 +143,12 @@
         "hasc:id":"ID.BT.LE",
         "wd:id":"Q10119"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ba9bdfc649fb084bfd1bd15fa59a2ab7",
+    "wof:geomhash":"31bb35607a4ba49feaf6b73fff7aab22",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -148,7 +165,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614719320,
+    "wof:lastmodified":1695886522,
     "wof:name":"Lebak",
     "wof:parent_id":85671995,
     "wof:placetype":"county",

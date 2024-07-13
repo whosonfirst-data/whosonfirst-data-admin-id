@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"120.23632,-3.099928,120.23632,-3.099928",
@@ -13,10 +15,13 @@
     "lbl:latitude":-3.099928,
     "lbl:longitude":120.23632,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u0644\u0648\u0628\u0648"
+    ],
+    "name:ban_x_preferred":[
+        "Kota Palopo"
     ],
     "name:ben_x_preferred":[
         "\u09aa\u09be\u09b2\u09be\u09cb\u09aa\u09cb"
@@ -42,10 +47,22 @@
     "name:eng_x_preferred":[
         "Palopo"
     ],
+    "name:eng_x_variant":[
+        "Palopo City"
+    ],
+    "name:epo_x_preferred":[
+        "Palopo"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u0644\u0648\u067e\u0648"
+    ],
     "name:fin_x_preferred":[
         "Palopo"
     ],
     "name:fra_x_preferred":[
+        "Palopo"
+    ],
+    "name:gle_x_preferred":[
         "Palopo"
     ],
     "name:guj_x_preferred":[
@@ -62,6 +79,9 @@
     ],
     "name:ind_x_preferred":[
         "Palopo"
+    ],
+    "name:ind_x_variant":[
+        "Kota Palopo"
     ],
     "name:ita_x_preferred":[
         "Palopo"
@@ -93,6 +113,9 @@
     "name:msa_x_preferred":[
         "Palopo"
     ],
+    "name:nan_x_preferred":[
+        "Palopo Chh\u012b"
+    ],
     "name:nld_x_preferred":[
         "Palopo"
     ],
@@ -120,11 +143,17 @@
     "name:spa_x_preferred":[
         "Palopo"
     ],
+    "name:sun_x_preferred":[
+        "Kota Palopo"
+    ],
     "name:swe_x_preferred":[
         "Palopo"
     ],
     "name:tam_x_preferred":[
         "\u0baa\u0bb2\u0bcb\u0baa\u0bcb"
+    ],
+    "name:tat_x_preferred":[
+        "\u041f\u0430\u043b\u043e\u043f\u043e"
     ],
     "name:tel_x_preferred":[
         "\u0c2a\u0c3e\u0c32\u0c4b\u0c2a\u0c4b"
@@ -140,6 +169,9 @@
     ],
     "name:urd_x_preferred":[
         "\u067e\u0627\u0644\u0648\u067e\u0648"
+    ],
+    "name:vec_x_preferred":[
+        "Palopo"
     ],
     "name:vie_x_preferred":[
         "Palopo"
@@ -273,12 +305,14 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1636502474,
+    "wof:lastmodified":1706239766,
     "wof:name":"Palopo",
     "wof:parent_id":102072833,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        102019601
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

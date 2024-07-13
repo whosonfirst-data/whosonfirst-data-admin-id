@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.108177,
-    "geom:area_square_m":1329745143.830014,
+    "geom:area_square_m":1329745143.829877,
     "geom:bbox":"106.897728,-6.48641,107.294304,-5.91357",
     "geom:latitude":-6.222819,
     "geom:longitude":107.111752,
@@ -46,11 +46,23 @@
     "name:aze_x_preferred":[
         "Bekasi"
     ],
+    "name:ban_x_preferred":[
+        "Bekasi"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0411\u0435\u043a\u0430\u0441\u0456"
     ],
+    "name:bel_x_variant":[
+        "\u0411\u0435\u043a\u0430\u0441\u0456"
+    ],
     "name:ben_x_preferred":[
         "\u09ac\u09c7\u0995\u09be\u09b8\u09bf"
+    ],
+    "name:bis_x_preferred":[
+        "Bekasi"
+    ],
+    "name:bug_x_preferred":[
+        "Bekasi"
     ],
     "name:bul_x_preferred":[
         "\u0411\u0435\u043a\u0430\u0441\u0438"
@@ -83,7 +95,8 @@
         "Bekasi"
     ],
     "name:eng_x_variant":[
-        "BEKASI"
+        "BEKASI",
+        "Bekasi City"
     ],
     "name:epo_x_preferred":[
         "Bekasi"
@@ -98,6 +111,12 @@
         "Bekasi"
     ],
     "name:fra_x_preferred":[
+        "Bekasi"
+    ],
+    "name:frr_x_preferred":[
+        "Bekasi"
+    ],
+    "name:gle_x_preferred":[
         "Bekasi"
     ],
     "name:gor_x_preferred":[
@@ -118,11 +137,17 @@
     "name:hun_x_preferred":[
         "Bekasi"
     ],
+    "name:hye_x_preferred":[
+        "\u0532\u0565\u0584\u0561\u057d\u056b"
+    ],
     "name:ido_x_preferred":[
         "Bekasi"
     ],
     "name:ind_x_preferred":[
         "Bekasi"
+    ],
+    "name:ind_x_variant":[
+        "Kota Bekasi"
     ],
     "name:ita_x_preferred":[
         "Bekasi"
@@ -151,8 +176,14 @@
     "name:lav_x_preferred":[
         "Bekasi"
     ],
+    "name:lim_x_preferred":[
+        "Bekasi"
+    ],
     "name:lit_x_preferred":[
         "Bekasis"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d2c\u0d46\u0d15\u0d4d\u0d15\u0d3e\u0d38\u0d3f"
     ],
     "name:mar_x_preferred":[
         "\u092c\u0947\u0915\u0938\u0940"
@@ -183,6 +214,9 @@
     ],
     "name:oci_x_preferred":[
         "Bekasi"
+    ],
+    "name:oss_x_preferred":[
+        "\u0411\u0435\u043a\u0430\u0441\u0438"
     ],
     "name:pol_x_preferred":[
         "Bekasi"
@@ -220,11 +254,17 @@
     "name:tam_x_preferred":[
         "\u0baa\u0bc6\u0b95\u0bcd\u0b95\u0bbe\u0b9a\u0bbf"
     ],
+    "name:tat_x_preferred":[
+        "\u0411\u0435\u043a\u0430\u0441\u0438"
+    ],
     "name:tel_x_preferred":[
         "\u0c2c\u0c46\u0c15\u0c3e\u0c38\u0c3f"
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e1a\u0e01\u0e32\u0e0b\u0e35"
+    ],
+    "name:tha_x_variant":[
+        "\u0e40\u0e1a\u0e2d\u0e01\u0e32\u0e0b\u0e35"
     ],
     "name:tur_x_preferred":[
         "Bekasi"
@@ -235,6 +275,12 @@
     "name:urd_x_preferred":[
         "\u0628\u06cc\u06a9\u0627\u0633\u06cc"
     ],
+    "name:uzb_x_preferred":[
+        "Bekasi"
+    ],
+    "name:vec_x_preferred":[
+        "Bekasi"
+    ],
     "name:vep_x_preferred":[
         "Bekasi"
     ],
@@ -243,6 +289,9 @@
     ],
     "name:war_x_preferred":[
         "Bekasi"
+    ],
+    "name:wuu_x_preferred":[
+        "\u52ff\u52a0\u6cd7"
     ],
     "name:yue_x_preferred":[
         "\u52ff\u52a0\u6cd7"
@@ -286,11 +335,12 @@
         "hasc:id":"ID.JR.BS",
         "wd:id":"Q10392"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d3303ee57ee3453127c84fbca664c839",
+    "wof:geomhash":"ac7042c21ac6eaa40e8acbbc1209e854",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -307,7 +357,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614722204,
+    "wof:lastmodified":1695886539,
     "wof:name":"Bekasi",
     "wof:parent_id":85671983,
     "wof:placetype":"county",

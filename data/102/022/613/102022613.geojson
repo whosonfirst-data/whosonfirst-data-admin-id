@@ -9,8 +9,19 @@
     "geom:bbox":"140.291866,-6.111367,140.320927,-6.093276",
     "geom:latitude":-6.102322,
     "geom:longitude":140.306397,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Tanah Merah",
+    "gn:country_code":"ID",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2082430,
     "gn:latitude":-10.1355,
     "gn:longitude":123.7744,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Tanah Merah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jayapura",
     "iso:country":"ID",
     "lbl:latitude":-6.102322,
     "lbl:longitude":140.306397,
@@ -18,11 +29,15 @@
     "mps:longitude":140.306397,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:deu_x_preferred":[
         "Tanahmerah"
     ],
     "name:eng_x_preferred":[
         "Tanahmerah"
+    ],
+    "name:eng_x_variant":[
+        "Tanah Merah"
     ],
     "name:fra_x_preferred":[
         "Tanahmerah"
@@ -42,8 +57,18 @@
     "name:rus_x_preferred":[
         "\u0422\u0430\u043d\u0430\u0445\u043c\u0435\u0440\u0430\u0445"
     ],
+    "name:rus_x_variant":[
+        "\u0422\u0430\u043d\u0430\u0445 \u041c\u0435\u0440\u0430\u0445"
+    ],
     "name:spa_x_preferred":[
         "Tanah Merah"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0430\u043d\u0430\u0445\u043c\u0435\u0440\u0430\u0445"
+    ],
+    "name:und_x_variant":[
+        "Tanamerah",
+        "Tanahmerah"
     ],
     "name:zho_x_preferred":[
         "\u9a6c\u6851\u5df4"
@@ -74,7 +99,13 @@
     "wof:concordances":{
         "gn:id":8393214,
         "gp:id":90874658,
-        "wd:id":"Q7682219"
+        "wd:id":"Q7682219",
+        "wk:page":"Tanahmerah"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            2082430
+        ]
     },
     "wof:country":"ID",
     "wof:geomhash":"f8dc8c6dab380dbd4b9d553c5f9db8d5",
@@ -95,13 +126,15 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614714562,
+    "wof:lastmodified":1706239770,
     "wof:name":"Tanah Merah",
     "wof:parent_id":1108796879,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1260124253
+    ],
     "wof:tags":[]
 },
   "bbox": [

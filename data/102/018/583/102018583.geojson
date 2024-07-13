@@ -9,7 +9,19 @@
     "geom:bbox":"109.760838,-7.442328,110.053615,-7.217205",
     "geom:latitude":-7.360696,
     "geom:longitude":109.918716,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Wonosobo",
+    "gn:country_code":"ID",
+    "gn:dem":589,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6567523,
+    "gn:latitude":-7.41917,
+    "gn:longitude":109.90806,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Wonosobo",
     "gn:population":92990,
+    "gn:timezone":"Asia/Jakarta",
     "iso:country":"ID",
     "lbl:latitude":-7.369115,
     "lbl:longitude":109.908763,
@@ -17,6 +29,7 @@
     "mps:longitude":109.908771,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:ace_x_preferred":[
         "Wonosobo"
     ],
@@ -28,6 +41,9 @@
     ],
     "name:ast_x_preferred":[
         "Wonosobo"
+    ],
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Wonosobo"
     ],
     "name:bar_x_preferred":[
         "Wonosobo"
@@ -61,7 +77,8 @@
     ],
     "name:eng_x_variant":[
         "Wanasaba",
-        "Wonosabo"
+        "Wonosabo",
+        "Wonosobo Regency"
     ],
     "name:epo_x_preferred":[
         "Wonosobo"
@@ -117,11 +134,17 @@
     "name:ind_x_preferred":[
         "Wonosobo"
     ],
+    "name:ind_x_variant":[
+        "Kabupaten Wonosobo"
+    ],
     "name:isl_x_preferred":[
         "Wonosobo"
     ],
     "name:jav_x_preferred":[
         "Kabupat\u00e8n Wanasaba"
+    ],
+    "name:jav_x_variant":[
+        "Wanasaba"
     ],
     "name:jpn_x_preferred":[
         "\u30a6\u30a9\u30ce\u30bd\u30dc\u770c"
@@ -146,6 +169,9 @@
     ],
     "name:msa_x_preferred":[
         "Wonosobo"
+    ],
+    "name:nan_x_preferred":[
+        "Wonosobo Ko\u0101n"
     ],
     "name:nap_x_preferred":[
         "Wonosobo"
@@ -207,6 +233,9 @@
     "name:sun_x_preferred":[
         "Kabupat\u00e9n Wonosobo"
     ],
+    "name:sun_x_variant":[
+        "Wonosobo"
+    ],
     "name:swa_x_preferred":[
         "Wonosobo"
     ],
@@ -233,6 +262,9 @@
     ],
     "name:wol_x_preferred":[
         "Wonosobo"
+    ],
+    "name:zho_x_preferred":[
+        "\u6c83\u8afe\u7d22\u535a\u7e23"
     ],
     "name:zul_x_preferred":[
         "Wonosobo"
@@ -274,6 +306,11 @@
         "wd:id":"Q11013",
         "wk:page":"Wonosobo Regency"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6567523
+        ]
+    },
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes_pg",
@@ -297,7 +334,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614712617,
+    "wof:lastmodified":1706239764,
     "wof:name":"Wonosobo",
     "wof:parent_id":102072587,
     "wof:placetype":"locality",
@@ -305,7 +342,9 @@
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1209606265
+    ],
     "wof:tags":[]
 },
   "bbox": [

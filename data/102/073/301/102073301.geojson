@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.275936,
-    "geom:area_square_m":3402976330.079145,
+    "geom:area_square_m":3402976330.078915,
     "geom:bbox":"96.227974,3.73494,96.801514,4.579278",
     "geom:latitude":4.16544,
     "geom:longitude":96.513583,
@@ -34,6 +34,9 @@
     "name:ace_x_preferred":[
         "Kabupaten Nagan Raya"
     ],
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Nagan Raya"
+    ],
     "name:bel_x_preferred":[
         "\u0410\u043a\u0440\u0443\u0433\u0430 \u041d\u0430\u0433\u0430\u043d\u0440\u0430\u044f"
     ],
@@ -47,9 +50,13 @@
         "Nagan Raya"
     ],
     "name:eng_x_variant":[
-        "NAGANRAYA"
+        "NAGANRAYA",
+        "Nagan Raya Regency"
     ],
     "name:fra_x_preferred":[
+        "Nagan Raya"
+    ],
+    "name:gle_x_preferred":[
         "Nagan Raya"
     ],
     "name:gor_x_preferred":[
@@ -57,6 +64,9 @@
     ],
     "name:ind_x_preferred":[
         "Nagan Raya"
+    ],
+    "name:ind_x_variant":[
+        "Kabupaten Nagan Raya"
     ],
     "name:ita_x_preferred":[
         "Nagan Raya"
@@ -73,6 +83,9 @@
     "name:msa_x_preferred":[
         "Nagan Raya"
     ],
+    "name:nan_x_preferred":[
+        "Nagan Raya Ko\u0101n"
+    ],
     "name:nld_x_preferred":[
         "Nagan Raya"
     ],
@@ -87,6 +100,9 @@
     ],
     "name:swe_x_preferred":[
         "Kabupaten Nagan Raya"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0430\u0433\u0430\u043d-\u0420\u0430\u044f"
     ],
     "name:vie_x_preferred":[
         "Nagan Raya"
@@ -129,11 +145,12 @@
         "hasc:id":"ID.AC.NR",
         "wd:id":"Q5746"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"82f7ebcaf99230c9cdd7f5c92815b85b",
+    "wof:geomhash":"08c8cd057ad1759ff4b92c630789ce4c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -150,7 +167,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614720125,
+    "wof:lastmodified":1695886526,
     "wof:name":"Nagan Raya",
     "wof:parent_id":85671973,
     "wof:placetype":"county",

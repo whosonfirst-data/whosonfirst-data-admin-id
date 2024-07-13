@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.064485,
-    "geom:area_square_m":790335959.937552,
+    "geom:area_square_m":790335959.937794,
     "geom:bbox":"110.804642,-7.783169,111.194489,-7.457488",
     "geom:latitude":-7.616183,
     "geom:longitude":111.025225,
@@ -43,6 +43,9 @@
     "name:ast_x_preferred":[
         "Karanganyar"
     ],
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Karanganyar"
+    ],
     "name:bar_x_preferred":[
         "Karanganyar"
     ],
@@ -74,7 +77,8 @@
         "Karanganyar"
     ],
     "name:eng_x_variant":[
-        "KARANGANYAR"
+        "KARANGANYAR",
+        "Karanganyar Regency"
     ],
     "name:epo_x_preferred":[
         "Karanganyar"
@@ -127,6 +131,9 @@
     "name:ind_x_preferred":[
         "Karanganyar"
     ],
+    "name:ind_x_variant":[
+        "Kabupaten Karanganyar"
+    ],
     "name:isl_x_preferred":[
         "Karanganyar"
     ],
@@ -135,6 +142,9 @@
     ],
     "name:jav_x_preferred":[
         "Kabupat\u00e8n Karanganyar"
+    ],
+    "name:jav_x_variant":[
+        "Karanganyar"
     ],
     "name:jpn_x_preferred":[
         "\u30ab\u30e9\u30f3\u30a2\u30cb\u30e3\u30eb\u770c"
@@ -159,6 +169,9 @@
     ],
     "name:msa_x_preferred":[
         "Karanganyar"
+    ],
+    "name:nan_x_preferred":[
+        "Karanganyar Ko\u0101n"
     ],
     "name:nap_x_preferred":[
         "Karanganyar"
@@ -220,6 +233,9 @@
     "name:sun_x_preferred":[
         "Kabupat\u00e9n Karanganyar"
     ],
+    "name:sun_x_variant":[
+        "Karanganyar"
+    ],
     "name:swa_x_preferred":[
         "Karanganyar"
     ],
@@ -246,6 +262,9 @@
     ],
     "name:zho_x_preferred":[
         "\u52a0\u6717\u4e9e\u71b1"
+    ],
+    "name:zho_x_variant":[
+        "\u5361\u6717\u963f\u5c3c\u4e9a"
     ],
     "name:zul_x_preferred":[
         "Karanganyar"
@@ -285,11 +304,12 @@
         "hasc:id":"ID.JT.KA",
         "wd:id":"Q10616"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"03df71f92e6dd114383a3fe53d1f60d8",
+    "wof:geomhash":"428209212c727d5bdb2ff9911b129048",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -306,7 +326,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614715881,
+    "wof:lastmodified":1695886500,
     "wof:name":"Karanganyar",
     "wof:parent_id":85671987,
     "wof:placetype":"county",

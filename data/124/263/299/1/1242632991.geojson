@@ -29,16 +29,24 @@
     "name:ind_x_preferred":[
         "Simalonggang"
     ],
+    "name:und_x_variant":[
+        "Simalanggang"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        102073511,
-        85672087
+        85672087,
+        102073511
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7104011
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1627081
+        ]
     },
     "wof:country":"ID",
     "wof:geomhash":"86678e6eb401306a83a93fd0e2d341b5",
@@ -59,13 +67,15 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614643462,
+    "wof:lastmodified":1706239776,
     "wof:name":"Simalonggang",
     "wof:parent_id":102073511,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310363201
+    ],
     "wof:tags":[]
 },
   "bbox": [

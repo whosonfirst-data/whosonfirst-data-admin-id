@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004094,
-    "geom:area_square_m":50599146.592507,
+    "geom:area_square_m":50599146.592505,
     "geom:bbox":"98.747818,1.68673,98.829483,1.785328",
     "geom:latitude":1.738544,
     "geom:longitude":98.795397,
@@ -40,6 +40,9 @@
     "name:ara_x_preferred":[
         "\u0633\u064a\u0628\u0648\u0644\u063a\u0627"
     ],
+    "name:ban_x_preferred":[
+        "Kota Sibolga"
+    ],
     "name:ben_x_preferred":[
         "\u09b8\u09bf\u09ac\u09cb\u09b2\u0997\u09be"
     ],
@@ -62,7 +65,11 @@
         "Sibolga"
     ],
     "name:eng_x_variant":[
-        "KOTA SIBOLGA"
+        "KOTA SIBOLGA",
+        "Sibolga City"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u06cc\u0628\u0648\u0644\u06af\u0627"
     ],
     "name:fin_x_preferred":[
         "Sibolga"
@@ -82,8 +89,14 @@
     "name:hun_x_preferred":[
         "Sibolga"
     ],
+    "name:hye_x_preferred":[
+        "\u054d\u056b\u0562\u0578\u056c\u0563\u0561"
+    ],
     "name:ind_x_preferred":[
         "Sibolga"
+    ],
+    "name:ind_x_variant":[
+        "Kota Sibolga"
     ],
     "name:ita_x_preferred":[
         "Sibolga"
@@ -97,6 +110,9 @@
     "name:kor_x_preferred":[
         "\uc2dc\ubcfc\uac00"
     ],
+    "name:lav_x_preferred":[
+        "Sibolga"
+    ],
     "name:lit_x_preferred":[
         "Sibolga"
     ],
@@ -108,6 +124,9 @@
     ],
     "name:msa_x_preferred":[
         "Sibolga"
+    ],
+    "name:nan_x_preferred":[
+        "Sibolga Chh\u012b"
     ],
     "name:nld_x_preferred":[
         "Sibolga"
@@ -135,6 +154,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0b9a\u0bbf\u0baa\u0bca\u0bb2\u0bcd\u0b95\u0bbe"
+    ],
+    "name:tat_x_preferred":[
+        "\u0421\u0438\u0431\u043e\u043b\u0433\u0430"
     ],
     "name:tur_x_preferred":[
         "Sibolga"
@@ -189,11 +211,12 @@
         "hasc:id":"ID.SU.SB",
         "wd:id":"Q5984"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4e00b05f84a36ee30a791b4195134f51",
+    "wof:geomhash":"de6a6174f7eccb01f6dd740932d6626c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -210,7 +233,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1636502310,
+    "wof:lastmodified":1695886062,
     "wof:name":"Sibolga",
     "wof:parent_id":85672073,
     "wof:placetype":"county",

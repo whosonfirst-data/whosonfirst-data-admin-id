@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.370068,
-    "geom:area_square_m":4561248688.348038,
+    "geom:area_square_m":4561248688.348269,
     "geom:bbox":"103.39756,-4.96182,104.371315,-4.227493",
     "geom:latitude":-4.592951,
     "geom:longitude":103.92274,
@@ -29,6 +29,9 @@
     "name:afr_x_preferred":[
         "Ogan Komering Ulu Selatan"
     ],
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Ogan Komering Ulu Selatan"
+    ],
     "name:ceb_x_preferred":[
         "Kabupaten Ogan Komering Ulu Selatan"
     ],
@@ -39,13 +42,20 @@
         "Ogan Komering Ulu Selatan"
     ],
     "name:eng_x_variant":[
-        "OGAN KOMERING ULU SELATAN"
+        "OGAN KOMERING ULU SELATAN",
+        "South Ogan Komering Ulu Regency"
     ],
     "name:fra_x_preferred":[
         "Ogan Komering Ulu Selatan"
     ],
+    "name:gle_x_preferred":[
+        "Ogan Komering Ulu Theas"
+    ],
     "name:ind_x_preferred":[
         "Ogan Komering Ulu Selatan"
+    ],
+    "name:ind_x_variant":[
+        "Kabupaten Ogan Komering Ulu Selatan"
     ],
     "name:ita_x_preferred":[
         "Ogan Komering Ulu meridionale"
@@ -53,14 +63,29 @@
     "name:jav_x_preferred":[
         "Kabupat\u00e8n Ogan Komering Ulu Kidul"
     ],
+    "name:jav_x_variant":[
+        "Ogan Komering Ulu Kidul"
+    ],
+    "name:min_x_preferred":[
+        "Kabupaten Ogan Komering Ulu Selatan"
+    ],
+    "name:nan_x_preferred":[
+        "L\u00e2m Ogan Komering Ulu Ko\u0101n"
+    ],
     "name:nld_x_preferred":[
         "Ogan Komering Ulu Selatan"
+    ],
+    "name:nld_x_variant":[
+        "Zuid-Ogan Komering Ulu"
     ],
     "name:rus_x_preferred":[
         "\u041e\u0433\u0430\u043d \u041a\u043e\u043c\u0435\u0440\u0438\u043d \u0423\u043b\u0443 \u0421\u0435\u043b\u0430\u0442\u0430\u043d"
     ],
     "name:spa_x_preferred":[
         "Ogan Komering Ulu del Sur"
+    ],
+    "name:sun_x_preferred":[
+        "Ogan Komering Ulu Kidul"
     ],
     "name:swe_x_preferred":[
         "Kabupaten Ogan Komering Ulu Selatan"
@@ -95,9 +120,10 @@
         "hasc:id":"ID.SL.OS",
         "wd:id":"Q8127"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:created":1482878638,
-    "wof:geomhash":"65c73291c48b322b862bb8ab904fef53",
+    "wof:geomhash":"d33581e79d27c9aa506f19dd099ac515",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -114,7 +140,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614723023,
+    "wof:lastmodified":1695886555,
     "wof:name":"Ogan Komering Ulu Selatan",
     "wof:parent_id":85672013,
     "wof:placetype":"county",

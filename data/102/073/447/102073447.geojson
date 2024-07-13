@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.296911,
-    "geom:area_square_m":3670856731.849214,
+    "geom:area_square_m":3670856731.848123,
     "geom:bbox":"120.137001,0.58767,121.189499,1.37758",
     "geom:latitude":0.928206,
     "geom:longitude":120.721778,
@@ -42,6 +42,9 @@
     ],
     "name:ast_x_preferred":[
         "Tolitoli"
+    ],
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Tolitoli"
     ],
     "name:bar_x_preferred":[
         "Tolitoli"
@@ -163,6 +166,9 @@
     ],
     "name:msa_x_preferred":[
         "Kabupaten Tolitoli"
+    ],
+    "name:nan_x_preferred":[
+        "Tolitoli Ko\u0101n"
     ],
     "name:nap_x_preferred":[
         "Tolitoli"
@@ -289,11 +295,12 @@
         "hasc:id":"ID.ST.TT",
         "wd:id":"Q15824"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1ccd81cdf611fb942f94e2fd0c0516f0",
+    "wof:geomhash":"048b9e21386923a5efed5cb6c7fcfcf4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -310,7 +317,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614721150,
+    "wof:lastmodified":1695886533,
     "wof:name":"Toli-Toli",
     "wof:parent_id":85672111,
     "wof:placetype":"county",

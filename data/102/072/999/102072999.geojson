@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.065789,
-    "geom:area_square_m":809657528.016316,
+    "geom:area_square_m":809657528.01635,
     "geom:bbox":"119.486115,-5.70582,119.938324,-5.386711",
     "geom:latitude":-5.568208,
     "geom:longitude":119.695401,
@@ -31,6 +31,9 @@
     "mps:longitude":119.729522,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Jeneponto"
+    ],
     "name:ceb_x_preferred":[
         "Kabupaten Jeneponto"
     ],
@@ -41,13 +44,20 @@
         "Jeneponto"
     ],
     "name:eng_x_variant":[
-        "JENEPONTO"
+        "JENEPONTO",
+        "Jeneponto Regency"
     ],
     "name:fra_x_preferred":[
         "Jeneponto"
     ],
+    "name:gle_x_preferred":[
+        "Jeneponto"
+    ],
     "name:ind_x_preferred":[
         "Jeneponto"
+    ],
+    "name:ind_x_variant":[
+        "Kabupaten Jeneponto"
     ],
     "name:ita_x_preferred":[
         "Reggenza di Jeneponto"
@@ -61,11 +71,17 @@
     "name:msa_x_preferred":[
         "Jeneponto"
     ],
+    "name:nan_x_preferred":[
+        "Jeneponto Ko\u0101n"
+    ],
     "name:spa_x_preferred":[
         "Jeneponto"
     ],
     "name:spa_x_variant":[
         "Kolaka"
+    ],
+    "name:sun_x_preferred":[
+        "Kabupat\u00e9n Jeneponto"
     ],
     "name:swe_x_preferred":[
         "Kabupaten Jeneponto"
@@ -108,11 +124,12 @@
         "hasc:id":"ID.SE.JE",
         "wd:id":"Q14602"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"2641936ba15bf4da00737152c72dc659",
+    "wof:geomhash":"6d6052958f5eacb0db540e21cca05dc1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -129,7 +146,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614717842,
+    "wof:lastmodified":1695886512,
     "wof:name":"Jeneponto",
     "wof:parent_id":85672041,
     "wof:placetype":"county",

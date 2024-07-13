@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024546,
-    "geom:area_square_m":301076889.712356,
+    "geom:area_square_m":301076889.712209,
     "geom:bbox":"112.591545,-7.351404,112.825111,-7.192427",
     "geom:latitude":-7.274102,
     "geom:longitude":112.715472,
@@ -40,6 +40,9 @@
     "name:ara_x_preferred":[
         "\u0633\u0648\u0631\u0627\u0628\u0627\u064a\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0633\u0648\u0631\u0627\u0628\u0627\u064a\u0627"
+    ],
     "name:ast_x_preferred":[
         "Surabaya"
     ],
@@ -51,6 +54,9 @@
     ],
     "name:bak_x_preferred":[
         "\u0421\u0443\u0440\u0430\u0431\u0430\u044f"
+    ],
+    "name:ban_x_preferred":[
+        "Kota Surabaya"
     ],
     "name:bar_x_preferred":[
         "Surabaya"
@@ -101,7 +107,8 @@
         "Surabaya"
     ],
     "name:eng_x_variant":[
-        "KOTA SURABAYA"
+        "KOTA SURABAYA",
+        "Surabaya City"
     ],
     "name:epo_x_preferred":[
         "Surabajo"
@@ -119,6 +126,9 @@
         "Surabaya"
     ],
     "name:fra_x_preferred":[
+        "Surabaya"
+    ],
+    "name:frr_x_preferred":[
         "Surabaya"
     ],
     "name:gle_x_preferred":[
@@ -139,6 +149,9 @@
     "name:heb_x_preferred":[
         "\u05e1\u05d5\u05e8\u05d1\u05d9\u05d4"
     ],
+    "name:heb_x_variant":[
+        "\u05e1\u05d5\u05e8\u05d1\u05d0\u05d9\u05d4"
+    ],
     "name:hin_x_preferred":[
         "\u0938\u0941\u0930\u093e\u092c\u092f\u093e"
     ],
@@ -157,8 +170,14 @@
     "name:ido_x_preferred":[
         "Surabaya"
     ],
+    "name:ile_x_preferred":[
+        "Surabaya"
+    ],
     "name:ind_x_preferred":[
         "Surabaya"
+    ],
+    "name:ind_x_variant":[
+        "Kota Surabaya"
     ],
     "name:ita_x_preferred":[
         "Surabaya"
@@ -190,11 +209,17 @@
     "name:lit_x_preferred":[
         "Surabaja"
     ],
+    "name:mad_x_preferred":[
+        "Ko\u1e6d\u1e6da Sorbh\u00e2j\u00e2"
+    ],
     "name:mal_x_preferred":[
         "\u0d38\u0d41\u0d30\u0d2c\u0d3e\u0d2f"
     ],
     "name:mar_x_preferred":[
         "\u0938\u0941\u0930\u092c\u092f\u093e"
+    ],
+    "name:min_x_preferred":[
+        "Kota Surabaya"
     ],
     "name:mlg_x_preferred":[
         "Kota Surabaya"
@@ -204,6 +229,12 @@
     ],
     "name:msa_x_preferred":[
         "Kota Surabaya"
+    ],
+    "name:mya_x_preferred":[
+        "\u1006\u1030\u101b\u102c\u1018\u102c\u101a\u102c\u1038\u1019\u103c\u102d\u102f\u1037"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0633\u0648\u0631\u0627\u0628\u0627\u064a\u0627"
     ],
     "name:nan_x_preferred":[
         "Surabaya"
@@ -225,6 +256,9 @@
     ],
     "name:oci_x_preferred":[
         "Surabaya"
+    ],
+    "name:oss_x_preferred":[
+        "\u0421\u0443\u0440\u0430\u0431\u0430\u044f"
     ],
     "name:pnb_x_preferred":[
         "\u0633\u0648\u0631\u0627\u0628\u0627\u06cc\u0627"
@@ -271,8 +305,14 @@
     "name:swe_x_preferred":[
         "Surabaya"
     ],
+    "name:szl_x_preferred":[
+        "Surabaja"
+    ],
     "name:tam_x_preferred":[
         "\u0b9a\u0bc1\u0bb0\u0bbe\u0baa\u0bbe\u0baf\u0bbe"
+    ],
+    "name:tat_x_preferred":[
+        "\u0421\u0443\u0440\u0430\u0431\u0430\u044f"
     ],
     "name:tel_x_preferred":[
         "\u0c38\u0c41\u0c30\u0c2c\u0c3e\u0c2f"
@@ -293,6 +333,9 @@
         "\u0633\u0648\u0631\u0627\u0628\u0627\u06cc\u0627"
     ],
     "name:uzb_x_preferred":[
+        "Surabaya"
+    ],
+    "name:vec_x_preferred":[
         "Surabaya"
     ],
     "name:vep_x_preferred":[
@@ -348,11 +391,12 @@
         "hasc:id":"ID.JI.SR",
         "wd:id":"Q11462"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1487791ad56d75cd1df2b0ccce58cb75",
+    "wof:geomhash":"a786239af069a37f60a4509eee0d9ba6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -369,7 +413,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614720805,
+    "wof:lastmodified":1695886530,
     "wof:name":"Surabaya",
     "wof:parent_id":85672027,
     "wof:placetype":"county",

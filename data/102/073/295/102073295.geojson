@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.175115,
-    "geom:area_square_m":2151456549.096397,
+    "geom:area_square_m":2151456549.096358,
     "geom:bbox":"107.526039,-6.81427,107.925423,-6.18136",
     "geom:latitude":-6.487524,
     "geom:longitude":107.731671,
@@ -31,6 +31,12 @@
     "mps:longitude":107.727852,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0633\u0648\u0628\u0627\u0646\u063a"
+    ],
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Subang"
+    ],
     "name:ceb_x_preferred":[
         "Kabupaten Subang"
     ],
@@ -41,7 +47,8 @@
         "Subang"
     ],
     "name:eng_x_variant":[
-        "SUBANG"
+        "SUBANG",
+        "Subang Regency"
     ],
     "name:fra_x_preferred":[
         "Subang"
@@ -49,8 +56,14 @@
     "name:fra_x_variant":[
         "kabupaten de Subang"
     ],
+    "name:gle_x_preferred":[
+        "Subang"
+    ],
     "name:ind_x_preferred":[
         "Subang"
+    ],
+    "name:ind_x_variant":[
+        "Kabupaten Subang"
     ],
     "name:ita_x_preferred":[
         "Reggenza di Subang"
@@ -64,6 +77,15 @@
     "name:jpn_x_preferred":[
         "\u30b9\u30d0\u30f3\u770c"
     ],
+    "name:min_x_preferred":[
+        "Kabupaten Subang"
+    ],
+    "name:msa_x_preferred":[
+        "Subang"
+    ],
+    "name:nan_x_preferred":[
+        "Subang Ko\u0101n"
+    ],
     "name:nld_x_preferred":[
         "Subang"
     ],
@@ -76,8 +98,14 @@
     "name:sun_x_preferred":[
         "Kabupat\u00e9n Subang"
     ],
+    "name:sun_x_variant":[
+        "Subang"
+    ],
     "name:swe_x_preferred":[
         "Kabupaten Subang"
+    ],
+    "name:tet_x_preferred":[
+        "Subang"
     ],
     "name:zho_x_preferred":[
         "\u68b3\u90a6\u7e23"
@@ -118,11 +146,12 @@
         "hasc:id":"ID.JR.SB",
         "wd:id":"Q10380"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"505aa846a21410a96e4804b5db6a93b0",
+    "wof:geomhash":"77de1315a8dc683dd109427d8bcb24b6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -139,7 +168,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614720071,
+    "wof:lastmodified":1695886525,
     "wof:name":"Subang",
     "wof:parent_id":85671983,
     "wof:placetype":"county",

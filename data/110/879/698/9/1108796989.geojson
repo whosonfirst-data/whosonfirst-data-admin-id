@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.280396,
-    "geom:area_square_m":3466471716.146731,
+    "geom:area_square_m":3466471716.147441,
     "geom:bbox":"99.466164,0.763816,100.193291,1.533701",
     "geom:latitude":1.127165,
     "geom:longitude":99.852908,
@@ -29,6 +29,9 @@
     "name:ace_x_preferred":[
         "Kabupaten Padang Lawas"
     ],
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Padang Lawas"
+    ],
     "name:ceb_x_preferred":[
         "Kabupaten Padang Lawas"
     ],
@@ -39,13 +42,20 @@
         "Padang Lawas"
     ],
     "name:eng_x_variant":[
-        "PADANG LAWAS"
+        "PADANG LAWAS",
+        "Padang Lawas Regency"
     ],
     "name:fra_x_preferred":[
         "kabupaten de Padang Lawas"
     ],
+    "name:gle_x_preferred":[
+        "Padang Lawas"
+    ],
     "name:ind_x_preferred":[
         "Padang Lawas"
+    ],
+    "name:ind_x_variant":[
+        "Kabupaten Padang Lawas"
     ],
     "name:ita_x_preferred":[
         "Padang Lawas"
@@ -53,8 +63,14 @@
     "name:jav_x_preferred":[
         "Kabupat\u00e8n Padang Lawas"
     ],
+    "name:min_x_preferred":[
+        "Kabupaten Padang Lawas"
+    ],
     "name:msa_x_preferred":[
         "Kabupaten Padang Lawas"
+    ],
+    "name:nan_x_preferred":[
+        "Padang Lawas Ko\u0101n"
     ],
     "name:rus_x_preferred":[
         "\u041f\u0430\u0434\u0430\u043d\u0433\u043b\u0430\u0432\u0430\u0441"
@@ -70,6 +86,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5df4\u6771\u8001\u8d8a\u651d\u653f"
+    ],
+    "name:zho_x_variant":[
+        "\u5df4\u4e1c\u62c9\u74e6\u65af\u53bf"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -95,9 +114,10 @@
         "hasc:id":"ID.SU.PL",
         "wd:id":"Q5866"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:created":1482878649,
-    "wof:geomhash":"6ce1b1195c2b9f1465fb0c9c889e1659",
+    "wof:geomhash":"56322dbfd89f607f5d53956725e5cdad",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -114,7 +134,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614723050,
+    "wof:lastmodified":1695886556,
     "wof:name":"Padang Lawas",
     "wof:parent_id":85672073,
     "wof:placetype":"county",

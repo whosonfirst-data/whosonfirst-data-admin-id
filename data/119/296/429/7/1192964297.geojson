@@ -40,12 +40,17 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        102073529,
-        85671983
+        85671983,
+        102073529
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1637855
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7888099
+        ]
     },
     "wof:country":"ID",
     "wof:geomhash":"5e208d6875289d771d7ca87d6579b047",
@@ -66,13 +71,15 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614639601,
+    "wof:lastmodified":1706239772,
     "wof:name":"Kampungtengah",
     "wof:parent_id":102073529,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1260025819
+    ],
     "wof:tags":[]
 },
   "bbox": [

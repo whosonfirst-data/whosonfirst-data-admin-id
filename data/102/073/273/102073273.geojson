@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.229086,
-    "geom:area_square_m":2820222629.483972,
+    "geom:area_square_m":2820222629.484536,
     "geom:bbox":"95.009331,5.05963,95.840813,5.74849",
     "geom:latitude":5.376409,
     "geom:longitude":95.513707,
@@ -34,6 +34,12 @@
     "name:ace_x_preferred":[
         "Kabupaten Ac\u00e8h Rayek"
     ],
+    "name:ara_x_preferred":[
+        "\u0645\u0646\u0637\u0642\u0629 \u0648\u0635\u0627\u064a\u0629 \u0622\u062a\u0634\u064a\u0647 \u0628\u064a\u0633\u0627\u0631"
+    ],
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Ac\u00e9h Besar"
+    ],
     "name:bel_x_preferred":[
         "\u0410\u043a\u0440\u0443\u0433\u0430 \u0412\u044f\u043b\u0456\u043a\u0456 \u0410\u0447\u044d\u0445"
     ],
@@ -47,7 +53,8 @@
         "Aceh Besar"
     ],
     "name:eng_x_variant":[
-        "ACEH BESAR"
+        "ACEH BESAR",
+        "Aceh Besar Regency"
     ],
     "name:fas_x_preferred":[
         "\u0622\u0686\u0647 \u0628\u0633\u0627\u0631 \u0631\u06af\u0646\u0633\u06cc"
@@ -55,11 +62,17 @@
     "name:fra_x_preferred":[
         "Aceh Besar"
     ],
+    "name:gle_x_preferred":[
+        "Aceh Besar"
+    ],
     "name:gor_x_preferred":[
         "Aceh Besar"
     ],
     "name:ind_x_preferred":[
         "Aceh Besar"
+    ],
+    "name:ind_x_variant":[
+        "Kabupaten Aceh Besar"
     ],
     "name:ita_x_preferred":[
         "Aceh Besar"
@@ -70,11 +83,17 @@
     "name:jpn_x_preferred":[
         "\u5927\u30a2\u30c1\u30a7\u770c"
     ],
+    "name:mal_x_preferred":[
+        "\u0d05\u0d15\u0d4d\u0d15\u0d46 \u0d2c\u0d38\u0d3e\u0d7c \u0d31\u0d40\u0d1c\u0d7b\u0d38\u0d3f"
+    ],
     "name:min_x_preferred":[
         "Kabupaten Aceh Besar"
     ],
     "name:msa_x_preferred":[
         "Aceh Besar"
+    ],
+    "name:nan_x_preferred":[
+        "Aceh Besar Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Aceh Besar"
@@ -91,8 +110,14 @@
     "name:swe_x_preferred":[
         "Kabupaten Aceh Besar"
     ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0447\u0435\u0445-\u0411\u0435\u0441\u0430\u0440"
+    ],
     "name:vie_x_preferred":[
         "Aceh Besar"
+    ],
+    "name:zho_x_preferred":[
+        "\u5927\u4e9a\u9f50\u53bf"
     ],
     "qs:a0":"Indonesia",
     "qs:a0_lc":"IDN",
@@ -129,11 +154,12 @@
         "hasc:id":"ID.AC.AR",
         "wd:id":"Q5662"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1d1233763f4496ae92e6039afaa7813e",
+    "wof:geomhash":"52c10d391eded999622d164b45e9673a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -150,7 +176,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614719971,
+    "wof:lastmodified":1695886524,
     "wof:name":"Aceh Besar",
     "wof:parent_id":85671973,
     "wof:placetype":"county",

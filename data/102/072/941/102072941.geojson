@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024754,
-    "geom:area_square_m":305578972.43984,
+    "geom:area_square_m":305578972.439892,
     "geom:bbox":"99.062759,3.220097,99.286613,3.423084",
     "geom:latitude":3.313857,
     "geom:longitude":99.168035,
     "iso:country":"ID",
+    "label:eng_x_preferred_longname":[
+        "Kota Tebingtinggi Regency"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "regency"
+    ],
     "lbl:latitude":3.313507,
     "lbl:longitude":99.16634,
     "meso:admin_1":"SUMATERA UTARA",
@@ -56,11 +62,12 @@
     "wof:concordances":{
         "hasc:id":"ID.SU.SD"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"fe533fb7495874109fa5147b6d6d6d0c",
+    "wof:geomhash":"b226fa4eff219be91fca04836e6e3cf4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +84,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1627522197,
+    "wof:lastmodified":1695886676,
     "wof:name":"Kota Tebingtinggi",
     "wof:parent_id":85672073,
     "wof:placetype":"county",

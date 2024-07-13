@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.433216,
-    "geom:area_square_m":30072410549.150856,
+    "geom:area_square_m":30072410549.151314,
     "geom:bbox":"109.807686,-3.07482,111.356354,-0.323927",
     "geom:latitude":-1.643754,
     "geom:longitude":110.612005,
@@ -31,6 +31,12 @@
     "mps:longitude":110.474073,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Ketapang"
+    ],
+    "name:bjn_x_preferred":[
+        "Kabupatin Ketapang"
+    ],
     "name:ceb_x_preferred":[
         "Kabupaten Ketapang"
     ],
@@ -41,7 +47,8 @@
         "Ketapang"
     ],
     "name:eng_x_variant":[
-        "KETAPANG"
+        "KETAPANG",
+        "Ketapang Regency"
     ],
     "name:epo_x_preferred":[
         "Kabupaten Ketapang"
@@ -49,8 +56,14 @@
     "name:fra_x_preferred":[
         "Ketapang"
     ],
+    "name:gle_x_preferred":[
+        "Ketapang"
+    ],
     "name:ind_x_preferred":[
         "Ketapang"
+    ],
+    "name:ind_x_variant":[
+        "Kabupaten Ketapang"
     ],
     "name:ita_x_preferred":[
         "Reggenza di Ketapang"
@@ -64,8 +77,14 @@
     "name:lit_x_preferred":[
         "Ketapango regencija"
     ],
+    "name:min_x_preferred":[
+        "Kabupaten Ketapang"
+    ],
     "name:msa_x_preferred":[
         "Kabupaten Ketapang"
+    ],
+    "name:nan_x_preferred":[
+        "Ketapang Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Ketapang Regency"
@@ -117,11 +136,12 @@
         "hasc:id":"ID.KB.KP",
         "wd:id":"Q14159"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5667dc88e689eeb2f10bd9db4a20b7a9",
+    "wof:geomhash":"709835e96d0555a45b107871de365932",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -138,7 +158,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614716602,
+    "wof:lastmodified":1695886505,
     "wof:name":"Ketapang",
     "wof:parent_id":85672005,
     "wof:placetype":"county",

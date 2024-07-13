@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"95.31644,5.88969,95.31644,5.88969",
@@ -17,7 +19,7 @@
     "lbl:latitude":5.88969,
     "lbl:longitude":95.31644,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":13.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ace_x_preferred":[
@@ -29,8 +31,14 @@
     "name:ara_x_preferred":[
         "\u0633\u0627\u0628\u0627\u0646\u063a"
     ],
+    "name:ban_x_preferred":[
+        "Kota Sabang"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0421\u0430\u0431\u0430\u043d\u0433"
+    ],
+    "name:bel_x_variant":[
+        "\u0421\u0430\u0431\u0430\u043d\u0433"
     ],
     "name:ben_x_preferred":[
         "\u09b8\u09be\u09ac\u09be\u0982"
@@ -53,8 +61,14 @@
     "name:eng_x_preferred":[
         "Sabang"
     ],
+    "name:eng_x_variant":[
+        "Sabang City"
+    ],
     "name:epo_x_preferred":[
         "Sabang"
+    ],
+    "name:fas_x_preferred":[
+        "\u0635\u0628\u0627\u0646\u06af"
     ],
     "name:fin_x_preferred":[
         "Sabang"
@@ -106,6 +120,9 @@
     ],
     "name:msa_x_preferred":[
         "Sabang"
+    ],
+    "name:nan_x_preferred":[
+        "Sabang Chh\u012b"
     ],
     "name:nld_x_preferred":[
         "Sabang"
@@ -187,8 +204,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        102072873,
-        85671973
+        85671973,
+        102072873
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -216,14 +233,16 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614653776,
+    "wof:lastmodified":1706239764,
     "wof:name":"Sabang",
     "wof:parent_id":102072873,
     "wof:placetype":"locality",
     "wof:population":24519,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-id",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        102018363
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

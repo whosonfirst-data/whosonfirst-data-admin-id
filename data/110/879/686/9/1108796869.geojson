@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.385988,
-    "geom:area_square_m":4766673973.435963,
+    "geom:area_square_m":4766673973.435303,
     "geom:bbox":"134.065746,-3.633609,134.777961,-1.96935",
     "geom:latitude":-2.87856,
     "geom:longitude":134.462931,
@@ -38,6 +38,9 @@
     "name:ast_x_preferred":[
         "Teluk Wondama"
     ],
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Teluk Wondama"
+    ],
     "name:bar_x_preferred":[
         "Teluk Wondama"
     ],
@@ -69,7 +72,8 @@
         "Teluk Wondama"
     ],
     "name:eng_x_variant":[
-        "TELUK WONDAMA"
+        "TELUK WONDAMA",
+        "Teluk Wondama Regency"
     ],
     "name:epo_x_preferred":[
         "Teluk Wondama"
@@ -122,6 +126,9 @@
     "name:ind_x_preferred":[
         "Teluk Wondama"
     ],
+    "name:ind_x_variant":[
+        "Kabupaten Teluk Wondama"
+    ],
     "name:isl_x_preferred":[
         "Teluk Wondama"
     ],
@@ -154,6 +161,9 @@
     ],
     "name:msa_x_preferred":[
         "Kabupaten Teluk Wondama"
+    ],
+    "name:nan_x_preferred":[
+        "Teluk Wondama Ko\u0101n"
     ],
     "name:nap_x_preferred":[
         "Teluk Wondama"
@@ -275,9 +285,10 @@
         "hasc:id":"ID.IB.TW",
         "wd:id":"Q26827"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:created":1482878563,
-    "wof:geomhash":"3954605d12a919797b19350d84efa83f",
+    "wof:geomhash":"888e5a4ccbc74fce424f06fd171a1350",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -294,7 +305,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614722772,
+    "wof:lastmodified":1695886548,
     "wof:name":"Teluk Wondama",
     "wof:parent_id":85672067,
     "wof:placetype":"county",

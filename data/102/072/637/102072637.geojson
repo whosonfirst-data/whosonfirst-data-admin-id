@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019794,
-    "geom:area_square_m":244339812.229851,
+    "geom:area_square_m":244339812.229807,
     "geom:bbox":"117.515808,3.2401,117.671227,3.44349",
     "geom:latitude":3.360492,
     "geom:longitude":117.599127,
     "iso:country":"ID",
+    "label:eng_x_preferred_longname":[
+        "Kota Tarakan Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":3.371233,
     "lbl:longitude":117.597646,
     "meso:admin_1":"KALIMANTAN UTARA",
@@ -56,11 +62,12 @@
     "wof:concordances":{
         "hasc:id":"ID.KI.TA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"640519516caa1902e6a35f382bddebc2",
+    "wof:geomhash":"752f475f611f17badd937b1e063a8e26",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +84,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1627522197,
+    "wof:lastmodified":1695886676,
     "wof:name":"Kota Tarakan",
     "wof:parent_id":1108805993,
     "wof:placetype":"county",

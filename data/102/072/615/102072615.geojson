@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.319813,
-    "geom:area_square_m":3938626432.43528,
+    "geom:area_square_m":3938626432.434735,
     "geom:bbox":"105.26226,-5.618637,105.912827,-4.619135",
     "geom:latitude":-5.139992,
     "geom:longitude":105.646151,
@@ -31,6 +31,9 @@
     "mps:longitude":105.623899,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Lampung Timur"
+    ],
     "name:ceb_x_preferred":[
         "Kabupaten Lampung Timur"
     ],
@@ -41,13 +44,20 @@
         "Lampung Timur"
     ],
     "name:eng_x_variant":[
-        "LAMPUNG TIMUR"
+        "LAMPUNG TIMUR",
+        "East Lampung Regency"
     ],
     "name:fra_x_preferred":[
         "Lampung Timur"
     ],
+    "name:gle_x_preferred":[
+        "Lampung Thoir"
+    ],
     "name:ind_x_preferred":[
         "Lampung Timur"
+    ],
+    "name:ind_x_variant":[
+        "Kabupaten Lampung Timur"
     ],
     "name:ita_x_preferred":[
         "Lampung orientale"
@@ -55,11 +65,23 @@
     "name:jav_x_preferred":[
         "Kabupat\u00e8n Lampung W\u00e9tan"
     ],
+    "name:jav_x_variant":[
+        "Lampung W\u00e9tan"
+    ],
     "name:jpn_x_preferred":[
         "\u6771\u30e9\u30f3\u30d7\u30f3\u770c"
     ],
+    "name:min_x_preferred":[
+        "Kabupaten Lampung Timur"
+    ],
     "name:msa_x_preferred":[
         "Kabupaten Lampung Timur"
+    ],
+    "name:nan_x_preferred":[
+        "Tang Lampung Ko\u0101n"
+    ],
+    "name:nld_x_preferred":[
+        "Oost-Lampung"
     ],
     "name:spa_x_preferred":[
         "Lampung Oriental"
@@ -67,8 +89,14 @@
     "name:spa_x_variant":[
         "Bengkulu Selatan"
     ],
+    "name:sun_x_preferred":[
+        "Lampung W\u00e9tan"
+    ],
     "name:swe_x_preferred":[
         "Kabupaten Lampung Timur"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e1c\u6960\u699c\u53bf"
     ],
     "qs:a0":"Indonesia",
     "qs:a0_lc":"IDN",
@@ -105,11 +133,12 @@
         "hasc:id":"ID.LA.LI",
         "wd:id":"Q8136"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6c76e695164e39a6e6ba8e941a678f52",
+    "wof:geomhash":"f9ce87352e0dff59d40755d0896c2bca",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -126,7 +155,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614714934,
+    "wof:lastmodified":1695886496,
     "wof:name":"Lampung Timur",
     "wof:parent_id":85672009,
     "wof:placetype":"county",

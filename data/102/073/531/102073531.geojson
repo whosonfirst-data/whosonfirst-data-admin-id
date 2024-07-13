@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007395,
-    "geom:area_square_m":91216537.36043,
+    "geom:area_square_m":91216537.360403,
     "geom:bbox":"119.614487,-4.079637,119.714775,-3.960542",
     "geom:latitude":-4.029346,
     "geom:longitude":119.659885,
@@ -33,6 +33,12 @@
     "mz:is_current":1,
     "name:ara_x_preferred":[
         "\u0628\u0627\u0631\u064a \u0628\u0627\u0631\u064a"
+    ],
+    "name:aze_x_preferred":[
+        "Pare-Pare"
+    ],
+    "name:ban_x_preferred":[
+        "Kota Parepare"
     ],
     "name:bel_x_preferred":[
         "\u041f\u0430\u0440\u044d-\u041f\u0430\u0440\u044d"
@@ -66,6 +72,10 @@
     ],
     "name:eng_x_variant":[
         "KOTA PARE-PARE",
+        "Parepare",
+        "Parepare City"
+    ],
+    "name:epo_x_preferred":[
         "Parepare"
     ],
     "name:fas_x_preferred":[
@@ -77,6 +87,9 @@
     "name:fra_x_preferred":[
         "Pare-Pare"
     ],
+    "name:gle_x_preferred":[
+        "Pare Pare"
+    ],
     "name:guj_x_preferred":[
         "\u0aaa\u0abe\u0ab0\u0ac7-\u0aaa\u0abe\u0ab0\u0ac7"
     ],
@@ -86,11 +99,17 @@
     "name:ind_x_preferred":[
         "Pare Pare"
     ],
+    "name:ind_x_variant":[
+        "Kota Parepare"
+    ],
     "name:ita_x_preferred":[
         "Pare-Pare"
     ],
     "name:jav_x_preferred":[
         "Kutha Par\u00e9-Par\u00e9"
+    ],
+    "name:jav_x_variant":[
+        "Kutha Par\u00e9par\u00e9"
     ],
     "name:jpn_x_preferred":[
         "\u30d1\u30ec\u30d1\u30ec"
@@ -116,6 +135,9 @@
     "name:msa_x_preferred":[
         "Bandar Parepare"
     ],
+    "name:nan_x_preferred":[
+        "Parepare Chh\u012b"
+    ],
     "name:nld_x_preferred":[
         "Pare-Pare"
     ],
@@ -131,6 +153,9 @@
     "name:por_x_preferred":[
         "Pare Pare"
     ],
+    "name:por_x_variant":[
+        "Parepare"
+    ],
     "name:ron_x_preferred":[
         "Pare-Pare"
     ],
@@ -143,11 +168,20 @@
     "name:spa_x_preferred":[
         "Pare-Pare"
     ],
+    "name:sun_x_preferred":[
+        "Kota Parepare"
+    ],
     "name:swe_x_preferred":[
         "Pare-pare"
     ],
+    "name:szl_x_preferred":[
+        "Pare-Pare"
+    ],
     "name:tam_x_preferred":[
         "\u0baa\u0bbe\u0bb0\u0bc7-\u0baa\u0bbe\u0bb0\u0bc7"
+    ],
+    "name:tat_x_preferred":[
+        "\u041f\u0430\u0440\u0435\u043f\u0430\u0440\u0435"
     ],
     "name:tel_x_preferred":[
         "\u0c2a\u0c3e\u0c30\u0c47-\u0c2a\u0c3e\u0c30\u0c47"
@@ -163,6 +197,9 @@
     ],
     "name:urd_x_preferred":[
         "\u067e\u0627\u0631\u06cc \u067e\u0627\u0631\u06cc"
+    ],
+    "name:vec_x_preferred":[
+        "Pare-Pare"
     ],
     "name:vie_x_preferred":[
         "Pare-Pare"
@@ -205,11 +242,12 @@
         "hasc:id":"ID.SE.PP",
         "wd:id":"Q14636"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"fd47e943d88147cd3d12927fe61ff89b",
+    "wof:geomhash":"c55c4665716ec207db914d2517a794df",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -226,7 +264,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614722075,
+    "wof:lastmodified":1695886538,
     "wof:name":"Pare-Pare",
     "wof:parent_id":85672041,
     "wof:placetype":"county",

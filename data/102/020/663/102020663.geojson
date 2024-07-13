@@ -25,6 +25,9 @@
     "name:ben_x_preferred":[
         "\u09b8\u09bf\u09b2\u09be\u0995\u09cd\u09af\u09be\u09aa"
     ],
+    "name:ceb_x_preferred":[
+        "Kelurahan Cilacap"
+    ],
     "name:deu_x_preferred":[
         "Cilacap"
     ],
@@ -42,6 +45,9 @@
         "\u0633\u06cc\u0644\u0627\u06a9\u0627\u067e"
     ],
     "name:fra_x_preferred":[
+        "Cilacap"
+    ],
+    "name:gor_x_preferred":[
         "Cilacap"
     ],
     "name:heb_x_preferred":[
@@ -92,8 +98,14 @@
     "name:swe_x_preferred":[
         "Cilacap"
     ],
+    "name:swe_x_variant":[
+        "Kelurahan Cilacap"
+    ],
     "name:tur_x_preferred":[
         "Cilacap"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0438\u043b\u0430\u0447\u0430\u043f"
     ],
     "name:unk_x_variant":[
         "Chilachap"
@@ -202,6 +214,7 @@
     "ne:UN_LAT":0.0,
     "ne:UN_LONG":0.0,
     "ne:WORLDCITY":0,
+    "ne:min_zoom":6.7,
     "qs:a0":"Indonesia",
     "qs:a1":"*Provinsi Jawa Tengah",
     "qs:a1r":"*",
@@ -215,6 +228,8 @@
     "qs:pop":0,
     "qs:source":"Nquattroshapes",
     "qs:type":"Town",
+    "reversegeo:latitude":-7.71882,
+    "reversegeo:longitude":109.015402,
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
@@ -238,6 +253,11 @@
         "qs_pg:id":218088,
         "wd:id":"Q12478970",
         "wk:page":"Cilacap Regency"
+    },
+    "wof:concordances_alt":{
+        "wd:id":[
+            "Q12478970"
+        ]
     },
     "wof:country":"ID",
     "wof:geom_alt":[
@@ -263,13 +283,15 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1636502301,
+    "wof:lastmodified":1706239768,
     "wof:name":"Cilacap",
     "wof:parent_id":102072819,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1141907563
+    ],
     "wof:tags":[]
 },
   "bbox": [

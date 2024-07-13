@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.142215,
-    "geom:area_square_m":38814910637.59166,
+    "geom:area_square_m":38814910637.599136,
     "geom:bbox":"114.589005,1.086821,116.808167,4.102255",
     "geom:latitude":2.465839,
     "geom:longitude":115.718651,
     "iso:country":"ID",
+    "label:eng_x_preferred_longname":[
+        "Maunau Regency"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "regency"
+    ],
     "lbl:latitude":2.002752,
     "lbl:longitude":115.55032,
     "meso:admin_1":"KALIMANTAN UTARA",
@@ -56,11 +62,12 @@
     "wof:concordances":{
         "hasc:id":"ID.KI.MA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"16e1784dc93ff72eb1522f10a97a0ee1",
+    "wof:geomhash":"b882b694695644e9af475eea4bf27f3e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +84,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1627522195,
+    "wof:lastmodified":1695886674,
     "wof:name":"Maunau",
     "wof:parent_id":1108805993,
     "wof:placetype":"county",

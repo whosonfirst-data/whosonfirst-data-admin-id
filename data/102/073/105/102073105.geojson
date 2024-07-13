@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.151535,
-    "geom:area_square_m":1870596287.563287,
+    "geom:area_square_m":1870596287.563383,
     "geom:bbox":"118.899933,-3.535693,119.492386,-3.085251",
     "geom:latitude":-3.327379,
     "geom:longitude":119.137195,
@@ -43,6 +43,9 @@
     "name:ast_x_preferred":[
         "Polewali Mandar"
     ],
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Polewali Mandar"
+    ],
     "name:bar_x_preferred":[
         "Polewali Mandar"
     ],
@@ -74,7 +77,8 @@
         "Polewali Mandar"
     ],
     "name:eng_x_variant":[
-        "POLEWALIMAMASA"
+        "POLEWALIMAMASA",
+        "Polewali Mandar Regency"
     ],
     "name:epo_x_preferred":[
         "Polewali Mandar"
@@ -127,6 +131,9 @@
     "name:ind_x_preferred":[
         "Polewali Mandar"
     ],
+    "name:ind_x_variant":[
+        "Kabupaten Polewali Mandar"
+    ],
     "name:isl_x_preferred":[
         "Polewali Mandar"
     ],
@@ -159,6 +166,9 @@
     ],
     "name:msa_x_preferred":[
         "Kabupaten Polewali Mandar"
+    ],
+    "name:nan_x_preferred":[
+        "Polewali Mandar Ko\u0101n"
     ],
     "name:nap_x_preferred":[
         "Polewali Mandar"
@@ -198,6 +208,9 @@
     ],
     "name:ron_x_preferred":[
         "Polewali Mandar"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u043b\u0435\u0432\u0430\u043b\u0438 \u041c\u0430\u043d\u0434\u0430\u0440"
     ],
     "name:scn_x_preferred":[
         "Polewali Mandar"
@@ -285,11 +298,12 @@
         "hasc:id":"ID.SR.PM",
         "wd:id":"Q15353"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"92b69af2813fe8b59519b8bfdafad67d",
+    "wof:geomhash":"85525e20f3ee8d2f12ba5117e556bb95",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -306,7 +320,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614718507,
+    "wof:lastmodified":1695886518,
     "wof:name":"Polewali Mandar",
     "wof:parent_id":85672045,
     "wof:placetype":"county",

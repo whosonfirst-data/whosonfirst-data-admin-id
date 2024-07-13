@@ -9,6 +9,9 @@
     "geom:bbox":"122.43992,-4.091213,122.626126,-3.909148",
     "geom:latitude":-3.997111,
     "geom:longitude":122.522911,
+    "gn:gn_country":"ID",
+    "gn:gn_fcode":"PPLA",
+    "gn:gn_pop":195006,
     "gn:latitude":-3.9778,
     "gn:longitude":122.51507,
     "gn:population":195006,
@@ -20,6 +23,7 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
         "Kendari"
     ],
@@ -32,8 +36,14 @@
     "name:azb_x_preferred":[
         "\u06a9\u0626\u062f\u06cc\u0631\u06cc"
     ],
+    "name:ban_x_preferred":[
+        "Kota Kendari"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041a\u0435\u043d\u0434\u0430\u0440\u044b"
+    ],
+    "name:bel_x_variant":[
+        "\u041a\u0435\u043d\u0434\u0430\u0440\u044b"
     ],
     "name:ben_x_preferred":[
         "\u0995\u09c7\u09a8\u09cd\u09a6\u09be\u09b0\u09bf"
@@ -56,6 +66,12 @@
     "name:eng_x_preferred":[
         "Kendari"
     ],
+    "name:eng_x_variant":[
+        "Kendari City"
+    ],
+    "name:epo_x_preferred":[
+        "Kendari"
+    ],
     "name:eus_x_preferred":[
         "Kendari"
     ],
@@ -71,11 +87,17 @@
     "name:fra_x_preferred":[
         "Kendari"
     ],
+    "name:gle_x_preferred":[
+        "Kendari"
+    ],
     "name:gor_x_preferred":[
         "Kota Kendari"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0ac7\u0aa8\u0acd\u0aa1\u0abe\u0ab0\u0ac0"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05e0\u05d3\u05e8\u05d9"
     ],
     "name:hin_x_preferred":[
         "\u0915\u0947\u0928\u094d\u0926\u093e\u0930\u0940"
@@ -155,11 +177,17 @@
     "name:spa_x_preferred":[
         "Kendari"
     ],
+    "name:sun_x_preferred":[
+        "Kota Kendari"
+    ],
     "name:swe_x_preferred":[
         "Kendari"
     ],
     "name:tam_x_preferred":[
         "\u0b95\u0bc6\u0ba3\u0bcd\u0b9f\u0bbe\u0bb0\u0bbf"
+    ],
+    "name:tat_x_preferred":[
+        "\u041a\u0435\u043d\u0434\u0430\u0440\u0438"
     ],
     "name:tel_x_preferred":[
         "\u0c15\u0c47\u0c02\u0c26\u0c3e\u0c30\u0c3f"
@@ -178,6 +206,9 @@
     ],
     "name:urd_x_preferred":[
         "\u06a9\u0646\u062f\u0627\u0631\u06cc"
+    ],
+    "name:vec_x_preferred":[
+        "Kendari"
     ],
     "name:vie_x_preferred":[
         "Kendari"
@@ -293,6 +324,17 @@
     "qs:pop":0,
     "qs:source":"Nquattroshapes",
     "qs:type":"Town",
+    "qs_pg:aaroncc":"ID",
+    "qs_pg:gn_country":"ID",
+    "qs_pg:gn_fcode":"PPLA",
+    "qs_pg:gn_id":1640344,
+    "qs_pg:gn_pop":195006,
+    "qs_pg:name":"Kendari",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":9,
+    "qs_pg:qs_id":350508,
+    "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
@@ -315,6 +357,17 @@
         "qs_pg:id":1106635,
         "wd:id":"Q15379",
         "wk:page":"Kendari"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1640344
+        ],
+        "qs_pg:id":[
+            350508
+        ],
+        "wd:id":[
+            "Q15379"
+        ]
     },
     "wof:country":"ID",
     "wof:geom_alt":[
@@ -339,7 +392,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1636502299,
+    "wof:lastmodified":1706239767,
     "wof:name":"Kendari",
     "wof:parent_id":102072877,
     "wof:placetype":"locality",
@@ -347,7 +400,9 @@
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125871611
+    ],
     "wof:tags":[]
 },
   "bbox": [

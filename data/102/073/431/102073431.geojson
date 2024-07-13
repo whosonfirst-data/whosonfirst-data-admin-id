@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.509284,
-    "geom:area_square_m":6284143657.789331,
+    "geom:area_square_m":6284143657.789207,
     "geom:bbox":"97.800697,3.219752,98.666351,4.29685",
     "geom:latitude":3.709717,
     "geom:longitude":98.222681,
@@ -34,6 +34,9 @@
     "name:ace_x_preferred":[
         "Kabupaten Langkat"
     ],
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Langkat"
+    ],
     "name:ceb_x_preferred":[
         "Kabupaten Langkat"
     ],
@@ -44,13 +47,23 @@
         "Langkat"
     ],
     "name:eng_x_variant":[
-        "LANGKAT"
+        "LANGKAT",
+        "Langkat Regency"
     ],
     "name:fra_x_preferred":[
         "kabupaten de Langkat"
     ],
+    "name:gle_x_preferred":[
+        "Langkat"
+    ],
+    "name:hye_x_preferred":[
+        "\u053c\u0561\u0576\u0563\u056f\u0561\u057f"
+    ],
     "name:ind_x_preferred":[
         "Langkat"
+    ],
+    "name:ind_x_variant":[
+        "Kabupaten Langkat"
     ],
     "name:ita_x_preferred":[
         "Langkat"
@@ -61,8 +74,14 @@
     "name:jpn_x_preferred":[
         "\u30e9\u30f3\u30ac\u30c3\u30c8\u770c"
     ],
+    "name:min_x_preferred":[
+        "Kabupaten Langkat"
+    ],
     "name:msa_x_preferred":[
         "Langkat"
+    ],
+    "name:nan_x_preferred":[
+        "Langkat Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Langkat"
@@ -120,11 +139,12 @@
         "hasc:id":"ID.SU.LA",
         "wd:id":"Q5833"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"457d25d0b2874e5fe846a8af25355e86",
+    "wof:geomhash":"5f3965b588ba0b2b55b1461366825a42",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -141,7 +161,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614721031,
+    "wof:lastmodified":1695886532,
     "wof:name":"Langkat",
     "wof:parent_id":85672073,
     "wof:placetype":"county",

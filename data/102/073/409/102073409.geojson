@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.045571,
-    "geom:area_square_m":562038221.379513,
+    "geom:area_square_m":562038221.379554,
     "geom:bbox":"103.121262,-4.258025,103.413467,-3.986511",
     "geom:latitude":-4.113911,
     "geom:longitude":103.262679,
@@ -45,6 +45,9 @@
     ],
     "name:ast_x_preferred":[
         "Pagar Alam"
+    ],
+    "name:ban_x_preferred":[
+        "Kota Pagar Alam"
     ],
     "name:bar_x_preferred":[
         "Pagar Alam"
@@ -86,7 +89,8 @@
         "Pagar Alam"
     ],
     "name:eng_x_variant":[
-        "KOTA PAGARALAM"
+        "KOTA PAGARALAM",
+        "Pagar Alam City"
     ],
     "name:epo_x_preferred":[
         "Pagar Alam"
@@ -96,6 +100,9 @@
     ],
     "name:eus_x_preferred":[
         "Pagar Alam"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u06af\u0627\u0631 \u0627\u0644\u0627\u0645"
     ],
     "name:fin_x_preferred":[
         "Pagar Alam"
@@ -145,6 +152,9 @@
     "name:ind_x_preferred":[
         "Pagar Alam"
     ],
+    "name:ind_x_variant":[
+        "Kota Pagar Alam"
+    ],
     "name:isl_x_preferred":[
         "Pagar Alam"
     ],
@@ -192,6 +202,9 @@
     ],
     "name:msa_x_preferred":[
         "Pagar Alam"
+    ],
+    "name:nan_x_preferred":[
+        "Pagar Alam Chh\u012b"
     ],
     "name:nap_x_preferred":[
         "Pagar Alam"
@@ -268,6 +281,9 @@
     "name:tam_x_preferred":[
         "\u0baa\u0b95\u0bb1\u0bcd  \u0b86\u0bb2\u0bae\u0bcd"
     ],
+    "name:tat_x_preferred":[
+        "\u041f\u0430\u0433\u0430\u0440-\u0410\u043b\u0430\u043c"
+    ],
     "name:tel_x_preferred":[
         "\u0c2a\u0c4a\u0c17\u0c30\u0c41 \u0c06\u0c32\u0c02"
     ],
@@ -342,11 +358,12 @@
         "hasc:id":"ID.SL.PG",
         "wd:id":"Q8130"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"adb032368c791559f29e43766ba35f2d",
+    "wof:geomhash":"d82fca1f727b55406463c4eb6ede4291",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -363,7 +380,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614720884,
+    "wof:lastmodified":1695886530,
     "wof:name":"Pagar Alam",
     "wof:parent_id":85672013,
     "wof:placetype":"county",

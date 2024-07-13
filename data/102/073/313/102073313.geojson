@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.041553,
-    "geom:area_square_m":508932634.923152,
+    "geom:area_square_m":508932634.923262,
     "geom:bbox":"110.216713,-8.027125,110.521309,-7.767926",
     "geom:latitude":-7.900943,
     "geom:longitude":110.355904,
@@ -43,6 +43,9 @@
     "name:ast_x_preferred":[
         "Bantul"
     ],
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Bantul"
+    ],
     "name:bar_x_preferred":[
         "Bantul"
     ],
@@ -74,7 +77,8 @@
         "Bantul"
     ],
     "name:eng_x_variant":[
-        "BANTUL"
+        "BANTUL",
+        "Bantul Regency"
     ],
     "name:epo_x_preferred":[
         "Bantul"
@@ -127,6 +131,9 @@
     "name:ind_x_preferred":[
         "Bantul"
     ],
+    "name:ind_x_variant":[
+        "Kabupaten Bantul"
+    ],
     "name:isl_x_preferred":[
         "Bantul"
     ],
@@ -156,6 +163,9 @@
     ],
     "name:msa_x_preferred":[
         "Kabupaten Bantul"
+    ],
+    "name:nan_x_preferred":[
+        "Bantul Ko\u0101n"
     ],
     "name:nap_x_preferred":[
         "Bantul"
@@ -216,6 +226,9 @@
     ],
     "name:sun_x_preferred":[
         "Kabupat\u00e9n Bantul"
+    ],
+    "name:sun_x_variant":[
+        "Bantul"
     ],
     "name:swa_x_preferred":[
         "Bantul"
@@ -286,11 +299,12 @@
         "hasc:id":"ID.YO.BA",
         "wd:id":"Q11477"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4e3c19eeb8c2449b7d153d5b337278a9",
+    "wof:geomhash":"b9243e118a5c8e3f9c24f675104b3e07",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -307,7 +321,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614720276,
+    "wof:lastmodified":1695886526,
     "wof:name":"Bantul",
     "wof:parent_id":85672093,
     "wof:placetype":"county",

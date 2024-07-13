@@ -33,12 +33,17 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        102073047,
-        85672105
+        85672105,
+        102073047
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1638445
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1973861
+        ]
     },
     "wof:country":"ID",
     "wof:geomhash":"a48cc751fef46de5f8733a613a0e02ac",
@@ -59,13 +64,15 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614636108,
+    "wof:lastmodified":1706239780,
     "wof:name":"Lanipa",
     "wof:parent_id":102073047,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326888763
+    ],
     "wof:tags":[]
 },
   "bbox": [

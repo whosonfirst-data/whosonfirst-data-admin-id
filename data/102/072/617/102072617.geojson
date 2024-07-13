@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005641,
-    "geom:area_square_m":69532265.410982,
+    "geom:area_square_m":69532265.410972,
     "geom:bbox":"120.29789,-4.577959,120.394913,-4.489642",
     "geom:latitude":-4.535599,
     "geom:longitude":120.349467,
     "iso:country":"ID",
+    "label:eng_x_preferred_longname":[
+        "Kota Watampone Regency"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "regency"
+    ],
     "lbl:latitude":-4.535117,
     "lbl:longitude":120.349466,
     "meso:admin_1":"SULAWESI SELATAN",
@@ -56,11 +62,12 @@
     "wof:concordances":{
         "hasc:id":"ID.SE.BO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"95ea3f596f261861548c1f9636b6d4de",
+    "wof:geomhash":"68ccd89f535ea5caf8f59e29a98c1fa8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +84,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1627522198,
+    "wof:lastmodified":1695886676,
     "wof:name":"Kota Watampone",
     "wof:parent_id":85672041,
     "wof:placetype":"county",

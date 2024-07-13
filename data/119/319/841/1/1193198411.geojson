@@ -35,6 +35,9 @@
     "name:fra_x_preferred":[
         "Bate"
     ],
+    "name:ind_x_preferred":[
+        "Bate"
+    ],
     "name:nld_x_preferred":[
         "Bate"
     ],
@@ -48,12 +51,17 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        1108796933,
-        85672041
+        85672041,
+        1108796933
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1969853
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1968982
+        ]
     },
     "wof:country":"ID",
     "wof:geomhash":"8020602adcdcb09d1a0bef1806550173",
@@ -74,13 +82,15 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614639704,
+    "wof:lastmodified":1706239772,
     "wof:name":"Bate",
     "wof:parent_id":1108796933,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343900829
+    ],
     "wof:tags":[]
 },
   "bbox": [

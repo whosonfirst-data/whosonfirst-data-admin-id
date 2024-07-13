@@ -39,12 +39,17 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        1108796939,
-        85672105
+        85672105,
+        1108796939
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1644964
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6966129
+        ]
     },
     "wof:country":"ID",
     "wof:geomhash":"0c2f951241d005c8e1999486830e767b",
@@ -65,13 +70,15 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638988,
+    "wof:lastmodified":1706239775,
     "wof:name":"Sepuuha",
     "wof:parent_id":1108796939,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326988591
+    ],
     "wof:tags":[]
 },
   "bbox": [

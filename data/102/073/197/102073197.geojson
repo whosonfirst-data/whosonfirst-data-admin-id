@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028811,
-    "geom:area_square_m":355601591.336754,
+    "geom:area_square_m":355601591.336773,
     "geom:bbox":"114.649269,-3.551864,114.922653,-3.371419",
     "geom:latitude":-3.467772,
     "geom:longitude":114.792852,
@@ -37,6 +37,9 @@
     "name:ara_x_preferred":[
         "\u0628\u0646\u062c\u0627\u0631\u0628\u0627\u0631\u0648"
     ],
+    "name:ban_x_preferred":[
+        "Kota Banjarbaru"
+    ],
     "name:ben_x_preferred":[
         "\u09ac\u09be\u09a8\u099c\u09be\u09b0\u09ac\u09be\u09b0\u09c1"
     ],
@@ -66,12 +69,22 @@
     ],
     "name:eng_x_variant":[
         "KOTA BANJARBARU",
+        "Banjarbaru",
+        "Banjarbaru City"
+    ],
+    "name:epo_x_preferred":[
         "Banjarbaru"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0646\u0628\u0627\u0631\u0628\u0627\u0631\u0648"
     ],
     "name:fin_x_preferred":[
         "Banjarbaru"
     ],
     "name:fra_x_preferred":[
+        "Banjarbaru"
+    ],
+    "name:gle_x_preferred":[
         "Banjarbaru"
     ],
     "name:guj_x_preferred":[
@@ -113,11 +126,17 @@
     "name:mar_x_preferred":[
         "\u092c\u0902\u091c\u0930\u092c\u093e\u0930\u0942"
     ],
+    "name:min_x_preferred":[
+        "Kota Banjarbaru"
+    ],
     "name:mlg_x_preferred":[
         "Kota Banjarbaru"
     ],
     "name:msa_x_preferred":[
         "Kota Banjarbaru"
+    ],
+    "name:nan_x_preferred":[
+        "Banjarbaru Chh\u012b"
     ],
     "name:nld_x_preferred":[
         "Benjarbaru"
@@ -127,6 +146,9 @@
     ],
     "name:oci_x_preferred":[
         "Banjarbaru"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0628\u0646\u062c\u0631\u0628\u0627\u0631\u0648"
     ],
     "name:pol_x_preferred":[
         "Banjarbaru"
@@ -146,6 +168,9 @@
     "name:tam_x_preferred":[
         "\u0baa\u0b9e\u0bcd\u0b9a\u0bb0\u0bcd\u0baa\u0bb0\u0bc1"
     ],
+    "name:tat_x_preferred":[
+        "\u0411\u0430\u043d\u0497\u0430\u0440\u0431\u0430\u0440\u0443"
+    ],
     "name:tel_x_preferred":[
         "\u0c2c\u0c02\u0c1c\u0c3e\u0c30\u0c4d\u0c2c\u0c3e\u0c30\u0c41"
     ],
@@ -160,6 +185,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0628\u0627\u0646\u062c\u0627\u0631\u0628\u0627\u0631\u0648"
+    ],
+    "name:vec_x_preferred":[
+        "Banjarbaru"
     ],
     "name:vie_x_preferred":[
         "Banjarbaru"
@@ -203,11 +231,12 @@
         "hasc:id":"ID.KS.BB",
         "wd:id":"Q14181"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"cf529e2dba36ea04177b9ddb2d9fe7c8",
+    "wof:geomhash":"1e2e08fa8df73c133a419a403eac1c0a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -224,7 +253,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614719190,
+    "wof:lastmodified":1695886521,
     "wof:name":"Banjar Baru",
     "wof:parent_id":85672031,
     "wof:placetype":"county",

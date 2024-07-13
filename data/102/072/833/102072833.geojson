@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.235127,
-    "geom:area_square_m":2902828942.310987,
+    "geom:area_square_m":2902828942.31077,
     "geom:bbox":"119.874657,-3.658136,120.415314,-2.666022",
     "geom:latitude":-3.200173,
     "geom:longitude":120.179769,
@@ -31,6 +31,12 @@
     "mps:longitude":120.212885,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Luwu"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b2\u09c1\u0989"
+    ],
     "name:ceb_x_preferred":[
         "Kabupaten Luwu"
     ],
@@ -41,13 +47,20 @@
         "Luwu"
     ],
     "name:eng_x_variant":[
-        "LUWU"
+        "LUWU",
+        "Luwu Regency"
     ],
     "name:fra_x_preferred":[
         "kabupaten de Luwu"
     ],
+    "name:gle_x_preferred":[
+        "Luwu"
+    ],
     "name:ind_x_preferred":[
         "Luwu"
+    ],
+    "name:ind_x_variant":[
+        "Kabupaten Luwu"
     ],
     "name:ita_x_preferred":[
         "Reggenza di Luwu"
@@ -60,6 +73,9 @@
     ],
     "name:msa_x_preferred":[
         "Luwu"
+    ],
+    "name:nan_x_preferred":[
+        "Luwu Ko\u0101n"
     ],
     "name:spa_x_preferred":[
         "Luwu"
@@ -108,11 +124,12 @@
         "hasc:id":"ID.SE.LW",
         "wd:id":"Q14604"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"33eb2ed7ef57bf51e52bc75f122f512d",
+    "wof:geomhash":"f7874522af422caaa20d5eca5afdfcc6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -129,7 +146,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614716558,
+    "wof:lastmodified":1695886505,
     "wof:name":"Luwu",
     "wof:parent_id":85672041,
     "wof:placetype":"county",

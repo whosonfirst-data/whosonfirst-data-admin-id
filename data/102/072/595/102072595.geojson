@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.197614,
-    "geom:area_square_m":14805615731.678782,
+    "geom:area_square_m":14805615731.679005,
     "geom:bbox":"132.537638,-1.995957,134.290955,-0.47964",
     "geom:latitude":-1.130914,
     "geom:longitude":133.513539,
@@ -46,6 +46,9 @@
     "name:ast_x_preferred":[
         "Manokwari"
     ],
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Manokwari"
+    ],
     "name:bar_x_preferred":[
         "Manokwari"
     ],
@@ -77,7 +80,8 @@
         "Manokwari"
     ],
     "name:eng_x_variant":[
-        "MANOKWARI"
+        "MANOKWARI",
+        "Manokwari Regency"
     ],
     "name:epo_x_preferred":[
         "Manokwari"
@@ -133,6 +137,9 @@
     "name:ind_x_preferred":[
         "Manokwari"
     ],
+    "name:ind_x_variant":[
+        "Kabupaten Manokwari"
+    ],
     "name:isl_x_preferred":[
         "Manokwari"
     ],
@@ -165,6 +172,9 @@
     ],
     "name:msa_x_preferred":[
         "Manokwari"
+    ],
+    "name:nan_x_preferred":[
+        "Manokwari Ko\u0101n"
     ],
     "name:nap_x_preferred":[
         "Manokwari"
@@ -292,11 +302,12 @@
         "hasc:id":"ID.IB.MA",
         "wd:id":"Q26748"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"cff32db10da2b5cd1bf422fa3e7adabe",
+    "wof:geomhash":"232551d8c33d6f897c7a52e06ba14387",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -313,7 +324,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1636502307,
+    "wof:lastmodified":1695886060,
     "wof:name":"Manokwari",
     "wof:parent_id":85672067,
     "wof:placetype":"county",

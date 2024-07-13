@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.152632,
-    "geom:area_square_m":1887198741.893342,
+    "geom:area_square_m":1887198741.89249,
     "geom:bbox":"122.116066,0.46158,122.64872,0.898719",
     "geom:latitude":0.659541,
     "geom:longitude":122.352146,
@@ -31,6 +31,9 @@
     "mps:longitude":122.311723,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Boalemo"
+    ],
     "name:ceb_x_preferred":[
         "Kabupaten Boalemo"
     ],
@@ -41,9 +44,13 @@
         "Boalemo"
     ],
     "name:eng_x_variant":[
-        "BOALEMO"
+        "BOALEMO",
+        "Boalemo Regency"
     ],
     "name:fra_x_preferred":[
+        "Boalemo"
+    ],
+    "name:gle_x_preferred":[
         "Boalemo"
     ],
     "name:gor_x_preferred":[
@@ -51,6 +58,9 @@
     ],
     "name:ind_x_preferred":[
         "Boalemo"
+    ],
+    "name:ind_x_variant":[
+        "Kabupaten Boalemo"
     ],
     "name:ita_x_preferred":[
         "Reggenza di Boalemo"
@@ -64,8 +74,14 @@
     "name:jpn_x_preferred":[
         "\u30dc\u30a2\u30ec\u30e2\u770c"
     ],
+    "name:mad_x_preferred":[
+        "Kabupaten Boalemo"
+    ],
     "name:msa_x_preferred":[
         "Kabupaten Boalemo"
+    ],
+    "name:nan_x_preferred":[
+        "Boalemo Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Boalemo Regency"
@@ -117,11 +133,12 @@
         "hasc:id":"ID.GO.BO",
         "wd:id":"Q14508"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"fa4726d9e890430d0deeb1abca71e4de",
+    "wof:geomhash":"96deeac95d8c415dddaa11303cd676b1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -138,7 +155,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614722118,
+    "wof:lastmodified":1695886538,
     "wof:name":"Boalemo",
     "wof:parent_id":85672055,
     "wof:placetype":"county",

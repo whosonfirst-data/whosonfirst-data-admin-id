@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028783,
-    "geom:area_square_m":355336349.376707,
+    "geom:area_square_m":355336349.376598,
     "geom:bbox":"102.761261,-3.378693,102.994148,-3.152885",
     "geom:latitude":-3.261787,
     "geom:longitude":102.870529,
@@ -37,6 +37,9 @@
     "name:ara_x_preferred":[
         "\u0644\u0648\u0628\u0648\u0643\u0644\u0646\u063a\u0627\u0648"
     ],
+    "name:ban_x_preferred":[
+        "Kota Lubuklinggau"
+    ],
     "name:bul_x_preferred":[
         "\u041b\u0443\u0431\u0443\u043a\u043b\u0438\u043d\u0433\u0430\u0443"
     ],
@@ -57,16 +60,32 @@
     ],
     "name:eng_x_variant":[
         "KOTA LUBUKLINGGAU",
+        "Lubuklinggau",
+        "Lubuk Linggau City"
+    ],
+    "name:epo_x_preferred":[
         "Lubuklinggau"
     ],
     "name:fas_x_preferred":[
         "\u0644\u0648\u0628\u0648\u06a9 \u0644\u06cc\u0646\u06af\u0627\u0626\u0648"
     ],
+    "name:fin_x_preferred":[
+        "Lubuklinggau"
+    ],
     "name:fra_x_preferred":[
         "Lubuklinggau"
     ],
+    "name:gle_x_preferred":[
+        "Lubuk Linggau"
+    ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d5\u05d1\u05d5\u05e7\u05dc\u05d9\u05e0\u05d2\u05d0\u05d5"
+    ],
     "name:ind_x_preferred":[
         "Lubuk Linggau"
+    ],
+    "name:ind_x_variant":[
+        "Kota Lubuk Linggau"
     ],
     "name:ita_x_preferred":[
         "Lubuklinggau"
@@ -74,17 +93,26 @@
     "name:jav_x_preferred":[
         "Kutha Lubuklinggau"
     ],
+    "name:jav_x_variant":[
+        "Lubuklinggau"
+    ],
     "name:jpn_x_preferred":[
         "\u30eb\u30d6\u30af\u30ea\u30f3\u30ac\u30a6"
     ],
     "name:kor_x_preferred":[
         "\ub8e8\ubd80\ud074\ub9c1\uac00\uc6b0"
     ],
+    "name:min_x_preferred":[
+        "Kota Lubuklinggau"
+    ],
     "name:mlg_x_preferred":[
         "Kota Lubuklinggau"
     ],
     "name:msa_x_preferred":[
         "Lubuklinggau"
+    ],
+    "name:nan_x_preferred":[
+        "Lubuklinggau Chh\u012b"
     ],
     "name:nld_x_preferred":[
         "Lubuklinggau"
@@ -110,11 +138,17 @@
     "name:swe_x_preferred":[
         "Lubiklinggau"
     ],
+    "name:tat_x_preferred":[
+        "\u041b\u0443\u0431\u0443\u043a\u043b\u0438\u04a3\u0433\u0430\u0443"
+    ],
     "name:tur_x_preferred":[
         "Lubuklinggau"
     ],
     "name:urd_x_preferred":[
         "\u0644\u0648\u0628\u0648\u06a9\u0644\u06cc\u0646\u06af\u0627\u0648"
+    ],
+    "name:vec_x_preferred":[
+        "Lubuklinggau"
     ],
     "name:vie_x_preferred":[
         "Lubuklinggau"
@@ -157,11 +191,12 @@
         "hasc:id":"ID.SL.LL",
         "wd:id":"Q8129"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"05a8219941c8d46502f336de3e403836",
+    "wof:geomhash":"eedc796874bbc38d8bab1353a60d892b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -178,7 +213,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614718394,
+    "wof:lastmodified":1695886516,
     "wof:name":"Lubuk Linggau",
     "wof:parent_id":85672013,
     "wof:placetype":"county",

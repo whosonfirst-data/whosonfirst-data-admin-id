@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008402,
-    "geom:area_square_m":103848865.501686,
+    "geom:area_square_m":103848865.50166,
     "geom:bbox":"103.555649,-1.646425,103.675194,-1.546963",
     "geom:latitude":-1.60029,
     "geom:longitude":103.612614,
@@ -40,6 +40,9 @@
     "name:ara_x_preferred":[
         "\u062c\u0645\u0628\u064a"
     ],
+    "name:ban_x_preferred":[
+        "Kota Jambi"
+    ],
     "name:ben_x_preferred":[
         "\u099c\u09be\u09ae\u09cd\u09ac\u09bf \u09b6\u09b9\u09b0"
     ],
@@ -65,7 +68,8 @@
         "Jambi"
     ],
     "name:eng_x_variant":[
-        "KOTA JAMBI"
+        "KOTA JAMBI",
+        "Jambi City"
     ],
     "name:epo_x_preferred":[
         "Jambi"
@@ -85,6 +89,9 @@
     "name:fra_x_preferred":[
         "Jambi"
     ],
+    "name:gle_x_preferred":[
+        "Jambi"
+    ],
     "name:gor_x_preferred":[
         "Kota Jambi"
     ],
@@ -102,6 +109,9 @@
     ],
     "name:ind_x_preferred":[
         "Jambi"
+    ],
+    "name:ind_x_variant":[
+        "Kota Jambi"
     ],
     "name:ita_x_preferred":[
         "Jambi"
@@ -124,6 +134,9 @@
     "name:lit_x_preferred":[
         "D\u017eambis"
     ],
+    "name:mal_x_preferred":[
+        "\u0d1c\u0d02\u0d2c\u0d3f \u0d2a\u0d1f\u0d4d\u0d1f\u0d23\u0d02"
+    ],
     "name:mar_x_preferred":[
         "\u091c\u0902\u092c\u0940"
     ],
@@ -138,6 +151,9 @@
     ],
     "name:nan_x_preferred":[
         "Jambi"
+    ],
+    "name:nan_x_variant":[
+        "Jambi Chh\u012b"
     ],
     "name:nld_x_preferred":[
         "Jambi"
@@ -175,6 +191,9 @@
     "name:tam_x_preferred":[
         "\u0b9c\u0bbe\u0bae\u0bcd\u0baa\u0bbf"
     ],
+    "name:tat_x_preferred":[
+        "\u0496\u0430\u043c\u0431\u0438"
+    ],
     "name:tel_x_preferred":[
         "\u0c1c\u0c3e\u0c02\u0c2c\u0c3f"
     ],
@@ -192,6 +211,9 @@
     ],
     "name:urd_x_preferred":[
         "\u062c\u0627\u0645\u0628\u06cc \u0634\u06c1\u0631"
+    ],
+    "name:vec_x_preferred":[
+        "Jambi"
     ],
     "name:vie_x_preferred":[
         "Jambi"
@@ -243,11 +265,12 @@
         "hasc:id":"ID.JA.JA",
         "wd:id":"Q7578"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c92eaad718588ba7a377ab7316e1aec6",
+    "wof:geomhash":"9375081f96f976c918494d8472dfaae6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -264,7 +287,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1636502295,
+    "wof:lastmodified":1695886058,
     "wof:name":"Jambi",
     "wof:parent_id":85672059,
     "wof:placetype":"county",

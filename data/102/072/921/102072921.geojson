@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.066176,
-    "geom:area_square_m":811600043.15951,
+    "geom:area_square_m":811600043.15943,
     "geom:bbox":"109.223671,-7.487381,109.584518,-7.16118",
     "geom:latitude":-7.322876,
     "geom:longitude":109.407383,
@@ -46,6 +46,9 @@
     "name:ast_x_preferred":[
         "Purbalingga"
     ],
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Purbalingga"
+    ],
     "name:bar_x_preferred":[
         "Purbalingga"
     ],
@@ -83,7 +86,8 @@
         "Purbalingga"
     ],
     "name:eng_x_variant":[
-        "PURBALINGGA"
+        "PURBALINGGA",
+        "Purbalingga Regency"
     ],
     "name:epo_x_preferred":[
         "Purbalingga"
@@ -115,6 +119,9 @@
     "name:glg_x_preferred":[
         "Purbalingga"
     ],
+    "name:gor_x_preferred":[
+        "Kabupaten Purbalingga"
+    ],
     "name:gsw_x_preferred":[
         "Purbalingga"
     ],
@@ -142,6 +149,9 @@
     "name:ind_x_preferred":[
         "Purbalingga"
     ],
+    "name:ind_x_variant":[
+        "Kabupaten Purbalingga"
+    ],
     "name:isl_x_preferred":[
         "Purbalingga"
     ],
@@ -150,6 +160,9 @@
     ],
     "name:jav_x_preferred":[
         "Kabupat\u00e8n Purbalingga"
+    ],
+    "name:jav_x_variant":[
+        "Purbalingga"
     ],
     "name:jpn_x_preferred":[
         "\u30d7\u30eb\u30d0\u30ea\u30f3\u30ac\u770c"
@@ -189,6 +202,9 @@
     ],
     "name:msa_x_preferred":[
         "Purbalingga"
+    ],
+    "name:nan_x_preferred":[
+        "Purbalingga Ko\u0101n"
     ],
     "name:nap_x_preferred":[
         "Purbalingga"
@@ -255,6 +271,9 @@
     ],
     "name:sun_x_preferred":[
         "Kabupat\u00e9n Purbalingga"
+    ],
+    "name:sun_x_variant":[
+        "Purbalingga"
     ],
     "name:swa_x_preferred":[
         "Purbalingga"
@@ -339,11 +358,12 @@
         "hasc:id":"ID.JT.PB",
         "wd:id":"Q10625"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8d9ca73dc5797b3e576ceba10364a7d0",
+    "wof:geomhash":"66e4e029c861a7f75b09023224099ab0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -360,7 +380,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614717194,
+    "wof:lastmodified":1695886509,
     "wof:name":"Purbalingga",
     "wof:parent_id":85671987,
     "wof:placetype":"county",

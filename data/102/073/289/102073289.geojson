@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.261667,
-    "geom:area_square_m":3227820584.441552,
+    "geom:area_square_m":3227820584.441812,
     "geom:bbox":"102.299263,-4.362815,102.99987,-3.493975",
     "geom:latitude":-3.95857,
     "geom:longitude":102.651575,
@@ -43,6 +43,9 @@
     "name:ast_x_preferred":[
         "Seluma"
     ],
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Seluma"
+    ],
     "name:bar_x_preferred":[
         "Seluma"
     ],
@@ -74,7 +77,8 @@
         "Seluma"
     ],
     "name:eng_x_variant":[
-        "SELUMA"
+        "SELUMA",
+        "Seluma Regency"
     ],
     "name:epo_x_preferred":[
         "Seluma"
@@ -127,6 +131,9 @@
     "name:ind_x_preferred":[
         "Seluma"
     ],
+    "name:ind_x_variant":[
+        "Kabupaten Seluma"
+    ],
     "name:isl_x_preferred":[
         "Seluma"
     ],
@@ -135,6 +142,9 @@
     ],
     "name:jav_x_preferred":[
         "Kabupat\u00e8n Seluma"
+    ],
+    "name:jav_x_variant":[
+        "Seluma"
     ],
     "name:jpn_x_preferred":[
         "\u30bb\u30eb\u30de\u770c"
@@ -159,6 +169,9 @@
     ],
     "name:msa_x_preferred":[
         "Kabupaten Seluma"
+    ],
+    "name:nan_x_preferred":[
+        "Seluma Ko\u0101n"
     ],
     "name:nap_x_preferred":[
         "Seluma"
@@ -285,11 +298,12 @@
         "hasc:id":"ID.BE.SE",
         "wd:id":"Q8037"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6efaa948ad3dd416bc2012fac7bb5eaf",
+    "wof:geomhash":"61f1b6895b77a81239584455a1bfbe8e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -306,7 +320,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614720009,
+    "wof:lastmodified":1695886525,
     "wof:name":"Seluma",
     "wof:parent_id":85671991,
     "wof:placetype":"county",

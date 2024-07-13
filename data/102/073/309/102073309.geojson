@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.159452,
-    "geom:area_square_m":1956630070.643544,
+    "geom:area_square_m":1956630070.643948,
     "geom:bbox":"111.106544,-7.374961,111.629868,-6.848867",
     "geom:latitude":-7.075687,
     "geom:longitude":111.38788,
@@ -46,6 +46,9 @@
     "name:ast_x_preferred":[
         "Blora"
     ],
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Blora"
+    ],
     "name:bar_x_preferred":[
         "Blora"
     ],
@@ -83,7 +86,8 @@
         "Blora"
     ],
     "name:eng_x_variant":[
-        "BLORA"
+        "BLORA",
+        "Blora Regency"
     ],
     "name:epo_x_preferred":[
         "Blora"
@@ -142,6 +146,9 @@
     "name:ind_x_preferred":[
         "Blora"
     ],
+    "name:ind_x_variant":[
+        "Kabupaten Blora"
+    ],
     "name:isl_x_preferred":[
         "Blora"
     ],
@@ -189,6 +196,9 @@
     ],
     "name:msa_x_preferred":[
         "Kabupaten Blora"
+    ],
+    "name:nan_x_preferred":[
+        "Blora Ko\u0101n"
     ],
     "name:nap_x_preferred":[
         "Blora"
@@ -256,6 +266,9 @@
     "name:sun_x_preferred":[
         "Kabupat\u00e9n Blora"
     ],
+    "name:sun_x_variant":[
+        "Blora"
+    ],
     "name:swa_x_preferred":[
         "Blora"
     ],
@@ -301,6 +314,9 @@
     "name:zho_x_preferred":[
         "\u5e03\u6d1b\u4e9e"
     ],
+    "name:zho_x_variant":[
+        "\u5e03\u6d1b\u62c9\u53bf"
+    ],
     "name:zul_x_preferred":[
         "Blora"
     ],
@@ -339,11 +355,12 @@
         "hasc:id":"ID.JT.BL",
         "wd:id":"Q10608"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1c524633b85bd115b4a640e15a03e7a7",
+    "wof:geomhash":"60f943789c20e6b4df9efbbb82352fac",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -360,7 +377,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614720239,
+    "wof:lastmodified":1695886526,
     "wof:name":"Blora",
     "wof:parent_id":85671987,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.795833,
-    "geom:area_square_m":34293199152.060936,
+    "geom:area_square_m":34293199152.062332,
     "geom:bbox":"108.555855,-8.21453,111.693619,-5.7278",
     "geom:latitude":-7.260603,
     "geom:longitude":110.203673,
@@ -58,6 +58,9 @@
     ],
     "name:aze_x_preferred":[
         "\u0645\u0626\u0631\u06a9\u0626\u0632\u06cc \u062c\u0627\u0648\u0627"
+    ],
+    "name:aze_x_variant":[
+        "M\u0259rk\u0259zi Yava"
     ],
     "name:ban_x_preferred":[
         "Jawa Tengah"
@@ -119,6 +122,9 @@
     "name:ell_x_preferred":[
         "\u03a3\u03ad\u03bd\u03c4\u03c1\u03b1\u03bb \u03a4\u03b6\u03ac\u03b2\u03b1"
     ],
+    "name:ell_x_variant":[
+        "\u039a\u03b5\u03bd\u03c4\u03c1\u03b9\u03ba\u03ae \u0399\u03ac\u03b2\u03b1"
+    ],
     "name:eng_ca_x_preferred":[
         "Central Java"
     ],
@@ -148,6 +154,9 @@
     ],
     "name:frp_x_preferred":[
         "Jawa Tengah"
+    ],
+    "name:frr_x_preferred":[
+        "Maden Jaawa"
     ],
     "name:fur_x_preferred":[
         "Jawa Tengah"
@@ -187,6 +196,9 @@
     ],
     "name:hun_x_preferred":[
         "Jawa Tengah"
+    ],
+    "name:hyw_x_preferred":[
+        "\u053f\u0565\u0564\u0580\u0578\u0576\u0561\u056f\u0561\u0576 \u0543\u0561\u0582\u0561"
     ],
     "name:ido_x_preferred":[
         "Jawa Tengah"
@@ -254,6 +266,9 @@
     "name:ltz_x_preferred":[
         "Jawa Tengah"
     ],
+    "name:mad_x_preferred":[
+        "Jh\u00e2b\u00e2 Tengnga"
+    ],
     "name:mal_x_preferred":[
         "\u0d2e\u0d26\u0d4d\u0d27\u0d4d\u0d2f \u0d1c\u0d3e\u0d35"
     ],
@@ -277,6 +292,9 @@
     ],
     "name:nan_x_preferred":[
         "Tiong Jawa"
+    ],
+    "name:nan_x_variant":[
+        "Tiong Jawa S\u00e9ng"
     ],
     "name:nap_x_preferred":[
         "Jawa Tengah"
@@ -332,6 +350,9 @@
     "name:rus_x_preferred":[
         "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u0430\u044f \u042f\u0432\u0430"
     ],
+    "name:sat_x_preferred":[
+        "\u1c5b\u1c5f\u1c5e\u1c62\u1c5f \u1c61\u1c5f\u1c75\u1c77\u1c5f"
+    ],
     "name:scn_x_preferred":[
         "Jawa Tengah"
     ],
@@ -346,6 +367,9 @@
     ],
     "name:slv_x_preferred":[
         "Jawa Tengah"
+    ],
+    "name:som_x_preferred":[
+        "Jawa tengah,"
     ],
     "name:spa_x_preferred":[
         "Java Central"
@@ -371,8 +395,14 @@
     "name:tam_x_preferred":[
         "\u0ba8\u0b9f\u0bc1\u0b9a\u0bcd \u0b9a\u0bbe\u0bb5\u0b95 \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
+    "name:tat_x_preferred":[
+        "\u04ae\u0437\u04d9\u043a \u042f\u0432\u0430"
+    ],
     "name:tel_x_preferred":[
         "\u0c38\u0c46\u0c02\u0c1f\u0c4d\u0c30\u0c32\u0c4d \u0c1c\u0c3e\u0c35\u0c3e \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
+    ],
+    "name:tgl_x_preferred":[
+        "Gitnang Java"
     ],
     "name:tha_x_preferred":[
         "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e0a\u0e27\u0e32\u0e01\u0e25\u0e32\u0e07"
@@ -397,6 +427,9 @@
     ],
     "name:vec_x_preferred":[
         "\u0120iava Sentral"
+    ],
+    "name:vec_x_variant":[
+        "Java Sentral"
     ],
     "name:vie_x_preferred":[
         "Trung Java"
@@ -526,17 +559,19 @@
         "gn:id":1642669,
         "gp:id":2345716,
         "hasc:id":"ID.JT",
+        "iso:code":"ID-JT",
         "iso:id":"ID-JT",
         "qs:id":240033,
         "unlc:id":"ID-JT",
         "wd:id":"Q3557",
         "wk:page":"Central Java"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"75ce4ccdb03f91b636036ee46e0cf016",
+    "wof:geomhash":"d79a4a0ab20b71fdd4c1e2845a611bbe",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -552,7 +587,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1623173302,
+    "wof:lastmodified":1695884735,
     "wof:name":"Jawa Tengah",
     "wof:parent_id":85632203,
     "wof:placetype":"region",

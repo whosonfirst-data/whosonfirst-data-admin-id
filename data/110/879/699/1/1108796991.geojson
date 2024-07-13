@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.675206,
-    "geom:area_square_m":8345995924.570157,
+    "geom:area_square_m":8345995924.570173,
     "geom:bbox":"98.780052,0.97637,100.339439,2.125386",
     "geom:latitude":1.535284,
     "geom:longitude":99.505425,
@@ -29,6 +29,9 @@
     "name:ace_x_preferred":[
         "Padang Lawas Utara"
     ],
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Padang Lawas Utara"
+    ],
     "name:ceb_x_preferred":[
         "Kabupaten Padang Lawas Utara"
     ],
@@ -39,13 +42,20 @@
         "Padang Lawas Utara"
     ],
     "name:eng_x_variant":[
-        "PADANG LAWAS UTARA"
+        "PADANG LAWAS UTARA",
+        "North Padang Lawas Regency"
     ],
     "name:fra_x_preferred":[
         "kabupaten de Padang Lawas du Nord"
     ],
+    "name:gle_x_preferred":[
+        "Padang Lawas Thuaidh"
+    ],
     "name:ind_x_preferred":[
         "Padang Lawas Utara"
+    ],
+    "name:ind_x_variant":[
+        "Kabupaten Padang Lawas Utara"
     ],
     "name:ita_x_preferred":[
         "Padang Lawas Nord"
@@ -53,11 +63,20 @@
     "name:jav_x_preferred":[
         "Kabupat\u00e8n Padang Lawas Lor"
     ],
+    "name:min_x_preferred":[
+        "Kabupaten Padang Lawas Utara"
+    ],
     "name:msa_x_preferred":[
         "Kabupaten Padang Lawas Utara"
     ],
+    "name:nan_x_preferred":[
+        "Pak Padang Lawas Ko\u0101n"
+    ],
     "name:nld_x_preferred":[
         "Padang Lawas Utara"
+    ],
+    "name:nld_x_variant":[
+        "Noord-Padang Lawas"
     ],
     "name:rus_x_preferred":[
         "\u0421\u0435\u0432\u0435\u0440\u043d\u043e\u0435 \u041f\u0430\u0434\u0430\u043d\u0433\u043b\u0430\u0432\u0430\u0441"
@@ -76,6 +95,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5317\u5df4\u6771\u8001\u8d8a\u651d\u653f"
+    ],
+    "name:zho_x_variant":[
+        "\u5317\u5df4\u4e1c\u62c9\u74e6\u65af\u53bf"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -101,9 +123,10 @@
         "hasc:id":"ID.SU.PU",
         "wd:id":"Q5857"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:created":1482878651,
-    "wof:geomhash":"4e043436fbc4312332b0968ce1242a8d",
+    "wof:geomhash":"06c2271ccf07940df70ee157d791a06e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -120,7 +143,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614723087,
+    "wof:lastmodified":1695886556,
     "wof:name":"Padang Lawas Utara",
     "wof:parent_id":85672073,
     "wof:placetype":"county",

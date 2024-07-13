@@ -50,8 +50,14 @@
     "name:eng_x_preferred":[
         "Biak"
     ],
+    "name:eng_x_variant":[
+        "Biak Island"
+    ],
     "name:epo_x_preferred":[
         "Biak"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u06cc\u0627\u06a9"
     ],
     "name:fin_x_preferred":[
         "Biak"
@@ -67,6 +73,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05d4\u05d0\u05d9 \u05d1\u05d9\u05d0\u05e7"
+    ],
+    "name:heb_x_variant":[
+        "\u05d1\u05d9\u05d0\u05e7"
     ],
     "name:hin_x_preferred":[
         "\u092c\u093e\u092f\u0915"
@@ -91,6 +100,9 @@
     ],
     "name:kor_x_preferred":[
         "\ube44\uc545\uc12c"
+    ],
+    "name:lav_x_preferred":[
+        "Biaka"
     ],
     "name:mrj_x_preferred":[
         "\u0411\u0438\u0430\u043a \u043e\u0448\u043c\u0430\u043e\u0442\u044b"
@@ -133,6 +145,9 @@
     ],
     "name:unk_x_variant":[
         "Biak-Stad"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u06cc\u0627\u06a9"
     ],
     "name:vie_x_preferred":[
         "Biak"
@@ -232,6 +247,7 @@
     "ne:UN_LAT":0.0,
     "ne:UN_LONG":0.0,
     "ne:WORLDCITY":0,
+    "ne:min_zoom":6.1,
     "qs:a0":"Indonesia",
     "qs:a1":"*Papua",
     "qs:a1r":"*",
@@ -245,6 +261,8 @@
     "qs:pop":0,
     "qs:source":"Nquattroshapes",
     "qs:type":"Town",
+    "reversegeo:latitude":-1.161494,
+    "reversegeo:longitude":136.048481,
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
@@ -293,7 +311,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1636502301,
+    "wof:lastmodified":1706239768,
     "wof:name":"Biak",
     "wof:parent_id":1108796871,
     "wof:placetype":"locality",
@@ -301,7 +319,9 @@
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1141907519
+    ],
     "wof:tags":[]
 },
   "bbox": [

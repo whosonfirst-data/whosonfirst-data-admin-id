@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.330512,
-    "geom:area_square_m":4079803428.416271,
+    "geom:area_square_m":4079803428.416563,
     "geom:bbox":"121.562689,-3.840829,122.474487,-3.022538",
     "geom:latitude":-3.358518,
     "geom:longitude":122.026085,
@@ -38,6 +38,9 @@
     "name:ast_x_preferred":[
         "Konawe Utara"
     ],
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Konawe Utara"
+    ],
     "name:bar_x_preferred":[
         "Konawe Utara"
     ],
@@ -69,7 +72,8 @@
         "Konawe Utara"
     ],
     "name:eng_x_variant":[
-        "KONAWE UTARA"
+        "KONAWE UTARA",
+        "North Konawe Regency"
     ],
     "name:epo_x_preferred":[
         "Konawe Utara"
@@ -122,6 +126,9 @@
     "name:ind_x_preferred":[
         "Konawe Utara"
     ],
+    "name:ind_x_variant":[
+        "Kabupaten Konawe Utara"
+    ],
     "name:isl_x_preferred":[
         "Konawe Utara"
     ],
@@ -154,6 +161,9 @@
     ],
     "name:msa_x_preferred":[
         "Kabupaten Konawe Utara"
+    ],
+    "name:nan_x_preferred":[
+        "Pak Konawe Ko\u0101n"
     ],
     "name:nap_x_preferred":[
         "Konawe Utara"
@@ -269,9 +279,10 @@
         "hasc:id":"ID.SG.KW",
         "wd:id":"Q15370"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:created":1482878615,
-    "wof:geomhash":"2a0f0b783f77aeb194cdcb5f7f86374e",
+    "wof:geomhash":"90254766e0d494b400657e859008b77c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -288,7 +299,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614722966,
+    "wof:lastmodified":1695886553,
     "wof:name":"Konawe Utara",
     "wof:parent_id":85672105,
     "wof:placetype":"county",

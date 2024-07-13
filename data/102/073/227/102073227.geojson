@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.121077,
-    "geom:area_square_m":1497124160.331263,
+    "geom:area_square_m":1497124160.331411,
     "geom:bbox":"117.133385,-0.000896,117.555908,0.420553",
     "geom:latitude":0.210923,
     "geom:longitude":117.346228,
     "iso:country":"ID",
+    "label:eng_x_preferred_longname":[
+        "Kota Bontang Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":0.202159,
     "lbl:longitude":117.328627,
     "meso:admin_1":"KALIMANTAN TIMUR",
@@ -56,11 +62,12 @@
     "wof:concordances":{
         "hasc:id":"ID.KI.BO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a6a34b916cd1a78a39b5bbf8364e1dbf",
+    "wof:geomhash":"80d4b06ee655e070faa268232d413b22",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +84,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1627522191,
+    "wof:lastmodified":1695886670,
     "wof:name":"Kota Bontang",
     "wof:parent_id":85671977,
     "wof:placetype":"county",

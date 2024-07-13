@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002758,
-    "geom:area_square_m":33785039.842415,
+    "geom:area_square_m":33785039.842364,
     "geom:bbox":"110.344803,-7.840125,110.406761,-7.767628",
     "geom:latitude":-7.803179,
     "geom:longitude":110.374376,
@@ -43,6 +43,9 @@
     "name:arg_x_preferred":[
         "Yogyakarta"
     ],
+    "name:arz_x_preferred":[
+        "\u064a\u0648\u062c\u064a\u0627\u0643\u0627\u0631\u062a\u0627"
+    ],
     "name:ast_x_preferred":[
         "Yogyakarta"
     ],
@@ -51,6 +54,9 @@
     ],
     "name:aze_x_preferred":[
         "Cokyakarta"
+    ],
+    "name:ban_x_preferred":[
+        "Kota Yogyakarta"
     ],
     "name:bar_x_preferred":[
         "Yogyakarta"
@@ -66,6 +72,9 @@
     ],
     "name:bre_x_preferred":[
         "Yogyakarta"
+    ],
+    "name:bul_x_preferred":[
+        "\u0414\u0436\u043e\u043a\u044f\u043a\u0430\u0440\u0442\u0430"
     ],
     "name:cat_x_preferred":[
         "Yogyakarta"
@@ -95,7 +104,8 @@
         "Yogyakarta"
     ],
     "name:eng_x_variant":[
-        "KOTA YOGYAKARTA"
+        "KOTA YOGYAKARTA",
+        "Yogyakarta City"
     ],
     "name:epo_x_preferred":[
         "Yogyakarta"
@@ -116,6 +126,9 @@
         "Yogyakarta"
     ],
     "name:frp_x_preferred":[
+        "Yogyakarta"
+    ],
+    "name:frr_x_preferred":[
         "Yogyakarta"
     ],
     "name:fur_x_preferred":[
@@ -165,6 +178,9 @@
     ],
     "name:ind_x_preferred":[
         "Yogyakarta"
+    ],
+    "name:ind_x_variant":[
+        "Kota Yogyakarta"
     ],
     "name:isl_x_preferred":[
         "Yogyakarta"
@@ -217,6 +233,9 @@
     "name:mai_x_preferred":[
         "\u092f\u094b\u0917\u094d\u092f\u0915\u0930\u094d\u0924\u093e"
     ],
+    "name:mal_x_preferred":[
+        "\u0d2f\u0d4b\u0d17\u0d4d\u0d2f\u0d15\u0d3e\u0d7c\u0d24\u0d4d\u0d24"
+    ],
     "name:mar_x_preferred":[
         "\u092f\u094b\u0917\u094d\u092f\u0915\u0930\u094d\u0924\u093e"
     ],
@@ -235,6 +254,9 @@
     "name:nan_x_preferred":[
         "Yogyakarta"
     ],
+    "name:nan_x_variant":[
+        "Yogyakarta Chh\u012b"
+    ],
     "name:nap_x_preferred":[
         "Yogyakarta"
     ],
@@ -246,6 +268,9 @@
     ],
     "name:nld_x_preferred":[
         "Jogjakarta"
+    ],
+    "name:nld_x_variant":[
+        "Yogyakarta"
     ],
     "name:nno_x_preferred":[
         "Yogyakarta"
@@ -316,8 +341,14 @@
     "name:swe_x_preferred":[
         "Yogyakarta"
     ],
+    "name:szl_x_preferred":[
+        "Yogyakarta"
+    ],
     "name:tam_x_preferred":[
         "\u0baf\u0bcb\u0b95\u0bcd\u0baf\u0bbe\u0b95\u0bcd\u0b95\u0bbe\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bbe"
+    ],
+    "name:tat_x_preferred":[
+        "\u0419\u043e\u043a\u044c\u044f\u043a\u0430\u0440\u0442\u0430"
     ],
     "name:tel_x_preferred":[
         "\u0c2f\u0c4b\u0c17\u0c4d\u0c2f\u0c15\u0c3e\u0c30\u0c4d\u0c1f\u0c3e"
@@ -405,11 +436,12 @@
         "hasc:id":"ID.YO.YO",
         "wd:id":"Q7568"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"50e211d922a6d14c635c9b839693d590",
+    "wof:geomhash":"d9524751cba1172c0b32f9c9bbf1422c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -426,7 +458,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1636502311,
+    "wof:lastmodified":1695886063,
     "wof:name":"Yogyakarta",
     "wof:parent_id":85672093,
     "wof:placetype":"county",

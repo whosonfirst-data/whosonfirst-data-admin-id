@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.525221,
-    "geom:area_square_m":18838499217.040051,
+    "geom:area_square_m":18838499217.038914,
     "geom:bbox":"135.929876,-3.261263,138.095494,-1.795704",
     "geom:latitude":-2.705952,
     "geom:longitude":137.006435,
@@ -43,6 +43,9 @@
     "name:ast_x_preferred":[
         "Waropen"
     ],
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Waropen"
+    ],
     "name:bar_x_preferred":[
         "Waropen"
     ],
@@ -74,7 +77,8 @@
         "Waropen"
     ],
     "name:eng_x_variant":[
-        "WAROPEN"
+        "WAROPEN",
+        "Waropen Regency"
     ],
     "name:epo_x_preferred":[
         "Waropen"
@@ -127,6 +131,9 @@
     "name:ind_x_preferred":[
         "Waropen"
     ],
+    "name:ind_x_variant":[
+        "Kabupaten Waropen"
+    ],
     "name:isl_x_preferred":[
         "Waropen"
     ],
@@ -135,6 +142,9 @@
     ],
     "name:jav_x_preferred":[
         "Waropen"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ef\u30ed\u30da\u30f3\u770c"
     ],
     "name:kon_x_preferred":[
         "Waropen"
@@ -156,6 +166,9 @@
     ],
     "name:msa_x_preferred":[
         "Kabupaten Waropen"
+    ],
+    "name:nan_x_preferred":[
+        "Waropen Ko\u0101n"
     ],
     "name:nap_x_preferred":[
         "Waropen"
@@ -285,11 +298,12 @@
         "hasc:id":"ID.PA.WR",
         "wd:id":"Q27815"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"fe2f09a4e8c87be2695bacfc2bb6199c",
+    "wof:geomhash":"d206eda80689bfaba80843b8ca6f0bdc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -306,7 +320,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614718070,
+    "wof:lastmodified":1695886514,
     "wof:name":"Waropen",
     "wof:parent_id":85672115,
     "wof:placetype":"county",

@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u0633\u0627\u0646\u0648\u0631 \u0628\u0627\u0644\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0633\u0627\u0646\u0648\u0631 \u0628\u0627\u0644\u0649"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09be\u09a8\u09c1\u09b0 \u09b8\u09c8\u0995\u09a4"
+    ],
     "name:ceb_x_preferred":[
         "Sanur"
     ],
@@ -28,6 +34,9 @@
     ],
     "name:deu_x_preferred":[
         "Sanur"
+    ],
+    "name:deu_x_variant":[
+        "Sanur Strand"
     ],
     "name:eng_x_preferred":[
         "Sanur"
@@ -46,6 +55,9 @@
     ],
     "name:jav_x_preferred":[
         "Pant\u00e9 Sanur"
+    ],
+    "name:jav_x_variant":[
+        "Sanur"
     ],
     "name:jpn_x_preferred":[
         "\u30b5\u30cc\u30fc\u30eb"
@@ -74,6 +86,9 @@
     "name:swe_x_preferred":[
         "Sanur"
     ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043d\u0443\u0440"
+    ],
     "name:zho_x_preferred":[
         "\u6c99\u52aa\u723e"
     ],
@@ -93,8 +108,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        102072583,
-        85672023
+        85672023,
+        102072583
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -124,7 +139,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614653715,
+    "wof:lastmodified":1690931492,
     "wof:name":"Sanur",
     "wof:parent_id":102072583,
     "wof:placetype":"locality",

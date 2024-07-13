@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.612233,
-    "geom:area_square_m":19710885921.107521,
+    "geom:area_square_m":19710885921.107475,
     "geom:bbox":"115.836128,-9.11251,119.341843,-6.57207",
     "geom:latitude":-8.607434,
     "geom:longitude":117.508888,
@@ -53,6 +53,9 @@
     ],
     "name:bcl_x_preferred":[
         "Sulnupan na Nusa tenggara"
+    ],
+    "name:bel_x_preferred":[
+        "\u0417\u0430\u0445\u043e\u0434\u043d\u044f\u044f \u041d\u0443\u0441\u0430-\u0422\u044d\u043d\u0433\u0430\u0440\u0430"
     ],
     "name:ben_x_preferred":[
         "\u0993\u09af\u09bc\u09c7\u09b8\u09cd\u099f \u09a8\u09c1\u09b8\u09be \u09a4\u09c7\u09a8\u0997\u09be\u09b0\u09be"
@@ -114,6 +117,9 @@
     "name:fra_x_preferred":[
         "Petites \u00celes de la Sonde occidentales"
     ],
+    "name:gle_x_preferred":[
+        "Nusa Tenggara Thiar"
+    ],
     "name:gor_x_preferred":[
         "Nusa Tenggara Barat"
     ],
@@ -129,11 +135,17 @@
     "name:heb_x_preferred":[
         "\u05e0\u05d5\u05e1\u05d4 \u05d8\u05e0\u05d2\u05d2\u05e8\u05d4 \u05d1\u05d0\u05e8\u05d0\u05d8"
     ],
+    "name:heb_x_variant":[
+        "\u05de\u05e2\u05e8\u05d1 \u05e0\u05d5\u05e1\u05d4 \u05d8\u05e0\u05d2\u05e8\u05d4"
+    ],
     "name:hin_x_preferred":[
         "\u092a\u0936\u094d\u091a\u093f\u092e \u0928\u0941\u0938\u093e \u0924\u0947\u0902\u0917\u093e\u0930\u093e"
     ],
     "name:hun_x_preferred":[
         "Nusa Tenggara Barat"
+    ],
+    "name:hyw_x_preferred":[
+        "\u0531\u0580\u0565\u0582\u0574\u057f\u0565\u0561\u0576 \u0546\u0578\u0582\u057d\u0561 \u0539\u0565\u0576\u056f\u0561\u0580\u0561"
     ],
     "name:ilo_x_preferred":[
         "Laud a Nusa Tenggara"
@@ -192,6 +204,9 @@
     ],
     "name:nan_x_preferred":[
         "Sai Nusa Tenggara"
+    ],
+    "name:nan_x_variant":[
+        "Sai Nusa Tenggara S\u00e9ng"
     ],
     "name:nld_x_preferred":[
         "West-Nusa Tenggara"
@@ -379,17 +394,19 @@
         "gn:id":1633792,
         "gp:id":2345726,
         "hasc:id":"ID.NB",
+        "iso:code":"ID-NB",
         "iso:id":"ID-NB",
         "qs:id":673020,
         "unlc:id":"ID-NB",
         "wd:id":"Q5062",
         "wk:page":"West Nusa Tenggara"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"03cd4164201a301876ece724cd27b6ad",
+    "wof:geomhash":"950c61340848d50a1ac5567eeac1f624",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -405,7 +422,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1636502340,
+    "wof:lastmodified":1695884929,
     "wof:name":"Nusa Tenggara Barat",
     "wof:parent_id":85632203,
     "wof:placetype":"region",

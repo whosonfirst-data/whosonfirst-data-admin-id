@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.157743,
-    "geom:area_square_m":1931911629.206541,
+    "geom:area_square_m":1931911629.206944,
     "geom:bbox":"110.754173,-8.21453,111.319305,-7.712325",
     "geom:latitude":-7.920321,
     "geom:longitude":111.000305,
@@ -43,6 +43,9 @@
     "name:ast_x_preferred":[
         "Wonogiri"
     ],
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Wonogiri"
+    ],
     "name:bar_x_preferred":[
         "Wonogiri"
     ],
@@ -74,7 +77,8 @@
         "Wonogiri"
     ],
     "name:eng_x_variant":[
-        "WONOGIRI"
+        "WONOGIRI",
+        "Wonogiri Regency"
     ],
     "name:epo_x_preferred":[
         "Wonogiri"
@@ -127,6 +131,9 @@
     "name:ind_x_preferred":[
         "Wonogiri"
     ],
+    "name:ind_x_variant":[
+        "Kabupaten Wonogiri"
+    ],
     "name:isl_x_preferred":[
         "Wonogiri"
     ],
@@ -135,6 +142,9 @@
     ],
     "name:jav_x_preferred":[
         "Kabupat\u00e8n Wanagiri"
+    ],
+    "name:jav_x_variant":[
+        "Wanagiri"
     ],
     "name:jpn_x_preferred":[
         "\u30a6\u30a9\u30ce\u30ae\u30ea\u770c"
@@ -159,6 +169,9 @@
     ],
     "name:msa_x_preferred":[
         "Wonogiri"
+    ],
+    "name:nan_x_preferred":[
+        "Wonogiri Ko\u0101n"
     ],
     "name:nap_x_preferred":[
         "Wonogiri"
@@ -244,6 +257,9 @@
     "name:wol_x_preferred":[
         "Wonogiri"
     ],
+    "name:zho_x_preferred":[
+        "\u6c83\u8bfa\u5409\u91cc\u53bf"
+    ],
     "name:zul_x_preferred":[
         "Wonogiri"
     ],
@@ -282,11 +298,12 @@
         "hasc:id":"ID.JT.WG",
         "wd:id":"Q10981"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"aa381498d4974863b55c5da29d4f6e9b",
+    "wof:geomhash":"fb08b292d610adedda876a36ee4625d1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -303,7 +320,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614717489,
+    "wof:lastmodified":1695886510,
     "wof:name":"Wonogiri",
     "wof:parent_id":85671987,
     "wof:placetype":"county",

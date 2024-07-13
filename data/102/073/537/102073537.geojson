@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.195659,
-    "geom:area_square_m":2410089837.022049,
+    "geom:area_square_m":2410089837.021654,
     "geom:bbox":"96.782036,4.722142,97.508675,5.268467",
     "geom:latitude":5.017542,
     "geom:longitude":97.16656,
@@ -34,6 +34,9 @@
     "name:ace_x_preferred":[
         "Kabupaten Ac\u00e8h Utara"
     ],
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Ac\u00e9h Utara"
+    ],
     "name:bel_x_preferred":[
         "\u0410\u043a\u0440\u0443\u0433\u0430 \u041f\u0430\u045e\u043d\u043e\u0447\u043d\u044b \u0410\u0447\u044d\u0445"
     ],
@@ -47,16 +50,23 @@
         "Aceh Utara"
     ],
     "name:eng_x_variant":[
-        "ACEH UTARA"
+        "ACEH UTARA",
+        "North Aceh Regency"
     ],
     "name:fra_x_preferred":[
         "Aceh Utara"
+    ],
+    "name:gle_x_preferred":[
+        "Aceh Thuaidh"
     ],
     "name:gor_x_preferred":[
         "Kabupaten Aceh Utara"
     ],
     "name:ind_x_preferred":[
         "Aceh Utara"
+    ],
+    "name:ind_x_variant":[
+        "Kabupaten Aceh Utara"
     ],
     "name:ita_x_preferred":[
         "Aceh Utara"
@@ -73,8 +83,14 @@
     "name:msa_x_preferred":[
         "Aceh Utara"
     ],
+    "name:nan_x_preferred":[
+        "Pak Aceh Ko\u0101n"
+    ],
     "name:nld_x_preferred":[
         "Aceh Utara"
+    ],
+    "name:nld_x_variant":[
+        "Noord-Atjeh"
     ],
     "name:por_x_preferred":[
         "Aceh do Norte"
@@ -87,6 +103,12 @@
     ],
     "name:swe_x_preferred":[
         "Kabupaten Aceh Utara"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0456\u0432\u043d\u0456\u0447\u043d\u0438\u0439 \u0410\u0447\u0435\u0445"
+    ],
+    "name:zho_x_preferred":[
+        "\u5317\u4e9e\u9f4a\u7e23"
     ],
     "qs:a0":"Indonesia",
     "qs:a0_lc":"IDN",
@@ -123,11 +145,12 @@
         "hasc:id":"ID.AC.AU",
         "wd:id":"Q5750"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"94e4a77dc87d27e215f973b8826bb35a",
+    "wof:geomhash":"4f35bfe733ee119168a172938fa4d654",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -144,7 +167,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614722139,
+    "wof:lastmodified":1695886538,
     "wof:name":"Aceh Utara",
     "wof:parent_id":85671973,
     "wof:placetype":"county",

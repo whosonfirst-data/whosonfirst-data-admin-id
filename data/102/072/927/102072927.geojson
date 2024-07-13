@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.3748,
-    "geom:area_square_m":4617798878.484945,
+    "geom:area_square_m":4617798878.486003,
     "geom:bbox":"104.541008,-5.268746,105.817131,-4.481218",
     "geom:latitude":-4.858518,
     "geom:longitude":105.27177,
@@ -31,6 +31,9 @@
     "mps:longitude":105.431232,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Lampung Tengah"
+    ],
     "name:ceb_x_preferred":[
         "Kabupaten Lampung Tengah"
     ],
@@ -41,13 +44,23 @@
         "Lampung Tengah"
     ],
     "name:eng_x_variant":[
-        "LAMPUNG TENGAH"
+        "LAMPUNG TENGAH",
+        "Central Lampung Regency"
     ],
     "name:fra_x_preferred":[
         "Lampung Tengah"
     ],
+    "name:fra_x_variant":[
+        "Lampung central"
+    ],
+    "name:gle_x_preferred":[
+        "Lampung L\u00e1ir"
+    ],
     "name:ind_x_preferred":[
         "Lampung Tengah"
+    ],
+    "name:ind_x_variant":[
+        "Kabupaten Lampung Tengah"
     ],
     "name:ita_x_preferred":[
         "Lampung Centrale"
@@ -55,11 +68,20 @@
     "name:jav_x_preferred":[
         "Kabupat\u00e8n Lampung Tengah"
     ],
+    "name:jav_x_variant":[
+        "Lampung Tengah"
+    ],
     "name:jpn_x_preferred":[
         "\u4e2d\u592e\u30e9\u30f3\u30d7\u30f3\u770c"
     ],
+    "name:min_x_preferred":[
+        "Kabupaten Lampung Tengah"
+    ],
     "name:msa_x_preferred":[
         "Kabupaten Lampung Tengah"
+    ],
+    "name:nan_x_preferred":[
+        "Tiong Lampung Ko\u0101n"
     ],
     "name:spa_x_preferred":[
         "Lampung Central"
@@ -67,8 +89,14 @@
     "name:spa_x_variant":[
         "Buleleng"
     ],
+    "name:sun_x_preferred":[
+        "Lampung Tengah"
+    ],
     "name:swe_x_preferred":[
         "Kabupaten Lampung Tengah"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e2d\u6960\u699c\u53bf"
     ],
     "qs:a0":"Indonesia",
     "qs:a0_lc":"IDN",
@@ -105,11 +133,12 @@
         "hasc:id":"ID.LA.LT",
         "wd:id":"Q8135"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"eb77c55f9096e1e7a41dda9a590afc8a",
+    "wof:geomhash":"6c97ed07b70c68452262b79e9bbbab75",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -126,7 +155,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614717218,
+    "wof:lastmodified":1695886509,
     "wof:name":"Lampung Tengah",
     "wof:parent_id":85672009,
     "wof:placetype":"county",

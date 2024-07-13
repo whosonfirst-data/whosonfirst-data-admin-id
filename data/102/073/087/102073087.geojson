@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030275,
-    "geom:area_square_m":374232298.341092,
+    "geom:area_square_m":374232298.341132,
     "geom:bbox":"125.016373,1.38863,125.295898,1.576463",
     "geom:latitude":1.481292,
     "geom:longitude":125.146527,
@@ -34,6 +34,9 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u062a\u0648\u0646\u063a"
     ],
+    "name:ban_x_preferred":[
+        "Kota Bitung"
+    ],
     "name:ben_x_preferred":[
         "\u09ac\u09be\u0987\u09a4\u09c1\u0982"
     ],
@@ -56,7 +59,11 @@
         "Bitung"
     ],
     "name:eng_x_variant":[
-        "KOTA BITUNG"
+        "KOTA BITUNG",
+        "Bitung City"
+    ],
+    "name:epo_x_preferred":[
+        "Bitung"
     ],
     "name:fas_x_preferred":[
         "\u0628\u06cc\u062a\u0648\u0646\u06af"
@@ -65,6 +72,9 @@
         "Bitung"
     ],
     "name:fra_x_preferred":[
+        "Bitung"
+    ],
+    "name:gle_x_preferred":[
         "Bitung"
     ],
     "name:gor_x_preferred":[
@@ -78,6 +88,9 @@
     ],
     "name:ind_x_preferred":[
         "Bitung"
+    ],
+    "name:ind_x_variant":[
+        "Kota Bitung"
     ],
     "name:ita_x_preferred":[
         "Bitung"
@@ -108,6 +121,9 @@
     ],
     "name:msa_x_preferred":[
         "Bandar Bitung"
+    ],
+    "name:nan_x_preferred":[
+        "Bitung Chh\u012b"
     ],
     "name:nld_x_preferred":[
         "Bitung"
@@ -142,6 +158,9 @@
     "name:tam_x_preferred":[
         "\u0baa\u0bbf\u0b9f\u0bc1\u0b99\u0bcd"
     ],
+    "name:tat_x_preferred":[
+        "\u0411\u0438\u0442\u0443\u04a3"
+    ],
     "name:tel_x_preferred":[
         "\u0c2c\u0c3f\u0c1f\u0c41\u0c02\u0c17\u0c4d"
     ],
@@ -156,6 +175,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0628\u06cc\u062a\u0648\u0646\u06af"
+    ],
+    "name:vec_x_preferred":[
+        "Bitung"
     ],
     "name:vie_x_preferred":[
         "Bitung"
@@ -198,11 +220,12 @@
         "hasc:id":"ID.SW.BI",
         "wd:id":"Q15845"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5406110aa96d301800af8aa3b7d2d4e7",
+    "wof:geomhash":"c6b8c8603c526b7024e51c8b0bc05369",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -219,7 +242,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614718465,
+    "wof:lastmodified":1695886517,
     "wof:name":"Bitung",
     "wof:parent_id":85672081,
     "wof:placetype":"county",

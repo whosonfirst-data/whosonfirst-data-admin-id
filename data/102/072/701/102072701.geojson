@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025366,
-    "geom:area_square_m":313654475.181201,
+    "geom:area_square_m":313654475.181328,
     "geom:bbox":"109.26609,-0.199029,109.436798,0.021021",
     "geom:latitude":-0.070614,
     "geom:longitude":109.353877,
     "iso:country":"ID",
+    "label:eng_x_preferred_longname":[
+        "Pontianak Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":-0.060959,
     "lbl:longitude":109.34697,
     "meso:admin_1":"KALIMANTAN BARAT",
@@ -39,6 +45,9 @@
     ],
     "name:azb_x_preferred":[
         "\u067e\u0648\u0646\u062a\u06cc\u0627\u0646\u0627\u06a9"
+    ],
+    "name:ban_x_preferred":[
+        "Pontianak"
     ],
     "name:ben_x_preferred":[
         "\u09aa\u09a8\u09cd\u099f\u09bf\u09af\u09bc\u09be\u09a8\u09be\u0995"
@@ -73,6 +82,9 @@
     "name:eng_x_preferred":[
         "Pontianak"
     ],
+    "name:eng_x_variant":[
+        "Pontianak City"
+    ],
     "name:epo_x_preferred":[
         "Pontianak"
     ],
@@ -86,6 +98,9 @@
         "Pontianak"
     ],
     "name:fra_x_preferred":[
+        "Pontianak"
+    ],
+    "name:gle_x_preferred":[
         "Pontianak"
     ],
     "name:gor_x_preferred":[
@@ -105,6 +120,9 @@
     ],
     "name:ind_x_preferred":[
         "Pontianak"
+    ],
+    "name:ind_x_variant":[
+        "Kota Pontianak"
     ],
     "name:ita_x_preferred":[
         "Pontianak"
@@ -132,6 +150,9 @@
     ],
     "name:mar_x_preferred":[
         "\u092a\u0901\u091f\u0940\u0928\u093e\u0915"
+    ],
+    "name:min_x_preferred":[
+        "Kota Pontianak"
     ],
     "name:mlg_x_preferred":[
         "Kota Pontianak"
@@ -172,11 +193,17 @@
     "name:spa_x_preferred":[
         "Pontianak"
     ],
+    "name:sun_x_preferred":[
+        "Kota Pontianak"
+    ],
     "name:swe_x_preferred":[
         "Pontianak"
     ],
     "name:tam_x_preferred":[
         "\u0baa\u0bcb\u0ba9\u0bcd\u0b9f\u0bbf\u0ba9\u0bbe\u0b95\u0bcd"
+    ],
+    "name:tat_x_preferred":[
+        "\u041f\u043e\u043d\u0442\u0438\u0430\u043d\u0430\u043a"
     ],
     "name:tel_x_preferred":[
         "\u0c2a\u0c4a\u0c02\u0c1f\u0c3f\u0c2f\u0c28\u0c15\u0c4d"
@@ -192,6 +219,9 @@
     ],
     "name:urd_x_preferred":[
         "\u067e\u0648\u0646\u0679\u06cc\u0627\u0646\u06a9"
+    ],
+    "name:vec_x_preferred":[
+        "Pontianak"
     ],
     "name:vie_x_preferred":[
         "Pontianak"
@@ -221,6 +251,18 @@
         "quattroshapes"
     ],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population_date":"2010-05-15",
+    "statoids:areakm":108,
+    "statoids:capital":"Pontianak",
+    "statoids:country":"ID",
+    "statoids:date":"2010-05-15",
+    "statoids:hasc":"ID.KB.PN",
+    "statoids:name":"Pontianak",
+    "statoids:population":554764,
+    "statoids:statoid":"ID.KB",
+    "statoids:timezone":"+7",
+    "statoids:type":"municipality",
     "wd:wordcount":850,
     "wof:belongsto":[
         102191569,
@@ -233,11 +275,12 @@
         "hasc:id":"ID.KB.PM",
         "wd:id":"Q14168"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6bb7a665d2f4e545fc97d2f9228a5d39",
+    "wof:geomhash":"af3360df452a7e7667743790855ec232",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -254,10 +297,12 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614715384,
+    "wof:lastmodified":1695886499,
     "wof:name":"Kota Pontianak",
     "wof:parent_id":85672005,
     "wof:placetype":"county",
+    "wof:population":554764,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:shortcode":"PM",
     "wof:superseded_by":[],

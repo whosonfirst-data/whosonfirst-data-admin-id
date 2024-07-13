@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.583716,
-    "geom:area_square_m":43897648705.720695,
+    "geom:area_square_m":43897648705.716751,
     "geom:bbox":"137.614639,-9.13134,141.021805,-6.801272",
     "geom:latitude":-7.843327,
     "geom:longitude":139.690874,
@@ -43,6 +43,9 @@
     "name:ast_x_preferred":[
         "Merauke"
     ],
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Merauke"
+    ],
     "name:bar_x_preferred":[
         "Merauke"
     ],
@@ -74,7 +77,8 @@
         "Merauke"
     ],
     "name:eng_x_variant":[
-        "MERAUKE"
+        "MERAUKE",
+        "Merauke Regency"
     ],
     "name:epo_x_preferred":[
         "Merauke"
@@ -130,6 +134,9 @@
     "name:ind_x_preferred":[
         "Merauke"
     ],
+    "name:ind_x_variant":[
+        "Kabupaten Merauke"
+    ],
     "name:isl_x_preferred":[
         "Merauke"
     ],
@@ -138,6 +145,9 @@
     ],
     "name:jav_x_preferred":[
         "Merauke"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e1\u30e9\u30a6\u30b1\u770c"
     ],
     "name:kon_x_preferred":[
         "Merauke"
@@ -159,6 +169,9 @@
     ],
     "name:msa_x_preferred":[
         "Kabupaten Merauke"
+    ],
+    "name:nan_x_preferred":[
+        "Merauke Ko\u0101n"
     ],
     "name:nap_x_preferred":[
         "Merauke"
@@ -226,6 +239,9 @@
     "name:swe_x_preferred":[
         "Merauke"
     ],
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e40\u0e21\u0e2d\u0e40\u0e23\u0e32\u0e40\u0e01"
+    ],
     "name:vec_x_preferred":[
         "Merauke"
     ],
@@ -286,11 +302,12 @@
         "hasc:id":"ID.PA.ME",
         "wd:id":"Q27693"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1763e46bba9af8c50292821ca8105ad9",
+    "wof:geomhash":"6b53608732d9865bac02b8074d78478a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -307,7 +324,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1636502307,
+    "wof:lastmodified":1695886060,
     "wof:name":"Merauke",
     "wof:parent_id":85672115,
     "wof:placetype":"county",

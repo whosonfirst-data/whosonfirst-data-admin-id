@@ -25,6 +25,12 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":16.0,
     "mz:tier_locality":4,
+    "name:ban_x_preferred":[
+        "Cikini"
+    ],
+    "name:ceb_x_preferred":[
+        "Kelurahan Cikini"
+    ],
     "name:deu_x_preferred":[
         "Cikini"
     ],
@@ -48,6 +54,9 @@
     ],
     "name:sun_x_preferred":[
         "Cikini"
+    ],
+    "name:swe_x_preferred":[
+        "Kelurahan Cikini"
     ],
     "name:unk_x_variant":[
         "Tjikini",
@@ -85,11 +94,11 @@
     "src:lbl:centroid":"yerbashapes",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85672001,
         102191569,
         85632203,
         102021905,
-        102073177,
-        85672001
+        102073177
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -124,7 +133,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614744804,
+    "wof:lastmodified":1690931371,
     "wof:name":"Cikini",
     "wof:parent_id":102021905,
     "wof:placetype":"neighbourhood",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019818,
-    "geom:area_square_m":243908705.334383,
+    "geom:area_square_m":243908705.334283,
     "geom:bbox":"131.954819,-5.767,132.80957,-5.13348",
     "geom:latitude":-5.553208,
     "geom:longitude":132.472601,
@@ -26,6 +26,12 @@
     "meso:name_local":"TUAL",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ban_x_preferred":[
+        "Kota Tual"
+    ],
+    "name:bjn_x_preferred":[
+        "Tual"
+    ],
     "name:cat_x_preferred":[
         "Tual"
     ],
@@ -39,7 +45,11 @@
         "Tual"
     ],
     "name:eng_x_variant":[
-        "TUAL"
+        "TUAL",
+        "Tual City"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0648\u0627\u0644"
     ],
     "name:fra_x_preferred":[
         "Tual"
@@ -47,14 +57,23 @@
     "name:ind_x_preferred":[
         "Tual"
     ],
+    "name:ind_x_variant":[
+        "Kota Tual"
+    ],
     "name:ita_x_preferred":[
         "Tual"
+    ],
+    "name:lav_x_preferred":[
+        "Tuala"
     ],
     "name:mlg_x_preferred":[
         "Kota Tual"
     ],
     "name:msa_x_preferred":[
         "Kota Tual"
+    ],
+    "name:nan_x_preferred":[
+        "Tual Chh\u012b"
     ],
     "name:nld_x_preferred":[
         "Tual"
@@ -70,6 +89,9 @@
     ],
     "name:swe_x_preferred":[
         "Tual"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0443\u0430\u043b"
     ],
     "name:zho_x_preferred":[
         "\u56fe\u963f\u5c14"
@@ -98,9 +120,10 @@
         "hasc:id":"ID.MA.TU",
         "wd:id":"Q18975"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:created":1482878532,
-    "wof:geomhash":"a7cba433ba1f74d1031d8697de302445",
+    "wof:geomhash":"f125ecf86ec1fd35210bc99d37fa4a5e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -117,7 +140,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614722603,
+    "wof:lastmodified":1695886546,
     "wof:name":"Tual",
     "wof:parent_id":85672097,
     "wof:placetype":"county",

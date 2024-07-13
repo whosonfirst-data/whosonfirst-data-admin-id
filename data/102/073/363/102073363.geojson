@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.122512,
-    "geom:area_square_m":1512169553.352118,
+    "geom:area_square_m":1512169553.352024,
     "geom:bbox":"102.36734,-3.61618,102.999382,-3.25303",
     "geom:latitude":-3.430772,
     "geom:longitude":102.69936,
@@ -31,6 +31,9 @@
     "mps:longitude":102.720904,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Rejang Lebong"
+    ],
     "name:ceb_x_preferred":[
         "Kabupaten Rejang Lebong"
     ],
@@ -41,19 +44,29 @@
         "Rejang Lebong"
     ],
     "name:eng_x_variant":[
-        "REJANGLEBONG"
+        "REJANGLEBONG",
+        "Rejang Lebong Regency"
     ],
     "name:fra_x_preferred":[
         "Rejang Lebong"
     ],
+    "name:gle_x_preferred":[
+        "Rejang Lebong"
+    ],
     "name:ind_x_preferred":[
         "Rejang Lebong"
+    ],
+    "name:ind_x_variant":[
+        "Kabupaten Rejang Lebong"
     ],
     "name:ita_x_preferred":[
         "Rejang Lebong"
     ],
     "name:jav_x_preferred":[
         "Kabupat\u00e8n Rejang Lebong"
+    ],
+    "name:jav_x_variant":[
+        "Rejang Lebong"
     ],
     "name:jpn_x_preferred":[
         "\u30ec\u30b8\u30e3\u30f3\u30fb\u30eb\u30dc\u30f3\u770c"
@@ -63,6 +76,9 @@
     ],
     "name:msa_x_preferred":[
         "Rejang Lebong"
+    ],
+    "name:nan_x_preferred":[
+        "Rejang Lebong Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Rejang Lebong"
@@ -78,6 +94,9 @@
     ],
     "name:zho_x_preferred":[
         "\u6cd7\u6c34"
+    ],
+    "name:zho_x_variant":[
+        "\u96f7\u6c5f\u00b7\u91cc\u90a6\u7e23"
     ],
     "qs:a0":"Indonesia",
     "qs:a0_lc":"IDN",
@@ -114,11 +133,12 @@
         "hasc:id":"ID.BE.RL",
         "wd:id":"Q8035"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e71840c563da3513b7b501d6b1b1df0e",
+    "wof:geomhash":"b2727c5b4c6eb3e1edb8c27dc67f34b5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -135,7 +155,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614720580,
+    "wof:lastmodified":1695886528,
     "wof:name":"Rejang Lebong",
     "wof:parent_id":85671991,
     "wof:placetype":"county",

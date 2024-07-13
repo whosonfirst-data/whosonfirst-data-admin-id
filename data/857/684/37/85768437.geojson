@@ -25,6 +25,9 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":4,
+    "name:ban_x_preferred":[
+        "Menteng"
+    ],
     "name:ceb_x_preferred":[
         "Kecamatan Menteng"
     ],
@@ -48,6 +51,9 @@
     ],
     "name:jav_x_preferred":[
         "M\u00e8nt\u00e8ng"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e1\u30f3\u30c6\u30f3"
     ],
     "name:msa_x_preferred":[
         "Menteng Atas"
@@ -109,11 +115,11 @@
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":2389,
     "wof:belongsto":[
+        85672001,
         102191569,
         85632203,
         102021905,
-        102073177,
-        85672001
+        102073177
     ],
     "wof:breaches":[
         85768435
@@ -149,7 +155,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614744817,
+    "wof:lastmodified":1690931372,
     "wof:name":"Menteng",
     "wof:parent_id":102021905,
     "wof:placetype":"neighbourhood",

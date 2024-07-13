@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.151547,
-    "geom:area_square_m":1871962620.333717,
+    "geom:area_square_m":1871962620.333548,
     "geom:bbox":"95.393997,2.05865,96.686729,2.98824",
     "geom:latitude":2.609113,
     "geom:longitude":96.083495,
@@ -43,6 +43,9 @@
     "name:ara_x_variant":[
         "\u062c\u0632\u064a\u0631\u0629 \u0633\u064a\u0645\u0648\u0644\u0648"
     ],
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Simeulue"
+    ],
     "name:bel_x_preferred":[
         "\u0412\u043e\u0441\u0442\u0440\u0430\u045e \u0421\u0456\u043c\u0451\u045e\u043b\u0443\u044d"
     ],
@@ -77,7 +80,8 @@
         "Simeulue"
     ],
     "name:eng_x_variant":[
-        "SIMEULUE"
+        "SIMEULUE",
+        "Simeulue Regency"
     ],
     "name:epo_x_preferred":[
         "Simeulue"
@@ -89,6 +93,9 @@
         "Simeulue"
     ],
     "name:fra_x_preferred":[
+        "Simeulue"
+    ],
+    "name:gle_x_preferred":[
         "Simeulue"
     ],
     "name:gor_x_preferred":[
@@ -107,7 +114,8 @@
         "Pulau Simeulue"
     ],
     "name:ind_x_variant":[
-        "Simeulue"
+        "Simeulue",
+        "Kabupaten Simeulue"
     ],
     "name:ita_x_preferred":[
         "Isola Simeulue"
@@ -138,6 +146,9 @@
     ],
     "name:msa_x_variant":[
         "Simeulue"
+    ],
+    "name:nan_x_preferred":[
+        "Simeulue Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Simeulue"
@@ -171,6 +182,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0456\u043c\u044c\u043e\u043b\u0443\u0435"
+    ],
+    "name:ukr_x_variant":[
+        "\u0421\u0456\u043c\u0435\u043b\u0443\u0435"
     ],
     "name:urd_x_preferred":[
         "\u0633\u0627\u0626\u06cc\u0645\u06cc\u0648\u0644"
@@ -220,11 +234,12 @@
         "hasc:id":"ID.AC.SI",
         "wd:id":"Q5757"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f145ee77b2cfd8ce6b8e2bd278528676",
+    "wof:geomhash":"955f75ab9784080f57bc6190074b97e8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -241,7 +256,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1636502307,
+    "wof:lastmodified":1695886060,
     "wof:name":"Simeulue",
     "wof:parent_id":85671973,
     "wof:placetype":"county",

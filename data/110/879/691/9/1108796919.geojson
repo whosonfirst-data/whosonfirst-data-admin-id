@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.424984,
-    "geom:area_square_m":5254771990.712122,
+    "geom:area_square_m":5254771990.71311,
     "geom:bbox":"101.026802,-0.98654,101.918594,-0.004192",
     "geom:latitude":-0.499872,
     "geom:longitude":101.518025,
@@ -37,6 +37,9 @@
     ],
     "name:ast_x_preferred":[
         "Kuantan Singingi"
+    ],
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Kuantan Singingi"
     ],
     "name:bar_x_preferred":[
         "Kuantan Singingi"
@@ -72,7 +75,8 @@
         "Kuantan Singingi"
     ],
     "name:eng_x_variant":[
-        "KUANTAN SINGINGI"
+        "KUANTAN SINGINGI",
+        "Kuantan Singingi Regency"
     ],
     "name:epo_x_preferred":[
         "Kuantan Singingi"
@@ -125,6 +129,9 @@
     "name:ind_x_preferred":[
         "Kuantan Singingi"
     ],
+    "name:ind_x_variant":[
+        "Kabupaten Kuantan Singingi"
+    ],
     "name:isl_x_preferred":[
         "Kuantan Singingi"
     ],
@@ -154,6 +161,9 @@
     ],
     "name:msa_x_preferred":[
         "Kuantan Singingi"
+    ],
+    "name:nan_x_preferred":[
+        "Kuantan Singingi Ko\u0101n"
     ],
     "name:nap_x_preferred":[
         "Kuantan Singingi"
@@ -242,6 +252,9 @@
     "name:wol_x_preferred":[
         "Kuantan Singingi"
     ],
+    "name:zho_x_preferred":[
+        "\u5173\u4e39\u8f9b\u91d1\u5409\u53bf"
+    ],
     "name:zul_x_preferred":[
         "Kuantan Singingi"
     ],
@@ -269,9 +282,10 @@
         "hasc:id":"ID.RI.KS",
         "wd:id":"Q7626"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:created":1482878598,
-    "wof:geomhash":"772bb50fda3b4f2b170136b65b0c7125",
+    "wof:geomhash":"aa8ecd3cdb4fc8d579d0a34451ab0322",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -288,7 +302,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614722870,
+    "wof:lastmodified":1695886551,
     "wof:name":"Kuantan Singingi",
     "wof:parent_id":85672077,
     "wof:placetype":"county",

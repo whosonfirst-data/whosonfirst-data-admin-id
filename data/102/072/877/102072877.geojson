@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0199,
-    "geom:area_square_m":245471338.444882,
+    "geom:area_square_m":245471338.444716,
     "geom:bbox":"122.439232,-4.078922,122.647125,-3.905536",
     "geom:latitude":-3.991231,
     "geom:longitude":122.535,
     "iso:country":"ID",
+    "label:eng_x_preferred_longname":[
+        "Kota Kendari Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":-3.991177,
     "lbl:longitude":122.493098,
     "meso:admin_1":"SULAWESI TENGGARA",
@@ -56,11 +62,12 @@
     "wof:concordances":{
         "hasc:id":"ID.SG.KM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"64a502209583d8cc855eba73ec6f00e1",
+    "wof:geomhash":"fa54613f5c650c9feb7862c29339ef78",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +84,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1627522194,
+    "wof:lastmodified":1695886673,
     "wof:name":"Kota Kendari",
     "wof:parent_id":85672105,
     "wof:placetype":"county",

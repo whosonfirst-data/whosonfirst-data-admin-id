@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.808681,
-    "geom:area_square_m":9981067826.630793,
+    "geom:area_square_m":9981067826.630871,
     "geom:bbox":"138.095494,-3.969344,139.35832,-2.900304",
     "geom:latitude":-3.470266,
     "geom:longitude":138.606395,
@@ -43,6 +43,9 @@
     "name:ast_x_preferred":[
         "Tolikara"
     ],
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Tolikara"
+    ],
     "name:bar_x_preferred":[
         "Tolikara"
     ],
@@ -74,7 +77,8 @@
         "Tolikara"
     ],
     "name:eng_x_variant":[
-        "TOLIKARA"
+        "TOLIKARA",
+        "Tolikara Regency"
     ],
     "name:epo_x_preferred":[
         "Tolikara"
@@ -127,6 +131,9 @@
     "name:ind_x_preferred":[
         "Tolikara"
     ],
+    "name:ind_x_variant":[
+        "Kabupaten Tolikara"
+    ],
     "name:isl_x_preferred":[
         "Tolikara"
     ],
@@ -135,6 +142,9 @@
     ],
     "name:jav_x_preferred":[
         "Tolikara"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c8\u30ea\u30ab\u30e9\u770c"
     ],
     "name:kon_x_preferred":[
         "Tolikara"
@@ -156,6 +166,9 @@
     ],
     "name:msa_x_preferred":[
         "Kabupaten Tolikara"
+    ],
+    "name:nan_x_preferred":[
+        "Tolikara Ko\u0101n"
     ],
     "name:nap_x_preferred":[
         "Tolikara"
@@ -282,11 +295,12 @@
         "hasc:id":"ID.PA.TO",
         "wd:id":"Q27802"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3ceea2a45b6f2fa9f4719b00ece7e3db",
+    "wof:geomhash":"1d698a7821c2c396332b57b07bf9408b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -303,7 +317,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614718730,
+    "wof:lastmodified":1695886519,
     "wof:name":"Tolikara",
     "wof:parent_id":85672115,
     "wof:placetype":"county",

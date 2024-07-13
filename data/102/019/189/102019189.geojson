@@ -9,6 +9,7 @@
     "geom:bbox":"128.624419,-3.593742,128.675386,-3.564683",
     "geom:latitude":-3.578597,
     "geom:longitude":128.652198,
+    "gp:adm0":23424846,
     "iso:country":"ID",
     "lbl:latitude":-3.573731,
     "lbl:longitude":128.655232,
@@ -16,8 +17,12 @@
     "mps:longitude":128.655232,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ara_x_preferred":[
         "\u062c\u0632\u064a\u0631\u0629 \u0633\u0627\u0628\u0627\u0631\u0648\u0627"
+    ],
+    "name:arz_x_preferred":[
+        "\u062c\u0632\u064a\u0631\u0647 \u0633\u0627\u0628\u0627\u0631\u0648\u0627"
     ],
     "name:ceb_x_preferred":[
         "Pulau Saparua"
@@ -27,6 +32,9 @@
     ],
     "name:eng_x_preferred":[
         "Saparua"
+    ],
+    "name:eng_x_variant":[
+        "Saparua Island"
     ],
     "name:fin_x_preferred":[
         "Saparua"
@@ -80,7 +88,18 @@
     "qs:level":"locality",
     "qs:loc":"Saparua",
     "qs:loc_lc":"1628682",
+    "qs:name":"Saparua",
+    "qs:name_adm0":"Indonesia",
+    "qs:name_adm1":"Maluku",
+    "qs:photos":243,
+    "qs:photos_1k":49,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":243,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
     "qs:pop":0,
+    "qs:pop_sr":"0",
     "qs:source":"Nquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
@@ -97,7 +116,23 @@
         "gn:id":1628682,
         "gp:id":1048292,
         "qs:id":276748,
-        "wd:id":"Q1584814"
+        "qs_pg:id":276748,
+        "wd:id":"Q1584814",
+        "wk:page":"Saparua"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1628682
+        ],
+        "gp:id":[
+            1048292
+        ],
+        "qs:id":[
+            1106841
+        ],
+        "wd:id":[
+            "Q1584814"
+        ]
     },
     "wof:country":"ID",
     "wof:geomhash":"e19982ec8fa51586b083559de3d452b3",
@@ -118,13 +153,15 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614712908,
+    "wof:lastmodified":1706239765,
     "wof:name":"Saparua",
     "wof:parent_id":1108796833,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        890498617
+    ],
     "wof:tags":[]
 },
   "bbox": [

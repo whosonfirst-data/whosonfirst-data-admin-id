@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.092497,
-    "geom:area_square_m":1133949254.249167,
+    "geom:area_square_m":1133949254.24908,
     "geom:bbox":"110.043877,-7.706881,110.446075,-7.320172",
     "geom:latitude":-7.501592,
     "geom:longitude":110.247059,
@@ -37,6 +37,9 @@
     "name:ara_x_preferred":[
         "\u0645\u062c\u0644\u0627\u0646\u063a"
     ],
+    "name:ban_x_preferred":[
+        "Kota Magelang"
+    ],
     "name:ben_x_preferred":[
         "\u09ae\u09be\u0997\u09c7\u09b2\u09be\u0982"
     ],
@@ -65,7 +68,11 @@
         "Magelang"
     ],
     "name:eng_x_variant":[
-        "MAGELANG"
+        "MAGELANG",
+        "Magelang City"
+    ],
+    "name:epo_x_preferred":[
+        "Magelang"
     ],
     "name:fas_x_preferred":[
         "\u0645\u0627\u06af\u0644\u0627\u0646\u06af"
@@ -76,8 +83,14 @@
     "name:fra_x_preferred":[
         "Magelang"
     ],
+    "name:gle_x_preferred":[
+        "Magelang"
+    ],
     "name:guj_x_preferred":[
         "\u0aae\u0ac7\u0a97\u0ac7\u0ab2\u0a82\u0a97"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d0\u05d2\u05dc\u05d0\u05e0\u05d2"
     ],
     "name:hin_x_preferred":[
         "\u092e\u0917\u0932\u093e\u0902\u0917"
@@ -87,6 +100,9 @@
     ],
     "name:ind_x_preferred":[
         "Magelang"
+    ],
+    "name:ind_x_variant":[
+        "Kota Magelang"
     ],
     "name:ita_x_preferred":[
         "Magelang"
@@ -111,6 +127,9 @@
     ],
     "name:lit_x_preferred":[
         "Megalngas"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d2e\u0d17\u0d46\u0d32\u0d3e\u0d19\u0d4d"
     ],
     "name:mar_x_preferred":[
         "\u092e\u093e\u0917\u0947\u0932\u0901\u0917"
@@ -157,8 +176,14 @@
     "name:swe_x_preferred":[
         "Magelang"
     ],
+    "name:szl_x_preferred":[
+        "Mageleng"
+    ],
     "name:tam_x_preferred":[
         "\u0bae\u0b95\u0bb2\u0bbe\u0b99\u0bcd"
+    ],
+    "name:tat_x_preferred":[
+        "\u041c\u0430\u0433\u0435\u043b\u0430\u04a3"
     ],
     "name:tel_x_preferred":[
         "\u0c2e\u0c17\u0c47\u0c32\u0c02\u0c17\u0c4d"
@@ -174,6 +199,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0645\u0627\u06af\u06cc\u0644\u0627\u0646\u06af"
+    ],
+    "name:vec_x_preferred":[
+        "Magelang"
     ],
     "name:vie_x_preferred":[
         "Magelang"
@@ -220,11 +248,12 @@
         "hasc:id":"ID.JT.MR",
         "wd:id":"Q11017"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"28558cb1fc2b9573ad733cebef1a265f",
+    "wof:geomhash":"3ad3ca89fb87107576fa17b19da4f24c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -241,7 +270,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1636502308,
+    "wof:lastmodified":1695886061,
     "wof:name":"Magelang",
     "wof:parent_id":85671987,
     "wof:placetype":"county",

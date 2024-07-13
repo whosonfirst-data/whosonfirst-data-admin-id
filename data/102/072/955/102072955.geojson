@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.801258,
-    "geom:area_square_m":9889998318.74995,
+    "geom:area_square_m":9889998318.749552,
     "geom:bbox":"134.64488,-3.945891,136.244319,-2.68465",
     "geom:latitude":-3.418173,
     "geom:longitude":135.475621,
@@ -43,6 +43,9 @@
     "name:ast_x_preferred":[
         "Nabire"
     ],
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Nabire"
+    ],
     "name:bar_x_preferred":[
         "Nabire"
     ],
@@ -74,7 +77,8 @@
         "Nabire"
     ],
     "name:eng_x_variant":[
-        "NABIRE"
+        "NABIRE",
+        "Nabire Regency"
     ],
     "name:epo_x_preferred":[
         "Nabire"
@@ -136,6 +140,9 @@
     "name:ind_x_preferred":[
         "Nabire"
     ],
+    "name:ind_x_variant":[
+        "Kabupaten Nabire"
+    ],
     "name:isl_x_preferred":[
         "Nabire"
     ],
@@ -147,6 +154,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30ca\u30d3\u30ec"
+    ],
+    "name:jpn_x_variant":[
+        "\u30ca\u30d3\u30ec\u770c"
     ],
     "name:kon_x_preferred":[
         "Nabire"
@@ -171,6 +181,9 @@
     ],
     "name:msa_x_preferred":[
         "Kabupaten Nabire"
+    ],
+    "name:nan_x_preferred":[
+        "Nabire Ko\u0101n"
     ],
     "name:nap_x_preferred":[
         "Nabire"
@@ -240,6 +253,9 @@
     ],
     "name:swe_x_preferred":[
         "Nabire"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e19\u0e32\u0e1a\u0e35\u0e40\u0e23"
     ],
     "name:tur_x_preferred":[
         "Nabire"
@@ -315,11 +331,12 @@
         "hasc:id":"ID.PA.NB",
         "wd:id":"Q27708"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"daaa09b4df120fa10a0125097daa892c",
+    "wof:geomhash":"077e6129d51bdc8133fa80c2357678d9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -336,7 +353,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1636502308,
+    "wof:lastmodified":1695886061,
     "wof:name":"Nabire",
     "wof:parent_id":85672115,
     "wof:placetype":"county",

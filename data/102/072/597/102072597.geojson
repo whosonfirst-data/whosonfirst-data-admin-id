@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015793,
-    "geom:area_square_m":195210391.609941,
+    "geom:area_square_m":195210391.609814,
     "geom:bbox":"124.679153,1.430159,124.946495,1.65354",
     "geom:latitude":1.525931,
     "geom:longitude":124.86063,
@@ -43,11 +43,17 @@
     "name:azb_x_preferred":[
         "\u0645\u0627\u0646\u0627\u062f\u0648\u06a9\u0646\u062f"
     ],
+    "name:ban_x_preferred":[
+        "Manado"
+    ],
     "name:bcl_x_preferred":[
         "Manado"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041c\u0430\u043d\u0430\u0434\u0430"
+    ],
+    "name:bel_x_variant":[
+        "\u041c\u0430\u043d\u0430\u0434\u0430"
     ],
     "name:ben_x_preferred":[
         "\u09ae\u09be\u09a8\u09be\u09a6\u09cb"
@@ -74,9 +80,13 @@
         "Manado"
     ],
     "name:eng_x_variant":[
-        "KOTA MANADO"
+        "KOTA MANADO",
+        "Manado City"
     ],
     "name:epo_x_preferred":[
+        "Manado"
+    ],
+    "name:est_x_preferred":[
         "Manado"
     ],
     "name:eus_x_preferred":[
@@ -91,11 +101,17 @@
     "name:fra_x_preferred":[
         "Manado"
     ],
+    "name:gle_x_preferred":[
+        "Manado"
+    ],
     "name:gor_x_preferred":[
         "Kota Manado"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0abe\u0aa8\u0aa1\u0acb"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d0\u05e0\u05d0\u05d3\u05d5"
     ],
     "name:hin_x_preferred":[
         "\u092e\u093e\u0928\u0926\u094b"
@@ -103,8 +119,14 @@
     "name:hun_x_preferred":[
         "Manado"
     ],
+    "name:hye_x_preferred":[
+        "\u0544\u0561\u0576\u0561\u0564\u0578"
+    ],
     "name:ind_x_preferred":[
         "Manado"
+    ],
+    "name:ind_x_variant":[
+        "Kota Manado"
     ],
     "name:ita_x_preferred":[
         "Manado"
@@ -133,11 +155,17 @@
     "name:mar_x_preferred":[
         "\u092e\u093e\u0928\u0926\u094b"
     ],
+    "name:min_x_preferred":[
+        "Kota Manado"
+    ],
     "name:mlg_x_preferred":[
         "Kota Manado"
     ],
     "name:msa_x_preferred":[
         "Manado"
+    ],
+    "name:mya_x_preferred":[
+        "\u1019\u102c\u1014\u102c\u1012\u102d\u102f\u1019\u103c\u102d\u102f\u1037"
     ],
     "name:nan_x_preferred":[
         "Manado"
@@ -175,11 +203,20 @@
     "name:srp_x_preferred":[
         "\u041c\u0430\u043d\u0430\u0434\u043e"
     ],
+    "name:sun_x_preferred":[
+        "Kota Manado"
+    ],
     "name:swe_x_preferred":[
+        "Manado"
+    ],
+    "name:szl_x_preferred":[
         "Manado"
     ],
     "name:tam_x_preferred":[
         "\u0bae\u0bbe\u0ba8\u0bbe\u0b9f\u0bca"
+    ],
+    "name:tat_x_preferred":[
+        "\u041c\u0430\u043d\u0430\u0434\u043e"
     ],
     "name:tel_x_preferred":[
         "\u0c2e\u0c28\u0c21\u0c4b"
@@ -195,6 +232,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0645\u0627\u0646\u0627\u062f\u0648"
+    ],
+    "name:vec_x_preferred":[
+        "Manado"
     ],
     "name:vie_x_preferred":[
         "Manado"
@@ -249,11 +289,12 @@
         "hasc:id":"ID.SW.MA",
         "wd:id":"Q15847"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e1d440cede7287a1cb104ce189691ff0",
+    "wof:geomhash":"a8d663181dc5299b21e20d5f94cb160c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -270,7 +311,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614714704,
+    "wof:lastmodified":1695886496,
     "wof:name":"Manado",
     "wof:parent_id":85672081,
     "wof:placetype":"county",

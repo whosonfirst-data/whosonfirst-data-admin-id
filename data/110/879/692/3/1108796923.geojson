@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.72169,
-    "geom:area_square_m":8919485824.770008,
+    "geom:area_square_m":8919485824.769714,
     "geom:bbox":"100.279137,1.22945,101.340797,2.543851",
     "geom:latitude":1.767438,
     "geom:longitude":100.751872,
@@ -37,6 +37,9 @@
     ],
     "name:ast_x_preferred":[
         "Rokan Hilir"
+    ],
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Rokan Hilir"
     ],
     "name:bar_x_preferred":[
         "Rokan Hilir"
@@ -72,7 +75,8 @@
         "Rokan Hilir"
     ],
     "name:eng_x_variant":[
-        "ROKANHILIR"
+        "ROKANHILIR",
+        "Rokan Hilir Regency"
     ],
     "name:epo_x_preferred":[
         "Rokan Hilir"
@@ -125,6 +129,9 @@
     "name:ind_x_preferred":[
         "Rokan Hilir"
     ],
+    "name:ind_x_variant":[
+        "Kabupaten Rokan Hilir"
+    ],
     "name:isl_x_preferred":[
         "Rokan Hilir"
     ],
@@ -154,6 +161,9 @@
     ],
     "name:msa_x_preferred":[
         "Rokan Hilir"
+    ],
+    "name:nan_x_preferred":[
+        "Rokan Hilir Ko\u0101n"
     ],
     "name:nap_x_preferred":[
         "Rokan Hilir"
@@ -242,6 +252,9 @@
     "name:wol_x_preferred":[
         "Rokan Hilir"
     ],
+    "name:zho_x_preferred":[
+        "\u4e0b\u7f57\u5e72\u53bf"
+    ],
     "name:zul_x_preferred":[
         "Rokan Hilir"
     ],
@@ -269,9 +282,10 @@
         "hasc:id":"ID.RI.RI",
         "wd:id":"Q7759"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:created":1482878602,
-    "wof:geomhash":"3acfd374ab526333b30a00de452aa910",
+    "wof:geomhash":"3b69a2c8afd6b432e78d3fe1937c07c4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -288,7 +302,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614722884,
+    "wof:lastmodified":1695886552,
     "wof:name":"Rokan Hilir",
     "wof:parent_id":85672077,
     "wof:placetype":"county",

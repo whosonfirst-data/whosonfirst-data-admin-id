@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.144254,
-    "geom:area_square_m":14135470234.346596,
+    "geom:area_square_m":14135470234.345619,
     "geom:bbox":"138.152797,-3.485114,140.113956,-1.640344",
     "geom:latitude":-2.462251,
     "geom:longitude":139.022583,
@@ -43,6 +43,9 @@
     "name:ast_x_preferred":[
         "Sarmi"
     ],
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Sarmi"
+    ],
     "name:bar_x_preferred":[
         "Sarmi"
     ],
@@ -74,7 +77,8 @@
         "Sarmi"
     ],
     "name:eng_x_variant":[
-        "SARMI"
+        "SARMI",
+        "Sarmi Regency"
     ],
     "name:epo_x_preferred":[
         "Sarmi"
@@ -127,6 +131,9 @@
     "name:ind_x_preferred":[
         "Sarmi"
     ],
+    "name:ind_x_variant":[
+        "Kabupaten Sarmi"
+    ],
     "name:isl_x_preferred":[
         "Sarmi"
     ],
@@ -162,6 +169,9 @@
     ],
     "name:msa_x_variant":[
         "Kabupaten Sarmi"
+    ],
+    "name:nan_x_preferred":[
+        "Sarmi Ko\u0101n"
     ],
     "name:nap_x_preferred":[
         "Sarmi"
@@ -295,11 +305,12 @@
         "hasc:id":"ID.PA.SR",
         "wd:id":"Q27784"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"738e299abb6c51b1e41c678c78119f7b",
+    "wof:geomhash":"a224f0002a8504f4048ae2fa166102dd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -316,7 +327,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614717598,
+    "wof:lastmodified":1695886510,
     "wof:name":"Sarmi",
     "wof:parent_id":85672115,
     "wof:placetype":"county",

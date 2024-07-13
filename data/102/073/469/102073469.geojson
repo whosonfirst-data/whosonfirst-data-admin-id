@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.046374,
-    "geom:area_square_m":568096654.265229,
+    "geom:area_square_m":568096654.265531,
     "geom:bbox":"110.003609,-7.981,110.274155,-7.642032",
     "geom:latitude":-7.816777,
     "geom:longitude":110.167475,
@@ -43,6 +43,9 @@
     "name:ast_x_preferred":[
         "Kulon Progo"
     ],
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Kulon Progo"
+    ],
     "name:bar_x_preferred":[
         "Kulon Progo"
     ],
@@ -74,7 +77,8 @@
         "Kulon Progo"
     ],
     "name:eng_x_variant":[
-        "KULONPROGO"
+        "KULONPROGO",
+        "Kulon Progo Regency"
     ],
     "name:epo_x_preferred":[
         "Kulon Progo"
@@ -127,6 +131,9 @@
     "name:ind_x_preferred":[
         "Kulon Progo"
     ],
+    "name:ind_x_variant":[
+        "Kabupaten Kulon Progo"
+    ],
     "name:isl_x_preferred":[
         "Kulon Progo"
     ],
@@ -135,6 +142,9 @@
     ],
     "name:jav_x_preferred":[
         "Kabupat\u00e8n Kulonpraga"
+    ],
+    "name:jav_x_variant":[
+        "Kulonpraga"
     ],
     "name:jpn_x_preferred":[
         "\u30af\u30ed\u30f3\u30d7\u30ed\u30b4\u770c"
@@ -159,6 +169,9 @@
     ],
     "name:msa_x_preferred":[
         "Kabupaten Kulon Progo"
+    ],
+    "name:nan_x_preferred":[
+        "Kulon Progo Ko\u0101n"
     ],
     "name:nap_x_preferred":[
         "Kulon Progo"
@@ -223,6 +236,9 @@
     "name:sun_x_preferred":[
         "Kabupat\u00e9n Kulon Progo"
     ],
+    "name:sun_x_variant":[
+        "Kulon Progo"
+    ],
     "name:swa_x_preferred":[
         "Kulon Progo"
     ],
@@ -246,6 +262,9 @@
     ],
     "name:wol_x_preferred":[
         "Kulon Progo"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e93\u4f26\u5e15\u7f57\u679c"
     ],
     "name:zul_x_preferred":[
         "Kulon Progo"
@@ -285,11 +304,12 @@
         "hasc:id":"ID.YO.KP",
         "wd:id":"Q11479"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8fb150ad6762a49f2f6b64359e2f2b59",
+    "wof:geomhash":"ab82f934d54734d46b95fc4468926b08",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -306,7 +326,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614721365,
+    "wof:lastmodified":1695886534,
     "wof:name":"Kulon Progo",
     "wof:parent_id":85672093,
     "wof:placetype":"county",

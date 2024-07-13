@@ -9,12 +9,23 @@
     "geom:bbox":"106.482239,-6.279237,106.553254,-6.195168",
     "geom:latitude":-6.237885,
     "geom:longitude":106.520228,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Cikupa",
+    "gn:cc2":"ID",
     "gn:country":"ID",
+    "gn:country_code":"ID",
+    "gn:dem":33,
     "gn:fcode":"PPL",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1646575,
     "gn:latitude":-6.23639,
     "gn:longitude":106.50833,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Cikupa",
     "gn:pop":0,
     "gn:population":174041,
+    "gn:timezone":"Asia/Jakarta",
     "iso:country":"ID",
     "lbl:latitude":-6.261541,
     "lbl:longitude":106.522003,
@@ -22,6 +33,10 @@
     "mps:longitude":106.522003,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
+    "name:ban_x_preferred":[
+        "Cikupa"
+    ],
     "name:deu_x_preferred":[
         "Cikupa"
     ],
@@ -40,6 +55,9 @@
     "name:jav_x_preferred":[
         "Cikupa"
     ],
+    "name:mlg_x_preferred":[
+        "Cikupa"
+    ],
     "name:msa_x_preferred":[
         "Cikupa"
     ],
@@ -50,6 +68,12 @@
         "Cikupa"
     ],
     "name:nor_x_preferred":[
+        "Cikupa"
+    ],
+    "name:und_x_variant":[
+        "Tjikupa",
+        "Cikupa 2",
+        "Tjikupa 2",
         "Cikupa"
     ],
     "name:unk_x_variant":[
@@ -88,6 +112,11 @@
         "wd:id":"Q2143853",
         "wk:page":"Cikupa"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1646575
+        ]
+    },
     "wof:country":"ID",
     "wof:geomhash":"f42cb92bbb02efa08902dc3c5dcdcadb",
     "wof:hierarchy":[
@@ -107,7 +136,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614723120,
+    "wof:lastmodified":1706239772,
     "wof:name":"Cikupa",
     "wof:parent_id":102072687,
     "wof:placetype":"locality",
@@ -117,7 +146,8 @@
     "wof:superseded_by":[],
     "wof:supersedes":[
         102021899,
-        102021321
+        102021321,
+        1293340177
     ],
     "wof:tags":[]
 },

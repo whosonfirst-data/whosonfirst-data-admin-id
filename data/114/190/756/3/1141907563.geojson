@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"109.015402,-7.71882,109.015402,-7.71882",
@@ -13,13 +15,16 @@
     "lbl:latitude":-7.71882,
     "lbl:longitude":109.015402,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":13.0,
     "name:ara_x_preferred":[
         "\u0633\u064a\u0644\u0627\u0643\u0627\u0628"
     ],
     "name:ben_x_preferred":[
         "\u09b8\u09bf\u09b2\u09be\u0995\u09cd\u09af\u09be\u09aa"
+    ],
+    "name:ceb_x_preferred":[
+        "Kelurahan Cilacap"
     ],
     "name:deu_x_preferred":[
         "Cilacap"
@@ -34,6 +39,9 @@
         "\u0633\u06cc\u0644\u0627\u06a9\u0627\u067e"
     ],
     "name:fra_x_preferred":[
+        "Cilacap"
+    ],
+    "name:gor_x_preferred":[
         "Cilacap"
     ],
     "name:heb_x_preferred":[
@@ -84,8 +92,14 @@
     "name:swe_x_preferred":[
         "Cilacap"
     ],
+    "name:swe_x_variant":[
+        "Kelurahan Cilacap"
+    ],
     "name:tur_x_preferred":[
         "Cilacap"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0438\u043b\u0430\u0447\u0430\u043f"
     ],
     "name:urd_x_preferred":[
         "\u0633\u06cc\u0644\u0627\u06a9\u06cc\u067e"
@@ -225,12 +239,14 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1636502474,
+    "wof:lastmodified":1706239767,
     "wof:name":"Cilacap",
     "wof:parent_id":102072819,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        102020663
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

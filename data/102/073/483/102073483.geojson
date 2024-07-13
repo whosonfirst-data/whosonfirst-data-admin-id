@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002986,
-    "geom:area_square_m":36585004.037107,
+    "geom:area_square_m":36585004.037096,
     "geom:bbox":"110.571564,-7.750001,110.64518,-7.674758",
     "geom:latitude":-7.709425,
     "geom:longitude":110.602463,
     "iso:country":"ID",
+    "label:eng_x_preferred_longname":[
+        "Kota Klaten Regency"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "regency"
+    ],
     "lbl:latitude":-7.714626,
     "lbl:longitude":110.59994,
     "meso:admin_1":"JAWA TENGAH",
@@ -56,11 +62,12 @@
     "wof:concordances":{
         "hasc:id":"ID.JT.KL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c93b8200a5eeae3310b1fd46874a27e0",
+    "wof:geomhash":"c4969fe2e455cb10bddcc6ac39a0a699",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +84,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1627522194,
+    "wof:lastmodified":1695886673,
     "wof:name":"Kota Klaten",
     "wof:parent_id":85671987,
     "wof:placetype":"county",

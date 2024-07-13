@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.799854,
-    "geom:area_square_m":9875526607.953667,
+    "geom:area_square_m":9875526607.952911,
     "geom:bbox":"131.55954,-3.911832,133.534409,-2.623453",
     "geom:latitude":-3.118198,
     "geom:longitude":132.858948,
@@ -43,6 +43,9 @@
     "name:ast_x_preferred":[
         "Fakfak"
     ],
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Fakfak"
+    ],
     "name:bar_x_preferred":[
         "Fakfak"
     ],
@@ -75,7 +78,8 @@
     ],
     "name:eng_x_variant":[
         "FAKFAK",
-        "Fakfak"
+        "Fakfak",
+        "Fakfak Regency"
     ],
     "name:epo_x_preferred":[
         "Fakfak"
@@ -128,6 +132,9 @@
     "name:ind_x_preferred":[
         "Fakfak"
     ],
+    "name:ind_x_variant":[
+        "Kabupaten Fakfak"
+    ],
     "name:isl_x_preferred":[
         "Fakfak"
     ],
@@ -160,6 +167,9 @@
     ],
     "name:msa_x_preferred":[
         "Kabupaten Fakfak"
+    ],
+    "name:nan_x_preferred":[
+        "Fakfak Ko\u0101n"
     ],
     "name:nap_x_preferred":[
         "Fakfak"
@@ -293,11 +303,12 @@
         "hasc:id":"ID.IB.FA",
         "wd:id":"Q26727"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"09cafde3aaf6988cf2df292937bf6e44",
+    "wof:geomhash":"5485ad9a844ba1b814d9c13abfe60b38",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -314,7 +325,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614718123,
+    "wof:lastmodified":1695886515,
     "wof:name":"Fak-Fak",
     "wof:parent_id":85672067,
     "wof:placetype":"county",

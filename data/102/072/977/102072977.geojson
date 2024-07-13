@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023743,
-    "geom:area_square_m":292272555.103061,
+    "geom:area_square_m":292272555.102998,
     "geom:bbox":"122.560867,-5.536975,122.769585,-5.3048",
     "geom:latitude":-5.428037,
     "geom:longitude":122.676927,
@@ -46,6 +46,9 @@
     "name:ast_x_preferred":[
         "Baubau"
     ],
+    "name:ban_x_preferred":[
+        "Kota Bau-Bau"
+    ],
     "name:bar_x_preferred":[
         "Baubau"
     ],
@@ -79,6 +82,9 @@
     "name:ell_x_preferred":[
         "\u039c\u03c0\u03b1\u03bf\u03c5\u03bc\u03c0\u03ac\u03bf\u03c5"
     ],
+    "name:ell_x_variant":[
+        "\u039c\u03c0\u03ac\u03bf\u03c5\u03bc\u03c0\u03b1\u03bf\u03c5"
+    ],
     "name:eng_x_preferred":[
         "Baubau"
     ],
@@ -93,6 +99,9 @@
     ],
     "name:eus_x_preferred":[
         "Baubau"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0648\u0628\u0648"
     ],
     "name:fin_x_preferred":[
         "Baubau"
@@ -166,6 +175,9 @@
     "name:kor_x_preferred":[
         "\ubc14\uc6b0\ubc14\uc6b0"
     ],
+    "name:lav_x_preferred":[
+        "Baubau"
+    ],
     "name:lij_x_preferred":[
         "Baubau"
     ],
@@ -183,6 +195,9 @@
     ],
     "name:msa_x_preferred":[
         "Bau-Bau"
+    ],
+    "name:nan_x_preferred":[
+        "Baubau Chh\u012b"
     ],
     "name:nap_x_preferred":[
         "Baubau"
@@ -252,6 +267,9 @@
     ],
     "name:swe_x_preferred":[
         "Bau-Bau"
+    ],
+    "name:tat_x_preferred":[
+        "\u0411\u0430\u0443\u0431\u0430\u0443"
     ],
     "name:tur_x_preferred":[
         "Bau-Bau"
@@ -324,11 +342,12 @@
         "hasc:id":"ID.SG.BA",
         "wd:id":"Q15378"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"49dc90abd7f6f2c15b033a9c81fd6728",
+    "wof:geomhash":"6b62880dbe1dc5f00896f0a7d06dd7b6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -345,7 +364,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1636502309,
+    "wof:lastmodified":1695886062,
     "wof:name":"Baubau",
     "wof:parent_id":85672105,
     "wof:placetype":"county",

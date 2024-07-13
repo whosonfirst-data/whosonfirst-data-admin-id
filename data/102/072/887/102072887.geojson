@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.085588,
-    "geom:area_square_m":1050929042.642516,
+    "geom:area_square_m":1050929042.642468,
     "geom:bbox":"111.234512,-6.919264,111.693619,-6.61838",
     "geom:latitude":-6.774255,
     "geom:longitude":111.461851,
@@ -46,6 +46,9 @@
     "name:ast_x_preferred":[
         "Rembang"
     ],
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Rembang"
+    ],
     "name:bar_x_preferred":[
         "Rembang"
     ],
@@ -83,7 +86,8 @@
         "Rembang"
     ],
     "name:eng_x_variant":[
-        "REMBANG"
+        "REMBANG",
+        "Rembang Regency"
     ],
     "name:epo_x_preferred":[
         "Rembang"
@@ -142,6 +146,9 @@
     "name:ind_x_preferred":[
         "Rembang"
     ],
+    "name:ind_x_variant":[
+        "Kabupaten Rembang"
+    ],
     "name:isl_x_preferred":[
         "Rembang"
     ],
@@ -189,6 +196,9 @@
     ],
     "name:msa_x_preferred":[
         "Rembang"
+    ],
+    "name:nan_x_preferred":[
+        "Rembang Ko\u0101n"
     ],
     "name:nap_x_preferred":[
         "Rembang"
@@ -255,6 +265,9 @@
     ],
     "name:sun_x_preferred":[
         "Kabupat\u00e9n Rembang"
+    ],
+    "name:sun_x_variant":[
+        "Rembang"
     ],
     "name:swa_x_preferred":[
         "Rembang"
@@ -339,11 +352,12 @@
         "hasc:id":"ID.JT.RE",
         "wd:id":"Q10684"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1800e110b9fdc45d2c9ca1f583f2ac82",
+    "wof:geomhash":"999b6625dad572fda79e5f14f51a8b07",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -360,7 +374,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614716997,
+    "wof:lastmodified":1695886507,
     "wof:name":"Rembang",
     "wof:parent_id":85671987,
     "wof:placetype":"county",

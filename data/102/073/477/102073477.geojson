@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.283542,
-    "geom:area_square_m":3500663009.113447,
+    "geom:area_square_m":3500663009.11306,
     "geom:bbox":"97.046577,2.417454,97.826111,3.660528",
     "geom:latitude":3.164451,
     "geom:longitude":97.437845,
@@ -43,6 +43,9 @@
     "name:ast_x_preferred":[
         "Aceh Selatan"
     ],
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Ac\u00e9h Selatan"
+    ],
     "name:bar_x_preferred":[
         "Aceh Selatan"
     ],
@@ -77,7 +80,8 @@
         "Aceh Selatan"
     ],
     "name:eng_x_variant":[
-        "ACEH SELATAN"
+        "ACEH SELATAN",
+        "South Aceh Regency"
     ],
     "name:epo_x_preferred":[
         "Aceh Selatan"
@@ -133,6 +137,9 @@
     "name:ind_x_preferred":[
         "Aceh Selatan"
     ],
+    "name:ind_x_variant":[
+        "Kabupaten Aceh Selatan"
+    ],
     "name:isl_x_preferred":[
         "Aceh Selatan"
     ],
@@ -166,6 +173,9 @@
     "name:msa_x_preferred":[
         "Aceh Selatan"
     ],
+    "name:nan_x_preferred":[
+        "L\u00e2m Aceh Ko\u0101n"
+    ],
     "name:nap_x_preferred":[
         "Aceh Selatan"
     ],
@@ -174,6 +184,9 @@
     ],
     "name:nld_x_preferred":[
         "Aceh Selatan"
+    ],
+    "name:nld_x_variant":[
+        "Zuid-Atjeh"
     ],
     "name:nno_x_preferred":[
         "Aceh Selatan"
@@ -235,6 +248,12 @@
     "name:swe_x_preferred":[
         "Aceh Selatan"
     ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0456\u0432\u0434\u0435\u043d\u043d\u0438\u0439 \u0410\u0447\u0435\u0445"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u0646\u0648\u0628\u06cc \u0622\u0686\u06d2 \u0631\u06cc\u062c\u0646\u0633\u06cc"
+    ],
     "name:vec_x_preferred":[
         "Aceh Selatan"
     ],
@@ -252,6 +271,9 @@
     ],
     "name:wol_x_preferred":[
         "Aceh Selatan"
+    ],
+    "name:zho_x_preferred":[
+        "\u5357\u4e9a\u9f50\u53bf"
     ],
     "name:zul_x_preferred":[
         "Aceh Selatan"
@@ -291,11 +313,12 @@
         "hasc:id":"ID.AC.AS",
         "wd:id":"Q5759"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b95cfab7b17d5525683f58be939c6e75",
+    "wof:geomhash":"3da92c6509cbeef78fd018443ae7557e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -312,7 +335,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614721420,
+    "wof:lastmodified":1695886535,
     "wof:name":"Aceh Selatan",
     "wof:parent_id":85671973,
     "wof:placetype":"county",

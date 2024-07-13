@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.144717,
-    "geom:area_square_m":1771462673.248122,
+    "geom:area_square_m":1771462673.247993,
     "geom:bbox":"111.956299,-8.35573,112.478958,-7.910776",
     "geom:latitude":-8.131195,
     "geom:longitude":112.237764,
@@ -37,6 +37,9 @@
     "name:ara_x_preferred":[
         "\u0628\u0644\u064a\u062a\u0627\u0631"
     ],
+    "name:ban_x_preferred":[
+        "Kota Blitar"
+    ],
     "name:ben_x_preferred":[
         "\u09ac\u09cd\u09b2\u09bf\u09a4\u09be\u09b0"
     ],
@@ -56,12 +59,22 @@
         "Blitar"
     ],
     "name:eng_x_variant":[
-        "BLITAR"
+        "BLITAR",
+        "Blitar City"
+    ],
+    "name:epo_x_preferred":[
+        "Blitar"
     ],
     "name:fas_x_preferred":[
         "\u0628\u0644\u06cc\u062a\u0631"
     ],
+    "name:fin_x_preferred":[
+        "Blitar"
+    ],
     "name:fra_x_preferred":[
+        "Blitar"
+    ],
+    "name:gle_x_preferred":[
         "Blitar"
     ],
     "name:heb_x_preferred":[
@@ -75,6 +88,9 @@
     ],
     "name:ind_x_preferred":[
         "Blitar"
+    ],
+    "name:ind_x_variant":[
+        "Kota Blitar"
     ],
     "name:ita_x_preferred":[
         "Blitar"
@@ -133,6 +149,9 @@
     "name:tam_x_preferred":[
         "\u0baa\u0bbf\u0bb2\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd"
     ],
+    "name:tat_x_preferred":[
+        "\u0411\u043b\u0438\u0442\u0430\u0440"
+    ],
     "name:tur_x_preferred":[
         "Blitar"
     ],
@@ -141,6 +160,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0628\u0644\u06cc\u062a\u0627\u0631"
+    ],
+    "name:vec_x_preferred":[
+        "Blitar"
     ],
     "name:vie_x_preferred":[
         "Blitar"
@@ -184,11 +206,12 @@
         "hasc:id":"ID.JI.BR",
         "wd:id":"Q11441"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a68d035a07668f52509fd7be43353da0",
+    "wof:geomhash":"a47aa0e26c477a91fff05653927d4ce0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -205,7 +228,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1636502295,
+    "wof:lastmodified":1695886058,
     "wof:name":"Blitar",
     "wof:parent_id":85672027,
     "wof:placetype":"county",

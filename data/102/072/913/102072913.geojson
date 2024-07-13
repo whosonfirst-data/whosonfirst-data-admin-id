@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.084355,
-    "geom:area_square_m":1036252631.758222,
+    "geom:area_square_m":1036252631.758711,
     "geom:bbox":"110.185333,-6.797297,110.976181,-5.7278",
     "geom:latitude":-6.54895,
     "geom:longitude":110.769712,
@@ -46,6 +46,9 @@
     "name:ast_x_preferred":[
         "Jepara"
     ],
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Jepara"
+    ],
     "name:bar_x_preferred":[
         "Jepara"
     ],
@@ -81,6 +84,9 @@
     ],
     "name:eng_x_preferred":[
         "Jepara"
+    ],
+    "name:eng_x_variant":[
+        "Jepara Regency"
     ],
     "name:epo_x_preferred":[
         "Jepara"
@@ -139,6 +145,9 @@
     "name:ind_x_preferred":[
         "Jepara"
     ],
+    "name:ind_x_variant":[
+        "Kabupaten Jepara"
+    ],
     "name:isl_x_preferred":[
         "Jepara"
     ],
@@ -147,6 +156,9 @@
     ],
     "name:jav_x_preferred":[
         "Kabupat\u00e8n Jepara"
+    ],
+    "name:jav_x_variant":[
+        "Jepara"
     ],
     "name:jpn_x_preferred":[
         "\u30b8\u30e5\u30d1\u30e9\u770c"
@@ -186,6 +198,9 @@
     ],
     "name:msa_x_preferred":[
         "Kabupaten Jepara"
+    ],
+    "name:nan_x_preferred":[
+        "Jepara Ko\u0101n"
     ],
     "name:nap_x_preferred":[
         "Jepara"
@@ -252,6 +267,9 @@
     ],
     "name:sun_x_preferred":[
         "Kabupat\u00e9n Jepara"
+    ],
+    "name:sun_x_variant":[
+        "Jepara"
     ],
     "name:swa_x_preferred":[
         "Jepara"
@@ -335,11 +353,12 @@
         "hasc:id":"ID.JT.JE",
         "wd:id":"Q10615"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c5906c5f86014e920a44a9cb6f3e68ff",
+    "wof:geomhash":"e09083ad28aaea985f6c1ec2b56b97ad",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -356,7 +375,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614717116,
+    "wof:lastmodified":1695886508,
     "wof:name":"Jepara",
     "wof:parent_id":85671987,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.607111,
-    "geom:area_square_m":7501466893.284481,
+    "geom:area_square_m":7501466893.287342,
     "geom:bbox":"101.54158,-2.76728,102.622963,-1.645979",
     "geom:latitude":-2.194194,
     "geom:longitude":102.064632,
@@ -43,6 +43,9 @@
     "name:ast_x_preferred":[
         "Merangin"
     ],
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Merangin"
+    ],
     "name:bar_x_preferred":[
         "Merangin"
     ],
@@ -74,7 +77,8 @@
         "Merangin"
     ],
     "name:eng_x_variant":[
-        "MERANGIN"
+        "MERANGIN",
+        "Merangin Regency"
     ],
     "name:epo_x_preferred":[
         "Merangin"
@@ -127,6 +131,9 @@
     "name:ind_x_preferred":[
         "Merangin"
     ],
+    "name:ind_x_variant":[
+        "Kabupaten Merangin"
+    ],
     "name:isl_x_preferred":[
         "Merangin"
     ],
@@ -135,6 +142,9 @@
     ],
     "name:jav_x_preferred":[
         "Merangin"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e0\u30e9\u30f3\u30ae\u30f3\u770c"
     ],
     "name:kon_x_preferred":[
         "Merangin"
@@ -156,6 +166,9 @@
     ],
     "name:msa_x_preferred":[
         "Kabupaten Merangin"
+    ],
+    "name:nan_x_preferred":[
+        "Merangin Ko\u0101n"
     ],
     "name:nap_x_preferred":[
         "Merangin"
@@ -282,11 +295,12 @@
         "hasc:id":"ID.JA.SB",
         "wd:id":"Q7379"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8992a0c7eb2f6b6abf59f069a276f062",
+    "wof:geomhash":"fb52b99f1f347dd651bb520347eb4637",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -303,7 +317,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614717869,
+    "wof:lastmodified":1695886513,
     "wof:name":"Merangin",
     "wof:parent_id":85672059,
     "wof:placetype":"county",

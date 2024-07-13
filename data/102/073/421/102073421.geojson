@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.242669,
-    "geom:area_square_m":2988954283.942698,
+    "geom:area_square_m":2988954283.94201,
     "geom:bbox":"95.722763,4.656528,96.47361,5.570579",
     "geom:latitude":5.056318,
     "geom:longitude":96.019976,
@@ -43,6 +43,9 @@
     "name:ast_x_preferred":[
         "Pidie"
     ],
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Pidie"
+    ],
     "name:bar_x_preferred":[
         "Pidie"
     ],
@@ -77,7 +80,8 @@
         "Pidie"
     ],
     "name:eng_x_variant":[
-        "PIDIE"
+        "PIDIE",
+        "Pidie Regency"
     ],
     "name:epo_x_preferred":[
         "Pidie"
@@ -133,6 +137,9 @@
     "name:ind_x_preferred":[
         "Pidie"
     ],
+    "name:ind_x_variant":[
+        "Kabupaten Pidie"
+    ],
     "name:isl_x_preferred":[
         "Pidie"
     ],
@@ -165,6 +172,9 @@
     ],
     "name:msa_x_preferred":[
         "Pidie"
+    ],
+    "name:nan_x_preferred":[
+        "Pidie Ko\u0101n"
     ],
     "name:nap_x_preferred":[
         "Pidie"
@@ -235,6 +245,9 @@
     "name:swe_x_preferred":[
         "Pidie"
     ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0456\u0434\u0456"
+    ],
     "name:vec_x_preferred":[
         "Pidie"
     ],
@@ -252,6 +265,9 @@
     ],
     "name:wol_x_preferred":[
         "Pidie"
+    ],
+    "name:zho_x_preferred":[
+        "\u76ae\u8fea\u8036\u53bf"
     ],
     "name:zul_x_preferred":[
         "Pidie"
@@ -291,11 +307,12 @@
         "hasc:id":"ID.AC.PD",
         "wd:id":"Q5751"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ea464a7704dbe720784a4658fe0ce065",
+    "wof:geomhash":"9c28d1edee95da6f795a7427babd7e9b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -312,7 +329,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614720967,
+    "wof:lastmodified":1695886531,
     "wof:name":"Pidie",
     "wof:parent_id":85671973,
     "wof:placetype":"county",

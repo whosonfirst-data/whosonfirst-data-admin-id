@@ -20,6 +20,12 @@
     "mz:is_current":1,
     "mz:min_zoom":13.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ban_x_preferred":[
+        "Kota Tual"
+    ],
+    "name:bjn_x_preferred":[
+        "Tual"
+    ],
     "name:cat_x_preferred":[
         "Tual"
     ],
@@ -32,20 +38,35 @@
     "name:eng_x_preferred":[
         "Tual"
     ],
+    "name:eng_x_variant":[
+        "Tual City"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0648\u0627\u0644"
+    ],
     "name:fra_x_preferred":[
         "Tual"
     ],
     "name:ind_x_preferred":[
         "Tual"
     ],
+    "name:ind_x_variant":[
+        "Kota Tual"
+    ],
     "name:ita_x_preferred":[
         "Tual"
+    ],
+    "name:lav_x_preferred":[
+        "Tuala"
     ],
     "name:mlg_x_preferred":[
         "Kota Tual"
     ],
     "name:msa_x_preferred":[
         "Kota Tual"
+    ],
+    "name:nan_x_preferred":[
+        "Tual Chh\u012b"
     ],
     "name:nld_x_preferred":[
         "Tual"
@@ -61,6 +82,9 @@
     ],
     "name:swe_x_preferred":[
         "Tual"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0443\u0430\u043b"
     ],
     "name:unk_x_variant":[
         "Toeal"
@@ -96,8 +120,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        1108796845,
-        85672097
+        85672097,
+        1108796845
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -126,7 +150,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614653776,
+    "wof:lastmodified":1690931598,
     "wof:name":"Tual",
     "wof:parent_id":1108796845,
     "wof:placetype":"locality",

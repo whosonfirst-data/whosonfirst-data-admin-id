@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.308365,
-    "geom:area_square_m":3799347833.29328,
+    "geom:area_square_m":3799347833.293622,
     "geom:bbox":"95.282516,4.400986,96.017593,5.250861",
     "geom:latitude":4.844112,
     "geom:longitude":95.664538,
@@ -34,6 +34,9 @@
     "name:ace_x_preferred":[
         "Kabupaten Ac\u00e8h Jaya"
     ],
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Ac\u00e9h Jaya"
+    ],
     "name:bel_x_preferred":[
         "\u0410\u043a\u0440\u0443\u0433\u0430 \u0410\u0447\u044d\u0445-\u0414\u0436\u0430\u044f"
     ],
@@ -47,7 +50,8 @@
         "Aceh Jaya"
     ],
     "name:eng_x_variant":[
-        "ACEH JAYA"
+        "ACEH JAYA",
+        "Aceh Jaya Regency"
     ],
     "name:fas_x_preferred":[
         "\u0622\u0686\u0647 \u062c\u0627\u06cc\u0627 \u0631\u06af\u0646\u0633\u06cc"
@@ -55,11 +59,17 @@
     "name:fra_x_preferred":[
         "Aceh Jaya"
     ],
+    "name:gle_x_preferred":[
+        "Aceh Jaya"
+    ],
     "name:gor_x_preferred":[
         "Kabupaten Aceh Jaya"
     ],
     "name:ind_x_preferred":[
         "Aceh Jaya"
+    ],
+    "name:ind_x_variant":[
+        "Kabupaten Aceh Jaya"
     ],
     "name:ita_x_preferred":[
         "Aceh Jaya"
@@ -76,6 +86,9 @@
     "name:msa_x_preferred":[
         "Aceh Jaya"
     ],
+    "name:nan_x_preferred":[
+        "Aceh Jaya Ko\u0101n"
+    ],
     "name:nld_x_preferred":[
         "Aceh Jaya"
     ],
@@ -90,6 +103,9 @@
     ],
     "name:swe_x_preferred":[
         "Kabupaten Aceh Jaya"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0447\u0435\u0445-\u0414\u0436\u0430\u044f"
     ],
     "name:vie_x_preferred":[
         "Aceh Jaya"
@@ -129,11 +145,12 @@
         "hasc:id":"ID.AC.AJ",
         "wd:id":"Q5667"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"557a43b0f801b2c13ac6f33db336a8fc",
+    "wof:geomhash":"3a55fac9541a5764d17b4b1b07012526",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -150,7 +167,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614720401,
+    "wof:lastmodified":1695886528,
     "wof:name":"Aceh Jaya",
     "wof:parent_id":85671973,
     "wof:placetype":"county",

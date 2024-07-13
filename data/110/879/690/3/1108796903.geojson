@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.879847,
-    "geom:area_square_m":10875676304.066555,
+    "geom:area_square_m":10875676304.066303,
     "geom:bbox":"100.907127,0.953841,102.513641,2.276764",
     "geom:latitude":1.48304,
     "geom:longitude":101.565819,
@@ -41,11 +41,17 @@
     "name:ast_x_preferred":[
         "Bengkalis"
     ],
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Bengkalis"
+    ],
     "name:bar_x_preferred":[
         "Bengkalis"
     ],
     "name:bel_x_preferred":[
         "\u0410\u043a\u0440\u0443\u0433\u0430 \u0411\u0435\u043d\u043a\u0430\u043b\u0456\u0441"
+    ],
+    "name:bjn_x_preferred":[
+        "Kabupatin Bengkalis"
     ],
     "name:bre_x_preferred":[
         "Bengkalis"
@@ -75,7 +81,8 @@
         "Bengkalis"
     ],
     "name:eng_x_variant":[
-        "BENGKALIS"
+        "BENGKALIS",
+        "Bengkalis Regency"
     ],
     "name:epo_x_preferred":[
         "Bengkalis"
@@ -128,6 +135,9 @@
     "name:ind_x_preferred":[
         "Bengkalis"
     ],
+    "name:ind_x_variant":[
+        "Kabupaten Bengkalis"
+    ],
     "name:isl_x_preferred":[
         "Bengkalis"
     ],
@@ -160,6 +170,9 @@
     ],
     "name:msa_x_preferred":[
         "Bengkalis"
+    ],
+    "name:nan_x_preferred":[
+        "Bengkalis Ko\u0101n"
     ],
     "name:nap_x_preferred":[
         "Bengkalis"
@@ -248,6 +261,9 @@
     "name:wol_x_preferred":[
         "Bengkalis"
     ],
+    "name:zho_x_preferred":[
+        "\u73ed\u52a0\u91cc\u7e23"
+    ],
     "name:zul_x_preferred":[
         "Bengkalis"
     ],
@@ -275,9 +291,10 @@
         "hasc:id":"ID.RI.BK",
         "wd:id":"Q7594"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:created":1482878587,
-    "wof:geomhash":"19fbf2b5e38999002be7fcecf7ffb3d2",
+    "wof:geomhash":"22a97a3788295e5ec144a126cf2b4f35",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -294,7 +311,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614722814,
+    "wof:lastmodified":1695886550,
     "wof:name":"Bengkalis",
     "wof:parent_id":85672077,
     "wof:placetype":"county",

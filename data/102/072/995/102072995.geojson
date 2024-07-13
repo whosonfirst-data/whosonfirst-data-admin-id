@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.148538,
-    "geom:area_square_m":1818257724.484867,
+    "geom:area_square_m":1818257724.484657,
     "geom:bbox":"112.89994,-8.352141,113.379585,-7.89693",
     "geom:latitude":-8.125401,
     "geom:longitude":113.137908,
@@ -34,6 +34,9 @@
     "name:ara_x_preferred":[
         "\u0644\u0648\u0645\u0627\u062c\u0627\u0646\u063a"
     ],
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Lumajang"
+    ],
     "name:cat_x_preferred":[
         "Lumajang"
     ],
@@ -55,6 +58,9 @@
     "name:fra_x_preferred":[
         "Lumajang"
     ],
+    "name:gle_x_preferred":[
+        "Lumajang"
+    ],
     "name:ind_x_preferred":[
         "Lumajang"
     ],
@@ -63,6 +69,12 @@
     ],
     "name:jav_x_preferred":[
         "Kabupat\u00e8n Lumajang"
+    ],
+    "name:jav_x_variant":[
+        "Lumajang"
+    ],
+    "name:nan_x_preferred":[
+        "Lumajang Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Lumajang"
@@ -85,11 +97,17 @@
     "name:sun_x_preferred":[
         "Kabupat\u00e9n Lumajang"
     ],
+    "name:sun_x_variant":[
+        "Lumajang"
+    ],
     "name:swe_x_preferred":[
         "Kabupaten Lumajang"
     ],
     "name:zho_x_preferred":[
         "\u76e7\u99ac\u59dc"
+    ],
+    "name:zho_x_variant":[
+        "\u5357\u6d77\u6f33\u53bf"
     ],
     "qs:a0":"Indonesia",
     "qs:a0_lc":"IDN",
@@ -126,11 +144,12 @@
         "hasc:id":"ID.JI.LU",
         "wd:id":"Q11087"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"472261da2b312db502bbf16b54d9decb",
+    "wof:geomhash":"ba21cd714a03dc6a0454c13940f75344",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -147,7 +166,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614717823,
+    "wof:lastmodified":1695886512,
     "wof:name":"Lumajang",
     "wof:parent_id":85672027,
     "wof:placetype":"county",

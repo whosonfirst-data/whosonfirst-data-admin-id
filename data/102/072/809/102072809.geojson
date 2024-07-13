@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.080278,
-    "geom:area_square_m":985166377.18958,
+    "geom:area_square_m":985166377.189459,
     "geom:bbox":"109.922676,-7.202054,110.366577,-6.85129",
     "geom:latitude":-7.043501,
     "geom:longitude":110.15541,
@@ -43,6 +43,9 @@
     "name:ast_x_preferred":[
         "Kendal"
     ],
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Kendal"
+    ],
     "name:bar_x_preferred":[
         "Kendal"
     ],
@@ -74,7 +77,8 @@
         "Kendal"
     ],
     "name:eng_x_variant":[
-        "KENDAL"
+        "KENDAL",
+        "Kendal Regency"
     ],
     "name:epo_x_preferred":[
         "Kendal"
@@ -127,6 +131,9 @@
     "name:ind_x_preferred":[
         "Kendal"
     ],
+    "name:ind_x_variant":[
+        "Kabupaten Kendal"
+    ],
     "name:isl_x_preferred":[
         "Kendal"
     ],
@@ -135,6 +142,9 @@
     ],
     "name:jav_x_preferred":[
         "Kabupat\u00e8n Kendhal"
+    ],
+    "name:jav_x_variant":[
+        "Kendhal"
     ],
     "name:jpn_x_preferred":[
         "\u30b1\u30f3\u30c0\u30eb\u770c"
@@ -159,6 +169,9 @@
     ],
     "name:msa_x_preferred":[
         "Kendal"
+    ],
+    "name:nan_x_preferred":[
+        "Kendal Ko\u0101n"
     ],
     "name:nap_x_preferred":[
         "Kendal"
@@ -219,6 +232,9 @@
     ],
     "name:sun_x_preferred":[
         "Kabupat\u00e9n Kendal"
+    ],
+    "name:sun_x_variant":[
+        "Kendal"
     ],
     "name:swa_x_preferred":[
         "Kendal"
@@ -288,11 +304,12 @@
         "hasc:id":"ID.JT.KN",
         "wd:id":"Q10618"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c7f5cbd269c7bbaa8234684a626f900f",
+    "wof:geomhash":"6664072c6bd013dfe5601ba1b5074c24",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -309,7 +326,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614716394,
+    "wof:lastmodified":1695886504,
     "wof:name":"Kendal",
     "wof:parent_id":85671987,
     "wof:placetype":"county",

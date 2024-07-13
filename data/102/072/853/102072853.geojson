@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.506961,
-    "geom:area_square_m":6265633442.232962,
+    "geom:area_square_m":6265633442.233637,
     "geom:bbox":"100.326057,-2.482406,101.285408,-0.957061",
     "geom:latitude":-1.740171,
     "geom:longitude":100.877665,
@@ -31,6 +31,9 @@
     "mps:longitude":101.065283,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Pesisir Selatan"
+    ],
     "name:bel_x_preferred":[
         "\u0410\u043a\u0440\u0443\u0433\u0430 \u041f\u0430\u045e\u0434\u043d\u0451\u0432\u044b \u041f\u0435\u0441\u0456\u0441\u0456\u0440"
     ],
@@ -43,8 +46,14 @@
     "name:eng_x_preferred":[
         "Pesisir Selatan"
     ],
+    "name:eng_x_variant":[
+        "South Pesisir Regency"
+    ],
     "name:fra_x_preferred":[
         "Pesisir Selatan"
+    ],
+    "name:gle_x_preferred":[
+        "Pesisir Theas"
     ],
     "name:ind_x_preferred":[
         "Kabupaten Pesisir Selatan"
@@ -64,6 +73,9 @@
     "name:msa_x_preferred":[
         "Pesisir Selatan"
     ],
+    "name:nan_x_preferred":[
+        "Pesisir Selatan Ko\u0101n"
+    ],
     "name:nld_x_preferred":[
         "Zuid-Pesisir"
     ],
@@ -81,6 +93,9 @@
     ],
     "name:vie_x_preferred":[
         "South Pesisir"
+    ],
+    "name:zho_x_preferred":[
+        "\u5357\u6ff1\u7e23"
     ],
     "qs:a0":"Indonesia",
     "qs:a0_lc":"IDN",
@@ -119,11 +134,12 @@
         "hasc:id":"ID.SB.PS",
         "wd:id":"Q6065"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ead3c12fc89a8931467aa1ead67798ca",
+    "wof:geomhash":"25eb2a1833e67d78c5400c4f1917e6e5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -140,7 +156,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614716680,
+    "wof:lastmodified":1695886506,
     "wof:name":"Pesisir Selatan",
     "wof:parent_id":85672087,
     "wof:placetype":"county",

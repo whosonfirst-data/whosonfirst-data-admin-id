@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.176594,
-    "geom:area_square_m":2180372691.343804,
+    "geom:area_square_m":2180372691.343255,
     "geom:bbox":"97.870209,2.868415,98.629921,3.331791",
     "geom:latitude":3.121038,
     "geom:longitude":98.296484,
@@ -34,6 +34,9 @@
     "name:ace_x_preferred":[
         "Kabupaten Karo"
     ],
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Karo"
+    ],
     "name:ceb_x_preferred":[
         "Kabupaten Karo"
     ],
@@ -44,13 +47,20 @@
         "Karo"
     ],
     "name:eng_x_variant":[
-        "KARO"
+        "KARO",
+        "Karo Regency"
     ],
     "name:fra_x_preferred":[
         "Karo"
     ],
+    "name:gle_x_preferred":[
+        "Karo"
+    ],
     "name:ind_x_preferred":[
         "Karo"
+    ],
+    "name:ind_x_variant":[
+        "Kabupaten Karo"
     ],
     "name:ita_x_preferred":[
         "Karo"
@@ -61,8 +71,14 @@
     "name:jpn_x_preferred":[
         "\u30ab\u30ed\u770c"
     ],
+    "name:min_x_preferred":[
+        "Kabupaten Karo"
+    ],
     "name:msa_x_preferred":[
         "Kabupaten Karo"
+    ],
+    "name:nan_x_preferred":[
+        "Karo Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Karo"
@@ -120,11 +136,12 @@
         "hasc:id":"ID.SU.KA",
         "wd:id":"Q5810"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"392032c933a25b0a69a32491a0e7cccb",
+    "wof:geomhash":"400687fa970a3fce1e16e7f03a3102c0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -141,7 +158,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614721330,
+    "wof:lastmodified":1695886534,
     "wof:name":"Karo",
     "wof:parent_id":85672073,
     "wof:placetype":"county",

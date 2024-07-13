@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.268682,
-    "geom:area_square_m":3306915340.745325,
+    "geom:area_square_m":3306915340.744802,
     "geom:bbox":"104.929474,-6.17122,105.826172,-5.113569",
     "geom:latitude":-5.514356,
     "geom:longitude":105.360654,
@@ -26,6 +26,9 @@
     "meso:name_local":"PESAWARAN",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Pesawaran"
+    ],
     "name:ceb_x_preferred":[
         "Kabupaten Pesawaran"
     ],
@@ -36,13 +39,20 @@
         "Pesawaran"
     ],
     "name:eng_x_variant":[
-        "PESAWARAN"
+        "PESAWARAN",
+        "Pesawaran Regency"
     ],
     "name:fra_x_preferred":[
         "Pesawaran"
     ],
+    "name:gle_x_preferred":[
+        "Pesawaran"
+    ],
     "name:ind_x_preferred":[
         "Pesawaran"
+    ],
+    "name:ind_x_variant":[
+        "Kabupaten Pesawaran"
     ],
     "name:ita_x_preferred":[
         "Pesawaran"
@@ -50,11 +60,20 @@
     "name:jav_x_preferred":[
         "Kabupat\u00e8n Pesawaran"
     ],
+    "name:jav_x_variant":[
+        "Pesawaran"
+    ],
     "name:jpn_x_preferred":[
         "\u30da\u30c3\u30b5\u30ef\u30e9\u30f3\u770c"
     ],
+    "name:min_x_preferred":[
+        "Kabupaten Pesawaran"
+    ],
     "name:msa_x_preferred":[
         "Kabupaten Pesawaran"
+    ],
+    "name:nan_x_preferred":[
+        "Pesawaran Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Pesawaran"
@@ -89,9 +108,10 @@
         "hasc:id":"ID.LA.PA",
         "wd:id":"Q8144"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:created":1482878506,
-    "wof:geomhash":"95405a395c22390355d2dce4366ca08a",
+    "wof:geomhash":"ae13d28825d7ffaa363ccbf52c01a33b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -108,7 +128,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614722495,
+    "wof:lastmodified":1695886544,
     "wof:name":"Pesawaran",
     "wof:parent_id":85672009,
     "wof:placetype":"county",

@@ -33,12 +33,17 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        102072947,
-        85671987
+        85671987,
+        102072947
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6371489
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6255335
+        ]
     },
     "wof:country":"ID",
     "wof:geomhash":"7f6594fd886cce026611014fd13d222a",
@@ -59,13 +64,15 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614644894,
+    "wof:lastmodified":1706239776,
     "wof:name":"Gunungan",
     "wof:parent_id":102072947,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1243384337
+    ],
     "wof:tags":[]
 },
   "bbox": [

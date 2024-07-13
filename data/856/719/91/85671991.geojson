@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.649152,
-    "geom:area_square_m":20351342104.480591,
+    "geom:area_square_m":20351342104.477127,
     "geom:bbox":"101.017189,-5.51601,103.763481,-2.276772",
     "geom:latitude":-3.553405,
     "geom:longitude":102.333648,
@@ -96,6 +96,9 @@
     "name:ell_x_preferred":[
         "\u039c\u03c0\u03b5\u03bd\u03b3\u03ba\u03bf\u03cd\u03bb\u03bf\u03c5"
     ],
+    "name:ell_x_variant":[
+        "\u039c\u03c0\u03b1\u03bd\u03ba\u03bf\u03cd\u03bb\u03bf\u03c5"
+    ],
     "name:eng_ca_x_preferred":[
         "Bengkulu"
     ],
@@ -120,6 +123,12 @@
     "name:fra_x_preferred":[
         "Bengkulu"
     ],
+    "name:frr_x_preferred":[
+        "Bengkulu"
+    ],
+    "name:gle_x_preferred":[
+        "Bengkulu"
+    ],
     "name:gor_x_preferred":[
         "Bengkulu"
     ],
@@ -140,6 +149,9 @@
     ],
     "name:hun_x_preferred":[
         "Bengkulu"
+    ],
+    "name:hyw_x_preferred":[
+        "\u054a\u0565\u0576\u056f\u0584\u0578\u0582\u056c\u0578\u0582"
     ],
     "name:ilo_x_preferred":[
         "Bengkulu"
@@ -176,6 +188,9 @@
     ],
     "name:lrc_x_preferred":[
         "\u0628\u0646\u06af\u06a9\u0648\u0644\u0648"
+    ],
+    "name:mad_x_preferred":[
+        "Bengkulu"
     ],
     "name:mal_x_preferred":[
         "\u0d2c\u0d46\u0d19\u0d4d\u0d15\u0d41\u0d33\u0d41"
@@ -230,6 +245,9 @@
     ],
     "name:sin_x_preferred":[
         "\u0db6\u0dd9\u0db1\u0dca\u0d9a\u0dd4\u0dbd\u0dd4 \u0db4\u0dc5\u0dcf\u0dad"
+    ],
+    "name:som_x_preferred":[
+        "Bengkulu"
     ],
     "name:spa_x_preferred":[
         "Bengkulu"
@@ -387,17 +405,19 @@
         "gn:id":1649147,
         "gp:id":2345712,
         "hasc:id":"ID.BE",
+        "iso:code":"ID-BE",
         "iso:id":"ID-BE",
         "qs:id":9171,
         "unlc:id":"ID-BE",
         "wd:id":"Q1890",
         "wk:page":"Bengkulu"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"0dac6a61e37f32481190e49a8625f311",
+    "wof:geomhash":"6386a296205629a8abd7db958f10585c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -413,7 +433,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1636502339,
+    "wof:lastmodified":1695884929,
     "wof:name":"Bengkulu",
     "wof:parent_id":85632203,
     "wof:placetype":"region",

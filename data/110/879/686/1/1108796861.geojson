@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.45399,
-    "geom:area_square_m":5612065979.017989,
+    "geom:area_square_m":5612065979.018559,
     "geom:bbox":"132.071712,-1.854619,132.987895,-0.931326",
     "geom:latitude":-1.358883,
     "geom:longitude":132.477069,
@@ -38,6 +38,9 @@
     "name:ast_x_preferred":[
         "Maybrat"
     ],
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Maybrat"
+    ],
     "name:bar_x_preferred":[
         "Maybrat"
     ],
@@ -69,7 +72,8 @@
         "Maybrat"
     ],
     "name:eng_x_variant":[
-        "MAYBRAT"
+        "MAYBRAT",
+        "Maybrat Regency"
     ],
     "name:epo_x_preferred":[
         "Maybrat"
@@ -122,6 +126,9 @@
     "name:ind_x_preferred":[
         "Maybrat"
     ],
+    "name:ind_x_variant":[
+        "Kabupaten Maybrat"
+    ],
     "name:isl_x_preferred":[
         "Maybrat"
     ],
@@ -154,6 +161,9 @@
     ],
     "name:msa_x_preferred":[
         "Kabupaten Maybrat"
+    ],
+    "name:nan_x_preferred":[
+        "Maybrat Ko\u0101n"
     ],
     "name:nap_x_preferred":[
         "Maybrat"
@@ -269,9 +279,10 @@
         "hasc:id":"ID.IB.MB",
         "wd:id":"Q26759"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:created":1482878548,
-    "wof:geomhash":"fec32655e3838d79272ec6981dc686ce",
+    "wof:geomhash":"c72072f955e5ce4e2b562d2306cca7bc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -288,7 +299,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614722754,
+    "wof:lastmodified":1695886547,
     "wof:name":"Maybrat",
     "wof:parent_id":85672067,
     "wof:placetype":"county",

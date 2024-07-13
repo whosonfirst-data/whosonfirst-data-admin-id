@@ -9,6 +9,9 @@
     "geom:bbox":"101.334401,1.534353,101.528147,1.772067",
     "geom:latitude":1.655497,
     "geom:longitude":101.417126,
+    "gn:gn_country":"ID",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":143760,
     "gn:latitude":1.66711,
     "gn:longitude":101.44316,
     "gn:population":143760,
@@ -19,6 +22,8 @@
     "mps:longitude":101.426666,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ace_x_preferred":[
         "Dumai"
     ],
@@ -34,11 +39,17 @@
     "name:ast_x_preferred":[
         "Dumai"
     ],
+    "name:ban_x_preferred":[
+        "Kota Dumai"
+    ],
     "name:bar_x_preferred":[
         "Dumai"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0414\u0443\u043c\u0430\u0439"
+    ],
+    "name:bel_x_variant":[
+        "\u0414\u0443\u043c\u0430\u0439"
     ],
     "name:ben_x_preferred":[
         "\u09a6\u09c1\u09ae\u09be\u0987"
@@ -75,7 +86,8 @@
     ],
     "name:eng_x_variant":[
         "DUM",
-        "Doemai"
+        "Doemai",
+        "Dumai City"
     ],
     "name:epo_x_preferred":[
         "Dumai"
@@ -119,6 +131,9 @@
     "name:guj_x_preferred":[
         "\u0aa6\u0ac1\u0aae\u0abe\u0a87"
     ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05d5\u05de\u05d0\u05d9"
+    ],
     "name:hin_x_preferred":[
         "\u0921\u0941\u092e\u093e\u0908"
     ],
@@ -127,6 +142,9 @@
     ],
     "name:hun_x_preferred":[
         "Dumai"
+    ],
+    "name:hye_x_preferred":[
+        "\u0534\u0578\u0582\u0574\u0561\u0575"
     ],
     "name:ido_x_preferred":[
         "Dumai"
@@ -190,6 +208,9 @@
     ],
     "name:msa_x_preferred":[
         "Kota Dumai"
+    ],
+    "name:nan_x_preferred":[
+        "Dumai Chh\u012b"
     ],
     "name:nap_x_preferred":[
         "Dumai"
@@ -266,6 +287,9 @@
     "name:tam_x_preferred":[
         "\u0b9f\u0bc2\u0bae\u0bc8"
     ],
+    "name:tat_x_preferred":[
+        "\u0414\u0443\u043c\u0430\u0439"
+    ],
     "name:tel_x_preferred":[
         "\u0c26\u0c41\u0c2e\u0c48"
     ],
@@ -321,6 +345,26 @@
     "qs:pop":0,
     "qs:source":"Nquattroshapes",
     "qs:type":"Town",
+    "qs_pg:aaroncc":"ID",
+    "qs_pg:gn_country":"ID",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1645133,
+    "qs_pg:gn_pop":143760,
+    "qs_pg:name":"Dumai",
+    "qs_pg:name_adm0":"Indonesia",
+    "qs_pg:name_adm1":"Riau",
+    "qs_pg:photos":20,
+    "qs_pg:photos_1k":4,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":20,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":9,
+    "qs_pg:qs_id":263305,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424846,
+    "qs_pg:woe_id":1047401,
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes"
@@ -329,6 +373,10 @@
     "src:lbl:centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":958,
+    "woe:adm0_id":23424846,
+    "woe:name_adm0":"Indonesia",
+    "woe:name_adm1":"Riau",
+    "woe:placetype":"Town",
     "wof:belongsto":[
         102191569,
         85632203,
@@ -341,8 +389,20 @@
         "gn:id":1645133,
         "gp:id":1047401,
         "qs:id":263305,
+        "qs_pg:id":263305,
         "wd:id":"Q7782",
         "wk:page":"Dumai"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1645133
+        ],
+        "gp:id":[
+            1047401
+        ],
+        "wd:id":[
+            "Q7782"
+        ]
     },
     "wof:country":"ID",
     "wof:geom_alt":[
@@ -366,7 +426,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614713500,
+    "wof:lastmodified":1706239767,
     "wof:name":"Dumai",
     "wof:parent_id":1108796915,
     "wof:placetype":"locality",
@@ -374,7 +434,9 @@
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126040477
+    ],
     "wof:tags":[]
 },
   "bbox": [

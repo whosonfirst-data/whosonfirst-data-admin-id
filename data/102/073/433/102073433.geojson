@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.366868,
-    "geom:area_square_m":4521130015.592238,
+    "geom:area_square_m":4521130015.593533,
     "geom:bbox":"119.747932,-5.139763,120.45433,-4.203011",
     "geom:latitude":-4.696113,
     "geom:longitude":120.125805,
@@ -66,6 +66,9 @@
     ],
     "name:aze_x_preferred":[
         "S\u00fcm\u00fck"
+    ],
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Bone"
     ],
     "name:bar_x_preferred":[
         "Boan"
@@ -152,7 +155,8 @@
         "Bone"
     ],
     "name:eng_x_variant":[
-        "BONE"
+        "BONE",
+        "Bone Regency"
     ],
     "name:epo_x_preferred":[
         "Osto"
@@ -214,6 +218,9 @@
     "name:glg_x_variant":[
         "Bone"
     ],
+    "name:gor_x_preferred":[
+        "Bone"
+    ],
     "name:grn_x_preferred":[
         "Kangue"
     ],
@@ -266,7 +273,8 @@
         "Tulang"
     ],
     "name:ind_x_variant":[
-        "Bone"
+        "Bone",
+        "Kabupaten Bone"
     ],
     "name:isl_x_preferred":[
         "Bein"
@@ -369,6 +377,9 @@
     ],
     "name:mya_x_preferred":[
         "\u1021\u101b\u102d\u102f\u1038"
+    ],
+    "name:nan_x_preferred":[
+        "Bone Ko\u0101n"
     ],
     "name:nap_x_preferred":[
         "Bone"
@@ -622,11 +633,12 @@
         "hasc:id":"ID.SE.BO",
         "wd:id":"Q14595"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d7b86259fa394c42b28c749ccfe1a86c",
+    "wof:geomhash":"76d8f80a39dd3bf84e027a1e52b9e8c7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -643,7 +655,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614721075,
+    "wof:lastmodified":1695886532,
     "wof:name":"Bone",
     "wof:parent_id":85672041,
     "wof:placetype":"county",

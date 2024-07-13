@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.716733,
-    "geom:area_square_m":8845495075.904209,
+    "geom:area_square_m":8845495075.906761,
     "geom:bbox":"103.307709,-4.376987,104.678406,-3.001939",
     "geom:latitude":-3.538275,
     "geom:longitude":104.001716,
@@ -34,6 +34,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0648\u0627\u0631\u0627 \u0625\u0646\u064a\u0645"
     ],
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Muara Enim"
+    ],
     "name:ben_x_preferred":[
         "\u09ae\u0989\u09b0\u09be \u098f\u09a8\u09ae\u09bf"
     ],
@@ -53,12 +56,16 @@
         "Muara Enim"
     ],
     "name:eng_x_variant":[
-        "MUARAENIM"
+        "MUARAENIM",
+        "Muara Enim Regency"
     ],
     "name:fin_x_preferred":[
         "Muara Enim"
     ],
     "name:fra_x_preferred":[
+        "Muara Enim"
+    ],
+    "name:gle_x_preferred":[
         "Muara Enim"
     ],
     "name:guj_x_preferred":[
@@ -70,11 +77,17 @@
     "name:ind_x_preferred":[
         "Muara Enim"
     ],
+    "name:ind_x_variant":[
+        "Kabupaten Muara Enim"
+    ],
     "name:ita_x_preferred":[
         "Muara Enim"
     ],
     "name:jav_x_preferred":[
         "Kabupat\u00e8n Muara Enim"
+    ],
+    "name:jav_x_variant":[
+        "Muara Enim"
     ],
     "name:jpn_x_preferred":[
         "\u30e0\u30a2\u30eb\u30bf\u30a8\u30cb\u30e0"
@@ -94,8 +107,14 @@
     "name:mar_x_preferred":[
         "\u092e\u0941\u0930\u093e \u090f\u0928\u0940\u092e"
     ],
+    "name:min_x_preferred":[
+        "Kabupaten Muara Enim"
+    ],
     "name:msa_x_preferred":[
         "Kabupaten Muara Enim"
+    ],
+    "name:nan_x_preferred":[
+        "Muara Enim Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Muara Enim"
@@ -120,6 +139,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0bae\u0bc1\u0bb0\u0bbe  \u0b8e\u0ba9\u0bcd\u0b87\u0bae\u0bcd"
+    ],
+    "name:tam_x_variant":[
+        "\u0bae\u0bc1\u0bb0\u0bbe \u0b8e\u0ba9\u0bcd\u0b87\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c2e\u0c41\u0c06\u0c30\u0c3e \u0c0e\u0c28\u0c3f\u0c2e\u0c4d"
@@ -174,11 +196,12 @@
         "hasc:id":"ID.SL.ME",
         "wd:id":"Q8119"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"05d3c9a607e0eecc8f6c792eb67142c2",
+    "wof:geomhash":"d7fac9e5c27b89a3b67baefc8838c106",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -195,7 +218,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614722335,
+    "wof:lastmodified":1695886540,
     "wof:name":"Muara Enim",
     "wof:parent_id":85672013,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.377259,
-    "geom:area_square_m":4657885651.316509,
+    "geom:area_square_m":4657885651.315941,
     "geom:bbox":"127.48439,-3.56941,128.76445,-2.83516",
     "geom:latitude":-3.133102,
     "geom:longitude":128.31847,
@@ -26,6 +26,9 @@
     "meso:name_local":"SERAM BAGIAN BARAT",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Seram Bagian Barat"
+    ],
     "name:ceb_x_preferred":[
         "Kabupaten Seram Bagian Barat"
     ],
@@ -36,16 +39,26 @@
         "Seram Bagian Barat"
     ],
     "name:eng_x_variant":[
-        "SERAM BAGIAN BARAT"
+        "SERAM BAGIAN BARAT",
+        "Western Seram Regency"
     ],
     "name:fra_x_preferred":[
         "West Seram Regency"
     ],
+    "name:gle_x_preferred":[
+        "Seram Thiar"
+    ],
     "name:ind_x_preferred":[
         "Seram Bagian Barat"
     ],
+    "name:ind_x_variant":[
+        "Kabupaten Seram Bagian Barat"
+    ],
     "name:jav_x_preferred":[
         "Kabupat\u00e8n Seram Kulon"
+    ],
+    "name:jav_x_variant":[
+        "Kabupat\u00e8n Seram Bag\u00e9an Kulon"
     ],
     "name:jpn_x_preferred":[
         "\u897f\u90e8\u30bb\u30e9\u30e0\u770c"
@@ -53,11 +66,20 @@
     "name:msa_x_preferred":[
         "Kabupaten Seram Bahagian Barat"
     ],
+    "name:por_x_preferred":[
+        "Seram Occidental"
+    ],
     "name:spa_x_preferred":[
         "Seram Occidental"
     ],
+    "name:sun_x_preferred":[
+        "Kabupat\u00e9n Seram Bag\u00e9an Kulon"
+    ],
     "name:swe_x_preferred":[
         "Kabupaten Seram Bagian Barat"
+    ],
+    "name:tet_x_preferred":[
+        "Seram Occidental"
     ],
     "name:zho_x_preferred":[
         "\u897f\u65af\u5170\u53bf"
@@ -86,9 +108,10 @@
         "hasc:id":"ID.MA.SB",
         "wd:id":"Q18942"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:created":1482878529,
-    "wof:geomhash":"d93c4d7e0e4b82ac0dde304bb16b755c",
+    "wof:geomhash":"5e18c17a48f4de7e246d9382560a9bef",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -105,7 +128,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614722597,
+    "wof:lastmodified":1695886546,
     "wof:name":"Seram Bagian Barat",
     "wof:parent_id":85672097,
     "wof:placetype":"county",

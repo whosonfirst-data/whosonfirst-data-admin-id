@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.032428,
-    "geom:area_square_m":396492777.350651,
+    "geom:area_square_m":396492777.350308,
     "geom:bbox":"115.083168,-8.8495,115.251266,-8.241968",
     "geom:latitude":-8.582292,
     "geom:longitude":115.187703,
@@ -31,6 +31,12 @@
     "mps:longitude":115.200356,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Badung"
+    ],
+    "name:cat_x_preferred":[
+        "Badung"
+    ],
     "name:ceb_x_preferred":[
         "Kabupaten Badung"
     ],
@@ -43,8 +49,20 @@
     "name:eng_x_variant":[
         "BADUNG"
     ],
+    "name:epo_x_preferred":[
+        "Badung"
+    ],
     "name:fra_x_preferred":[
         "kabupaten de Badung"
+    ],
+    "name:gle_x_preferred":[
+        "Badung"
+    ],
+    "name:gsw_x_preferred":[
+        "Badung"
+    ],
+    "name:hrv_x_preferred":[
+        "Badung"
     ],
     "name:ind_x_preferred":[
         "Badung"
@@ -55,11 +73,23 @@
     "name:jav_x_preferred":[
         "Kabupat\u00e8n Badung"
     ],
+    "name:jav_x_variant":[
+        "Badung"
+    ],
     "name:jpn_x_preferred":[
         "\u30d0\u30c9\u30a5\u30f3\u770c"
     ],
     "name:kor_x_preferred":[
         "\ubc14\ub465 \uad70"
+    ],
+    "name:kor_x_variant":[
+        "\ubc14\ub465\uad70"
+    ],
+    "name:lav_x_preferred":[
+        "Badungs"
+    ],
+    "name:lit_x_preferred":[
+        "Badungas"
     ],
     "name:mal_x_preferred":[
         "\u0d2c\u0d21\u0d41\u0d19\u0d4d \u0d31\u0d40\u0d1c\u0d7b\u0d38\u0d3f"
@@ -67,20 +97,38 @@
     "name:msa_x_preferred":[
         "Kabupaten Badung"
     ],
+    "name:nan_x_preferred":[
+        "Badung Ko\u0101n"
+    ],
+    "name:nds_x_preferred":[
+        "Badung"
+    ],
     "name:nld_x_preferred":[
         "Badung"
     ],
     "name:nob_x_preferred":[
         "Badung"
     ],
+    "name:pol_x_preferred":[
+        "Badung"
+    ],
+    "name:por_x_preferred":[
+        "Badung"
+    ],
     "name:rus_x_preferred":[
         "\u0411\u0430\u0434\u0443\u043d\u0433"
+    ],
+    "name:slk_x_preferred":[
+        "Badung"
     ],
     "name:spa_x_preferred":[
         "Badung"
     ],
     "name:sun_x_preferred":[
         "Kabupat\u00e9n Badung"
+    ],
+    "name:sun_x_variant":[
+        "Badung"
     ],
     "name:swe_x_preferred":[
         "Kabupaten Badung"
@@ -123,11 +171,12 @@
         "hasc:id":"ID.BA.BD",
         "wd:id":"Q11482"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b0598008df0c165f37a5b5bbb40e11b9",
+    "wof:geomhash":"79d8477b2d445ac4ef8f56042c75e485",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -144,7 +193,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614717023,
+    "wof:lastmodified":1695886507,
     "wof:name":"Badung",
     "wof:parent_id":85672023,
     "wof:placetype":"county",

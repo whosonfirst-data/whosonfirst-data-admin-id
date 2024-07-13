@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.291327,
-    "geom:area_square_m":3601219611.675319,
+    "geom:area_square_m":3601219611.674809,
     "geom:bbox":"100.875969,-1.724156,101.671196,-1.004786",
     "geom:latitude":-1.407349,
     "geom:longitude":101.254444,
@@ -26,6 +26,9 @@
     "meso:name_local":"SOLOK SELATAN",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Solok Selatan"
+    ],
     "name:bel_x_preferred":[
         "\u0410\u043a\u0440\u0443\u0433\u0430 \u041f\u0430\u045e\u0434\u043d\u0451\u0432\u044b \u0421\u0430\u043b\u043e\u043a"
     ],
@@ -39,13 +42,20 @@
         "Solok Selatan"
     ],
     "name:eng_x_variant":[
-        "SOLOK SELATAN"
+        "SOLOK SELATAN",
+        "South Solok Regency"
     ],
     "name:fra_x_preferred":[
         "kabupaten Solok"
     ],
+    "name:gle_x_preferred":[
+        "Solok Theas"
+    ],
     "name:ind_x_preferred":[
         "Solok Selatan"
+    ],
+    "name:ind_x_variant":[
+        "Kabupaten Solok Selatan"
     ],
     "name:ita_x_preferred":[
         "Solok Sud"
@@ -53,11 +63,17 @@
     "name:jav_x_preferred":[
         "Kabupat\u00e8n Solok Kidul"
     ],
+    "name:jpn_x_preferred":[
+        "\u5357\u30bd\u30ed\u30c3\u30af\u770c"
+    ],
     "name:min_x_preferred":[
         "Kabupaten Solok Salatan"
     ],
     "name:msa_x_preferred":[
         "Kabupaten Solok Selatan"
+    ],
+    "name:nan_x_preferred":[
+        "L\u00e2m Solok Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Zuid-Solok"
@@ -101,9 +117,10 @@
         "hasc:id":"ID.SB.SK",
         "wd:id":"Q6083"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:created":1482878633,
-    "wof:geomhash":"d43483817748aa3dded52d4ebd827d87",
+    "wof:geomhash":"7a0dd74bbe7bf860047955fcd0d1c3d3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -120,7 +137,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614723002,
+    "wof:lastmodified":1695886555,
     "wof:name":"Solok Selatan",
     "wof:parent_id":85672087,
     "wof:placetype":"county",

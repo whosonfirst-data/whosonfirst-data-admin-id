@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.096846,
-    "geom:area_square_m":1196267275.724838,
+    "geom:area_square_m":1196267275.724836,
     "geom:bbox":"115.154381,-2.799805,115.688515,-2.462496",
     "geom:latitude":-2.614064,
     "geom:longitude":115.423444,
@@ -31,6 +31,9 @@
     "mps:longitude":115.42344,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Hulu Sungai Tengah"
+    ],
     "name:bjn_x_preferred":[
         "Kabupatin Hulu Sungai Tangah"
     ],
@@ -44,13 +47,20 @@
         "Hulu Sungai Tengah"
     ],
     "name:eng_x_variant":[
-        "HULUSUNGAI TENGAH"
+        "HULUSUNGAI TENGAH",
+        "Central Hulu Sungai Regency"
     ],
     "name:fra_x_preferred":[
         "Hulu Sungai Central"
     ],
+    "name:gle_x_preferred":[
+        "Hulu Sungai L\u00e1ir"
+    ],
     "name:ind_x_preferred":[
         "Hulu Sungai Tengah"
+    ],
+    "name:ind_x_variant":[
+        "Kabupaten Hulu Sungai Tengah"
     ],
     "name:jav_x_preferred":[
         "Kabupat\u00e8n Hulu Sungai Tengah"
@@ -63,6 +73,9 @@
     ],
     "name:msa_x_preferred":[
         "Kabupaten Hulu Sungai Tengah"
+    ],
+    "name:nan_x_preferred":[
+        "Tiong Hulu Sungai Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Hulu Sungai Tengah"
@@ -114,11 +127,12 @@
         "hasc:id":"ID.KS.HT",
         "wd:id":"Q14173"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c80da40e8ce9238a4f4582cdcbd1eb60",
+    "wof:geomhash":"07f2dcf293eb993028fae8779a4b04c5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -135,7 +149,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614720977,
+    "wof:lastmodified":1695886532,
     "wof:name":"Hulu Sungai Tengah",
     "wof:parent_id":85672031,
     "wof:placetype":"county",

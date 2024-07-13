@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"121.3381,-1.9893,121.3381,-1.9893",
@@ -24,7 +26,7 @@
     "gn:timezone":"Asia/Makassar",
     "iso:country":"ID",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":13.0,
     "name:ind_x_preferred":[
         "Kolonodale"
@@ -64,12 +66,14 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614649738,
+    "wof:lastmodified":1706239766,
     "wof:name":"Kolonodale",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        102020141
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

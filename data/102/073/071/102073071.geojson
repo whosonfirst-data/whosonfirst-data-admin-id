@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.040401,
-    "geom:area_square_m":499511441.246146,
+    "geom:area_square_m":499511441.246024,
     "geom:bbox":"119.757889,-0.947112,120.043839,-0.70202",
     "geom:latitude":-0.829634,
     "geom:longitude":119.920242,
@@ -40,8 +40,14 @@
     "name:azb_x_preferred":[
         "\u067e\u0627\u0644\u0648"
     ],
+    "name:ban_x_preferred":[
+        "Kota Palu"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041f\u0430\u043b\u0443"
+    ],
+    "name:bel_x_variant":[
+        "\u041f\u0430\u043b\u0443"
     ],
     "name:ben_x_preferred":[
         "\u09aa\u09be\u09b2\u09cb"
@@ -51,6 +57,9 @@
     ],
     "name:ceb_x_preferred":[
         "Kota Palu"
+    ],
+    "name:ces_x_preferred":[
+        "Palu"
     ],
     "name:dan_x_preferred":[
         "Palu"
@@ -65,7 +74,11 @@
         "Palu"
     ],
     "name:eng_x_variant":[
-        "KOTA PALU"
+        "KOTA PALU",
+        "Palu City"
+    ],
+    "name:epo_x_preferred":[
+        "Paluo"
     ],
     "name:est_x_preferred":[
         "Palu"
@@ -83,6 +96,9 @@
         "Palu"
     ],
     "name:fra_x_preferred":[
+        "Palu"
+    ],
+    "name:gle_x_preferred":[
         "Palu"
     ],
     "name:gor_x_preferred":[
@@ -103,17 +119,26 @@
     "name:ind_x_preferred":[
         "Palu"
     ],
+    "name:ind_x_variant":[
+        "Kota Palu"
+    ],
     "name:ita_x_preferred":[
         "Palu"
     ],
     "name:jav_x_preferred":[
         "Kutha Palu"
     ],
+    "name:jav_x_variant":[
+        "Palu"
+    ],
     "name:jpn_x_preferred":[
         "\u30d1\u30eb"
     ],
     "name:kan_x_preferred":[
         "\u0caa\u0cbe\u0cb2\u0cc1"
+    ],
+    "name:kat_x_preferred":[
+        "\u10de\u10d0\u10da\u10e3"
     ],
     "name:kor_x_preferred":[
         "\ud314\ub8e8"
@@ -145,6 +170,9 @@
     "name:oci_x_preferred":[
         "Palu"
     ],
+    "name:oss_x_preferred":[
+        "\u041f\u0430\u043b\u0443"
+    ],
     "name:pnb_x_preferred":[
         "\u067e\u0627\u0644\u0648"
     ],
@@ -169,11 +197,17 @@
     "name:sqi_x_preferred":[
         "Palu"
     ],
+    "name:sun_x_preferred":[
+        "Palu"
+    ],
     "name:swe_x_preferred":[
         "Palu"
     ],
     "name:tam_x_preferred":[
         "\u0baa\u0bbe\u0bb2\u0bc1"
+    ],
+    "name:tat_x_preferred":[
+        "\u041f\u0430\u043b\u0443"
     ],
     "name:tel_x_preferred":[
         "\u0c2a\u0c3e\u0c32\u0c41"
@@ -192,6 +226,9 @@
     ],
     "name:urd_x_preferred":[
         "\u067e\u0627\u0644\u0648"
+    ],
+    "name:vec_x_preferred":[
+        "Palu"
     ],
     "name:vie_x_preferred":[
         "Palu"
@@ -246,11 +283,12 @@
         "hasc:id":"ID.ST.PA",
         "wd:id":"Q15826"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d10a4adb70c36e6b492d5d1bbb7a0a01",
+    "wof:geomhash":"f6e010baad10ad0a09e4060560708d71",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -267,7 +305,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614718393,
+    "wof:lastmodified":1695886516,
     "wof:name":"Palu",
     "wof:parent_id":85672111,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.110482,
-    "geom:area_square_m":1354579327.251239,
+    "geom:area_square_m":1354579327.251243,
     "geom:bbox":"108.891609,-7.663941,109.446373,-7.246292",
     "geom:latitude":-7.456145,
     "geom:longitude":109.173651,
@@ -31,6 +31,12 @@
     "mps:longitude":109.102158,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Banyumas"
+    ],
+    "name:cat_x_preferred":[
+        "Banyumas"
+    ],
     "name:ceb_x_preferred":[
         "Kabupaten Banyumas"
     ],
@@ -41,13 +47,23 @@
         "Banyumas"
     ],
     "name:eng_x_variant":[
-        "BANYUMAS"
+        "BANYUMAS",
+        "Banyumas Regency"
     ],
     "name:fra_x_preferred":[
         "kabupaten de Banyumas"
     ],
+    "name:gle_x_preferred":[
+        "Banyumas"
+    ],
+    "name:gor_x_preferred":[
+        "Kabupaten Banyumas"
+    ],
     "name:ind_x_preferred":[
         "Banyumas"
+    ],
+    "name:ind_x_variant":[
+        "Kabupaten Banyumas"
     ],
     "name:ita_x_preferred":[
         "Reggenza di Banyumas"
@@ -55,11 +71,20 @@
     "name:jav_x_preferred":[
         "Kabupat\u00e8n Banyumas"
     ],
+    "name:jav_x_variant":[
+        "Banyumas"
+    ],
     "name:jpn_x_preferred":[
         "\u30d0\u30cb\u30e5\u30de\u30b9\u770c"
     ],
+    "name:kor_x_preferred":[
+        "\ubc18\uc720\ub9c8\uc2a4"
+    ],
     "name:msa_x_preferred":[
         "Kabupaten Banyumas"
+    ],
+    "name:nan_x_preferred":[
+        "Banyumas Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Banyumas"
@@ -67,17 +92,26 @@
     "name:ron_x_preferred":[
         "Banyumas"
     ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043d\u044c\u044e\u043c\u0430\u0441"
+    ],
     "name:spa_x_preferred":[
         "Banyumas"
     ],
     "name:sun_x_preferred":[
         "Kabupat\u00e9n Banyumas"
     ],
+    "name:sun_x_variant":[
+        "Banyumas"
+    ],
     "name:swe_x_preferred":[
         "Kabupaten Banyumas"
     ],
     "name:vie_x_preferred":[
         "Banyumas"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e07\u7531\u9a6c\u58eb\u53bf"
     ],
     "qs:a0":"Indonesia",
     "qs:a0_lc":"IDN",
@@ -114,11 +148,12 @@
         "hasc:id":"ID.JT.BY",
         "wd:id":"Q10605"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e35dc9b2013216fe955bf9c3f7023367",
+    "wof:geomhash":"7ccc28ea2a75b75ac7d3ea8a7f4b0049",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -135,7 +170,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614715746,
+    "wof:lastmodified":1695886500,
     "wof:name":"Banyumas",
     "wof:parent_id":85671987,
     "wof:placetype":"county",

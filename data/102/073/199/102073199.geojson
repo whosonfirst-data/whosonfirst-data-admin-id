@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.066208,
-    "geom:area_square_m":815816032.308543,
+    "geom:area_square_m":815816032.308381,
     "geom:bbox":"118.944923,-4.950561,119.809959,-4.555259",
     "geom:latitude":-4.790398,
     "geom:longitude":119.630522,
@@ -31,6 +31,9 @@
     "mps:longitude":119.587769,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Pangkajene dan Kepulauan"
+    ],
     "name:ceb_x_preferred":[
         "Kabupaten Pangkajene Dan Kepulauan"
     ],
@@ -42,22 +45,35 @@
     ],
     "name:eng_x_variant":[
         "PANGKAJENE KEPULAUAN",
-        "Pangkajene Islands"
+        "Pangkajene Islands",
+        "Pangkajene and Islands Regency"
     ],
     "name:fra_x_preferred":[
         "kabupaten de Pangkajene et les \u00eeles"
     ],
+    "name:gle_x_preferred":[
+        "Pangkajene agus Oile\u00e1in"
+    ],
     "name:ind_x_preferred":[
         "Pangkajene Kepulauan"
     ],
+    "name:ind_x_variant":[
+        "Kabupaten Pangkajene dan Kepulauan"
+    ],
     "name:ita_x_preferred":[
         "Reggenza dell'isola Pangkajene"
+    ],
+    "name:jav_x_preferred":[
+        "Kabupat\u00e8n Pangkajene Kapuloan"
     ],
     "name:jpn_x_preferred":[
         "\u30d1\u30f3\u30ab\u30b8\u30a7\u30cd\u8af8\u5cf6\u770c"
     ],
     "name:msa_x_preferred":[
         "Pangkajene dan Kepulauan"
+    ],
+    "name:nan_x_preferred":[
+        "Pangkajene kap K\u00fbn-t\u00f3 Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Pangkajene-eilanden"
@@ -109,11 +125,12 @@
         "hasc:id":"ID.SE.PK",
         "wd:id":"Q14613"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"2156aaa4a47e4406bf4a68164250d812",
+    "wof:geomhash":"5e5bb6329d3bc7fb062065f93c3e10bd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -130,7 +147,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614719202,
+    "wof:lastmodified":1695886521,
     "wof:name":"Pangkajene Kepulauan",
     "wof:parent_id":85672041,
     "wof:placetype":"county",

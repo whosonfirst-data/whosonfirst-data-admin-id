@@ -9,7 +9,19 @@
     "geom:bbox":"120.439529,-8.630793,120.490647,-8.566553",
     "geom:latitude":-8.604077,
     "geom:longitude":120.464761,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Ruteng",
+    "gn:country_code":"ID",
+    "gn:dem":1228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7058943,
+    "gn:latitude":-8.6157,
+    "gn:longitude":120.4467,
+    "gn:modification_date":"2018-04-24",
+    "gn:name":"Ruteng",
     "gn:population":34569,
+    "gn:timezone":"Asia/Makassar",
     "iso:country":"ID",
     "lbl:latitude":-8.608063,
     "lbl:longitude":120.465244,
@@ -20,6 +32,9 @@
     "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0631\u0648\u062b\u0646"
+    ],
+    "name:ban_x_preferred":[
+        "Rut\u00e9ng"
     ],
     "name:ben_x_preferred":[
         "\u09b0\u09c1\u09a4\u09c7\u0982"
@@ -235,6 +250,14 @@
         "wd:id":"Q1708604",
         "wk:page":"Ruteng"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7058943
+        ],
+        "wk:page":[
+            "Ruteng"
+        ]
+    },
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -257,7 +280,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1636502315,
+    "wof:lastmodified":1706239765,
     "wof:name":"Ruteng",
     "wof:parent_id":102073439,
     "wof:placetype":"locality",
@@ -265,7 +288,9 @@
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1226611209
+    ],
     "wof:tags":[]
 },
   "bbox": [

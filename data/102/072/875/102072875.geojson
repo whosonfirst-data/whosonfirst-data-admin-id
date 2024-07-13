@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.447613,
-    "geom:area_square_m":5532651706.345845,
+    "geom:area_square_m":5532651706.344667,
     "geom:bbox":"103.144226,-2.17984,104.363335,-1.263428",
     "geom:latitude":-1.592377,
     "geom:longitude":103.803965,
@@ -31,6 +31,9 @@
     "mps:longitude":103.892329,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Muaro Jambi"
+    ],
     "name:ceb_x_preferred":[
         "Kabupaten Muaro Jambi"
     ],
@@ -41,13 +44,20 @@
         "Muaro Jambi"
     ],
     "name:eng_x_variant":[
-        "MUAROJAMBI"
+        "MUAROJAMBI",
+        "Muaro Jambi Regency"
     ],
     "name:fra_x_preferred":[
         "Muaro Jambi"
     ],
+    "name:gle_x_preferred":[
+        "Muaro Jambi"
+    ],
     "name:ind_x_preferred":[
         "Muaro Jambi"
+    ],
+    "name:ind_x_variant":[
+        "Kabupaten Muaro Jambi"
     ],
     "name:ita_x_preferred":[
         "Muaro Jambi"
@@ -55,8 +65,20 @@
     "name:jav_x_preferred":[
         "Kabupat\u00e8n Muaro Jambi"
     ],
+    "name:jav_x_variant":[
+        "Muaro Jambi"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e0\u30a2\u30ed"
+    ],
+    "name:min_x_preferred":[
+        "Kabupaten Muaro Jambi"
+    ],
     "name:msa_x_preferred":[
         "Kabupaten Muaro Jambi"
+    ],
+    "name:nan_x_preferred":[
+        "Muaro Jambi Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Muaro Jambi"
@@ -72,6 +94,9 @@
     ],
     "name:swe_x_preferred":[
         "Kabupaten Muaro Jambi"
+    ],
+    "name:zho_x_preferred":[
+        "\u7a46\u963f\u7f57\u53bf"
     ],
     "qs:a0":"Indonesia",
     "qs:a0_lc":"IDN",
@@ -108,11 +133,12 @@
         "hasc:id":"ID.JA.MJ",
         "wd:id":"Q7381"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ca3ec862492902858d9afc43709320ce",
+    "wof:geomhash":"dec4291d966d72fb5b9154a41e613b9c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -129,7 +155,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614716950,
+    "wof:lastmodified":1695886506,
     "wof:name":"Muaro Jambi",
     "wof:parent_id":85672059,
     "wof:placetype":"county",

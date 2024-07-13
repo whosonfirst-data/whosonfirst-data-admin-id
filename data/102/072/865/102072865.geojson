@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.135851,
-    "geom:area_square_m":1677368553.787662,
+    "geom:area_square_m":1677368553.787778,
     "geom:bbox":"101.919136,-3.383522,102.505791,-2.723213",
     "geom:latitude":-3.090745,
     "geom:longitude":102.248896,
@@ -31,6 +31,9 @@
     "mps:longitude":102.366104,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Lebong"
+    ],
     "name:ceb_x_preferred":[
         "Kabupaten Lebong"
     ],
@@ -41,13 +44,20 @@
         "Lebong"
     ],
     "name:eng_x_variant":[
-        "LEBONG"
+        "LEBONG",
+        "Lebong Regency"
     ],
     "name:fra_x_preferred":[
         "Lebong"
     ],
+    "name:gle_x_preferred":[
+        "Lebong"
+    ],
     "name:ind_x_preferred":[
         "Lebong"
+    ],
+    "name:ind_x_variant":[
+        "Kabupaten Lebong"
     ],
     "name:ita_x_preferred":[
         "Lebong"
@@ -55,11 +65,20 @@
     "name:jav_x_preferred":[
         "Kabupat\u00e8n Lebong"
     ],
+    "name:jav_x_variant":[
+        "Lebong"
+    ],
     "name:jpn_x_preferred":[
         "\u30eb\u30dc\u30f3\u770c"
     ],
+    "name:min_x_preferred":[
+        "Kabupaten Lebong"
+    ],
     "name:msa_x_preferred":[
         "Kabupaten Lebong"
+    ],
+    "name:nan_x_preferred":[
+        "Lebong Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Lebong"
@@ -72,6 +91,9 @@
     ],
     "name:swe_x_preferred":[
         "Kabupaten Lebong"
+    ],
+    "name:zho_x_preferred":[
+        "\u91cc\u90a6\u7e23"
     ],
     "qs:a0":"Indonesia",
     "qs:a0_lc":"IDN",
@@ -109,11 +131,12 @@
         "hasc:id":"ID.BE.LE",
         "wd:id":"Q8031"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"91001e6f98b9e5ab5e36e3c33eea6190",
+    "wof:geomhash":"69eb6622583ecd9985399c65acaf6e83",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -130,7 +153,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614716934,
+    "wof:lastmodified":1695886506,
     "wof:name":"Lebong",
     "wof:parent_id":85671991,
     "wof:placetype":"county",

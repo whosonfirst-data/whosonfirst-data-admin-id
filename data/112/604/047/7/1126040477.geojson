@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"101.45,1.68333,101.45,1.68333",
@@ -17,7 +19,7 @@
     "lbl:latitude":1.68333,
     "lbl:longitude":101.45,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":13.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ace_x_preferred":[
@@ -35,11 +37,17 @@
     "name:ast_x_preferred":[
         "Dumai"
     ],
+    "name:ban_x_preferred":[
+        "Kota Dumai"
+    ],
     "name:bar_x_preferred":[
         "Dumai"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0414\u0443\u043c\u0430\u0439"
+    ],
+    "name:bel_x_variant":[
+        "\u0414\u0443\u043c\u0430\u0439"
     ],
     "name:ben_x_preferred":[
         "\u09a6\u09c1\u09ae\u09be\u0987"
@@ -73,6 +81,9 @@
     ],
     "name:eng_x_preferred":[
         "Dumai"
+    ],
+    "name:eng_x_variant":[
+        "Dumai City"
     ],
     "name:epo_x_preferred":[
         "Dumai"
@@ -116,6 +127,9 @@
     "name:guj_x_preferred":[
         "\u0aa6\u0ac1\u0aae\u0abe\u0a87"
     ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05d5\u05de\u05d0\u05d9"
+    ],
     "name:hin_x_preferred":[
         "\u0921\u0941\u092e\u093e\u0908"
     ],
@@ -124,6 +138,9 @@
     ],
     "name:hun_x_preferred":[
         "Dumai"
+    ],
+    "name:hye_x_preferred":[
+        "\u0534\u0578\u0582\u0574\u0561\u0575"
     ],
     "name:ido_x_preferred":[
         "Dumai"
@@ -187,6 +204,9 @@
     ],
     "name:msa_x_preferred":[
         "Kota Dumai"
+    ],
+    "name:nan_x_preferred":[
+        "Dumai Chh\u012b"
     ],
     "name:nap_x_preferred":[
         "Dumai"
@@ -263,6 +283,9 @@
     "name:tam_x_preferred":[
         "\u0b9f\u0bc2\u0bae\u0bc8"
     ],
+    "name:tat_x_preferred":[
+        "\u0414\u0443\u043c\u0430\u0439"
+    ],
     "name:tel_x_preferred":[
         "\u0c26\u0c41\u0c2e\u0c48"
     ],
@@ -335,8 +358,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        1108796915,
-        85672077
+        85672077,
+        1108796915
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -365,14 +388,16 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614653775,
+    "wof:lastmodified":1706239767,
     "wof:name":"Dumai",
     "wof:parent_id":1108796915,
     "wof:placetype":"locality",
     "wof:population":143760,
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-id",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        102020555
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

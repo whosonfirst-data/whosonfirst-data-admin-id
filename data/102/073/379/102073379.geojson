@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.148004,
-    "geom:area_square_m":1826669485.892823,
+    "geom:area_square_m":1826669485.894389,
     "geom:bbox":"119.6856,-3.824284,120.097084,-3.239963",
     "geom:latitude":-3.505162,
     "geom:longitude":119.873245,
@@ -46,6 +46,9 @@
     "name:ast_x_preferred":[
         "Enrekang"
     ],
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Enrekang"
+    ],
     "name:bar_x_preferred":[
         "Enrekang"
     ],
@@ -83,7 +86,8 @@
         "Enrekang"
     ],
     "name:eng_x_variant":[
-        "ENREKANG"
+        "ENREKANG",
+        "Enrekang Regency"
     ],
     "name:epo_x_preferred":[
         "Enrekang"
@@ -115,6 +119,9 @@
     "name:glg_x_preferred":[
         "Enrekang"
     ],
+    "name:gor_x_preferred":[
+        "Kabupaten Enrekang"
+    ],
     "name:gsw_x_preferred":[
         "Enrekang"
     ],
@@ -141,6 +148,9 @@
     ],
     "name:ind_x_preferred":[
         "Enrekang"
+    ],
+    "name:ind_x_variant":[
+        "Kabupaten Enrekang"
     ],
     "name:isl_x_preferred":[
         "Enrekang"
@@ -189,6 +199,9 @@
     ],
     "name:msa_x_preferred":[
         "Enrekang"
+    ],
+    "name:nan_x_preferred":[
+        "Enrekang Ko\u0101n"
     ],
     "name:nap_x_preferred":[
         "Enrekang"
@@ -339,11 +352,12 @@
         "hasc:id":"ID.SE.EN",
         "wd:id":"Q14599"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"70c55c8edebdab5409d3e5ef73a2f25e",
+    "wof:geomhash":"269c71777acae598112fb058116b47a7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -360,7 +374,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614720758,
+    "wof:lastmodified":1695886529,
     "wof:name":"Enrekang",
     "wof:parent_id":85672041,
     "wof:placetype":"county",

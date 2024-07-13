@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003358,
-    "geom:area_square_m":41174182.611146,
+    "geom:area_square_m":41174182.611131,
     "geom:bbox":"109.194313,-7.479281,109.273438,-7.382461",
     "geom:latitude":-7.427665,
     "geom:longitude":109.239728,
     "iso:country":"ID",
+    "label:eng_x_preferred_longname":[
+        "Kota Purwokerto Regency"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "regency"
+    ],
     "lbl:latitude":-7.421974,
     "lbl:longitude":109.239762,
     "meso:admin_1":"JAWA TENGAH",
@@ -47,18 +53,32 @@
         "quattroshapes"
     ],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population_date":"2010-05-15",
+    "statoids:areakm":1335,
+    "statoids:capital":"Purwokerto",
+    "statoids:country":"ID",
+    "statoids:date":"2010-05-15",
+    "statoids:hasc":"ID.JT.BY",
+    "statoids:name":"Banyumas",
+    "statoids:population":1554527,
+    "statoids:statoid":"ID.JT",
+    "statoids:timezone":"+7",
+    "statoids:type":"regency",
     "wof:belongsto":[
         102191569,
         85632203,
         85671987
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"ID.JT.BY"
+    },
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b79491de45ccec6d1f5cb33b7933dd4e",
+    "wof:geomhash":"2f7caa1952bfa43c6fa9d5ce8c684856",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -75,10 +95,12 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1627522196,
+    "wof:lastmodified":1695886675,
     "wof:name":"Kota Purwokerto",
     "wof:parent_id":85671987,
     "wof:placetype":"county",
+    "wof:population":1554527,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.099636,
-    "geom:area_square_m":1228313009.94077,
+    "geom:area_square_m":1228313009.940737,
     "geom:bbox":"119.579041,-4.800323,119.82283,-4.061404",
     "geom:latitude":-4.437395,
     "geom:longitude":119.691621,
@@ -43,6 +43,9 @@
     "name:ast_x_preferred":[
         "Barru"
     ],
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Barru"
+    ],
     "name:bar_x_preferred":[
         "Barru"
     ],
@@ -74,7 +77,8 @@
         "Barru"
     ],
     "name:eng_x_variant":[
-        "BARRU"
+        "BARRU",
+        "Barru Regency"
     ],
     "name:epo_x_preferred":[
         "Barru"
@@ -106,6 +110,9 @@
     "name:glg_x_preferred":[
         "Barru"
     ],
+    "name:gor_x_preferred":[
+        "Kabupaten Barru"
+    ],
     "name:gsw_x_preferred":[
         "Barru"
     ],
@@ -126,6 +133,9 @@
     ],
     "name:ind_x_preferred":[
         "Barru"
+    ],
+    "name:ind_x_variant":[
+        "Kabupaten Barru"
     ],
     "name:isl_x_preferred":[
         "Barru"
@@ -159,6 +169,9 @@
     ],
     "name:msa_x_preferred":[
         "Barru"
+    ],
+    "name:nan_x_preferred":[
+        "Barru Ko\u0101n"
     ],
     "name:nap_x_preferred":[
         "Barru"
@@ -286,11 +299,12 @@
         "hasc:id":"ID.SE.BR",
         "wd:id":"Q14593"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"491cf8db7568acff97c936f99c62bb59",
+    "wof:geomhash":"6bffde7c93f5c60d92d88af5e9f5d577",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -307,7 +321,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614717853,
+    "wof:lastmodified":1695886512,
     "wof:name":"Barru",
     "wof:parent_id":85672041,
     "wof:placetype":"county",

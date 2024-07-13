@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.305151,
-    "geom:area_square_m":3771355639.2641,
+    "geom:area_square_m":3771355639.263576,
     "geom:bbox":"113.396484,-2.17832,114.220863,-1.381207",
     "geom:latitude":-1.806331,
     "geom:longitude":113.757485,
@@ -37,6 +37,9 @@
     "name:ara_x_preferred":[
         "\u0628\u0627\u0644\u0627\u0646\u063a\u0643\u0627\u0631\u0627\u064a\u0627"
     ],
+    "name:ban_x_preferred":[
+        "Palangka Raya"
+    ],
     "name:bjn_x_preferred":[
         "Kuta Palangka Raya"
     ],
@@ -49,15 +52,22 @@
     "name:ceb_x_preferred":[
         "Kota Palangka Raya"
     ],
+    "name:dan_x_preferred":[
+        "Palangkaraya"
+    ],
     "name:deu_x_preferred":[
         "Palangka Raya"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03b1\u03bb\u03ac\u03bd\u03b3\u03ba\u03b1 \u03a1\u03ac\u03b3\u03b9\u03b1"
     ],
     "name:eng_x_preferred":[
         "Palangka Raya"
     ],
     "name:eng_x_variant":[
         "KOTA PALANGKARAYA",
-        "Palangkaraya"
+        "Palangkaraya",
+        "Palangkaraya City"
     ],
     "name:epo_x_preferred":[
         "Palangka Raya"
@@ -74,17 +84,24 @@
     "name:fra_x_preferred":[
         "Palangkaraya"
     ],
+    "name:gle_x_preferred":[
+        "Palangkaraya"
+    ],
     "name:glg_x_preferred":[
         "Palangkaraya"
     ],
     "name:gor_x_preferred":[
         "Kota Palangkaraya"
     ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d0\u05dc\u05e0\u05d2\u05e7\u05d4 \u05e8\u05d0\u05d9\u05d4"
+    ],
     "name:ind_x_preferred":[
         "Kota Palangka Raya"
     ],
     "name:ind_x_variant":[
-        "Palangka Raya"
+        "Palangka Raya",
+        "Kota Palangkaraya"
     ],
     "name:ita_x_preferred":[
         "Palangkaraya"
@@ -103,6 +120,9 @@
     ],
     "name:mal_x_preferred":[
         "\u0d2a\u0d32\u0d3e\u0d19\u0d4d\u0d15 \u0d31\u0d3e\u0d2f"
+    ],
+    "name:min_x_preferred":[
+        "Kota Palangka Raya"
     ],
     "name:mlg_x_preferred":[
         "Kota Palangka Raya"
@@ -143,8 +163,17 @@
     "name:spa_x_preferred":[
         "Palangkaraya"
     ],
+    "name:sun_x_preferred":[
+        "Kota Palangka Raya"
+    ],
     "name:swe_x_preferred":[
         "Palangkaraya"
+    ],
+    "name:swe_x_variant":[
+        "Palangka Raya"
+    ],
+    "name:tat_x_preferred":[
+        "\u041f\u0430\u043b\u0430\u04a3\u043a\u0430-\u0420\u0430\u044f"
     ],
     "name:tha_x_preferred":[
         "\u0e1b\u0e32\u0e25\u0e31\u0e07\u0e01\u0e32\u0e23\u0e32\u0e22\u0e32"
@@ -152,8 +181,17 @@
     "name:tur_x_preferred":[
         "Palangkaraya"
     ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0430\u043b\u0430\u043d\u0433\u043a\u0430\u0440\u0430\u044f"
+    ],
     "name:urd_x_preferred":[
         "\u067e\u0627\u0644\u0627\u0646\u06af\u06a9\u0627\u0631\u0627\u06cc\u0627"
+    ],
+    "name:vec_x_preferred":[
+        "Palangkaraya"
+    ],
+    "name:vie_x_preferred":[
+        "Palangka Raya"
     ],
     "name:war_x_preferred":[
         "Palangkaraya"
@@ -203,11 +241,12 @@
         "hasc:id":"ID.KT.PR",
         "wd:id":"Q14409"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ce32967911dd4db99b21be0a8cd7ac3e",
+    "wof:geomhash":"5c63bef15cecd648731d502e9d0c9031",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -224,7 +263,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614714640,
+    "wof:lastmodified":1695886495,
     "wof:name":"Palangka Raya",
     "wof:parent_id":85672063,
     "wof:placetype":"county",

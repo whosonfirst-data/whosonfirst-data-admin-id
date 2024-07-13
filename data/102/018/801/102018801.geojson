@@ -10,6 +10,7 @@
     "geom:latitude":-7.360459,
     "geom:longitude":108.219453,
     "gn:population":271143,
+    "gp:adm0":23424846,
     "iso:country":"ID",
     "lbl:latitude":-7.357067,
     "lbl:longitude":108.219407,
@@ -29,6 +30,9 @@
     ],
     "name:aze_x_preferred":[
         "Tasikmalaya"
+    ],
+    "name:ban_x_preferred":[
+        "Kota Tasikmalaya"
     ],
     "name:ben_x_preferred":[
         "\u099f\u09be\u09b8\u09bf\u0995\u09ae\u09be\u09b2\u09be\u09af\u09bc\u09be"
@@ -54,6 +58,12 @@
     "name:eng_x_preferred":[
         "Tasikmalaya"
     ],
+    "name:eng_x_variant":[
+        "Tasikmalaya City"
+    ],
+    "name:epo_x_preferred":[
+        "Tasikmalaya"
+    ],
     "name:fas_x_preferred":[
         "\u062a\u0627\u0633\u06cc\u06a9\u200c\u0645\u0627\u0644\u0627\u06cc\u0627"
     ],
@@ -63,11 +73,17 @@
     "name:fra_x_preferred":[
         "Tasikmalaya"
     ],
+    "name:gle_x_preferred":[
+        "Tasikmalaya"
+    ],
     "name:guj_x_preferred":[
         "\u0aa4\u0ab8\u0abf\u0a95\u0aae\u0ab2\u0aaf"
     ],
     "name:heb_x_preferred":[
         "\u05d8\u05e1\u05d9\u05e7\u05de\u05dc\u05d0\u05d9\u05d9\u05d4"
+    ],
+    "name:heb_x_variant":[
+        "\u05d8\u05e1\u05d9\u05e7\u05de\u05dc\u05d9\u05d4"
     ],
     "name:hin_x_preferred":[
         "\u0924\u0938\u093f\u0915\u093e\u092e\u0932\u092f"
@@ -165,6 +181,9 @@
     "name:tam_x_preferred":[
         "\u0ba4\u0b9a\u0bbf\u0b95\u0bcd\u0bae\u0bb2\u0bbe\u0baf\u0bbe"
     ],
+    "name:tat_x_preferred":[
+        "\u0422\u0430\u0441\u0438\u043a\u043c\u0430\u043b\u0430\u044f"
+    ],
     "name:tel_x_preferred":[
         "\u0c24\u0c38\u0c3f\u0c15\u0c4d\u0c2e\u0c32\u0c3e\u0c2f"
     ],
@@ -183,7 +202,13 @@
     "name:urd_x_preferred":[
         "\u062a\u0627\u0633\u06cc\u06a9\u0645\u0627\u0644\u0627\u06cc\u0627"
     ],
+    "name:vec_x_preferred":[
+        "Tasikmalaya"
+    ],
     "name:vie_x_preferred":[
+        "Tasikmalaya"
+    ],
+    "name:war_x_preferred":[
         "Tasikmalaya"
     ],
     "name:yue_x_preferred":[
@@ -297,7 +322,18 @@
     "qs:loc":"Tasikmalaya",
     "qs:loc_alt":"Tasikmalaya",
     "qs:loc_lc":"1624647",
+    "qs:name":"Tasikmalaya",
+    "qs:name_adm0":"Indonesia",
+    "qs:name_adm1":"Jawa Barat",
+    "qs:photos":69,
+    "qs:photos_1k":14,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":69,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
     "qs:pop":0,
+    "qs:pop_sr":"0",
     "qs:source":"Nquattroshapes",
     "qs:type":"Town",
     "src:geom":"whosonfirst",
@@ -307,6 +343,7 @@
     ],
     "src:lbl:centroid":"mapshaper",
     "src:population":"geonames",
+    "wd:wordcount":567,
     "wof:belongsto":[
         102191569,
         85632203,
@@ -321,6 +358,20 @@
         "qs_pg:id":350414,
         "wd:id":"Q10399",
         "wk:page":"Tasikmalaya"
+    },
+    "wof:concordances_alt":{
+        "gp:id":[
+            1048554
+        ],
+        "qs:id":[
+            211386
+        ],
+        "wd:id":[
+            "Q10399"
+        ],
+        "wk:page":[
+            "Tasikmalaya"
+        ]
     },
     "wof:country":"ID",
     "wof:geom_alt":[
@@ -345,7 +396,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1636502306,
+    "wof:lastmodified":1706239764,
     "wof:name":"Tasikmalaya",
     "wof:parent_id":102073307,
     "wof:placetype":"locality",
@@ -353,7 +404,9 @@
     "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        890500227
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.109734,
-    "geom:area_square_m":1355153044.835769,
+    "geom:area_square_m":1355153044.835907,
     "geom:bbox":"119.656345,-3.184363,120.086487,-2.609515",
     "geom:latitude":-2.889981,
     "geom:longitude":119.860498,
@@ -26,6 +26,9 @@
     "meso:name_local":"TORAJA UTARA",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Toraja Utara"
+    ],
     "name:ceb_x_preferred":[
         "Kabupaten Toraja Utara"
     ],
@@ -36,19 +39,29 @@
         "Toraja Utara"
     ],
     "name:eng_x_variant":[
-        "TORAJA UTARA"
+        "TORAJA UTARA",
+        "North Toraja Regency"
     ],
     "name:fra_x_preferred":[
         "Nord Toraja"
     ],
+    "name:gle_x_preferred":[
+        "Toraja Thuaidh"
+    ],
     "name:ind_x_preferred":[
         "Toraja Utara"
+    ],
+    "name:ind_x_variant":[
+        "Kabupaten Toraja Utara"
     ],
     "name:jav_x_preferred":[
         "Kabupat\u00e8n Toraja Lor"
     ],
     "name:msa_x_preferred":[
         "Toraja Utara"
+    ],
+    "name:nan_x_preferred":[
+        "Pak Toraja Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Toraja Utara"
@@ -58,6 +71,9 @@
     ],
     "name:spa_x_variant":[
         "Kolaka Timur"
+    ],
+    "name:sun_x_preferred":[
+        "Kabupat\u00e9n Toraja Utara"
     ],
     "name:swe_x_preferred":[
         "Kabupaten Toraja Utara"
@@ -89,9 +105,10 @@
         "hasc:id":"ID.SE.TU",
         "wd:id":"Q14609"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:created":1482878608,
-    "wof:geomhash":"9210f11ea6171390f8ac2dc4c20d69a8",
+    "wof:geomhash":"119a950cb321891db375dfb173ab6c7c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -108,7 +125,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614722933,
+    "wof:lastmodified":1695886552,
     "wof:name":"Toraja Utara",
     "wof:parent_id":85672041,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.349251,
-    "geom:area_square_m":4305179088.31348,
+    "geom:area_square_m":4305179088.31333,
     "geom:bbox":"96.255905,4.162592,97.373344,4.971593",
     "geom:latitude":4.508075,
     "geom:longitude":96.884404,
@@ -34,6 +34,9 @@
     "name:ace_x_preferred":[
         "Kabupaten Ac\u00e8h Teungoh"
     ],
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Ac\u00e9h Tengah"
+    ],
     "name:bel_x_preferred":[
         "\u0410\u043a\u0440\u0443\u0433\u0430 \u0426\u044d\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b \u0410\u0447\u044d\u0445"
     ],
@@ -47,16 +50,26 @@
         "Aceh Tengah"
     ],
     "name:eng_x_variant":[
-        "ACEH TENGAH"
+        "ACEH TENGAH",
+        "Central Aceh Regency"
     ],
     "name:fra_x_preferred":[
         "Aceh Tengah"
+    ],
+    "name:fra_x_variant":[
+        "Aceh central"
+    ],
+    "name:gle_x_preferred":[
+        "Aceh L\u00e1ir"
     ],
     "name:gor_x_preferred":[
         "Kabupaten Aceh Tengah"
     ],
     "name:ind_x_preferred":[
         "Aceh Tengah"
+    ],
+    "name:ind_x_variant":[
+        "Kabupaten Aceh Tengah"
     ],
     "name:ita_x_preferred":[
         "Aceh Tengah"
@@ -73,8 +86,14 @@
     "name:msa_x_preferred":[
         "Aceh Tengah"
     ],
+    "name:nan_x_preferred":[
+        "Tiong Aceh Ko\u0101n"
+    ],
     "name:nld_x_preferred":[
         "Aceh Tengah"
+    ],
+    "name:nld_x_variant":[
+        "Centraal-Aceh"
     ],
     "name:por_x_preferred":[
         "Aceh Central"
@@ -90,6 +109,9 @@
     ],
     "name:swe_x_preferred":[
         "Kabupaten Aceh Tengah"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u0438\u0439 \u0410\u0447\u0435\u0445"
     ],
     "qs:a0":"Indonesia",
     "qs:a0_lc":"IDN",
@@ -126,11 +148,12 @@
         "hasc:id":"ID.AC.AT",
         "wd:id":"Q5675"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"2b89f586ea1f3b60514dac8f269e1e02",
+    "wof:geomhash":"c34d35aafe4f8c961d1fdc8ca4cb4a38",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -147,7 +170,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614714717,
+    "wof:lastmodified":1695886496,
     "wof:name":"Aceh Tengah",
     "wof:parent_id":85671973,
     "wof:placetype":"county",

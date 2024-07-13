@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.190576,
-    "geom:area_square_m":2354580640.747586,
+    "geom:area_square_m":2354580640.747324,
     "geom:bbox":"128.119446,1.98428,128.69017,2.64557",
     "geom:latitude":2.317452,
     "geom:longitude":128.444206,
@@ -37,6 +37,9 @@
     ],
     "name:ast_x_preferred":[
         "Pulau Morotai"
+    ],
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Pulau Morotai"
     ],
     "name:bar_x_preferred":[
         "Pulau Morotai"
@@ -70,7 +73,8 @@
     ],
     "name:eng_x_variant":[
         "PULAU MOROTAI",
-        "Morotai Island"
+        "Morotai Island",
+        "Morotai Island Regency"
     ],
     "name:epo_x_preferred":[
         "Pulau Morotai"
@@ -123,6 +127,9 @@
     "name:ind_x_preferred":[
         "Pulau Morotai"
     ],
+    "name:ind_x_variant":[
+        "Kabupaten Pulau Morotai"
+    ],
     "name:isl_x_preferred":[
         "Pulau Morotai"
     ],
@@ -155,6 +162,9 @@
     ],
     "name:msa_x_preferred":[
         "Kabupaten Pulau Morotai"
+    ],
+    "name:nan_x_preferred":[
+        "Morotai T\u00f3 Ko\u0101n"
     ],
     "name:nap_x_preferred":[
         "Pulau Morotai"
@@ -270,9 +280,10 @@
         "hasc:id":"ID.MU.PM",
         "wd:id":"Q17053892"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:created":1482878517,
-    "wof:geomhash":"ea1cecfc4a7d214494175b13cc9b53bd",
+    "wof:geomhash":"85c05d3a046fb7d31103d4891bfb3aff",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -289,7 +300,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614722565,
+    "wof:lastmodified":1695886545,
     "wof:name":"Pulau Morotai",
     "wof:parent_id":85672085,
     "wof:placetype":"county",

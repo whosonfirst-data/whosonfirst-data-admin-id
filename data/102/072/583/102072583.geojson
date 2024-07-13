@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009929,
-    "geom:area_square_m":121372089.635903,
+    "geom:area_square_m":121372089.635857,
     "geom:bbox":"115.173698,-8.74408,115.275116,-8.591728",
     "geom:latitude":-8.665432,
     "geom:longitude":115.219983,
@@ -46,8 +46,14 @@
     "name:aze_x_preferred":[
         "Denpasar"
     ],
+    "name:ban_x_preferred":[
+        "Kota D\u00e9npasar"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0414\u044d\u043d\u043f\u0430\u0441\u0430\u0440"
+    ],
+    "name:bel_x_variant":[
+        "\u0414\u044d\u043d\u043f\u0430\u0441\u0430\u0440"
     ],
     "name:ben_x_preferred":[
         "\u09a1\u09c7\u09a8\u09aa\u09be\u09b8\u09be\u09b0"
@@ -71,6 +77,9 @@
         "Denpasar"
     ],
     "name:deu_x_preferred":[
+        "Denpasar"
+    ],
+    "name:diq_x_preferred":[
         "Denpasar"
     ],
     "name:ell_x_preferred":[
@@ -100,6 +109,9 @@
     "name:fra_x_preferred":[
         "Denpasar"
     ],
+    "name:gle_x_preferred":[
+        "Denpasar"
+    ],
     "name:gor_x_preferred":[
         "Kota Denpasar"
     ],
@@ -115,8 +127,14 @@
     "name:hun_x_preferred":[
         "Denpasar"
     ],
+    "name:hye_x_preferred":[
+        "\u0534\u0565\u0576\u057a\u0561\u057d\u0561\u0580"
+    ],
     "name:ind_x_preferred":[
         "Denpasar"
+    ],
+    "name:ind_x_variant":[
+        "Kota Denpasar"
     ],
     "name:isl_x_preferred":[
         "Denpasar"
@@ -162,6 +180,9 @@
     ],
     "name:mlg_x_preferred":[
         "Kota Denpasar"
+    ],
+    "name:mlg_x_variant":[
+        "Denpasar"
     ],
     "name:mon_x_preferred":[
         "\u0414\u0435\u043d\u043f\u0430\u0441\u0430\u0440"
@@ -214,6 +235,9 @@
     "name:sqi_x_preferred":[
         "Denpasar"
     ],
+    "name:srp_x_preferred":[
+        "\u0414\u0435\u043d\u043f\u0430\u0441\u0430\u0440"
+    ],
     "name:sun_x_preferred":[
         "Kota D\u00e9npasar"
     ],
@@ -228,6 +252,9 @@
     ],
     "name:tel_x_preferred":[
         "\u0c21\u0c46\u0c28\u0c4d\u0c2a\u0c3e\u0c38\u0c30\u0c4d"
+    ],
+    "name:tet_x_preferred":[
+        "Denpasar"
     ],
     "name:tgl_x_preferred":[
         "Lungsod ng Denpasar"
@@ -244,6 +271,9 @@
     "name:tur_x_preferred":[
         "Denpasar"
     ],
+    "name:udm_x_preferred":[
+        "\u0414\u0435\u043d\u043f\u0430\u0441\u0430\u0440"
+    ],
     "name:ukr_x_preferred":[
         "\u0414\u0435\u043d\u043f\u0430\u0441\u0430\u0440"
     ],
@@ -253,11 +283,17 @@
     "name:uzb_x_preferred":[
         "Denpasar"
     ],
+    "name:vec_x_preferred":[
+        "Denpasar"
+    ],
     "name:vie_x_preferred":[
         "Denpasar"
     ],
     "name:war_x_preferred":[
         "Denpasar"
+    ],
+    "name:wuu_x_preferred":[
+        "\u767b\u5df4\u8428"
     ],
     "name:yue_x_preferred":[
         "\u767b\u5df4\u85a9"
@@ -300,11 +336,12 @@
         "hasc:id":"ID.BA.DE",
         "wd:id":"Q11506"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"493c0ccd97cd46c798ab91d6b1665401",
+    "wof:geomhash":"0260a0fa2032724f95fe43b6eb12ac67",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -321,7 +358,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614714639,
+    "wof:lastmodified":1695886495,
     "wof:name":"Denpasar",
     "wof:parent_id":85672023,
     "wof:placetype":"county",

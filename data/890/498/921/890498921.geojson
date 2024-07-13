@@ -17,11 +17,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:cat_x_preferred":[
+        "Parang"
+    ],
     "name:deu_x_preferred":[
         "Parang"
     ],
     "name:eng_x_preferred":[
         "Parang"
+    ],
+    "name:eng_x_variant":[
+        "parang"
     ],
     "name:ind_x_preferred":[
         "Parang"
@@ -29,10 +35,16 @@
     "name:nno_x_preferred":[
         "Parang"
     ],
+    "name:nob_x_preferred":[
+        "parang"
+    ],
     "name:pol_x_preferred":[
         "Parang"
     ],
     "name:por_x_preferred":[
+        "Parang"
+    ],
+    "name:spa_x_preferred":[
         "Parang"
     ],
     "qs:name":"Parang",
@@ -47,8 +59,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        102072973,
-        85672027
+        85672027,
+        102072973
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -78,7 +90,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614642154,
+    "wof:lastmodified":1690931525,
     "wof:name":"Parang",
     "wof:parent_id":102072973,
     "wof:placetype":"locality",

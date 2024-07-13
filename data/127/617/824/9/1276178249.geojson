@@ -29,16 +29,26 @@
     "name:ind_x_preferred":[
         "Cadasari"
     ],
+    "name:und_x_variant":[
+        "Tjadasari",
+        "Tjadasari 1",
+        "Cadasari"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        102073053,
-        85671995
+        85671995,
+        102073053
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6753624
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1647431
+        ]
     },
     "wof:country":"ID",
     "wof:geomhash":"2d7c389415dd83ea706083c7a8efb2de",
@@ -59,13 +69,15 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614651454,
+    "wof:lastmodified":1706239779,
     "wof:name":"Cadasari",
     "wof:parent_id":102073053,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327388125
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.189197,
-    "geom:area_square_m":2313366243.591995,
+    "geom:area_square_m":2313366243.591934,
     "geom:bbox":"120.498485,-8.87862,120.949989,-8.24812",
     "geom:latitude":-8.564478,
     "geom:longitude":120.695535,
@@ -26,6 +26,9 @@
     "meso:name_local":"MANGGARAI TIMUR",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Manggarai Timur"
+    ],
     "name:ceb_x_preferred":[
         "Kabupaten Manggarai Timur"
     ],
@@ -36,13 +39,20 @@
         "Manggarai Timur"
     ],
     "name:eng_x_variant":[
-        "MANGGARAI TIMUR"
+        "MANGGARAI TIMUR",
+        "East Manggarai Regency"
     ],
     "name:fra_x_preferred":[
         "kabupaten de Manggarai oriental"
     ],
+    "name:gle_x_preferred":[
+        "Manggarai Thoir"
+    ],
     "name:ind_x_preferred":[
         "Manggarai Timur"
+    ],
+    "name:ind_x_variant":[
+        "Kabupaten Manggarai Timur"
     ],
     "name:ita_x_preferred":[
         "Reggenza di Manggarai Orientale"
@@ -55,6 +65,9 @@
     ],
     "name:msa_x_preferred":[
         "Kabupaten Manggarai Timur"
+    ],
+    "name:nan_x_preferred":[
+        "Tang Manggarai Ko\u0101n"
     ],
     "name:spa_x_preferred":[
         "Manggarai Oriental"
@@ -92,9 +105,10 @@
         "hasc:id":"ID.NT.MT",
         "wd:id":"Q14137"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:created":1482878537,
-    "wof:geomhash":"ec968415b3a05c6ff9c5d7f910c6f491",
+    "wof:geomhash":"28474aa6afdbcbe32c2fe4efeb9b8246",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -111,7 +125,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614722643,
+    "wof:lastmodified":1695886546,
     "wof:name":"Manggarai Timur",
     "wof:parent_id":85672037,
     "wof:placetype":"county",

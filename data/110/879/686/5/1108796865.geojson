@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.393695,
-    "geom:area_square_m":4867797872.207108,
+    "geom:area_square_m":4867797872.207143,
     "geom:bbox":"131.992654,-1.099416,132.985582,-0.34261",
     "geom:latitude":-0.632464,
     "geom:longitude":132.487942,
@@ -38,6 +38,9 @@
     "name:ast_x_preferred":[
         "Tambrauw"
     ],
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Tambrauw"
+    ],
     "name:bar_x_preferred":[
         "Tambrauw"
     ],
@@ -69,7 +72,8 @@
         "Tambrauw"
     ],
     "name:eng_x_variant":[
-        "TAMBRAUW"
+        "TAMBRAUW",
+        "Tambrauw Regency"
     ],
     "name:epo_x_preferred":[
         "Tambrauw"
@@ -122,6 +126,9 @@
     "name:ind_x_preferred":[
         "Tambrauw"
     ],
+    "name:ind_x_variant":[
+        "Kabupaten Tambrauw"
+    ],
     "name:isl_x_preferred":[
         "Tambrauw"
     ],
@@ -154,6 +161,9 @@
     ],
     "name:msa_x_preferred":[
         "Kabupaten Tambrauw"
+    ],
+    "name:nan_x_preferred":[
+        "Tambrauw Ko\u0101n"
     ],
     "name:nap_x_preferred":[
         "Tambrauw"
@@ -272,9 +282,10 @@
         "hasc:id":"ID.IB.TM",
         "wd:id":"Q26810"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:created":1482878555,
-    "wof:geomhash":"2a46c4d5b4d2f332a268e7af32ebe0e1",
+    "wof:geomhash":"bb696e991d808cf69bf686bf899b05e9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -291,7 +302,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614722762,
+    "wof:lastmodified":1695886547,
     "wof:name":"Tambrauw",
     "wof:parent_id":85672067,
     "wof:placetype":"county",

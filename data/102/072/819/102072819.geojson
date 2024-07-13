@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.185017,
-    "geom:area_square_m":2268270538.787774,
+    "geom:area_square_m":2268270538.788477,
     "geom:bbox":"108.555855,-7.78569,109.3955,-7.139707",
     "geom:latitude":-7.48374,
     "geom:longitude":108.890489,
@@ -49,11 +49,17 @@
     "name:azb_x_preferred":[
         "\u0633\u06cc\u0644\u0627\u06a9\u0627\u067e"
     ],
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Cilacap"
+    ],
     "name:bar_x_preferred":[
         "Cilacap"
     ],
     "name:ben_x_preferred":[
         "\u0995\u09bf\u09b2\u09be\u0995\u09c7\u09aa"
+    ],
+    "name:ben_x_variant":[
+        "\u099a\u09bf\u09b2\u09be\u099a\u09be\u09aa"
     ],
     "name:bre_x_preferred":[
         "Cilacap"
@@ -86,7 +92,8 @@
         "Cilacap"
     ],
     "name:eng_x_variant":[
-        "CILACAP"
+        "CILACAP",
+        "Cilacap Regency"
     ],
     "name:epo_x_preferred":[
         "Cilacap"
@@ -124,6 +131,9 @@
     "name:glg_x_preferred":[
         "Cilacap"
     ],
+    "name:gor_x_preferred":[
+        "Kabupaten Cilacap"
+    ],
     "name:gsw_x_preferred":[
         "Cilacap"
     ],
@@ -150,6 +160,9 @@
     ],
     "name:ind_x_preferred":[
         "Cilacap"
+    ],
+    "name:ind_x_variant":[
+        "Kabupaten Cilacap"
     ],
     "name:isl_x_preferred":[
         "Cilacap"
@@ -198,6 +211,9 @@
     ],
     "name:msa_x_preferred":[
         "Kabupaten Cilacap"
+    ],
+    "name:nan_x_preferred":[
+        "Cilacap Ko\u0101n"
     ],
     "name:nap_x_preferred":[
         "Cilacap"
@@ -265,6 +281,9 @@
     "name:sun_x_preferred":[
         "Kabupat\u00e9n Cilacap"
     ],
+    "name:sun_x_variant":[
+        "Cilacap"
+    ],
     "name:swa_x_preferred":[
         "Cilacap"
     ],
@@ -285,6 +304,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u041a\u0456\u043b\u0430\u043a\u0430\u043f"
+    ],
+    "name:ukr_x_variant":[
+        "\u0427\u0438\u043b\u0430\u0447\u0430\u043f"
     ],
     "name:urd_x_preferred":[
         "\u0633\u06cc\u0644\u0627\u06a9\u06cc\u067e"
@@ -318,6 +340,9 @@
     ],
     "name:zho_x_preferred":[
         "\u829d\u62c9\u624e"
+    ],
+    "name:zho_x_variant":[
+        "\u829d\u62c9\u624e\u53bf"
     ],
     "name:zul_x_preferred":[
         "Cilacap"
@@ -357,11 +382,12 @@
         "hasc:id":"ID.JT.CI",
         "wd:id":"Q10612"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4b0dfb87045f19527c4bc85ba44dc7b6",
+    "wof:geomhash":"4ca538b5508f0fcd0692584cd9a8c9fb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -378,7 +404,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1636502308,
+    "wof:lastmodified":1695886061,
     "wof:name":"Cilacap",
     "wof:parent_id":85671987,
     "wof:placetype":"county",

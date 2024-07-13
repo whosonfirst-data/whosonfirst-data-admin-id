@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.252119,
-    "geom:area_square_m":3108085469.886806,
+    "geom:area_square_m":3108085469.886606,
     "geom:bbox":"95.836639,4.063672,96.57122,4.794031",
     "geom:latitude":4.450667,
     "geom:longitude":96.176555,
@@ -43,6 +43,9 @@
     "name:ast_x_preferred":[
         "Aceh Barat"
     ],
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Ac\u00e9h Barat"
+    ],
     "name:bar_x_preferred":[
         "Aceh Barat"
     ],
@@ -77,7 +80,8 @@
         "Aceh Barat"
     ],
     "name:eng_x_variant":[
-        "ACEH BARAT"
+        "ACEH BARAT",
+        "West Aceh Regency"
     ],
     "name:epo_x_preferred":[
         "Aceh Barat"
@@ -133,6 +137,9 @@
     "name:ind_x_preferred":[
         "Aceh Barat"
     ],
+    "name:ind_x_variant":[
+        "Kabupaten Aceh Barat"
+    ],
     "name:isl_x_preferred":[
         "Aceh Barat"
     ],
@@ -166,6 +173,9 @@
     "name:msa_x_preferred":[
         "Aceh Barat"
     ],
+    "name:nan_x_preferred":[
+        "Sai Aceh Ko\u0101n"
+    ],
     "name:nap_x_preferred":[
         "Aceh Barat"
     ],
@@ -174,6 +184,9 @@
     ],
     "name:nld_x_preferred":[
         "Aceh Barat"
+    ],
+    "name:nld_x_variant":[
+        "West-Atjeh"
     ],
     "name:nno_x_preferred":[
         "Aceh Barat"
@@ -235,6 +248,9 @@
     "name:swe_x_preferred":[
         "Kabupaten Aceh Barat"
     ],
+    "name:ukr_x_preferred":[
+        "\u0417\u0430\u0445\u0456\u0434\u043d\u0438\u0439 \u0410\u0447\u0435\u0445"
+    ],
     "name:vec_x_preferred":[
         "Aceh Barat"
     ],
@@ -291,11 +307,12 @@
         "hasc:id":"ID.AC.AB",
         "wd:id":"Q5778"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"421236e75f8c80ca4e4e6e707cf0c9c7",
+    "wof:geomhash":"368e1afc972035683ff908365324d1c6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -312,7 +329,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614716125,
+    "wof:lastmodified":1695886502,
     "wof:name":"Aceh Barat",
     "wof:parent_id":85671973,
     "wof:placetype":"county",

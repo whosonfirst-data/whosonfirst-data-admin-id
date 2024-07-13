@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.111355,
-    "geom:area_square_m":1361608011.647445,
+    "geom:area_square_m":1361608011.647211,
     "geom:bbox":"120.232857,-8.83954,120.545383,-8.23174",
     "geom:latitude":-8.552958,
     "geom:longitude":120.408551,
@@ -42,6 +42,9 @@
     ],
     "name:ast_x_preferred":[
         "Manggarai"
+    ],
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Manggarai"
     ],
     "name:bar_x_preferred":[
         "Manggarai"
@@ -80,7 +83,8 @@
         "Manggarai"
     ],
     "name:eng_x_variant":[
-        "MANGGARAI"
+        "MANGGARAI",
+        "Manggarai Regency"
     ],
     "name:epo_x_preferred":[
         "Manggarai"
@@ -133,6 +137,9 @@
     "name:ind_x_preferred":[
         "Manggarai"
     ],
+    "name:ind_x_variant":[
+        "Kabupaten Manggarai"
+    ],
     "name:isl_x_preferred":[
         "Manggarai"
     ],
@@ -165,6 +172,9 @@
     ],
     "name:msa_x_preferred":[
         "Kabupaten Manggarai"
+    ],
+    "name:nan_x_preferred":[
+        "Manggarai Ko\u0101n"
     ],
     "name:nap_x_preferred":[
         "Manggarai"
@@ -294,11 +304,12 @@
         "hasc:id":"ID.NT.MG",
         "wd:id":"Q14143"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"da42076b4ba662e62de6376c817590f5",
+    "wof:geomhash":"e4debbc72a0d67e380be69616a4a2ba2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -315,7 +326,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614721107,
+    "wof:lastmodified":1695886532,
     "wof:name":"Manggarai",
     "wof:parent_id":85672037,
     "wof:placetype":"county",

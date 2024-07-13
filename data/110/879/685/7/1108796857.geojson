@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.151905,
-    "geom:area_square_m":1852301072.793312,
+    "geom:area_square_m":1852301072.793249,
     "geom:bbox":"119.420066,-9.844151,119.925858,-9.34557",
     "geom:latitude":-9.550653,
     "geom:longitude":119.662202,
@@ -26,6 +26,9 @@
     "meso:name_local":"SUMBA TENGAH",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Sumba Tengah"
+    ],
     "name:ceb_x_preferred":[
         "Kabupaten Sumba Tengah"
     ],
@@ -36,13 +39,20 @@
         "Sumba Tengah"
     ],
     "name:eng_x_variant":[
-        "SUMBA TENGAH"
+        "SUMBA TENGAH",
+        "Central Sumba Regency"
     ],
     "name:fra_x_preferred":[
         "kabupaten de Sumba central"
     ],
+    "name:gle_x_preferred":[
+        "Sumba L\u00e1ir"
+    ],
     "name:ind_x_preferred":[
         "Sumba Tengah"
+    ],
+    "name:ind_x_variant":[
+        "Kabupaten Sumba Tengah"
     ],
     "name:ita_x_preferred":[
         "Reggenza di Sumba Centrale"
@@ -55,6 +65,9 @@
     ],
     "name:msa_x_preferred":[
         "Kabupaten Sumba Tengah"
+    ],
+    "name:nan_x_preferred":[
+        "Tiong Sumba Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Centraal-Soemba"
@@ -95,9 +108,10 @@
         "hasc:id":"ID.NT.SG",
         "wd:id":"Q14134"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:created":1482878544,
-    "wof:geomhash":"094f677745aa574b60d23f0d0e7537d1",
+    "wof:geomhash":"59480b697d37819ffc1e20a69e9b8414",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -114,7 +128,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614722752,
+    "wof:lastmodified":1695886547,
     "wof:name":"Sumba Tengah",
     "wof:parent_id":85672037,
     "wof:placetype":"county",

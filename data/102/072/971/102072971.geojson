@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.147816,
-    "geom:area_square_m":14148809392.157068,
+    "geom:area_square_m":14148809392.156887,
     "geom:bbox":"138.943395,-5.165918,140.173745,-3.635233",
     "geom:latitude":-4.508495,
     "geom:longitude":139.644122,
@@ -43,6 +43,9 @@
     "name:ast_x_preferred":[
         "Yahukimo"
     ],
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Yahukimo"
+    ],
     "name:bar_x_preferred":[
         "Yahukimo"
     ],
@@ -74,7 +77,8 @@
         "Yahukimo"
     ],
     "name:eng_x_variant":[
-        "YAHUKIMO"
+        "YAHUKIMO",
+        "Yahukimo Regency"
     ],
     "name:epo_x_preferred":[
         "Yahukimo"
@@ -128,7 +132,8 @@
         "Persekaba Badung"
     ],
     "name:ind_x_variant":[
-        "Yahukimo"
+        "Yahukimo",
+        "Kabupaten Yahukimo"
     ],
     "name:isl_x_preferred":[
         "Yahukimo"
@@ -138,6 +143,9 @@
     ],
     "name:jav_x_preferred":[
         "Yahukimo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e4\u30d5\u30ad\u30e2\u770c"
     ],
     "name:kon_x_preferred":[
         "Yahukimo"
@@ -159,6 +167,9 @@
     ],
     "name:msa_x_preferred":[
         "Kabupaten Yahukimo"
+    ],
+    "name:nan_x_preferred":[
+        "Yahukimo Ko\u0101n"
     ],
     "name:nap_x_preferred":[
         "Yahukimo"
@@ -198,6 +209,9 @@
     ],
     "name:ron_x_preferred":[
         "Yahukimo"
+    ],
+    "name:rus_x_preferred":[
+        "\u042f\u0445\u0443\u043a\u0438\u043c\u043e"
     ],
     "name:scn_x_preferred":[
         "Yahukimo"
@@ -286,11 +300,12 @@
         "hasc:id":"ID.PA.YA",
         "wd:id":"Q27825"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d0319e70b6f7ea84877ead0aee4edf33",
+    "wof:geomhash":"fcfa9ca3f23750fbd9ce5a0f90ccbe7d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -307,7 +322,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614717616,
+    "wof:lastmodified":1695886511,
     "wof:name":"Yahukimo",
     "wof:parent_id":85672115,
     "wof:placetype":"county",

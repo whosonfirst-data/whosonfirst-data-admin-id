@@ -29,16 +29,24 @@
     "name:ind_x_preferred":[
         "Salirawaringin"
     ],
+    "name:und_x_variant":[
+        "Salira"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        102073479,
-        85671995
+        85671995,
+        102073479
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6767683
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1629076
+        ]
     },
     "wof:country":"ID",
     "wof:geomhash":"3155517de1dfd74982fbf52d233b0b37",
@@ -59,13 +67,15 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614642936,
+    "wof:lastmodified":1706239777,
     "wof:name":"Salirawaringin",
     "wof:parent_id":102073479,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293338861
+    ],
     "wof:tags":[]
 },
   "bbox": [

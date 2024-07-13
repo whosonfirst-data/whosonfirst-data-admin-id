@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":7.020921,
-    "geom:area_square_m":86671564871.845169,
+    "geom:area_square_m":86671564871.861038,
     "geom:bbox":"102.067047,-4.96182,106.219193,-1.626734",
     "geom:latitude":-3.221181,
     "geom:longitude":104.163563,
@@ -116,6 +116,12 @@
     "name:fra_x_preferred":[
         "Sumatra du Sud"
     ],
+    "name:frr_x_preferred":[
+        "Sumatra Selatan"
+    ],
+    "name:gle_x_preferred":[
+        "Sumatra Theas"
+    ],
     "name:glg_x_preferred":[
         "Sumatra Meridional"
     ],
@@ -139,6 +145,9 @@
     ],
     "name:hun_x_preferred":[
         "D\u00e9l-Sumatera"
+    ],
+    "name:hyw_x_preferred":[
+        "\u0540\u0561\u0580\u0561\u0582\u0561\u0575\u056b\u0576 \u054d\u0578\u0582\u0574\u0561\u0569\u0580\u0561"
     ],
     "name:ilo_x_preferred":[
         "Abagatan a Sumatra"
@@ -180,6 +189,9 @@
     "name:lrc_x_preferred":[
         "\u0633\u0648\u0645\u0627\u062a\u0631\u0627 \u0647\u0627\u0631\u06af\u0647"
     ],
+    "name:mad_x_preferred":[
+        "Sumatra Lao'"
+    ],
     "name:mal_x_preferred":[
         "\u0d24\u0d46\u0d15\u0d4d\u0d15\u0d7b \u0d38\u0d41\u0d2e\u0d3e\u0d24\u0d4d\u0d30"
     ],
@@ -197,6 +209,9 @@
     ],
     "name:nan_x_preferred":[
         "L\u00e2m Sumatera"
+    ],
+    "name:nan_x_variant":[
+        "L\u00e2m Sumatera S\u00e9ng"
     ],
     "name:nld_x_preferred":[
         "Zuid-Sumatra"
@@ -389,17 +404,19 @@
         "gn:id":1626196,
         "gp:id":2345734,
         "hasc:id":"ID.SL",
+        "iso:code":"ID-SS",
         "iso:id":"ID-SS",
         "qs:id":1075584,
         "unlc:id":"ID-SS",
         "wd:id":"Q2271",
         "wk:page":"South Sumatra"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f79d90d80897405743c71faaab5e30b1",
+    "wof:geomhash":"a5f21b5e1f214b86e53994d0e27fb144",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -415,7 +432,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1636502346,
+    "wof:lastmodified":1695884933,
     "wof:name":"Sumatera Selatan",
     "wof:parent_id":85632203,
     "wof:placetype":"region",

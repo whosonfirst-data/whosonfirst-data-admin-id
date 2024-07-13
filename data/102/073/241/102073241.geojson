@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009206,
-    "geom:area_square_m":113643586.847538,
+    "geom:area_square_m":113643586.847565,
     "geom:bbox":"114.516907,-3.401231,114.634377,-3.255294",
     "geom:latitude":-3.337442,
     "geom:longitude":114.580358,
@@ -40,11 +40,20 @@
     "name:ara_x_preferred":[
         "\u0628\u0646\u062c\u0631\u0645\u0627\u0633\u064a\u0646"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0646\u062c\u0631\u0645\u0627\u0633\u064a\u0646"
+    ],
     "name:ast_x_preferred":[
         "Banjarmasin"
     ],
     "name:azb_x_preferred":[
         "\u0628\u0627\u0646\u062c\u0627\u0631\u0645\u0627\u0633\u06cc\u0646"
+    ],
+    "name:ban_x_preferred":[
+        "Kota Banjarmasin"
+    ],
+    "name:bel_x_preferred":[
+        "\u0411\u0430\u043d\u0434\u0436\u0430\u0440\u043c\u0430\u0441\u0456\u043d"
     ],
     "name:ben_x_preferred":[
         "\u09ac\u09be\u099e\u09cd\u099c\u09be\u09b0\u09ae\u09be\u09b8\u09bf\u09a8"
@@ -64,6 +73,9 @@
     "name:ceb_x_preferred":[
         "Kota Banjarmasin"
     ],
+    "name:ces_x_preferred":[
+        "Banjarmasin"
+    ],
     "name:dan_x_preferred":[
         "Banjarmasin"
     ],
@@ -77,7 +89,8 @@
         "Banjarmasin"
     ],
     "name:eng_x_variant":[
-        "KOTA BANJARMASIN"
+        "KOTA BANJARMASIN",
+        "Banjarmasin City"
     ],
     "name:epo_x_preferred":[
         "Banjarmasin"
@@ -94,6 +107,9 @@
     "name:fra_x_preferred":[
         "Banjarmasin"
     ],
+    "name:gle_x_preferred":[
+        "Banjarmasin"
+    ],
     "name:glg_x_preferred":[
         "Banjarmasin"
     ],
@@ -105,6 +121,9 @@
     ],
     "name:hau_x_preferred":[
         "Banjarmasin"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05e0\u05d2'\u05d0\u05e8\u05de\u05e1\u05d9\u05df"
     ],
     "name:hin_x_preferred":[
         "\u092c\u0902\u091c\u0930\u092e\u093e\u0938\u0940\u0928"
@@ -151,11 +170,17 @@
     "name:mar_x_preferred":[
         "\u092c\u0902\u091c\u0930\u094d\u092e\u0938\u0940\u0928"
     ],
+    "name:min_x_preferred":[
+        "Banjarmasin"
+    ],
     "name:mlg_x_preferred":[
         "Banjarmasin"
     ],
     "name:msa_x_preferred":[
         "Banjarmasin"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0628\u0627\u0646\u062c\u0627\u0631\u0645\u0627\u0633\u06cc\u0646"
     ],
     "name:nan_x_preferred":[
         "Banjarmasin"
@@ -190,17 +215,26 @@
     "name:sin_x_preferred":[
         "\u0db6\u0db1\u0dca\u0da2\u0dbb\u0dca\u0db8\u0dc3\u0dd2\u0db1\u0dca"
     ],
+    "name:slk_x_preferred":[
+        "Banjarmasin"
+    ],
     "name:spa_x_preferred":[
         "Banjarmasin"
     ],
     "name:srp_x_preferred":[
         "\u0411\u0430\u043d\u045f\u0430\u0440\u043c\u0430\u0441\u0438\u043d"
     ],
+    "name:sun_x_preferred":[
+        "Kota Banjarmasin"
+    ],
     "name:swe_x_preferred":[
         "Banjarmasin"
     ],
     "name:tam_x_preferred":[
         "\u0baa\u0b9e\u0bcd\u0b9a\u0bbe\u0bb0\u0bcd\u0bae\u0bbe\u0b9a\u0bbf\u0ba9\u0bcd"
+    ],
+    "name:tat_x_preferred":[
+        "\u0411\u0430\u043d\u0497\u0430\u0440\u043c\u0430\u0441\u0438\u043d"
     ],
     "name:tel_x_preferred":[
         "\u0c2c\u0c02\u0c1c\u0c3e\u0c30\u0c4d\u0c2e\u0c38\u0c3f\u0c28\u0c4d"
@@ -224,6 +258,9 @@
         "\u0628\u0627\u0646\u062c\u0627\u0631\u0645\u0627\u0633\u06cc\u0646"
     ],
     "name:uzb_x_preferred":[
+        "Banjarmasin"
+    ],
+    "name:vec_x_preferred":[
         "Banjarmasin"
     ],
     "name:vie_x_preferred":[
@@ -280,11 +317,12 @@
         "hasc:id":"ID.KS.BM",
         "wd:id":"Q14182"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f003375c3e7e3c577209bf68b103047e",
+    "wof:geomhash":"2e3038a0359d4f949e0f005e16d30b9c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -301,7 +339,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614719684,
+    "wof:lastmodified":1695886522,
     "wof:name":"Banjarmasin",
     "wof:parent_id":85672031,
     "wof:placetype":"county",

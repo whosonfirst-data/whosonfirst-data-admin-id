@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.38002,
-    "geom:area_square_m":17030855752.42758,
+    "geom:area_square_m":17030855752.427135,
     "geom:bbox":"132.79155,-4.33177,135.26698,-2.794458",
     "geom:latitude":-3.570967,
     "geom:longitude":134.043213,
     "iso:country":"ID",
+    "label:eng_x_preferred_longname":[
+        "Kaimana Regency"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "regency"
+    ],
     "lbl:latitude":-3.395042,
     "lbl:longitude":134.132283,
     "meso:admin_1":"PAPUA BARAT",
@@ -36,6 +42,9 @@
     ],
     "name:ast_x_preferred":[
         "Kaimana"
+    ],
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Kaimana"
     ],
     "name:bar_x_preferred":[
         "Kaimana"
@@ -68,7 +77,8 @@
         "Kaimana"
     ],
     "name:eng_x_variant":[
-        "KAIMANA"
+        "KAIMANA",
+        "Kaimana Regency"
     ],
     "name:epo_x_preferred":[
         "Kaimana"
@@ -121,6 +131,9 @@
     "name:ind_x_preferred":[
         "Kaimana"
     ],
+    "name:ind_x_variant":[
+        "Kabupaten Kaimana"
+    ],
     "name:isl_x_preferred":[
         "Kaimana"
     ],
@@ -153,6 +166,9 @@
     ],
     "name:msa_x_preferred":[
         "Kabupaten Kaimana"
+    ],
+    "name:nan_x_preferred":[
+        "Kaimana Ko\u0101n"
     ],
     "name:nap_x_preferred":[
         "Kaimana"
@@ -271,11 +287,12 @@
         "hasc:id":"ID.IB.KA\t",
         "wd:id":"Q26739"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d514d4c6e3296028f4ec37a7124fc25d",
+    "wof:geomhash":"0ae60001bcd866ddeb8f57ef4a662da0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -292,7 +309,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614721141,
+    "wof:lastmodified":1695886533,
     "wof:name":"Kaimana",
     "wof:parent_id":85672067,
     "wof:placetype":"county",

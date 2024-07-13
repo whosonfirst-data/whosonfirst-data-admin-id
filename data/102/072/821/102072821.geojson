@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.389503,
-    "geom:area_square_m":4814446721.200403,
+    "geom:area_square_m":4814446721.199255,
     "geom:bbox":"101.437271,-1.90647,102.329514,-1.122148",
     "geom:latitude":-1.56977,
     "geom:longitude":101.911257,
@@ -43,6 +43,9 @@
     "name:ast_x_preferred":[
         "Bungo"
     ],
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Bungo"
+    ],
     "name:bar_x_preferred":[
         "Bungo"
     ],
@@ -74,7 +77,8 @@
         "Bungo"
     ],
     "name:eng_x_variant":[
-        "BUNGO"
+        "BUNGO",
+        "Bungo Regency"
     ],
     "name:epo_x_preferred":[
         "Bungo"
@@ -127,6 +131,9 @@
     "name:ind_x_preferred":[
         "Bungo"
     ],
+    "name:ind_x_variant":[
+        "Kabupaten Bungo"
+    ],
     "name:isl_x_preferred":[
         "Bungo"
     ],
@@ -135,6 +142,9 @@
     ],
     "name:jav_x_preferred":[
         "Kabupat\u00e8n Bungo"
+    ],
+    "name:jav_x_variant":[
+        "Bungo"
     ],
     "name:kon_x_preferred":[
         "Bungo"
@@ -159,6 +169,9 @@
     ],
     "name:msa_x_preferred":[
         "Bungo"
+    ],
+    "name:nan_x_preferred":[
+        "Bungo Ko\u0101n"
     ],
     "name:nap_x_preferred":[
         "Bungo"
@@ -286,11 +299,12 @@
         "hasc:id":"ID.JA.BT",
         "wd:id":"Q7373"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8df958c3b89e8fc5a5b02a60714c983d",
+    "wof:geomhash":"3786911af0e87383ee6e7e6811ebd7ed",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -307,7 +321,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614716517,
+    "wof:lastmodified":1695886505,
     "wof:name":"Bungo",
     "wof:parent_id":85672059,
     "wof:placetype":"county",

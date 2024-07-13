@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.232805,
-    "geom:area_square_m":2865794651.444809,
+    "geom:area_square_m":2865794651.4441,
     "geom:bbox":"104.31234,-5.9386,105.199905,-5.096388",
     "geom:latitude":-5.421302,
     "geom:longitude":104.668247,
@@ -31,6 +31,9 @@
     "mps:longitude":104.601507,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Tanggamus"
+    ],
     "name:ceb_x_preferred":[
         "Kabupaten Tanggamus"
     ],
@@ -41,7 +44,8 @@
         "Tanggamus"
     ],
     "name:eng_x_variant":[
-        "TANGGAMUS"
+        "TANGGAMUS",
+        "Tanggamus Regency"
     ],
     "name:fra_x_preferred":[
         "Tanggamus"
@@ -49,17 +53,32 @@
     "name:ind_x_preferred":[
         "Tanggamus"
     ],
+    "name:ind_x_variant":[
+        "Kabupaten Tanggamus"
+    ],
     "name:ita_x_preferred":[
         "Tanggamus"
     ],
     "name:jav_x_preferred":[
         "Kabupat\u00e8n Tanggamus"
     ],
+    "name:jav_x_variant":[
+        "Tanggamus"
+    ],
     "name:jpn_x_preferred":[
         "\u30bf\u30f3\u30ac\u30de\u30b9\u770c"
     ],
+    "name:min_x_preferred":[
+        "Kabupaten Tanggamus"
+    ],
     "name:msa_x_preferred":[
         "Kabupaten Tanggamus"
+    ],
+    "name:msa_x_variant":[
+        "Daerah Tanggamus"
+    ],
+    "name:nan_x_preferred":[
+        "Tanggamus Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Tanggamus"
@@ -67,11 +86,20 @@
     "name:rus_x_preferred":[
         "\u0422\u0430\u043d\u0433\u0433\u0430\u043c\u0443\u0441"
     ],
+    "name:sna_x_preferred":[
+        "Tanggamus"
+    ],
     "name:spa_x_preferred":[
+        "Tanggamus"
+    ],
+    "name:sun_x_preferred":[
         "Tanggamus"
     ],
     "name:swe_x_preferred":[
         "Kabupaten Tanggamus"
+    ],
+    "name:tet_x_preferred":[
+        "Distritu Tanggamus"
     ],
     "qs:a0":"Indonesia",
     "qs:a0_lc":"IDN",
@@ -108,11 +136,12 @@
         "hasc:id":"ID.LA.TG",
         "wd:id":"Q8149"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"850398cdc58ef01c8225e848ccf5de15",
+    "wof:geomhash":"240849d589ed862e60b1e56690ddd74e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -129,7 +158,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614720993,
+    "wof:lastmodified":1695886532,
     "wof:name":"Tanggamus",
     "wof:parent_id":85672009,
     "wof:placetype":"county",

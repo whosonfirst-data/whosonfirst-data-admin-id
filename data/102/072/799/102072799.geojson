@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.682449,
-    "geom:area_square_m":20792993828.382996,
+    "geom:area_square_m":20792993828.380051,
     "geom:bbox":"111.978676,-3.30072,113.752304,-0.442591",
     "geom:latitude":-1.675921,
     "geom:longitude":113.046066,
@@ -31,6 +31,9 @@
     "mps:longitude":113.059455,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Katingan"
+    ],
     "name:ceb_x_preferred":[
         "Kabupaten Katingan"
     ],
@@ -41,13 +44,20 @@
         "Katingan"
     ],
     "name:eng_x_variant":[
-        "KATINGAN"
+        "KATINGAN",
+        "Katingan Regency"
     ],
     "name:fra_x_preferred":[
         "Katingan"
     ],
+    "name:gle_x_preferred":[
+        "Katingan"
+    ],
     "name:ind_x_preferred":[
         "Katingan"
+    ],
+    "name:ind_x_variant":[
+        "Kabupaten Katingan"
     ],
     "name:jav_x_preferred":[
         "Kabupat\u00e8n Katingan"
@@ -57,6 +67,9 @@
     ],
     "name:msa_x_preferred":[
         "Kabupaten Katingan"
+    ],
+    "name:nan_x_preferred":[
+        "Katingan Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Katingan"
@@ -105,11 +118,12 @@
         "hasc:id":"ID.KT.KG",
         "wd:id":"Q4201892"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7f489b8502b6ca814010ce43a9cfe67f",
+    "wof:geomhash":"57273d3e3f014e755b1fef5fe439b3e1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -126,7 +140,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614716298,
+    "wof:lastmodified":1695886503,
     "wof:name":"Katingan",
     "wof:parent_id":85672063,
     "wof:placetype":"county",

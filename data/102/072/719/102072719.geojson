@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.209709,
-    "geom:area_square_m":2584701294.186012,
+    "geom:area_square_m":2584701294.185995,
     "geom:bbox":"103.065063,-4.92572,103.763481,-4.254345",
     "geom:latitude":-4.608335,
     "geom:longitude":103.405192,
@@ -34,6 +34,9 @@
     "name:ace_x_preferred":[
         "Kabupaten Kaur"
     ],
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Kaur"
+    ],
     "name:ceb_x_preferred":[
         "Kabupaten Kaur"
     ],
@@ -44,10 +47,14 @@
         "Kaur"
     ],
     "name:eng_x_variant":[
-        "KAUR"
+        "KAUR",
+        "Kaur Regency"
     ],
     "name:fra_x_preferred":[
         "kabupaten de Kaur"
+    ],
+    "name:gle_x_preferred":[
+        "Kaur"
     ],
     "name:hin_x_preferred":[
         "\u0915\u094c\u0930"
@@ -55,14 +62,26 @@
     "name:ind_x_preferred":[
         "Kaur"
     ],
+    "name:ind_x_variant":[
+        "Kabupaten Kaur"
+    ],
     "name:jav_x_preferred":[
         "Kabupat\u00e8n Kaur"
+    ],
+    "name:jav_x_variant":[
+        "Kaur"
     ],
     "name:jpn_x_preferred":[
         "\u30ab\u30a6\u30eb\u770c"
     ],
+    "name:min_x_preferred":[
+        "Kabupaten Kaur"
+    ],
     "name:msa_x_preferred":[
         "Kabupaten Kaur"
+    ],
+    "name:nan_x_preferred":[
+        "Kaur Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Kaur"
@@ -115,11 +134,12 @@
         "hasc:id":"ID.BE.KA",
         "wd:id":"Q3182322"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"85b2a5a4d4acf57d2ddf9e5f4eadbd84",
+    "wof:geomhash":"3d50f6e66ee210c677412cade237e25f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -136,7 +156,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614715750,
+    "wof:lastmodified":1695886500,
     "wof:name":"Kaur",
     "wof:parent_id":85671991,
     "wof:placetype":"county",

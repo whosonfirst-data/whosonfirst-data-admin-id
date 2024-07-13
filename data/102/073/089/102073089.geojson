@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0708,
-    "geom:area_square_m":875360061.159416,
+    "geom:area_square_m":875360061.159466,
     "geom:bbox":"103.295151,0.48455,103.970787,1.15512",
     "geom:latitude":0.824087,
     "geom:longitude":103.534608,
@@ -42,6 +42,9 @@
     ],
     "name:arg_x_preferred":[
         "Karimun"
+    ],
+    "name:arz_x_preferred":[
+        "\u0643\u0627\u0631\u064a\u0645\u0648\u0646"
     ],
     "name:ast_x_preferred":[
         "Karimun"
@@ -89,7 +92,8 @@
         "Karimun"
     ],
     "name:eng_x_variant":[
-        "KARIMUN"
+        "KARIMUN",
+        "Karimun Regency"
     ],
     "name:epo_x_preferred":[
         "Karimun"
@@ -142,6 +146,9 @@
     "name:ind_x_preferred":[
         "Karimun"
     ],
+    "name:ind_x_variant":[
+        "Kabupaten Karimun"
+    ],
     "name:isl_x_preferred":[
         "Karimun"
     ],
@@ -174,6 +181,9 @@
     ],
     "name:msa_x_preferred":[
         "Karimun"
+    ],
+    "name:nan_x_preferred":[
+        "Karimun Ko\u0101n"
     ],
     "name:nap_x_preferred":[
         "Karimun"
@@ -305,11 +315,12 @@
         "hasc:id":"ID.KR.KA",
         "wd:id":"Q10098"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"97514c566c7bb336e498250dd6433016",
+    "wof:geomhash":"94653abc7de979037cdc077093b43677",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -326,7 +337,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614718471,
+    "wof:lastmodified":1695886517,
     "wof:name":"Karimun",
     "wof:parent_id":85672049,
     "wof:placetype":"county",

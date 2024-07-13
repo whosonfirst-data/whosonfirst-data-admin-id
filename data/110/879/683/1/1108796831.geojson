@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.37715,
-    "geom:area_square_m":4619975053.952812,
+    "geom:area_square_m":4619975053.952831,
     "geom:bbox":"125.719254,-8.34523,130.090286,-6.62989",
     "geom:latitude":-7.83402,
     "geom:longitude":127.303008,
@@ -78,7 +78,8 @@
         "Maluku Barat Daya"
     ],
     "name:eng_x_variant":[
-        "MALUKU T BARAT DAYA"
+        "MALUKU T BARAT DAYA",
+        "Southwest Maluku Regency"
     ],
     "name:epo_x_preferred":[
         "Maluku Barat Daya"
@@ -131,6 +132,9 @@
     "name:ind_x_preferred":[
         "Maluku Barat Daya"
     ],
+    "name:ind_x_variant":[
+        "Kabupaten Maluku Barat Daya"
+    ],
     "name:isl_x_preferred":[
         "Maluku Barat Daya"
     ],
@@ -163,6 +167,9 @@
     ],
     "name:msa_x_preferred":[
         "Maluku Barat Daya"
+    ],
+    "name:nan_x_preferred":[
+        "Se-l\u00e2m Maluku Ko\u0101n"
     ],
     "name:nap_x_preferred":[
         "Maluku Barat Daya"
@@ -278,9 +285,10 @@
         "hasc:id":"ID.MA.MD",
         "wd:id":"Q18935"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:created":1482878522,
-    "wof:geomhash":"1ed0a4d6ba4cc3e3e9bef651b1536492",
+    "wof:geomhash":"216bc162f4f164d149520fde99578423",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -297,7 +305,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614722579,
+    "wof:lastmodified":1695886545,
     "wof:name":"Maluku Barat Daya",
     "wof:parent_id":85672097,
     "wof:placetype":"county",

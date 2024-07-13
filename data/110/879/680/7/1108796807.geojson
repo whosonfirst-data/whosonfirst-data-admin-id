@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.224282,
-    "geom:area_square_m":2766319646.370069,
+    "geom:area_square_m":2766319646.370201,
     "geom:bbox":"105.019235,-4.26722,105.8256,-3.723731",
     "geom:latitude":-4.059896,
     "geom:longitude":105.399698,
@@ -26,6 +26,9 @@
     "meso:name_local":"MESUJI",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Mesuji"
+    ],
     "name:ceb_x_preferred":[
         "Kabupaten Mesuji"
     ],
@@ -36,13 +39,20 @@
         "Mesuji"
     ],
     "name:eng_x_variant":[
-        "MESUJI"
+        "MESUJI",
+        "Mesuji Regency"
     ],
     "name:fra_x_preferred":[
         "Mesuji"
     ],
+    "name:gle_x_preferred":[
+        "Mesuji"
+    ],
     "name:ind_x_preferred":[
         "Mesuji"
+    ],
+    "name:ind_x_variant":[
+        "Kabupaten Mesuji"
     ],
     "name:ita_x_preferred":[
         "Mesuji"
@@ -50,11 +60,20 @@
     "name:jav_x_preferred":[
         "Kabupat\u00e8n Mesuji"
     ],
+    "name:jav_x_variant":[
+        "Mesuji"
+    ],
     "name:jpn_x_preferred":[
         "\u30e1\u30b9\u30b8\u770c"
     ],
+    "name:min_x_preferred":[
+        "Kabupaten Mesuji"
+    ],
     "name:msa_x_preferred":[
         "Kabupaten Mesuji"
+    ],
+    "name:nan_x_preferred":[
+        "Mesuji Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Mesuji"
@@ -67,6 +86,9 @@
     ],
     "name:swe_x_preferred":[
         "Kabupaten Mesuji"
+    ],
+    "name:zho_x_preferred":[
+        "\u9ed8\u82cf\u5409\u53bf"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -92,9 +114,10 @@
         "hasc:id":"ID.LA.MJ",
         "wd:id":"Q8139"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:created":1482878504,
-    "wof:geomhash":"88b9baa7ea4e1e1c214273e66a88a0b9",
+    "wof:geomhash":"b9cc47d63823ab4e01093c03c9f662fa",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -111,7 +134,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614722469,
+    "wof:lastmodified":1695886544,
     "wof:name":"Mesuji",
     "wof:parent_id":85672009,
     "wof:placetype":"county",

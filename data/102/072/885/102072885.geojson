@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.663325,
-    "geom:area_square_m":8200853402.751637,
+    "geom:area_square_m":8200853402.7523,
     "geom:bbox":"127.011726,-1.86921,128.931427,0.38718",
     "geom:latitude":-0.848971,
     "geom:longitude":127.689353,
@@ -31,6 +31,12 @@
     "mps:longitude":127.821421,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0647\u0627\u0644\u0645\u0627\u0647\u064a\u0631\u0627 \u0633\u064a\u0644\u0627\u062a\u0627\u0646"
+    ],
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Halmahera Selatan"
+    ],
     "name:ceb_x_preferred":[
         "Kabupaten Halmahera Selatan"
     ],
@@ -41,13 +47,20 @@
         "Halmahera Selatan"
     ],
     "name:eng_x_variant":[
-        "HALMAHERA SELATAN"
+        "HALMAHERA SELATAN",
+        "South Halmahera Regency"
     ],
     "name:fra_x_preferred":[
         "Halmahera Selatan"
     ],
+    "name:gle_x_preferred":[
+        "Halmahera Theas"
+    ],
     "name:ind_x_preferred":[
         "Halmahera Selatan"
+    ],
+    "name:ind_x_variant":[
+        "Kabupaten Halmahera Selatan"
     ],
     "name:jav_x_preferred":[
         "Kabupat\u00e8n Halmahera Kidul"
@@ -55,7 +68,13 @@
     "name:msa_x_preferred":[
         "Kabupaten Halmahera Selatan"
     ],
+    "name:nan_x_preferred":[
+        "L\u00e2m Halmahera Ko\u0101n"
+    ],
     "name:nld_x_preferred":[
+        "Halmahera Selatan"
+    ],
+    "name:pol_x_preferred":[
         "Halmahera Selatan"
     ],
     "name:spa_x_preferred":[
@@ -102,11 +121,12 @@
         "hasc:id":"ID.MU.HS",
         "wd:id":"Q19148"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7b82c30898c01efafec0c1fa71714c32",
+    "wof:geomhash":"110c4f578eb7ec7fdb1412af1708533f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -123,7 +143,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614716972,
+    "wof:lastmodified":1695886507,
     "wof:name":"Halmahera Selatan",
     "wof:parent_id":85672085,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.183405,
-    "geom:area_square_m":2265876116.376244,
+    "geom:area_square_m":2265876116.376249,
     "geom:bbox":"97.074081,2.00293,98.198624,2.630247",
     "geom:latitude":2.381314,
     "geom:longitude":97.841356,
@@ -34,6 +34,9 @@
     "name:ace_x_preferred":[
         "Kabupaten Ac\u00e8h Singkil"
     ],
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Ac\u00e9h Singkil"
+    ],
     "name:bel_x_preferred":[
         "\u0410\u043a\u0440\u0443\u0433\u0430 \u0410\u0447\u044d\u0445-\u0421\u0456\u043d\u043a\u0456\u043b"
     ],
@@ -47,7 +50,8 @@
         "Aceh Singkil"
     ],
     "name:eng_x_variant":[
-        "ACEH SINGKIL"
+        "ACEH SINGKIL",
+        "Aceh Singkil Regency"
     ],
     "name:fas_x_preferred":[
         "\u0622\u0686\u0647 \u0633\u06cc\u0646\u06af\u200c\u06a9\u06cc\u0644 \u0631\u06cc\u062c\u0646\u0633\u06cc"
@@ -55,11 +59,17 @@
     "name:fra_x_preferred":[
         "Aceh Singkil"
     ],
+    "name:gle_x_preferred":[
+        "Aceh Singkil"
+    ],
     "name:gor_x_preferred":[
         "Kabupaten Aceh Singkil"
     ],
     "name:ind_x_preferred":[
         "Aceh Singkil"
+    ],
+    "name:ind_x_variant":[
+        "Kabupaten Aceh Singkil"
     ],
     "name:ita_x_preferred":[
         "Aceh Singkil"
@@ -75,6 +85,9 @@
     ],
     "name:msa_x_preferred":[
         "Aceh Singkil"
+    ],
+    "name:nan_x_preferred":[
+        "Aceh Singkil Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Aceh Singkil"
@@ -94,8 +107,14 @@
     "name:swe_x_preferred":[
         "Kabupaten Aceh Singkil"
     ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0447\u0435\u0445-\u0421\u0456\u043d\u0433\u043a\u0456\u043b"
+    ],
     "name:vie_x_preferred":[
         "Aceh Singkil"
+    ],
+    "name:zho_x_preferred":[
+        "\u8f9b\u5409\u5c14\u53bf"
     ],
     "qs:a0":"Indonesia",
     "qs:a0_lc":"IDN",
@@ -132,11 +151,12 @@
         "hasc:id":"ID.AC.AN",
         "wd:id":"Q5672"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"08d74ae9b94bde185d4b5a73bead1bbc",
+    "wof:geomhash":"f29b92a6120482acf2e7cc667955f783",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -153,7 +173,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614715084,
+    "wof:lastmodified":1695886497,
     "wof:name":"Aceh Singkil",
     "wof:parent_id":85671973,
     "wof:placetype":"county",

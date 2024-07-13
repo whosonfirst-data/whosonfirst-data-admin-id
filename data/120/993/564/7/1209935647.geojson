@@ -33,12 +33,17 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        102073017,
-        85672027
+        85672027,
+        102073017
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1965319
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1972238
+        ]
     },
     "wof:country":"ID",
     "wof:geomhash":"5805643254594aef79c86962f9c8b485",
@@ -59,13 +64,15 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614638701,
+    "wof:lastmodified":1706239775,
     "wof:name":"Losari",
     "wof:parent_id":102073017,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310486737
+    ],
     "wof:tags":[]
 },
   "bbox": [

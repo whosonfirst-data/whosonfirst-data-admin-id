@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.625398,
-    "geom:area_square_m":7732739006.616154,
+    "geom:area_square_m":7732739006.614481,
     "geom:bbox":"101.814499,-1.10912,102.732964,0.092635",
     "geom:latitude":-0.544982,
     "geom:longitude":102.335234,
@@ -37,6 +37,9 @@
     ],
     "name:ast_x_preferred":[
         "Indragiri Hulu"
+    ],
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Indragiri Hulu"
     ],
     "name:bar_x_preferred":[
         "Indragiri Hulu"
@@ -72,7 +75,8 @@
         "Indragiri Hulu"
     ],
     "name:eng_x_variant":[
-        "INDRAGIRI HULU"
+        "INDRAGIRI HULU",
+        "Indragiri Hulu Regency"
     ],
     "name:epo_x_preferred":[
         "Indragiri Hulu"
@@ -125,6 +129,9 @@
     "name:ind_x_preferred":[
         "Indragiri Hulu"
     ],
+    "name:ind_x_variant":[
+        "Kabupaten Indragiri Hulu"
+    ],
     "name:isl_x_preferred":[
         "Indragiri Hulu"
     ],
@@ -154,6 +161,9 @@
     ],
     "name:msa_x_preferred":[
         "Indragiri Hulu"
+    ],
+    "name:nan_x_preferred":[
+        "Indragiri Hulu Ko\u0101n"
     ],
     "name:nap_x_preferred":[
         "Indragiri Hulu"
@@ -242,6 +252,9 @@
     "name:wol_x_preferred":[
         "Indragiri Hulu"
     ],
+    "name:zho_x_preferred":[
+        "\u5370\u9054\u57fa\u91cc\u00b7\u6e56\u8def\u7e23"
+    ],
     "name:zul_x_preferred":[
         "Indragiri Hulu"
     ],
@@ -269,9 +282,10 @@
         "hasc:id":"ID.RI.IU",
         "wd:id":"Q7605"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:created":1482878590,
-    "wof:geomhash":"77b6908488f651bbbea546d96fb4c042",
+    "wof:geomhash":"9a9ba96e1ba4e8860cde7ed99566536a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -288,7 +302,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614722838,
+    "wof:lastmodified":1695886550,
     "wof:name":"Indragiri Hulu",
     "wof:parent_id":85672077,
     "wof:placetype":"county",

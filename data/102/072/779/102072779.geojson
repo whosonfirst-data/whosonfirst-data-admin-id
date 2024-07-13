@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.696452,
-    "geom:area_square_m":8610474579.595499,
+    "geom:area_square_m":8610474579.597164,
     "geom:bbox":"112.993874,-1.521476,113.988602,-0.269126",
     "geom:latitude":-0.955279,
     "geom:longitude":113.52341,
@@ -31,6 +31,12 @@
     "mps:longitude":113.530922,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Gunung Mas"
+    ],
+    "name:bjn_x_preferred":[
+        "Kabupatin Gunung Mas"
+    ],
     "name:ceb_x_preferred":[
         "Kabupaten Gunung Mas"
     ],
@@ -41,13 +47,20 @@
         "Gunung Mas"
     ],
     "name:eng_x_variant":[
-        "GUNUNGMAS"
+        "GUNUNGMAS",
+        "Gunung Mas Regency"
     ],
     "name:fra_x_preferred":[
         "Gunung Mas"
     ],
+    "name:gle_x_preferred":[
+        "Gunung Mas"
+    ],
     "name:ind_x_preferred":[
         "Gunung Mas"
+    ],
+    "name:ind_x_variant":[
+        "Kabupaten Gunung Mas"
     ],
     "name:ita_x_preferred":[
         "Reggenza di Gurung Mas"
@@ -60,6 +73,9 @@
     ],
     "name:msa_x_preferred":[
         "Kabupaten Gunung Mas"
+    ],
+    "name:nan_x_preferred":[
+        "Gunung Mas Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Gunung Mas"
@@ -111,11 +127,12 @@
         "hasc:id":"ID.KT.GM",
         "wd:id":"Q14192"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a91c2b0c127ab9f8822a9d26e3e86979",
+    "wof:geomhash":"156f1127a52b70e71573445cfddca0e8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -132,7 +149,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614716244,
+    "wof:lastmodified":1695886502,
     "wof:name":"Gunung Mas",
     "wof:parent_id":85672063,
     "wof:placetype":"county",

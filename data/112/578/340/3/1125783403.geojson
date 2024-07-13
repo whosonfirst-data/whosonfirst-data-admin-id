@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"101.45,0.53333,101.45,0.53333",
@@ -17,7 +19,7 @@
     "lbl:latitude":0.53333,
     "lbl:longitude":101.45,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":13.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ace_x_preferred":[
@@ -41,11 +43,17 @@
     "name:aze_x_preferred":[
         "\u067e\u06a9\u0627\u0646\u0628\u0627\u0631\u0648"
     ],
+    "name:ban_x_preferred":[
+        "Pekanbaru"
+    ],
     "name:bar_x_preferred":[
         "Pekanbaru"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041f\u0435\u043a\u0430\u043d\u0431\u0430\u0440\u0443"
+    ],
+    "name:bel_x_variant":[
+        "\u041f\u0435\u043a\u0430\u043d\u0431\u0430\u0440\u0443"
     ],
     "name:ben_x_preferred":[
         "\u09aa\u09c7\u0995\u09be\u09a8\u09ac\u09be\u09b0\u09c1"
@@ -80,8 +88,14 @@
     "name:ell_x_preferred":[
         "\u03a0\u03b5\u03ba\u03b1\u03bd\u03bc\u03c0\u03b1\u03c1\u03bf\u03cd"
     ],
+    "name:ell_x_variant":[
+        "\u03a0\u03b5\u03ba\u03b1\u03bd\u03bc\u03c0\u03ac\u03c1\u03bf\u03c5"
+    ],
     "name:eng_x_preferred":[
         "Pekanbaru"
+    ],
+    "name:eng_x_variant":[
+        "Pekanbaru City"
     ],
     "name:epo_x_preferred":[
         "Pekanbaru"
@@ -124,6 +138,9 @@
     ],
     "name:guj_x_preferred":[
         "\u0aaa\u0ac7\u0a95\u0aa8\u0aac\u0ab0\u0ac2"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05e7\u05d0\u05e0\u05d1\u05d0\u05e8\u05d5"
     ],
     "name:hin_x_preferred":[
         "\u092a\u093f\u0915\u093e\u0902\u092c\u093e\u0930\u0941"
@@ -213,6 +230,9 @@
     "name:msa_x_preferred":[
         "Pekanbaru"
     ],
+    "name:mya_x_preferred":[
+        "\u1015\u102e\u1000\u1014\u103a\u1038\u1018\u102c\u101b\u1030\u1038\u1019\u103c\u102d\u102f\u1037"
+    ],
     "name:nan_x_preferred":[
         "Pekanbaru"
     ],
@@ -236,6 +256,9 @@
     ],
     "name:oci_x_preferred":[
         "Pekanbaru"
+    ],
+    "name:oss_x_preferred":[
+        "\u041f\u0435\u043a\u0430\u043d\u0431\u0430\u0440\u0443"
     ],
     "name:pcd_x_preferred":[
         "Pekanbaru"
@@ -297,8 +320,14 @@
     "name:swe_x_preferred":[
         "Pakanbaru"
     ],
+    "name:swe_x_variant":[
+        "Pekanbaru"
+    ],
     "name:tam_x_preferred":[
         "\u0baa\u0bc6\u0b95\u0bcd\u0b95\u0bbe\u0ba9\u0bcd\u0baa\u0bbe\u0bb0\u0bc1"
+    ],
+    "name:tat_x_preferred":[
+        "\u041f\u0435\u043a\u0430\u043d\u0431\u0430\u0440\u0443"
     ],
     "name:tel_x_preferred":[
         "\u0c2a\u0c47\u0c15\u0c02\u0c2c\u0c30\u0c41"
@@ -345,6 +374,9 @@
     "name:wol_x_preferred":[
         "Pekanbaru"
     ],
+    "name:wuu_x_preferred":[
+        "\u5317\u5e72\u5df4\u9c81"
+    ],
     "name:yue_x_preferred":[
         "\u5317\u4e7e\u5df4\u9b6f"
     ],
@@ -371,8 +403,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        1108796917,
-        85672077
+        85672077,
+        1108796917
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -400,14 +432,16 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614653777,
+    "wof:lastmodified":1706239766,
     "wof:name":"Pekanbaru",
     "wof:parent_id":1108796917,
     "wof:placetype":"locality",
     "wof:population":703956,
     "wof:population_rank":11,
     "wof:repo":"whosonfirst-data-admin-id",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        102019475
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

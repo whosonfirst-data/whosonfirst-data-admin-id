@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033067,
-    "geom:area_square_m":407003941.385203,
+    "geom:area_square_m":407003941.385114,
     "geom:bbox":"119.853348,-5.591572,120.111168,-5.354125",
     "geom:latitude":-5.490346,
     "geom:longitude":119.987238,
@@ -43,6 +43,9 @@
     "name:ast_x_preferred":[
         "Bantaeng"
     ],
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Bantaeng"
+    ],
     "name:bar_x_preferred":[
         "Bantaeng"
     ],
@@ -74,7 +77,8 @@
         "Bantaeng"
     ],
     "name:eng_x_variant":[
-        "BANTAENG"
+        "BANTAENG",
+        "Bantaeng Regency"
     ],
     "name:epo_x_preferred":[
         "Bantaeng"
@@ -106,6 +110,9 @@
     "name:glg_x_preferred":[
         "Bantaeng"
     ],
+    "name:gor_x_preferred":[
+        "Kabupaten Bantaeng"
+    ],
     "name:gsw_x_preferred":[
         "Bantaeng"
     ],
@@ -126,6 +133,9 @@
     ],
     "name:ind_x_preferred":[
         "Bantaeng"
+    ],
+    "name:ind_x_variant":[
+        "Kabupaten Bantaeng"
     ],
     "name:isl_x_preferred":[
         "Bantaeng"
@@ -159,6 +169,9 @@
     ],
     "name:msa_x_preferred":[
         "Bantaeng"
+    ],
+    "name:nan_x_preferred":[
+        "Bantaeng Ko\u0101n"
     ],
     "name:nap_x_preferred":[
         "Bantaeng"
@@ -285,11 +298,12 @@
         "hasc:id":"ID.SE.BT",
         "wd:id":"Q14590"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1f5374d54bdb27b69c4c4f800a268e77",
+    "wof:geomhash":"8b62f5b29612110a2051a9c9a83cc507",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -306,7 +320,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614718078,
+    "wof:lastmodified":1695886515,
     "wof:name":"Bantaeng",
     "wof:parent_id":85672041,
     "wof:placetype":"county",

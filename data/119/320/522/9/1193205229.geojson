@@ -11,6 +11,7 @@
     "geom:longitude":106.34481,
     "gn:admin1_code":"33.0",
     "gn:asciiname":"Tengkurak",
+    "gn:cc2":"ID",
     "gn:country_code":"ID",
     "gn:dem":3,
     "gn:feature_class":"P",
@@ -37,12 +38,17 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        102073479,
-        85671995
+        85671995,
+        102073479
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1625039
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1989245
+        ]
     },
     "wof:country":"ID",
     "wof:geomhash":"2b1bb92fec1cee65154bfa2faeeeb3e0",
@@ -63,13 +69,15 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614639644,
+    "wof:lastmodified":1706239773,
     "wof:name":"Tengkurak",
     "wof:parent_id":102073479,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293238519
+    ],
     "wof:tags":[]
 },
   "bbox": [

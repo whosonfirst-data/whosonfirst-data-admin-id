@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.3054,
-    "geom:area_square_m":3773908875.331772,
+    "geom:area_square_m":3773908875.331146,
     "geom:bbox":"101.128601,-2.450515,101.837555,-1.672098",
     "geom:latitude":-2.044302,
     "geom:longitude":101.457509,
@@ -46,6 +46,9 @@
     "name:ast_x_preferred":[
         "Kerinci"
     ],
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Kerinci"
+    ],
     "name:bar_x_preferred":[
         "Kerinci"
     ],
@@ -77,7 +80,8 @@
         "Kerinci"
     ],
     "name:eng_x_variant":[
-        "KERINCI"
+        "KERINCI",
+        "Kerinci Regency"
     ],
     "name:epo_x_preferred":[
         "Kerinci"
@@ -133,6 +137,9 @@
     "name:ind_x_preferred":[
         "Kerinci"
     ],
+    "name:ind_x_variant":[
+        "Kabupaten Kerinci"
+    ],
     "name:isl_x_preferred":[
         "Kerinci"
     ],
@@ -141,6 +148,9 @@
     ],
     "name:jav_x_preferred":[
         "Kabupat\u00e8n Kerinci"
+    ],
+    "name:jav_x_variant":[
+        "Kerinci"
     ],
     "name:kon_x_preferred":[
         "Kerinci"
@@ -162,6 +172,9 @@
     ],
     "name:msa_x_preferred":[
         "Kerinci"
+    ],
+    "name:nan_x_preferred":[
+        "Kerinci Ko\u0101n"
     ],
     "name:nap_x_preferred":[
         "Kerinci"
@@ -289,11 +302,12 @@
         "hasc:id":"ID.JA.KR",
         "wd:id":"Q7376"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4cedcdf8bc057209f62fce48f19bcb51",
+    "wof:geomhash":"cc6d6358ce2c30ddd0dedf6fb0f33dd3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -310,7 +324,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614715217,
+    "wof:lastmodified":1695886498,
     "wof:name":"Kerinci",
     "wof:parent_id":85672059,
     "wof:placetype":"county",

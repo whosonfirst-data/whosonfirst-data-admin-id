@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.541523,
-    "geom:area_square_m":6618899596.195717,
+    "geom:area_square_m":6618899596.195606,
     "geom:bbox":"116.843987,-9.110293,118.333092,-7.3459",
     "geom:latitude":-8.702687,
     "geom:longitude":117.483574,
@@ -36,6 +36,9 @@
     ],
     "name:aze_x_preferred":[
         "Sumbava"
+    ],
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Sumbawa"
     ],
     "name:bel_x_preferred":[
         "\u0412\u043e\u0441\u0442\u0440\u0430\u045e \u0421\u0443\u043c\u0431\u0430\u0432\u0430"
@@ -74,7 +77,8 @@
         "Sumbawa"
     ],
     "name:eng_x_variant":[
-        "SUMBAWA"
+        "SUMBAWA",
+        "Sumbawa Regency"
     ],
     "name:epo_x_preferred":[
         "Sumbavo"
@@ -94,6 +98,9 @@
     "name:fra_x_variant":[
         "kabupaten de Sumbawa"
     ],
+    "name:gle_x_preferred":[
+        "Sumbawa"
+    ],
     "name:glg_x_preferred":[
         "Sumbawa"
     ],
@@ -107,7 +114,8 @@
         "Pulau Sumbawa"
     ],
     "name:ind_x_variant":[
-        "Sumbawa"
+        "Sumbawa",
+        "Kabupaten Sumbawa"
     ],
     "name:ita_x_preferred":[
         "Sumbawa"
@@ -141,6 +149,9 @@
     ],
     "name:msa_x_variant":[
         "Kabupaten Sumbawa"
+    ],
+    "name:nan_x_preferred":[
+        "Sumbawa Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Soembawa"
@@ -248,11 +259,12 @@
         "hasc:id":"ID.NB.SU",
         "wd:id":"Q14122"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ef4dadb2e7b70ddc704c0126c9fe8b27",
+    "wof:geomhash":"1702354012fdee286e6d3f37ba96f16c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -269,7 +281,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1636502311,
+    "wof:lastmodified":1695886063,
     "wof:name":"Sumbawa",
     "wof:parent_id":85672103,
     "wof:placetype":"county",

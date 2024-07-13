@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.741989,
-    "geom:area_square_m":33779225697.594097,
+    "geom:area_square_m":33779225697.593704,
     "geom:bbox":"103.571617,-6.17122,105.916946,-3.723731",
     "geom:latitude":-4.918391,
     "geom:longitude":105.018576,
@@ -59,6 +59,9 @@
     "name:ben_x_variant":[
         "\u09b2\u09be\u09ae\u09cd\u09aa\u09c1\u0982"
     ],
+    "name:bjn_x_preferred":[
+        "Lampung"
+    ],
     "name:bul_x_preferred":[
         "\u041b\u0430\u043c\u043f\u0443\u043d\u0433"
     ],
@@ -110,6 +113,12 @@
     "name:fra_x_preferred":[
         "Lampung"
     ],
+    "name:frr_x_preferred":[
+        "Lampung"
+    ],
+    "name:gle_x_preferred":[
+        "Lampung"
+    ],
     "name:gor_x_preferred":[
         "Lampung"
     ],
@@ -133,6 +142,9 @@
     ],
     "name:hye_x_preferred":[
         "\u053c\u0561\u0574\u057a\u0578\u0582\u0576\u0563"
+    ],
+    "name:hyw_x_preferred":[
+        "\u053c\u0561\u0574\u0583\u0578\u0582\u0576\u056f"
     ],
     "name:ilo_x_preferred":[
         "Lampung"
@@ -173,6 +185,9 @@
     "name:lrc_x_preferred":[
         "\u0644\u0627\u0645\u067e\u0648\u0646\u06af"
     ],
+    "name:mad_x_preferred":[
+        "Lampung"
+    ],
     "name:mar_x_preferred":[
         "\u0932\u093e\u0902\u092a\u0941\u0902\u0917"
     ],
@@ -187,6 +202,9 @@
     ],
     "name:nan_x_preferred":[
         "Lampung"
+    ],
+    "name:nan_x_variant":[
+        "Lampung S\u00e9ng"
     ],
     "name:nep_x_preferred":[
         "\u0932\u094d\u092f\u093e\u092e\u094d\u092a\u0941\u0919 \u0915\u094d\u0937\u0947\u0924\u094d\u0930"
@@ -223,6 +241,9 @@
     ],
     "name:sin_x_preferred":[
         "\u0dbd\u0dd0\u0db8\u0dca\u0db4\u0db1\u0dca\u0d9c\u0dca \u0db4\u0dc5\u0dcf\u0dad"
+    ],
+    "name:som_x_preferred":[
+        "Lampung,"
     ],
     "name:spa_x_preferred":[
         "Lampung"
@@ -268,6 +289,9 @@
     ],
     "name:vec_x_preferred":[
         "\u023danpu\u1e45"
+    ],
+    "name:vec_x_variant":[
+        "\u0141anpu\u1e45"
     ],
     "name:vie_x_preferred":[
         "Lampung"
@@ -401,17 +425,19 @@
         "gn:id":1638535,
         "gp:id":2345724,
         "hasc:id":"ID.LA",
+        "iso:code":"ID-LA",
         "iso:id":"ID-LA",
         "qs:id":217487,
         "unlc:id":"ID-LA",
         "wd:id":"Q2110",
         "wk:page":"Lampung"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"dc0b7da6f41e9a144dc062699a0386ca",
+    "wof:geomhash":"d923265003d4e659667c3086d6c2cce4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -427,7 +453,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1636502343,
+    "wof:lastmodified":1695884931,
     "wof:name":"Lampung",
     "wof:parent_id":85632203,
     "wof:placetype":"region",

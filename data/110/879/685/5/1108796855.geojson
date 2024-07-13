@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.11905,
-    "geom:area_square_m":1451700110.21354,
+    "geom:area_square_m":1451700110.213668,
     "geom:bbox":"118.934334,-9.75678,119.422092,-9.36142",
     "geom:latitude":-9.544155,
     "geom:longitude":119.18413,
@@ -26,6 +26,9 @@
     "meso:name_local":"SUMBA BARAT DAYA",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Sumba Barat Daya"
+    ],
     "name:ceb_x_preferred":[
         "Kabupaten Sumba Barat Daya"
     ],
@@ -36,13 +39,20 @@
         "Sumba Barat Daya"
     ],
     "name:eng_x_variant":[
-        "SUMBA BARAT DAYA"
+        "SUMBA BARAT DAYA",
+        "Southwest Sumba Regency"
     ],
     "name:fra_x_preferred":[
         "kabupaten de Sumba du Sud-Ouest"
     ],
+    "name:gle_x_preferred":[
+        "Sumba Thiar Theas"
+    ],
     "name:ind_x_preferred":[
         "Sumba Barat Daya"
+    ],
+    "name:ind_x_variant":[
+        "Kabupaten Sumba Barat Daya"
     ],
     "name:ita_x_preferred":[
         "Reggenza di Sumba Sudoccidentale"
@@ -55,6 +65,9 @@
     ],
     "name:msa_x_preferred":[
         "Kabupaten Sumba Barat Daya"
+    ],
+    "name:nan_x_preferred":[
+        "Se-l\u00e2m Sumba Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Zuidwest-Soemba"
@@ -95,9 +108,10 @@
         "hasc:id":"ID.NT.SD",
         "wd:id":"Q14152"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:created":1482878542,
-    "wof:geomhash":"eae1c155fc720794b0c8c964356ed554",
+    "wof:geomhash":"39b3af1e6ced63385fdc0fb4201a01e7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -114,7 +128,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614722727,
+    "wof:lastmodified":1695886547,
     "wof:name":"Sumba Barat Daya",
     "wof:parent_id":85672037,
     "wof:placetype":"county",

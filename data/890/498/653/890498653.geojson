@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0628\u0627\u0631\u0648\u0646"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0627\u0631\u0648\u0646"
+    ],
     "name:ast_x_preferred":[
         "Bar\u00f3n"
     ],
@@ -38,6 +41,9 @@
     "name:bul_x_preferred":[
         "\u0411\u0430\u0440\u043e\u043d"
     ],
+    "name:bxr_x_preferred":[
+        "\u0411\u0430\u0440\u043e\u043d"
+    ],
     "name:cat_x_preferred":[
         "bar\u00f3"
     ],
@@ -52,6 +58,9 @@
     ],
     "name:dan_x_preferred":[
         "Baron"
+    ],
+    "name:dan_x_variant":[
+        "baron"
     ],
     "name:deu_x_preferred":[
         "Baron"
@@ -85,6 +94,12 @@
     ],
     "name:gle_x_preferred":[
         "Bar\u00fan"
+    ],
+    "name:gle_x_variant":[
+        "bar\u00fan"
+    ],
+    "name:glg_x_preferred":[
+        "bar\u00f3n"
     ],
     "name:heb_x_preferred":[
         "\u05d1\u05e8\u05d5\u05df"
@@ -127,6 +142,9 @@
     ],
     "name:lav_x_preferred":[
         "Barons"
+    ],
+    "name:lav_x_variant":[
+        "barons"
     ],
     "name:lit_x_preferred":[
         "Baronas"
@@ -176,14 +194,23 @@
     "name:slv_x_preferred":[
         "Baron"
     ],
+    "name:slv_x_variant":[
+        "baron"
+    ],
     "name:spa_x_preferred":[
         "bar\u00f3n"
+    ],
+    "name:spa_x_variant":[
+        "baron\u00eda"
     ],
     "name:srp_x_preferred":[
         "\u0431\u0430\u0440\u043e\u043d"
     ],
     "name:swe_x_preferred":[
         "friherre"
+    ],
+    "name:swe_x_variant":[
+        "baron"
     ],
     "name:tgk_x_preferred":[
         "\u0411\u0430\u0440\u043e\u043d"
@@ -200,17 +227,29 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u0440\u043e\u043d"
     ],
+    "name:ukr_x_variant":[
+        "\u0431\u0430\u0440\u043e\u043d"
+    ],
     "name:urd_x_preferred":[
         "\u0628\u06cc\u0631\u0646"
     ],
     "name:uzb_x_preferred":[
         "Baron"
     ],
+    "name:vec_x_preferred":[
+        "baron"
+    ],
     "name:vie_x_preferred":[
         "Nam t\u01b0\u1edbc"
     ],
+    "name:vie_x_variant":[
+        "nam t\u01b0\u1edbc"
+    ],
     "name:vol_x_preferred":[
         "baonan"
+    ],
+    "name:yid_x_preferred":[
+        "\u05d1\u05d0\u05e8\u05d0\u05df"
     ],
     "name:yue_x_preferred":[
         "\u7537\u7235"
@@ -230,8 +269,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        102072747,
-        85672027
+        85672027,
+        102072747
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -261,7 +300,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614653739,
+    "wof:lastmodified":1690931523,
     "wof:name":"Baron",
     "wof:parent_id":102072747,
     "wof:placetype":"locality",

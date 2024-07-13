@@ -9,9 +9,22 @@
     "geom:bbox":"110.51611,-7.75028,110.51611,-7.75028",
     "geom:latitude":-7.75028,
     "geom:longitude":110.51611,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Sanggrahan",
     "gn:country":"ID",
+    "gn:country_code":"ID",
+    "gn:dem":160,
     "gn:fcode":"PPL",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2007562,
+    "gn:latitude":-7.74806,
+    "gn:longitude":110.51611,
+    "gn:modification_date":"2005-12-20",
+    "gn:name":"Sanggrahan",
     "gn:pop":0,
+    "gn:population":0,
+    "gn:timezone":"Asia/Jakarta",
     "gp:adm0":23424846,
     "iso:country":"ID",
     "mz:hierarchy_label":1,
@@ -32,14 +45,19 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        102073233,
-        85671987
+        85671987,
+        102073233
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1998830,
         "gp:id":28330163,
         "qs:id":1196649
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            2007562
+        ]
     },
     "wof:country":"ID",
     "wof:created":1469055015,
@@ -61,14 +79,16 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614653763,
+    "wof:lastmodified":1706239771,
     "wof:name":"Sanggrahan",
     "wof:parent_id":102073233,
     "wof:placetype":"locality",
     "wof:population":0,
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326550909
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.193748,
-    "geom:area_square_m":2389884350.079218,
+    "geom:area_square_m":2389884350.081685,
     "geom:bbox":"119.888474,-4.296486,120.43782,-3.646367",
     "geom:latitude":-4.000576,
     "geom:longitude":120.17943,
@@ -31,6 +31,9 @@
     "mps:longitude":120.179351,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Wajo"
+    ],
     "name:ceb_x_preferred":[
         "Kabupaten Wajo"
     ],
@@ -41,13 +44,20 @@
         "Wajo"
     ],
     "name:eng_x_variant":[
-        "WAJO"
+        "WAJO",
+        "Wajo Regency"
     ],
     "name:fra_x_preferred":[
         "Wajo"
     ],
+    "name:gle_x_preferred":[
+        "Wajo"
+    ],
     "name:ind_x_preferred":[
         "Wajo"
+    ],
+    "name:ind_x_variant":[
+        "Kabupaten Wajo"
     ],
     "name:ita_x_preferred":[
         "Reggenza di Wajo"
@@ -61,8 +71,14 @@
     "name:msa_x_preferred":[
         "Wajo"
     ],
+    "name:nan_x_preferred":[
+        "Wajo Ko\u0101n"
+    ],
     "name:spa_x_preferred":[
         "Wajo"
+    ],
+    "name:sun_x_preferred":[
+        "Kabupat\u00e9n Wajo"
     ],
     "name:swe_x_preferred":[
         "Kabupaten Wajo"
@@ -109,11 +125,12 @@
         "hasc:id":"ID.SE.WA",
         "wd:id":"Q14633"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e6f6c8ae4bf0deda76e92c5f1744a4b8",
+    "wof:geomhash":"dd705e23f6b46b197bfdade8a567a073",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -130,7 +147,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614720790,
+    "wof:lastmodified":1695886529,
     "wof:name":"Wajo",
     "wof:parent_id":85672041,
     "wof:placetype":"county",

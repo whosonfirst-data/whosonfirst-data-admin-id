@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.134303,
-    "geom:area_square_m":1658808047.141049,
+    "geom:area_square_m":1658808047.140877,
     "geom:bbox":"114.864655,-2.925746,115.598999,-2.487747",
     "geom:latitude":-2.723195,
     "geom:longitude":115.200164,
@@ -31,6 +31,9 @@
     "mps:longitude":115.133585,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Hulu Sungai Selatan"
+    ],
     "name:bjn_x_preferred":[
         "Kabupatin Hulu Sungai Salatan"
     ],
@@ -44,13 +47,20 @@
         "Hulu Sungai Selatan"
     ],
     "name:eng_x_variant":[
-        "HULUSUNGAI SELATAN"
+        "HULUSUNGAI SELATAN",
+        "South Hulu Sungai Regency"
     ],
     "name:fra_x_preferred":[
         "Hulu Sungai du sud"
     ],
+    "name:gle_x_preferred":[
+        "Hulu Sungai Theas"
+    ],
     "name:ind_x_preferred":[
         "Hulu Sungai Selatan"
+    ],
+    "name:ind_x_variant":[
+        "Kabupaten Hulu Sungai Selatan"
     ],
     "name:ita_x_preferred":[
         "Reggenza di Kabupaten Hulu Sungai"
@@ -63,6 +73,9 @@
     ],
     "name:msa_x_preferred":[
         "Kabupaten Hulu Sungai Selatan"
+    ],
+    "name:nan_x_preferred":[
+        "L\u00e2m Hulu Sungai Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Hulu Sungai Selatan"
@@ -117,11 +130,12 @@
         "hasc:id":"ID.KS.HS",
         "wd:id":"Q14176"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"bb4dc2dd45eda310564dae465b6917d2",
+    "wof:geomhash":"1f02ea012ac47c97fdf87de167faf7ca",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -138,7 +152,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614722259,
+    "wof:lastmodified":1695886540,
     "wof:name":"Hulu Sungai Selatan",
     "wof:parent_id":85672031,
     "wof:placetype":"county",

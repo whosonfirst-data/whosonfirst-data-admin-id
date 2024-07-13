@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.358187,
-    "geom:area_square_m":4390262081.71505,
+    "geom:area_square_m":4390262081.715117,
     "geom:bbox":"130.698441,-8.34635,132.007751,-6.66062",
     "geom:latitude":-7.582204,
     "geom:longitude":131.372511,
@@ -26,6 +26,9 @@
     "meso:name_local":"MALUKU TENGGARA BARAT",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Kepulauan Tanimbar"
+    ],
     "name:bjn_x_preferred":[
         "Maluku Tenggara Barat"
     ],
@@ -43,13 +46,20 @@
     ],
     "name:eng_x_variant":[
         "MALUKU TENGGARA BARAT",
-        "Kepulauan Tanimbar"
+        "Kepulauan Tanimbar",
+        "Tanimbar Islands Regency"
     ],
     "name:fra_x_preferred":[
         "kabupaten des Moluques du Sud-Est occidentales"
     ],
+    "name:gle_x_preferred":[
+        "Oile\u00e1in Islands"
+    ],
     "name:ind_x_preferred":[
         "Maluku Tenggara Barat"
+    ],
+    "name:ind_x_variant":[
+        "Kabupaten Kepulauan Tanimbar"
     ],
     "name:jav_x_preferred":[
         "Maluku Kidul-w\u00e9tan Kulon"
@@ -63,14 +73,26 @@
     "name:msa_x_preferred":[
         "Maluku Tenggara Barat"
     ],
+    "name:msa_x_variant":[
+        "Kabupaten Kepulauan Tanimbar"
+    ],
+    "name:nan_x_preferred":[
+        "Tanimbar K\u00fbn-t\u00f3 Ko\u0101n"
+    ],
     "name:nld_x_preferred":[
         "Maluku Tenggara Barat"
     ],
     "name:spa_x_preferred":[
         "Molucas del Sudeste Occidentales"
     ],
+    "name:sun_x_preferred":[
+        "Kabupaten Kapuloan Tanimbar"
+    ],
     "name:swe_x_preferred":[
         "Kabupaten Maluku Tenggara Barat"
+    ],
+    "name:tet_x_preferred":[
+        "Kabupat\u00e9n Arkip\u00e9lagu Tanimbar"
     ],
     "name:ukr_x_preferred":[
         "\u0417\u0430\u0445\u0456\u0434\u043d\u0435 \u041f\u0456\u0432\u0434\u0435\u043d\u043d\u043e-\u0421\u0445\u0456\u0434\u043d\u0435 \u041c\u0430\u043b\u0443\u043a\u0443"
@@ -102,9 +124,10 @@
         "hasc:id":"ID.MA.MB",
         "wd:id":"Q18961"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:created":1482878527,
-    "wof:geomhash":"ca0e73a9e5116e9efea88bef36c71435",
+    "wof:geomhash":"23bd0e156e9f70890f441359ad7a744b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -121,7 +144,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614722592,
+    "wof:lastmodified":1695886545,
     "wof:name":"Maluku Tenggara Barat",
     "wof:parent_id":85672097,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.339517,
-    "geom:area_square_m":4166196809.805099,
+    "geom:area_square_m":4166196809.805082,
     "geom:bbox":"106.373772,-7.43414,107.065025,-6.715317",
     "geom:latitude":-7.076059,
     "geom:longitude":106.708135,
@@ -43,6 +43,9 @@
     "name:aze_x_preferred":[
         "Sukabumi"
     ],
+    "name:ban_x_preferred":[
+        "Kota Sukabumi"
+    ],
     "name:ben_x_preferred":[
         "\u09b8\u09c1\u0995\u09be\u09ac\u09c1\u09ae\u09bf"
     ],
@@ -65,7 +68,11 @@
         "Sukabumi"
     ],
     "name:eng_x_variant":[
-        "SUKABUMI"
+        "SUKABUMI",
+        "Sukabumi City"
+    ],
+    "name:epo_x_preferred":[
+        "Sukabumi"
     ],
     "name:fas_x_preferred":[
         "\u0633\u0648\u06a9\u0627\u0628\u0648\u0645\u06cc"
@@ -74,6 +81,9 @@
         "Sukabumi"
     ],
     "name:fra_x_preferred":[
+        "Sukabumi"
+    ],
+    "name:gle_x_preferred":[
         "Sukabumi"
     ],
     "name:guj_x_preferred":[
@@ -90,6 +100,9 @@
     ],
     "name:ind_x_preferred":[
         "Sukabumi"
+    ],
+    "name:ind_x_variant":[
+        "Kota Sukabumi"
     ],
     "name:ita_x_preferred":[
         "Sukabumi"
@@ -120,6 +133,9 @@
     ],
     "name:mar_x_preferred":[
         "\u0938\u0941\u0915\u093e\u092c\u0941\u092e\u0940"
+    ],
+    "name:min_x_preferred":[
+        "Kota Sukabumi"
     ],
     "name:mlg_x_preferred":[
         "Kota Sukabumi"
@@ -166,6 +182,9 @@
     "name:tam_x_preferred":[
         "\u0b9a\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0baa\u0bc2\u0bae\u0bbf"
     ],
+    "name:tat_x_preferred":[
+        "\u0421\u0443\u043a\u0430\u0431\u0443\u043c\u0438"
+    ],
     "name:tel_x_preferred":[
         "\u0c38\u0c41\u0c15\u0c3e\u0c2c\u0c42\u0c2e\u0c3f"
     ],
@@ -180,6 +199,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0633\u0648\u06a9\u0627\u0628\u0648\u0645\u06cc"
+    ],
+    "name:vec_x_preferred":[
+        "Sukabumi"
     ],
     "name:vie_x_preferred":[
         "Sukabumi"
@@ -226,11 +248,12 @@
         "hasc:id":"ID.JR.SR",
         "wd:id":"Q10397"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7c2626e0a8414c94eb2c76fd92715ce7",
+    "wof:geomhash":"f4782d1e3b56faa9836c3feb18ef0b72",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -247,7 +270,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1636502311,
+    "wof:lastmodified":1695886063,
     "wof:name":"Sukabumi",
     "wof:parent_id":85671983,
     "wof:placetype":"county",

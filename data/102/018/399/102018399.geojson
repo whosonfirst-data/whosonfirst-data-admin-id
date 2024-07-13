@@ -9,6 +9,19 @@
     "geom:bbox":"99.741377,1.600239,99.759356,1.629314",
     "geom:latitude":1.614776,
     "geom:longitude":99.750366,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Pangirkiran",
+    "gn:country_code":"ID",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8627406,
+    "gn:latitude":1.63105,
+    "gn:longitude":99.74732,
+    "gn:modification_date":"2013-10-11",
+    "gn:name":"Pangirkiran",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jakarta",
     "iso:country":"ID",
     "lbl:latitude":1.614776,
     "lbl:longitude":99.750366,
@@ -16,6 +29,7 @@
     "mps:longitude":99.750366,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ace_x_preferred":[
         "Pangirkiran"
     ],
@@ -73,6 +87,11 @@
         "gp:id":56010844,
         "wd:id":"Q12502647"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8627406
+        ]
+    },
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
@@ -95,13 +114,15 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614712540,
+    "wof:lastmodified":1706239764,
     "wof:name":"Pangirkiran",
     "wof:parent_id":1108796991,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276944437
+    ],
     "wof:tags":[]
 },
   "bbox": [

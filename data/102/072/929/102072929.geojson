@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.082363,
-    "geom:area_square_m":1009982801.586321,
+    "geom:area_square_m":1009982801.586342,
     "geom:bbox":"110.759842,-7.53743,111.155304,-7.245922",
     "geom:latitude":-7.384208,
     "geom:longitude":110.97269,
@@ -43,6 +43,9 @@
     "name:ast_x_preferred":[
         "Sragen"
     ],
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Sragen"
+    ],
     "name:bar_x_preferred":[
         "Sragen"
     ],
@@ -74,7 +77,8 @@
         "Sragen"
     ],
     "name:eng_x_variant":[
-        "SRAGEN"
+        "SRAGEN",
+        "Sragen Regency"
     ],
     "name:epo_x_preferred":[
         "Sragen"
@@ -127,6 +131,9 @@
     "name:ind_x_preferred":[
         "Sragen"
     ],
+    "name:ind_x_variant":[
+        "Kabupaten Sragen"
+    ],
     "name:isl_x_preferred":[
         "Sragen"
     ],
@@ -135,6 +142,9 @@
     ],
     "name:jav_x_preferred":[
         "Kabupat\u00e8n Srag\u00e8n"
+    ],
+    "name:jav_x_variant":[
+        "Srag\u00e8n"
     ],
     "name:jpn_x_preferred":[
         "\u30b9\u30e9\u30b2\u30f3\u770c"
@@ -159,6 +169,9 @@
     ],
     "name:msa_x_preferred":[
         "Sragen"
+    ],
+    "name:nan_x_preferred":[
+        "Sragen Ko\u0101n"
     ],
     "name:nap_x_preferred":[
         "Sragen"
@@ -219,6 +232,9 @@
     ],
     "name:sun_x_preferred":[
         "Kabupat\u00e9n Srag\u00e9n"
+    ],
+    "name:sun_x_variant":[
+        "Srag\u00e9n"
     ],
     "name:swa_x_preferred":[
         "Sragen"
@@ -285,11 +301,12 @@
         "hasc:id":"ID.JT.SG",
         "wd:id":"Q10688"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"98d4c440994a593b57c84bcc6406e4d1",
+    "wof:geomhash":"32d857fd6ec3a5168f4b133a8efa3813",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -306,7 +323,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614717284,
+    "wof:lastmodified":1695886509,
     "wof:name":"Sragen",
     "wof:parent_id":85671987,
     "wof:placetype":"county",

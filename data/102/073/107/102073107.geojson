@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.299769,
-    "geom:area_square_m":3702276685.260706,
+    "geom:area_square_m":3702276685.260549,
     "geom:bbox":"99.075142,2.531072,99.994781,3.133268",
     "geom:latitude":2.79637,
     "geom:longitude":99.558652,
@@ -34,6 +34,9 @@
     "name:ace_x_preferred":[
         "Asahan"
     ],
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Asahan"
+    ],
     "name:cat_x_preferred":[
         "Asahan"
     ],
@@ -47,13 +50,17 @@
         "Asahan"
     ],
     "name:eng_x_variant":[
-        "ASAHAN"
+        "ASAHAN",
+        "Asahan Regency"
     ],
     "name:fra_x_preferred":[
         "Asahan River"
     ],
     "name:fra_x_variant":[
         "kabupaten d'Asahan"
+    ],
+    "name:gle_x_preferred":[
+        "Asahan"
     ],
     "name:hin_x_preferred":[
         "\u0905\u0938\u093e\u0939\u0928"
@@ -63,6 +70,9 @@
     ],
     "name:ind_x_preferred":[
         "Asahan"
+    ],
+    "name:ind_x_variant":[
+        "Kabupaten Asahan"
     ],
     "name:ita_x_preferred":[
         "Kabupaten Asahan"
@@ -82,6 +92,9 @@
     "name:msa_x_preferred":[
         "Asahan"
     ],
+    "name:nan_x_preferred":[
+        "Asahan Ko\u0101n"
+    ],
     "name:nld_x_preferred":[
         "Asahan"
     ],
@@ -93,6 +106,9 @@
     ],
     "name:spa_x_preferred":[
         "Asahan"
+    ],
+    "name:sun_x_preferred":[
+        "Kabupat\u00e9n Asahan"
     ],
     "name:swe_x_preferred":[
         "Kabupaten Asahan"
@@ -157,11 +173,12 @@
         "hasc:id":"ID.SU.AN",
         "wd:id":"Q1795"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"55732006be5d6fd7e0b2052ec418fbac",
+    "wof:geomhash":"dd9db9938191ad81801ab82ebe79214d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -178,7 +195,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1636502294,
+    "wof:lastmodified":1695886057,
     "wof:name":"Asahan",
     "wof:parent_id":85672073,
     "wof:placetype":"county",

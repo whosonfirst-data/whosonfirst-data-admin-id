@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.119409,
-    "geom:area_square_m":1476252156.46278,
+    "geom:area_square_m":1476252156.462489,
     "geom:bbox":"124.302666,0.763117,124.759697,1.384713",
     "geom:latitude":1.084561,
     "geom:longitude":124.516136,
@@ -26,6 +26,9 @@
     "meso:name_local":"MINAHASA SELATAN",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Minahasa Selatan"
+    ],
     "name:ceb_x_preferred":[
         "Kabupaten Minahasa Selatan"
     ],
@@ -36,16 +39,23 @@
         "Minahasa Selatan"
     ],
     "name:eng_x_variant":[
-        "MINAHASA SELATAN"
+        "MINAHASA SELATAN",
+        "South Minahasa Regency"
     ],
     "name:fra_x_preferred":[
         "kabupaten de Minahasa du Sud"
+    ],
+    "name:gle_x_preferred":[
+        "Minahasa Theas"
     ],
     "name:gor_x_preferred":[
         "Kabupaten Minahasa Selatan"
     ],
     "name:ind_x_preferred":[
         "Minahasa Selatan"
+    ],
+    "name:ind_x_variant":[
+        "Kabupaten Minahasa Selatan"
     ],
     "name:jav_x_preferred":[
         "Kabupat\u00e8n Minahasa Kidul"
@@ -55,6 +65,9 @@
     ],
     "name:msa_x_preferred":[
         "Kabupaten Minahasa Selatan"
+    ],
+    "name:nan_x_preferred":[
+        "L\u00e2m Minahasa Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Minahasa Selatan"
@@ -92,9 +105,10 @@
         "hasc:id":"ID.SW.ML",
         "wd:id":"Q15842"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:created":1482878626,
-    "wof:geomhash":"10e18e6a2deb8267527154e7e657818c",
+    "wof:geomhash":"1999fc05b669a9743bfd7dfae6e067f8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -111,7 +125,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614722990,
+    "wof:lastmodified":1695886554,
     "wof:name":"Minahasa Selatan",
     "wof:parent_id":85672081,
     "wof:placetype":"county",

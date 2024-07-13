@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.099198,
-    "geom:area_square_m":1217332446.797944,
+    "geom:area_square_m":1217332446.799155,
     "geom:bbox":"113.038826,-7.3181,113.483437,-6.88331",
     "geom:latitude":-7.047875,
     "geom:longitude":113.260821,
@@ -31,6 +31,9 @@
     "mps:longitude":113.264558,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Sampang"
+    ],
     "name:ceb_x_preferred":[
         "Kabupaten Sampang"
     ],
@@ -46,6 +49,9 @@
     "name:fra_x_preferred":[
         "kabupaten de Sampang"
     ],
+    "name:gle_x_preferred":[
+        "Sampang"
+    ],
     "name:ind_x_preferred":[
         "Sampang"
     ],
@@ -55,6 +61,15 @@
     "name:jav_x_preferred":[
         "Kabupat\u00e8n Sampang"
     ],
+    "name:jav_x_variant":[
+        "Sampang"
+    ],
+    "name:mad_x_preferred":[
+        "Kabupaten Sampang"
+    ],
+    "name:nan_x_preferred":[
+        "Sampang Ko\u0101n"
+    ],
     "name:nld_x_preferred":[
         "Sampang"
     ],
@@ -63,6 +78,9 @@
     ],
     "name:sun_x_preferred":[
         "Kabupat\u00e9n Sampang"
+    ],
+    "name:sun_x_variant":[
+        "Sampang"
     ],
     "name:swe_x_preferred":[
         "Kabupaten Sampang"
@@ -106,11 +124,12 @@
         "hasc:id":"ID.JI.SA",
         "wd:id":"Q11127"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a0c0449d6327679f8d1f4cff731ee691",
+    "wof:geomhash":"e21dfb67111bb5960b2ba6c59e54b7a2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -127,7 +146,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614714630,
+    "wof:lastmodified":1695886495,
     "wof:name":"Sampang",
     "wof:parent_id":85672027,
     "wof:placetype":"county",

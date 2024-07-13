@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":10.309125,
-    "geom:area_square_m":127446099230.701004,
+    "geom:area_square_m":127446099230.661591,
     "geom:bbox":"113.835945,-2.4179,118.995796,2.602087",
     "geom:latitude":0.455042,
     "geom:longitude":116.461336,
@@ -113,6 +113,12 @@
     "name:fra_x_preferred":[
         "Kalimantan oriental"
     ],
+    "name:frr_x_preferred":[
+        "Uast Kalimantan"
+    ],
+    "name:gle_x_preferred":[
+        "Kalimantan Thoir"
+    ],
     "name:gor_x_preferred":[
         "Kalimantan Timur"
     ],
@@ -125,11 +131,17 @@
     "name:hak_x_variant":[
         "T\u00fbng Kalimantan"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d6\u05e8\u05d7 \u05e7\u05dc\u05d9\u05de\u05e0\u05d8\u05d0\u05df"
+    ],
     "name:hin_x_preferred":[
         "\u092a\u0942\u0930\u094d\u0935 \u0915\u093e\u0932\u093f\u092e\u0902\u0924\u093e\u0928"
     ],
     "name:hun_x_preferred":[
         "Kelet-Kalimantan"
+    ],
+    "name:hyw_x_preferred":[
+        "\u0531\u0580\u0565\u0582\u0565\u056c\u0565\u0561\u0576 \u0554\u0561\u056c\u056b\u0574\u0561\u0576\u0569\u0561\u0576"
     ],
     "name:ilo_x_preferred":[
         "Daya a Kalimantan"
@@ -179,6 +191,9 @@
     "name:min_x_preferred":[
         "Kalimantan Timur"
     ],
+    "name:mkd_x_preferred":[
+        "\u0418\u0441\u0442\u043e\u0447\u0435\u043d \u041a\u0430\u043b\u0438\u043c\u0430\u043d\u0442\u0430\u043d"
+    ],
     "name:msa_x_preferred":[
         "Kalimantan Timur"
     ],
@@ -217,6 +232,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0412\u043e\u0441\u0442\u043e\u0447\u043d\u044b\u0439 \u041a\u0430\u043b\u0438\u043c\u0430\u043d\u0442\u0430\u043d"
+    ],
+    "name:sat_x_preferred":[
+        "\u1c65\u1c5f\u1c62\u1c5f\u1c5d \u1c60\u1c5f\u1c5e\u1c64\u1c62\u1c5f\u1c71\u1c5b\u1c5f\u1c71"
     ],
     "name:sin_x_preferred":[
         "\u0d9a\u0dbd\u0dd2\u0db8\u0db1\u0dca\u0da7\u0db1\u0dca \u0da7\u0dd2\u0db8\u0dd4\u0dbb\u0dca"
@@ -373,17 +391,19 @@
         "gn:id":1641897,
         "gp:id":2345723,
         "hasc:id":"ID.KM",
+        "iso:code":"ID-KI",
         "iso:id":"ID-KI",
         "qs:id":1075576,
         "unlc:id":"ID-KI",
         "wd:id":"Q3899",
         "wk:page":"East Kalimantan"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f38da3e1b0a1530a1ce8b93cbcb68abb",
+    "wof:geomhash":"71567a36eb96eea760d21f8b8be2d4eb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -399,7 +419,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1636502339,
+    "wof:lastmodified":1695884928,
     "wof:name":"Kalimantan Timur",
     "wof:parent_id":85632203,
     "wof:placetype":"region",

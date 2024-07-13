@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.277438,
-    "geom:area_square_m":40501651918.356094,
+    "geom:area_square_m":40501651918.355621,
     "geom:bbox":"124.142113,-3.84435,129.647415,2.64557",
     "geom:latitude":-0.563614,
     "geom:longitude":127.347567,
@@ -44,6 +44,12 @@
     ],
     "name:ara_x_preferred":[
         "\u0645\u0627\u0644\u0648\u0643\u0648 \u0627\u0644\u0634\u0645\u0627\u0644\u064a\u0629"
+    ],
+    "name:arz_x_preferred":[
+        "\u0645\u0627\u0644\u0648\u0643\u0648 \u0627\u0644\u0634\u0645\u0627\u0644\u064a\u0647"
+    ],
+    "name:ast_x_preferred":[
+        "Moluques Septentrionales"
     ],
     "name:azb_x_preferred":[
         "\u0642\u0648\u0632\u0626\u06cc \u0645\u0627\u0644\u0648\u06a9\u0648"
@@ -114,6 +120,9 @@
     "name:fra_x_preferred":[
         "Moluques du Nord"
     ],
+    "name:gle_x_preferred":[
+        "Maluku Thuaidh"
+    ],
     "name:gor_x_preferred":[
         "Maluku Utara"
     ],
@@ -134,6 +143,9 @@
     ],
     "name:hun_x_preferred":[
         "Maluku Utara"
+    ],
+    "name:hyw_x_preferred":[
+        "\u0540\u056b\u0582\u057d\u056b\u057d\u0561\u0575\u056b\u0576 \u0544\u0561\u056c\u0578\u0582\u0584\u0578\u0582"
     ],
     "name:ilo_x_preferred":[
         "Amianan a Maluku"
@@ -158,6 +170,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10e9\u10e0\u10d3\u10d8\u10da\u10dd\u10d4\u10d7\u10d8 \u10db\u10d0\u10da\u10e3\u10d9\u10e3"
+    ],
+    "name:kcg_x_preferred":[
+        "Maluku A\u0331za"
     ],
     "name:kor_x_preferred":[
         "\ub9d0\ub8e8\ucfe0\uc6b0\ud0c0\ub77c \uc8fc"
@@ -189,6 +204,9 @@
     "name:nan_x_preferred":[
         "Pak Maluku"
     ],
+    "name:nan_x_variant":[
+        "Pak Maluku S\u00e9ng"
+    ],
     "name:nld_x_preferred":[
         "Noord-Molukken"
     ],
@@ -206,6 +224,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0421\u0435\u0432\u0435\u0440\u043d\u043e\u0435 \u041c\u0430\u043b\u0443\u043a\u0443"
+    ],
+    "name:sat_x_preferred":[
+        "\u1c6e\u1c5b\u1c5a\u1c62 \u1c62\u1c5f\u1c5e\u1c69\u1c60\u1c69"
     ],
     "name:sin_x_preferred":[
         "\u0d8b\u0dad\u0dd4\u0dbb\u0dd4 \u0db8\u0dbd\u0dd4\u0d9a\u0dd4 \u0db4\u0dc5\u0dcf\u0dad"
@@ -257,6 +278,9 @@
     ],
     "name:yue_x_preferred":[
         "\u5317\u99ac\u9b6f\u53e4\u7701"
+    ],
+    "name:yue_x_variant":[
+        "\u5317\u6469\u9e7f\u52a0"
     ],
     "name:zho_x_preferred":[
         "\u5317\u9a6c\u9c81\u53e4\u7701"
@@ -361,17 +385,19 @@
         "gn:id":1958070,
         "gp:id":20069998,
         "hasc:id":"ID.MU",
+        "iso:code":"ID-MU",
         "iso:id":"ID-MU",
         "qs:id":902982,
         "unlc:id":"ID-MU",
         "wd:id":"Q5094",
         "wk:page":"North Maluku"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"48fced7da299a62924fff25a9042c14a",
+    "wof:geomhash":"ab356991b85de94688f0afa11361e6b9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -387,7 +413,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1636502345,
+    "wof:lastmodified":1695884933,
     "wof:name":"Maluku Utara",
     "wof:parent_id":85632203,
     "wof:placetype":"region",

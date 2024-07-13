@@ -11,6 +11,7 @@
     "geom:longitude":108.3816,
     "gn:admin1_code":"30.0",
     "gn:asciiname":"Langkaplancar",
+    "gn:cc2":"ID",
     "gn:country_code":"ID",
     "gn:dem":457,
     "gn:feature_class":"P",
@@ -39,12 +40,17 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        102073245,
-        85671983
+        85671983,
+        102073245
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1638468
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1638467
+        ]
     },
     "wof:country":"ID",
     "wof:geomhash":"253886ff022ea2c8e3d2938a25afb47a",
@@ -65,13 +71,15 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614643884,
+    "wof:lastmodified":1706239778,
     "wof:name":"Langkaplancar",
     "wof:parent_id":102073245,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310511217
+    ],
     "wof:tags":[]
 },
   "bbox": [

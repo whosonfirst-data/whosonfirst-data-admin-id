@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.091837,
-    "geom:area_square_m":1125743647.366124,
+    "geom:area_square_m":1125743647.365842,
     "geom:bbox":"112.062637,-7.779221,112.455833,-7.343737",
     "geom:latitude":-7.545218,
     "geom:longitude":112.265101,
@@ -31,6 +31,9 @@
     "mps:longitude":112.26202,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Jombang"
+    ],
     "name:bel_x_preferred":[
         "\u0414\u0436\u0430\u043c\u0431\u0430\u043d\u0433"
     ],
@@ -58,6 +61,12 @@
     "name:fra_x_preferred":[
         "kabupaten de Jombang"
     ],
+    "name:gle_x_preferred":[
+        "Jombang"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d2'\u05d5\u05de\u05d1\u05e0\u05d2"
+    ],
     "name:ind_x_preferred":[
         "Jombang"
     ],
@@ -70,11 +79,17 @@
     "name:jav_x_variant":[
         "Kabupat\u00e8n Jombang"
     ],
+    "name:mad_x_preferred":[
+        "Kabhupat\u00e8n Jombang"
+    ],
     "name:msa_x_preferred":[
         "Jombang"
     ],
     "name:msa_x_variant":[
         "Kabupaten Jombang"
+    ],
+    "name:nan_x_preferred":[
+        "Jombang Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Jombang"
@@ -100,11 +115,17 @@
     "name:sun_x_preferred":[
         "Kabupat\u00e9n Jombang"
     ],
+    "name:sun_x_variant":[
+        "Jombang"
+    ],
     "name:swe_x_preferred":[
         "Kabupaten Jombang"
     ],
     "name:ukr_x_preferred":[
         "\u0414\u0436\u043e\u043c\u0431\u0430\u043d\u0433"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u0648\u0645\u0628\u0627\u0646\u06af \u0631\u06cc\u062c\u0646\u0633\u06cc"
     ],
     "name:vie_x_preferred":[
         "Jombang"
@@ -148,11 +169,12 @@
         "hasc:id":"ID.JI.JO",
         "wd:id":"Q11082"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"47949e723dfcfddeb796e0b7b5c46502",
+    "wof:geomhash":"5f83c3468a670437f3541cb2c5dd5ae0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -169,7 +191,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614720103,
+    "wof:lastmodified":1695886526,
     "wof:name":"Jombang",
     "wof:parent_id":85672027,
     "wof:placetype":"county",

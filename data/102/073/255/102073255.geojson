@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.127161,
-    "geom:area_square_m":1570801933.108229,
+    "geom:area_square_m":1570801933.108381,
     "geom:bbox":"98.076813,2.270376,98.562523,2.758754",
     "geom:latitude":2.560481,
     "geom:longitude":98.282377,
@@ -34,6 +34,9 @@
     "name:ace_x_preferred":[
         "Kabupaten Pakpak Bharat"
     ],
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Pakpak Bharat"
+    ],
     "name:ceb_x_preferred":[
         "Kabupaten Pakpak Bharat"
     ],
@@ -44,13 +47,20 @@
         "Pakpak Bharat"
     ],
     "name:eng_x_variant":[
-        "PAKPAKBHARAT"
+        "PAKPAKBHARAT",
+        "Pakpak Bharat Regency"
     ],
     "name:fra_x_preferred":[
         "Pakpak Bharat"
     ],
+    "name:gle_x_preferred":[
+        "Pakpak Bharat"
+    ],
     "name:ind_x_preferred":[
         "Pakpak Bharat"
+    ],
+    "name:ind_x_variant":[
+        "Kabupaten Pakpak Bharat"
     ],
     "name:ita_x_preferred":[
         "Pakpak Bharat"
@@ -58,13 +68,22 @@
     "name:jav_x_preferred":[
         "Pakpak Bharat"
     ],
+    "name:min_x_preferred":[
+        "Kabupaten Pakpak Bharat"
+    ],
     "name:msa_x_preferred":[
         "Pakpak Bharat"
+    ],
+    "name:nan_x_preferred":[
+        "Pakpak Bharat Ko\u0101n"
     ],
     "name:rus_x_preferred":[
         "\u041f\u0430\u043a\u043f\u0430\u043a\u0431\u0445\u0430\u0440\u0430\u0442"
     ],
     "name:spa_x_preferred":[
+        "Pakpak Bharat"
+    ],
+    "name:sun_x_preferred":[
         "Pakpak Bharat"
     ],
     "name:swe_x_preferred":[
@@ -111,11 +130,12 @@
         "hasc:id":"ID.SU.PB",
         "wd:id":"Q5872"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ecef202670fd33c052fdb79ca587a111",
+    "wof:geomhash":"60e08c30fcf610c4bec7e948cfad4900",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -132,7 +152,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614719853,
+    "wof:lastmodified":1695886524,
     "wof:name":"Pakpak Bharat",
     "wof:parent_id":85672073,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.108997,
-    "geom:area_square_m":1338043603.137381,
+    "geom:area_square_m":1338043603.136671,
     "geom:bbox":"107.182785,-7.113822,107.75,-6.687386",
     "geom:latitude":-6.885732,
     "geom:longitude":107.41418,
@@ -26,8 +26,14 @@
     "meso:name_local":"BANDUNG BARAT",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0628\u0627\u0646\u062f\u0648\u0646\u062c \u0627\u0644\u063a\u0631\u0628\u064a\u0629"
+    ],
     "name:aze_x_preferred":[
         "Q\u0259rbi Bandunq inzibati \u0259razisi"
+    ],
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Bandung Barat"
     ],
     "name:ceb_x_preferred":[
         "Kabupaten Bandung Barat"
@@ -40,13 +46,20 @@
     ],
     "name:eng_x_variant":[
         "BANDUNG BARAT",
-        "West Bandung"
+        "West Bandung",
+        "West Bandung Regency"
     ],
     "name:fra_x_preferred":[
         "kabupaten de Bandung occidental"
     ],
+    "name:gle_x_preferred":[
+        "Bandung Thiar"
+    ],
     "name:ind_x_preferred":[
         "Bandung Barat"
+    ],
+    "name:ind_x_variant":[
+        "Kabupaten Bandung Barat"
     ],
     "name:ita_x_preferred":[
         "Reggenza di Bandung Occidentale"
@@ -54,8 +67,20 @@
     "name:jav_x_preferred":[
         "Kabupat\u00e8n Bandhung Kulon"
     ],
+    "name:jav_x_variant":[
+        "Bandhung Kulon"
+    ],
     "name:jpn_x_preferred":[
         "\u897f\u30d0\u30f3\u30c9\u30f3\u770c"
+    ],
+    "name:min_x_preferred":[
+        "Kabupaten Bandung Barat"
+    ],
+    "name:msa_x_preferred":[
+        "Bandung Barat"
+    ],
+    "name:nan_x_preferred":[
+        "Sai Bandung Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "West-Bandung"
@@ -69,8 +94,17 @@
     "name:sun_x_preferred":[
         "Kabupat\u00e9n Bandung Kulon"
     ],
+    "name:sun_x_variant":[
+        "Bandung Kulon"
+    ],
     "name:swe_x_preferred":[
         "Kabupaten Bandung Barat"
+    ],
+    "name:tet_x_preferred":[
+        "Bandung Oksidental"
+    ],
+    "name:zho_x_preferred":[
+        "\u897f\u842c\u9686\u7e23"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -96,9 +130,10 @@
         "hasc:id":"ID.JR.BB",
         "wd:id":"Q10388"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:created":1482878490,
-    "wof:geomhash":"3e75b3901b6463d1d13c4e48fae9fd13",
+    "wof:geomhash":"cd494736a09b59ff26815774ba594bb8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -115,7 +150,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614722452,
+    "wof:lastmodified":1695886543,
     "wof:name":"Bandung Barat",
     "wof:parent_id":85671983,
     "wof:placetype":"county",

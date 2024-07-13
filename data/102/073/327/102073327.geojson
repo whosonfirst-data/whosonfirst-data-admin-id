@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.064943,
-    "geom:area_square_m":13167798437.183424,
+    "geom:area_square_m":13167798437.184679,
     "geom:bbox":"109.852661,-0.500637,111.066719,1.20011",
     "geom:latitude":0.254445,
     "geom:longitude":110.443891,
@@ -34,6 +34,9 @@
     "name:ara_x_preferred":[
         "\u0633\u0627\u0646\u063a\u0627\u0648"
     ],
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Sanggau"
+    ],
     "name:ceb_x_preferred":[
         "Kabupaten Sanggau"
     ],
@@ -44,13 +47,20 @@
         "Sanggau"
     ],
     "name:eng_x_variant":[
-        "SANGGAU"
+        "SANGGAU",
+        "Sanggau Regency"
     ],
     "name:fra_x_preferred":[
         "kabupaten de Sanggau"
     ],
+    "name:gle_x_preferred":[
+        "Sanggau"
+    ],
     "name:ind_x_preferred":[
         "Sanggau"
+    ],
+    "name:ind_x_variant":[
+        "Kabupaten Sanggau"
     ],
     "name:ita_x_preferred":[
         "Reggenza di Sanggau"
@@ -67,14 +77,23 @@
     "name:mar_x_preferred":[
         "Muara Enim"
     ],
+    "name:min_x_preferred":[
+        "Kabupaten Sanggau"
+    ],
     "name:msa_x_preferred":[
         "Kabupaten Sanggau"
+    ],
+    "name:nan_x_preferred":[
+        "Sanggau Ko\u0101n"
     ],
     "name:spa_x_preferred":[
         "Sanggau"
     ],
     "name:swe_x_preferred":[
         "Kabupaten Sanggau"
+    ],
+    "name:zho_x_preferred":[
+        "\u6851\u9ad8\u53bf"
     ],
     "qs:a0":"Indonesia",
     "qs:a0_lc":"IDN",
@@ -111,11 +130,12 @@
         "hasc:id":"ID.KB.SN",
         "wd:id":"Q14165"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a7d7e44d2bd695108dc82aeba94acea3",
+    "wof:geomhash":"cd040684321a976055e8fca238943596",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -132,7 +152,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614720324,
+    "wof:lastmodified":1695886527,
     "wof:name":"Sanggau",
     "wof:parent_id":85672005,
     "wof:placetype":"county",

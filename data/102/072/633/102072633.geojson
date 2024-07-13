@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.155192,
-    "geom:area_square_m":1915127415.599061,
+    "geom:area_square_m":1915127415.598471,
     "geom:bbox":"119.429688,-4.05132,119.78566,-3.270008",
     "geom:latitude":-3.628515,
     "geom:longitude":119.600163,
@@ -34,6 +34,9 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u0646\u0631\u0627\u0646\u063a"
     ],
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Pinrang"
+    ],
     "name:ben_x_preferred":[
         "\u09aa\u09bf\u09a8\u09b0\u09c7\u0982"
     ],
@@ -53,12 +56,16 @@
         "Pinrang"
     ],
     "name:eng_x_variant":[
-        "PINRANG"
+        "PINRANG",
+        "Pinrang Regency"
     ],
     "name:fin_x_preferred":[
         "Pinrang"
     ],
     "name:fra_x_preferred":[
+        "Pinrang"
+    ],
+    "name:gle_x_preferred":[
         "Pinrang"
     ],
     "name:guj_x_preferred":[
@@ -69,6 +76,9 @@
     ],
     "name:ind_x_preferred":[
         "Pinrang"
+    ],
+    "name:ind_x_variant":[
+        "Kabupaten Pinrang"
     ],
     "name:ita_x_preferred":[
         "Reggenza di Pinrang"
@@ -97,6 +107,9 @@
     "name:msa_x_preferred":[
         "Pinrang"
     ],
+    "name:nan_x_preferred":[
+        "Pinrang Ko\u0101n"
+    ],
     "name:nld_x_preferred":[
         "Pinrang"
     ],
@@ -117,6 +130,9 @@
     ],
     "name:spa_x_preferred":[
         "Pinrang"
+    ],
+    "name:sun_x_preferred":[
+        "Kabupat\u00e9n Pinrang"
     ],
     "name:swe_x_preferred":[
         "Pinrang"
@@ -189,11 +205,12 @@
         "hasc:id":"ID.SE.PI",
         "wd:id":"Q14615"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f3fd2a0a7043677c375bda5f6132e725",
+    "wof:geomhash":"83a0b235a05bbdf59273c29100fdb1e9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -210,7 +227,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1636502308,
+    "wof:lastmodified":1695886061,
     "wof:name":"Pinrang",
     "wof:parent_id":85672041,
     "wof:placetype":"county",

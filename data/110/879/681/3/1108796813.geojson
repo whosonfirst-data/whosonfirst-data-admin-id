@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.10656,
-    "geom:area_square_m":1313681313.738692,
+    "geom:area_square_m":1313681313.739009,
     "geom:bbox":"104.926331,-4.677853,105.300579,-4.169234",
     "geom:latitude":-4.436874,
     "geom:longitude":105.11261,
@@ -38,6 +38,9 @@
     "name:ast_x_preferred":[
         "Tulang Bawang Barat"
     ],
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Tulang Bawang Barat"
+    ],
     "name:bar_x_preferred":[
         "Tulang Bawang Barat"
     ],
@@ -69,7 +72,8 @@
         "Tulang Bawang Barat"
     ],
     "name:eng_x_variant":[
-        "TULANG BAWANG BARAT"
+        "TULANG BAWANG BARAT",
+        "West Tulang Bawang Regency"
     ],
     "name:epo_x_preferred":[
         "Tulang Bawang Barat"
@@ -122,6 +126,9 @@
     "name:ind_x_preferred":[
         "Tulang Bawang Barat"
     ],
+    "name:ind_x_variant":[
+        "Kabupaten Tulang Bawang Barat"
+    ],
     "name:isl_x_preferred":[
         "Tulang Bawang Barat"
     ],
@@ -155,6 +162,9 @@
     "name:msa_x_preferred":[
         "Kabupaten Tulang Bawang Barat"
     ],
+    "name:nan_x_preferred":[
+        "Sai Tulang Bawang Ko\u0101n"
+    ],
     "name:nap_x_preferred":[
         "Tulang Bawang Barat"
     ],
@@ -163,6 +173,9 @@
     ],
     "name:nld_x_preferred":[
         "Tulang Bawang Barat"
+    ],
+    "name:nld_x_variant":[
+        "West-Tulang Bawang"
     ],
     "name:nno_x_preferred":[
         "Tulang Bawang Barat"
@@ -266,9 +279,10 @@
         "hasc:id":"ID.LA.TR",
         "wd:id":"Q8154"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:created":1482878509,
-    "wof:geomhash":"f235679a377a45d300ae6d6d5aebc008",
+    "wof:geomhash":"0abc5577178d56f7d45bb21f0191e7ff",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -285,7 +299,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614722508,
+    "wof:lastmodified":1695886544,
     "wof:name":"Tulang Bawang Barat",
     "wof:parent_id":85672009,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.533778,
-    "geom:area_square_m":6599613095.096886,
+    "geom:area_square_m":6599613095.09587,
     "geom:bbox":"98.842697,0.226856,99.964928,1.34635",
     "geom:latitude":0.776034,
     "geom:longitude":99.367613,
@@ -34,6 +34,9 @@
     "name:ace_x_preferred":[
         "Kabupaten Mandailing Natal"
     ],
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Mandailing Natal"
+    ],
     "name:ceb_x_preferred":[
         "Kabupaten Mandailing Natal"
     ],
@@ -44,13 +47,20 @@
         "Mandailing Natal"
     ],
     "name:eng_x_variant":[
-        "MANDAILINGNATAL"
+        "MANDAILINGNATAL",
+        "Mandailing Natal Regency"
     ],
     "name:fra_x_preferred":[
         "kabupaten de Mandailing Natal"
     ],
+    "name:gle_x_preferred":[
+        "Mandailing Natal"
+    ],
     "name:ind_x_preferred":[
         "Mandailing Natal"
+    ],
+    "name:ind_x_variant":[
+        "Kabupaten Mandailing Natal"
     ],
     "name:ita_x_preferred":[
         "Mandailing Natal"
@@ -63,6 +73,9 @@
     ],
     "name:msa_x_preferred":[
         "Mandailing Natal"
+    ],
+    "name:nan_x_preferred":[
+        "Mandailing Natal Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Mandailing Natal"
@@ -117,11 +130,12 @@
         "hasc:id":"ID.SU.MN",
         "wd:id":"Q5837"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"86cfec9626be6b8e98555ec3eaefe724",
+    "wof:geomhash":"fe2df78ebf5d8aecf137d522140d22aa",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -138,7 +152,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614718532,
+    "wof:lastmodified":1695886518,
     "wof:name":"Mandailing Natal",
     "wof:parent_id":85672073,
     "wof:placetype":"county",

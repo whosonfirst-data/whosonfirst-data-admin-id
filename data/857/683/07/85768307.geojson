@@ -25,6 +25,12 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":4,
+    "name:ban_x_preferred":[
+        "Gondangdia"
+    ],
+    "name:ceb_x_preferred":[
+        "Kelurahan Gondangdia"
+    ],
     "name:deu_x_preferred":[
         "Gondangdia"
     ],
@@ -37,6 +43,9 @@
     "name:ind_x_preferred":[
         "Gondangdia"
     ],
+    "name:jpn_x_preferred":[
+        "\u30b4\u30f3\u30c0\u30f3\u30c7\u30a3\u30a2"
+    ],
     "name:msa_x_preferred":[
         "Gondangdia"
     ],
@@ -45,6 +54,9 @@
     ],
     "name:sun_x_preferred":[
         "Gondangdia"
+    ],
+    "name:swe_x_preferred":[
+        "Kelurahan Gondangdia"
     ],
     "name:unk_x_variant":[
         "Gondangdia"
@@ -81,11 +93,11 @@
     "src:lbl:centroid":"yerbashapes",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85672001,
         102191569,
         85632203,
         102021905,
-        102073177,
-        85672001
+        102073177
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -120,7 +132,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614744807,
+    "wof:lastmodified":1690931372,
     "wof:name":"Gondangdia",
     "wof:parent_id":102021905,
     "wof:placetype":"neighbourhood",

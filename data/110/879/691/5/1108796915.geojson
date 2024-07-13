@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010894,
-    "geom:area_square_m":134649221.367245,
+    "geom:area_square_m":134649221.367153,
     "geom:bbox":"101.335556,1.5908,101.487648,1.732629",
     "geom:latitude":1.653091,
     "geom:longitude":101.410062,
@@ -41,11 +41,17 @@
     "name:ast_x_preferred":[
         "Dumai"
     ],
+    "name:ban_x_preferred":[
+        "Kota Dumai"
+    ],
     "name:bar_x_preferred":[
         "Dumai"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0414\u0443\u043c\u0430\u0439"
+    ],
+    "name:bel_x_variant":[
+        "\u0414\u0443\u043c\u0430\u0439"
     ],
     "name:ben_x_preferred":[
         "\u09a6\u09c1\u09ae\u09be\u0987"
@@ -81,7 +87,8 @@
         "Dumai"
     ],
     "name:eng_x_variant":[
-        "KOTA DUMAI"
+        "KOTA DUMAI",
+        "Dumai City"
     ],
     "name:epo_x_preferred":[
         "Dumai"
@@ -125,6 +132,9 @@
     "name:guj_x_preferred":[
         "\u0aa6\u0ac1\u0aae\u0abe\u0a87"
     ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05d5\u05de\u05d0\u05d9"
+    ],
     "name:hin_x_preferred":[
         "\u0921\u0941\u092e\u093e\u0908"
     ],
@@ -133,6 +143,9 @@
     ],
     "name:hun_x_preferred":[
         "Dumai"
+    ],
+    "name:hye_x_preferred":[
+        "\u0534\u0578\u0582\u0574\u0561\u0575"
     ],
     "name:ido_x_preferred":[
         "Dumai"
@@ -145,6 +158,9 @@
     ],
     "name:ind_x_preferred":[
         "Dumai"
+    ],
+    "name:ind_x_variant":[
+        "Kota Dumai"
     ],
     "name:isl_x_preferred":[
         "Dumai"
@@ -193,6 +209,9 @@
     ],
     "name:msa_x_preferred":[
         "Kota Dumai"
+    ],
+    "name:nan_x_preferred":[
+        "Dumai Chh\u012b"
     ],
     "name:nap_x_preferred":[
         "Dumai"
@@ -269,6 +288,9 @@
     "name:tam_x_preferred":[
         "\u0b9f\u0bc2\u0bae\u0bc8"
     ],
+    "name:tat_x_preferred":[
+        "\u0414\u0443\u043c\u0430\u0439"
+    ],
     "name:tel_x_preferred":[
         "\u0c26\u0c41\u0c2e\u0c48"
     ],
@@ -332,9 +354,10 @@
         "hasc:id":"ID.RI.DU",
         "wd:id":"Q7782"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:created":1482878595,
-    "wof:geomhash":"cd565f608fc9a4ee205c2f17a9f7e534",
+    "wof:geomhash":"43095645a3d6ca353266e36d11e31abb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -351,7 +374,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614722862,
+    "wof:lastmodified":1695886551,
     "wof:name":"Dumai",
     "wof:parent_id":85672077,
     "wof:placetype":"county",

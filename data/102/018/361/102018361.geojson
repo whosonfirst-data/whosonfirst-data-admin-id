@@ -19,10 +19,22 @@
     "name:ara_x_preferred":[
         "\u0633\u0627\u0644\u0627\u0643\u0629 \u0645\u0623\u0644\u0648\u0641\u0629"
     ],
+    "name:arg_x_preferred":[
+        "Salacca zalacca"
+    ],
+    "name:arz_x_preferred":[
+        "\u0633\u0627\u0644\u0627\u0643\u0647 \u0645\u0627\u0644\u0648\u0641\u0647"
+    ],
     "name:ast_x_preferred":[
         "Salacca zalacca"
     ],
+    "name:ban_x_preferred":[
+        "Salak"
+    ],
     "name:bul_x_preferred":[
+        "Salacca zalacca"
+    ],
+    "name:cat_x_preferred":[
         "Salacca zalacca"
     ],
     "name:ceb_x_preferred":[
@@ -32,7 +44,8 @@
         "Salak"
     ],
     "name:ces_x_variant":[
-        "salak"
+        "salak",
+        "salaka jedl\u00e1"
     ],
     "name:deu_x_preferred":[
         "Salakpalme"
@@ -41,6 +54,12 @@
         "Salacca zalacca"
     ],
     "name:epo_x_preferred":[
+        "Salacca zalacca"
+    ],
+    "name:eus_x_preferred":[
+        "Salacca zalacca"
+    ],
+    "name:ext_x_preferred":[
         "Salacca zalacca"
     ],
     "name:fas_x_preferred":[
@@ -55,14 +74,35 @@
     "name:fra_x_variant":[
         "Salacca zalacca"
     ],
+    "name:gle_x_preferred":[
+        "Salacca zalacca"
+    ],
+    "name:glg_x_preferred":[
+        "Salacca zalacca"
+    ],
+    "name:ido_x_preferred":[
+        "Salacca zalacca"
+    ],
+    "name:ile_x_preferred":[
+        "Salacca zalacca"
+    ],
+    "name:ina_x_preferred":[
+        "Salacca zalacca"
+    ],
     "name:ind_x_preferred":[
         "Salak"
+    ],
+    "name:ind_x_variant":[
+        "salak"
     ],
     "name:ita_x_preferred":[
         "Salacca zalacca"
     ],
     "name:jav_x_preferred":[
         "Salak"
+    ],
+    "name:jav_x_variant":[
+        "salak"
     ],
     "name:jpn_x_preferred":[
         "\u30b5\u30e9\u30af"
@@ -73,6 +113,9 @@
     "name:kom_x_preferred":[
         "\u0421\u0430\u043b\u0430\u043a"
     ],
+    "name:kor_x_preferred":[
+        "\uc0b4\ub77c\ud06c"
+    ],
     "name:lat_x_preferred":[
         "Salacca zalacca"
     ],
@@ -81,6 +124,9 @@
     ],
     "name:lit_x_preferred":[
         "Valgomoji salakpalm\u0117"
+    ],
+    "name:mad_x_preferred":[
+        "Salak"
     ],
     "name:mal_x_preferred":[
         "\u0d38\u0d32\u0d3e\u0d15\u0d4d\u0d15\u0d3e \u0d38\u0d32\u0d3e\u0d15\u0d4d\u0d15\u0d3e"
@@ -93,6 +139,9 @@
     ],
     "name:nld_x_preferred":[
         "Salak"
+    ],
+    "name:oci_x_preferred":[
+        "Salacca zalacca"
     ],
     "name:pol_x_preferred":[
         "Oszpilna jadalna"
@@ -112,14 +161,23 @@
     "name:spa_x_preferred":[
         "Salacca zalacca"
     ],
+    "name:sqi_x_preferred":[
+        "Salacca zalacca"
+    ],
     "name:sun_x_preferred":[
         "Salak"
+    ],
+    "name:sun_x_variant":[
+        "salak"
     ],
     "name:swe_x_preferred":[
         "Salak"
     ],
     "name:tha_x_preferred":[
         "\u0e2a\u0e25\u0e30"
+    ],
+    "name:tur_x_preferred":[
+        "Salak"
     ],
     "name:udm_x_preferred":[
         "\u0421\u0430\u043b\u0430\u043a"
@@ -132,6 +190,9 @@
     ],
     "name:vie_x_preferred":[
         "Salak"
+    ],
+    "name:vol_x_preferred":[
+        "Salacca zalacca"
     ],
     "name:war_x_preferred":[
         "Salacca zalacca"
@@ -197,7 +258,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614712523,
+    "wof:lastmodified":1690931232,
     "wof:name":"Salak",
     "wof:parent_id":102073255,
     "wof:placetype":"locality",

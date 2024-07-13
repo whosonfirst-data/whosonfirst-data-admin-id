@@ -29,16 +29,24 @@
     "name:ind_x_preferred":[
         "Cirukap"
     ],
+    "name:und_x_variant":[
+        "Klapahandap"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632203,
-        102073053,
-        85671995
+        85671995,
+        102073053
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7766435
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1639915
+        ]
     },
     "wof:country":"ID",
     "wof:geomhash":"0d90780ba996b0c7e658f95a92fc4b1e",
@@ -59,13 +67,15 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614637386,
+    "wof:lastmodified":1706239779,
     "wof:name":"Cirukap",
     "wof:parent_id":102073053,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360026669
+    ],
     "wof:tags":[]
 },
   "bbox": [

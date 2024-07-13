@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.719404,
-    "geom:area_square_m":21248417217.723766,
+    "geom:area_square_m":21248417217.722385,
     "geom:bbox":"116.175667,1.014064,118.995796,2.602087",
     "geom:latitude":1.921146,
     "geom:longitude":117.316279,
@@ -31,6 +31,9 @@
     "mps:longitude":117.215154,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Berau"
+    ],
     "name:ceb_x_preferred":[
         "Kabupaten Berau"
     ],
@@ -44,13 +47,20 @@
         "Berau"
     ],
     "name:eng_x_variant":[
-        "BERAU"
+        "BERAU",
+        "Berau Regency"
     ],
     "name:fra_x_preferred":[
         "kabupaten de Berau"
     ],
+    "name:gle_x_preferred":[
+        "Berau"
+    ],
     "name:ind_x_preferred":[
         "Berau"
+    ],
+    "name:ind_x_variant":[
+        "Kabupaten Berau"
     ],
     "name:ita_x_preferred":[
         "Reggenza di Berau"
@@ -61,8 +71,14 @@
     "name:jpn_x_preferred":[
         "\u30d6\u30e9\u30a6\u770c"
     ],
+    "name:min_x_preferred":[
+        "Kabupaten Berau"
+    ],
     "name:msa_x_preferred":[
         "Kabupaten Berau"
+    ],
+    "name:nan_x_preferred":[
+        "Berau Ko\u0101n"
     ],
     "name:pol_x_preferred":[
         "Berau"
@@ -115,11 +131,12 @@
         "hasc:id":"ID.KM.BE",
         "wd:id":"Q14395"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9ae0ccf14a1d9f27f6764b8cc406c7fa",
+    "wof:geomhash":"d80129de650b7f064109f1bd94ca43bb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -136,7 +153,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614716277,
+    "wof:lastmodified":1695886503,
     "wof:name":"Berau",
     "wof:parent_id":85671977,
     "wof:placetype":"county",

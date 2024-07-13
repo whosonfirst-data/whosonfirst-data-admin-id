@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.341808,
-    "geom:area_square_m":4219170032.945477,
+    "geom:area_square_m":4219170032.946674,
     "geom:bbox":"97.219673,2.926617,98.029007,3.765512",
     "geom:latitude":3.373681,
     "geom:longitude":97.698843,
@@ -34,6 +34,9 @@
     "name:ace_x_preferred":[
         "Kabupaten Ac\u00e8h Teunggara"
     ],
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Ac\u00e9h Tenggara"
+    ],
     "name:bel_x_preferred":[
         "\u0410\u043a\u0440\u0443\u0433\u0430 \u041f\u0430\u045e\u0434\u043d\u0451\u0432\u0430-\u0423\u0441\u0445\u043e\u0434\u043d\u0456 \u0410\u0447\u044d\u0445"
     ],
@@ -47,16 +50,23 @@
         "Aceh Tenggara"
     ],
     "name:eng_x_variant":[
-        "ACEH TENGGARA"
+        "ACEH TENGGARA",
+        "Southeast Aceh Regency"
     ],
     "name:fra_x_preferred":[
         "Aceh Tenggara"
+    ],
+    "name:gle_x_preferred":[
+        "Aceh Thoir Theas"
     ],
     "name:gor_x_preferred":[
         "Kabupaten Aceh Tenggara"
     ],
     "name:ind_x_preferred":[
         "Aceh Tenggara"
+    ],
+    "name:ind_x_variant":[
+        "Kabupaten Aceh Tenggara"
     ],
     "name:ita_x_preferred":[
         "Aceh Tenggara"
@@ -73,8 +83,14 @@
     "name:msa_x_preferred":[
         "Aceh Tenggara"
     ],
+    "name:nan_x_preferred":[
+        "Tang-l\u00e2m Aceh Ko\u0101n"
+    ],
     "name:nld_x_preferred":[
         "Aceh Tenggara"
+    ],
+    "name:nld_x_variant":[
+        "Zuidoost-Atjeh"
     ],
     "name:por_x_preferred":[
         "Aceh do Sudeste"
@@ -87,6 +103,12 @@
     ],
     "name:swe_x_preferred":[
         "Kabupaten Aceh Tenggara"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0456\u0432\u0434\u0435\u043d\u043d\u043e-\u0421\u0445\u0456\u0434\u043d\u0438\u0439 \u0410\u0447\u0435\u0445"
+    ],
+    "name:zho_x_preferred":[
+        "\u6771\u5357\u4e9e\u9f4a\u7e23"
     ],
     "qs:a0":"Indonesia",
     "qs:a0_lc":"IDN",
@@ -123,11 +145,12 @@
         "hasc:id":"ID.AC.AG",
         "wd:id":"Q5763"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"211225dd7607d89efac15dfaff7b3e22",
+    "wof:geomhash":"d9a216913ae83bc71792f4232ad88477",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -144,7 +167,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614717613,
+    "wof:lastmodified":1695886511,
     "wof:name":"Aceh Tenggara",
     "wof:parent_id":85671973,
     "wof:placetype":"county",

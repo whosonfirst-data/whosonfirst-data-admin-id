@@ -9,6 +9,19 @@
     "geom:bbox":"107.567139,-6.762569,107.867309,-6.355399",
     "geom:latitude":-6.547264,
     "geom:longitude":107.723679,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Subang",
+    "gn:country_code":"ID",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1626444,
+    "gn:latitude":-6.57,
+    "gn:longitude":107.75667,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Subang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jakarta",
     "iso:country":"ID",
     "lbl:latitude":-6.551916,
     "lbl:longitude":107.76187,
@@ -16,6 +29,7 @@
     "mps:longitude":107.76187,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:ceb_x_preferred":[
         "Subang"
     ],
@@ -33,6 +47,9 @@
     ],
     "name:swe_x_preferred":[
         "Subang"
+    ],
+    "name:und_x_variant":[
+        "Soebang"
     ],
     "name:unk_x_variant":[
         "Soebang"
@@ -70,6 +87,11 @@
         "qs:id":344317,
         "qs_pg:id":356029
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1626444
+        ]
+    },
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes_pg",
@@ -93,13 +115,15 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614712819,
+    "wof:lastmodified":1706239765,
     "wof:name":"Subang",
     "wof:parent_id":102073295,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1242623361
+    ],
     "wof:tags":[]
 },
   "bbox": [

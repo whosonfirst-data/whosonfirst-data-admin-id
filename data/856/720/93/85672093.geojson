@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.259008,
-    "geom:area_square_m":3172316328.981235,
+    "geom:area_square_m":3172316328.982711,
     "geom:bbox":"110.003609,-8.205346,110.834633,-7.541897",
     "geom:latitude":-7.894684,
     "geom:longitude":110.447399,
@@ -168,6 +168,9 @@
     "name:hun_x_preferred":[
         "Yogyakarta"
     ],
+    "name:hyw_x_preferred":[
+        "\u0535\u0578\u0573\u056b\u0561\u0584\u0561\u0580\u0569\u0561"
+    ],
     "name:ido_x_preferred":[
         "Yogyakarta"
     ],
@@ -228,6 +231,9 @@
     "name:min_x_preferred":[
         "Daerah Istimewa Yogyakarta"
     ],
+    "name:mkd_x_preferred":[
+        "\u0408\u043e\u0433\u0458\u0430\u043a\u0430\u0440\u0442\u0430"
+    ],
     "name:mlg_x_preferred":[
         "Yogyakarta"
     ],
@@ -245,6 +251,9 @@
     ],
     "name:nld_x_preferred":[
         "Jogjakarta"
+    ],
+    "name:nld_x_variant":[
+        "Yogyakarta"
     ],
     "name:nno_x_preferred":[
         "Yogyakarta"
@@ -483,17 +492,19 @@
         "gn:id":1621176,
         "gp:id":2345719,
         "hasc:id":"ID.YO",
+        "iso:code":"ID-YO",
         "iso:id":"ID-YO",
         "qs:id":1151833,
         "unlc:id":"ID-YO",
         "wd:id":"Q3741",
         "wk:page":"Special Region of Yogyakarta"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"69f28e85942ea149cc65f9575ff3f476",
+    "wof:geomhash":"b012851b1a82a71ddef0fbb54e5dee05",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -509,7 +520,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1636502341,
+    "wof:lastmodified":1695884930,
     "wof:name":"Yogyakarta",
     "wof:parent_id":85632203,
     "wof:placetype":"region",

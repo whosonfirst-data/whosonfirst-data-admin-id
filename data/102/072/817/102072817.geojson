@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.145283,
-    "geom:area_square_m":1777332802.473284,
+    "geom:area_square_m":1777332802.473185,
     "geom:bbox":"122.64843,-8.64379,123.327553,-8.06819",
     "geom:latitude":-8.367072,
     "geom:longitude":122.9396,
@@ -31,6 +31,9 @@
     "mps:longitude":122.819484,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Flores Timur"
+    ],
     "name:ceb_x_preferred":[
         "Kabupaten Flores Timur"
     ],
@@ -41,13 +44,20 @@
         "Flores Timur"
     ],
     "name:eng_x_variant":[
-        "FLORES TIMUR"
+        "FLORES TIMUR",
+        "East Flores Regency"
     ],
     "name:fra_x_preferred":[
         "kabupaten de Flor\u00e8s oriental"
     ],
+    "name:gle_x_preferred":[
+        "Flores Thoir"
+    ],
     "name:ind_x_preferred":[
         "Flores Timur"
+    ],
+    "name:ind_x_variant":[
+        "Kabupaten Flores Timur"
     ],
     "name:ita_x_preferred":[
         "Reggenza di Flores Orientale"
@@ -61,8 +71,14 @@
     "name:msa_x_preferred":[
         "Kabupaten Flores Timur"
     ],
+    "name:nan_x_preferred":[
+        "Tang Flores Ko\u0101n"
+    ],
     "name:nld_x_preferred":[
         "Flores Timur"
+    ],
+    "name:nld_x_variant":[
+        "Oost-Flores"
     ],
     "name:pol_x_preferred":[
         "Wakatobi"
@@ -73,8 +89,17 @@
     "name:spa_x_preferred":[
         "Flores Oriental"
     ],
+    "name:sun_x_preferred":[
+        "Kabupat\u00e9n Flor\u00e9s W\u00e9tan"
+    ],
     "name:swe_x_preferred":[
         "Kabupaten Flores Timur"
+    ],
+    "name:tam_x_preferred":[
+        "Distritu Flores Oriental"
+    ],
+    "name:tet_x_preferred":[
+        "Distritu Flores Oriental"
     ],
     "name:zho_x_preferred":[
         "\u4e1c\u5f17\u6d1b\u52d2\u65af\u53bf"
@@ -115,11 +140,12 @@
         "hasc:id":"ID.NT.FT",
         "wd:id":"Q14136"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d2c839a61174cca610a8a8610c1f1566",
+    "wof:geomhash":"bcbaea7674fdaef7782301bd84992c1f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -136,7 +162,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614716437,
+    "wof:lastmodified":1695886504,
     "wof:name":"Flores Timur",
     "wof:parent_id":85672037,
     "wof:placetype":"county",

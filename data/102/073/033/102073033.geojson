@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.182927,
-    "geom:area_square_m":2257889363.732122,
+    "geom:area_square_m":2257889363.731853,
     "geom:bbox":"104.321083,-3.833201,104.837746,-3.03348",
     "geom:latitude":-3.420105,
     "geom:longitude":104.605808,
@@ -31,6 +31,9 @@
     "mps:longitude":104.666415,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Ogan Ilir"
+    ],
     "name:ceb_x_preferred":[
         "Kabupaten Ogan Ilir"
     ],
@@ -41,13 +44,20 @@
         "Ogan Ilir"
     ],
     "name:eng_x_variant":[
-        "OGAN ILIR"
+        "OGAN ILIR",
+        "Ogan Ilir Regency"
     ],
     "name:fra_x_preferred":[
         "Ogan Ilir"
     ],
+    "name:gle_x_preferred":[
+        "Ogan Ilir"
+    ],
     "name:ind_x_preferred":[
         "Ogan Ilir"
+    ],
+    "name:ind_x_variant":[
+        "Kabupaten Ogan Ilir"
     ],
     "name:ita_x_preferred":[
         "Ogan Ilir"
@@ -55,11 +65,17 @@
     "name:jav_x_preferred":[
         "Kabupat\u00e8n Ogan Ilir"
     ],
+    "name:jav_x_variant":[
+        "Ogan Ilir"
+    ],
     "name:min_x_preferred":[
         "Kabupaten Ogan Ilir"
     ],
     "name:msa_x_preferred":[
         "Kabupaten Ogan Ilir"
+    ],
+    "name:nan_x_preferred":[
+        "Ogan Ilir Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Ogan Ilir"
@@ -115,11 +131,12 @@
         "hasc:id":"ID.SL.OI",
         "wd:id":"Q8122"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"eb4293f808e3145df5b2b1a3639aef09",
+    "wof:geomhash":"86717671725a54b68d6a56687ed67fc1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -136,7 +153,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614718067,
+    "wof:lastmodified":1695886514,
     "wof:name":"Ogan Ilir",
     "wof:parent_id":85672013,
     "wof:placetype":"county",

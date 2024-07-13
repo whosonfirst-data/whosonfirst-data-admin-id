@@ -9,8 +9,19 @@
     "geom:bbox":"106.756897,-6.616354,106.775108,-6.590945",
     "geom:latitude":-6.602801,
     "geom:longitude":106.767966,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Ciomas",
+    "gn:country_code":"ID",
+    "gn:dem":243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1646329,
     "gn:latitude":-6.62667,
     "gn:longitude":106.77556,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ciomas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jakarta",
     "iso:country":"ID",
     "lbl:latitude":-6.602918,
     "lbl:longitude":106.77038,
@@ -18,10 +29,17 @@
     "mps:longitude":106.770643,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
+    "name:arz_x_preferred":[
+        "\u0633\u064a\u0648\u0645\u0627 \u0634\u0648\u064a\u0646\u0647\u0627\u0648\u0633"
+    ],
     "name:ast_x_preferred":[
         "Cioma Sch\u00f6nhaus"
     ],
     "name:cat_x_preferred":[
+        "Cioma Sch\u00f6nhaus"
+    ],
+    "name:ces_x_preferred":[
         "Cioma Sch\u00f6nhaus"
     ],
     "name:cym_x_preferred":[
@@ -36,17 +54,29 @@
     "name:eng_x_preferred":[
         "Cioma Sch\u00f6nhaus"
     ],
+    "name:fin_x_preferred":[
+        "Cioma Sch\u00f6nhaus"
+    ],
     "name:fra_x_preferred":[
+        "Cioma Sch\u00f6nhaus"
+    ],
+    "name:gle_x_preferred":[
         "Cioma Sch\u00f6nhaus"
     ],
     "name:glg_x_preferred":[
         "Cioma Sch\u00f6nhaus"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d9\u05d5\u05de\u05d4 \u05e9\u05e0\u05d4\u05d0\u05d5\u05e1"
     ],
     "name:ind_x_preferred":[
         "Ciomas"
     ],
     "name:ita_x_preferred":[
         "Cioma Sch\u00f6nhaus"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c4\u30a3\u30aa\u30de\u30fb\u30b7\u30a7\u30fc\u30f3\u30cf\u30a6\u30b9"
     ],
     "name:nld_x_preferred":[
         "Cioma Sch\u00f6nhaus"
@@ -58,6 +88,9 @@
         "Cioma Sch\u00f6nhaus"
     ],
     "name:oci_x_preferred":[
+        "Cioma Sch\u00f6nhaus"
+    ],
+    "name:por_x_preferred":[
         "Cioma Sch\u00f6nhaus"
     ],
     "name:roh_x_preferred":[
@@ -74,6 +107,9 @@
     ],
     "name:swe_x_preferred":[
         "Cioma Sch\u00f6nhaus"
+    ],
+    "name:und_x_variant":[
+        "Tjiomas"
     ],
     "qs:a0":"Indonesia",
     "qs:a1":"*Jawa Barat",
@@ -110,6 +146,11 @@
         "qs_pg:id":1163739,
         "wd:id":"Q121942"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6597679
+        ]
+    },
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes_pg",
@@ -133,13 +174,16 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614714125,
+    "wof:lastmodified":1706239769,
     "wof:name":"Ciomas",
     "wof:parent_id":102073217,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1292961089,
+        1243014499
+    ],
     "wof:tags":[]
 },
   "bbox": [

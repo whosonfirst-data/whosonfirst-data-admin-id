@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.144528,
-    "geom:area_square_m":1786961548.695716,
+    "geom:area_square_m":1786961548.695596,
     "geom:bbox":"123.104439,0.567401,123.775565,0.96388",
     "geom:latitude":0.761533,
     "geom:longitude":123.494001,
@@ -38,6 +38,9 @@
     "name:ast_x_preferred":[
         "Bolaang Mongondow Utara"
     ],
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Bolaang Mongondow Utara"
+    ],
     "name:bar_x_preferred":[
         "Bolaang Mongondow Utara"
     ],
@@ -69,7 +72,8 @@
         "Bolaang Mongondow Utara"
     ],
     "name:eng_x_variant":[
-        "BOLAANG MONGONDOW UTARA"
+        "BOLAANG MONGONDOW UTARA",
+        "North Bolaang Mongondow Regency"
     ],
     "name:epo_x_preferred":[
         "Bolaang Mongondow Utara"
@@ -125,6 +129,9 @@
     "name:ind_x_preferred":[
         "Bolaang Mongondow Utara"
     ],
+    "name:ind_x_variant":[
+        "Kabupaten Bolaang Mongondow Utara"
+    ],
     "name:isl_x_preferred":[
         "Bolaang Mongondow Utara"
     ],
@@ -157,6 +164,9 @@
     ],
     "name:msa_x_preferred":[
         "Kabupaten Bolaang Mongondow Utara"
+    ],
+    "name:nan_x_preferred":[
+        "Pak Bolaang Mongondow Ko\u0101n"
     ],
     "name:nap_x_preferred":[
         "Bolaang Mongondow Utara"
@@ -272,9 +282,10 @@
         "hasc:id":"ID.SW.BU",
         "wd:id":"Q15837"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:created":1482878622,
-    "wof:geomhash":"e7be17fc93a1c38c4c254176d73322af",
+    "wof:geomhash":"55ca6fb31cc9fe7b563e8b13e325b1f3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -291,7 +302,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614722980,
+    "wof:lastmodified":1695886554,
     "wof:name":"Bolaang Mongondow Utara",
     "wof:parent_id":85672081,
     "wof:placetype":"county",

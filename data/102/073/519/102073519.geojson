@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.091663,
-    "geom:area_square_m":1123413305.066628,
+    "geom:area_square_m":1123413305.067409,
     "geom:bbox":"111.44986,-7.814095,111.847496,-7.409543",
     "geom:latitude":-7.624396,
     "geom:longitude":111.645573,
@@ -37,6 +37,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0627\u062f\u064a\u0648\u0646"
     ],
+    "name:ban_x_preferred":[
+        "Kota Madiun"
+    ],
     "name:ben_x_preferred":[
         "\u09ae\u09be\u09a6\u09bf\u09af\u09bc\u09c1\u09a8"
     ],
@@ -59,7 +62,11 @@
         "Madiun"
     ],
     "name:eng_x_variant":[
-        "MADIUN"
+        "MADIUN",
+        "Madiun City"
+    ],
+    "name:epo_x_preferred":[
+        "Madiun"
     ],
     "name:fas_x_preferred":[
         "\u0645\u0627\u062f\u06cc\u0648\u0646"
@@ -68,6 +75,9 @@
         "Madiun"
     ],
     "name:fra_x_preferred":[
+        "Madiun"
+    ],
+    "name:gle_x_preferred":[
         "Madiun"
     ],
     "name:guj_x_preferred":[
@@ -87,6 +97,9 @@
     ],
     "name:ind_x_preferred":[
         "Madiun"
+    ],
+    "name:ind_x_variant":[
+        "Kota Madiun"
     ],
     "name:ita_x_preferred":[
         "Madiun"
@@ -157,6 +170,9 @@
     "name:tam_x_preferred":[
         "\u0bae\u0b9f\u0bbf\u0baf\u0bc1\u0ba9\u0bcd"
     ],
+    "name:tat_x_preferred":[
+        "\u041c\u0430\u0434\u0438\u0443\u043d"
+    ],
     "name:tel_x_preferred":[
         "\u0c2e\u0c21\u0c3f\u0c2f\u0c41\u0c28\u0c4d"
     ],
@@ -217,11 +233,12 @@
         "hasc:id":"ID.JI.MN",
         "wd:id":"Q11444"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"dd4a084d40d5f782a1a5cafce34bd0df",
+    "wof:geomhash":"188527c13df3c26d7f37bfba50172585",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -238,7 +255,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1636502294,
+    "wof:lastmodified":1695886058,
     "wof:name":"Madiun",
     "wof:parent_id":85672027,
     "wof:placetype":"county",

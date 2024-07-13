@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.052574,
-    "geom:area_square_m":646274253.790944,
+    "geom:area_square_m":646274253.790975,
     "geom:bbox":"106.686958,-6.370783,106.972275,-6.088531",
     "geom:latitude":-6.208664,
     "geom:longitude":106.839294,
@@ -47,14 +47,23 @@
     "name:afr_x_preferred":[
         "Djakarta"
     ],
+    "name:aka_x_preferred":[
+        "Jakarta"
+    ],
     "name:amh_x_preferred":[
         "\u1303\u12ab\u122d\u1273"
+    ],
+    "name:anp_x_preferred":[
+        "\u091c\u0915\u093e\u0930\u094d\u0924\u093e"
     ],
     "name:ara_x_preferred":[
         "\u062c\u0627\u0643\u0631\u062a\u0627"
     ],
     "name:arg_x_preferred":[
         "Jakarta"
+    ],
+    "name:ary_x_preferred":[
+        "\u062c\u0627\u0643\u0627\u0631\u0637\u0627"
     ],
     "name:arz_x_preferred":[
         "\u062c\u0627\u0643\u0627\u0631\u062a\u0627"
@@ -64,6 +73,9 @@
     ],
     "name:ast_x_preferred":[
         "Xakarta"
+    ],
+    "name:awa_x_preferred":[
+        "\u091c\u093e\u0915\u0930\u094d\u0924\u093e"
     ],
     "name:azb_x_preferred":[
         "\u062c\u0627\u06a9\u0627\u0631\u062a\u0627"
@@ -91,6 +103,9 @@
     ],
     "name:bho_x_preferred":[
         "\u091c\u0915\u093e\u0930\u094d\u0924\u093e"
+    ],
+    "name:bjn_x_preferred":[
+        "Jakarta"
     ],
     "name:bod_x_preferred":[
         "\u0f4a\u0f0b\u0f41\u0f62\u0f0b\u0f4f\u0f0d"
@@ -125,6 +140,12 @@
     "name:chr_x_preferred":[
         "\u13a0\u13e4\u13d9"
     ],
+    "name:chv_x_preferred":[
+        "\u0414\u0436\u0430\u043a\u0430\u0440\u0442\u0430"
+    ],
+    "name:chy_x_preferred":[
+        "Jakarta"
+    ],
     "name:ckb_x_preferred":[
         "\u062c\u0627\u06a9\u0627\u0631\u062a\u0627"
     ],
@@ -133,6 +154,9 @@
     ],
     "name:cos_x_preferred":[
         "Giacarta"
+    ],
+    "name:crh_x_preferred":[
+        "Cakarta"
     ],
     "name:cym_x_preferred":[
         "Jakarta"
@@ -196,6 +220,12 @@
     "name:fry_x_preferred":[
         "Jakarta"
     ],
+    "name:fur_x_preferred":[
+        "Jakarta"
+    ],
+    "name:gan_x_preferred":[
+        "\u96c5\u52a0\u9054"
+    ],
     "name:gcr_x_preferred":[
         "Jakarta"
     ],
@@ -210,6 +240,12 @@
     ],
     "name:gor_x_preferred":[
         "DKI Jakarta"
+    ],
+    "name:gor_x_variant":[
+        "Daerah Khusus Ibukota Jakarta"
+    ],
+    "name:grn_x_preferred":[
+        "Jak\u00e1ta"
     ],
     "name:gsw_x_preferred":[
         "Jakarta"
@@ -331,17 +367,32 @@
     "name:lad_x_preferred":[
         "Djakarta"
     ],
+    "name:lao_x_preferred":[
+        "\u0e88\u0eb2\u0e81\u0eb2\u0e95\u0eb2"
+    ],
     "name:lat_x_preferred":[
         "Jakarta"
     ],
     "name:lav_x_preferred":[
         "D\u017eakarta"
     ],
+    "name:lez_x_preferred":[
+        "\u0414\u0436\u0430\u043a\u0430\u0440\u0442\u0430"
+    ],
+    "name:lfn_x_preferred":[
+        "Djacarta"
+    ],
+    "name:lij_x_preferred":[
+        "Giacarta"
+    ],
     "name:lim_x_preferred":[
         "Jakarta"
     ],
     "name:lit_x_preferred":[
         "D\u017eakarta"
+    ],
+    "name:lld_x_preferred":[
+        "Jacarta"
     ],
     "name:lmo_x_preferred":[
         "Giacarta"
@@ -355,6 +406,9 @@
     "name:lzh_x_preferred":[
         "\u96c5\u52a0\u9054"
     ],
+    "name:mad_x_preferred":[
+        "Daerah Khusus Ibukota Jakarta"
+    ],
     "name:mai_x_preferred":[
         "\u091c\u0915\u093e\u0930\u094d\u0924\u093e"
     ],
@@ -363,6 +417,9 @@
     ],
     "name:mar_x_preferred":[
         "\u091c\u0915\u093e\u0930\u094d\u0924\u093e"
+    ],
+    "name:mdf_x_preferred":[
+        "\u0414\u0436\u0430\u043a\u0430\u0440\u0442\u0430"
     ],
     "name:mhr_x_preferred":[
         "\u0414\u0436\u0430\u043a\u0430\u0440\u0442\u0430"
@@ -376,11 +433,17 @@
     "name:mlg_x_preferred":[
         "Jakarta"
     ],
+    "name:mlt_x_preferred":[
+        "\u0120akarta"
+    ],
     "name:mon_x_preferred":[
         "\u0416\u0430\u043a\u0430\u0440\u0442\u0430"
     ],
     "name:mri_x_preferred":[
         "Jakarta"
+    ],
+    "name:mri_x_variant":[
+        "Tiak\u0101ta"
     ],
     "name:msa_x_preferred":[
         "Jakarta"
@@ -415,6 +478,9 @@
     "name:new_x_preferred":[
         "\u091c\u0915\u093e\u0930\u094d\u0924\u093e"
     ],
+    "name:nia_x_preferred":[
+        "Jakarta"
+    ],
     "name:nld_x_preferred":[
         "Jakarta"
     ],
@@ -446,6 +512,9 @@
         "\u0a1c\u0a15\u0a3e\u0a30\u0a24\u0a3e"
     ],
     "name:pap_x_preferred":[
+        "Jakarta"
+    ],
+    "name:pcd_x_preferred":[
         "Jakarta"
     ],
     "name:pih_x_preferred":[
@@ -508,8 +577,14 @@
     "name:slv_x_preferred":[
         "D\u017eakarta"
     ],
+    "name:smn_x_preferred":[
+        "Jakarta"
+    ],
     "name:sna_x_preferred":[
         "Jakarta"
+    ],
+    "name:snd_x_preferred":[
+        "\u062c\u06aa\u0627\u0631\u062a\u0627"
     ],
     "name:spa_x_preferred":[
         "Yakarta"
@@ -562,6 +637,9 @@
     "name:tha_x_preferred":[
         "\u0e08\u0e32\u0e01\u0e32\u0e23\u0e4c\u0e15\u0e32"
     ],
+    "name:tok_x_preferred":[
+        "ma tomo Sakata"
+    ],
     "name:tuk_x_preferred":[
         "Jakarta"
     ],
@@ -570,6 +648,9 @@
     ],
     "name:twi_x_preferred":[
         "Jakarta"
+    ],
+    "name:udm_x_preferred":[
+        "\u0414\u0436\u0430\u043a\u0430\u0440\u0442\u0430"
     ],
     "name:uig_x_preferred":[
         "\u062c\u0627\u0643\u0627\u0631\u062a\u0627"
@@ -594,6 +675,9 @@
     ],
     "name:vec_x_preferred":[
         "Xacarta"
+    ],
+    "name:vec_x_variant":[
+        "Jacarta"
     ],
     "name:vep_x_preferred":[
         "D\u017eakart"
@@ -738,17 +822,19 @@
         "gn:id":1642907,
         "gp:id":2345713,
         "hasc:id":"ID.JK",
+        "iso:code":"ID-JK",
         "iso:id":"ID-JK",
         "qs:id":889753,
         "unlc:id":"ID-JK",
         "wd:id":"Q3630",
         "wk:page":"Greater Jakarta"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"0a7d90a4bbbc89d768e12996fe19e6aa",
+    "wof:geomhash":"9bfdecab95f98c0036162069b6420283",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -764,7 +850,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1623173307,
+    "wof:lastmodified":1695884737,
     "wof:name":"Jakarta Raya",
     "wof:parent_id":85632203,
     "wof:placetype":"region",

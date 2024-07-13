@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.071173,
-    "geom:area_square_m":873019384.914963,
+    "geom:area_square_m":873019384.915113,
     "geom:bbox":"109.933014,-7.402225,110.3284,-7.079072",
     "geom:latitude":-7.258129,
     "geom:longitude":110.1362,
@@ -46,6 +46,9 @@
     "name:ast_x_preferred":[
         "Temanggung"
     ],
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Temanggung"
+    ],
     "name:bar_x_preferred":[
         "Temanggung"
     ],
@@ -83,7 +86,8 @@
         "Temanggung"
     ],
     "name:eng_x_variant":[
-        "TEMANGGUNG"
+        "TEMANGGUNG",
+        "Temanggung Regency"
     ],
     "name:epo_x_preferred":[
         "Temanggung"
@@ -142,6 +146,9 @@
     "name:ind_x_preferred":[
         "Temanggung"
     ],
+    "name:ind_x_variant":[
+        "Kabupaten Temanggung"
+    ],
     "name:isl_x_preferred":[
         "Temanggung"
     ],
@@ -150,6 +157,9 @@
     ],
     "name:jav_x_preferred":[
         "Kabupat\u00e8n Temanggung"
+    ],
+    "name:jav_x_variant":[
+        "Temanggung"
     ],
     "name:jpn_x_preferred":[
         "\u30c6\u30de\u30f3\u30b0\u30f3\u770c"
@@ -190,6 +200,9 @@
     "name:msa_x_preferred":[
         "Temanggung"
     ],
+    "name:nan_x_preferred":[
+        "Temanggung Ko\u0101n"
+    ],
     "name:nap_x_preferred":[
         "Temanggung"
     ],
@@ -198,6 +211,9 @@
     ],
     "name:nld_x_preferred":[
         "Temanggung Regency"
+    ],
+    "name:nld_x_variant":[
+        "Temanggung"
     ],
     "name:nno_x_preferred":[
         "Temanggung"
@@ -256,6 +272,9 @@
     "name:sun_x_preferred":[
         "Kabupat\u00e9n Temanggung"
     ],
+    "name:sun_x_variant":[
+        "Temanggung"
+    ],
     "name:swa_x_preferred":[
         "Temanggung"
     ],
@@ -298,6 +317,9 @@
     "name:wol_x_preferred":[
         "Temanggung"
     ],
+    "name:zho_x_preferred":[
+        "\u6de1\u6ee1\u5149"
+    ],
     "name:zul_x_preferred":[
         "Temanggung"
     ],
@@ -336,11 +358,12 @@
         "hasc:id":"ID.JT.TG",
         "wd:id":"Q10979"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e281ea30671b2c20fff25af6383f7874",
+    "wof:geomhash":"ca84787314818e875bb1b24726b3cb86",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -357,7 +380,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614718979,
+    "wof:lastmodified":1695886520,
     "wof:name":"Temanggung",
     "wof:parent_id":85671987,
     "wof:placetype":"county",

@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"110.50083,-7.70472,110.50083,-7.70472",
@@ -24,7 +26,7 @@
     "gn:timezone":"Asia/Jakarta",
     "iso:country":"ID",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":13.0,
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -56,12 +58,14 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614719612,
+    "wof:lastmodified":1706239774,
     "wof:name":"Tiyasan",
     "wof:parent_id":102073233,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1209409017
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

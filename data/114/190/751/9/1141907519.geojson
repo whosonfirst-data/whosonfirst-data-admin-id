@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"136.048481,-1.161494,136.048481,-1.161494",
@@ -13,7 +15,7 @@
     "lbl:latitude":-1.161494,
     "lbl:longitude":136.048481,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":13.0,
     "name:ara_x_preferred":[
         "\u062c\u0632\u064a\u0631\u0629 \u0628\u064a\u0627\u0643"
@@ -244,12 +246,14 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1636502475,
+    "wof:lastmodified":1706239768,
     "wof:name":"Biak",
     "wof:parent_id":1108796871,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        102020855
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

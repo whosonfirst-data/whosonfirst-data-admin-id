@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.164039,
-    "geom:area_square_m":2027975479.88979,
+    "geom:area_square_m":2027975479.889136,
     "geom:bbox":"119.446945,-1.451313,119.876645,-0.64517",
     "geom:latitude":-1.12315,
     "geom:longitude":119.682028,
@@ -31,6 +31,9 @@
     "mps:longitude":119.714569,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Donggala"
+    ],
     "name:ceb_x_preferred":[
         "Kabupaten Donggala"
     ],
@@ -41,12 +44,16 @@
         "Donggala"
     ],
     "name:eng_x_variant":[
-        "DONGGALA"
+        "DONGGALA",
+        "Donggala Regency"
     ],
     "name:fas_x_preferred":[
         "\u062f\u0648\u0646\u06af\u0627\u0644\u0627"
     ],
     "name:fra_x_preferred":[
+        "Donggala"
+    ],
+    "name:gle_x_preferred":[
         "Donggala"
     ],
     "name:gor_x_preferred":[
@@ -57,6 +64,9 @@
     ],
     "name:ind_x_preferred":[
         "Donggala"
+    ],
+    "name:ind_x_variant":[
+        "Kabupaten Donggala"
     ],
     "name:ita_x_preferred":[
         "Reggenza di Donggala"
@@ -69,6 +79,9 @@
     ],
     "name:msa_x_preferred":[
         "Kabupaten Donggala"
+    ],
+    "name:nan_x_preferred":[
+        "Donggala Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Donggala"
@@ -117,11 +130,12 @@
         "hasc:id":"ID.ST.DG",
         "wd:id":"Q15814"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"61d29bc36c09bc0b2b584bcdce27a60e",
+    "wof:geomhash":"c1a0cf3b54b5152c05fe3d696d85e133",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -138,7 +152,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614720900,
+    "wof:lastmodified":1695886530,
     "wof:name":"Donggala",
     "wof:parent_id":85672111,
     "wof:placetype":"county",

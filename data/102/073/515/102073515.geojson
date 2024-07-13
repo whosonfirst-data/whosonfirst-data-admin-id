@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.109195,
-    "geom:area_square_m":1340667152.0396,
+    "geom:area_square_m":1340667152.039403,
     "geom:bbox":"108.043068,-7.074612,108.407799,-6.540739",
     "geom:latitude":-6.816167,
     "geom:longitude":108.257231,
@@ -31,6 +31,15 @@
     "mps:longitude":108.284694,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0627\u062c\u0627\u0644\u064a\u0646\u063a\u0643\u0627"
+    ],
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Majalengka"
+    ],
+    "name:cat_x_preferred":[
+        "Majalengka"
+    ],
     "name:ceb_x_preferred":[
         "Kabupaten Majalengka"
     ],
@@ -41,13 +50,20 @@
         "Majalengka"
     ],
     "name:eng_x_variant":[
-        "MAJALENGKA"
+        "MAJALENGKA",
+        "Majalengka Regency"
     ],
     "name:fra_x_preferred":[
         "kabupaten de Majalengka"
     ],
+    "name:gle_x_preferred":[
+        "Majalengka"
+    ],
     "name:ind_x_preferred":[
         "Majalengka"
+    ],
+    "name:ind_x_variant":[
+        "Kabupaten Majalengka"
     ],
     "name:ita_x_preferred":[
         "Reggenza di Majalengka"
@@ -55,10 +71,22 @@
     "name:jav_x_preferred":[
         "Kabupat\u00e8n Majalengka"
     ],
+    "name:jav_x_variant":[
+        "Majalengka"
+    ],
     "name:jpn_x_preferred":[
         "\u30de\u30b8\u30e3\u30ec\u30f3\u30ab\u770c"
     ],
+    "name:msa_x_preferred":[
+        "Majalengka"
+    ],
+    "name:nan_x_preferred":[
+        "Majalengka Ko\u0101n"
+    ],
     "name:nld_x_preferred":[
+        "Majalengka"
+    ],
+    "name:pol_x_preferred":[
         "Majalengka"
     ],
     "name:spa_x_preferred":[
@@ -67,14 +95,21 @@
     "name:sun_x_preferred":[
         "Kabupat\u00e9n Majalengka"
     ],
+    "name:sun_x_variant":[
+        "Majalengka"
+    ],
     "name:swe_x_preferred":[
         "Kabupaten Majalengka"
+    ],
+    "name:tet_x_preferred":[
+        "Majalengka"
     ],
     "name:zho_x_preferred":[
         "\u5df4\u723a\u516c\u52d9"
     ],
     "name:zho_x_variant":[
-        "\u99ac\u8005\u9023\u52a0\u7e23"
+        "\u99ac\u8005\u9023\u52a0\u7e23",
+        "\u9a6c\u8d3e\u4f26\u5361\u53bf"
     ],
     "qs:a0":"Indonesia",
     "qs:a0_lc":"IDN",
@@ -112,11 +147,12 @@
         "hasc:id":"ID.JR.MA",
         "wd:id":"Q10377"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f638fdd34aaf8e5648f4976de191ba1c",
+    "wof:geomhash":"f40b922654b7b21fc0a19d74ce71104a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -133,7 +169,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614721812,
+    "wof:lastmodified":1695886536,
     "wof:name":"Majalengka",
     "wof:parent_id":85671983,
     "wof:placetype":"county",

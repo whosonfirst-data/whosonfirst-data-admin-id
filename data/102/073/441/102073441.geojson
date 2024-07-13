@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.094414,
-    "geom:area_square_m":1162205341.848113,
+    "geom:area_square_m":1162205341.848052,
     "geom:bbox":"119.95433,-5.66081,120.465767,-5.285831",
     "geom:latitude":-5.432855,
     "geom:longitude":120.233025,
@@ -43,6 +43,9 @@
     "name:ast_x_preferred":[
         "Bulukumba"
     ],
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Bulukumba"
+    ],
     "name:bar_x_preferred":[
         "Bulukumba"
     ],
@@ -74,7 +77,8 @@
         "Bulukumba"
     ],
     "name:eng_x_variant":[
-        "BULUKUMBA"
+        "BULUKUMBA",
+        "Bulukumba Regency"
     ],
     "name:epo_x_preferred":[
         "Bulukumba"
@@ -130,6 +134,9 @@
     "name:ind_x_preferred":[
         "Bulukumba"
     ],
+    "name:ind_x_variant":[
+        "Kabupaten Bulukumba"
+    ],
     "name:isl_x_preferred":[
         "Bulukumba"
     ],
@@ -162,6 +169,9 @@
     ],
     "name:msa_x_preferred":[
         "Bulukumba"
+    ],
+    "name:nan_x_preferred":[
+        "Bulukumba Ko\u0101n"
     ],
     "name:nap_x_preferred":[
         "Bulukumba"
@@ -288,11 +298,12 @@
         "hasc:id":"ID.SE.BU",
         "wd:id":"Q14596"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"2423d855cac40f95f152de76da1b1f5f",
+    "wof:geomhash":"4d01a18ff40ac43f716edb88fa104e83",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -309,7 +320,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614721123,
+    "wof:lastmodified":1695886533,
     "wof:name":"Bulukumba",
     "wof:parent_id":85672041,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":7.285286,
-    "geom:area_square_m":90071630213.019791,
+    "geom:area_square_m":90071630213.022781,
     "geom:bbox":"100.024651,-1.128808,103.810913,2.543851",
     "geom:latitude":0.509055,
     "geom:longitude":101.809708,
@@ -61,6 +61,9 @@
     ],
     "name:ben_x_variant":[
         "\u09b0\u09bf\u09af\u09bc\u09be\u0989"
+    ],
+    "name:bjn_x_preferred":[
+        "Riau"
     ],
     "name:bul_x_preferred":[
         "\u0420\u0438\u0430\u0443"
@@ -119,6 +122,12 @@
     "name:fra_x_preferred":[
         "Riau"
     ],
+    "name:frr_x_preferred":[
+        "Riau"
+    ],
+    "name:gle_x_preferred":[
+        "Riau"
+    ],
     "name:gor_x_preferred":[
         "Riau"
     ],
@@ -139,6 +148,9 @@
     ],
     "name:hun_x_preferred":[
         "Riau"
+    ],
+    "name:hyw_x_preferred":[
+        "\u054c\u056b\u0561\u0578\u0582"
     ],
     "name:ilo_x_preferred":[
         "Riau"
@@ -176,6 +188,9 @@
     "name:lrc_x_preferred":[
         "\u0631\u06cc\u0627\u0626\u0648"
     ],
+    "name:mad_x_preferred":[
+        "Riau"
+    ],
     "name:mal_x_preferred":[
         "\u0d31\u0d3f\u0d2f\u0d3e\u0d35\u0d41"
     ],
@@ -193,6 +208,9 @@
     ],
     "name:nan_x_preferred":[
         "Riau"
+    ],
+    "name:nan_x_variant":[
+        "Riau S\u00e9ng"
     ],
     "name:nld_x_preferred":[
         "Riau"
@@ -385,16 +403,18 @@
         "gn:id":1629652,
         "gp:id":2345728,
         "hasc:id":"ID.RI",
+        "iso:code":"ID-RI",
         "iso:id":"ID-RI",
         "qs:id":273650,
         "wd:id":"Q2175",
         "wk:page":"Riau"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b110d25ffbe0c27aac7116dd40ff32bf",
+    "wof:geomhash":"bfcd97f8c3f28195885aea7befdff6c4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -410,7 +430,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1636502345,
+    "wof:lastmodified":1695884932,
     "wof:name":"Riau",
     "wof:parent_id":85632203,
     "wof:placetype":"region",

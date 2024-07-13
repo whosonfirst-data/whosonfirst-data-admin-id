@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.297852,
-    "geom:area_square_m":3682429987.56658,
+    "geom:area_square_m":3682429987.566377,
     "geom:bbox":"102.209229,0.68007,103.17347,1.41277",
     "geom:latitude":0.996629,
     "geom:longitude":102.658132,
@@ -37,6 +37,9 @@
     ],
     "name:ast_x_preferred":[
         "Kepulauan Meranti"
+    ],
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Kepulauan Meranti"
     ],
     "name:bar_x_preferred":[
         "Kepulauan Meranti"
@@ -72,7 +75,8 @@
         "Kepulauan Meranti"
     ],
     "name:eng_x_variant":[
-        "KEPULAUAN MERANTI"
+        "KEPULAUAN MERANTI",
+        "Meranti Islands Regency"
     ],
     "name:epo_x_preferred":[
         "Kepulauan Meranti"
@@ -125,6 +129,9 @@
     "name:ind_x_preferred":[
         "Kepulauan Meranti"
     ],
+    "name:ind_x_variant":[
+        "Kabupaten Kepulauan Meranti"
+    ],
     "name:isl_x_preferred":[
         "Kepulauan Meranti"
     ],
@@ -154,6 +161,9 @@
     ],
     "name:msa_x_preferred":[
         "Kepulauan Meranti"
+    ],
+    "name:nan_x_preferred":[
+        "Kepulauan Meranti Ko\u0101n"
     ],
     "name:nap_x_preferred":[
         "Kepulauan Meranti"
@@ -269,9 +279,10 @@
         "hasc:id":"ID.RI.KM",
         "wd:id":"Q7630"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:created":1482878593,
-    "wof:geomhash":"06cabc0cec714c9c9224faefbc46830d",
+    "wof:geomhash":"f4bf01c2f051ac9430a86e3590376265",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -288,7 +299,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614722860,
+    "wof:lastmodified":1695886551,
     "wof:name":"Kepulauan Meranti",
     "wof:parent_id":85672077,
     "wof:placetype":"county",

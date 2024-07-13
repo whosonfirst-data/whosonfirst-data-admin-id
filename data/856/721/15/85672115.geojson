@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":25.392232,
-    "geom:area_square_m":312782037186.240723,
+    "geom:area_square_m":312782037186.241272,
     "geom:bbox":"129.378677,-9.13134,141.021805,0.9263",
     "geom:latitude":-4.659263,
     "geom:longitude":138.701827,
@@ -117,8 +117,14 @@
     "name:fra_x_preferred":[
         "Papouasie"
     ],
+    "name:frr_x_preferred":[
+        "Papua"
+    ],
     "name:gcr_x_preferred":[
         "Papouazi"
+    ],
+    "name:gle_x_preferred":[
+        "Papua"
     ],
     "name:gor_x_preferred":[
         "Papua"
@@ -140,6 +146,9 @@
     ],
     "name:hye_x_preferred":[
         "\u054a\u0561\u057a\u0578\u0582\u0561"
+    ],
+    "name:hyw_x_preferred":[
+        "\u0553\u0561\u0583\u0578\u0582\u0561"
     ],
     "name:ilo_x_preferred":[
         "Papua"
@@ -195,6 +204,9 @@
     "name:nan_x_preferred":[
         "Papua"
     ],
+    "name:nan_x_variant":[
+        "Papua S\u00e9ng"
+    ],
     "name:nld_x_preferred":[
         "Papoea"
     ],
@@ -215,6 +227,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041f\u0430\u043f\u0443\u0430"
+    ],
+    "name:sat_x_preferred":[
+        "\u1c6f\u1c5f\u1c6f\u1c69\u1c63\u1c5f"
     ],
     "name:scn_x_preferred":[
         "Papua"
@@ -388,16 +403,18 @@
         "gn:id":1643012,
         "gp:id":2345718,
         "hasc:id":"ID.PA",
+        "iso:code":"ID-PA",
         "iso:id":"ID-PA",
         "qs:id":9169,
         "wd:id":"Q5095",
         "wk:page":"Papua (province)"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f609a1d4028469f730870c430adc2a0d",
+    "wof:geomhash":"b2694c54542b3b80acfe811c83273bea",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -413,7 +430,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1636502340,
+    "wof:lastmodified":1695884929,
     "wof:name":"Papua",
     "wof:parent_id":85632203,
     "wof:placetype":"region",

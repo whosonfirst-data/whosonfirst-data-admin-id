@@ -24,8 +24,17 @@
     "name:ara_x_preferred":[
         "\u062a\u0627\u0646\u062c\u0648\u0646\u063a"
     ],
+    "name:aze_x_preferred":[
+        "Tanjunq Pinanq"
+    ],
+    "name:ban_x_preferred":[
+        "Tanjung Pinang"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0422\u0430\u043d\u0434\u0436\u0443\u043d\u0433-\u041f\u0456\u043d\u0430\u043d\u0433"
+    ],
+    "name:bel_x_variant":[
+        "\u0422\u0430\u043d\u0434\u0436\u0443\u043d\u0433-\u041f\u0456\u043d\u0430\u043d\u0433"
     ],
     "name:ben_x_preferred":[
         "\u09a4\u09be\u099e\u09cd\u099c\u09c1\u0982 \u09aa\u09bf\u09a8\u09be\u0982"
@@ -48,6 +57,9 @@
     "name:eng_x_preferred":[
         "Tanjung Pinang"
     ],
+    "name:eng_x_variant":[
+        "Tanjung Pinang City"
+    ],
     "name:epo_x_preferred":[
         "Tanjung Pinang"
     ],
@@ -63,6 +75,9 @@
     "name:fra_x_preferred":[
         "Tanjungpinang"
     ],
+    "name:gle_x_preferred":[
+        "Tanjung Pinang"
+    ],
     "name:gor_x_preferred":[
         "Kota Tanjung Pinang"
     ],
@@ -77,6 +92,9 @@
     ],
     "name:ind_x_preferred":[
         "Tanjung Pinang"
+    ],
+    "name:ind_x_variant":[
+        "Kota Tanjung Pinang"
     ],
     "name:ita_x_preferred":[
         "Tanjung Pinang"
@@ -111,6 +129,9 @@
     "name:msa_x_preferred":[
         "Kota Tanjung Pinang"
     ],
+    "name:msa_x_variant":[
+        "Tanjungpinang"
+    ],
     "name:nan_x_preferred":[
         "Tanjung Pinang"
     ],
@@ -135,6 +156,9 @@
     "name:rus_x_preferred":[
         "\u0422\u0430\u043d\u0434\u0436\u0443\u043d\u0433-\u041f\u0438\u043d\u0430\u043d\u0433"
     ],
+    "name:rus_x_variant":[
+        "\u0422\u0430\u043d\u0434\u0436\u0443\u043d\u0433\u043f\u0438\u043d\u0430\u043d\u0433"
+    ],
     "name:sin_x_preferred":[
         "\u0da7\u0db1\u0dca\u0da2\u0dd4\u0db1\u0dca \u0db4\u0dd2\u0db1\u0dd0\u0db1\u0dca\u0d9c\u0dca"
     ],
@@ -146,6 +170,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0b9f\u0bbe\u0ba9\u0bcd\u0b9c\u0bc1\u0b99\u0bcd \u0baa\u0bbf\u0ba9\u0bbe\u0b99\u0bcd"
+    ],
+    "name:tat_x_preferred":[
+        "\u0422\u0430\u043d\u0497\u0443\u04a3-\u041f\u0438\u043d\u0430\u04a3"
     ],
     "name:tel_x_preferred":[
         "\u0c24\u0c28\u0c4d\u0c1c\u0c41\u0c02\u0c17\u0c4d \u0c2a\u0c3f\u0c28\u0c3e\u0c02\u0c17\u0c4d"
@@ -165,11 +192,17 @@
     "name:urd_x_preferred":[
         "\u062a\u0627\u0646\u062c\u0648\u0646\u06af \u067e\u06cc\u0646\u0627\u0646\u06af"
     ],
+    "name:vec_x_preferred":[
+        "Tanjung Pinang"
+    ],
     "name:vie_x_preferred":[
         "Tanjung Pinang"
     ],
     "name:war_x_preferred":[
         "Tanjung Pinang"
+    ],
+    "name:wuu_x_preferred":[
+        "\u4e39\u620e\u69df\u6994"
     ],
     "name:zho_x_preferred":[
         "\u4e39\u620e\u6ab3\u6994"
@@ -224,7 +257,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614713969,
+    "wof:lastmodified":1690931353,
     "wof:name":"Tanjung Pinang",
     "wof:parent_id":102072661,
     "wof:placetype":"locality",

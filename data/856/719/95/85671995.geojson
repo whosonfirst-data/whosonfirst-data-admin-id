@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.76796,
-    "geom:area_square_m":9435654651.205137,
+    "geom:area_square_m":9435654651.204536,
     "geom:bbox":"105.104652,-7.01775,106.7799,-5.80648",
     "geom:latitude":-6.456187,
     "geom:longitude":106.106201,
@@ -129,6 +129,12 @@
     "name:fra_x_preferred":[
         "Banten"
     ],
+    "name:frr_x_preferred":[
+        "Banten"
+    ],
+    "name:gle_x_preferred":[
+        "Banten"
+    ],
     "name:gor_x_preferred":[
         "Banten"
     ],
@@ -144,6 +150,9 @@
     "name:heb_x_preferred":[
         "\u05d1\u05d0\u05e0\u05d8\u05df"
     ],
+    "name:heb_x_variant":[
+        "\u05d1\u05e0\u05d8\u05df"
+    ],
     "name:hin_x_preferred":[
         "\u092c\u093e\u0902\u0924\u0947\u0928"
     ],
@@ -152,6 +161,9 @@
     ],
     "name:hye_x_preferred":[
         "\u0532\u0561\u0576\u057f\u0565\u0576"
+    ],
+    "name:hyw_x_preferred":[
+        "\u054a\u0565\u0576\u0569\u0568\u0576"
     ],
     "name:ilo_x_preferred":[
         "Banten"
@@ -194,6 +206,9 @@
     "name:lrc_x_preferred":[
         "\u0628\u0627\u0646\u062a\u0646"
     ],
+    "name:mad_x_preferred":[
+        "Banten"
+    ],
     "name:mal_x_preferred":[
         "\u0d2c\u0d3e\u0d7b\u0d31\u0d7b"
     ],
@@ -212,8 +227,14 @@
     "name:nan_x_preferred":[
         "Banten"
     ],
+    "name:nan_x_variant":[
+        "Banten S\u00e9ng"
+    ],
     "name:nld_x_preferred":[
         "Bantam"
+    ],
+    "name:nld_x_variant":[
+        "Banten"
     ],
     "name:nob_x_preferred":[
         "Banten"
@@ -247,6 +268,9 @@
     ],
     "name:sin_x_preferred":[
         "\u0db6\u0db1\u0dca\u0da7\u0dd9\u0db1\u0dca \u0db4\u0dc5\u0dcf\u0dad"
+    ],
+    "name:slv_x_preferred":[
+        "Banten"
     ],
     "name:spa_x_preferred":[
         "Bant\u00e9n"
@@ -414,17 +438,19 @@
         "gn:id":1923045,
         "gp:id":28350158,
         "hasc:id":"ID.BT",
+        "iso:code":"ID-BT",
         "iso:id":"ID-BT",
         "qs:id":372594,
         "unlc:id":"ID-BT",
         "wd:id":"Q3540",
         "wk:page":"Banten"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1ac9e84f02de2f564ee08a4ca6ef3ab9",
+    "wof:geomhash":"60fe97a33b1a9e48e8aed14d90ba1f73",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -440,7 +466,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1636502339,
+    "wof:lastmodified":1695884929,
     "wof:name":"Banten",
     "wof:parent_id":85632203,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000899,
-    "geom:area_square_m":11037441.913006,
+    "geom:area_square_m":11037441.912994,
     "geom:bbox":"107.523315,-6.906305,107.560539,-6.865444",
     "geom:latitude":-6.884583,
     "geom:longitude":107.541514,
@@ -43,6 +43,9 @@
     "name:aze_x_preferred":[
         "Cimahi"
     ],
+    "name:ban_x_preferred":[
+        "Kota Cimahi"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09bf\u09ae\u09be\u09b9\u09bf"
     ],
@@ -51,6 +54,9 @@
     ],
     "name:ceb_x_preferred":[
         "Kota Cimahi"
+    ],
+    "name:ces_x_preferred":[
+        "Cimahi"
     ],
     "name:dan_x_preferred":[
         "Cimahi"
@@ -65,7 +71,11 @@
         "Cimahi"
     ],
     "name:eng_x_variant":[
-        "KOTA CIMAHI"
+        "KOTA CIMAHI",
+        "Cimahi City"
+    ],
+    "name:epo_x_preferred":[
+        "Cimahi"
     ],
     "name:fas_x_preferred":[
         "\u0633\u06cc\u0645\u0627\u0647\u06cc"
@@ -76,14 +86,23 @@
     "name:fra_x_preferred":[
         "Cimahi"
     ],
+    "name:gle_x_preferred":[
+        "Cimahi"
+    ],
     "name:guj_x_preferred":[
         "\u0ab8\u0abf\u0aae\u0ab9\u0ac0"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e6'\u05d9\u05de\u05d0\u05d4\u05d9"
     ],
     "name:hin_x_preferred":[
         "\u091a\u093f\u092e\u093e\u0939\u0940"
     ],
     "name:ind_x_preferred":[
         "Cimahi"
+    ],
+    "name:ind_x_variant":[
+        "Kota Cimahi"
     ],
     "name:ita_x_preferred":[
         "Cimahi"
@@ -154,6 +173,9 @@
     "name:tam_x_preferred":[
         "\u0b9a\u0bbf\u0bae\u0bbe\u0b95\u0bbf"
     ],
+    "name:tat_x_preferred":[
+        "\u0427\u0438\u043c\u0430\u04bb\u0438"
+    ],
     "name:tel_x_preferred":[
         "\u0c1a\u0c3f\u0c2e\u0c3e\u0c39\u0c3f"
     ],
@@ -168,6 +190,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0633\u06cc\u0645\u0627\u06c1\u06cc"
+    ],
+    "name:vec_x_preferred":[
+        "Cimahi"
     ],
     "name:vie_x_preferred":[
         "Cimahi"
@@ -213,11 +238,12 @@
         "hasc:id":"ID.JR.CI",
         "wd:id":"Q10394"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8b8b5144217d3a67baf3d8f791cb021b",
+    "wof:geomhash":"1e2f744a74a949036f7e17b878e435c0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -234,7 +260,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614718907,
+    "wof:lastmodified":1695886520,
     "wof:name":"Cimahi",
     "wof:parent_id":85671983,
     "wof:placetype":"county",

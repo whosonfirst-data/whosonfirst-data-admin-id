@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.656273,
-    "geom:area_square_m":8109086994.538657,
+    "geom:area_square_m":8109086994.538702,
     "geom:bbox":"103.295151,-0.79074,109.165833,4.79364",
     "geom:latitude":1.500394,
     "geom:longitude":105.443287,
@@ -125,6 +125,12 @@
     "name:fra_x_preferred":[
         "\u00celes Riau"
     ],
+    "name:frr_x_preferred":[
+        "Kepulauan Riau"
+    ],
+    "name:gle_x_preferred":[
+        "Oile\u00e1in Riau"
+    ],
     "name:gor_x_preferred":[
         "Kepulauan Riau"
     ],
@@ -145,6 +151,9 @@
     ],
     "name:hun_x_preferred":[
         "Kepulauan Riau"
+    ],
+    "name:hyw_x_preferred":[
+        "\u054c\u056b\u0561\u0578\u0582 \u053f\u0572\u0566\u056b\u0576\u0565\u0580"
     ],
     "name:ilo_x_preferred":[
         "Is-isla Riau"
@@ -182,6 +191,9 @@
     "name:lrc_x_preferred":[
         "\u0645\u06cc\u0646\u0627\u0648\u0647 \u06cc\u0627 \u0631\u06cc\u0627\u0626\u0648"
     ],
+    "name:mad_x_preferred":[
+        "Kepulauan Riau"
+    ],
     "name:mal_x_preferred":[
         "\u0d31\u0d3f\u0d2f\u0d3e\u0d35\u0d41 \u0d26\u0d4d\u0d35\u0d40\u0d2a\u0d41\u0d15\u0d7e"
     ],
@@ -200,8 +212,14 @@
     "name:nan_x_preferred":[
         "Riau K\u00fbn-t\u00f3"
     ],
+    "name:nan_x_variant":[
+        "Riau K\u00fbn-t\u00f3 S\u00e9ng"
+    ],
     "name:nld_x_preferred":[
         "Riouwarchipel"
+    ],
+    "name:nld_x_variant":[
+        "Riau-archipel"
     ],
     "name:nno_x_preferred":[
         "Riau-\u00f8yane"
@@ -392,17 +410,19 @@
         "gn:id":1996551,
         "gp:id":55949082,
         "hasc:id":"ID.KR",
+        "iso:code":"ID-KR",
         "iso:id":"ID-KR",
         "qs:id":1251673,
         "unlc:id":"ID-KR",
         "wd:id":"Q2223",
         "wk:page":"Riau Islands"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"bf63689e1f31560b33a06c73a41addff",
+    "wof:geomhash":"01c9aff01e9aeaf5cfee5a9d43e4c0fe",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -418,7 +438,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1636502346,
+    "wof:lastmodified":1695884933,
     "wof:name":"Kepulauan Riau",
     "wof:parent_id":85632203,
     "wof:placetype":"region",

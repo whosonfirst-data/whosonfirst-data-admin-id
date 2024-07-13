@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.09378,
-    "geom:area_square_m":1150068737.568664,
+    "geom:area_square_m":1150068737.568457,
     "geom:bbox":"109.36142,-7.540486,109.917725,-7.171196",
     "geom:latitude":-7.351546,
     "geom:longitude":109.657208,
@@ -43,6 +43,9 @@
     "name:ast_x_preferred":[
         "Banjarnegara"
     ],
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Banjarnegara"
+    ],
     "name:bar_x_preferred":[
         "Banjarnegara"
     ],
@@ -74,7 +77,8 @@
         "Banjarnegara"
     ],
     "name:eng_x_variant":[
-        "BANJARNEGARA"
+        "BANJARNEGARA",
+        "Banjarnegara Regency"
     ],
     "name:epo_x_preferred":[
         "Banjarnegara"
@@ -133,6 +137,9 @@
     "name:ind_x_preferred":[
         "Banjarnegara"
     ],
+    "name:ind_x_variant":[
+        "Kabupaten Banjarnegara"
+    ],
     "name:isl_x_preferred":[
         "Banjarnegara"
     ],
@@ -168,6 +175,9 @@
     ],
     "name:msa_x_preferred":[
         "Kabupaten Banjarnegara"
+    ],
+    "name:nan_x_preferred":[
+        "Banjarnegara Ko\u0101n"
     ],
     "name:nap_x_preferred":[
         "Banjarnegara"
@@ -259,6 +269,9 @@
     "name:zho_x_preferred":[
         "\u73ed\u67e5\u5167\u52a0\u62c9"
     ],
+    "name:zho_x_variant":[
+        "\u73ed\u67e5\u5167\u52a0\u62c9\u53bf"
+    ],
     "name:zul_x_preferred":[
         "Banjarnegara"
     ],
@@ -298,11 +311,12 @@
         "hasc:id":"ID.JT.BN",
         "wd:id":"Q10604"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"bc372d1fdc0891474902aa1fff144631",
+    "wof:geomhash":"86251447200f239b894c9ff760e33d0b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -319,7 +333,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614718824,
+    "wof:lastmodified":1695886520,
     "wof:name":"Banjarnegara",
     "wof:parent_id":85671987,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.326688,
-    "geom:area_square_m":4030186211.772125,
+    "geom:area_square_m":4030186211.771931,
     "geom:bbox":"136.168958,-4.149002,137.206578,-3.476012",
     "geom:latitude":-3.900654,
     "geom:longitude":136.635785,
@@ -43,6 +43,9 @@
     "name:ast_x_preferred":[
         "Paniai"
     ],
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Paniai"
+    ],
     "name:bar_x_preferred":[
         "Paniai"
     ],
@@ -74,7 +77,8 @@
         "Paniai"
     ],
     "name:eng_x_variant":[
-        "PANIAI"
+        "PANIAI",
+        "Paniai Regency"
     ],
     "name:epo_x_preferred":[
         "Paniai"
@@ -127,6 +131,9 @@
     "name:ind_x_preferred":[
         "Paniai"
     ],
+    "name:ind_x_variant":[
+        "Kabupaten Paniai"
+    ],
     "name:isl_x_preferred":[
         "Paniai"
     ],
@@ -135,6 +142,9 @@
     ],
     "name:jav_x_preferred":[
         "Paniai"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d1\u30cb\u30a2\u30a4\u770c"
     ],
     "name:kon_x_preferred":[
         "Paniai"
@@ -156,6 +166,9 @@
     ],
     "name:msa_x_preferred":[
         "Kabupaten Paniai"
+    ],
+    "name:nan_x_preferred":[
+        "Paniai Ko\u0101n"
     ],
     "name:nap_x_preferred":[
         "Paniai"
@@ -282,11 +295,12 @@
         "hasc:id":"ID.PA.PN",
         "wd:id":"Q27738"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6414c6e792b0b9cef69ec8e9f43fe74c",
+    "wof:geomhash":"416125cd3150b55bac3aceade7a3bda3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -303,7 +317,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614721750,
+    "wof:lastmodified":1695886536,
     "wof:name":"Paniai",
     "wof:parent_id":85672115,
     "wof:placetype":"county",

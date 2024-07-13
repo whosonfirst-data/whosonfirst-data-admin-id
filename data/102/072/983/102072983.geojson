@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.089024,
-    "geom:area_square_m":1091584813.212385,
+    "geom:area_square_m":1091584813.212013,
     "geom:bbox":"110.377983,-7.631863,110.859146,-7.139133",
     "geom:latitude":-7.41818,
     "geom:longitude":110.650935,
@@ -46,6 +46,9 @@
     "name:ast_x_preferred":[
         "Boyolali"
     ],
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Boyolali"
+    ],
     "name:bar_x_preferred":[
         "Boyolali"
     ],
@@ -83,7 +86,8 @@
         "Boyolali"
     ],
     "name:eng_x_variant":[
-        "BOYOLALI"
+        "BOYOLALI",
+        "Boyolali Regency"
     ],
     "name:epo_x_preferred":[
         "Boyolali"
@@ -142,6 +146,9 @@
     "name:ind_x_preferred":[
         "Boyolali"
     ],
+    "name:ind_x_variant":[
+        "Kabupaten Boyolali"
+    ],
     "name:isl_x_preferred":[
         "Boyolali"
     ],
@@ -150,6 +157,9 @@
     ],
     "name:jav_x_preferred":[
         "Kabupat\u00e8n Bayalali"
+    ],
+    "name:jav_x_variant":[
+        "Bayalali"
     ],
     "name:jpn_x_preferred":[
         "\u30dc\u30e8\u30e9\u30ea\u770c"
@@ -189,6 +199,9 @@
     ],
     "name:msa_x_preferred":[
         "Kabupaten Boyolali"
+    ],
+    "name:nan_x_preferred":[
+        "Boyolali Ko\u0101n"
     ],
     "name:nap_x_preferred":[
         "Boyolali"
@@ -255,6 +268,9 @@
     ],
     "name:sun_x_preferred":[
         "Kabupat\u00e9n Boyolali"
+    ],
+    "name:sun_x_variant":[
+        "Boyolali"
     ],
     "name:swa_x_preferred":[
         "Boyolali"
@@ -339,11 +355,12 @@
         "hasc:id":"ID.JT.BO",
         "wd:id":"Q10609"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"487164c0f4d680f3212cb29493ee2d83",
+    "wof:geomhash":"c178849a32af24ac04020511f9edefc5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -360,7 +377,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614717755,
+    "wof:lastmodified":1695886511,
     "wof:name":"Boyolali",
     "wof:parent_id":85671987,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.247481,
-    "geom:area_square_m":3059142475.868204,
+    "geom:area_square_m":3059142475.867767,
     "geom:bbox":"122.778793,-2.21459,124.033684,-1.15033",
     "geom:latitude":-1.460013,
     "geom:longitude":123.220554,
@@ -34,6 +34,12 @@
     "name:ara_x_preferred":[
         "\u062c\u0632\u0631 \u0628\u0627\u0646\u062c\u0627\u064a"
     ],
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Banggai Kepulauan"
+    ],
+    "name:ceb_x_preferred":[
+        "Kabupaten Banggai Kepulauan"
+    ],
     "name:deu_x_preferred":[
         "Banggai-Inseln"
     ],
@@ -41,7 +47,11 @@
         "Banggai Kepulauan"
     ],
     "name:eng_x_variant":[
-        "BANGGAI KEPULAUAN"
+        "BANGGAI KEPULAUAN",
+        "Banggai Islands Regency"
+    ],
+    "name:eus_x_preferred":[
+        "Banggai uharteak"
     ],
     "name:fin_x_preferred":[
         "Banggai"
@@ -49,8 +59,17 @@
     "name:fra_x_preferred":[
         "\u00celes Banggai"
     ],
+    "name:gle_x_preferred":[
+        "Oile\u00e1in Banggai"
+    ],
+    "name:gor_x_preferred":[
+        "Kabupaten Banggai Kepulauan"
+    ],
     "name:ind_x_preferred":[
         "Banggai Kepulauan"
+    ],
+    "name:ind_x_variant":[
+        "Kabupaten Banggai Kepulauan"
     ],
     "name:ita_x_preferred":[
         "Isole Banggai"
@@ -87,6 +106,9 @@
     ],
     "name:tur_x_preferred":[
         "Banggai Adalar\u0131"
+    ],
+    "name:vie_x_preferred":[
+        "Qu\u1ea7n \u0111\u1ea3o Banggai"
     ],
     "name:wuu_x_preferred":[
         "\u90a6\u84cb\u7fa4\u5cf6"
@@ -132,11 +154,12 @@
         "hasc:id":"ID.ST.BK",
         "wd:id":"Q15812"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"57a23a0f4730c25a2dcdf7704140d93a",
+    "wof:geomhash":"a408b08dce530d253216b3f21e041ab1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -153,7 +176,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614721085,
+    "wof:lastmodified":1695886532,
     "wof:name":"Banggai Kepulauan",
     "wof:parent_id":85672111,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.108034,
-    "geom:area_square_m":1323965697.940171,
+    "geom:area_square_m":1323965697.940197,
     "geom:bbox":"109.379631,-7.82529,109.834236,-7.456166",
     "geom:latitude":-7.653576,
     "geom:longitude":109.61683,
@@ -46,6 +46,9 @@
     "name:ast_x_preferred":[
         "Kebumen"
     ],
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Kebumen"
+    ],
     "name:bar_x_preferred":[
         "Kebumen"
     ],
@@ -83,7 +86,8 @@
         "Kebumen"
     ],
     "name:eng_x_variant":[
-        "KEBUMEN"
+        "KEBUMEN",
+        "Kebumen Regency"
     ],
     "name:epo_x_preferred":[
         "Kebumen"
@@ -118,6 +122,9 @@
     "name:glg_x_preferred":[
         "Kebumen"
     ],
+    "name:gor_x_preferred":[
+        "Kabupaten Kebumen"
+    ],
     "name:gsw_x_preferred":[
         "Kebumen"
     ],
@@ -145,6 +152,9 @@
     "name:ind_x_preferred":[
         "Kebumen"
     ],
+    "name:ind_x_variant":[
+        "Kabupaten Kebumen"
+    ],
     "name:isl_x_preferred":[
         "Kebumen"
     ],
@@ -153,6 +163,9 @@
     ],
     "name:jav_x_preferred":[
         "Kabupat\u00e8n Kebum\u00e8n"
+    ],
+    "name:jav_x_variant":[
+        "Kebum\u00e8n"
     ],
     "name:jpn_x_preferred":[
         "\u30b1\u30d6\u30e1\u30f3\u770c"
@@ -192,6 +205,9 @@
     ],
     "name:msa_x_preferred":[
         "Kebumen"
+    ],
+    "name:nan_x_preferred":[
+        "Kebumen Ko\u0101n"
     ],
     "name:nap_x_preferred":[
         "Kebumen"
@@ -259,6 +275,9 @@
     "name:sun_x_preferred":[
         "Kabupat\u00e9n Kebum\u00e9n"
     ],
+    "name:sun_x_variant":[
+        "Kebum\u00e9n"
+    ],
     "name:swa_x_preferred":[
         "Kebumen"
     ],
@@ -304,6 +323,9 @@
     "name:zho_x_preferred":[
         "\u52a0\u5e03\u68c9"
     ],
+    "name:zho_x_variant":[
+        "\u52a0\u5e03\u68c9\u53bf"
+    ],
     "name:zul_x_preferred":[
         "Kebumen"
     ],
@@ -343,11 +365,12 @@
         "hasc:id":"ID.JT.KB",
         "wd:id":"Q10617"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"62a6ae49bc52ec5f069bef8848875521",
+    "wof:geomhash":"c44531f4b86a97af5fc88ef1778797df",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -364,7 +387,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614715078,
+    "wof:lastmodified":1695886497,
     "wof:name":"Kebumen",
     "wof:parent_id":85671987,
     "wof:placetype":"county",

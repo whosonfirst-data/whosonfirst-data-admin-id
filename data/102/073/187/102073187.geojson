@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.088423,
-    "geom:area_square_m":1083507660.168555,
+    "geom:area_square_m":1083507660.168271,
     "geom:bbox":"109.798065,-7.892754,110.142212,-7.519268",
     "geom:latitude":-7.699118,
     "geom:longitude":109.966845,
@@ -46,6 +46,9 @@
     "name:ast_x_preferred":[
         "Purworejo"
     ],
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Purworejo"
+    ],
     "name:bar_x_preferred":[
         "Purworejo"
     ],
@@ -77,7 +80,8 @@
         "Purworejo"
     ],
     "name:eng_x_variant":[
-        "PURWOREJO"
+        "PURWOREJO",
+        "Purworejo Regency"
     ],
     "name:epo_x_preferred":[
         "Purworejo"
@@ -133,6 +137,9 @@
     "name:ind_x_preferred":[
         "Purworejo"
     ],
+    "name:ind_x_variant":[
+        "Kabupaten Purworejo"
+    ],
     "name:isl_x_preferred":[
         "Purworejo"
     ],
@@ -141,6 +148,9 @@
     ],
     "name:jav_x_preferred":[
         "Kabupat\u00e8n Purwareja"
+    ],
+    "name:jav_x_variant":[
+        "Purwareja"
     ],
     "name:jpn_x_preferred":[
         "\u30d7\u30eb\u30a6\u30a9\u30ec\u30b8\u30e7\u770c"
@@ -165,6 +175,9 @@
     ],
     "name:msa_x_preferred":[
         "Purworejo"
+    ],
+    "name:nan_x_preferred":[
+        "Purworejo Ko\u0101n"
     ],
     "name:nap_x_preferred":[
         "Purworejo"
@@ -205,6 +218,9 @@
     "name:ron_x_preferred":[
         "Purworejo"
     ],
+    "name:rus_x_preferred":[
+        "\u041f\u0443\u0440\u0432\u043e\u0440\u0435\u0434\u0436\u043e"
+    ],
     "name:scn_x_preferred":[
         "Purworejo"
     ],
@@ -225,6 +241,9 @@
     ],
     "name:sun_x_preferred":[
         "Kabupat\u00e9n Purworejo"
+    ],
+    "name:sun_x_variant":[
+        "Purworejo"
     ],
     "name:swa_x_preferred":[
         "Purworejo"
@@ -291,11 +310,12 @@
         "hasc:id":"ID.JT.PW",
         "wd:id":"Q10674"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f2e24656eae94f4c4e9407986c83c6a7",
+    "wof:geomhash":"50237b3abf72f8c931ce4534f18adcf4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -312,7 +332,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614719073,
+    "wof:lastmodified":1695886521,
     "wof:name":"Purworejo",
     "wof:parent_id":85671987,
     "wof:placetype":"county",

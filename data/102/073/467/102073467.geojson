@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.202912,
-    "geom:area_square_m":14827488177.303261,
+    "geom:area_square_m":14827488177.302956,
     "geom:bbox":"139.987121,-5.285607,141.000216,-3.683398",
     "geom:latitude":-4.526347,
     "geom:longitude":140.547985,
@@ -31,6 +31,9 @@
     "mps:longitude":140.557671,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Pegunungan Bintang"
+    ],
     "name:ceb_x_preferred":[
         "Kabupaten Pegunungan Bintang"
     ],
@@ -40,11 +43,20 @@
     "name:eng_x_preferred":[
         "Pegunungan Bintang"
     ],
+    "name:eng_x_variant":[
+        "Pegunungan Bintang Regency"
+    ],
     "name:fra_x_preferred":[
         "kabupaten des monts Bintang"
     ],
+    "name:gle_x_preferred":[
+        "Pegunungan Bintang"
+    ],
     "name:ind_x_preferred":[
         "Pegunungan Bintang"
+    ],
+    "name:ind_x_variant":[
+        "Kabupaten Pegunungan Bintang"
     ],
     "name:ita_x_preferred":[
         "Reggenza di Pegunungan Bintang"
@@ -52,8 +64,14 @@
     "name:jav_x_preferred":[
         "Kabupat\u00e8n Pegunungan Bintang"
     ],
+    "name:jpn_x_preferred":[
+        "\u30d3\u30f3\u30bf\u30f3\u5c71\u8108\u770c"
+    ],
     "name:msa_x_preferred":[
         "Kabupaten Pegunungan Bintang"
+    ],
+    "name:nan_x_preferred":[
+        "Pegunungan Bintang Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Pegunungan Bintang"
@@ -102,11 +120,12 @@
         "hasc:id":"ID.PA.PB",
         "wd:id":"Q27750"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"10e7e172568915606e149fa2cd8f9d12",
+    "wof:geomhash":"b96b91464f142d315e7d6af3bda12d19",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -123,7 +142,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614721334,
+    "wof:lastmodified":1695886534,
     "wof:name":"Pegunungan Bintang",
     "wof:parent_id":85672115,
     "wof:placetype":"county",

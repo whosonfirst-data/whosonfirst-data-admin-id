@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.979086,
-    "geom:area_square_m":12105689529.189224,
+    "geom:area_square_m":12105689529.189819,
     "geom:bbox":"121.161247,0.29738,123.550995,1.03742",
     "geom:latitude":0.684847,
     "geom:longitude":122.384169,
@@ -101,6 +101,12 @@
     "name:fra_x_preferred":[
         "Gorontalo"
     ],
+    "name:frr_x_preferred":[
+        "Gorontalo"
+    ],
+    "name:gle_x_preferred":[
+        "Gorontalo"
+    ],
     "name:gor_x_preferred":[
         "Gorontalo"
     ],
@@ -121,6 +127,9 @@
     ],
     "name:hun_x_preferred":[
         "Gorontalo"
+    ],
+    "name:hyw_x_preferred":[
+        "\u053f\u0578\u0580\u0578\u0576\u0569\u0561\u056c\u0585"
     ],
     "name:ilo_x_preferred":[
         "Gorontalo"
@@ -161,6 +170,9 @@
     "name:lrc_x_preferred":[
         "\u06af\u0648\u0631\u0648\u0646\u062a\u0627\u0644\u0648"
     ],
+    "name:mad_x_preferred":[
+        "Gorontalo"
+    ],
     "name:mal_x_preferred":[
         "\u0d17\u0d4a\u0d31\u0d3e\u0d28\u0d4d\u0d31\u0d3e\u0d32\u0d4b"
     ],
@@ -181,6 +193,9 @@
     ],
     "name:nan_x_preferred":[
         "Gorontalo"
+    ],
+    "name:nan_x_variant":[
+        "Gorontalo S\u00e9ng"
     ],
     "name:nld_x_preferred":[
         "Gorontalo"
@@ -205,6 +220,9 @@
     ],
     "name:sin_x_preferred":[
         "\u0d9c\u0ddc\u0dbb\u0ddd\u0db1\u0dca\u0da7\u0dbd\u0ddd \u0db4\u0dc5\u0dcf\u0dad"
+    ],
+    "name:slv_x_preferred":[
+        "Gorontalo"
     ],
     "name:spa_x_preferred":[
         "Gorontalo"
@@ -362,17 +380,19 @@
         "gn:id":1923046,
         "gp:id":2345732,
         "hasc:id":"ID.GO",
+        "iso:code":"ID-GO",
         "iso:id":"ID-GO",
         "qs:id":483093,
         "unlc:id":"ID-GO",
         "wd:id":"Q5067",
         "wk:page":"Gorontalo"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a3cec98b593fb64237eb76235eea098c",
+    "wof:geomhash":"a61a029f6a8efe6f2010b85f618021fe",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -388,7 +408,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1636502344,
+    "wof:lastmodified":1695884931,
     "wof:name":"Gorontalo",
     "wof:parent_id":85632203,
     "wof:placetype":"region",

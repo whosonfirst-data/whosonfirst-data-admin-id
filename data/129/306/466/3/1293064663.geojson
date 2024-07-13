@@ -36,12 +36,17 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        102073147,
-        85672103
+        85672103,
+        102073147
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1631711
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7351397
+        ]
     },
     "wof:country":"ID",
     "wof:geomhash":"284fff901f11652cfebda674326e2cd4",
@@ -62,13 +67,15 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614635411,
+    "wof:lastmodified":1706239780,
     "wof:name":"Pelangan Tengah",
     "wof:parent_id":102073147,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293655735
+    ],
     "wof:tags":[]
 },
   "bbox": [

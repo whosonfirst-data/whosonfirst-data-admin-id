@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.259325,
-    "geom:area_square_m":3202303797.250675,
+    "geom:area_square_m":3202303797.250821,
     "geom:bbox":"119.010857,-3.32793,119.636551,-2.654432",
     "geom:latitude":-2.96492,
     "geom:longitude":119.306307,
@@ -43,6 +43,9 @@
     "name:ast_x_preferred":[
         "Mamasa"
     ],
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Mamasa"
+    ],
     "name:bar_x_preferred":[
         "Mamasa"
     ],
@@ -74,7 +77,8 @@
         "Mamasa"
     ],
     "name:eng_x_variant":[
-        "MAMASA"
+        "MAMASA",
+        "Mamasa Regency"
     ],
     "name:epo_x_preferred":[
         "Mamasa"
@@ -127,6 +131,9 @@
     "name:ind_x_preferred":[
         "Mamasa"
     ],
+    "name:ind_x_variant":[
+        "Kabupaten Mamasa"
+    ],
     "name:isl_x_preferred":[
         "Mamasa"
     ],
@@ -159,6 +166,9 @@
     ],
     "name:msa_x_preferred":[
         "Kabupaten Mamasa"
+    ],
+    "name:nan_x_preferred":[
+        "Mamasa Ko\u0101n"
     ],
     "name:nap_x_preferred":[
         "Mamasa"
@@ -288,11 +298,12 @@
         "hasc:id":"ID.SR.MA",
         "wd:id":"Q15347"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"dfa6400f88fa4158b4c63335c871797d",
+    "wof:geomhash":"5c079490cf30d6e09dfbad2fed5e0771",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -309,7 +320,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614717043,
+    "wof:lastmodified":1695886508,
     "wof:name":"Mamasa",
     "wof:parent_id":85672045,
     "wof:placetype":"county",

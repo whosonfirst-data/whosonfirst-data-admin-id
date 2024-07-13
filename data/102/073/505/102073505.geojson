@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.083031,
-    "geom:area_square_m":1019577091.249874,
+    "geom:area_square_m":1019577091.249882,
     "geom:bbox":"108.32357,-7.006303,108.832703,-6.51742",
     "geom:latitude":-6.748134,
     "geom:longitude":108.545168,
@@ -37,11 +37,17 @@
     "name:ara_x_preferred":[
         "\u0634\u064a\u0631\u064a\u0628\u0648\u0646"
     ],
+    "name:ara_x_variant":[
+        "\u0633\u064a\u0631\u0628\u0648\u0646"
+    ],
     "name:azb_x_preferred":[
         "\u0633\u06cc\u0631\u0626\u0628\u0648\u0646"
     ],
     "name:aze_x_preferred":[
         "Cirebon"
+    ],
+    "name:ban_x_preferred":[
+        "Kota Cirebon"
     ],
     "name:ben_x_preferred":[
         "\u09b8\u09bf\u09b0\u09c7\u09ac\u09a8"
@@ -50,6 +56,9 @@
         "Cirebon"
     ],
     "name:ceb_x_preferred":[
+        "Cirebon"
+    ],
+    "name:ces_x_preferred":[
         "Cirebon"
     ],
     "name:dan_x_preferred":[
@@ -61,8 +70,14 @@
     "name:ell_x_preferred":[
         "\u039a\u03b9\u03c1\u03b5\u03bc\u03c0\u03cc\u03bd"
     ],
+    "name:ell_x_variant":[
+        "\u03a4\u03c3\u03b9\u03c1\u03b5\u03bc\u03c0\u03cc\u03bd"
+    ],
     "name:eng_x_preferred":[
         "Cirebon"
+    ],
+    "name:eng_x_variant":[
+        "Cirebon City"
     ],
     "name:epo_x_preferred":[
         "Cirebon"
@@ -82,6 +97,9 @@
     "name:fra_x_preferred":[
         "Cirebon"
     ],
+    "name:gle_x_preferred":[
+        "Cirebon"
+    ],
     "name:guj_x_preferred":[
         "\u0ab8\u0abf\u0ab0\u0ac7\u0aac\u0acb\u0aa8"
     ],
@@ -96,6 +114,9 @@
     ],
     "name:ind_x_preferred":[
         "Cirebon"
+    ],
+    "name:ind_x_variant":[
+        "Kota Cirebon"
     ],
     "name:ita_x_preferred":[
         "Cirebon"
@@ -123,6 +144,12 @@
     ],
     "name:mar_x_preferred":[
         "\u0938\u093f\u0930\u0945\u092c\u094b\u0928"
+    ],
+    "name:mdf_x_preferred":[
+        "\u0427\u0438\u0440\u044d\u0431\u043e\u043d"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0427\u0438\u0440\u0435\u0431\u043e\u043d"
     ],
     "name:mlg_x_preferred":[
         "Kota Cirebon"
@@ -172,6 +199,9 @@
     "name:tam_x_preferred":[
         "\u0b9a\u0bbf\u0bb0\u0baa\u0bca\u0ba9\u0bcd"
     ],
+    "name:tat_x_preferred":[
+        "\u0427\u0438\u0440\u0435\u0431\u043e\u043d"
+    ],
     "name:tel_x_preferred":[
         "\u0c38\u0c3f\u0c30\u0c3f\u0c2c\u0c4b\u0c28\u0c4d"
     ],
@@ -190,6 +220,9 @@
     "name:urd_x_preferred":[
         "\u0633\u06cc\u0631\u06cc\u0628\u0648\u0646"
     ],
+    "name:vec_x_preferred":[
+        "Cirebon"
+    ],
     "name:vie_x_preferred":[
         "Cirebon"
     ],
@@ -201,6 +234,9 @@
     ],
     "name:zho_x_preferred":[
         "\u4e95\u88e1\u6c76"
+    ],
+    "name:zho_x_variant":[
+        "\u4e95\u91cc\u6c76"
     ],
     "qs:a0":"Indonesia",
     "qs:a0_lc":"IDN",
@@ -241,11 +277,12 @@
         "hasc:id":"ID.JR.CR",
         "wd:id":"Q10395"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"98ea80e670fe850a402a127e9d22202c",
+    "wof:geomhash":"30d58b804abbffabd3608df89940d62d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -262,7 +299,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1636502291,
+    "wof:lastmodified":1695886055,
     "wof:name":"Cirebon",
     "wof:parent_id":85671983,
     "wof:placetype":"county",

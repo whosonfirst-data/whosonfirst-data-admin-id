@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.105584,
-    "geom:area_square_m":1282753128.034371,
+    "geom:area_square_m":1282753128.034297,
     "geom:bbox":"122.631691,-11.00485,123.431679,-10.43462",
     "geom:latitude":-10.727579,
     "geom:longitude":123.119263,
@@ -31,6 +31,9 @@
     "mps:longitude":123.145627,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Rote Ndao"
+    ],
     "name:ceb_x_preferred":[
         "Kabupaten Rote Ndao"
     ],
@@ -41,13 +44,20 @@
         "Rote Ndao"
     ],
     "name:eng_x_variant":[
-        "ROTENDAO"
+        "ROTENDAO",
+        "Rote Ndao Regency"
     ],
     "name:fra_x_preferred":[
         "kabupaten de Rote Ndao"
     ],
+    "name:gle_x_preferred":[
+        "Rote Ndao"
+    ],
     "name:ind_x_preferred":[
         "Rote Ndao"
+    ],
+    "name:ind_x_variant":[
+        "Kabupaten Rote Ndao"
     ],
     "name:ita_x_preferred":[
         "Reggenza di Rote Ndao"
@@ -60,6 +70,12 @@
     ],
     "name:msa_x_preferred":[
         "Kabupaten Rote Ndao"
+    ],
+    "name:nan_x_preferred":[
+        "Rote Ndao Ko\u0101n"
+    ],
+    "name:pol_x_preferred":[
+        "Rote Ndao"
     ],
     "name:spa_x_preferred":[
         "Rote Ndao"
@@ -108,11 +124,12 @@
         "hasc:id":"ID.NT.RN",
         "wd:id":"Q14147"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6639fc147b19ceb511c53655ebc44f4d",
+    "wof:geomhash":"2e4b680357e72efb7704f5682d0d0ee5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -129,7 +146,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614720423,
+    "wof:lastmodified":1695886528,
     "wof:name":"Rote Ndao",
     "wof:parent_id":85672037,
     "wof:placetype":"county",

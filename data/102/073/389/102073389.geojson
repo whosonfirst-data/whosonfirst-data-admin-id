@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.049137,
-    "geom:area_square_m":607565290.808116,
+    "geom:area_square_m":607565290.808071,
     "geom:bbox":"117.005814,-0.554292,117.343002,-0.30387",
     "geom:latitude":-0.433496,
     "geom:longitude":117.183954,
     "iso:country":"ID",
+    "label:eng_x_preferred_longname":[
+        "Kota Samarinda Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":-0.41459,
     "lbl:longitude":117.195446,
     "meso:admin_1":"KALIMANTAN TIMUR",
@@ -56,11 +62,12 @@
     "wof:concordances":{
         "hasc:id":"ID.KI.SA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"eb28f108a30bed2ab873ab25f8666957",
+    "wof:geomhash":"ccc241b82ae31f3ec1b1ae870f265fcb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +84,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1627522197,
+    "wof:lastmodified":1695886676,
     "wof:name":"Kota Samarinda",
     "wof:parent_id":85671977,
     "wof:placetype":"county",

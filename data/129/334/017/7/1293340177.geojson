@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"106.51806,-6.23,106.51806,-6.23",
@@ -25,7 +27,7 @@
     "gn:timezone":"Asia/Jakarta",
     "iso:country":"ID",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":13.0,
     "name:fas_x_preferred":[
         "\u0633\u06cc\u06a9\u0648\u067e\u0627"
@@ -61,8 +63,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        102072687,
-        85671995
+        85671995,
+        102072687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -87,12 +89,14 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614651069,
+    "wof:lastmodified":1706239772,
     "wof:name":"Cikupa",
     "wof:parent_id":102072687,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1175612761
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

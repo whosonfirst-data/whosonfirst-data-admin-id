@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.366064,
-    "geom:area_square_m":16881957137.251392,
+    "geom:area_square_m":16881957137.249723,
     "geom:bbox":"113.609978,-3.452675,114.878967,-0.425005",
     "geom:latitude":-1.790686,
     "geom:longitude":114.287911,
@@ -31,6 +31,9 @@
     "mps:longitude":114.245303,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Kapuas"
+    ],
     "name:ceb_x_preferred":[
         "Kabupaten Kapuas"
     ],
@@ -44,12 +47,16 @@
         "Kapuas"
     ],
     "name:eng_x_variant":[
-        "KAPUAS"
+        "KAPUAS",
+        "Kapuas Regency"
     ],
     "name:fin_x_preferred":[
         "Kapuas"
     ],
     "name:fra_x_preferred":[
+        "Kapuas"
+    ],
+    "name:gle_x_preferred":[
         "Kapuas"
     ],
     "name:hin_x_preferred":[
@@ -60,6 +67,9 @@
     ],
     "name:ind_x_preferred":[
         "Kapuas"
+    ],
+    "name:ind_x_variant":[
+        "Kabupaten Kapuas"
     ],
     "name:ita_x_preferred":[
         "Reggenza di Kapuas"
@@ -72,6 +82,9 @@
     ],
     "name:msa_x_preferred":[
         "Kabupaten Kapuas"
+    ],
+    "name:nan_x_preferred":[
+        "Kapuas Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Bangkalan"
@@ -133,11 +146,12 @@
         "hasc:id":"ID.KT.KA",
         "wd:id":"Q14193"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"adc8c0a8edf02fa7dd08f16c34274a31",
+    "wof:geomhash":"2499a76988771a067bf94cbce20feb7b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -154,7 +168,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1636502293,
+    "wof:lastmodified":1695886057,
     "wof:name":"Kapuas",
     "wof:parent_id":85672063,
     "wof:placetype":"county",

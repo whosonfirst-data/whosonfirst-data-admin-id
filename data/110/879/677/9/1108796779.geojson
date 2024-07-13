@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.090785,
-    "geom:area_square_m":1121261946.2377,
+    "geom:area_square_m":1121261946.237536,
     "geom:bbox":"97.770561,2.594022,98.117142,3.00908",
     "geom:latitude":2.774499,
     "geom:longitude":97.932115,
@@ -32,8 +32,14 @@
     "name:ara_x_preferred":[
         "\u0633\u0648\u0628\u0648\u0644\u0648\u0633\u0627\u0644\u0627\u0645"
     ],
+    "name:ban_x_preferred":[
+        "Kota Subulussalam"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0421\u0443\u0431\u0443\u043b\u0443\u0441\u0430\u043b\u0430\u043c"
+    ],
+    "name:bel_x_variant":[
+        "\u0421\u0443\u0431\u0443\u043b\u0443\u0441\u0430\u043b\u0430\u043c"
     ],
     "name:ben_x_preferred":[
         "\u09b8\u09cb\u09ac\u09cb\u09b2\u09cb\u09b8\u09be\u09b2\u09be\u09ae"
@@ -54,7 +60,11 @@
         "Subulussalam"
     ],
     "name:eng_x_variant":[
-        "SUBULUSSALAM"
+        "SUBULUSSALAM",
+        "Subulussalam City"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0648\u0628\u0648\u0644\u0648\u0633\u0644\u0627\u0645"
     ],
     "name:fin_x_preferred":[
         "Subulussalam"
@@ -70,6 +80,9 @@
     ],
     "name:ind_x_preferred":[
         "Subulussalam"
+    ],
+    "name:ind_x_variant":[
+        "Kota Subulussalam"
     ],
     "name:ita_x_preferred":[
         "Subulussalam"
@@ -103,6 +116,9 @@
     ],
     "name:msa_x_preferred":[
         "Kota Subulussalam"
+    ],
+    "name:nan_x_preferred":[
+        "Subulussalam Chh\u012b"
     ],
     "name:nld_x_preferred":[
         "Subulussalam"
@@ -149,6 +165,9 @@
     "name:vie_x_preferred":[
         "Subulussalam"
     ],
+    "name:zho_x_preferred":[
+        "\u82cf\u5e03\u9c81\u8428\u5170"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -173,9 +192,10 @@
         "hasc:id":"ID.AC.SU",
         "wd:id":"Q5789"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:created":1482878476,
-    "wof:geomhash":"b55bcffc960eb2c734a3c00552e2c47d",
+    "wof:geomhash":"9236793e43105c0b76b7d956fc9854d3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -192,7 +212,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614722354,
+    "wof:lastmodified":1695886541,
     "wof:name":"Subulussalam",
     "wof:parent_id":85671973,
     "wof:placetype":"county",

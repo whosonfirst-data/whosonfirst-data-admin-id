@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":4.632526,
-    "geom:area_square_m":57120463737.469452,
+    "geom:area_square_m":57120463737.467323,
     "geom:bbox":"95.009331,2.00293,98.289146,5.90441",
     "geom:latitude":4.226379,
     "geom:longitude":96.907016,
@@ -125,6 +125,9 @@
     "name:ell_x_preferred":[
         "\u0386\u03c4\u03c3\u03b5\u03c7"
     ],
+    "name:ell_x_variant":[
+        "\u0391\u03c4\u03c3\u03ad"
+    ],
     "name:eng_ca_x_preferred":[
         "Aceh"
     ],
@@ -159,6 +162,9 @@
         "Aceh"
     ],
     "name:frp_x_preferred":[
+        "Aceh"
+    ],
+    "name:frr_x_preferred":[
         "Aceh"
     ],
     "name:fur_x_preferred":[
@@ -200,6 +206,12 @@
     "name:hun_x_preferred":[
         "Aceh"
     ],
+    "name:hye_x_preferred":[
+        "\u0531\u0579\u0565\u0570"
+    ],
+    "name:hyw_x_preferred":[
+        "\u0531\u0579\u0565\u0570 \u0546\u0561\u0570\u0561\u0576\u0563"
+    ],
     "name:ido_x_preferred":[
         "Aceh"
     ],
@@ -236,6 +248,9 @@
     "name:kat_x_preferred":[
         "\u10d0\u10e9\u10d4\u10f0\u10d8"
     ],
+    "name:khm_x_preferred":[
+        "\u1781\u17c1\u178f\u17d2\u178f\u17a2\u17b6\u1786\u17c1"
+    ],
     "name:kon_x_preferred":[
         "Aceh"
     ],
@@ -262,6 +277,9 @@
     ],
     "name:ltz_x_preferred":[
         "Aceh"
+    ],
+    "name:mad_x_preferred":[
+        "Ac\u00e8h"
     ],
     "name:mai_x_preferred":[
         "\u0906\u091a\u0947\u0939"
@@ -293,6 +311,9 @@
     "name:nan_x_preferred":[
         "Aceh"
     ],
+    "name:nan_x_variant":[
+        "Aceh S\u00e9ng"
+    ],
     "name:nap_x_preferred":[
         "Aceh"
     ],
@@ -316,6 +337,9 @@
     ],
     "name:oci_x_preferred":[
         "Aceh"
+    ],
+    "name:oss_x_preferred":[
+        "\u0410\u0447\u0435\u0445"
     ],
     "name:pam_x_preferred":[
         "Aceh"
@@ -346,6 +370,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0410\u0447\u0435\u0445"
+    ],
+    "name:sat_x_preferred":[
+        "\u1c5f\u1c6a\u1c6e\u1c66"
     ],
     "name:scn_x_preferred":[
         "Aceh"
@@ -560,17 +587,19 @@
         "gn:id":1215638,
         "gp:id":2345710,
         "hasc:id":"ID.AC",
+        "iso:code":"ID-AC",
         "iso:id":"ID-AC",
         "qs:id":1075575,
         "unlc:id":"ID-AC",
         "wd:id":"Q1823",
         "wk:page":"Aceh"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"580bc3f4300c8027fd995099044ee275",
+    "wof:geomhash":"0b77c617d5d546d6f419fc46df4bb48b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -586,7 +615,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1623173302,
+    "wof:lastmodified":1695884735,
     "wof:name":"Aceh",
     "wof:parent_id":85632203,
     "wof:placetype":"region",

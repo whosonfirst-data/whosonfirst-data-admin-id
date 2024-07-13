@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.245881,
-    "geom:area_square_m":3039327248.246303,
+    "geom:area_square_m":3039327248.246212,
     "geom:bbox":"119.282509,-1.838203,119.871407,-0.84947",
     "geom:latitude":-1.476206,
     "geom:longitude":119.506991,
@@ -54,6 +54,9 @@
     ],
     "name:ast_x_variant":[
         "Pasangkayu"
+    ],
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Pasangkayu"
     ],
     "name:bar_x_preferred":[
         "Mamuju Utara"
@@ -111,7 +114,8 @@
     ],
     "name:eng_x_variant":[
         "MAMUJU UTARA",
-        "Pasangkayu"
+        "Pasangkayu",
+        "Pasangkayu Regency"
     ],
     "name:epo_x_preferred":[
         "Mamuju Utara"
@@ -213,7 +217,8 @@
         "Mamuju Utara"
     ],
     "name:ind_x_variant":[
-        "Pasangkayu"
+        "Pasangkayu",
+        "Kabupaten Pasangkayu"
     ],
     "name:isl_x_preferred":[
         "Mamuju Utara"
@@ -277,6 +282,9 @@
     ],
     "name:msa_x_variant":[
         "Kabupaten Pasangkayu"
+    ],
+    "name:nan_x_preferred":[
+        "Pasangkayu Ko\u0101n"
     ],
     "name:nap_x_preferred":[
         "Mamuju Utara"
@@ -490,11 +498,12 @@
         "hasc:id":"ID.SR.MU",
         "wd:id":"Q15350"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e2ee411f519509219ff02a21d6cc0d74",
+    "wof:geomhash":"005eb1e8dddf08a8ddbd201b9e281851",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -511,7 +520,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614720764,
+    "wof:lastmodified":1695886529,
     "wof:name":"Mamuju Utara",
     "wof:parent_id":85672045,
     "wof:placetype":"county",

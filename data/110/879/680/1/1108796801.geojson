@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.269495,
-    "geom:area_square_m":3326216234.096973,
+    "geom:area_square_m":3326216234.097459,
     "geom:bbox":"116.71389,3.211095,117.835136,3.75707",
     "geom:latitude":3.47695,
     "geom:longitude":117.196727,
@@ -26,6 +26,9 @@
     "meso:name_local":"TANA TIDUNG",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Tana Tidung"
+    ],
     "name:ceb_x_preferred":[
         "Kabupaten Tana Tidung"
     ],
@@ -36,13 +39,20 @@
         "Tana Tidung"
     ],
     "name:eng_x_variant":[
-        "TANA TIDUNG"
+        "TANA TIDUNG",
+        "Tana Tidung Regency"
     ],
     "name:fra_x_preferred":[
         "kabupaten de Tana Tidung"
     ],
+    "name:gle_x_preferred":[
+        "Tana Tidung"
+    ],
     "name:ind_x_preferred":[
         "Tana Tidung"
+    ],
+    "name:ind_x_variant":[
+        "Kabupaten Tana Tidung"
     ],
     "name:ita_x_preferred":[
         "Reggenza di Tana Tidung"
@@ -55,6 +65,9 @@
     ],
     "name:msa_x_preferred":[
         "Kabupaten Tana Tidung"
+    ],
+    "name:nan_x_preferred":[
+        "Tana Tidung Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Tana Tidung"
@@ -98,9 +111,10 @@
         "hasc:id":"ID.KU.TT",
         "wd:id":"Q14487"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:created":1482878498,
-    "wof:geomhash":"30d1d623938ea92eb5335b5c252473b1",
+    "wof:geomhash":"948bd6f3e10cf5f476e26f9337413511",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -117,7 +131,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614722465,
+    "wof:lastmodified":1695886544,
     "wof:name":"Tana Tidung",
     "wof:parent_id":1108805993,
     "wof:placetype":"county",

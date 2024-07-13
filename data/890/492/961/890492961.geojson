@@ -9,13 +9,29 @@
     "geom:bbox":"112.4663,-8.2066,112.4663,-8.2066",
     "geom:latitude":-8.2066,
     "geom:longitude":112.4663,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Kalipare",
     "gn:country":"ID",
+    "gn:country_code":"ID",
+    "gn:dem":304,
     "gn:fcode":"PPLA3",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":7035120,
+    "gn:latitude":-8.2066,
+    "gn:longitude":112.4663,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Kalipare",
     "gn:pop":0,
+    "gn:population":0,
+    "gn:timezone":"Asia/Jakarta",
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ind_x_preferred":[
+        "Kalipare"
+    ],
     "qs:name":"Kalipare",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -24,14 +40,19 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        102073017,
-        85672027
+        85672027,
+        102073017
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1641881,
         "gp:id":90135270,
         "qs:id":1151902
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7035120
+        ]
     },
     "wof:country":"ID",
     "wof:created":1469054912,
@@ -53,14 +74,16 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614642211,
+    "wof:lastmodified":1706239770,
     "wof:name":"Kalipare",
     "wof:parent_id":102073017,
     "wof:placetype":"locality",
     "wof:population":0,
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1242859277
+    ],
     "wof:tags":[]
 },
   "bbox": [

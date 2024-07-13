@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016319,
-    "geom:area_square_m":199909960.529255,
+    "geom:area_square_m":199909960.529339,
     "geom:bbox":"112.47393,-7.94107,112.594749,-7.723878",
     "geom:latitude":-7.830868,
     "geom:longitude":112.532375,
@@ -34,6 +34,9 @@
     "name:ara_x_preferred":[
         "\u0628\u0627\u062a\u0648"
     ],
+    "name:ban_x_preferred":[
+        "Kota Batu"
+    ],
     "name:ben_x_preferred":[
         "\u09ac\u09be\u09a4\u09cb"
     ],
@@ -59,12 +62,22 @@
         "Batu"
     ],
     "name:eng_x_variant":[
-        "KOTA BATU"
+        "KOTA BATU",
+        "Batu City"
+    ],
+    "name:epo_x_preferred":[
+        "Batu"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u062a\u0648"
     ],
     "name:fin_x_preferred":[
         "Batu"
     ],
     "name:fra_x_preferred":[
+        "Batu"
+    ],
+    "name:gle_x_preferred":[
         "Batu"
     ],
     "name:gor_x_preferred":[
@@ -78,6 +91,9 @@
     ],
     "name:ind_x_preferred":[
         "Batu"
+    ],
+    "name:ind_x_variant":[
+        "Kota Batu"
     ],
     "name:ita_x_preferred":[
         "Batu"
@@ -99,6 +115,9 @@
     ],
     "name:lit_x_preferred":[
         "Batu"
+    ],
+    "name:mad_x_preferred":[
+        "Kotta Batu"
     ],
     "name:mar_x_preferred":[
         "\u092c\u091f\u0941"
@@ -145,6 +164,9 @@
     "name:tam_x_preferred":[
         "\u0baa\u0ba4\u0bcd\u0ba4\u0bc1"
     ],
+    "name:tat_x_preferred":[
+        "\u0411\u0430\u0442\u0443"
+    ],
     "name:tel_x_preferred":[
         "\u0c2c\u0c3e\u0c1f\u0c41"
     ],
@@ -159,6 +181,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0628\u0627\u062a\u0648"
+    ],
+    "name:vec_x_preferred":[
+        "Batu"
     ],
     "name:vie_x_preferred":[
         "Batu"
@@ -202,11 +227,12 @@
         "hasc:id":"ID.JI.BA",
         "wd:id":"Q11434"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d842e496d1aab726500448fc5ac81c8b",
+    "wof:geomhash":"2cbd6569308c100424d93d3111169f44",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -223,7 +249,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614719206,
+    "wof:lastmodified":1695886521,
     "wof:name":"Batu",
     "wof:parent_id":85672027,
     "wof:placetype":"county",

@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"115.4425,-8.5408,115.4425,-8.5408",
@@ -24,7 +26,7 @@
     "gn:timezone":"Asia/Makassar",
     "iso:country":"ID",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":13.0,
     "name:ceb_x_preferred":[
         "Dawan"
@@ -68,12 +70,14 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614715389,
+    "wof:lastmodified":1706239771,
     "wof:name":"Dawan",
     "wof:parent_id":102072703,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        890494077
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.127257,
-    "geom:area_square_m":1562398001.614857,
+    "geom:area_square_m":1562398001.615001,
     "geom:bbox":"107.740791,-7.040762,108.217514,-6.578678",
     "geom:latitude":-6.82535,
     "geom:longitude":107.981044,
@@ -40,6 +40,9 @@
     "name:azb_x_preferred":[
         "\u0633\u0648\u0645\u0626\u062f\u0627\u0646\u06af"
     ],
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Sumedang"
+    ],
     "name:ceb_x_preferred":[
         "Kabupaten Sumedang"
     ],
@@ -50,7 +53,8 @@
         "Sumedang"
     ],
     "name:eng_x_variant":[
-        "SUMEDANG"
+        "SUMEDANG",
+        "Sumedang Regency"
     ],
     "name:fas_x_preferred":[
         "\u0633\u0648\u0645\u062f\u0646\u06af"
@@ -58,8 +62,14 @@
     "name:fra_x_preferred":[
         "kabupaten de Sumedang"
     ],
+    "name:gle_x_preferred":[
+        "Sumedang"
+    ],
     "name:ind_x_preferred":[
         "Sumedang"
+    ],
+    "name:ind_x_variant":[
+        "Kabupaten Sumedang"
     ],
     "name:ita_x_preferred":[
         "Reggenza di Sumedang"
@@ -67,8 +77,14 @@
     "name:jav_x_preferred":[
         "Kabupat\u00e8n Sumedang"
     ],
+    "name:jav_x_variant":[
+        "Sumedang"
+    ],
     "name:jpn_x_preferred":[
         "\u30b9\u30e1\u30c0\u30f3\u770c"
+    ],
+    "name:nan_x_preferred":[
+        "Sumedang Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Sumedang"
@@ -85,11 +101,17 @@
     "name:sun_x_preferred":[
         "Kabupat\u00e9n Sumedang"
     ],
+    "name:sun_x_variant":[
+        "Sumedang"
+    ],
     "name:swe_x_preferred":[
         "Kabupaten Sumedang"
     ],
     "name:yue_x_preferred":[
         "Kota Pontianak"
+    ],
+    "name:zho_x_preferred":[
+        "\u53cc\u6728\u4e39\u53bf"
     ],
     "qs:a0":"Indonesia",
     "qs:a0_lc":"IDN",
@@ -127,11 +149,12 @@
         "hasc:id":"ID.JR.SD",
         "wd:id":"Q10382"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"0c2a90570774962d582c935f264fb281",
+    "wof:geomhash":"173e8bb1a970f89b9c797090c28cf129",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -148,7 +171,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614715963,
+    "wof:lastmodified":1695886501,
     "wof:name":"Sumedang",
     "wof:parent_id":85671983,
     "wof:placetype":"county",

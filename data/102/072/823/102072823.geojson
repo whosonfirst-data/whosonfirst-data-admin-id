@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.310965,
-    "geom:area_square_m":3844576643.841458,
+    "geom:area_square_m":3844576643.842545,
     "geom:bbox":"120.848244,0.678653,122.190147,1.30471",
     "geom:latitude":0.977999,
     "geom:longitude":121.378988,
@@ -43,6 +43,9 @@
     "name:ast_x_preferred":[
         "Buol"
     ],
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Buol"
+    ],
     "name:bar_x_preferred":[
         "Buol"
     ],
@@ -74,7 +77,8 @@
         "Buol"
     ],
     "name:eng_x_variant":[
-        "BUOL"
+        "BUOL",
+        "Buol Regency"
     ],
     "name:epo_x_preferred":[
         "Buol"
@@ -106,6 +110,9 @@
     "name:glg_x_preferred":[
         "Buol"
     ],
+    "name:gor_x_preferred":[
+        "Kabupaten Buol"
+    ],
     "name:gsw_x_preferred":[
         "Buol"
     ],
@@ -126,6 +133,9 @@
     ],
     "name:ind_x_preferred":[
         "Buol"
+    ],
+    "name:ind_x_variant":[
+        "Kabupaten Buol"
     ],
     "name:isl_x_preferred":[
         "Buol"
@@ -159,6 +169,9 @@
     ],
     "name:msa_x_preferred":[
         "Buol"
+    ],
+    "name:nan_x_preferred":[
+        "Buol Ko\u0101n"
     ],
     "name:nap_x_preferred":[
         "Buol"
@@ -286,11 +299,12 @@
         "hasc:id":"ID.ST.BT",
         "wd:id":"Q15813"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"271050802d754c22bb01022dc29d1c59",
+    "wof:geomhash":"54b99fc487a789fbb59adc5b3a6da385",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -307,7 +321,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614716522,
+    "wof:lastmodified":1695886505,
     "wof:name":"Buol",
     "wof:parent_id":85672111,
     "wof:placetype":"county",

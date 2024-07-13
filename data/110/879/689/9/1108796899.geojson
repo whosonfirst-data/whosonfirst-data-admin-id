@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.409653,
-    "geom:area_square_m":5055715699.44207,
+    "geom:area_square_m":5055715699.442198,
     "geom:bbox":"137.423199,-4.020776,138.119791,-3.014592",
     "geom:latitude":-3.542473,
     "geom:longitude":137.829932,
@@ -38,6 +38,9 @@
     "name:ast_x_preferred":[
         "Puncak Jaya"
     ],
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Puncak Jaya"
+    ],
     "name:bar_x_preferred":[
         "Puncak Jaya"
     ],
@@ -69,7 +72,8 @@
         "Puncak Jaya"
     ],
     "name:eng_x_variant":[
-        "PUNCAK JAYA"
+        "PUNCAK JAYA",
+        "Puncak Jaya Regency"
     ],
     "name:epo_x_preferred":[
         "Puncak Jaya"
@@ -122,6 +126,9 @@
     "name:ind_x_preferred":[
         "Puncak Jaya"
     ],
+    "name:ind_x_variant":[
+        "Kabupaten Puncak Jaya"
+    ],
     "name:isl_x_preferred":[
         "Puncak Jaya"
     ],
@@ -130,6 +137,9 @@
     ],
     "name:jav_x_preferred":[
         "Puncak Jaya"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d7\u30f3\u30c1\u30e3\u30c3\u30af\u30fb\u30b8\u30e3\u30e4\u770c"
     ],
     "name:kon_x_preferred":[
         "Puncak Jaya"
@@ -151,6 +161,9 @@
     ],
     "name:msa_x_preferred":[
         "Kabupaten Puncak Jaya"
+    ],
+    "name:nan_x_preferred":[
+        "Puncak Jaya Ko\u0101n"
     ],
     "name:nap_x_preferred":[
         "Puncak Jaya"
@@ -218,6 +231,9 @@
     "name:swe_x_preferred":[
         "Puncak Jaya"
     ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0443\u043d\u0447\u0430\u043a-\u0414\u0436\u0430\u044f"
+    ],
     "name:vec_x_preferred":[
         "Puncak Jaya"
     ],
@@ -238,6 +254,9 @@
     ],
     "name:zho_x_preferred":[
         "\u67e5\u4e9e\u5cf0\u5340"
+    ],
+    "name:zho_x_variant":[
+        "\u67e5\u4e9e\u5cf0\u7e23"
     ],
     "name:zul_x_preferred":[
         "Puncak Jaya"
@@ -266,9 +285,10 @@
         "hasc:id":"ID.PA.PC",
         "wd:id":"Q27771"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:created":1482878584,
-    "wof:geomhash":"15c2366124ef28365038f047fe4522bf",
+    "wof:geomhash":"98c9b6e5f00ae87693d7ad68a5839ed9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -285,7 +305,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614722805,
+    "wof:lastmodified":1695886550,
     "wof:name":"Puncak Jaya",
     "wof:parent_id":85672115,
     "wof:placetype":"county",

@@ -33,12 +33,17 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        102072913,
-        85671987
+        85671987,
+        102072913
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1989284
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6743067
+        ]
     },
     "wof:country":"ID",
     "wof:geomhash":"4dc221b087220fde4f303e7d3af0d226",
@@ -59,13 +64,15 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614636433,
+    "wof:lastmodified":1706239780,
     "wof:name":"Kalibedah",
     "wof:parent_id":102072913,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309796817
+    ],
     "wof:tags":[]
 },
   "bbox": [

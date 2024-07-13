@@ -10,6 +10,7 @@
     "geom:latitude":-0.186641,
     "geom:longitude":100.582549,
     "gn:population":121572,
+    "gp:adm0":23424846,
     "iso:country":"ID",
     "lbl:latitude":-0.22531,
     "lbl:longitude":100.630345,
@@ -17,14 +18,21 @@
     "mps:longitude":100.630326,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:afr_x_preferred":[
         "Payakumbuh"
     ],
     "name:ara_x_preferred":[
         "\u0628\u0627\u064a\u0627\u0643\u0648\u0645\u0628\u0648"
     ],
+    "name:ban_x_preferred":[
+        "Kota Payakumbuh"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041f\u0430\u044f\u043a\u0443\u043c\u0431\u0443\u0445"
+    ],
+    "name:bel_x_variant":[
+        "\u041f\u0430\u044f\u043a\u0443\u043c\u0431\u0443\u0445"
     ],
     "name:cat_x_preferred":[
         "Payakumbuh"
@@ -38,11 +46,23 @@
     "name:eng_x_preferred":[
         "Payakumbuh"
     ],
+    "name:eng_x_variant":[
+        "Payakumbuh City"
+    ],
+    "name:epo_x_preferred":[
+        "Pajakumbuh"
+    ],
     "name:fas_x_preferred":[
         "\u067e\u0627\u06cc\u0627\u06a9\u0648\u0645\u0628\u0648\u0634"
     ],
     "name:fra_x_preferred":[
         "Payakumbuh"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d0\u05d9\u05d0\u05e7\u05d5\u05de\u05d1\u05d5\u05d4"
+    ],
+    "name:hye_x_preferred":[
+        "\u054a\u0561\u0575\u0561\u056f\u0578\u0582\u0574\u0562\u0578\u0582\u0570"
     ],
     "name:ind_x_preferred":[
         "Kota Payakumbuh"
@@ -65,6 +85,12 @@
     "name:kor_x_preferred":[
         "\ud30c\uc57c\ucff0\ubd80"
     ],
+    "name:mad_x_preferred":[
+        "Kotta Payakumbuh"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d2a\u0d2f\u0d15\u0d41\u0d2e\u0d4d\u0d2a\u0d41"
+    ],
     "name:min_x_preferred":[
         "Kota Payakumbuh"
     ],
@@ -76,6 +102,9 @@
     ],
     "name:msa_x_preferred":[
         "Payakumbuh"
+    ],
+    "name:nan_x_preferred":[
+        "Payakumbuh Chh\u012b"
     ],
     "name:nld_x_preferred":[
         "Payakumbuh"
@@ -101,6 +130,9 @@
     "name:swe_x_preferred":[
         "Payakumbuh"
     ],
+    "name:tat_x_preferred":[
+        "\u041f\u0430\u044f\u043a\u0443\u043c\u0431\u0443\u04bb"
+    ],
     "name:tur_x_preferred":[
         "Payakumbuh"
     ],
@@ -109,6 +141,9 @@
     ],
     "name:urd_x_preferred":[
         "\u067e\u0627\u06cc\u0627\u06a9\u0648\u0645\u0628\u0648\u06c1"
+    ],
+    "name:vec_x_preferred":[
+        "Payakumbuh"
     ],
     "name:vie_x_preferred":[
         "Payakumbuh"
@@ -129,7 +164,18 @@
     "qs:loc":"Payakumbuh",
     "qs:loc_alt":"Kota Payakumbuh",
     "qs:loc_lc":"1631905",
+    "qs:name":"Payakumbuh",
+    "qs:name_adm0":"Indonesia",
+    "qs:name_adm1":"Sumatera Barat",
+    "qs:photos":27,
+    "qs:photos_1k":5,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":27,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
     "qs:pop":0,
+    "qs:pop_sr":"0",
     "qs:source":"Nquattroshapes",
     "qs:type":"County",
     "src:geom":"whosonfirst",
@@ -139,6 +185,7 @@
     "src:geom_via":"quattroshapes",
     "src:lbl:centroid":"mapshaper",
     "src:population":"geonames",
+    "wd:wordcount":531,
     "wof:belongsto":[
         102191569,
         85632203,
@@ -152,6 +199,20 @@
         "qs:id":478585,
         "wd:id":"Q7261",
         "wk:page":"Payakumbuh"
+    },
+    "wof:concordances_alt":{
+        "gp:id":[
+            1040691
+        ],
+        "qs:id":[
+            1105916
+        ],
+        "wd:id":[
+            "Q7261"
+        ],
+        "wk:page":[
+            "Payakumbuh"
+        ]
     },
     "wof:country":"ID",
     "wof:geom_alt":[
@@ -175,7 +236,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614713032,
+    "wof:lastmodified":1706239766,
     "wof:name":"Payakumbuh",
     "wof:parent_id":102073381,
     "wof:placetype":"locality",
@@ -183,7 +244,9 @@
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        890498595
+    ],
     "wof:tags":[]
 },
   "bbox": [

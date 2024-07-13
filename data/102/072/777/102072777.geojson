@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.242083,
-    "geom:area_square_m":2962002102.037039,
+    "geom:area_square_m":2962002102.0374,
     "geom:bbox":"123.79866,-8.5507,125.131531,-8.11957",
     "geom:latitude":-8.305739,
     "geom:longitude":124.557734,
@@ -31,6 +31,9 @@
     "mps:longitude":124.726731,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Alor"
+    ],
     "name:ceb_x_preferred":[
         "Kabupaten Alor"
     ],
@@ -45,7 +48,8 @@
     ],
     "name:eng_x_variant":[
         "ALOR",
-        "Tulang Bawang"
+        "Tulang Bawang",
+        "Alor Regency"
     ],
     "name:fas_x_preferred":[
         "\u0622\u0644\u0648\u0631"
@@ -55,6 +59,9 @@
     ],
     "name:fra_x_preferred":[
         "kabupaten d'Alor"
+    ],
+    "name:gle_x_preferred":[
+        "Alor"
     ],
     "name:gor_x_preferred":[
         "Kabupaten Alor"
@@ -71,6 +78,9 @@
     "name:ind_x_preferred":[
         "Alor"
     ],
+    "name:ind_x_variant":[
+        "Kabupaten Alor"
+    ],
     "name:ita_x_preferred":[
         "Reggenza di Alor"
     ],
@@ -85,6 +95,9 @@
     ],
     "name:msa_x_preferred":[
         "Kabupaten Alor"
+    ],
+    "name:nan_x_preferred":[
+        "Alor Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Alor"
@@ -143,11 +156,12 @@
         "hasc:id":"ID.NT.AL",
         "wd:id":"Q14131"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6dec77e624688db814e8b6f8b71a5f9d",
+    "wof:geomhash":"7f48521260e292a1dcec51fb27f8f21b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -164,7 +178,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1636502310,
+    "wof:lastmodified":1695886062,
     "wof:name":"Alor",
     "wof:parent_id":85672037,
     "wof:placetype":"county",

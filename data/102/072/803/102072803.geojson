@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.5619,
-    "geom:area_square_m":6844977692.31827,
+    "geom:area_square_m":6844977692.318314,
     "geom:bbox":"119.67466,-10.34119,120.825417,-9.28373",
     "geom:latitude":-9.87706,
     "geom:longitude":120.244703,
@@ -31,6 +31,9 @@
     "mps:longitude":120.283611,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Sumba Timur"
+    ],
     "name:ceb_x_preferred":[
         "Kabupaten Sumba Timur"
     ],
@@ -41,13 +44,20 @@
         "Sumba Timur"
     ],
     "name:eng_x_variant":[
-        "SUMBA TIMUR"
+        "SUMBA TIMUR",
+        "East Sumba Regency"
     ],
     "name:fra_x_preferred":[
         "kabupaten de Sumba oriental"
     ],
+    "name:gle_x_preferred":[
+        "Sumba Thoir"
+    ],
     "name:ind_x_preferred":[
         "Sumba Timur"
+    ],
+    "name:ind_x_variant":[
+        "Kabupaten Sumba Timur"
     ],
     "name:ita_x_preferred":[
         "Reggenza di Sumba Orientale"
@@ -60,6 +70,9 @@
     ],
     "name:msa_x_preferred":[
         "Kabupaten Sumba Timur"
+    ],
+    "name:nan_x_preferred":[
+        "Tang Sumba Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Oost-Soemba"
@@ -111,11 +124,12 @@
         "hasc:id":"ID.NT.ST",
         "wd:id":"Q14139"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"189b4fd5291a10b18e340edbf004bf84",
+    "wof:geomhash":"979a8a6bf798f8f72f44947e37f6367b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -132,7 +146,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614716351,
+    "wof:lastmodified":1695886503,
     "wof:name":"Sumba Timur",
     "wof:parent_id":85672037,
     "wof:placetype":"county",

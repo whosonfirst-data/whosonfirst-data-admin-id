@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.388959,
-    "geom:area_square_m":4801432267.825694,
+    "geom:area_square_m":4801432267.825782,
     "geom:bbox":"126.053189,-3.640999,127.266861,-3.05473",
     "geom:latitude":-3.316155,
     "geom:longitude":126.730478,
@@ -26,6 +26,9 @@
     "meso:name_local":"BURU",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Buru"
+    ],
     "name:ben_x_preferred":[
         "\u09ac\u09c1\u09b0\u09c1"
     ],
@@ -39,7 +42,8 @@
         "Buru"
     ],
     "name:eng_x_variant":[
-        "BURU"
+        "BURU",
+        "Buru Regency"
     ],
     "name:est_x_preferred":[
         "Buru regentkond"
@@ -49,6 +53,9 @@
     ],
     "name:ind_x_preferred":[
         "Buru"
+    ],
+    "name:ind_x_variant":[
+        "Kabupaten Buru"
     ],
     "name:ita_x_preferred":[
         "Reggenza di Buru"
@@ -62,11 +69,20 @@
     "name:msa_x_preferred":[
         "Kabupaten Buru"
     ],
+    "name:msa_x_variant":[
+        "Daerah Buru"
+    ],
+    "name:nan_x_preferred":[
+        "Buru Ko\u0101n"
+    ],
     "name:nld_x_preferred":[
         "Buru"
     ],
     "name:spa_x_preferred":[
         "Buru"
+    ],
+    "name:sun_x_preferred":[
+        "Kabupaten Buru"
     ],
     "name:swe_x_preferred":[
         "Kabupaten Buru"
@@ -107,9 +123,10 @@
         "hasc:id":"ID.MA.BR",
         "wd:id":"Q16564"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:created":1482878511,
-    "wof:geomhash":"1e863324a5ab68d5500c925dfa192a3b",
+    "wof:geomhash":"3a8750b7ab434a5354b5552d4687bba1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -126,7 +143,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1636502404,
+    "wof:lastmodified":1695886063,
     "wof:name":"Buru",
     "wof:parent_id":85672085,
     "wof:placetype":"county",

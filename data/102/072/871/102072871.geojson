@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008113,
-    "geom:area_square_m":99299641.902148,
+    "geom:area_square_m":99299641.902189,
     "geom:bbox":"113.639542,-8.217561,113.758759,-8.080274",
     "geom:latitude":-8.162733,
     "geom:longitude":113.704196,
     "iso:country":"ID",
+    "label:eng_x_preferred_longname":[
+        "Kota Jember Regency"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "regency"
+    ],
     "lbl:latitude":-8.16612,
     "lbl:longitude":113.71006,
     "meso:admin_1":"JAWA TIMUR",
@@ -47,18 +53,32 @@
         "quattroshapes"
     ],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population_date":"2010-05-15",
+    "statoids:areakm":3092,
+    "statoids:capital":"Jember",
+    "statoids:country":"ID",
+    "statoids:date":"2010-05-15",
+    "statoids:hasc":"ID.JI.JE",
+    "statoids:name":"Jember",
+    "statoids:population":2332726,
+    "statoids:statoid":"ID.JI",
+    "statoids:timezone":"+7",
+    "statoids:type":"regency",
     "wof:belongsto":[
         102191569,
         85632203,
         85672027
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"ID.JI.JE"
+    },
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f7ebf953414e7f7710eabae63abeaffa",
+    "wof:geomhash":"addf435163e1958cbe4a089d965edb85",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -75,10 +95,12 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1627522194,
+    "wof:lastmodified":1695886673,
     "wof:name":"Kota Jember",
     "wof:parent_id":85672027,
     "wof:placetype":"county",
+    "wof:population":2332726,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.100856,
-    "geom:area_square_m":1243516836.359909,
+    "geom:area_square_m":1243516836.360101,
     "geom:bbox":"102.796532,-4.558427,103.28833,-4.158695",
     "geom:latitude":-4.349424,
     "geom:longitude":103.021842,
@@ -34,6 +34,9 @@
     "name:ace_x_preferred":[
         "Kabupaten Bengkulu Seulatan"
     ],
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Bengkulu Selatan"
+    ],
     "name:ceb_x_preferred":[
         "Kabupaten Bengkulu Selatan"
     ],
@@ -44,13 +47,20 @@
         "Bengkulu Selatan"
     ],
     "name:eng_x_variant":[
-        "BENGKULU SELATAN"
+        "BENGKULU SELATAN",
+        "South Bengkulu Regency"
     ],
     "name:fra_x_preferred":[
         "Bengkulu Selatan"
     ],
+    "name:gle_x_preferred":[
+        "Bengkulu Theas"
+    ],
     "name:ind_x_preferred":[
         "Bengkulu Selatan"
+    ],
+    "name:ind_x_variant":[
+        "Kabupaten Bengkulu Selatan"
     ],
     "name:ita_x_preferred":[
         "Bengkulu del Sud"
@@ -58,14 +68,26 @@
     "name:jav_x_preferred":[
         "Kabupat\u00e8n Bengkulu Kidul"
     ],
+    "name:jav_x_variant":[
+        "Bengkulu Kidul"
+    ],
     "name:jpn_x_preferred":[
         "\u5357\u30d6\u30f3\u30af\u30eb\u770c"
+    ],
+    "name:min_x_preferred":[
+        "Kabupaten Bengkulu Selatan"
     ],
     "name:msa_x_preferred":[
         "Bengkulu Selatan"
     ],
+    "name:nan_x_preferred":[
+        "L\u00e2m Bengkulu Ko\u0101n"
+    ],
     "name:nld_x_preferred":[
         "Bengkulu Selatan"
+    ],
+    "name:nld_x_variant":[
+        "Zuid-Bengkulu"
     ],
     "name:rus_x_preferred":[
         "\u042e\u0436\u043d\u044b\u0439 \u0411\u0435\u043d\u043a\u0443\u043b\u0443"
@@ -78,6 +100,9 @@
     ],
     "name:swe_x_preferred":[
         "Kabupaten Bengkulu Selatan"
+    ],
+    "name:zho_x_preferred":[
+        "\u5357\u660e\u53e4\u9c81\u53bf"
     ],
     "qs:a0":"Indonesia",
     "qs:a0_lc":"IDN",
@@ -114,11 +139,12 @@
         "hasc:id":"ID.BE.BS",
         "wd:id":"Q8040"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"64595e4b8ce307a8722c45fd026d5041",
+    "wof:geomhash":"f4bc1099d804dd004b6850a9544b4e99",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -135,7 +161,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614716639,
+    "wof:lastmodified":1695886506,
     "wof:name":"Bengkulu Selatan",
     "wof:parent_id":85671991,
     "wof:placetype":"county",

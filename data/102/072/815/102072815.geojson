@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.03513,
-    "geom:area_square_m":433609535.079106,
+    "geom:area_square_m":433609535.079135,
     "geom:bbox":"104.119957,-3.583592,104.350693,-3.314621",
     "geom:latitude":-3.44291,
     "geom:longitude":104.225515,
@@ -37,6 +37,9 @@
     "name:ara_x_preferred":[
         "\u0628\u0631\u0627\u064a\u0648\u0645\u0648\u0644\u064a\u0647"
     ],
+    "name:ban_x_preferred":[
+        "Kota Prabumulih"
+    ],
     "name:cat_x_preferred":[
         "Prabumulih"
     ],
@@ -50,16 +53,29 @@
         "Prabumulih"
     ],
     "name:eng_x_variant":[
-        "KOTA PRABUMULIH"
+        "KOTA PRABUMULIH",
+        "Prabumulih City"
+    ],
+    "name:epo_x_preferred":[
+        "Prabumulih"
     ],
     "name:fas_x_preferred":[
         "\u067e\u0631\u0627\u0628\u0648\u0645\u0648\u0644\u06cc\u062d"
     ],
+    "name:fin_x_preferred":[
+        "Prabumulih"
+    ],
     "name:fra_x_preferred":[
+        "Prabumulih"
+    ],
+    "name:gle_x_preferred":[
         "Prabumulih"
     ],
     "name:ind_x_preferred":[
         "Prabumulih"
+    ],
+    "name:ind_x_variant":[
+        "Kota Prabumulih"
     ],
     "name:ita_x_preferred":[
         "Prabumulih"
@@ -73,11 +89,17 @@
     "name:kor_x_preferred":[
         "\ud504\ub77c\ubd80\ubb3c\ub9ac"
     ],
+    "name:min_x_preferred":[
+        "Kota Prabumulih"
+    ],
     "name:mlg_x_preferred":[
         "Kota Prabumulih"
     ],
     "name:msa_x_preferred":[
         "Prabumulih"
+    ],
+    "name:nan_x_preferred":[
+        "Prabumulih Chh\u012b"
     ],
     "name:nld_x_preferred":[
         "Prabumulih"
@@ -106,11 +128,17 @@
     "name:swe_x_preferred":[
         "Prabumulih"
     ],
+    "name:tat_x_preferred":[
+        "\u041f\u0440\u0430\u0431\u0443\u043c\u0443\u043b\u0438\u04bb"
+    ],
     "name:tur_x_preferred":[
         "Prabumulih"
     ],
     "name:urd_x_preferred":[
         "\u067e\u0631\u0627\u0628\u0648\u0645\u0648\u0644\u06cc\u06c1"
+    ],
+    "name:vec_x_preferred":[
+        "Prabumulih"
     ],
     "name:vie_x_preferred":[
         "Prabumulih"
@@ -154,11 +182,12 @@
         "hasc:id":"ID.SL.PR",
         "wd:id":"Q8133"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"2bb091d25ab2c3254dc4796027f2bacc",
+    "wof:geomhash":"36364f8c3497b05bc2ea11fd189ccfc5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -175,7 +204,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614716421,
+    "wof:lastmodified":1695886504,
     "wof:name":"Prabumulih",
     "wof:parent_id":85672013,
     "wof:placetype":"county",

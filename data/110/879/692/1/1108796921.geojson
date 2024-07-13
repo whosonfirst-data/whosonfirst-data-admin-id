@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.027731,
-    "geom:area_square_m":12707874320.498318,
+    "geom:area_square_m":12707874320.498323,
     "geom:bbox":"101.510368,-0.408354,103.356613,0.724765",
     "geom:latitude":0.207138,
     "geom:longitude":102.274927,
@@ -37,6 +37,9 @@
     ],
     "name:ast_x_preferred":[
         "Pelalawan"
+    ],
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Pelalawan"
     ],
     "name:bar_x_preferred":[
         "Pelalawan"
@@ -72,7 +75,8 @@
         "Pelalawan"
     ],
     "name:eng_x_variant":[
-        "PELALAWAN"
+        "PELALAWAN",
+        "Pelalawan Regency"
     ],
     "name:epo_x_preferred":[
         "Pelalawan"
@@ -125,6 +129,9 @@
     "name:ind_x_preferred":[
         "Pelalawan"
     ],
+    "name:ind_x_variant":[
+        "Kabupaten Pelalawan"
+    ],
     "name:isl_x_preferred":[
         "Pelalawan"
     ],
@@ -154,6 +161,9 @@
     ],
     "name:msa_x_preferred":[
         "Pelalawan"
+    ],
+    "name:nan_x_preferred":[
+        "Pelalawan Ko\u0101n"
     ],
     "name:nap_x_preferred":[
         "Pelalawan"
@@ -269,9 +279,10 @@
         "hasc:id":"ID.RI.PE",
         "wd:id":"Q7641"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:created":1482878600,
-    "wof:geomhash":"1693ec2b70781d5bae276ed5307d9ecc",
+    "wof:geomhash":"b2074f817e12229f7db53a743d43ed8c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -288,7 +299,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614722879,
+    "wof:lastmodified":1695886551,
     "wof:name":"Pelalawan",
     "wof:parent_id":85672077,
     "wof:placetype":"county",

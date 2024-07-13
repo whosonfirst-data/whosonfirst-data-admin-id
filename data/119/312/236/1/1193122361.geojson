@@ -30,12 +30,17 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        102072849,
-        85672027
+        85672027,
+        102072849
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1970191
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1970130
+        ]
     },
     "wof:country":"ID",
     "wof:geomhash":"ef320513c067edf350c91bbef4bbf774",
@@ -56,13 +61,15 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614652654,
+    "wof:lastmodified":1706239772,
     "wof:name":"Kramatandap",
     "wof:parent_id":102072849,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1193133725
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.091132,
-    "geom:area_square_m":1126737092.053223,
+    "geom:area_square_m":1126737092.052987,
     "geom:bbox":"134.305725,-1.14084,135.86375,0.9263",
     "geom:latitude":-0.835709,
     "geom:longitude":135.393843,
     "iso:country":"ID",
+    "label:eng_x_preferred_longname":[
+        "Supiori Regency"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "regency"
+    ],
     "lbl:latitude":-0.78096,
     "lbl:longitude":135.635282,
     "meso:admin_1":"PAPUA",
@@ -36,6 +42,9 @@
     ],
     "name:ast_x_preferred":[
         "Supiori"
+    ],
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Supiori"
     ],
     "name:bar_x_preferred":[
         "Supiori"
@@ -68,7 +77,8 @@
         "Supiori"
     ],
     "name:eng_x_variant":[
-        "SUPIORI"
+        "SUPIORI",
+        "Supiori Regency"
     ],
     "name:epo_x_preferred":[
         "Supiori"
@@ -121,6 +131,9 @@
     "name:ind_x_preferred":[
         "Supiori"
     ],
+    "name:ind_x_variant":[
+        "Kabupaten Supiori"
+    ],
     "name:isl_x_preferred":[
         "Supiori"
     ],
@@ -129,6 +142,9 @@
     ],
     "name:jav_x_preferred":[
         "Supiori"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b9\u30d4\u30aa\u30ea\u770c"
     ],
     "name:kon_x_preferred":[
         "Supiori"
@@ -150,6 +166,9 @@
     ],
     "name:msa_x_preferred":[
         "Kabupaten Supiori"
+    ],
+    "name:nan_x_preferred":[
+        "Supiori Ko\u0101n"
     ],
     "name:nap_x_preferred":[
         "Supiori"
@@ -265,11 +284,12 @@
         "hasc:id":"ID.PA.SU\t",
         "wd:id":"Q27793"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"af4e7615c9a0e638490f03b7b4a3e32a",
+    "wof:geomhash":"0aacf965981badbc6ef57ba508bddf45",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -286,7 +306,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614717825,
+    "wof:lastmodified":1695886512,
     "wof:name":"Supiori",
     "wof:parent_id":85672115,
     "wof:placetype":"county",

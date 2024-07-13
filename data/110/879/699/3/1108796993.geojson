@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011229,
-    "geom:area_square_m":138805197.01678,
+    "geom:area_square_m":138805197.016825,
     "geom:bbox":"99.135664,1.262082,99.320984,1.40217",
     "geom:latitude":1.345571,
     "geom:longitude":99.238002,
@@ -40,6 +40,9 @@
     ],
     "name:ast_x_preferred":[
         "Padangsidimpuan"
+    ],
+    "name:ban_x_preferred":[
+        "Kota Padangsidempuan"
     ],
     "name:bar_x_preferred":[
         "Padangsidimpuan"
@@ -78,7 +81,8 @@
         "Padang Sidempuan"
     ],
     "name:eng_x_variant":[
-        "PADANG SIDEMPUAN"
+        "PADANG SIDEMPUAN",
+        "Padang Sidempuan City"
     ],
     "name:epo_x_preferred":[
         "Padangsidimpuan"
@@ -140,6 +144,9 @@
     "name:ind_x_preferred":[
         "Padangsidimpuan"
     ],
+    "name:ind_x_variant":[
+        "Kota Padang Sidempuan"
+    ],
     "name:isl_x_preferred":[
         "Padangsidimpuan"
     ],
@@ -182,11 +189,17 @@
     "name:min_x_preferred":[
         "Padangsidimpuan"
     ],
+    "name:min_x_variant":[
+        "Padang Sidempuan"
+    ],
     "name:mlg_x_preferred":[
         "Kota Padang Sidempuan"
     ],
     "name:msa_x_preferred":[
         "Kota Padang Sidempuan"
+    ],
+    "name:nan_x_preferred":[
+        "Padang Sidempuan Chh\u012b"
     ],
     "name:nap_x_preferred":[
         "Padangsidimpuan"
@@ -263,6 +276,12 @@
     "name:tam_x_preferred":[
         "\u0baa\u0bbe\u0b9f\u0bbe\u0b99\u0bcd  \u0bb8\u0bbf\u0b9f\u0bc6\u0bae\u0bcd\u0baa\u0bc1\u0ba3\u0bcd"
     ],
+    "name:tam_x_variant":[
+        "\u0baa\u0bbe\u0b9f\u0bbe\u0b99\u0bcd \u0bb8\u0bbf\u0b9f\u0bc6\u0bae\u0bcd\u0baa\u0bc1\u0ba3\u0bcd"
+    ],
+    "name:tat_x_preferred":[
+        "\u041f\u0430\u0434\u0430\u04a3\u0441\u0438\u0434\u0435\u043c\u043f\u0443\u0430\u043d"
+    ],
     "name:tel_x_preferred":[
         "\u0c2a\u0c21\u0c3e\u0c02\u0c17\u0c4d \u0c38\u0c3f\u0c26\u0c46\u0c02\u0c2a\u0c41\u0c32\u0c28\u0c4d"
     ],
@@ -296,6 +315,9 @@
     "name:wol_x_preferred":[
         "Padangsidimpuan"
     ],
+    "name:yue_x_preferred":[
+        "\u5df4\u6771\u77f3\u6797\u6f58"
+    ],
     "name:zho_x_preferred":[
         "\u5df4\u6771\u77f3\u6797\u6f58"
     ],
@@ -326,9 +348,10 @@
         "hasc:id":"ID.SU.PD",
         "wd:id":"Q5974"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:created":1482878653,
-    "wof:geomhash":"d5ed1844f815bf337757ae00186cbcf3",
+    "wof:geomhash":"7fdeefc4118448c397975abcf9557de5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -345,7 +368,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614723089,
+    "wof:lastmodified":1695886557,
     "wof:name":"Padang Sidempuan",
     "wof:parent_id":85672073,
     "wof:placetype":"county",

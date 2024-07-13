@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.017657,
-    "geom:area_square_m":37041058730.71814,
+    "geom:area_square_m":37041058730.71801,
     "geom:bbox":"106.373772,-7.81607,108.832703,-5.91357",
     "geom:latitude":-6.920442,
     "geom:longitude":107.599937,
@@ -92,6 +92,9 @@
     "name:ell_x_preferred":[
         "\u0393\u03bf\u03c5\u03ad\u03c3\u03c4 \u03a4\u03b6\u03ac\u03b2\u03b1"
     ],
+    "name:ell_x_variant":[
+        "\u0394\u03c5\u03c4\u03b9\u03ba\u03ae \u0399\u03ac\u03b2\u03b1"
+    ],
     "name:eng_ca_x_preferred":[
         "West Java"
     ],
@@ -116,6 +119,12 @@
     "name:fra_x_preferred":[
         "Java occidental"
     ],
+    "name:frr_x_preferred":[
+        "Waast Jaawa"
+    ],
+    "name:gle_x_preferred":[
+        "I\u00e1va Thiar"
+    ],
     "name:gor_x_preferred":[
         "Jawa Barat"
     ],
@@ -139,6 +148,9 @@
     ],
     "name:hye_x_preferred":[
         "\u0531\u0580\u0587\u0574\u057f\u0575\u0561\u0576 \u0543\u0561\u057e\u0561"
+    ],
+    "name:hyw_x_preferred":[
+        "\u0531\u0580\u0565\u0582\u0574\u057f\u0565\u0561\u0576 \u0543\u0561\u0582\u0561"
     ],
     "name:ilo_x_preferred":[
         "Laud a Java"
@@ -179,6 +191,9 @@
     "name:lrc_x_preferred":[
         "\u062c\u0627\u0648\u0647 \u0627\u0641\u062a\u0648\u0646\u0634\u06cc\u0646"
     ],
+    "name:mad_x_preferred":[
+        "Jh\u00e2b\u00e2 B\u00e2r\u00e2'"
+    ],
     "name:mal_x_preferred":[
         "\u0d2a\u0d1f\u0d3f\u0d1e\u0d4d\u0d1e\u0d3e\u0d31\u0d7b \u0d1c\u0d3e\u0d35"
     ],
@@ -187,6 +202,12 @@
     ],
     "name:min_x_preferred":[
         "Jawa Barat"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0417\u0430\u043f\u0430\u0434\u043d\u0430 \u0408\u0430\u0432\u0430"
+    ],
+    "name:mlg_x_preferred":[
+        "Java Andrefana"
     ],
     "name:mon_x_preferred":[
         "\u04e8\u0440\u043d\u04e9 \u0416\u0430\u0432\u0430"
@@ -224,11 +245,20 @@
     "name:rus_x_preferred":[
         "\u0417\u0430\u043f\u0430\u0434\u043d\u0430\u044f \u042f\u0432\u0430"
     ],
+    "name:sat_x_preferred":[
+        "\u1c6f\u1c5f\u1c6a\u1c6e \u1c61\u1c5f\u1c75\u1c77\u1c5f"
+    ],
     "name:sco_x_preferred":[
         "Wast Java"
     ],
     "name:sin_x_preferred":[
         "\u0db6\u0da7\u0dc4\u0dd2\u0dbb \u0da2\u0dcf\u0dc0\u0dcf \u0db4\u0dc5\u0dcf\u0dad"
+    ],
+    "name:slv_x_preferred":[
+        "Zahodna Java"
+    ],
+    "name:som_x_preferred":[
+        "Jawa Barat,"
     ],
     "name:spa_x_preferred":[
         "Java Occidental"
@@ -280,6 +310,9 @@
     ],
     "name:vec_x_preferred":[
         "\u0120iava Osidental"
+    ],
+    "name:vec_x_variant":[
+        "Java Osidental"
     ],
     "name:vie_x_preferred":[
         "T\u00e2y Java"
@@ -394,17 +427,19 @@
         "gn:id":1642672,
         "gp:id":2345715,
         "hasc:id":"ID.JR",
+        "iso:code":"ID-JB",
         "iso:id":"ID-JB",
         "qs:id":240032,
         "unlc:id":"ID-JB",
         "wd:id":"Q3724",
         "wk:page":"West Java"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7c030bcd0fee29017da7c4dd66fcec23",
+    "wof:geomhash":"911291a235b22744c470f1a49fb97bc4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -420,7 +455,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1636502339,
+    "wof:lastmodified":1695884929,
     "wof:name":"Jawa Barat",
     "wof:parent_id":85632203,
     "wof:placetype":"region",

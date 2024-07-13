@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.139036,
-    "geom:area_square_m":1700143843.887423,
+    "geom:area_square_m":1700143843.887653,
     "geom:bbox":"116.376083,-8.92649,116.764809,-8.241979",
     "geom:latitude":-8.539773,
     "geom:longitude":116.534112,
@@ -31,6 +31,9 @@
     "mps:longitude":116.520674,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Lombok Timur"
+    ],
     "name:ceb_x_preferred":[
         "Kabupaten Lombok Timur"
     ],
@@ -41,13 +44,20 @@
         "Lombok Timur"
     ],
     "name:eng_x_variant":[
-        "LOMBOK TIMUR"
+        "LOMBOK TIMUR",
+        "East Lombok Regency"
     ],
     "name:fra_x_preferred":[
         "Lombok Oriental"
     ],
+    "name:gle_x_preferred":[
+        "Lombok Thoir"
+    ],
     "name:ind_x_preferred":[
         "Lombok Timur"
+    ],
+    "name:ind_x_variant":[
+        "Kabupaten Lombok Timur"
     ],
     "name:ita_x_preferred":[
         "Reggenza di Lombok Est"
@@ -60,6 +70,9 @@
     ],
     "name:msa_x_preferred":[
         "Kabupaten Lombok Timur"
+    ],
+    "name:nan_x_preferred":[
+        "Tang Lombok Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Oost-Lombok"
@@ -114,11 +127,12 @@
         "hasc:id":"ID.NB.LI",
         "wd:id":"Q14115"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"73ed2de30a7908c3cbd40e72aa6aaf04",
+    "wof:geomhash":"8204f7dbf7de388c181c7e7f16c74f5c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -135,7 +149,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614719376,
+    "wof:lastmodified":1695886522,
     "wof:name":"Lombok Timur",
     "wof:parent_id":85672103,
     "wof:placetype":"county",

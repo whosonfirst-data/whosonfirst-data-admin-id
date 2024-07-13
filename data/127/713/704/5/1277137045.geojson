@@ -40,12 +40,17 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        102073359,
-        85671983
+        85671983,
+        102073359
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1646157
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6774094
+        ]
     },
     "wof:country":"ID",
     "wof:geomhash":"c392f887b75e221fd934ce84a456f0dd",
@@ -66,13 +71,15 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614651633,
+    "wof:lastmodified":1706239779,
     "wof:name":"Cirengit",
     "wof:parent_id":102073359,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327194093
+    ],
     "wof:tags":[]
 },
   "bbox": [

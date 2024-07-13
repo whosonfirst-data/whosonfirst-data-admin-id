@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.050331,
-    "geom:area_square_m":621445630.234905,
+    "geom:area_square_m":621445630.234911,
     "geom:bbox":"105.588417,2.35915,106.499802,3.41623",
     "geom:latitude":3.088356,
     "geom:longitude":106.065094,
@@ -26,20 +26,36 @@
     "meso:name_local":"KEPULAUAN ANAMBAS",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ban_x_preferred":[
+        "Kabupat\u00e9n Kepulauan Anambas"
+    ],
     "name:ceb_x_preferred":[
         "Kabupaten Kepulauan Anambas"
+    ],
+    "name:dan_x_preferred":[
+        "Anamba\u00f8erne"
     ],
     "name:eng_x_preferred":[
         "Kepulauan Anambas"
     ],
     "name:eng_x_variant":[
-        "KEPULAUAN ANAMBAS"
+        "KEPULAUAN ANAMBAS",
+        "Anambas Islands Regency"
+    ],
+    "name:fin_x_preferred":[
+        "Anambassaaret"
     ],
     "name:fra_x_preferred":[
         "\u00celes Anambas"
     ],
+    "name:gle_x_preferred":[
+        "Oile\u00e1in Anambas"
+    ],
     "name:ind_x_preferred":[
         "Kepulauan Anambas"
+    ],
+    "name:ind_x_variant":[
+        "Kabupaten Kepulauan Anambas"
     ],
     "name:jav_x_preferred":[
         "Kabupat\u00e8n Kapuloan Anambas"
@@ -50,8 +66,17 @@
     "name:msa_x_preferred":[
         "Kabupaten Kepulauan Anambas"
     ],
+    "name:nan_x_preferred":[
+        "Anambas K\u00fbn-t\u00f3 Ko\u0101n"
+    ],
     "name:swe_x_preferred":[
         "Kabupaten Kepulauan Anambas"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u043d\u0430\u043c\u0431\u0430\u0441"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u5357\u5df4\u65af\u7fa4\u5cf6\u651d\u653f\u7e23"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -77,9 +102,10 @@
         "hasc:id":"ID.KR.KM",
         "wd:id":"Q26759674"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:created":1482878503,
-    "wof:geomhash":"f11640bbc72e9f5333cbe47f67018ca7",
+    "wof:geomhash":"8e530100ee06a152f500af7fc592357f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -96,7 +122,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1627522192,
+    "wof:lastmodified":1695886671,
     "wof:name":"Kepulauan Anambas",
     "wof:parent_id":85672049,
     "wof:placetype":"county",

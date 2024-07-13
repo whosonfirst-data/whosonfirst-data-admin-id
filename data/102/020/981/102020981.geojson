@@ -9,8 +9,19 @@
     "geom:bbox":"108.475445,-7.431427,108.592427,-7.337085",
     "geom:latitude":-7.372684,
     "geom:longitude":108.537002,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Banjar",
+    "gn:country_code":"ID",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":1650233,
     "gn:latitude":-7.3688,
     "gn:longitude":108.5329,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Banjar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jakarta",
     "iso:country":"ID",
     "lbl:latitude":-7.367477,
     "lbl:longitude":108.533006,
@@ -18,11 +29,15 @@
     "mps:longitude":108.533006,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:ara_x_preferred":[
         "\u0628\u0646\u062c\u0631"
     ],
     "name:aze_x_preferred":[
         "Bancar"
+    ],
+    "name:ban_x_preferred":[
+        "Kota Banjar"
     ],
     "name:ben_x_preferred":[
         "\u09ac\u09be\u09a8\u099c\u09be\u09b0"
@@ -51,10 +66,22 @@
     "name:eng_x_preferred":[
         "Banjar"
     ],
+    "name:eng_x_variant":[
+        "Banjar City"
+    ],
+    "name:epo_x_preferred":[
+        "Banjar"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0646\u062c\u0627\u0631"
+    ],
     "name:fin_x_preferred":[
         "Banjar"
     ],
     "name:fra_x_preferred":[
+        "Banjar"
+    ],
+    "name:gle_x_preferred":[
         "Banjar"
     ],
     "name:guj_x_preferred":[
@@ -65,6 +92,9 @@
     ],
     "name:ind_x_preferred":[
         "Banjar"
+    ],
+    "name:ind_x_variant":[
+        "Kota Banjar"
     ],
     "name:ita_x_preferred":[
         "Banjar"
@@ -90,6 +120,9 @@
     "name:mar_x_preferred":[
         "\u092c\u0928\u091d\u093e\u0930"
     ],
+    "name:min_x_preferred":[
+        "Kota Banjar"
+    ],
     "name:mlg_x_preferred":[
         "Kota Banjar"
     ],
@@ -107,6 +140,12 @@
     ],
     "name:oci_x_preferred":[
         "Banjar"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a2c\u0a70\u0a1c\u0a30"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0628\u0646\u062c\u0631"
     ],
     "name:pol_x_preferred":[
         "Banjar"
@@ -129,6 +168,9 @@
     "name:tam_x_preferred":[
         "\u0baa\u0b9e\u0bcd\u0b9a\u0bbe\u0bb0\u0bcd"
     ],
+    "name:tat_x_preferred":[
+        "\u0411\u0430\u043d\u0497\u0430\u0440"
+    ],
     "name:tel_x_preferred":[
         "\u0c2c\u0c02\u0c1c\u0c3e\u0c30\u0c4d"
     ],
@@ -141,14 +183,25 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u043d\u0434\u0436\u0430\u0440"
     ],
+    "name:und_x_variant":[
+        "Bandjar",
+        "Bandar",
+        "Banjar"
+    ],
     "name:unk_x_variant":[
         "Bandjar"
     ],
     "name:urd_x_preferred":[
         "\u0628\u0646\u062c\u0631"
     ],
+    "name:vec_x_preferred":[
+        "Banjar"
+    ],
     "name:vie_x_preferred":[
         "Banjar"
+    ],
+    "name:zho_x_preferred":[
+        "\u73ed\u8d3e\u5c14"
     ],
     "qs:a1":"*",
     "qs:a1r":"*",
@@ -179,6 +232,14 @@
         "wd:id":"Q10391",
         "wk:page":"Banjar, West Java"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1650233
+        ],
+        "wk:page":[
+            "Banjar%2C_West_Java"
+        ]
+    },
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -201,13 +262,15 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1617131071,
+    "wof:lastmodified":1706239768,
     "wof:name":"Banjar",
     "wof:parent_id":102073191,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343907787
+    ],
     "wof:tags":[]
 },
   "bbox": [

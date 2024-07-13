@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.19191,
-    "geom:area_square_m":14732165026.337942,
+    "geom:area_square_m":14732165026.338041,
     "geom:bbox":"123.104439,0.27141,127.146568,5.56854",
     "geom:latitude":1.262266,
     "geom:longitude":124.52557,
@@ -107,6 +107,9 @@
     "name:fra_x_preferred":[
         "Sulawesi du Nord"
     ],
+    "name:frr_x_preferred":[
+        "Sulawesi Utara"
+    ],
     "name:gle_x_preferred":[
         "An tSulaiv\u00e9is Thuaidh"
     ],
@@ -187,6 +190,9 @@
     ],
     "name:nan_x_preferred":[
         "Pak Sulawesi"
+    ],
+    "name:nan_x_variant":[
+        "Pak Sulawesi S\u00e9ng"
     ],
     "name:nld_x_preferred":[
         "Noord-Celebes"
@@ -365,17 +371,19 @@
         "gn:id":1626229,
         "gp:id":28350156,
         "hasc:id":"ID.SW",
+        "iso:code":"ID-SA",
         "iso:id":"ID-SA",
         "qs:id":25731,
         "unlc:id":"ID-SA",
         "wd:id":"Q5068",
         "wk:page":"North Sulawesi"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f87038acfa6f65b3b425ca726d9e3f8c",
+    "wof:geomhash":"1933106acefef52717c3a20488be1c85",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -391,7 +399,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1636502343,
+    "wof:lastmodified":1695884931,
     "wof:name":"Sulawesi Utara",
     "wof:parent_id":85632203,
     "wof:placetype":"region",

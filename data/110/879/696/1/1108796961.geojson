@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.349462,
-    "geom:area_square_m":4321115965.130713,
+    "geom:area_square_m":4321115965.130412,
     "geom:bbox":"99.166275,-0.176157,100.062927,0.55208",
     "geom:latitude":0.227262,
     "geom:longitude":99.705944,
     "iso:country":"ID",
+    "label:eng_x_preferred_longname":[
+        "Kota Pasaman Barat Regency"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "regency"
+    ],
     "lbl:latitude":0.235657,
     "lbl:longitude":99.773319,
     "meso:admin_1":"SUMATERA BARAT",
@@ -40,9 +46,10 @@
     "wof:concordances":{
         "hasc:id":"ID.SB.PB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:created":1482878630,
-    "wof:geomhash":"973016113717a5c9f7a1c18fc3993536",
+    "wof:geomhash":"2264ca99f443ba390bbaaa51f9dd3375",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -59,7 +66,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1627522194,
+    "wof:lastmodified":1695886674,
     "wof:name":"Kota Pasaman Barat",
     "wof:parent_id":85672087,
     "wof:placetype":"county",

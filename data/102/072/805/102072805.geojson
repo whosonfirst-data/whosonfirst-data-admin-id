@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010909,
-    "geom:area_square_m":134264741.73528,
+    "geom:area_square_m":134264741.735261,
     "geom:bbox":"95.2771,5.480804,95.423317,5.60179",
     "geom:latitude":5.54146,
     "geom:longitude":95.343904,
@@ -49,14 +49,26 @@
     "name:azb_x_preferred":[
         "\u0628\u0627\u0646\u062f\u0627 \u0622\u0686\u0647"
     ],
+    "name:aze_x_preferred":[
+        "Banda-A\u00e7ex"
+    ],
+    "name:ban_x_preferred":[
+        "Banda Aceh"
+    ],
     "name:bar_x_preferred":[
         "Banda Aceh"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0411\u0430\u043d\u0434\u0430-\u0410\u0447\u044d\u0445"
     ],
+    "name:bel_x_variant":[
+        "\u0411\u0430\u043d\u0434\u0430-\u0410\u0447\u044d\u0445"
+    ],
     "name:ben_x_preferred":[
         "\u09ac\u09be\u09a8\u09cd\u09a1\u09be \u0986\u099a\u09c7\u09b9"
+    ],
+    "name:ben_x_variant":[
+        "\u09ac\u09be\u09a8\u09cd\u09a6\u09be \u0986\u099a\u09c7\u09b9"
     ],
     "name:bre_x_preferred":[
         "Banda Aceh"
@@ -92,7 +104,8 @@
         "Banda Aceh"
     ],
     "name:eng_x_variant":[
-        "KOTA BANDAACEH"
+        "KOTA BANDAACEH",
+        "Banda Aceh City"
     ],
     "name:epo_x_preferred":[
         "Banda Aceh"
@@ -145,6 +158,9 @@
     "name:heb_x_preferred":[
         "\u05d1\u05e0\u05d3\u05d4 \u05d0\u05e1\u05d0\u05d7"
     ],
+    "name:heb_x_variant":[
+        "\u05d1\u05e0\u05d3\u05d4 \u05d0\u05e6'\u05d4"
+    ],
     "name:hin_x_preferred":[
         "\u092c\u093e\u0928\u094d\u0926\u093e \u0906\u091a\u0947\u0939"
     ],
@@ -165,6 +181,9 @@
     ],
     "name:ind_x_preferred":[
         "Banda Aceh"
+    ],
+    "name:ind_x_variant":[
+        "Kota Banda Aceh"
     ],
     "name:isl_x_preferred":[
         "Banda Aceh"
@@ -216,6 +235,9 @@
     ],
     "name:mlg_x_preferred":[
         "Kota Banda Aceh"
+    ],
+    "name:mlt_x_preferred":[
+        "Banda Aceh"
     ],
     "name:msa_x_preferred":[
         "Banda Aceh"
@@ -295,6 +317,9 @@
     "name:srd_x_preferred":[
         "Banda Aceh"
     ],
+    "name:srp_x_preferred":[
+        "\u0411\u0430\u043d\u0434\u0430-\u0410\u045b\u0435\u0445"
+    ],
     "name:sun_x_preferred":[
         "Kota Banda Ac\u00e9h"
     ],
@@ -307,8 +332,14 @@
     "name:tam_x_preferred":[
         "\u0baa\u0ba3\u0bcd\u0b9f\u0bbe \u0b85\u0b9a\u0bcd\u0b9a\u0bc7"
     ],
+    "name:tat_x_preferred":[
+        "\u0411\u0430\u043d\u0434\u0430-\u0410\u0447\u0435\u04bb"
+    ],
     "name:tel_x_preferred":[
         "\u0c2c\u0c3e\u0c02\u0c21\u0c3e \u0c06\u0c1a\u0c46\u0c39\u0c4d"
+    ],
+    "name:tgl_x_preferred":[
+        "Banda Aceh"
     ],
     "name:tha_x_preferred":[
         "\u0e1a\u0e31\u0e19\u0e14\u0e32\u0e2d\u0e32\u0e40\u0e08\u0e30\u0e2e\u0e4c"
@@ -390,11 +421,12 @@
         "hasc:id":"ID.AC.BA",
         "wd:id":"Q5779"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ID",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4ff660c129aaa72f35f3280b47331d3f",
+    "wof:geomhash":"2f1b7cdc62623a39d979fc244b782bc8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -411,7 +443,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1636502309,
+    "wof:lastmodified":1695886062,
     "wof:name":"Banda Aceh",
     "wof:parent_id":85671973,
     "wof:placetype":"county",

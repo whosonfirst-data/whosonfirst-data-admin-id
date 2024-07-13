@@ -9,15 +9,31 @@
     "geom:bbox":"117.3681,-8.4637,117.3681,-8.4637",
     "geom:latitude":-8.4637,
     "geom:longitude":117.3681,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Labuhanbadas",
     "gn:country":"ID",
+    "gn:country_code":"ID",
+    "gn:dem":20,
     "gn:fcode":"PPLA4",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7556010,
+    "gn:latitude":-8.4637,
+    "gn:longitude":117.3681,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Labuhanbadas",
     "gn:pop":0,
+    "gn:population":0,
+    "gn:timezone":"Asia/Makassar",
     "iso:country":"ID",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":13.0,
     "name:ace_x_preferred":[
         "Labuhan Badas"
+    ],
+    "name:ceb_x_preferred":[
+        "Desa Labuhanbadas"
     ],
     "name:deu_x_preferred":[
         "Labuhan Badas"
@@ -49,6 +65,9 @@
     "name:spa_x_preferred":[
         "Labuhan Badas"
     ],
+    "name:swe_x_preferred":[
+        "Desa Labuhanbadas"
+    ],
     "name:unk_x_variant":[
         "Badas"
     ],
@@ -60,8 +79,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        102072655,
-        85672103
+        85672103,
+        102072655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -69,6 +88,11 @@
         "gp:id":1048437,
         "qs:id":1030861,
         "wd:id":"Q12493356"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7556010
+        ]
     },
     "wof:country":"ID",
     "wof:created":1469055099,
@@ -90,14 +114,16 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614653744,
+    "wof:lastmodified":1706239772,
     "wof:name":"Labuhanbadas",
     "wof:parent_id":102072655,
     "wof:placetype":"locality",
     "wof:population":0,
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343424495
+    ],
     "wof:tags":[]
 },
   "bbox": [

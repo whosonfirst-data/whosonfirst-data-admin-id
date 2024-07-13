@@ -29,11 +29,17 @@
     "name:eng_x_preferred":[
         "patrol"
     ],
+    "name:est_x_preferred":[
+        "Patrull"
+    ],
     "name:fas_x_preferred":[
         "\u06af\u0634\u062a"
     ],
     "name:fin_x_preferred":[
         "vartio"
+    ],
+    "name:fin_x_variant":[
+        "partio"
     ],
     "name:fra_x_preferred":[
         "Patrouille"
@@ -53,6 +59,9 @@
     "name:jpn_x_preferred":[
         "\u65a5\u5019"
     ],
+    "name:jpn_x_variant":[
+        "\u30d1\u30c8\u30ed\u30fc\u30eb"
+    ],
     "name:kaz_x_preferred":[
         "\u041f\u0430\u0442\u0440\u0443\u043b\u044c"
     ],
@@ -71,8 +80,17 @@
     "name:rus_x_preferred":[
         "\u041f\u0430\u0442\u0440\u0443\u043b\u044c"
     ],
+    "name:srp_x_preferred":[
+        "\u041f\u0430\u0442\u0440\u043e\u043b\u0430"
+    ],
     "name:swe_x_preferred":[
         "Patrull"
+    ],
+    "name:swe_x_variant":[
+        "patrull"
+    ],
+    "name:tur_x_preferred":[
+        "Devriye"
     ],
     "name:ukr_x_preferred":[
         "\u041f\u0430\u0442\u0440\u0443\u043b\u044c"
@@ -92,8 +110,8 @@
     "wof:belongsto":[
         102191569,
         85632203,
-        102073193,
-        85671983
+        85671983,
+        102073193
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -123,7 +141,7 @@
         "ind",
         "eng"
     ],
-    "wof:lastmodified":1614653721,
+    "wof:lastmodified":1690931499,
     "wof:name":"Patrol",
     "wof:parent_id":102073193,
     "wof:placetype":"locality",
