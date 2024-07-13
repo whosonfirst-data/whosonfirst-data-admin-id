@@ -15,16 +15,16 @@
     "gn:dem":47,
     "gn:feature_class":"P",
     "gn:feature_code":"PPL",
-    "gn:geonameid":7030346,
+    "gn:geonameid":12493528,
     "gn:latitude":0.4507,
     "gn:longitude":124.4356,
-    "gn:modification_date":"2012-01-20",
+    "gn:modification_date":"2012-07-17",
     "gn:name":"Modisi",
-    "gn:population":0,
+    "gn:population":560,
     "gn:timezone":"Asia/Makassar",
     "iso:country":"ID",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Modisi"
@@ -36,7 +36,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":7030346
+        "gn:id":12493528
+        "wd:id":Q12498724
+        "osm:id":14437352
     },
     "wof:country":"ID",
     "wof:geomhash":"63f0913befa607983b63e76a4e8dfa63",
@@ -44,8 +46,9 @@
         {
             "continent_id":102191569,
             "country_id":85632203,
+            "county_id":1108796945,
             "locality_id":1293516291,
-            "region_id":-1
+            "region_id":85672081,
         }
     ],
     "wof:id":1293516291,
@@ -58,7 +61,7 @@
     ],
     "wof:lastmodified":1614636050,
     "wof:name":"Modisi",
-    "wof:parent_id":-1,
+    "wof:parent_id":1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-id",
     "wof:superseded_by":[],
@@ -71,5 +74,5 @@
     124.4356,
     0.4507
 ],
-  "geometry": {"coordinates":[124.43559999999999,0.4507],"type":"Point"}
+  "geometry": {"coordinates":[124.43559999999999,0.4507],"type":"Titik"}
 }
