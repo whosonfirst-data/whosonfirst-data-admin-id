@@ -1,0 +1,75 @@
+{
+  "id": 9895092908,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.73833,-6.34278,106.73833,-6.34278",
+    "geom:latitude":-6.34278,
+    "geom:longitude":106.73833,
+    "gn:population":174557,
+    "iso:country":"ID",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 1632937: name \"Pamulang\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/1632937"
+        },
+        {
+            "citation":"GeoNames populated place 1632937: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/1632937"
+        },
+        {
+            "citation":"GeoNames populated place 1632937: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/1632937"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102072687 (Tangerang), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632203,
+        85671995,
+        102072687,
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1632937
+    },
+    "wof:country":"ID",
+    "wof:geomhash":"7edbd0bc253b8e280e33fe0280dd6284",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102072687,
+            "locality_id":9895092908,
+            "region_id":85671995
+        }
+    ],
+    "wof:id":9895092908,
+    "wof:lastmodified":1795747323,
+    "wof:name":"Pamulang",
+    "wof:parent_id":102072687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.73833,
+    -6.34278,
+    106.73833,
+    -6.34278
+],
+  "geometry": {"coordinates":[106.73833,-6.34278],"type":"Point"}
+}
