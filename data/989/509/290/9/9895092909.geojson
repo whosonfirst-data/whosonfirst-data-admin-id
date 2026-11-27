@@ -1,0 +1,75 @@
+{
+  "id": 9895092909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.30093,1.36259,109.30093,1.36259",
+    "geom:latitude":1.36259,
+    "geom:longitude":109.30093,
+    "gn:population":57295,
+    "iso:country":"ID",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13405902: name \"Kota Sambas\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13405902"
+        },
+        {
+            "citation":"GeoNames populated place 13405902: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13405902"
+        },
+        {
+            "citation":"GeoNames populated place 13405902: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13405902"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102073541 (Sambas), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632203,
+        85672005,
+        102073541,
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13405902
+    },
+    "wof:country":"ID",
+    "wof:geomhash":"cd44f1f7b4f576ecde5c0f6d5c1858ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102073541,
+            "locality_id":9895092909,
+            "region_id":85672005
+        }
+    ],
+    "wof:id":9895092909,
+    "wof:lastmodified":1795747323,
+    "wof:name":"Kota Sambas",
+    "wof:parent_id":102073541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-id",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.30093,
+    1.36259,
+    109.30093,
+    1.36259
+],
+  "geometry": {"coordinates":[109.30093,1.36259],"type":"Point"}
+}
